@@ -1,0 +1,55 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-2023-02-06-150",
+ "dokumentid": "DEL/forskrift/2023-02-06-150",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Skattedirektoratet"
+ ],
+ "ikraft": "2023-02-06",
+ "hjemmel": [
+  {
+   "ref": "lov/2009-06-19-58/§7-8",
+   "tekst": "lov/2009-06-19-58/§7-8"
+  },
+  {
+   "ref": "forskrift/2022-10-27-1802",
+   "tekst": "forskrift/2022-10-27-1802"
+  }
+ ],
+ "kunngjort": "2023-02-07 14:55",
+ "tittel": "Delegering av Skattedirektoratets myndighet etter merverdiavgiftsloven § 7-8 til skattekontorene",
+ "annet": "Hjemmel: Fastsatt av Skattedirektoratet 6. februar 2023 med hjemmel i lov 19. juni 2009 nr. 58 om merverdiavgift (merverdiavgiftsloven) § 7-8 og delegeringsvedtak 27. oktober 2022 nr. 1802.",
+ "refid": "forskrift/2023-02-06-150",
+ "eli": "/eli/forskrift/2023/02/06/150",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/2023-02-06-150",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Skattedirektoratets myndighet til å treffe enkeltvedtak etter merverdiavgiftsloven § 7-8 delegeres til skattekontorene."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Delegeringen trer i kraft straks."
+    }
+   ]
+  }
+ ]
+}

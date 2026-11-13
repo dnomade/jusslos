@@ -1,0 +1,54 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-2001-10-18-1195",
+ "dokumentid": "DEL/forskrift/2001-10-18-1195",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Skattelovavd."
+ ],
+ "kunngjort_i": "I 2001 hefte 13",
+ "ikraft": "2001-10-18",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1959-06-19-2/§8",
+   "tekst": "lov/1959-06-19-2/§8"
+  }
+ ],
+ "kunngjort": "2001-10-23",
+ "korttittel": "Deleg. av myndighet til Toll- og avgiftsdir.",
+ "tittel": "Delegering av myndighet til Toll- og avgiftsdirektoratet etter lov om avgifter vedrørende motorkjøretøyer og båter § 8.",
+ "annet": "Fastsatt av Finansdepartementet 18. oktober 2001 med hjemmel i lov av 19. juni 1959 nr. 2 om avgifter vedrørende motorkjøretøyer og båter § 8.",
+ "refid": "forskrift/2001-10-18-1195",
+ "eli": "/eli/forskrift/2001/10/18/1195",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/2001-10-18-1195",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Finansdepartementet delegerer med dette sin myndighet til å fatte vedtak om helt eller delvis frafallelse av avgift etter lov av 19. juni 1959 nr. 2 om avgifter vedrørende motorkjøretøyer og båter § 8 til Toll- og avgiftsdirektoratet."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Toll- og avgiftsdirektoratet gis innenfor sin tildelte fullmakt myndighet til å videredelegere fullmakten etter del I til tolldistriktssjefene. Direktoratet skal gi nærmere retningslinjer for dette."
+    }
+   ]
+  }
+ ]
+}

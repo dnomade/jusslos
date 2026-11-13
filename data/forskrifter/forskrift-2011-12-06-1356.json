@@ -1,0 +1,1175 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2011-12-06-1356",
+ "dokumentid": "SF/forskrift/2011-12-06-1356",
+ "departement": [
+  "Arbeids- og inkluderingsdepartementet"
+ ],
+ "etat": [
+  "Arbeidsmiljø- og sikkerhetsavdelingen, Direktoratet for Arbeidstilsynet"
+ ],
+ "kunngjort_i": "I 2011 hefte 14",
+ "ikraft": "2013-01-01",
+ "siste_endring_ikraft": "2026-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2025-12-16-2617",
+   "tekst": "forskrift/2025-12-16-2617 fra 2026-01-01"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2005-06-17-62/§1-2",
+   "tekst": "lov/2005-06-17-62/§1-2"
+  },
+  {
+   "ref": "lov/2005-06-17-62/§1-3",
+   "tekst": "lov/2005-06-17-62/§1-3"
+  },
+  {
+   "ref": "lov/2005-06-17-62/§1-4",
+   "tekst": "lov/2005-06-17-62/§1-4"
+  },
+  {
+   "ref": "lov/2005-06-17-62/§4-1",
+   "tekst": "lov/2005-06-17-62/§4-1"
+  },
+  {
+   "ref": "lov/2005-06-17-62/§4-3",
+   "tekst": "lov/2005-06-17-62/§4-3"
+  },
+  {
+   "ref": "lov/2005-06-17-62/§4-4",
+   "tekst": "lov/2005-06-17-62/§4-4"
+  },
+  {
+   "ref": "lov/2005-06-17-62/§4-5",
+   "tekst": "lov/2005-06-17-62/§4-5"
+  },
+  {
+   "ref": "lov/2005-06-17-62/§18-1",
+   "tekst": "lov/2005-06-17-62/§18-1"
+  },
+  {
+   "ref": "lov/2005-06-17-62/§18-3",
+   "tekst": "lov/2005-06-17-62/§18-3"
+  },
+  {
+   "ref": "forskrift/2021-06-29-2280",
+   "tekst": "forskrift/2021-06-29-2280"
+  }
+ ],
+ "kunngjort": "2011-12-28 14:05",
+ "siste_rettelse": "2020-08-11 (§ 5-7 nr. 4 tekst til det siste bildet)",
+ "korttittel": "Arbeidsplassforskriften",
+ "tittel": "Forskrift om utforming og innretning av arbeidsplasser, arbeidslokaler og innkvartering (arbeidsplassforskriften)",
+ "annet": "Hjemmel: Fastsatt av Arbeidsdepartementet 6. desember 2011 med hjemmel i lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid, stillingsvern mv. (arbeidsmiljøloven) § 1-2, § 1-3 tredje ledd, § 1-4, § 4-1 første til fjerde ledd, § 4-3 første, andre, fjerde og femte ledd, § 4-4 femte ledd, § 4-5 første ledd, § 18-1 og § 18-3 andre ledd.\nEØS-henvisninger: EØS-avtalen vedlegg XVIII nr. 9 (direktiv 89/654/EØF), nr. 10 (direktiv 2009/104/EF), nr. 13 (direktiv 90/270/EØF), nr. 14a (direktiv 2004/37/EF endret ved direktiv 2014/27/EU og direktiv (EU) 2022/431), nr. 15 (direktiv 2000/54/EF), nr. 16b (direktiv 92/57/EØF), nr. 16c (direktiv 92/58/EØF endret ved direktiv 2014/27/EU), nr. 16f (direktiv 92/104/EØF), nr. 16h (direktiv 98/24/EF endret ved direktiv 2014/27/EU) og nr. 16jb (direktiv 2003/10/EF).\nTilføyd hjemmel: Delegeringsvedtak 29. juni 2021 nr. 2280.\nEndret ved forskrifter 19 des 2012 nr. 1372, 4 jan 2013 nr. 10, 30 des 2013 nr. 1719, 26 juni 2015 nr. 798, 21 juni 2016 nr. 759, 17 nov 2016 nr. 1338, 22 des 2016 nr. 1856, 18 april 2017 nr. 473, 20 des 2018 nr. 2184, 19 juni 2020 nr. 1265 (i kraft 1 juli 2020), 15 des 2021 nr. 3563 (i kraft 1 jan 2022), 23 juni 2023 nr. 1099 (i kraft 1 juli 2023), 18 des 2023 nr. 2278 (i kraft 1 jan 2024), 5 april 2024 nr. 571, 10 april 2024 nr. 616 (i kraft 1 juni 2024, bl.a tittel), 7 okt 2025 nr. 1992, 16 des 2025 nr. 2617 (i kraft 1 jan 2026).\nRettelser: 28.01.2015 (EØS-henvisninger), 27.05.2015 (§ 1-4 første ledd nr. 2), 05.07.2016 (§ 5-7 nr. 2 oppdatert bilde), 11.08.2020 (§ 5-7 nr. 4 tekst til det siste bildet).",
+ "refid": "forskrift/2011-12-06-1356",
+ "eli": "/eli/forskrift/2011/12/06/1356",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2011-12-06-1356",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1-1",
+     "tittel": "Formål",
+     "ledd": [
+      "Forskriftens formål er å sikre at arbeidstakernes sikkerhet, helse og velferd ivaretas ved at:\na. arbeidsplasser og arbeidslokaler tilrettelegges og utformes i forhold til arbeidet som utføres, den enkelte arbeidstaker og til særskilte risikoforhold.\nb. innkvartering som arbeidsgiver stiller til rådighet for arbeidstaker er forsvarlig utført, innredet og vedlikeholdt."
+     ],
+     "endringer": [
+      "Endret ved forskrift 10 april 2024 nr. 616 (i kraft 1 juni 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 1-2",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Forskriften gjelder for alle faste og midlertidige arbeidsplasser, atkomstveier og for nye og eksisterende arbeidslokaler. Forskriftens kapittel 3A gjelder for innkvartering som arbeidsgiver stiller til rådighet for arbeidstaker.",
+      "Forskriftens § 2-10 og kapittel 9 gjelder ikke for petroleumsvirksomhet til havs og for virksomhet på landanlegg som nevnt i rammeforskriften § 6 bokstav e. Forskriftens § 2-22, § 2-23, kapittel 3A og § 6-5 gjelder ikke for petroleumsvirksomhet til havs.",
+      "For Svalbard får denne forskriften anvendelse med mindre annet følger av forskrift 18. januar 1993 nr. 33 om kullgruvene på Svalbard."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 19 des 2012 nr. 1372 (i kraft 1 jan 2013), 10 april 2024 nr. 616 (i kraft 1 juni 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 1-3",
+     "tittel": "Hvem forskriften retter seg mot",
+     "ledd": [
+      "Arbeidsgiver skal sørge for at bestemmelsene i denne forskriften blir gjennomført.",
+      "For virksomheter som ikke sysselsetter arbeidstakere, gjelder følgende bestemmelser:\n- kapittel 4 Sikkerhetsutrustning\n- kapittel 5 Skilting og merking\n- § 6-5 Sikring mot fall\n- kapittel 7 Kjemikalier og forurensning i arbeidsatmosfæren og\n- kapittel 8 Arbeid i omgivelser som kan medføre eksponering for biologiske faktorer.",
+      "For virksomheter i jordbruk og skogbruk som ikke sysselsetter arbeidstakere gjelder i tillegg til foregående ledd følgende:\n- § 2-11 Belysning\n- § 2-14 Klima, ventilasjon, luftkvalitet mv.\n- § 2-18 Ferdsel og atkomst\n- § 2-20 Lasteramper, lasteplasser, tippsteder og kaier\n- § 2-21 Rømningsveier og nødutganger\n- § 3-7 Toaletter\n- § 3-10 Førstehjelpsrom og førstehjelpsutstyr.",
+      "For utleiere av arbeidslokaler og kaianlegg gjelder følgende:\n- kapittel 2 Krav til arbeidsplasser og arbeidslokaler,\n- kapittel 3 Krav til personalrom, rom for renholdsutstyr, førstehjelpsrom og førstehjelpsutstyr,\n- § 4-2 Rømnings- og redningsutstyr, første, andre, fjerde og femte ledd,\n- § 4-3 Brannforebygging, eksplosjonsforebygging og brannslokkingsutstyr, første ledd,\n- § 6-5 Sikring mot fall, og\n- § 8-1 Arbeidsplasser med biologisk helserisiko."
+     ],
+     "endringer": [
+      "Endret ved forskrift 15 des 2021 nr. 3563 (i kraft 1 jan 2022)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 1-4",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "I denne forskriften menes med:\n1. arbeidslokaler: rom som virksomheten bruker i forbindelse med arbeidet slik som arbeidsrom, personalrom, atkomstarealer med mer\n2. arbeidsplass: ethvert sted, innendørs, utendørs eller under jord hvor det utføres arbeid av fast eller midlertidig karakter\n3. arbeidsrom: rom der arbeidstakere skal oppholde seg for å utføre arbeid som inngår i virksomhetens faste aktiviteter\n4. arbeidsutstyr: tekniske innretninger o.l. som maskiner, løfteredskap, sikkerhetskomponenter, beholdere, transportinnretninger, apparater, installasjoner, verktøy og enhver annen gjenstand som nyttes ved fremstilling av et produkt eller ved utførelse av arbeid\n5. atkomstvei: atkomstvei omfatter veier, trapper, korridorer, heis mv. som benyttes av arbeidstakere for å komme seg til arbeidsplasser eller mellom arbeidsplasser og personalrom\n6. biologiske faktorer: levende eller døde mikroorganismer, cellekulturer, endoparasitter og prioner som kan fremkalle infeksjoner, allergi eller giftvirkning hos mennesker\n7. lydsignal: kodet lydsignal som utløses og overføres ved hjelp av en innretning som er konstruert for dette formålet, uten bruk av en menneskelig eller kunstig stemme\n8. lyssignal: et signal som utsendes gjennom en innretning som er konstruert for belysning fra innsiden eller baksiden på en måte som gjør at overflaten er opplyst\n9. personalrom: garderobe, tørkerom, vaskerom, dusjrom, toalett, spiserom, hvilerom, pauserom og soverom\n10. prosessavsug: innretning som fjerner forurenset luft nær kilden før forurensningen spres til omgivelsene\n11. risiko: en funksjon av sannsynligheten for at en uønsket hendelse kan inntreffe og konsekvensen for arbeidstakernes liv eller helse\n12. sikkerhetsskilting: skilt som med form, symboler, farger og eventuelt tekst gir opplysninger og instruksjoner om hvordan man skal forholde seg til forskjellige situasjoner med hensyn til sikkerhet eller helse\n13. stråleinnretning: et samlebegrep for innretninger som styrer væskestrålens retning. Den omfatter dyse, forlengelsesrør, holde- og støtteanordning og ventilinnretning for å kontrollere gjennomstrømming av væske. Væskestrålens trykk er høyere enn 25 Bar\n14. varmt arbeid: arbeid hvor det nyttes varme, for eksempel åpen ild, varmeflater, og tenningsdyktige gnister. Varmt arbeid omfatter også arbeidsoperasjoner som sveising, lodding, skjærbrenning og sliping av metall mv. hvor det i tillegg kan utvikles helsefarlig gass\n15. varselfarger: farger som har en bestemt betydning og som varsler om farlige forhold."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-5",
+     "nummer": "§ 1-5",
+     "tittel": "Dispensasjon",
+     "ledd": [
+      "Arbeidstilsynet, Havindustritilsynet og Luftfartstilsynet kan på sine områder gi dispensasjon fra forskriften dersom det foreligger særlige grunner, det er sikkerhets- og helsemessig forsvarlig, og det ikke strider mot EØS-avtalen."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 19 des 2012 nr. 1372 (i kraft 1 jan 2013), 20 des 2018 nr. 2184 (i kraft 1 jan 2019), 18 des 2023 nr. 2278 (i kraft 1 jan 2024)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Krav til arbeidsplasser og arbeidslokaler",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 2-1",
+     "tittel": "Utforming og innredning av arbeidsplasser og arbeidslokaler",
+     "ledd": [
+      "Arbeidslokaler og atkomsten til lokaler skal være utformet og innredet med sikte på den virksomheten og de arbeidsplassene som skal finnes i lokalet og ha en tilfredsstillende velferdsmessig standard.",
+      "Arbeidsplasser skal være dimensjonert, innrettet og tilpasset arbeidets art, arbeidsutstyret og den enkelte arbeidstaker. Gulvarealet skal være så stort at det blir tilstrekkelig fri plass til gode og varierte arbeidsstillinger og bevegelser, og slik at arbeidet og bruk av arbeidsutstyr ikke medfører fare for sikkerhet og helse.",
+      "Arbeidsutstyr skal plasseres og oppstilles slik i forhold til omgivelsene at utførelse av arbeid, samt bruk og vedlikehold av arbeidsutstyr ikke medfører fare for sikkerhet og helse.",
+      "Fundamenter og festeanordninger for arbeidsutstyr skal være slik at innretningen er stabil.",
+      "Arbeidsplasser, arbeidsutstyr og prosesser skal avskjermes mot omgivelsene når det utføres arbeid som kan innebære belastning, fare eller helserisiko for andre arbeidstakere for eksempel på grunn av lys, stråling, sprut, støy eller luftforurensning.",
+      "Ved utforming og innredning av arbeidsplasser og arbeidslokaler skal det tas særlig hensyn til fare for vold og trusler."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 17 nov 2016 nr. 1338 (i kraft 1 jan 2017), 16 des 2025 nr. 2617 (i kraft 1 jan 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 2-2",
+     "tittel": "Arbeidsstol",
+     "ledd": [
+      "Arbeidsstolen skal være stø, gi brukeren bevegelsesfrihet og muliggjøre en stabil og bekvem stilling. Stolen skal om nødvendig motvirke overføring av vibrasjoner.",
+      "Ved fare for uheldig muskelbelastning, for eksempel ved arbeid med dataskjerm, skal stolsetet være regulerbart i høyden og stolryggen være regulerbar i høyde og skråstilling. Om nødvendig skal stolsetet også være regulerbart i dybden.",
+      "En fotstøtte skal stilles til rådighet for dem som ønsker det.",
+      "Underarmsstøtte skal ved behov kunne påmonteres."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 2-3",
+     "tittel": "Arbeidsbord",
+     "ledd": [
+      "Arbeidsbord og arbeidsbenker skal være tilstrekkelig store slik at det er mulig med en hensiktsmessig og fleksibel plassering av arbeidsutstyret.",
+      "Ved fare for uheldig muskelbelastning, for eksempel ved arbeid med dataskjerm, skal det være tilstrekkelig plass for støtte til underarmer og hender.",
+      "Arbeidshøyden skal kunne tilpasses gode arbeidsstillinger."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 2-4",
+     "tittel": "Arbeidstakere med nedsatt funksjonsevne",
+     "ledd": [
+      "Faste arbeidsplasser skal være utformet, dimensjonert og innredet slik at det tas hensyn til at arbeidstakere med nedsatt funksjonsevne skal kunne arbeide i virksomheten.",
+      "Personalrom skal være utformet og plassert slik at det i nødvendig utstrekning tas hensyn til at arbeidstakere med nedsatt funksjonsevne skal kunne arbeide i virksomheten.",
+      "Det skal spesielt tas hensyn til atkomstveier, mekanisk personbefordring, dører, dusjer, håndvasker og toaletter."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 2-5",
+     "tittel": "Sikkerhet ved renhold, vedlikehold, montering, mv.",
+     "ledd": [
+      "Bygninger, bygningselementer og installasjoner skal være slik utformet, plassert og innredet slik at vedlikehold og renhold kan foregå farefritt.",
+      "Vinduer, takvinduer og ventilasjonssystemer som kan åpnes eller reguleres, skal kunne betjenes på en sikker måte og være slik utformet og plassert at de ikke utgjør en fare for arbeidstakerne når de er åpne.",
+      "Før det settes i gang arbeid med montering, justering, kontroll og ettersyn av bygning eller tekniske installasjoner, skal det være sikker atkomst og nødvendig fri høyde og bredde. Atkomst til tak skal fortrinnsvis være gjennom dør eller luke.",
+      "Bygningsdeler, takvinduer eller konstruksjoner som er for svake til å trå på og hvor det er fare for fall, skal være sikret med merking, avsperring, gangbaner eller andre sikringstiltak.",
+      "På bygninger der gesimshøyden er mer enn 5 m, skal det være montert stigefeste for at løs stige skal kunne brukes som atkomst. Stigen skal være så lang at den rekker 1 m over taket.",
+      "Festepunkter for sikkerhetstau skal være montert i nødvendig omfang på hensiktsmessige steder der dette er nødvendig for sikring under arbeidet.",
+      "Dersom det er nødvendig for å ivareta sikkerheten, skal luker, dører og stengsler ha sikkerhetsinnretning slik at de kan sikres i åpen stilling. De skal kunne åpnes fra begge sider."
+     ],
+     "endringer": [
+      "Endret ved forskrift 30 des 2013 nr. 1719 (i kraft 1 jan 2014)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-6",
+     "nummer": "§ 2-6",
+     "tittel": "Gulv og dekker",
+     "ledd": [
+      "Gulv og dekker skal være fri for farlige ujevnheter, hull og helninger og være faste og stabile slik at tilsiktet bruk av kjøretøyer og transportinnretninger kan skje på en sikker måte.",
+      "Gulv i arbeidslokaler, på lasteramper, varemottak o.l. skal være jevne og behagelige å gå på og med en utforming og overflate som motvirker at gulvet blir glatt.",
+      "Gulv i arbeidslokaler og personalrom skal kunne rengjøres slik at det oppnås en tilfredsstillende hygienisk standard."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-7",
+     "nummer": "§ 2-7",
+     "tittel": "Vegger og himling",
+     "ledd": [
+      "Vegger og himling i arbeidslokaler skal kunne rengjøres og vedlikeholdes slik at det oppnås en tilfredsstillende hygienisk standard.",
+      "Gjennomsiktige skillevegger, særlig skillevegger som bare består av glass, skal være tydelig merket og tåle de belastninger de kan bli utsatt for. Dersom skilleveggene kan bli knust, skal disse være atskilt fra arbeidsplasser eller ferdselsveier slik at arbeidstakerne ikke kan bli skadet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-8",
+     "nummer": "§ 2-8",
+     "tittel": "Romhøyde",
+     "ledd": [
+      "Romhøyden i arbeidsrom og i personalrom skal avpasses i forhold til rommets gulvareal og den virksomheten som drives der. Det skal særlig tas hensyn til ventilasjonsanlegg, belysning og innredningens dimensjoner."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-9",
+     "nummer": "§ 2-9",
+     "tittel": "Dører og porter",
+     "ledd": [
+      "Dører og porters plassering, antall og dimensjoner, og hvilke materialer som anvendes, skal bestemmes ut fra arbeidslokalenes eller områdenes art og bruk.",
+      "Dører for gående skal finnes i umiddelbar nærhet av porter som hovedsaklig er beregnet for kjøretøy, bortsett fra der hvor det er trygt for gående å bruke disse portene. Slike dører skal være tydelig merket og skal aldri blokkeres.",
+      "Dører skal ikke plasseres under åpning for vertikal varetransport.",
+      "Dører og porter med glassfelt eller som er gjennomsiktige skal være beskyttet mot knusing og være tilfredsstillende varselmerket i øyenhøyde.",
+      "Svingdører og svingporter skal være utformet slik at kollisjoner unngås.",
+      "Det skal til enhver tid være mulig å åpne mekaniske dører og porter manuelt.",
+      "Dører og porter skal ha sikkerhetssystemer dersom utilsiktet lukking innebærer fare. Mekaniske dører og porter skal fungere på en slik måte at de ikke utsetter arbeidstakerne for fare. De skal være utstyrt med lett kjennelige og lett tilgjengelige nødstoppmekanismer.",
+      "Skyvedører skal være utstyrt med en sikkerhetsinnretning som hindrer dem i å spore av eller velte."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-10",
+     "nummer": "§ 2-10",
+     "tittel": "Dagslys og utsyn",
+     "ledd": [
+      "De enkelte arbeidsplasser skal ha dagslys og utsyn.",
+      "Lokaler uten dagslys og utsyn kan benyttes som arbeidsplass i følgende tilfeller:\na. når arbeidsplassen av tekniske eller sikkerhetsmessige grunner må ligge under jorda,\nb. når arbeidets art tilsier det,\nc. når lokalets størrelse eller tiden arbeidstakeren oppholder seg der gjør det forsvarlig,\nd. når det for eksisterende arbeidslokaler vil medføre store ulemper og store omkostninger å foreta ombygninger.",
+      "Spiserom skal om mulig ha dagslys og utsyn."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-11",
+     "nummer": "§ 2-11",
+     "tittel": "Belysning",
+     "ledd": [
+      "Arbeidslokaler og arbeidsplasser skal være utformet og innredet slik at de enkelte arbeidsplasser får tilfredsstillende belysning for å verne arbeidstakernes sikkerhet og helse.",
+      "Arbeidsplasser utendørs og under jord skal være tilstrekkelig opplyst ved kunstig belysning dersom dagslys ikke er tilstrekkelig. Der det av sikkerhetsmessige grunner anses påkrevd skal også ferdselsveier ha belysning. Belysningsstyrken skal være tilpasset de rådende arbeids- og trafikkforhold. Lysinstallasjonene skal være tilpasset de klimatiske forholdene.",
+      "Belysningsinstallasjoner i arbeidslokaler, på arbeidsplasser, i atkomstveier, transportveier og lasteplasser skal være plassert på en slik måte at den form for belysning som er valgt ikke innebærer noen ulykkesrisiko for arbeidstakerne.",
+      "Belysningen skal være slik innrettet at eventuell stroboskopvirkning ikke leder til fare på grunn av misforståelse vedrørende maskindelers bevegelse eller deres bevegelsesretning."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-12",
+     "nummer": "§ 2-12",
+     "tittel": "Synsforhold",
+     "ledd": [
+      "Det skal være gode farge- og kontrastforhold uten for store luminansforskjeller innen synsfeltet, idet det tas hensyn til arbeidets art og arbeidstakerens syn.",
+      "Arbeidsplasser skal være utformet slik at forstyrrende reflekslys eller kontrastblending som kan vanskeliggjøre arbeid ved dataskjermer, maskiner, avlesingen av instrumenter o.l. unngås ved å samordne arbeidsplassens og arbeidsstasjonens utforming med de kunstige lyskildenes plassering og tekniske karakteristika. Lyskilder som vinduer og andre åpninger, gjennomsiktige eller gjennomskinnelige vegger samt utstyr og vegger i lyse farger skal ikke forårsake direkte blending og gi så lite reflekser som mulig.",
+      "Vinduer skal være utstyrt med en hensiktsmessig regulerbar blendingsanordning for å dempe dagslyset som faller inn over arbeidsplasser med dataskjerm."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-13",
+     "nummer": "§ 2-13",
+     "tittel": "Nødbelysning",
+     "ledd": [
+      "Arbeidsplasser hvor arbeidstakerne kan bli utsatt for fare ved svikt i den kunstige belysningen, skal være forsynt med nødbelysning av tilstrekkelig styrke.",
+      "Flukt- og rømningsveier samt nødutganger skal være utstyrt med nødbelysning tilstrekkelig til å dekke behovet i tilfelle svikt i den ordinære belysningen."
+     ],
+     "endringer": [
+      "Endret ved forskrift 19 juni 2020 nr. 1265 (i kraft 1 juli 2020)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-14",
+     "nummer": "§ 2-14",
+     "tittel": "Klima, ventilasjon, luftkvalitet mv.",
+     "ledd": [
+      "Arbeidslokaler skal være utformet og innredet slik at de enkelte arbeidsplasser, personalrom mv. får tilfredsstillende klima med hensyn til temperatur, fuktighet, trekk, luftkvalitet og sjenerende lukt, og beskyttelse mot giftige eller helsefarlige stoffer mv. Ved vurderingen av klima og luftkvalitet skal det om nødvendig tas hensyn til den fysiske belastningen som arbeidstakeren utsettes for.",
+      "Luften i områder for arbeid eller opphold skal ha fullt forsvarlig oksygeninnhold.",
+      "Områder under jord hvor adgang er tillatt, skal ha kontinuerlig tilførsel av frisk luft.",
+      "Det skal tas hensyn til solinnstråling slik at arbeidstakerne ikke utsettes for unødig belastning på grunn av varme.",
+      "Dersom det er nødvendig av hensyn til arbeidstakernes helse, skal ventilasjonsanlegg være utstyrt med feilvarsling."
+     ],
+     "endringer": [
+      "Endret ved forskrift 30 des 2013 nr. 1719 (i kraft 1 jan 2014)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-15",
+     "nummer": "§ 2-15",
+     "tittel": "Stråling",
+     "ledd": [
+      "Lokaler skal være utformet og innredet slik at de enkelte arbeidsplasser får tilfredsstillende beskyttelse mot stråling.",
+      "De arbeidsplasser og arbeidslokaler der risikovurderingen viser at eksponering for kunstig optisk stråling kan overskride grenseverdiene, skal merkes med passende advarsel eller skilt i henhold til kapittel 5 i forskriften her. Dersom det er teknisk mulig, skal arbeidsplassen ha adgangsbegrensning."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-16",
+     "nummer": "§ 2-16",
+     "tittel": "Støy og vibrasjoner",
+     "ledd": [
+      "Arbeidslokaler og arbeidsplasser skal være utformet og innredet slik at de enkelte arbeidsplasser er beskyttet mot støy og vibrasjoner, og slik at årvåkenheten ikke svekkes og samtale vanskeliggjøres.",
+      "Det skal i nødvendig omfang benyttes lydabsorberende materialer og avskjerming mot lydutbredelse slik at arbeidsplasser og personalrom beskyttes mot støy.",
+      "Støy og vibrasjoner fra tekniske innretninger skal tas i betraktning når arbeidsplasser og arbeidslokaler utformes slik at unødig støy og vibrasjoner ikke oppstår.",
+      "Fundamenter og festeanordninger for arbeidsutstyr skal være slik at innretningen ikke forårsaker unødig støy eller vibrasjoner."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-17",
+     "nummer": "§ 2-17",
+     "tittel": "Tilgang til drikkevann",
+     "ledd": [
+      "Arbeidstakerne skal ha tilgang til drikkevann."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-18",
+     "nummer": "§ 2-18",
+     "tittel": "Ferdsel og atkomst",
+     "ledd": [
+      "Det skal være sikker atkomst fra offentlig område til arbeidslokaler og personalrom, mellom personalrom og de enkelte arbeidsplasser og mellom arbeidsplasser.",
+      "Der arbeidstakerne må bruke båt for å komme til og fra arbeidssted, skal det sørges for sikker transport.",
+      "Dersom det brukes transportmidler på ferdsels- og atkomstveier, skal det være avsatt en tilstrekkelig sikkerhetsavstand for gående.",
+      "Ferdselsveier for kjøretøy skal være plassert i tilstrekkelig avstand fra dører, porter, ferdselsveier for gående, korridorer og trapper. De skal være dimensjonert ut fra trafikkmengde og virksomhetens art.",
+      "Arbeidsplasser og ferdselsveier medregnet trapper, der arbeidstakerne oppholder seg under arbeidet, skal være utformet på en slik måte at gående og kjørende ferdsel kan foregå på en sikkerhetsmessig forsvarlig måte.",
+      "På bygge- og anleggsplasser hvor faresoner må passeres, skal det om nødvendig settes opp overbygde, eventuelt innebygde ferdselsveier.",
+      "Inngang til bygg eller andre konstruksjoner under oppførelse med større høyde enn 6 m skal være beskyttet av skjerm eller være forsvarlig avsperret. Det samme gjelder områder nær vegg der arbeidstakere regelmessig oppholder seg.",
+      "Ferdsels- og atkomstveiene skal være tydelig merket dersom det påkrevd for å sikre vern av arbeidstakerne.",
+      "Ferdselsveier for kjøretøy skal merkes varig med varselfarger."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-19",
+     "nummer": "§ 2-19",
+     "tittel": "Mekanisk personbefordring",
+     "ledd": [
+      "Mekanisk personbefordring som rulletrapper, rullende fortau, heiser mv. skal være installert og virke på en sikkerhetsmessig forsvarlig måte. De skal være utstyrt med nødvendige sikkerhetsinnretninger, og med lett kjennelige og tilgjengelige nødstoppmekanismer."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-20",
+     "nummer": "§ 2-20",
+     "tittel": "Lasteramper, lasteplasser, tippsteder og kaier",
+     "ledd": [
+      "Lasteramper, kaier og lasteplasser, herunder varemottak, skal være dimensjonert for den last som skal transporteres og det utstyret som benyttes for transport og håndtering av last. Opplysninger om tillatt belastning skal være synlig og lett forståelig.",
+      "Lasteramper skal ha minst én utgang. Der hvor det er teknisk mulig og hvor lasterampens lengde krever det, skal det være mer enn én utgang.",
+      "Lasteramper, kaier og lignende skal være sikret for å unngå at arbeidstakerne faller ned.",
+      "Fast tippsted for last og andre områder hvor bruk av kjøretøy kan innebære særskilt fare, skal ha sperreinnretning som hindrer utforkjøring.",
+      "Kaianlegg skal være utstyrt med kaifrontlist som skal være dimensjonert ut fra hensynet til bruken av kaia.",
+      "Kaianlegg skal være utstyrt med fortøyningsfester som skal være slik at fartøyer kan fortøyes på en forsvarlig måte, og være så solide at de med sikkerhet vil tåle de belastninger som de kan bli utsatt for. Festene skal ikke plasseres slik at fortøyningene sperrer den alminnelige ferdsel og transport på kaia."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-21",
+     "nummer": "§ 2-21",
+     "tittel": "Rømningsveier og nødutganger",
+     "ledd": [
+      "Ved fare skal arbeidstakerne raskt og på en sikker måte kunne evakueres fra alle arbeidsplasser og personalrom.",
+      "Bygninger og arbeidsplasser skal være utformet med tilstrekkelige rømningsveier og nødutganger, som til enhver tid skal være åpne for fri ferdsel og lett kunne åpnes innenfra uten spesielle hjelpemidler. Dører som er plassert i rømningsveien skal åpne i rømningsretningen.",
+      "Rømningsveienes og nødutgangenes antall, fordeling og dimensjoner skal avpasses etter arbeidsplassens bruk, utstyr og dimensjoner, og etter det høyeste antall personer som kan være til stede.",
+      "Rømningsveier og nødutganger skal så direkte som mulig føre ut i det fri eller til et sikkerhetsområde eller rom som er tilrettelagt for å beskytte mot farer som kan oppstå, og hvor arbeidstakerne kan oppholde seg i sikkerhet inntil de kan reddes eller faren er over.",
+      "Ved bergarbeid under jord skal det være minst to solide og lett tilgjengelige utganger til overflaten. Dersom det for annet bergarbeid under jord enn gruvearbeid er umulig å anlegge to utganger, skal det treffes tiltak for å sikre muligheten for sikker rømning.",
+      "Rømningsveier og dører som er plassert i rømningsveier, skal være tilstrekkelig merket."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-22",
+     "nummer": "§ 2-22",
+     "tittel": "Utforming av rekkverk",
+     "ledd": [
+      "Der det skal være rekkverk jf. § 6-5 skal det ha en slik høyde og utforming at sikring oppnås og at arbeidstakerne ikke utsettes for fare.",
+      "Høyden på rekkverket skal være minst 1 meter. Rekkverkshøyden på systemstillas kan reduseres til et absolutt minstemål på 0,95 meter.",
+      "Rekkverket skal ikke ha så store åpninger at det innebærer fare for at arbeidstakere kan falle igjennom. Når det som fallsikring benyttes horisontale lister skal det være minst en knelist plassert midt mellom håndlist og gulv eller fotlist.",
+      "Der det er fare for at gjenstander kan falle ned skal rekkverket ha fotlist som er minst 0,10 meter høy. På stillaser skal fotlist være minst 0,15 meter. På trestillaser med gulvhøyde mindre enn 8 meter skal fotlist være minst 0,1 meter. Fotlist skal ligge an mot gulvet. Annen tildekking skal benyttes når fotlist ikke gir tilstrekkelig vern."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 19 des 2012 nr. 1372 (i kraft 1 jan 2013), 4 jan 2013 nr. 10."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-23",
+     "nummer": "§ 2-23",
+     "tittel": "Utforming av leidere",
+     "ledd": [
+      "Leidere skal være tilstrekkelig dimensjonert og sikkert festet. Trinnene skal være sklisikre.",
+      "Leidere skal ha sidevange eller håndlist som avsluttes i rekkverkshøyde over øvre plan og om nødvendig være utstyrt med sikring mot fall, for eksempel ryggbøyle.",
+      "Lange leidere skal ha hvileplan.",
+      "Når leider har funksjon som redningsvei skal den markeres slik at den er godt synlig."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-24",
+     "nummer": "§ 2-24",
+     "tittel": "Særskilte vernetiltak for utendørs arbeidsplasser",
+     "ledd": [
+      "Utendørs arbeidsplasser skal så langt det er mulig være innrettet slik at arbeidstakerne:\na. er beskyttet mot ugunstige værforhold,\nb. er vernet mot fallende gjenstander,\nc. ikke blir utsatt for skadelig støy eller for skadelige ytre påvirkninger som f.eks. gass, damp eller støv,\nd. raskt kan forlate arbeidsplassen ved fare eller raskt kan reddes,\ne. ikke kan gli eller falle.",
+      "Arbeidstakerne skal ha tilgang til lokale hvor de kan oppholde seg når det er nødvendig av hensyn til arbeidstakernes sikkerhet, helse og arbeidsmiljø.",
+      "Arbeidsplasser på utendørs stillas skal om nødvendig være dekket med presenning eller lignende og ha lokal oppvarming og belysning."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Krav til personalrom, rom for renholdsutstyr, førstehjelpsrom og førstehjelpsutstyr",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 3-1",
+     "tittel": "Plassering av personalrom",
+     "ledd": [
+      "Personalrom skal være hensiktsmessig plassert i forhold til personalinngang og arbeidssted."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 3-2",
+     "tittel": "Dimensjonering og innredning av personalrom",
+     "ledd": [
+      "Ved dimensjonering av personalrom skal det blant annet tas hensyn til:\na. arbeidets art,\nb. det største antall arbeidstakere som normalt skal bruke rommet samtidig,\nc. at det skal utstyres med et antall bord og stoler med rygg som er tilpasset antallet arbeidstakere,\nd. at virksomheten skal kunne sysselsette både kvinner og menn. I personalrom skal det ikke plasseres eller installeres annet utstyr enn det som er knyttet til den naturlige virksomheten i rommet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 3-3",
+     "tittel": "Gravide og ammende",
+     "ledd": [
+      "Gravide og ammende skal ha mulighet for å legge seg ned og hvile under egnede forhold."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 3-4",
+     "tittel": "Garderobe",
+     "ledd": [
+      "Arbeidsplasser skal normalt ha atskilte garderober for kvinner og menn.",
+      "Hver arbeidstaker skal ha tilstrekkelig plass for opphengning av tøy o.l.",
+      "Dersom forholdene gjør det nødvendig skal det være atskilte skap for arbeidstøy og privat tøy.",
+      "Garderobene skal gi arbeidstakerne mulighet for å låse inn tøyet sitt i arbeidstiden, og der det er nødvendig skal det i tillegg være låsbare avlukker for å sikre mot tap av verdisaker.",
+      "Arbeidstakeren skal ha tilstrekkelig plass til å skifte.",
+      "Garderobe skal ha speil og nødvendig antall sitteplasser for skifte av klær og skotøy.",
+      "Garderobe skal ha tilfredsstillende ventilasjon."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 3-5",
+     "tittel": "Spiserom",
+     "ledd": [
+      "Virksomheten skal normalt ha spiserom eller tilgang til tilfredsstillende lokaler utenom virksomheten.",
+      "Spiserom skal være så stort at det gir tilfredsstillende plass til det største antall arbeidstakere som skal spise samtidig.",
+      "Spiserom skal være hensiktsmessig innredet, og om nødvendig slik at arbeidstakerne kan tilberede måltider der."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-6",
+     "nummer": "§ 3-6",
+     "tittel": "Vaskerom",
+     "ledd": [
+      "Virksomheter skal ha særskilt vaskerom eller vaskested.",
+      "Det skal være atskilte vaskerom eller vaskesteder for kvinner og menn, eller atskilt bruk av dem.",
+      "Gulv i vaskerom skal ha en utforming og overflate som motvirker at det blir glatt.",
+      "Det skal være tilstrekkelig fri gulvplass foran vaskestedene.",
+      "Det skal stilles tilstrekkelige og egnede dusjer til rådighet for arbeidstakerne dersom arbeidets art eller helsemessige forhold gjør det påkrevd.",
+      "Dusjrommene skal være tilstrekkelig store til at hver arbeidstaker har tilstrekkelig plass til å vaske seg under forsvarlige hygieniske forhold.",
+      "Dusjene skal være utstyrt med rennende kaldt og varmt vann.",
+      "I de tilfeller hvor det ikke er påkrevd med dusj, skal vaskerom eller vaskested være utstyrt med håndvask med kaldt og varmt vann.",
+      "Dersom dusjrom eller håndvasker er atskilt fra garderobene, skal det være lett tilgang mellom dem."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-7",
+     "nummer": "§ 3-7",
+     "tittel": "Toalett",
+     "ledd": [
+      "Virksomhet skal ha passende antall toaletter og det skal være atskilte toaletter for kvinner og menn. I tilknytning til toaletter skal det være håndvask.",
+      "Felles toalett kan benyttes ved små virksomheter."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-8",
+     "nummer": "§ 3-8",
+     "tittel": "Rom for renholdsutstyr",
+     "ledd": [
+      "Det skal være rom for renholdsutstyr som skal innredes og utstyres i samsvar med den planlagte rengjøringsmetoden."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-9",
+     "nummer": "§ 3-9",
+     "tittel": "Tørk av klær",
+     "ledd": [
+      "I virksomheter som helt eller delvis har utendørs arbeid eller når arbeidet for øvrig gjør det nødvendig, skal det være eget tørkerom eller annen mulighet for å tørke vått tøy og fottøy."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-10",
+     "nummer": "§ 3-10",
+     "tittel": "Førstehjelpsrom og førstehjelpsutstyr",
+     "ledd": [
+      "Hensiktsmessig førstehjelpsutstyr skal være lett tilgjengelig på alle steder hvor arbeidsforholdene gjør det nødvendig.",
+      "Dersom arbeidsplassens størrelse, arbeidets art og risikoen for ulykker gjør det nødvendig, skal det innredes ett eller flere førstehjelpsrom som er tilrettelagt for bruk av bårer.",
+      "Førstehjelpsrommene skal være utstyrt med nødvendig førstehjelpsutstyr og en lett synlig førstehjelpsinstruks. Dersom arbeidstakerne kan utsettes for helseskadelig luft, skal det finnes hensiktsmessig og tilstrekkelig puste- og gjenopplivingsutstyr.",
+      "Førstehjelpsrom og oppbevaringssteder for førstehjelpsutstyr skal være hensiktsmessig merket."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap3A",
+   "overskrift": "Kapittel 3A. Krav til innkvartering arbeidsgiver stiller til rådighet for arbeidstaker",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Kapittel tilføyd ved forskrift 10 april 2024 nr. 616 (i kraft 1 juni 2024)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 3A-1",
+     "tittel": "Generelle krav til innkvarteringen",
+     "ledd": [
+      "Innkvartering som arbeidsgiver stiller til rådighet for arbeidstaker, skal være forsvarlig utført, innredet og vedlikeholdt. Innkvarteringen skal blant annet være forsvarlig med hensyn til\na. dagslys og utsyn\nb. vedlikehold og mulighet for tilstrekkelig renhold og hygienisk standard\nc. temperatur, fuktighet, avtrekk og luftkvalitet\nd. giftige og helsefarlige stoffer\ne. biologiske faktorer\nf. oppbevaring, tilberedelse og inntak av mat\ng. oppbevaring av klær\nh. vask og tørk av klær\ni. brann- og elsikkerhet.",
+      "Arbeidstakere i innkvarteringen skal ved fare på en rask og sikker måte kunne evakueres fra alle rom. Arbeidsplassforskriften § 2-21 om rømningsveier og nødutganger gjelder tilsvarende for innkvarteringsforhold.",
+      "Rom og steder som nevnt i § 3A-2 til § 3A-4 skal ikke installeres eller utstyres på en måte som gjør at disse ikke kan ivareta sin funksjon.",
+      "Førstehjelpsutstyr bør være tilgjengelig i umiddelbar nærhet."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 10 april 2024 nr. 616 (i kraft 1 juni 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 3A-2",
+     "tittel": "Krav til enkeltrom som soverom",
+     "ledd": [
+      "Arbeidsgiver skal sørge for at hver arbeidstaker har eget soverom. Soverom skal ha vindu som kan åpnes og som kan benyttes som rømningsvei.",
+      "Krav om enkeltrom som soverom gjelder ikke\na. for sesongarbeid i inntil 12 uker i løpet av kalenderåret\nb. ved kortvarig arbeid utenfor normalarbeidsstedet der det vanskelig lar seg gjøre å stille enkeltrom til arbeidstakers disposisjon.",
+      "Maksimalt fire arbeidstakere kan dele soverom i slike tilfeller. Det skal uansett være minst 4 kvadratmeter gulvplass per person hvor flere personer sover i samme rom.",
+      "Med sesongarbeid menes arbeid som er av en slik karakter at det kun utføres en begrenset del av året. Vedlikeholds- og restaureringsarbeid o.l. anses ikke som sesongarbeid.",
+      "Soverom skal være plassert slik at arbeidstakerne blir minst mulig forstyrret og skal ikke ha gjennomgang til andre rom.",
+      "Arbeidsgiverforening og fagforening med innstillingsrett etter arbeidstvistloven eller tjenestetvistloven, kan avtale unntak fra kravet om eget soverom i første ledd første punktum, slik at det kan være to arbeidstakere som deler soverom."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 10 april 2024 nr. 616 (i kraft 1 juni 2024), endret ved forskrift 7 okt 2025 nr. 1992."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 3A-3",
+     "tittel": "Krav til oppholdsrom",
+     "ledd": [
+      "Oppholdsrommet skal være i umiddelbar nærhet til soverommet og skal være utstyrt med tilstrekkelig antall bord og stoler med rygg tilpasset det maksimale antallet arbeidstakere som normalt vil oppholde seg i rommet samtidig. Minimumsareal per person er 1,5 kvadratmeter.",
+      "Dersom soverommet er tilstrekkelig stort, kan krav til oppholdsrom ivaretas i soverommet. Forutsetningene i første ledd gjelder da tilsvarende i det kombinerte sove- og oppholdsrommet.",
+      "Det bør være tilgang til trådløst internett hvor dette er mulig."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 10 april 2024 nr. 616 (i kraft 1 juni 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 3A-4",
+     "tittel": "Tilgang til dusj og toalett",
+     "ledd": [
+      "Det skal være tilgang til låsbar dusj og låsbart toalett i umiddelbar nærhet. Det skal som minimum være tilgang til ett toalett og en dusj per fem arbeidstakere.",
+      "Det skal være tilgang til håndvask i tilknytning til toalett. Håndvask skal være utstyrt med rennende kaldt og varmt vann.",
+      "Det skal være tilgang til atskilt dusj og toalett for kvinner og menn, eller atskilt bruk av dem.",
+      "Dusjer skal være tilstrekkelig store og utstyrt med rennende kaldt og varmt vann. Det skal være tilgang til speil. Det må være tilstrekkelig avtrekk for vanndamp."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 10 april 2024 nr. 616 (i kraft 1 juni 2024)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Sikkerhetsutrustning",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 4-1",
+     "tittel": "Alarm- og varslingsutstyr",
+     "ledd": [
+      "På arbeidsplasser med brannfarlige, eksplosjonsfarlige eller helsefarlige kjemikalier skal det være tilstrekkelige varslings- og kommunikasjonssystemer for å kunne varsle arbeidstakerne og relevante rednings- og nødtjenester om ulykke, skade eller nødsituasjon.",
+      "Når det er nødvendig skal det installeres overvåkningsutstyr som automatisk og kontinuerlig registrerer gasskonsentrasjoner på bestemte steder.",
+      "Når det har betydning for sikkerhet eller rømning skal alarmsystemene styre tekniske anlegg til sikker funksjon, for eksempel automatisk strømutkoplingssystemer for elektriske anlegg og automatiske stoppsystemer for forbrenningsmotorer."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 4-2",
+     "tittel": "Rømnings- og redningsutstyr",
+     "ledd": [
+      "Rømnings- og redningsutstyr skal finnes på steder hvor arbeids- eller rømningsforholdene gjør det nødvendig, for eksempel ved drukningsfare eller at farlig atmosfære kan oppstå.",
+      "Kaier, basseng og kummer mv. skal være utstyrt med løs eller fast stige eller annen innretning som gjør det mulig å komme opp uten hjelp fra andre. På kaier og andre steder hvor det er nødvendig, skal redningsbøye, redningshake og eventuelt båt være lett tilgjengelig.",
+      "Ved arbeid under jord skal det være mekaniske hjelpemidler for transport, dersom rømning krever store fysiske anstrengelser.",
+      "Redningsutstyret skal være funksjonsdyktig og klart til bruk til enhver tid og være lett tilgjengelig.",
+      "Oppbevaringssteder for rømnings- og redningsutstyr skal være hensiktsmessig merket."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 4-3",
+     "tittel": "Brannforebygging, eksplosjonsforebygging og brannslokkingsutstyr",
+     "ledd": [
+      "Arbeidsplassen skal innrettes slik at brann- og eksplosjonsfare forebygges.",
+      "Brannslokkingsutstyr i tilstrekkelig omfang skal være lett tilgjengelig på arbeidsplasser under jord, i havneområder, der det utføres varmt arbeid og ved maskiner hvor det er fare for brann og eksplosjon.",
+      "Operasjonsrom på dykkerplattformen som inneholder komponenter av betydning for sikkerheten ved undervannsoperasjonen, skal være forsvarlig brannsikret.",
+      "Manuelt betjent brannslokkingsutstyr skal være enkelt å bruke og om nødvendig være beskyttet mot skade."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Skilting og merking",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 5-1",
+     "tittel": "Krav til sikkerhetsskilting",
+     "ledd": [
+      "Sikkerhetsskilting skal hurtig og tydelig rette oppmerksomheten mot de formål og situasjoner som kan innebære fare. Sikkerhetsskiltingen skal ikke erstatte nødvendige verneinnretninger."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 5-2",
+     "tittel": "Sikkerhetsskilting ved trafikk på arbeidsområde",
+     "ledd": [
+      "Når trafikk inne på et arbeidsområde kan medføre fare for sikkerheten, skal arbeidsgiver sørge for å sette opp de skilter som er nødvendige."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-3",
+     "nummer": "§ 5-3",
+     "tittel": "Varselfarger for skilt",
+     "ledd": [
+      "Skilter som inneholder en varselfarge skal være i samsvar med følgende tabell:\n| Varselfarge | Skilttype | Instrukser og opplysninger\n| Rød | Forbudsskilt | Farlig atferd\n| Rød | Alarmskilt | Stopp\nAvstenging\nNødstoppinnretning\nEvakuer\n| Rød | Brannvernskilt | Identifisering og plassering\n| Gul eller oransje | Fareskilt | Vær forsiktig\nTa forholdsregler\nUndersøk\n| Blå | Påbudsskilt | Spesiell atferd eller handlemåte\nPåbud om bruk av personlig verneutstyr\n| Grønn | Nødskilt\nNødutgangsskilt\nFørstehjelpsskilt | Lokaler, dører, utganger, veier, utstyr\n| Grønn | Ingen fare | Tilbake til normaltilstand"
+     ],
+     "endringer": [
+      "Endret ved forskrift 30 des 2013 nr. 1719 (i kraft 1 jan 2014)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-4",
+     "nummer": "§ 5-4",
+     "tittel": "Bestemmelser om bruk av sikkerhetsskilt og signaler",
+     "ledd": [
+      "Bruk av sikkerhetsskilt og signaler skal planlegges slik at:\na. Annen skilting eller andre lys- eller lydkilder ikke plasseres slik at det kan påvirke synligheten eller hørbarheten på de skilter eller signaler som kreves etter denne forskriften.\nb. Plassering av flere skilt nær hverandre unngås.\nc. Lyssignal som kan forveksles ikke brukes samtidig.\nd. Et lyssignal ikke brukes i nærheten av en annen lyskilde av lignende type.\ne. To eller flere lydsignaler ikke brukes samtidig.\nf. Lydsignal ikke brukes dersom bakgrunnsstøy kan hindre oppfattelsen av signalet.\ng. Skilter eller signalinnretninger blir lette å forstå og godt synlige i forhold til de farer de skal varsle om.\nh. Skilter eller signalinnretninger blir plassert i nødvendig antall i forhold til graden av fare eller risiko eller til sonen som skal dekkes.\ni. Skilter og signalinnretninger blir kontrollert før de settes i drift og deretter jevnlig rengjøres, vedlikeholdes, kontrolleres, repareres og, om nødvendig erstattes, for å sikre at de fungerer korrekt og virker etter hensikten.\nj. Skilting som krever en energikilde, blir sikret med nødtilførsel i tilfelle strømbrudd, med mindre risikoen forsvinner med strømbruddet.\nk. Igangsetting av lys- og lydsignal angir når en påkrevd handling starter. Lys- og lydsignal skal vare så lenge handlingen krever det.\nl. Lys- og lydsignalene skal settes i beredskapsstilling umiddelbart etter hver bruk.\nm. Dersom berørte arbeidstakeres hørsel eller syn hemmes, f.eks. som følge av bruk av personlig verneutstyr, treffes det tiltak for å utfylle eller erstatte den aktuelle skiltingen.\nn. Arealer, rom eller inngjerdede områder for lagring av store mengder helsefarlige, brannfarlige eller eksplosjonsfarlige stoffer eller stoffblandinger skal angis med et passende sikkerhetsskilt valgt blant dem som er oppført i § 5-7 nr. 2) eller merkes som fastsatt i § 5-13, med mindre merkingen av de enkelte pakker eller beholdere er tilstrekkelig for dette formålet. Dersom det i § 5-7 ikke finnes et egnet sikkerhetsskilt for å varsle om farlige kjemiske stoffer eller stoffblandinger, skal det relevante farepiktogrammet brukes som fastsatt i forskrift 16. juni 2012 nr. 622 om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP), jf. forordning (EF) nr. 1272/2008 vedlegg V."
+     ],
+     "endringer": [
+      "Endret ved forskrift 26 juni 2015 nr. 798."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-5",
+     "nummer": "§ 5-5",
+     "tittel": "Utforming av sikkerhetsskilt",
+     "ledd": [
+      "Symboler for sikkerhetsskilting skal være så enkle som mulig og bare inneholde vesentlige opplysninger.",
+      "Symbolene som brukes skal være mest mulig lik dem som er vist i § 5-7. Eventuelle mindre avvik skal ikke kunne føre til misforståelser.",
+      "Sikkerhetsskilt skal lages av materiale som egner seg for det miljøet de skal stå i.",
+      "Sikkerhetsskilt skal være av en slik størrelse og farge og lysegenskapene av en slik art, at skiltene lett kan ses og forstås."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-6",
+     "nummer": "§ 5-6",
+     "tittel": "Plassering, belysning og fjerning av sikkerhetsskilt",
+     "ledd": [
+      "Sikkerhetsskilt skal plasseres slik at de ikke representerer noen fare eller uønsket hindring.",
+      "Det skal brukes etterlysende farger, reflekterende materiale eller kunstig belysning der det naturlige lyset er dårlig.",
+      "Nødskilt skal være belyst, gjennomlyst eller ha tilstrekkelig etterlysende egenskaper til at det fortsetter å synes i en nødsituasjon.",
+      "Sikkerhetsskiltet skal fjernes når situasjonen det henviser til ikke lenger er til stede."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 30 des 2013 nr. 1719 (i kraft 1 jan 2014), 19 juni 2020 nr. 1265 (i kraft 1 juli 2020)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-7",
+     "nummer": "§ 5-7",
+     "tittel": "Sikkerhetsskilter som skal brukes",
+     "ledd": [
+      "1. Forbudsskilt er skilt som forbyr handling som, direkte eller indirekte, kan forårsake fare.\nForbudsskilt skal ha:\n- rund form\n- sort symbol på hvit bakgrunn, kantbord og diagonal linje (skrånende nedover fra venstre til høyre tvers over symbolet i 45 ° vinkel i forhold til vannrett) i rødt (rødfargen skal dekke minst 35 % av skiltflaten).\nForbudsskilt skal være som følger:\n2. Fareskilt er skilt som advarer mot risiko og fare.\nFareskilt skal ha:\n- trekantform\n- sort symbol på gul bakgrunn med sort kantbord og gulfargen skal oppta minst 50 % av skiltflaten.\nFareskilt skal være som følger:\nFareskiltet «Generell fare» skal ikke brukes for å varsle om farlige kjemiske stoffer eller stoffblandinger, med unntak av de tilfellene der fareskiltet brukes i samsvar med § 5-14 for å markere lagringssteder for farlige stoffer eller stoffblandinger.\n3. Påbudsskilt er skilt som pålegger en bestemt handling.\nPåbudsskilt skal ha:\n- rund form\n- hvitt symbol på blå bakgrunn og blåfargen skal oppta minst 50 % av skiltflaten.\nPåbudsskilt skal være som følger:\n4. Nødskilt er skilt som gir opplysninger om nødutganger eller førstehjelps- eller redningsutstyr.\nNødskilt skal ha:\n- rektangulær form eller kvadratisk form\n- hvitt symbol på grønn bakgrunn og grønnfargen skal oppta minst 50 % av skiltflaten.\nNødskilt skal være som følger:\nHjertestarter/AED\n5. Alarmskilt er skilt som angir plasseringen av nødstoppinnretninger, alarmknapper, evakueringssignaler og avstengningsmekanismer.\nAlarmskilt skal ha:\n- kvadratisk form\n- hvitt symbol på rød bakgrunn og rødfargen skal oppta minst 50 % av skiltflaten.\nAlarmskilt skal være som følger:\n6. Brannvernskilt er skilt som angir plassering av utstyr som skal brukes i forbindelse med brann.\nBrannvernskilt skal ha:\n- rektangulær eller kvadratisk form\n- hvitt symbol på rød bakgrunn og rødfargen skal oppta minst 50 % av skiltflaten.\nBrannvernskilt skal være som følger:"
+     ],
+     "endringer": [
+      "Endret ved forskrifter 30 des 2013 nr. 1719 (i kraft 1 jan 2014), 26 juni 2015 nr. 798, 21 juni 2016 nr. 759 (i kraft 1 juli 2016), 19 juni 2020 nr. 1265 (i kraft 1 juli 2020)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-8",
+     "nummer": "§ 5-8",
+     "tittel": "Krav til lyssignaler",
+     "ledd": [
+      "Signalet fra et lysskilt skal frembringe en lysende kontrast til omgivelsene skiltet står i, i samsvar med de tilsiktede bruksforhold for skiltet. Lyset skal ikke forringe sikten eller synbarheten.",
+      "Lyssignalets flate kan være ensfarget eller inneholde et symbol på en nærmere angitt bakgrunn.",
+      "Fargene skal være i samsvar med tabellen i § 5-3.",
+      "Når lyssignalet inneholder et symbol, skal symbolet oppfylle bestemmelsene i dette kapittel."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-9",
+     "nummer": "§ 5-9",
+     "tittel": "Krav til bruk av lyssignaler",
+     "ledd": [
+      "Dersom en innretning kan sende ut både uavbrutte og blinkende lyssignaler, skal de blinkende signalene brukes til å angi en høyere grad av fare eller et mer påtrengende behov for det anbefalte/pålagte inngrep eller handling enn det som angis ved et uavbrutt lyssignal.",
+      "Ved bruk av blinkende lyssignal skal hyppigheten av lysblinkene være slik at budskapet oppfattes fullt ut og at enhver sammenblanding mellom forskjellige lyssignaler unngås.",
+      "Dersom et blinkende lyssignal brukes i stedet for eller sammen med et lydsignal, må det brukes identiske signalkoder.",
+      "Innretninger for utsendelse av blinkende lyssignaler i tilfelle en alvorlig fare skal underlegges særskilt kontroll eller utstyres med en reservelampe."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-10",
+     "nummer": "§ 5-10",
+     "tittel": "Krav til lydsignaler",
+     "ledd": [
+      "Lydsignaler skal:\na. ha et lydnivå som er betydelig høyere enn bakgrunnslydnivået og skal kunne høres uten å være unødvendig høye eller smertefulle,\nb. være lette å kjenne igjen, særlig med tanke på varigheten av lydimpulsene og tidsintervallet mellom dem eller mellom grupper av lydimpulser, samt klart atskilt fra andre lydsignaler og bakgrunnsstøy fra omgivelsene.",
+      "Dersom en innretning kan sende ut et lydsignal med variable og uavbrutte svingetall, skal det variable svingetallet brukes til å angi en høyere grad av fare e.l. enn det som angis ved et uavbrutte svingetall.",
+      "Lydsignaler for evakuering skal være kontinuerlig."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-11",
+     "nummer": "§ 5-11",
+     "tittel": "Varig skilting og merking",
+     "ledd": [
+      "Det skal være varig merking med sikkerhetsskilt der hvor arbeidstakerne kan bli utsatt for fare og der hvor det er innført forbud eller ufravikelige krav for å ivareta sikkerheten.",
+      "Rømningsveier og utstyr for rømning, redning, førstehjelp og brannslokking skal være varig merket."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-12",
+     "nummer": "§ 5-12",
+     "tittel": "Støysoner",
+     "ledd": [
+      "Inngang til rom eller område hvor arbeidstakerne kan bli utsatt for støy som er lik eller overskrider de øvre tiltaksverdiene i kapittel 2 i forskrift om tiltaks- og grenseverdier skal merkes med påbudsskilt om hørselsvern."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-13",
+     "nummer": "§ 5-13",
+     "tittel": "Beholdere og rørledninger",
+     "ledd": [
+      "Beholdere som brukes på arbeidsplassen til kjemiske stoffer eller stoffblandinger klassifisert som farlige etter forskrift 16. juni 2012 nr. 622 om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP), beholdere som brukes til lagring av slike stoffer eller stoffblandinger samt synlige rørledninger som inneholder eller transporterer slike stoffer eller stoffblandinger, skal være merket med relevant farepiktogram i samsvar med nevnte forskrift, jf. forordning (EF) nr. 1272/2008 vedlegg V.",
+      "Merkingen skal plasseres på den eller de synlige sider og i form av skilt, selvklebende merker eller påmalte symboler.",
+      "Rørledninger skal i tillegg være merket med pil som viser strømretningen, og med fargekode avhengig av hvilke stoffer eller stoffblandinger som transporteres gjennom rørledningen.",
+      "Merkingen som brukes på rørledninger skal plasseres lett synlig i nærheten av de farligste punktene som ventiler, flenser eller koblinger og med passende avstand.",
+      "Første ledd får ikke anvendelse på beholdere som brukes på arbeidsplassen i kortere perioder eller beholdere med innhold som ofte skiftes ut, forutsatt at det treffes alternative tilfredsstillende tiltak, spesielt informasjon og/eller opplæring, som sikrer samme vernenivå. Merkingen nevnt i første ledd kan:\n- erstattes av sikkerhetsskilter fastsatt i § 5-7 nr. 2, med bruk av samme piktogrammer eller symboler. Dersom det ikke finnes et egnet sikkerhetsskilt i § 5-7 nr. 2, skal det relevante farepiktogrammet brukes, som fastsatt etter forskrift 16. juni 2012 nr. 622 om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP), jf. forordning (EF) nr. 1272/2008 vedlegg V.\n- utfylles med tilleggsopplysninger, som navn på og/eller formel for det farlige stoffet eller den farlige stoffblandingen og opplysninger om risikoen.\n- for transport eller flytting av beholdere på arbeidsplassen, utfylles eller erstattes med skilting som brukes i hele EØS-området for transport av farlige stoffer eller stoffblandinger."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 26 juni 2015 nr. 798, 23 juni 2023 nr. 1099 (i kraft 1 juli 2023)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-14",
+     "nummer": "§ 5-14",
+     "tittel": "Skilting ved lagring av store mengder stoffer eller stoffblandinger som kan medføre helsefare",
+     "ledd": [
+      "På lagringssteder med stoffer eller stoffblandinger som kan medføre helsefare, skal det være satt opp fareskilt for generell fare.",
+      "Områder, rom eller avlukker som brukes til lagring av store mengder stoffer eller stoffblandinger som kan medføre helsefare skal merkes med passende sikkerhetsskilter.",
+      "Skiltingen skal være av en slik størrelse at den lett kan ses og forstås. Skiltingen nevnt i andre ledd skal plasseres i nærheten av lagringsstedet eller på døren som fører inn til lagringsrommet."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 22 des 2016 nr. 1856 (i kraft 1 jan 2017), 18 april 2017 nr. 473."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-15",
+     "nummer": "§ 5-15",
+     "tittel": "Brannslokkingsutstyr",
+     "ledd": [
+      "Brannslokkingsutstyr skal være merket og identifisert med varig sikkerhetsskilting og om nødvendig varselfarger. Fargen for merking av utstyret skal være rød. Den røde flaten må være så stor at utstyret lett kan gjenkjennes.",
+      "Inngang til oppbevaringssted for brannslokkingsutstyr og områder hvor brannslokkingsutstyr oppbevares, skal merkes med skilt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-16",
+     "nummer": "§ 5-16",
+     "tittel": "Hindringer og farlige steder",
+     "ledd": [
+      "Steder der det er fare for sammenstøt med hindringer, fare for fall eller fallende gjenstander skal være merket varig med varselfarger eller med sikkerhetsskilt.",
+      "De skal være merket med vekselvis gule og sorte, eventuelt røde og hvite striper i de områdene av virksomheten som arbeidstakerne har adgang til under arbeidet. Stripene skal danne en vinkel på ca. 45 ° og være av tilnærmet lik bredde.",
+      "Dimensjonene på merkingen skal stå i rimelig forhold til størrelsen på hindringen eller det aktuelle farlige stedet.",
+      "Eksempel"
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-17",
+     "nummer": "§ 5-17",
+     "tittel": "Ferdselsveier for kjøretøy",
+     "ledd": [
+      "Ferdselsveier for kjøretøyer skal, når det er nødvendig for sikkerheten, være merket med sammenhengende striper i en klart synlig farge, fortrinnsvis hvit eller gul, idet det tas hensyn til fargen på underlaget.",
+      "Stripene skal være plassert slik at de angir den nødvendige sikkerhetsavstand mellom kjøretøyene og enhver gjenstand som befinner seg i nærheten, og mellom gående og kjøretøyer.",
+      "Faste ferdselsveier for kjøretøy på området utendørs skal om nødvendig være merket som nevnt i første og andre ledd, med mindre de er utstyrt med egnede stengsler eller fortau.",
+      "Opplysninger om tillatt belastning skal være synlig og lett forståelig på kai og andre områder hvor kjøring kan medføre fare for overbelastning."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-18",
+     "nummer": "§ 5-18",
+     "tittel": "Helsefarlig atmosfære",
+     "ledd": [
+      "Innganger til områder hvor det er fare for lavt oksygeninnhold, helsefarlige og eksplosive gasskonsentrasjoner skal ha forbuds- og påbudskilt i samsvar med aktuell risiko."
+     ],
+     "endringer": [
+      "Endret ved forskrift 26 juni 2015 nr. 798."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-19",
+     "nummer": "§ 5-19",
+     "tittel": "Biologiske faktorer",
+     "ledd": [
+      "Områder hvor det er risiko for biologisk betinget helsefare skal være merket med fareskilt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-20",
+     "nummer": "§ 5-20",
+     "tittel": "Høytrykkspyling",
+     "ledd": [
+      "Der hvor det pågår arbeid med stråleinnretning skal fareområdene være merket."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Sikring av farlige arbeidsplasser og områder",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 6-1",
+     "tittel": "Adgangsbegrensning til faresoner",
+     "ledd": [
+      "Dersom arbeidsplassene eller andre områder omfatter faresoner der det kan være fare for arbeidstakernes sikkerhet på grunn av arbeidets art, for eksempel ved at gjenstander kan falle ned og arbeid med stråleinnretning, skal disse sonene være sikret mot at uvedkommende arbeidstakere kommer inn i faresonene.",
+      "Faresoner skal være tydelig merket."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-2",
+     "nummer": "§ 6-2",
+     "tittel": "Sikring av strømførende luftledninger",
+     "ledd": [
+      "På bygge- eller anleggsplasser eller andre midlertidige arbeidsplasser, skal eksisterende strømførende luftledninger om mulig føres vekk fra området eller frakoples. Dersom dette ikke er mulig skal det være sperringer eller tydelig merking slik at kjøretøy og anlegg for energidistribusjon holdes på avstand.",
+      "Når kjøretøyer må passere under ledninger, skal det være hensiktsmessig faremerking og ledningene skal være avskjermet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-3",
+     "nummer": "§ 6-3",
+     "tittel": "Sikring mot ras, innstrømming av vann mv.",
+     "ledd": [
+      "Arbeidsplasser som er plassert i høyden eller dybden skal til enhver tid være solide og stabile.",
+      "Arbeidsplasser, ferdsels- og atkomstveier som kan være utsatt for ras, utrasing, steinfall, innstrømming av vann eller lignende skal være sikret med tiltak som:\na. når det er praktisk mulig og området ikke er kontrollert og sikret, skal førerplassen, manøverplassen eller annen arbeidsplass på kjøretøyer eller utstyr ha beskyttelsesstak,\nb. fangdammer eller senkekasser i egnet materiale som har tilstrekkelig styrke og som er innrettet slik at arbeidstakerne kan komme seg i sikkerhet ved innstrømming av vann eller skred,\nc. tilstrekkelig solid og stabil utforming eller avstivning av sidevegger i grøfter og sjakter,\nd. stabil utførelse av ferdselsveier, lagrings- og oppstillingsplasser, fyllinger, terrasser, brytningsfronter mv. slik at de tåler belastningen av maskiner og utstyr som skal benyttes. Terrasser og ferdselsveier skal være anlagt og vedlikeholdt slik at maskiner kan flyttes sikkert."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-4",
+     "nummer": "§ 6-4",
+     "tittel": "Sikring av arbeid på eller nær vei",
+     "ledd": [
+      "Ved arbeid på eller nær vei eller på annet område åpent for ferdsel, skal arbeidsstedet i tilstrekkelig grad være sikret og merket med varselfarger eller sikkerhetsskilt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-5",
+     "nummer": "§ 6-5",
+     "tittel": "Sikring mot fall",
+     "ledd": [
+      "Gangbaner, trapper, plattformer og arbeidsplasser som er plassert i høyden skal til enhver tid være solide og stabile, og ha en utforming og overflate som motvirker at de blir glatte.",
+      "På konstruksjoner der arbeidet medfører fare for personskade ved fall på mer enn 2 m til lavere nivå, skal det der det er praktisk mulig, være gangbane.",
+      "Gangbaner, trapper, plattformer, gulv, etasjedekker og lignende skal ha rekkverk i samsvar med § 2-22 der det er fare for at personer eller gjenstander kan falle ned. Når høyden er større enn 2 m, skal det alltid være rekkverk eller andre vernetiltak.",
+      "Åpninger mellom vegg og stillas eller gangbane større enn 0,30 m skal sikres. Over faste arbeidsplasser og trafikkarealer tillates åpninger i gulv og gitterrister bare når åpningene sjelden passeres, f.eks. i forbindelse med ettersyn og vedlikehold.",
+      "Landgang for skip og lignende skal ha rekkverk og sikkerhetsnett. Kai skal ha fester for sikkerhetsnett med passende mellomrom."
+     ],
+     "endringer": [
+      "Endret ved forskrift 21 juni 2016 nr. 759 (i kraft 1 juli 2016)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-8",
+   "navn": "kap7",
+   "overskrift": "Kapittel 7. Kjemikalier og forurensning i arbeidsatmosfæren",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-1",
+     "nummer": "§ 7-1",
+     "tittel": "Ventilasjon og prosessavsug",
+     "ledd": [
+      "Arbeidslokaler og arbeidsplasser, eller andre områder hvor arbeidstakere har adgang og hvor arbeidet eller prosesser kan medføre forurensing av luften, skal ha mekanisk ventilasjon og prosesstilpasset avsug slik at konsentrasjonen av kjemikalier i arbeidsatmosfæren holdes på et fullt forsvarlig nivå, med hensyn til helse og eksplosjonsfare.",
+      "Ventilasjon og prosesstilpasset avsug skal:\na. fjerne forurensningen ved kilden slik at eksponering og behov for å benytte åndedrettsvern reduseres mest mulig,\nb. redusere eksponering for forurensing i hele oppholdssonen,\nc. hindre spredning av forurensinger til andre lokaler.",
+      "I trange kummer, tunneler, pumpestasjoner og lignende skal det være ventilasjon som sikrer frisklufttilførsel til alle steder hvor det utføres arbeid.",
+      "Feil ved ventilasjon og prosessavsug skal automatisk varsles dersom det er nødvendig av hensyn til arbeidstakernes helse og sikkerhet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-2",
+     "nummer": "§ 7-2",
+     "tittel": "Resirkulering av luft i ventilasjonsanlegg",
+     "ledd": [
+      "Resirkulering av luft er bare tillatt dersom arbeidsgiver kan dokumentere at det ikke kan medføre helserisiko for arbeidstakerne.",
+      "Ventilasjon som innebærer resirkulering av luft som inneholder kreftfremkallende, mutagene eller forplantningsskadelige kjemikalier og fra lokaler hvor det utføres varmt arbeid er ikke tillatt.",
+      "Forbud mot resirkulering gjelder ikke for arbeid hvor trestøv frigjøres."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 26 juni 2015 nr. 798, 5 april 2024 nr. 571."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-3",
+     "nummer": "§ 7-3",
+     "tittel": "Utforming av prosessavsug",
+     "ledd": [
+      "Stasjonære prosessavsug skal ha utblåsing til friluft. Der hvor stasjonære avsug ikke er praktisk anvendelig skal det benyttes mobile avsug med filter som er egnet for de aktuelle forurensninger. I trange rom er utblåsning fra avsug med filter ikke tillatt.",
+      "Rom hvor det arbeides med cytostatika skal være utstyrt med arbeidsbenker med avtrekksskap. Avtrekksskapet skal ha gjennomsiktig avskjerming. Ventilasjonen i slike rom skal være atskilt fra den øvrige ventilasjonen, og avtrekksluften skal føres direkte ut i det fri, eventuelt etter nødvendig rensing."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-4",
+     "nummer": "§ 7-4",
+     "tittel": "Hygieniske tiltak ved kontakt med farlige stoffer og stoffblandinger",
+     "ledd": [
+      "På arbeidssted der det håndteres helsefarlige stoffer og stoffblandinger med fare for søl og sprut, skal det være mulighet for spyling med rikelige mengder rent vann.",
+      "Det skal være øyespylingsmuligheter i umiddelbar nærhet av arbeidsstedet.",
+      "Det skal være vaskemuligheter i eller i umiddelbar nærhet av arbeidslokaler hvor arbeidstakere kan bli eksponert for kreftfremkallende, mutagene eller forplantningsskadelige kjemikalier."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 26 juni 2015 nr. 798, 5 april 2024 nr. 571."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-5",
+     "nummer": "§ 7-5",
+     "tittel": "Fjerning av kjemikalierester",
+     "ledd": [
+      "Rom og installasjoner skal være utformet slik at rester av kjemikalier kan fjernes med minst mulig bruk av andre farlige kjemikalier."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-9",
+   "navn": "kap8",
+   "overskrift": "Kapittel 8. Arbeid i omgivelser som kan medføre eksponering for biologiske faktorer",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-1",
+     "nummer": "§ 8-1",
+     "tittel": "Arbeidsplasser med biologisk helserisiko",
+     "ledd": [
+      "Arbeidsplasser hvor det forekommer biologiske faktorer som kan innebære helserisiko for arbeidstakerne, skal være utformet på en slik måte at eksponeringen reduseres til et lavest mulig nivå, og slik at antall arbeidstakere som kan bli eksponert blir lavest mulig."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-2",
+     "nummer": "§ 8-2",
+     "tittel": "Hygiene og rengjøring",
+     "ledd": [
+      "Egnede desinfeksjons-, vaske- og toalettmuligheter skal være tilgjengelig for arbeidstakere som utsettes for biologiske faktorer."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-3",
+     "nummer": "§ 8-3",
+     "tittel": "Inneslutningstiltak i avløpsanlegg",
+     "ledd": [
+      "Innendørs bassenger med lufttilførsel og andre prosesser som kan avgi forurensinger til arbeidsatmosfæren, skal være tildekket eller innebygget for å holde mengden av biologiske faktorer og helsefarlige stoffer i arbeidsatmosfæren på et forsvarlig nivå, med mindre det ikke er praktisk mulig."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-4",
+     "nummer": "§ 8-4",
+     "tittel": "Inneslutningstiltak i laboratorier og isolasjonsenheter",
+     "ledd": [
+      "I laboratorier der arbeidstakerne eksponeres eller kan bli eksponert for biologiske faktorer, eller det håndteres forsøksdyr som med hensikt er blitt smittet med biologiske faktorer i smitterisikogruppe 2, 3 eller 4, jf. vedlegg 2 i forskrift om tiltaks- og grenseverdier, eller som er eller mistenkes for å være bærere av slike faktorer, skal det for å begrense infeksjonsrisikoen være iverksatt følgende inneslutningstiltak:\na. minst inneslutningsnivå 2 for aktiviteter forbundet med biologiske faktorer i smitterisikogruppe 2\nb. minst inneslutningsnivå 3 for aktiviteter forbundet med biologiske faktorer i smitterisikogruppe 3\nc. minst inneslutningsnivå 4 for aktiviteter forbundet med biologiske faktorer i smitterisikogruppe 4.",
+      "I laboratorier, hvor det uten at det er laboratoriets hensikt å arbeide med biologiske faktorer, likevel håndteres materiale som kan inneholde biologiske faktorer som kan forårsake sykdommer hos mennesker, skal inneslutningsnivået minst være nivå 2. Inneslutningsnivå 3 eller 4 skal anvendes i de tilfeller hvor dette i følge eksisterende kunnskap eller mistanke må anses som nødvendig, med mindre det ut fra uttalelse fra de ansvarlige myndigheter kan fastslås at et lavere inneslutningsnivå er tilstrekkelig.",
+      "I isolasjonsenheter hvor det oppholder seg mennesker eller dyr, som er eller antas å være smittet med biologiske faktorer i smitterisikogruppe 3 eller 4, jf. vedlegg 2 i forskrift tiltaks- og grenseverdier, skal de av inneslutningstiltakene som er nevnt i kolonne A, og som i henhold til risikovurderingen anses nødvendig, iverksettes.",
+      "I laboratorier skal følgende inneslutningstiltak være iverksatt:\n| | A\nInneslutningstiltak | B\nInneslutningsnivå\n| | | 2 | 3 | 4\n| 1. | Arbeidslokalene skal være atskilt fra enhver annen aktivitet i samme bygning | Nei | Anbefalt | Ja\n| 2. | Arbeidslokalene skal være merket med skilt for biologisk fare | Ja | Ja | Ja\n| 3. | Det skal være forrom | Nei | Ja, forrom eventuelt luftsluse | Ja, luftsluse\n| 4. | Det skal finnes et observasjonsvindu eller en tilsvarende anordning som gjør det mulig å se dem som oppholder seg innenfor | Anbefalt | Ja | Ja\n| 5. | Det skal være kommunikasjonsmulighet fra rommet | Anbefalt | Ja, anbefalt håndfri telefon/calling-opplegg | Ja, håndfri telefon/calling-opplegg\n| 6. | Trykket i arbeidslokalene skal være lavere enn atmosfærisk trykk | Nei | Anbefalt, med lufttrykkontroll | Ja, med lufttrykkontroll\n| 7. | Arbeidslokalenes innluft og utluft skal filtreres ved hjelp av absolutte filtre eller lignende utstyr | Nei | Ja, utluften | Ja, utluften og innluften\n| 8. | Det skal være sikkerhetskabinett | Nei | Ja | Ja, sikkerhetskabinett klasse III\n| 9. | Arbeidslokalene må ha nødstrøm | Nei | Anbefalt | Ja\n| 10. | Hvert enkelt laboratorium skal ha komplett utstyr | Nei | Ja | Ja\n| 11. | Det skal være autoklav i arbeidslokalene | Nei | Ja | Ja\n| 12. | Overflater skal være vanntette og lette å rengjøre | Ja, på arbeidsbenk | Ja, på arbeidsbenk og gulv | Ja, på arbeidsbenk, vegger, gulv og i tak\n| 13. | Overflater skal tåle syrer, alkaliske stoffer, løsemidler og desinfeksjonsmidler | Ja, på arbeidsbenk | Ja, på arbeidsbenk og gulv | Ja, på arbeidsbenk, vegger, gulv og i tak\n| 14. | Arbeidslokalene skal ha avstengningsmekanismer som muliggjør desinfisering | Nei | Ja | Ja\n| 15. | Desinfeksjonsprosedyrer skal spesifiseres | Ja | Ja | Ja\n| 16. | Avløpsvann skal desinfiseres før uttømming | Nei | Anbefalt | Ja\n| 17. | Bare utpekte arbeidstakere skal ha adgang | Anbefalt | Ja | Ja, via luftsluse\n| 18. | Biologiske faktorer må oppbevares på et sikkert sted | Ja | Ja | Ja, på sted med sikret adgang\n| 19. | Håndtering av infisert materiale, herunder dyr, skal finne sted i et sikkerhetsrom, i et isolert avlukke eller i en annen passende inneslutning | Om nødvendig | Ja, dersom smitte spres gjennom luften | Ja\n| 20. | Det skal finnes forbrenningsanlegg til destruksjon av dyrelik | Anbefalt | Ja (tilgjengelig) | Ja, på stedet\n| 21. | Det skal foretas effektiv kontroll med smittebærere, f.eks. gnagere og insekter | Anbefalt | Ja | Ja"
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-5",
+     "nummer": "§ 8-5",
+     "tittel": "Inneslutningstiltak i industriell virksomhet",
+     "ledd": [
+      "Ved industrielle prosesser hvor det anvendes biologiske faktorer i smitterisikogruppe 2, 3 og 4 jf. vedlegg 2 i forskrift om tiltaks- og grenseverdier, skal følgende tiltak være iverksatt:\na. minst inneslutningsnivå 2 for aktiviteter forbundet med biologiske faktorer i smitterisikogruppe 2\nb. minst inneslutningsnivå 3 for aktiviteter forbundet med biologiske faktorer i smitterisikogruppe 3\nc. minst inneslutningsnivå 4 for aktiviteter forbundet med biologiske faktorer i smitterisikogruppe 4.",
+      "Ved industriell bruk av biologiske faktorer i smitterisikogruppe 2, 3 eller 4 kan ansvarlige myndigheter bestemme hvilke tiltak som skal iverksettes.",
+      "For aktiviteter som omfattes av denne paragraf, hvor det ikke har vært mulig å foreta en endelig klassifisering av en biologisk faktor, men hvor det foreligger indikasjoner om at den planlagte bruk kan medføre en alvorlig helsefare for arbeidstakerne, skal arbeidet utføres i lokaler minst svarende til inneslutningsnivå 3.",
+      "For industrielle prosesser skal følgende inneslutningstiltak være iverksatt:\n| | Inneslutningstiltak | Inneslutningsnivå\n| | | 2 | 3 | 4\n| 1. | Levedyktige mikroorganismer skal innesluttes i et system som fysisk avstenger arbeidsoperasjonen fra det omgivende miljø | Ja | Ja | Ja\n| 2. | Lukkede produksjonssystemer skal plasseres i et innesluttet område (rom, bygninger) | Anbefalt | Ja | Ja, innesluttet område konstruert for formålet\n| 3. | Skilt for biologisk fare skal settes opp | Ja | Ja | Ja\n| 4. | Det skal være forrom | Nei | Ja, eventuelt luftsluse | Ja, luftsluse\n| 5. | Det skal være observasjonsvindu eller tilsvarende anordning som gjør det mulig å se dem som oppholder seg innenfor | Anbefalt | Ja | Ja\n| 6. | Det skal være kommunikasjonsmulighet fra området | Ja | Ja, anbefalt håndfri telefon/calling-opplegg | Ja, håndfri telefon/ calling-opplegg\n| 7. | Det innesluttede området skal ha tilstrekkelig ventilasjon til å redusere luftforurensningen til et minimum | Anbefalt | Anbefalt | Ja\n| 8. | Det innesluttede området skal ha et trykk som er lavere enn atmosfærisk trykk | Nei | Anbefalt, med lufttrykkontroll | Ja, med lufttrykkontroll\n| 9. | Det innesluttede områdets innluft og utluft skal filtreres ved hjelp av et absolutt filter | Nei | Ja, utluft | Ja, utluft og innluft\n| 10. | Det innesluttede området må ha nødstrøm | Nei | Anbefalt | Ja\n| 11. | Gasser som avgis fra det lukkede systemet, skal behandles på en slik måte at | spredning reduseres til et minimum | spredning ikke finner sted | spredning ikke finner sted\n| 12. | Prøvetaking, tilføring av stoffer til et lukket system og overføring av levedyktige mikroorganismer til et annet lukket system skal utføres på en slik måte at | spredning reduseres til et minimum | spredning ikke finner sted | spredning ikke finner sted\n| 13. | Flytende medier skal ikke fjernes fra det lukkede systemet med mindre de levedyktige mikroorganismene er | gjort uvirksomme ved hjelp av anerkjente metoder | gjort uvirksomme ved hjelp av anerkjente kjemiske eller fysiske metoder | gjort uvirksomme ved hjelp av anerkjente kjemiske eller fysiske metoder\n| 14 | Avstengingsmekanismer skal utformes på en slik måte at | spredning reduseres til et minimum | spredning ikke finner sted | spredning ikke finner sted\n| 15. | Det innesluttede området skal være utformet på en slik måte at det ved overløp fra det avstengte systemet kan holde på hele innholdet derfra | Nei | Ja | Ja\n| 16. | Overflater skal være vanntette og lette å rengjøre | Ja, på arbeidsbenker og lignende | Ja, på arbeidsbenker og lignende og gulv | Ja, på arbeidsbenker og lignende, gulv og tak\n| 17. | Overflater skal tåle syrer, alkaliske stoffer, løsemidler og desinfeksjonsmidler | Ja, på arbeidsbenker | Ja, på arbeidsbenker og gulv | Ja, på arbeidsbenker, vegger, gulv og tak\n| 18. | I det innesluttede området skal det være mulig lokalt å deisinfisere forurenset utstyr (tilsvarende effekt av autoklav) | Nei | Ja | Ja\n| 19. | Det innesluttede området skal ha avstengnings- mekanismer som muliggjør utgassing | Nei | Ja | Ja\n| 20. | Desinfeksjonsprosedyrer skal spesifiseres | Ja | Ja | Ja\n| 21. | Behandling av spillvann skal finne sted før endelig uttømming | gjort uvirksomt ved hjelp av anerkjente metoder | gjort uvirksomt ved hjelp av anerkjente kjemiske eller fysiske metoder | gjort uvirksomt ved hjelp av anerkjente kjemiske eller fysiske metoder\n| 22. | Bare utpekt personale skal ha adgang | Anbefalt | Ja | Ja, via luftsluse\n| 23. | Personale skal bære vernetøy | Ja, arbeidstøy | Ja, vernetøy | Ja, fullstendig omkledning\n| 24. | Personalet skal ha adgang til dekontamineringsanlegg og sanitæranlegg | Ja | Ja | Ja\n| 25. | Personalet skal dusje før det forlater sonen | Nei | Anbefalt | Ja\n| 26. | Spillvann fra vasker og dusjer skal samles opp og inaktiveres før det slippes ut | Nei | Anbefalt | Ja"
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-10",
+   "navn": "kap9",
+   "overskrift": "Kapittel 9. Gebyr ved byggesaksbehandling",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-1",
+     "nummer": "§ 9-1",
+     "tittel": "Plikt til å betale gebyr for byggesaksbehandling",
+     "ledd": [
+      "Den som vil oppføre bygning eller utføre bygningsmessig arbeid som har plikt til å innhente Arbeidstilsynets samtykke på forhånd etter arbeidsmiljøloven § 18-9, skal betale gebyr etter forskrift om administrative ordninger kapittel 14."
+     ],
+     "endringer": [
+      "Endret ved forskrift 30 des 2013 nr. 1719 (i kraft 1 jan 2014)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-11",
+   "navn": "kap10",
+   "overskrift": "Kapittel 10. Avsluttende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-11-paragraf-1",
+     "nummer": "§ 10-1",
+     "tittel": "Straff",
+     "ledd": [
+      "Forsettlig eller uaktsom overtredelse av denne forskriften eller vedtak gitt i medhold av denne, eller medvirkning til dette, er straffbart i henhold til arbeidsmiljøloven kapittel 19."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-11-paragraf-2",
+     "nummer": "§ 10-2",
+     "tittel": "Overtredelsesgebyr",
+     "ledd": [
+      "Dersom noen som har handlet på vegne av virksomheten har overtrådt bestemmelser i forskriften her eller vedtak gitt i medhold av denne, kan virksomheten ilegges overtredelsesgebyr etter arbeidsmiljøloven § 18-10."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 30 des 2013 nr. 1719 (i kraft 1 jan 2014)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-11-paragraf-3",
+     "nummer": "§ 10-3",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Denne forskriften trer i kraft 1. januar 2013."
+     ],
+     "endringer": [
+      "Endret ved forskrift 30 des 2013 nr. 1719 (i kraft 1 jan 2014, tidligere § 10-2)."
+     ]
+    }
+   ]
+  }
+ ]
+}

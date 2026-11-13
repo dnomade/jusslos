@@ -1,0 +1,313 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2026-10-01-2143",
+ "dokumentid": "SF/forskrift/2026-10-01-2143",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "etat": [
+  "Havbruksavdelingen"
+ ],
+ "ikraft": "2026-10-01",
+ "hjemmel": [
+  {
+   "ref": "lov/2005-06-17-79/§5",
+   "tekst": "lov/2005-06-17-79/§5"
+  },
+  {
+   "ref": "lov/2005-06-17-79/§6",
+   "tekst": "lov/2005-06-17-79/§6"
+  },
+  {
+   "ref": "lov/2005-06-17-79/§7",
+   "tekst": "lov/2005-06-17-79/§7"
+  },
+  {
+   "ref": "lov/2005-06-17-79/§9",
+   "tekst": "lov/2005-06-17-79/§9"
+  },
+  {
+   "ref": "lov/2005-06-17-79/§10",
+   "tekst": "lov/2005-06-17-79/§10"
+  },
+  {
+   "ref": "lov/2005-06-17-79/§33a",
+   "tekst": "lov/2005-06-17-79/§33a"
+  },
+  {
+   "ref": "forskrift/2017-01-16-61/§8",
+   "tekst": "forskrift/2017-01-16-61/§8"
+  },
+  {
+   "ref": "forskrift/2017-01-16-61/§11",
+   "tekst": "forskrift/2017-01-16-61/§11"
+  },
+  {
+   "ref": "forskrift/2017-01-16-61/§13",
+   "tekst": "forskrift/2017-01-16-61/§13"
+  }
+ ],
+ "kunngjort": "2026-10-27 14:45",
+ "korttittel": "Auksjonsforskriften 2026",
+ "tittel": "Forskrift om tildeling av produksjonskapasitet til akvakultur med matfisk i sjø av laks, ørret og regnbueørret i 2026 gjennom auksjon (auksjonsforskriften 2026)",
+ "annet": "Hjemmel: Fastsatt av Nærings- og fiskeridepartementet 1. oktober 2026 med hjemmel i lov 17. juni 2005 nr. 79 om akvakultur (akvakulturloven) § 5, § 6, § 7, § 9, § 10 og § 33a og forskrift 16. januar 2017 nr. 61 om produksjonsområder for akvakultur av matfisk i sjø av laks, ørret og regnbueørret (produksjonsområdeforskriften) § 8, § 11 og § 13.",
+ "refid": "forskrift/2026-10-01-2143",
+ "eli": "/eli/forskrift/2026/10/01/2143",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2026-10-01-2143",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Formål",
+     "ledd": [
+      "Forskriften skal fremme akvakulturnæringens lønnsomhet og konkurransekraft innenfor rammene av en miljømessig bærekraftig utvikling og bidra til verdiskaping på kysten."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Forskriftens virkeområde",
+     "ledd": [
+      "Forskriften gjelder for norsk landterritorium og territorialfarvann, på kontinentalsokkelen og i Norges økonomiske sone.",
+      "Forskriften gjelder tildeling av produksjonskapasitet til akvakultur med matfisk av laks, ørret og regnbueørret i sjø, i 2026."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Fordeling av produksjonskapasitet i denne tildelingsrunden",
+     "ledd": [
+      "Departementet vil i forkant av auksjonen bestemme at det innenfor produksjonsområdene 1, 12 og 13 kan tildeles inntil et gitt antall tonn produksjonskapasitet.",
+      "De nærmere grenser for produksjonsområdene følger av forskrift 16. januar 2017 nr. 61 om produksjonsområder for akvakultur av matfisk i sjø av laks, ørret og regnbueørret."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 4",
+     "tittel": "Kunngjøring av produksjonskapasitet",
+     "ledd": [
+      "Fiskeridirektoratet og fylkeskommunene står for den offentlige kunngjøringen av tildelingsrunden som vil foregå via auksjon. Departementet avgjør kunngjøringstidspunktet."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Auksjon av produksjonskapasitet",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 5",
+     "tittel": "Tildelingsform",
+     "ledd": [
+      "Innenfor hvert produksjonsområde auksjoneres det ut et bestemt antall tonn produksjonskapasitet til akvakultur med laks, ørret og regnbueørret, jf. § 3. Produksjonskapasitet vunnet gjennom auksjonen tildeles til aktuelle budgivere gjennom tilsagn fra Fiskeridirektoratet i etterkant av auksjonen.",
+      "Auksjonen gjennomføres som en simultan klokkeauksjon. Auksjonsformatet innebærer at det innenfor hvert produksjonsområde settes en startpris per tonn produksjonskapasitet. Budgiver angir hvor mange tonn produksjonskapasitet budgiver er villig til å kjøpe til angitt pris. Dersom etterspørselen i tonn er høyere enn antallet tonn tilgjengelig i ett eller flere produksjonsområder, vil en ny runde initieres der prisen per tonn produksjonskapasitet økes i produksjonsområder med overskuddsetterspørsel, se likevel § 13. Dette foregår inntil etterspørselen er tilsvarende eller mindre enn den tilgjengelige produksjonskapasiteten i alle produksjonsområdene.",
+      "Det kan gis bestemmelser som åpner for å gi exit-bud, som kan benyttes for å tildele eventuell kapasitet som gjenstår etter avslutningen av den alminnelige klokkeauksjonen. Dersom etterspørselen i siste runde er lavere enn tilgjengelig produksjonskapasitet i ett eller flere produksjonsområder, kan departementet akseptere ett eller flere exit-bud for å tildele den tilgjengelige kapasiteten som gjenstår når bud til klokkepriser er akseptert.",
+      "Det kan ikke vinnes produksjonskapasitet i mindre kvantum enn 1 tonn. Bud gis i hele tonn."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 6",
+     "tittel": "Tidspunkt og sted for gjennomføring av auksjonen",
+     "ledd": [
+      "Auksjonen vil gjennomføres på en nettbasert auksjonsplattform. Tidspunktet for auksjonen besluttes av departementet."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Om tildeling av tilsagn om tillatelse, tillatelse og vederlag",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 7",
+     "tittel": "Rett til å søke klarering av lokalitet og utskriving av tillatelsesdokument",
+     "ledd": [
+      "Fiskeridirektoratet fatter vedtak om tilsagn om produksjonskapasitet til alle budvinnere i auksjonen. Vinnere av auksjonen kan be om at produksjonskapasitet tildeles som økt kapasitet på en eller flere eksisterende tillatelser, så fremt den eksisterende tillatelsen er hjemmehørende i samme produksjonsområde som produksjonskapasiteten er vunnet.",
+      "Tilsagn om produksjonskapasitet gir rett til å søke om lokalitetsklarering for den tildelte produksjonskapasiteten innenfor det produksjonsområdet tilsagnet gjelder i henhold til reglene i laksetildelingsforskriften kapittel 8.",
+      "Rett til drift starter når tillatelsesdokument er skrevet ut av fylkeskommunen. Tillatelsesdokument kan ikke skrives ut før forvaltningen endelig har avgjort eventuelle klager som følge av auksjonen.",
+      "Fylkeskommunen kan ikke skrive ut tillatelsesdokument på mindre enn 100 tonn MTB. Tilsagn om produksjonskapasitet under 100 tonn MTB må søkes brukt til utvidelse av en eller flere eksisterende tillatelser tilhørende samme produksjonsområde før 31. desember 2026, slik at samlet produksjonskapasitet er lik eller større enn 100 tonn. Søknad om utvidelse av eksisterende tillatelser sendes den aktuelle fylkeskommunen og det skal ikke betales søknadsgebyr. Dersom et tilsagn om produksjonskapasitet mindre enn 100 tonn ikke er søkt brukt til utvidelse av en eller flere eksisterende tillatelser innen 31. desember 2026 kan Fiskeridirektoratet trekke tilsagnet om produksjonskapasitet tilbake. Vederlag som er innbetalt vil ikke bli refundert."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 8",
+     "tittel": "Innbetalt vederlag og endringer i rammebetingelser mv.",
+     "ledd": [
+      "En tillatelse til akvakultur gir rettigheter og plikter og er underlagt de til enhver tid gjeldende lover og regler.",
+      "Vederlaget blir ikke refundert ved endringer i rammebetingelser som påvirker lønnsomhet, og heller ikke ved eventuell senere inndragning eller reduksjon av tillatelsens kapasitet på bakgrunn av forhold nevnt i akvakulturloven § 9 eller andre lovbestemte forhold, herunder reduksjon i kapasitet besluttet i eller i medhold av produksjonsområdeforskriften."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Krav til deltagelse i auksjonen",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 9",
+     "tittel": "Hvem som kan delta i auksjonen",
+     "ledd": [
+      "Budgivere må være registrert, jf. § 10, innfri kravene til finansiell situasjon, jf. § 11 og akseptere auksjonsreglementet, jf. § 17 for å kunne delta i auksjonen. Registrering forplikter ikke til å gi bud.",
+      "Bare selskaper hjemmehørende i EØS, Storbritannia eller Sveits kan delta i auksjonen.",
+      "Et selskap må være registrert med organisasjonsnummer i Brønnøysundregistrene."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 10",
+     "tittel": "Krav for å bli registrert som budgiver",
+     "ledd": [
+      "For å delta i auksjonen må foretaket:\na. fylle ut fastsatt registreringsskjema, firmaattest, aksept av auksjonsreglementet, samt gi informasjon om konsernforhold og tilknyttede selskap jf. annet ledd,\nb. tilfredsstille krav til finansiell situasjon i henhold til § 11 og avgi egenerklæring om dette, og\nc. laste opp skjema om dokumentasjon på betalingsevne.",
+      "Det kan ikke registreres flere selskap tilhørende samme konsern, jf. regnskapsloven § 1-3. Foretak skal opplyse om tilknyttede selskap, jf. regnskapsloven § 1-4.",
+      "Registreringen skjer elektronisk på Fiskeridirektoratets nettside. Frist for registrering er 5. november 2026 kl. 23:59.",
+      "Fiskeridirektoratet skal avvise registreringen dersom:\na. den er levert for sent, eller\nb. dersom den inneholder vesentlige feil og mangler.",
+      "Dersom registreringsdokumentene har feil eller mangler vil budgiver bli gitt en kort frist til å rette disse.",
+      "Vedtak om avvist registrering kan påklages."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 11",
+     "tittel": "Finansiell situasjon",
+     "ledd": [
+      "En budgiver kan ikke:\na. være ute av stand til å oppfylle sine betalingsforpliktelser,\nb. ha åpnet gjeldsforhandlinger,\nc. være insolvent eller være underlagt begjæring om konkurs eller opphør,\nd. ha begjært frivillig opphør, eller\ne. være gjenstand for konkursbehandling eller være konkurs.",
+      "Budgiver skal gjennom registreringsskjemaet avgi erklæring om egen finansiell situasjon."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Budgivning",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 12",
+     "tittel": "Budgivning",
+     "ledd": [
+      "Bud skal gis elektronisk i Nærings- og fiskeridepartementets auksjonssystem og anses som bindende avgitt på det tidspunktet budet er lagret i auksjonssystemet og budrunden er avsluttet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 13",
+     "tittel": "Uforutsette hendelser mv.",
+     "ledd": [
+      "For det tilfelle at det oppstår ekstraordinære hendelser under auksjonen, for eksempel problemer med auksjonssystemet, kan departementet:\na. Endre tidspunkt for en budrunde som har blitt fastsatt, men som ikke har startet.\nb. Utsette tidspunktet for avslutningen av en budrunde som pågår eller utsette offentliggjøringen av resultatet fra runden.\nc. Kansellere en pågående budrunde og fastsette et nytt tidspunkt for gjennomføring av budrunden.\nd. Avvise alle bud som har innkommet under auksjonen og starte auksjonen på nytt.",
+      "Departementet kan avslutte en budrunde og starte en ny budrunde med justerte priser, blant annet ved mistanke om en kunstig svekket konkurransesituasjon i ett eller flere produksjonsområder.",
+      "Ved mistanke om prissamarbeid kan departementet beslutte å avvise alle bud og avslutte auksjonen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 14",
+     "tittel": "Vinner av auksjonen",
+     "ledd": [
+      "Vinner kåres etter at auksjonen er avsluttet. Auksjonen avsluttes når det ikke gjenstår overskuddsetterspørsel i noen produksjonsområder. Dersom det gjenstår kapasitet etter siste runde, kan restkapasitet tildeles ved exit-bud i tråd med de detaljerte auksjonsreglene.",
+      "Vinnere kan dele opp eller fordele tildelt kapasitet på nye tillatelser i ønsket antall og størrelser innenfor hvert produksjonsområde, avgrenset av den produksjonskapasiteten de har vunnet i disse områdene samt begrensningene som framkommer i forskriftens § 7. Dette gjelder ikke tilsagn om tillatelse som er under 100 tonn. Det er heller ikke mulig å dele opp tilsagn om tillatelser som er over 100 tonn på en slik måte at en ny tillatelse får en størrelse under 100 tonn."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-4",
+     "nummer": "§ 15",
+     "tittel": "Innbetaling av vederlag",
+     "ledd": [
+      "Vinner av auksjonen plikter å betale vederlag innen 15 dager, inkludert helligdager, fra mottatt notifikasjon om vinnende bud, til\nFiskeridirektoratet,\nSeksjon budsjett og virksomhetsstyring,\nPostboks 185 Sentrum,\n5804 Bergen.",
+      "Beløpet betales til kontonummer 7694 05 09048 og innbetalingen merkes i henhold til direktoratets instruksjoner.",
+      "Departementet kan kreve erstatning for det tap staten lider som følge av budgivers mislighold av auksjonsbeløpet."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Avsluttende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 16",
+     "tittel": "Fastsettelse av detaljerte auksjonsregler",
+     "ledd": [
+      "Departementet vil fastsette detaljerte regler for auksjonen. Reglene publiseres på Fiskeridirektoratets nettsider."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 17",
+     "tittel": "Brudd på auksjonsreglene",
+     "ledd": [
+      "Brudd på denne forskriften, auksjonsregelverket eller konkurranseregelverket, herunder konkurranseloven § 10, medfører utestengelse fra denne auksjonen.",
+      "Den ekskluderte budgiveren vil ikke bli tildelt tilsagn om produksjonskapasitet.",
+      "Dersom bruddet oppdages etter at auksjonen er gjennomført kan Fiskeridirektoratet trekke tilbake eventuelle tilsagn om tillatelse eller tildelt tillatelse.",
+      "Staten vil i tillegg til eventuell tilbaketrekking av tilsagn om tillatelse eller tillatelse, kunne forfølge eventuelle økonomiske tap som følge av brudd på auksjonsregelverket gjennom sivilt søksmål."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-3",
+     "nummer": "§ 18",
+     "tittel": "Tilbakebetaling av innbetalt vederlag ved omgjøring",
+     "ledd": [
+      "Dersom tilsagn om tillatelse eller tildelt tillatelse trekkes tilbake som følge av omgjøring av vedtaket om tilsagn, for eksempel på grunn av klage, tilbakebetales innbetalt vederlag. Dette gjelder bare omgjøringsvedtak gjort etter denne forskriften."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-4",
+     "nummer": "§ 19",
+     "tittel": "Søksmålsfrist",
+     "ledd": [
+      "Fiskeridirektoratet eller departementet kan sette som vilkår at mulig søksmål om forvaltningsvedtak etter denne forskriften er gyldig eller krav om erstatning som følge av vedtaket, skal tas ut innen seks måneder fra det tidspunkt melding om fastsettelse av frist kom frem til vedkommende part. Det kan gis oppfriskning for oversittelse av fristen etter reglene i tvisteloven § 16-12 til § 16-14."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-5",
+     "nummer": "§ 20",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Denne forskriften trer i kraft straks."
+     ]
+    }
+   ]
+  }
+ ]
+}

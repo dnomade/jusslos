@@ -1,0 +1,53 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-1989-01-27-65",
+ "dokumentid": "DEL/forskrift/1989-01-27-65",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Adm.avd."
+ ],
+ "kunngjort_i": "I 1989 42",
+ "ikraft": "1989-01-27",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1980-06-13-24/§6-6",
+   "tekst": "lov/1980-06-13-24/§6-6"
+  }
+ ],
+ "korttittel": "Forskrift om delegering, ligningsloven § 6-6",
+ "tittel": "Forskrift om delegering av myndighet etter ligningsloven § 6-6.",
+ "annet": "Fastsatt ved kgl.res. av 27. januar 1989. Fremmet av Finans- og tolldepartementet.",
+ "refid": "forskrift/1989-01-27-65",
+ "eli": "/eli/forskrift/1989/01/27/65",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/1989-01-27-65",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Den myndighet som i lov 13. juni 1980 nr. 24 om ligningsforvaltning § 6-6 er tillagt Kongen, delegeres til Finans- og tolldepartementet."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Vedtaket trer ikraft straks."
+    }
+   ]
+  }
+ ]
+}

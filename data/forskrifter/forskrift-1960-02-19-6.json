@@ -1,0 +1,52 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-1960-02-19-6",
+ "dokumentid": "SF/forskrift/1960-02-19-6",
+ "departement": [
+  "Arbeids- og inkluderingsdepartementet"
+ ],
+ "etat": [
+  "Trygdeavd."
+ ],
+ "kunngjort_i": "I 1960 s 168",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1958-12-12-10/§1",
+   "tekst": "lov/1958-12-12-10/§1"
+  }
+ ],
+ "korttittel": "Forsk. om sykdom mv likestilt med yrkesskade",
+ "tittel": "Forskrifter om yrkessykdommer og infeksjonssykdommer som likestilles med yrkesskade.",
+ "annet": "Fastsatt ved kgl.res. 19. februar 1960 i medhold av § 10, punkt 1, i lov om yrkesskadetrygd av 12. desember 1958. – Gjelder fremdeles for yrkesskader som er inntruffet før 01.01.1971.",
+ "refid": "forskrift/1960-02-19-6",
+ "eli": "/eli/forskrift/1960/02/19/06",
+ "url": "https://lovdata.no/dokument/SF/forskrift/1960-02-19-6",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I.",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Følgende yrkessykdommer og infeksjonssykdommer skal fra 1. januar 1960 stilles likt med yrkesskade etter nevnte lov:\nA. Sykdommer som skyldes forgiftning eller annen kjemisk påvirkning.\nB. Allergiske og idiosynkratiske hud- og lungesykdommer.\nC. Sykdommer som skyldes strålende energi.\nD. Nedsatt hørsel som skyldes larm fra maskiner eller verktøy.\nE. Lungesykdommer som skyldes påvirkning av finfordelte stoffer.\nF. Følgende sykdommer i armene: Arthrose, periarthrose, epicondylose, synoviose i slimpose eller seneskjede og Raynaulds traumatiske vasospastiske sykdom, når vedkommende sykdom er fremkalt av vibrasjoner overført fra pressluftverktøy, bankehammere o.l.\nG. Sykdommer som skyldes endringer av barometertrykket (dekompressjonssykdom) under visse arbeidsforhold som hos dykkere, flygere og andre.\nH. Sykdommer som skyldes smitte\n1. under arbeid i laboratorium hvor en arbeider med vedkommende smittestoff,\n2. under arbeid i sykehus og dets institusjoner eller i fødeheim, barneheim, pleieheim og gamleheim o.l. eller under yrkesmessig inspeksjon, pleie eller transport av syke når det gjelder følgende sykdommer:\na. tuberkulose,\nb. poliomyelitt med lammelser,\nc. difteri,\nd. tyfoidfeber,\ne. paratyfus A,\nf. smittsom gulsott,\ng. mononucleosis infectiosa,\nh. andre smittsomme sykdommer når den yrkesskadede har fått komplikasjoner fra hjerne og/eller ryggmargen, hjertet, nyrer eller ledd,\ni. serum-hepatitt,\nl. paratyfus B, andre salmonelloser og dysenteri når sykdommen etterfølges av en langvarig eller konstant smittebærertilstand.\n3. under arbeid med dyr eller planter som lider av en infeksjon framkalt av vedkommende smittestoff, eller under arbeid med dyre- eller planteprodukter som er infisert med smittestoffet.\nJ. Sykdommer etter vaksinasjon i samband med yrket når vaksinasjonen er utført etter offentlig påbud, oppfordring fra arbeidsgiver eller liknende."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II.",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Sosialdepartementet kan bestemme at andre yrkessykdommer og infeksjonssykdommer enn nevnt under I skal stilles likt med yrkesskade etter nevnt lov."
+    }
+   ]
+  }
+ ]
+}

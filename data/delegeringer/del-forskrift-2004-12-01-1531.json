@@ -1,0 +1,85 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-2004-12-01-1531",
+ "dokumentid": "DEL/forskrift/2004-12-01-1531",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Finansmarkedsavd."
+ ],
+ "kunngjort_i": "I 2004 hefte 14",
+ "ikraft": "2004-12-01",
+ "siste_endring_ikraft": "2004-12-20",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2004-12-20-1684",
+   "tekst": "forskrift/2004-12-20-1684"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2004-11-19-73/§17",
+   "tekst": "lov/2004-11-19-73/§17"
+  },
+  {
+   "ref": "forskrift/2004-11-19-1498",
+   "tekst": "forskrift/2004-11-19-1498"
+  }
+ ],
+ "kunngjort": "2004-12-03",
+ "korttittel": "Ikrafttr. og overgangsregler til bokføringsloven",
+ "tittel": "Ikrafttredelse og overgangsregler til lov 19. november 2004 nr. 73 om bokføring (bokføringsloven).",
+ "annet": "Hjemmel: Fastsatt av Finansdepartementet 1. desember 2004 med hjemmel i lov 19. november 2004 nr. 73 om bokføring (bokføringsloven) § 17, jf. delegeringsvedtak 19. november 2004 nr. 1498. Endret ved forskrift 20 des 2004 nr. 1684.",
+ "refid": "forskrift/2004-12-01-1531",
+ "eli": "/eli/forskrift/2004/12/01/1531",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/2004-12-01-1531",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Bokføringsloven trer med unntak av § 18 i kraft 1. januar 2005.",
+      "Bokføringsloven § 18 trer i kraft 1. januar 2006.",
+      "For bokføringspliktige som følger bokføringsloven med tilhørende forskrifter i 2005, gjelder likevel bokføringsloven § 18 nr. 1 fra 1. januar 2005."
+     ],
+     "endringer": [
+      "Endret ved forskrift 20 des 2004 nr. 1684."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Overgangsregler for bokføringspliktige pr. 1. januar 2005",
+     "ledd": [
+      "Frem til 1. januar 2006 eller første dag i et avvikende regnskapsår som starter i kalenderåret 2006, kan bokføringspliktige pr. 1. januar 2005 velge å fortsette å benytte reglene om registrering og dokumentasjon av regnskapsopplysninger (bokføring) mv. i lov 13. mai 1977 nr. 35 med tilhørende forskrifter, eller reglene i lov 17. juli 1998 nr. 56 kapittel 2 med tilhørende forskrifter.",
+      "Bokføringspliktige skal benytte de samme reglene for registrering og dokumentasjon av regnskapsopplysninger (bokføring) gjennom hele regnskapsåret 2005. Bokføringspliktige kan likevel velge å følge regler om oppbevaring i bokføringsloven § 13 med tilhørende forskrifter."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Dette vedtaket trer i kraft straks."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,462 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2025-07-04-1474",
+ "dokumentid": "SF/forskrift/2025-07-04-1474",
+ "departement": [
+  "Kunnskapsdepartementet"
+ ],
+ "etat": [
+  "Juridisk avdeling"
+ ],
+ "ikraft": "2025-08-01",
+ "endrer": "forskrift/2020-01-03-25",
+ "hjemmel": [
+  {
+   "ref": "lov/2024-03-08-9/§3-8",
+   "tekst": "lov/2024-03-08-9/§3-8"
+  }
+ ],
+ "kunngjort": "2025-07-07 16:10",
+ "tittel": "Forskrift om nasjonal retningslinje for farmasøytutdanningene, bachelor- og masterutdanning i farmasi",
+ "annet": "Hjemmel: Fastsatt av Kunnskapsdepartementet 4. juli 2025 med hjemmel i lov 8. mars 2024 nr. 9 om universiteter og høyskoler (universitets- og høyskoleloven) § 3-8 andre ledd.",
+ "refid": "forskrift/2025-07-04-1474",
+ "eli": "/eli/forskrift/2025/07/04/1474",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2025-07-04-1474",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Virkeområde og formål",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Virkeområde og formål",
+     "ledd": [
+      "Forskriften gjelder for universiteter og høyskoler som tilbyr farmasøytutdanning.",
+      "Forskriften gjelder for 3-årig bachelorutdanning, 2-årig masterutdanning og 5-årig integrert masterutdanning i farmasi. Bachelorutdanningen gir grunnlag for å søke autorisasjon som reseptarfarmasøyt og masterutdanningene gir grunnlag for å søke autorisasjon som provisorfarmasøyt. For den 2-årige masterutdanningen er det en forutsetning at den bygger på bachelorutdanningen i farmasi.",
+      "Forskriften skal sikre et nasjonalt likeverdig faglig nivå, slik at kandidatene som uteksamineres har en felles sluttkompetanse, uavhengig av utdanningsinstitusjon."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Formål med utdanningene",
+     "ledd": [
+      "Farmasøytutdanningene er profesjonsutdanninger som gir farmasøytisk kompetanse med hovedvekt på farmasøytiske, medisinske og naturvitenskapelige fag.",
+      "Legemidler er en sentral innsatsfaktor i helsevesenet og utdanningene dekker spennet fra utvikling og produksjon av legemidler til klinisk bruk på individ- og samfunnsnivå. Pasientsikkerhet og kvalitetssikring er i fokus og utdanningene gir også kompetanse innen kommunikasjon, etikk, tverrfaglig samarbeid og legger grunnlag for egenutvikling. I tillegg skal utdanningene gi vitenskapelig og analytisk kompetanse og sette kandidatene i stand til å bidra til innovasjon.",
+      "Utdanningene skal sikre et solid teoretisk og praktisk fundament for fremtidig yrkesutøvelse. Praksisstudier er viktig i utdanningene for å gi en større forståelse av og øvelse i hvordan farmasøytisk kompetanse kommer individer og samfunn til gode.",
+      "Etter endt utdanning har kandidaten kvalifikasjoner som samfunnet etterspør, og kan utføre sitt arbeid selvstendig og i samarbeid med andre.",
+      "Bare farmasøyter med autorisasjon kan ekspedere og utlevere reseptpliktige legemidler. Farmasøyten har samtidig plikt til å gi råd og informasjon om riktig bruk av legemidler.",
+      "I tillegg til å gi grunnlag for å søke om autorisasjon som helsepersonell skal masterutdanningene gi det teoretiske grunnlaget for følgende: driftskonsesjon for apotek, godkjenning som farmasifaglig ansvarlig (FFA) i grossistvirksomhet og godkjenning som «qualified person» (QP) med ansvar for å frigi produksjonspartier i apotek og industriell virksomhet.",
+      "Fullført 5-årig masterutdanning i farmasi, bachelor med påfølgende master eller integrert master, skal være i samsvar med direktiv 2005/36/EF, med senere endringer, herunder direktiv 2013/55/EU og delegert kommisjonsdirektiv (EU) 2024/782.",
+      "Utdanningene skal også sikre kompetanse og holdninger som danner grunnlag for likeverdige tjenestetilbud for alle grupper i samfunnet, deriblant kompetanse om samers status som urfolk og deres rettigheter til språklige og kulturelt tilrettelagte tjenester."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Kompetanseområder",
+     "ledd": [
+      "Bachelorutdanningen i farmasi skal gi sluttkompetanse i tråd med læringsutbyttene i kapittel 2 til 6, og masterutdanningen i farmasi skal gi sluttkompetanse i tråd med læringsutbyttene i kapittel 7 til 11 under følgende kompetanseområder:\n- Legemidler og helse\n- Pasientsikkerhet og kvalitetssikring\n- Kommunikasjon, samarbeid og tverrprofesjonell samhandling\n- Legemidler og samfunn\n- Forskning, utvikling og innovasjon.",
+      "En integrert masterutdanning i farmasi skal gi en samlet sluttkompetanse i tråd med læringsutbyttene i kapittel 2 til 11.",
+      "Læringsutbyttebeskrivelsene i § 8 b, § 11 b, § 12 a, § 13 c, d, e og h–j, § 14 b, § 15 a, c og d og § 18 b er basert på forskrift 4. juli 2025 nr. 1478 om felles rammeplan for helse- og sosialfagutdanninger § 2, og tilpasset utdanningen.",
+      "Omfang og graden av kompleksitet i læringsutbyttebeskrivelsene vil være avgjørende for hvor stor plass de skal gis i utdanningen."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Bachelorutdanning i farmasi – Læringsutbytte for kompetanseområdet legemidler og helse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 4",
+     "tittel": "Legemidler og helse – Kunnskap",
+     "ledd": [
+      "Kandidaten\na. har inngående kunnskap om sentrale stoffers opprinnelse, kjemiske og fysikalske egenskaper\nb. har bred kunnskap om sammensetning og fremstilling av sentrale legemiddelformer, samt deres fysikalske, kjemiske og biofarmasøytiske egenskaper\nc. har bred kunnskap om legemidlers virkning, bivirkning og bruk i forebygging og behandling av fysisk og psykisk sykdom med farmakologi, farmakoterapi og farmakoepidemiologi som sentrale fag\nd. har kunnskap om valg og utførelse av sentrale legemiddelanalytiske metoder\ne. har kunnskap om relevante naturvitenskapelige basalfag som biologi, kjemi og fysikk\nf. har kunnskap om relevante medisinske fag som anatomi, fysiologi, patologi, mikrobiologi og toksikologi\ng. har kunnskap om hvordan rekvirering og bruk av veterinære legemidler kan bidra til å sikre god dyrehelse og mattrygghet\nh. har kunnskap om bruk av relevant medisinsk utstyr\ni. har kjennskap til ernæring og kosttilskudd og mulige interaksjoner med legemidler."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 5",
+     "tittel": "Legemidler og helse – Ferdigheter",
+     "ledd": [
+      "Kandidaten\na. kan anvende faglige kunnskaper som sikrer rasjonell legemiddelbruk og forsvarlig legemiddelhåndtering\nb. kan anvende faglige kunnskaper for å forebygge smitte og utvikling av antibiotikaresistens\nc. kan anvende faglige kunnskaper for å identifisere og håndtere legemiddelrelaterte problemer, veilede og tilrettelegge for brukermedvirkning ved reseptekspedisjon og salg av legemidler og øvrige apotekvarer\nd. kan beherske reseptekspedisjon med grunnlag i faglige vurderinger, lover og forskrifter\ne. kan beherske relevante teknikker innen fremstilling av sterile og ikke-sterile legemidler."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 6",
+     "tittel": "Legemidler og helse – Generell kompetanse",
+     "ledd": [
+      "Kandidaten\na. har innsikt i og forståelse for hvordan legemidler bidrar til å skape best mulig helse, både på individ og samfunnsnivå."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Bachelorutdanning i farmasi – Læringsutbytte for kompetanseområdet pasientsikkerhet og kvalitetssikring",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 7",
+     "tittel": "Pasientsikkerhet og kvalitetssikring – Kunnskaper",
+     "ledd": [
+      "Kandidaten\na. har bred kunnskap om hvordan system- og pasientrettede farmasøytiske tjenester kan bidra til å kvalitetssikre legemiddelbehandling og ivareta pasientsikkerhet\nb. har bred kunnskap om kvalitetskrav, -sikring og -kontroll av legemidler og relevant medisinsk utstyr."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 8",
+     "tittel": "Pasientsikkerhet og kvalitetssikring – Ferdigheter",
+     "ledd": [
+      "Kandidaten\na. kan utføre farmasøytiske tjenester som ivaretar riktig legemiddelbruk og pasientsikkerhet\nb. kan anvende systemer for kvalitetssikring, herunder internkontrollsystemer, samt vurdere risiko for uønskede hendelser og kjenne til metoder for å følge opp disse systematisk."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 9",
+     "tittel": "Pasientsikkerhet og kvalitetssikring – Generell kompetanse",
+     "ledd": [
+      "Kandidaten\na. har innsikt i og forståelse for hvordan legemiddelovervåking, kvalitetssystemer og kvalitets- og forbedringsarbeid bidrar til trygg legemiddelbruk og økt pasientsikkerhet."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Bachelorutdanning i farmasi – Læringsutbytte for kompetanseområdet kommunikasjon, samarbeid og tverrprofesjonell samhandling",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 10",
+     "tittel": "Kommunikasjon, samarbeid og tverrprofesjonell samhandling – Kunnskaper",
+     "ledd": [
+      "Kandidaten\na. har kunnskap om veilednings- og kommunikasjonsteori, samarbeid og tverrprofesjonell samhandling, og hvordan språk og kultur påvirker dette."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 11",
+     "tittel": "Kommunikasjon, samarbeid og tverrprofesjonell samhandling – Ferdigheter",
+     "ledd": [
+      "Kandidaten\na. kan anvende faglige kunnskaper for å foreslå løsninger på relevante teoretiske og praktiske farmasifaglige utfordringer\nb. kan anvende relasjons-, kommunikasjons- og veiledningskompetanse for å forstå, samhandle med og veilede brukere, pasienter, pårørende, studenter og helsepersonell som er i lærings-, mestrings- eller endringsprosesser, herunder kunne motivere og bidra til samvalg av løsninger og egenomsorg\nc. har kunnskap om begrepet helsekompetanse og hvordan variasjoner i helsekompetanse påvirker ulike pasient- og brukergruppers sykdomshåndtering, mestring og egenomsorg."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 12",
+     "tittel": "Kommunikasjon, samarbeid og tverrprofesjonell samhandling – Generell kompetanse",
+     "ledd": [
+      "Kandidaten\na. kan planlegge, initiere og gjennomføre tverrfaglig, tverrprofesjonelt og tverrsektorielt samarbeid på tvers av virksomheter og nivåer."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Bachelorutdanning i farmasi – Læringsutbytte for kompetanseområdet legemidler og samfunn",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 13",
+     "tittel": "Legemidler og samfunn – Kunnskaper",
+     "ledd": [
+      "Kandidaten\na. har bred kunnskap om helsevesenets oppbygning, ansvarsfordeling, samhandling og legemidlers betydning i helsetjeneste og samfunn\nb. har kunnskap om legemiddelforsyning og legemiddelberedskap\nc. har kunnskap om og forholder seg til helse- og sosialpolitikk og kan anvende oppdatert kunnskap om helse- og velferdssystemet, lover, regelverk og veiledere i sin tjenesteutøvelse.\nd. har kunnskap om samenes status som urfolk og om samenes rettigheter, særlig innenfor helse- og sosialfeltet\ne. har kunnskap om menneskers livsløp, herunder barn og unge, og faktorer som bidrar til god helse og egenomsorg, og er en utøver som ivaretar deres behov for legemiddelbehandling og/eller farmasøytiske tjenester og kan sikre deres medvirkning og rettigheter\nf. kjenner til farmasiens historie og farmasøytiske yrkesroller\ng. kjenner til bærekraftsmål, samt nasjonale og globale helse- og miljøutfordringer\nh. kjenner til sosiale og helsemessige utfordringer inkludert omsorgssvikt, vold, overgrep, rus- og sosioøkonomiske problemer og kunne identifisere og følge opp mennesker med slike utfordringer. Kandidaten kan sette inn nødvendige tiltak og/eller behandling, eller henvise videre ved behov\ni. kjenner til sammenhengene mellom helse, utdanning, arbeid og levekår, og kan anvende dette i sin tjenesteutøvelse, både overfor enkeltpersoner og grupper i samfunnet, for å bidra til god folkehelse og arbeidsinkludering\nj. kjenner til inkludering, likestilling og ikke-diskriminering slik at kandidaten bidrar til å sikre likeverdige farmasøytiske tjenester for alle grupper i samfunnet uavhengig av mottakers kjønn, etnisitet, religion og livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk og alder."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 14",
+     "tittel": "Legemidler og samfunn – Ferdigheter",
+     "ledd": [
+      "Kandidaten\na. kan anvende faglige kunnskaper i samhandling med helsepersonell, myndigheter og allmenheten for å bidra til utvikling av god folkehelse i vårt multikulturelle samfunn\nb. kan anvende, vedlikeholde og tilegne seg ny kunnskap og foreta faglige vurderinger, avgjørelser og handlinger i tråd med kunnskapsbasert praksis\nc. kan beherske selvstendig forsvarlig tjenesteutøvelse i tråd med lover, forskrifter og yrkesetiske retningslinjer\nd. kan reflektere over og anvende ulike faglige informasjonskilder."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 15",
+     "tittel": "Legemidler og samfunn – Generell kompetanse",
+     "ledd": [
+      "Kandidaten\na. kan formidle sin farmasøytiske kunnskap med faglig trygghet, både skriftlig og muntlig, til alle aktuelle grupper, og kan dokumentere helsehjelpen\nb. har innsikt i farmasirelaterte samfunnstrender og kan bidra til utvikling av eget fag og profesjon\nc. har innsikt i og kan identifisere, reflektere over og håndtere etiske problemstillinger i farmasøytisk yrkesutøvelse og viser respekt for brukere av farmasøytiske tjenester og gir veiledning som ivaretar brukernes integritet og rettigheter\nd. har digital kompetanse med innsikt i e-helse, velferdsteknologi og digital sikkerhet, og kan bistå i utviklingen av og bruke egnet teknologi både på individ- og systemnivå."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Bachelorutdanning i farmasi – Læringsutbytte for kompetanseområdet forskning, utvikling og innovasjon",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 16",
+     "tittel": "Forskning, utvikling og innovasjon – Kunnskaper",
+     "ledd": [
+      "Kandidaten\na. har kunnskap om kvalitative og kvantitative forskningsmetoder som er relevante for gjennomføring av farmasøytiske forsknings- og utviklingsprosjekter\nb. har kjennskap til klinisk utprøving av legemidler\nc. kjenner til sentrale forskningsetiske regelverk og prinsipper."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 17",
+     "tittel": "Forskning, utvikling og innovasjon – Ferdigheter",
+     "ledd": [
+      "Kandidaten\na. kan anvende basale matematiske, statistiske og epidemiologiske metoder til å undersøke praktiske og teoretiske farmasifaglige problemstillinger."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-3",
+     "nummer": "§ 18",
+     "tittel": "Forskning, utvikling og innovasjon – Generell kompetanse",
+     "ledd": [
+      "Kandidaten\na. har innsikt i betydningen av vitenskapelig dokumentasjon, kan innhente og sammenfatte slik dokumentasjon og skille mellom dokumenterte og udokumenterte påstander\nb. kjenner til nytenkning og innovasjonsprosesser og kan bidra til tjenesteinnovasjon, entreprenørskap og systematiske og kvalitetsforbedrende arbeidsprosesser."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kap7",
+   "overskrift": "Kapittel 7. Masterutdanning i farmasi – Læringsutbytte for kompetanseområdet legemidler og helse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 19",
+     "tittel": "Legemidler og helse – Kunnskaper",
+     "ledd": [
+      "Kandidaten\na. har avansert kunnskap om legemidlers effekter og bruk i forebygging og behandling av sykdom ut fra et individ- og samfunnsperspektiv med farmakologi, farmakoterapi, farmakoepidemiologi, farmakokinetikk og -genetikk som sentrale fag\nb. har avansert kunnskap om formulering, fremstilling og biofarmasøytiske egenskaper av ulike legemiddelformer\nc. har inngående kunnskap om sentrale stoffers syntese, isolering, strukturoppklaring strukturaktivitetsforhold, stabilitet og biotilgjengelighet\nd. har kunnskap om forholdet mellom helseøkonomiske prinsipper og rasjonell legemiddelbruk i et individ- og samfunnsperspektiv."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-2",
+     "nummer": "§ 20",
+     "tittel": "Legemidler og helse – Ferdigheter",
+     "ledd": [
+      "Kandidaten\na. kan analysere, tilpasse og gi råd vedrørende avansert legemiddelterapi og legemiddelhåndtering i samhandling med annet helsepersonell, pårørende og pasient\nb. kan bruke relevante prinsipper for formulering og produksjon av sentrale legemiddelformer."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-3",
+     "nummer": "§ 21",
+     "tittel": "Legemidler og helse – Generell kompetanse",
+     "ledd": [
+      "Kandidaten\na. kan anvende kunnskaper og ferdigheter slik at legemidler bidrar til å skape best mulig helse, både på individ og samfunnsnivå."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-8",
+   "navn": "kap8",
+   "overskrift": "Kapittel 8. Masterutdanning i farmasi – Læringsutbytte for kompetanseområdet pasientsikkerhet og kvalitetssikring",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-1",
+     "nummer": "§ 22",
+     "tittel": "Pasientsikkerhet og kvalitetssikring – Kunnskaper",
+     "ledd": [
+      "Kandidaten\na. har avansert kunnskap om legemiddelhåndtering, klinisk farmasi og andre farmasøytiske tjenester\nb. har avansert kunnskap om kvalitetskrav, -sikring og -kontroll av sentrale trinn i utvikling, produksjon, oppbevaring og distribusjon av legemidler, jamfør krav til QP og FFA."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-2",
+     "nummer": "§ 23",
+     "tittel": "Pasientsikkerhet og kvalitetssikring – Ferdigheter",
+     "ledd": [
+      "Kandidaten\na. kan gjennomføre utvikling av kvalitetssystemer for legemidler, legemiddelhåndtering og legemiddelrelaterte produkter og tjenester\nb. kan gjennomføre avanserte farmasøytiske tjenester som bidrar til å ivareta og forbedre legemiddelbehandling og pasientsikkerhet\nc. kan gjennomføre analyse og kvalitetskontroll av farmasøytiske råvarer og ferdige legemidler, og vurdere hvordan avvik påvirker legemidlers kvalitet."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-9",
+   "navn": "kap9",
+   "overskrift": "Kapittel 9. Masterutdanning i farmasi – Læringsutbytte for kompetanseområdet kommunikasjon, samarbeid og tverrprofesjonell samhandling",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-1",
+     "nummer": "§ 24",
+     "tittel": "Kommunikasjon, samarbeid og tverrprofesjonell samhandling – Kunnskaper",
+     "ledd": [
+      "Kandidaten\na. har klinisk kommunikasjonskunnskap."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-2",
+     "nummer": "§ 25",
+     "tittel": "Kommunikasjon, samarbeid og tverrprofesjonell samhandling – Ferdigheter",
+     "ledd": [
+      "Kandidaten\na. kan bruke relevante faglige kunnskaper for å foreslå løsninger på avanserte teoretiske og praktiske farmasifaglige utfordringer."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-3",
+     "nummer": "§ 26",
+     "tittel": "Kommunikasjon, samarbeid og tverrprofesjonell samhandling – Generell kompetanse",
+     "ledd": [
+      "Kandidaten\na. kan formidle råd om farmasifaglige problemstillinger, analyser, forskningsresultater og konklusjoner til annet helsepersonell\nb. kan formidle evidensbasert kunnskap til helsepersonell, legemiddelbrukere og allmennheten\nc. kan bidra til optimal legemiddelbehandling for den enkelte pasient gjennom tverrfaglig samarbeid."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-10",
+   "navn": "kap10",
+   "overskrift": "Kapittel 10. Masterutdanning i farmasi – Læringsutbytte for kompetanseområdet legemidler og samfunn",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-1",
+     "nummer": "§ 27",
+     "tittel": "Legemidler og samfunn – Kunnskaper",
+     "ledd": [
+      "Kandidaten\na. har kunnskap om ledelse og ulike farmasøytiske lederroller\nb. har kunnskap om samspill mellom teknologiske løsninger og arbeidsprosesser, samt føringer i lovverk og standarder."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-2",
+     "nummer": "§ 28",
+     "tittel": "Legemidler og samfunn – Ferdigheter",
+     "ledd": [
+      "Kandidaten\na. kan analysere og forholde seg kritisk til ulike informasjonskilder og anvende disse til å strukturere og formulere faglige resonnementer."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-3",
+     "nummer": "§ 29",
+     "tittel": "Legemidler og samfunn – Generell kompetanse",
+     "ledd": [
+      "Kandidaten\na. kan anvende sine kunnskaper og ferdigheter til utvikling av faget og farmasøytens rolle i samfunnet\nb. kan analysere og reflektere over etiske problemstillinger innen farmasøytisk praksis og forskning\nc. kan anvende sine kunnskaper og ferdigheter i faglig ledelse."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-11",
+   "navn": "kap11",
+   "overskrift": "Kapittel 11. Masterutdanning i farmasi – Læringsutbytte for kompetanseområdet forskning, utvikling og innovasjon",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-11-paragraf-1",
+     "nummer": "§ 30",
+     "tittel": "Forskning, utvikling og innovasjon – Kunnskaper",
+     "ledd": [
+      "Kandidaten\na. har inngående kunnskap i et farmasøytisk relevant fagfelt og dets vitenskapelige metoder for å utføre et forsknings- eller utviklingsprosjekt\nb. har inngående kunnskap om sentrale forskningsetiske prinsipper og regelverk\nc. har kunnskap om utvikling av nye legemidler\nd. har kunnskap om klinisk utprøving av legemidler med tilhørende innsamling av data og krav til dokumentasjon\ne. kjenner til krav til dokumentasjon i forbindelse med søknad om markedsføringstillatelse for et legemiddel."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-11-paragraf-2",
+     "nummer": "§ 31",
+     "tittel": "Forskning, utvikling og innovasjon – Ferdigheter",
+     "ledd": [
+      "Kandidaten\na. kan bruke sentrale statistiske og epidemiologiske metoder\nb. kan gjennomføre et avgrenset forsknings- og utviklingsprosjekt relatert til farmasi."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-11-paragraf-3",
+     "nummer": "§ 32",
+     "tittel": "Forskning, utvikling og innovasjon – Generell kompetanse",
+     "ledd": [
+      "Kandidaten\na. kan formidle betydningen av vitenskapelig dokumentasjon og forskjellen mellom dokumenterte og udokumenterte påstander\nb. kan bidra til kvalitetsutvikling, innovasjon og nytenkning innen fagfeltet."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-12",
+   "navn": "kap12",
+   "overskrift": "Kapittel 12. Studiets oppbygning og praksisstudier",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-12-paragraf-1",
+     "nummer": "§ 33",
+     "tittel": "Studienes oppbygning",
+     "ledd": [
+      "Farmasøytutdanningene skal fremstå som helhetlige der faglig innhold, pedagogiske virkemidler og praksisstudier skal kobles sammen slik at læringsutbyttene oppnås.",
+      "Bachelorutdanningens omfang er 180 studiepoeng og omfanget av en 2-årig masterutdanning er 120 studiepoeng. Omfanget av en integrert masterutdanning er 300 studiepoeng. Læringsutbyttene i forskriften er beskrevet i en 3 + 2 modell. I en integrert masterutdanning oppnås ikke bachelorgrad etter 3 år."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-12-paragraf-2",
+     "nummer": "§ 34",
+     "tittel": "Praksisstudier",
+     "ledd": [
+      "Praksisstudiene skal utformes slik at de sikrer at læringsutbyttene oppnås. Praksisstudiene i bachelorutdanningen skal ha en varighet på totalt fire måneder. I den toårige masterutdanningen skal praksisstudiene ha en varighet på to måneder og i den integrerte masterutdanningen skal praksisstudiene ha en varighet på seks måneder. Det er ikke krav om at praksisstudiene er organisert i en sammenhengende periode.",
+      "Praksisstudiene må gjennomføres på en praksisarena i henhold til direktiv 2005/36/EF med senere endringer."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-13",
+   "navn": "kap13",
+   "overskrift": "Kapittel 13. Ikrafttredelse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-13-paragraf-1",
+     "nummer": "§ 35",
+     "tittel": "Ikrafttredelse og oppheving av forskrift",
+     "ledd": [
+      "Forskriften trer i kraft 1. august 2025.",
+      "Fra samme tidspunkt oppheves forskrift 3. januar 2020 nr. 25 om nasjonal retningslinje for farmasøytutdanningene, bachelor- og masterutdanning i farmasi."
+     ]
+    }
+   ]
+  }
+ ]
+}

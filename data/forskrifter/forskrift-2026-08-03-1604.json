@@ -1,0 +1,105 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2026-08-03-1604",
+ "dokumentid": "SF/forskrift/2026-08-03-1604",
+ "departement": [
+  "Samferdselsdepartementet"
+ ],
+ "etat": [
+  "Luftfartstilsynet"
+ ],
+ "ikraft": "2026-08-03",
+ "endrer": "forskrift/2026-01-16-55",
+ "hjemmel": [
+  {
+   "ref": "lov/1993-06-11-101/§9-1a",
+   "tekst": "lov/1993-06-11-101/§9-1a"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§13a-5",
+   "tekst": "lov/1993-06-11-101/§13a-5"
+  },
+  {
+   "ref": "forskrift/2017-08-14-1639",
+   "tekst": "forskrift/2017-08-14-1639"
+  },
+  {
+   "ref": "forskrift/2021-12-14-3530/§17",
+   "tekst": "forskrift/2021-12-14-3530/§17"
+  },
+  {
+   "ref": "forskrift/2021-12-14-3530/§4",
+   "tekst": "forskrift/2021-12-14-3530/§4"
+  }
+ ],
+ "kunngjort": "2026-08-04 14:05",
+ "tittel": "Forskrift om opprettelse av et permanent restriksjonsområde over Jan Mayen mv.",
+ "annet": "Hjemmel: Fastsatt av Luftfartstilsynet 3. august 2026 med hjemmel i lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven) § 9-1a første ledd, jf. § 13a-5, jf. delegeringsvedtak 14. august 2017 nr. 1639 og forskrift 14. desember 2021 nr. 3530 om luftromsorganisering § 17, jf. § 4.",
+ "refid": "forskrift/2026-08-03-1604",
+ "eli": "/eli/forskrift/2026/08/03/1604",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2026-08-03-1604",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Formål",
+   "ledd": [
+    "Formålet med forskriften er å opprette et permanent restriksjonsområde over Jan Mayen, for å ivareta sikkerheten ved Forsvarets operasjoner."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Stedlig virkeområde og tidsrom",
+   "ledd": [
+    "Den horisontale utstrekningen til restriksjonsområde EN R428 «Jan Mayen» har en horisontal utstrekning som er begrenset av rette linjer mellom følgende koordinater oppgitt i grader, minutter og sekunder i WGS84:\n711449N-0072340W\n711515N-0072427W\n711540N-0072509W\n711602N-0072551W\n711629N-0072651W\n711654N-0072745W\n711719N-0072849W\n711739N-0072944W\n711806N-0073058W\n711825N-0073209W\n711844N-0073315W\n711914N-0073511W\n711936N-0073655W\n712000N-0073855W\n712018N-0074044W\n712056N-0074521W\n712129N-0075207W\n712137N-0075729W\n712133N-0080222W\n712129N-0080630W\n712118N-0081102W\n712052N-0081542W\n712020N-0081958W\n711858N-0082822W\n711759N-0083401W\n711703N-0083903W\n711538N-0084356W\n711409N-0084746W\n711226N-0085214W\n711117N-0085441W\n711000N-0085659W\n710913N-0085814W\n710834N-0090204W\n710752N-0090517W\n710715N-0090838W\n710645N-0091105W\n710610N-0091335W\n710528N-0091619W\n710449N-0091820W\n710422N-0091935W\n710353N-0092042W\n710333N-0092149W\n710252N-0092359W\n710206N-0092617W\n710106N-0092930W\n710000N-0093226W\n705913N-0093415W\n705822N-0093543W\n705736N-0093702W\n705647N-0093806W\n705610N-0093846W\n705506N-0093948W\n705410N-0094028W\n705306N-0094059W\n705205N-0094104W\n705022N-0094046W\n704921N-0094020W\n704741N-0093938W\n704606N-0093823W\n704519N-0093734W\n704412N-0093605W\n704337N-0093503W\n704224N-0093239W\n704212N-0093201W\n704141N-0093042W\n704106N-0092902W\n704036N-0092722W\n704013N-0092600W\n703951N-0092427W\n703930N-0092245W\n703909N-0092058W\n703850N-0091905W\n703837N-0091734W\n703821N-0091524W\n703812N-0091403W\n703757N-0091103W\n703749N-0090851W\n703741N-0090453W\n703735N-0090132W\n703734N-0085850W\n703736N-0085626W\n703750N-0085157W\n703802N-0084931W\n703814N-0084744W\n703843N-0084354W\n703906N-0084109W\n703924N-0083922W\n703956N-0083640W\n704059N-0083149W\n704126N-0082947W\n704134N-0082911W\n704203N-0082704W\n704223N-0082548W\n704247N-0082427W\n704257N-0082351W\n704328N-0082220W\n704344N-0082136W\n704422N-0081958W\n704448N-0081856W\n704520N-0081745W\n704534N-0081722W\n704545N-0081658W\n704657N-0080907W\n704713N-0080654W\n704728N-0080452W\n704741N-0080241W\n704756N-0080035W\n704811N-0075820W\n704826N-0075618W\n704848N-0075243W\n704920N-0074818W\n704931N-0074705W\n704948N-0074522W\n705002N-0074405W\n705009N-0074335W\n705019N-0074244W\n705027N-0074206W\n705038N-0074115W\n705051N-0074017W\n705104N-0073922W\n705111N-0073851W\n705114N-0073837W\n705125N-0073754W\n705144N-0073642W\n705202N-0073539W\n705214N-0073500W\n705254N-0073255W\n705339N-0073053W\n705418N-0072922W\n705451N-0072817W\n705526N-0072713W\n705603N-0072612W\n705654N-0072503W\n705740N-0072414W\n705826N-0072332W\n705912N-0072259W\n705957N-0072241W\n710341N-0072120W\n710401N-0072112W\n710426N-0072102W\n710511N-0072026W\n710559N-0071947W\n710643N-0071919W\n710719N-0071903W\n710755N-0071852W\n710820N-0071849W\n710847N-0071846W\n710916N-0071847W\n710942N-0071852W\n711024N-0071906W\n711053N-0071920W\n711134N-0071945W\n711228N-0072032W\n711319N-0072129W\n711426N-0072303W\n(711449N-0072340W)",
+    "Områdets vertikale utstrekning er fra bakke-/havnivå og strekker seg opp 66 000 fot over middels havnivå (AMSL).",
+    "Restriksjonsområdet gjelder bare når området er aktivert etter kunngjøring i NOTAM.",
+    "Før aktivering av et område på NOTAM skal Forsvaret vurdere hvilken høyde som er nødvendig for de planlagte operasjonene. Området skal ikke aktiveres til større høyde enn det som er nødvendig for gjennomføringen av operasjonene."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Luftromsrestriksjoner",
+   "ledd": [
+    "All flyging i restriksjonsområder er forbudt når området er kunngjort som aktivt i NOTAM. Forbudet gjelder all luftfart, inkludert flyging med ubemannede luftfartøy og modellfly, med mindre særskilt tillatelse er gitt av Forsvaret eller Luftfartstilsynet. Kontaktinformasjon til Forsvaret for søknader om særskilt tillatelse skal fremgå av AIP og NOTAM når området er aktivt.",
+    "Forbudet gjelder ikke flyging i forbindelse med militær-, politi-, ambulanse-, brann-, søke- og redningsoppdrag. Øving og trening på slike operasjoner skal forhåndkoordineres med tiltakshaver.",
+    "Forbudet gjelder heller ikke for flygning etter Avtalen om det åpne luftrom."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Overtredelsesgebyr",
+   "ledd": [
+    "Luftfartstilsynet kan gi pålegg om overtredelsesgebyr etter luftfartsloven § 13a-5 nr. 6, for overtredelse av luftromsrestriksjonene i § 3, jf. § 2."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Endring i andre forskrifter",
+   "ledd": [
+    "I forskrift 16. januar 2026 nr. 55 om opprettelse av et permanent restriksjonsområde i luftrommet over Olonkinbyen, Jan Mayen gjøres følgende endring:",
+    "§ 2 første ledd skal lyde:",
+    "Restriksjonsområdet EN R427 «Olonkinbyen» har en horisontal utstrekning som er begrenset av rette linjer mellom følgende koordinater oppgitt i grader, minutter og sekunder i WGS84:\n710029N-0082145W\n710058N-0082859W\n705919N-0083454W\n705916N-0083917W\n705909N-0084322W\n705842N-0084250W\n705752N-0084302W\n705736N-0084444W\n705716N-0084631W\n705652N-0084737W\n705629N-0084744W\n705537N-0084700W\n705504N-0084352W\n705510N-0084211W\n705542N-0084055W\n705712N-0083446W\n705743N-0083159W\n705759N-0083013W\n705813N-0082811W\n705820N-0082611W\n705758N-0082450W\n705750N-0082404W\n705746N-0082323W\n705747N-0082226W\n705831N-0081504W\n705907N-0081449W\n705929N-0081600W\n(705929N-0081600W)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Forskriften trer i kraft straks."
+   ]
+  }
+ ]
+}

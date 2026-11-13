@@ -1,0 +1,462 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2021-05-01-1367",
+ "dokumentid": "SF/forskrift/2021-05-01-1367",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "etat": [
+  "Næringspolitisk avdeling"
+ ],
+ "ikraft": "2021-05-01",
+ "siste_endring_ikraft": "2021-06-27",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2021-06-27-2276",
+   "tekst": "forskrift/2021-06-27-2276"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2020-12-21-175/§2",
+   "tekst": "lov/2020-12-21-175/§2"
+  },
+  {
+   "ref": "lov/2020-12-21-175/§3",
+   "tekst": "lov/2020-12-21-175/§3"
+  },
+  {
+   "ref": "lov/2020-12-21-175/§4",
+   "tekst": "lov/2020-12-21-175/§4"
+  },
+  {
+   "ref": "lov/2020-12-21-175/§5",
+   "tekst": "lov/2020-12-21-175/§5"
+  },
+  {
+   "ref": "lov/2020-12-21-175/§6",
+   "tekst": "lov/2020-12-21-175/§6"
+  },
+  {
+   "ref": "lov/2020-12-21-175/§7",
+   "tekst": "lov/2020-12-21-175/§7"
+  },
+  {
+   "ref": "lov/2020-12-21-175/§8",
+   "tekst": "lov/2020-12-21-175/§8"
+  },
+  {
+   "ref": "lov/2020-12-21-175/§9",
+   "tekst": "lov/2020-12-21-175/§9"
+  },
+  {
+   "ref": "lov/2020-12-21-175/§10",
+   "tekst": "lov/2020-12-21-175/§10"
+  },
+  {
+   "ref": "lov/2020-12-21-175/§11",
+   "tekst": "lov/2020-12-21-175/§11"
+  },
+  {
+   "ref": "lov/2020-12-21-175/§12",
+   "tekst": "lov/2020-12-21-175/§12"
+  }
+ ],
+ "kunngjort": "2021-05-04 17:20",
+ "korttittel": "Forskrift til utfylling og gjennomføring av lov om midl. tilskuddsordning for foretak med utgifter til innreisekarantene ved bruk av arbeidskraft fra utlandet",
+ "tittel": "Forskrift til utfylling og gjennomføring av lov om midlertidig tilskuddsordning for foretak med utgifter til innreisekarantene ved bruk av arbeidskraft fra utlandet",
+ "annet": "Hjemmel: Fastsatt av Nærings- og fiskeridepartementet 1. mai 2021 med hjemmel i lov 21. desember 2020 nr. 175 om midlertidig tilskuddsordning for foretak med utgifter til innreisekarantene ved bruk av arbeidskraft fra utlandet § 2, § 3, § 4, § 5, § 6, § 7, § 8, § 9, § 10, § 11 og § 12.\nEndret ved forskrifter 10 mai 2021 nr. 1503, 27 juni 2021 nr. 2276.",
+ "refid": "forskrift/2021-05-01-1367",
+ "eli": "/eli/forskrift/2021/05/01/1367",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2021-05-01-1367",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Virkeområde",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1-1",
+     "tittel": "Tilskuddsperioder og søknadsfrister",
+     "ledd": [
+      "(1) Tilskuddsperioder etter denne forskrift er:\na. 1. november til 31. desember 2020\nb. 1. januar til 28. februar 2021\nc. 1. mars til 30. april 2021.\nd. 1. mai til 30. juni 2021.",
+      "(2) Søknader om tilskudd skal for den enkelte tilskuddsperiode, jf. første ledd, sendes inn innenfor følgende tidsrom:\na. 10. mai til 30. september 2021\nb. 10. mai til 30. september 2021\nc. 10. mai til 30. september 2021.\nd. 15. juli til 31. oktober 2021."
+     ],
+     "endringer": [
+      "Endret ved forskrift 27 juni 2021 nr. 2276."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 1-2",
+     "tittel": "Registrering",
+     "ledd": [
+      "(1) Foretak med registreringsplikt etter foretaksregisterloven § 2-1 må, for å kunne søke om tilskudd i en tilskuddsperiode, være registrert i Foretaksregisteret.",
+      "(2) Enkeltpersonforetak som ikke er registrert i Foretaksregisteret må, for å kunne søke om tilskudd i en tilskuddsperiode, være registrert i Enhetsregisteret."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 1-3",
+     "tittel": "Definisjon av arbeidstaker og oppdragstaker",
+     "ledd": [
+      "(1) Med arbeidstaker etter denne forskrift menes enhver som etter folketrygdloven § 1-8 og § 1-9 utfører arbeid for lønn eller annen godtgjørelse i foretaket som søker tilskudd.",
+      "(2) Med oppdragstaker etter denne forskrift menes enhver som etter første ledd er å anse som arbeidstaker for et annet foretak enn søker, men som utfører arbeid eller oppdrag for søker i henhold til avtale. Som oppdragstaker anses også selvstendig næringsdrivende etter folketrygdloven § 1-10 som ikke har ansatte."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Vilkår for tilskudd",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 2-1",
+     "tittel": "Vilkår om at foretaket har ansatte",
+     "ledd": [
+      "(1) Foretaket anses å ha ansatte dersom foretaket på tildelingstidspunktet er registrert i Arbeidsgiver- og arbeidstakerregisteret (Aa-registeret) og minst én arbeidstaker har fått utbetalt lønn i minst én kalendermåned i tilskuddsperioden det søkes for, jf. § 1-1 første ledd.",
+      "(2) Ansvarlig selskap som ikke oppfyller kravet til ansatte i første ledd, omfattes likevel dersom minst en personlig deltaker har inntekt fra selskapet som sin hovedinntektskilde, jf. fjerde ledd.",
+      "(3) Enkeltpersonforetak som ikke oppfyller kravet til ansatte i første ledd, omfattes likevel dersom innehaver har inntekt fra foretaket som sin hovedinntektskilde, jf. fjerde ledd.",
+      "(4) Inntekt fra foretaket anses som hovedinntektskilde når denne inntekten utgjorde minst 50 prosent av deltakers eller innehavers personinntekt enten i 2019, 2020 eller i tilskuddsperioden det søkes for, jf. § 1-1 første ledd.",
+      "(5) Fiske- og fangstrederier omfattes ikke av vilkåret i første ledd."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 2-2",
+     "tittel": "Vilkåret om at foretaket har merkostnader knyttet til innreisekarantene",
+     "ledd": [
+      "Med merkostnader menes kostnader i tilskuddsperioden etter § 1-1 første ledd, ekskludert lønnskostnader til arbeids- eller oppdragstakere i innreisekarantene, som:\na. er knyttet til gjennomføringen av innreisekarantene,\nb. går utover kostnader foretaket normalt ville hatt som følge av bruk av utenlandsk eller annen tilreisende arbeidskraft, og\nc. følger direkte av tilpasninger foretaket har gjort for å overholde innreisekarantenebestemmelsene etter smittevernloven eller forskrift med hjemmel i smittevernloven."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 2-3",
+     "tittel": "Vilkår knyttet til avviklingen av innreisekarantene som foretaket må oppfylle",
+     "ledd": [
+      "(1) Innreisekarantenen for arbeids- eller oppdragstakerne det søkes om kompensasjon for må ha blitt gjennomført i regi av eller etter avtale med søker og må ha blitt bekostet av søker, i tråd med bestemmelsene i covid-19-forskriften eller annen forskrift med hjemmel i smittevernloven.",
+      "(2) Innreisekarantenen er ikke gjennomført på karantenehotell under statens karantenehotellordning.",
+      "(3) Dersom det i perioden etter 1. november 2020 fattes vedtak av en relevant tilsynsmyndighet, herunder Arbeidstilsynet, om alvorlige brudd på smittevernbestemmelser og arbeidsmiljøloven kan retten til tilskudd for enkelte eller samtlige søknadsperioder bortfalle.",
+      "(4) Innreisekarantene må ha vært gjennomført i henhold til covid-19-forskriften kapittel 2A om forhåndsgodkjenning av innkvartering, som gjaldt fra 22. februar 2021."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 2-4",
+     "tittel": "Vilkår knyttet til arbeids- eller oppdragstakerne det søkes om kompensasjon for",
+     "ledd": [
+      "Følgende vilkår må være oppfylt for arbeids- og oppdragstakerne etter § 3-1 første ledd:\na. De gjeldende registrerings- og rapporteringspliktene etter A-opplysningsloven som knytter seg til arbeidstakerne etter § 1-3 skal være overholdt for tilskuddsperioden. Det tilsvarende gjelder for oppdragstakerne etter § 1-3. Kravet i dette ledd gjelder ikke arbeidstakere og oppdragstakere på skip hvor vilkårene for tilskudd for øvrig er oppfylt.\nb. For oppdragstakere som er å anse som arbeidstaker for et utenlandsk foretak som ikke er registrert i Enhetsregisteret, kreves det at oppdraget og oppdragstakeren skal være meldt inn til Oppdrags- og arbeidsforholdsregisteret under Skatteetaten.\nc. Oppdragstakere som er selvstendig næringsdrivende etter § 1-3 andre ledd annet punktum må være registrert i Enhetsregisteret.\nd. Arbeid utført av arbeids- eller oppdragstakerne knyttet til innreisekarantenen det søkes om tilskudd for etter denne forskrift, må ha blitt gjennomført på norsk territorium, på norskregistrert skip, i norsk økonomisk sone, eller på norsk sokkel. For skip som frakter gods eller passasjerer til eller fra Norge, eller skal drive fiske eller fangst utenfor norsk økonomisk sone eller norsk sokkel, er det tilstrekkelig at arbeidet påbegynner i nevnte områder.\ne. Arbeids- eller oppdragstaker har vært pålagt innreisekarantene av staten i tilskuddsperioden etter § 1-1 ifb. covid-19-pandemien, jf. covid-19-forskriften eller annen forskrift med hjemmel i smittevernloven.\nf. Innreisekarantenen for arbeids- eller oppdragstakerne det søkes om kompensasjon for, skal ha blitt gjennomført i fastlands-Norge."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 2-5",
+     "tittel": "Lovlig aktivitet",
+     "ledd": [
+      "Foretak skal ha de tillatelser, godkjenninger eller bevillinger som kreves for driften."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-6",
+     "nummer": "§ 2-6",
+     "tittel": "Foretak under konkursbehandling, avvikling mv.",
+     "ledd": [
+      "(1) Et foretak kan ikke få tildelt eller utbetalt tilskudd dersom foretaket er under konkursbehandling, jf. konkursloven kapittel VIII, eller foretaket er under avvikling, enten frivillig eller ved tvang.",
+      "(2) Tilsvarende gjelder for innehaver av enkeltpersonforetak og deltaker i ansvarlige selskap."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-7",
+     "nummer": "§ 2-7",
+     "tittel": "Ytterligere vilkår",
+     "ledd": [
+      "(1) Foretak som søker tilskudd, må oppfylle følgende vilkår:\na. Skatter, avgifter og forskuddstrekk forfalt før 29. februar 2020 skal være betalt.\nb. Skattemelding for formues- og inntektsskatt for 2019 og, dersom foretaket er regnskapspliktig, årsregnskap for 2019, må være levert av foretak som ble etablert i 2019 eller tidligere. Skattemelding for merverdiavgift etter skatteforvaltningsloven § 8-3 med leveringsfrist innen utløpet av tilskuddsperioden, må være levert. Skattemelding levert etter skjønnsfastsetting kan godtas når nytt skatteoppgjør bygger på skattemeldingen.\nc. Tilskuddsmottaker må ha bankkontonummer som fremgår av bankenes felles Konto- og adresseringsregister.\nd. Foretaket må kunne dokumentere sin fullstendige eierstruktur, herunder både direkte og indirekte reelle eiere.\ne. Person med ledende roller knyttet til foretaket kan ikke være ilagt konkurskarantene, jf. konkursloven kapittel XVIII.",
+      "(2) Med person med ledende roller knyttet til foretaket menes daglig leder, styreleder, styremedlem, innehaver av enkeltpersonforetak, deltakere i ansvarlige selskap, hovedaksjonær eller den som kontrollerer selskapet indirekte selv eller gjennom nærstående som definert i aksjeloven § 1-5 første ledd, eller med annen særskilt tilknytning til virksomheten.",
+      "(3) Det gis ikke tilskudd til søker som i tilknytning til tidligere søknader etter forskrift 17. april 2020 nr. 820 til utfylling og gjennomføring av lov om midlertidig tilskuddsordning for foretak med stort omsetningsfall, forskrift 21. desember 2020 nr. 3085 til utfylling og gjennomføring av lov om midlertidig tilskuddsordning for foretak med stort omsetningsfall etter august 2020 eller denne forskrift, ikke har levert etterspurt dokumentasjon etter anmodning fra tilskuddsmyndighetene."
+     ],
+     "endringer": [
+      "Endret ved forskrift 10 mai 2021 nr. 1503."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-8",
+     "nummer": "§ 2-8",
+     "tittel": "Institusjon eller organisasjon som ikke har erverv til formål",
+     "ledd": [
+      "Institusjon eller organisasjon som nevnt i skatteloven § 2-32, og som driver økonomisk virksomhet, jf. skatteloven § 2-32 annet ledd, omfattes av ordningen for den del av virksomheten som er skattepliktig."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Tilskuddets størrelse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 3-1",
+     "tittel": "Beregning av tilskudd",
+     "ledd": [
+      "(1) Det gis tilskudd tilsvarende en sats på 1000 kroner per døgn per arbeids- eller oppdragstaker i innreisekarantene i tilskuddsperioden.",
+      "(2) Tilskudd etter første ledd kan ikke overstige foretakets merkostnader etter § 2-2 i tilskuddsperioden. I de tilfellene hvor det beregnede tilskuddet etter første og andre ledd overstiger foretakets merkostnader i tilskuddsperioden avkortes det beregnede tilskuddet med det overskytende.",
+      "(3) For den enkelte arbeids- eller oppdragstaker kan det maksimalt utbetales tilskudd for 20 karantenedøgn i en tilskuddsperiode.",
+      "(4) Erstatning som tilskuddsmottaker får utbetalt under forsikringsordning, som ledd i rettsprosess, ved voldgift eller gjennom andre kilder og som dekker den samme skaden, skal komme til fratrekk ved utbetaling av tilskudd. Dersom tilskudd utbetales før eventuell forsikringssum skal tilskuddsmottaker betale tilbake tilsvarende del av tilskuddet, jf. § 6-4 fjerde ledd."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Særlige regler for konsern",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 4-1",
+     "tittel": "Om konsernsøknad",
+     "ledd": [
+      "(1) Konsern må utpeke et foretak som er ansvarlig for å opplyse om konsernets eierstruktur og konsernets øvrige innsendte opplysninger. Det må utpekes en kontaktperson i dette foretaket. Alle foretak må i søknaden opplyse om de inngår i et konsern, og om ansvarlig foretak i konsernet.",
+      "(2) Et konsern kan søke om tilskudd samlet som om konsernet var ett foretak. Ved slik søknad skal konsernets merkostnader etter § 2-2 i denne forskrift ta utgangspunkt i en konsolidert oppstilling for foretakene som omfattes av konsernsøknaden, jf. bestemmelsen i § 5-6.",
+      "(3) Dersom det ikke søkes samlet for konsernet etter bestemmelsen i annet ledd, kan det ikke i beregningen av merkostnader, jf. § 2-2, for de enkelte foretakene i konsernet tas med kostnader som er fordelt mellom konsernets foretak gjennom internfakturering."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 4-2",
+     "tittel": "Definisjon av konsern",
+     "ledd": [
+      "I denne forskriften utgjør et morselskap sammen med ett eller flere datterselskap et konsern. Et foretak er morselskap når det eier så mange aksjer eller andeler i et annet foretak at det representerer mer enn 50 prosent av stemmene i det andre foretaket. Det andre foretaket anses som datterselskap. Et foretak der ett datterselskap alene eller sammen med morselskapet og/eller ett eller flere andre datterselskap eier så mange aksjer eller andeler at de til sammen representerer mer enn 50 prosent av stemmene i foretaket, anses også som datterselskap."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 4-3",
+     "tittel": "Vilkår som konsern som søker samlet må oppfylle",
+     "ledd": [
+      "(1) Vilkårene i § 2-5 til § 2-7 må være oppfylt for hvert av foretakene i den norske delen av konsernet som omfattes av konsernsøknaden etter § 4-1 andre ledd. Vilkårene i § 2-2 og § 2-3 gjelder for foretakene som er omfattet av konsernsøknaden som helhet. Vilkårene i § 2-4 må være oppfylt for arbeids- og oppdragstakerne i de foretakene som omfattes av konsernsøknaden.",
+      "(2) § 5-3 og § 5-4 gjelder for foretaket som søker på vegne av konsernet. Dokumentasjonen etter § 5-6 skal oppbevares av ansvarlig foretak i konsernet.",
+      "(3) Foretaket som søker på vegne av konsernet må innhente samtykke fra alle foretakene som inngår i konsernsøknaden. Samtykke kan gis av personer som er berettiget til å søke, jf. § 5-4.",
+      "(4) Beløpsgrenser og avkorting etter § 3-1 gjelder tilsvarende som om konsernet var ett foretak."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Forvaltning og krav til søknad",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 5-1",
+     "tittel": "Offentliggjøring, deling og sletting av opplysninger",
+     "ledd": [
+      "(1) Tilskuddsmyndigheten skal gjøre opplysninger om tilskudd tilgjengelig på internett til alminnelig ettersyn. Dette gjelder blant annet opplysninger om saksnummer, tilskuddsmottakers navn og organisasjonsnummer, fylke, kommune, næringskode, tildelingsdato, antall arbeids- eller oppdragstakere det er gitt kompensasjon for, antall karantenedøgn det er gitt kompensasjon for og utbetalt beløp. Opplysninger om navn og organisasjonsnummer til den som har bekreftet søknaden, jf. § 5-5 første ledd, kan også offentliggjøres.",
+      "(2) Tilskuddsmyndigheten kan velge å gjøre unntak fra innsyn i opplysninger om den enkelte søknad utover de opplysningene som blir gjort tilgjengelig på internett for alminnelig ettersyn.",
+      "(3) Tilskuddsmyndigheten kan uten hinder av taushetsplikt dele innsendte opplysninger med relevante offentlige myndigheter, herunder Arbeidstilsynet, Skatteetaten, kommuner og lokale helsemyndigheter og Politiet, med det formål å kontrollere at tilskuddsordningen ikke misbrukes, ved mistanke om brudd på arbeidsmiljøloven, eller ved mistanke om brudd på de til enhver tid gjeldende krav til egnet oppholdssted og gjennomføring av innreisekarantene som følger av smittevernloven, eller forskrift med hjemmel i smittevernloven. Tilskuddsmyndigheten kan lage løsninger som tilrettelegger for at opplysningene kan hentes maskinelt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 5-2",
+     "tittel": "Innhenting av opplysninger fra offentlige myndigheter og private rettssubjekter",
+     "ledd": [
+      "(1) Det skal uten hinder av taushetsplikt gis opplysninger til tilskuddsmyndigheten som er nødvendig for fastsetting av tilskudd etter lov 21. desember 2020 nr. 175 om midlertidig tilskuddsordning for foretak med utgifter til innreisekarantene ved bruk av arbeidskraft fra utlandet og kontrollen av dette, fra følgende offentlige myndigheter:\na. folkeregistermyndigheten, herunder opplysninger av betydning for tilskuddsmyndighetens arbeid med tilskuddsordningen\nb. deltakende myndigheter i a-krimsentrene, herunder opplysninger om tips\nc. kommuner og lokale helsemyndigheter, herunder opplysninger om brudd på smittevernreglene\nd. Skatteetaten, herunder opplysninger som skattemyndighetene har eller mottar, inkludert opplysninger fra Oppdrags- og arbeidsforholdsregisteret\ne. Arbeidstilsynet, herunder opplysninger om brudd på smitteverns- og karanteneregler\nf. Nav, herunder opplysninger fra Aa-registeret for informasjon knyttet til ansatte og opplysninger om aktører med risiko for misbruk av tilskuddsordningen\ng. Finanstilsynet, herunder opplysninger om autoriserte regnskapsførere og revisorer med merknader knyttet til bevillingen mv.\nh. andre offentlige myndigheter som gir tilskudd til foretak som følge av utbrudd av koronapandemien\ni. Sjøfartsdirektoratet, herunder opplysninger om fartøys seilingsmønstre\nj. andre offentlige myndigheter dersom opplysningene har betydning for forvaltningen av tilskuddsordningen.",
+      "(2) Det skal uten hinder av taushetsplikt gis opplysninger som har betydning for forvaltningen av tilskuddsordningen fra følgende private rettssubjekter til tilskuddsmyndigheten:\na. banker og finansforetak, herunder opplysninger om kreditorer, transaksjoner, konti, aktører med risiko for misbruk av tilskuddsordningen og andre opplysninger av betydning for forvaltningen av tilskuddsordningen\nb. forsikringsselskaper og pensjonsforetak, herunder opplysninger om driftsavbruddsforsikring\nc. tilbyder av tilgang til elektronisk kommunikasjonsnett eller -tjeneste, herunder informasjon om elektronisk kommunikasjonsadresse.",
+      "(3) Opplysningene skal leveres i den formen og innen den fristen tilskuddsmyndigheten bestemmer."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 5-3",
+     "tittel": "Søknad om tilskudd",
+     "ledd": [
+      "(1) Søknad om tilskudd skal leveres elektronisk i den formen tilskuddsmyndigheten bestemmer. Søknadsfrist er angitt i § 1-1 andre ledd.",
+      "(2) Søker skal blant annet gi følgende opplysninger i søknaden:\na. informasjon om arbeids- og/eller oppdragstakere i innreisekarantene i tilskuddsperioden:\ni. Identifiserende opplysninger om den enkelte arbeids- eller oppdragstaker; enten fødsels- og personnummer, d-nummer, eller for utenlandske arbeids- eller oppdragstakere som ikke er registrert med slik identifikasjon, internasjonalt identifikasjonsnummer som er benyttet i A-meldingen, samt fullt navn. For arbeids- eller oppdragstakere på skip, som ikke har identifiserende opplysninger som nevnt i første punktum, benyttes nasjonalt identifikasjonsnummer, samt fullt navn.\nii. Start- og sluttdato for innreisekaranteneperioden(e).\nb. tilskuddsperioden det søkes for, jf. § 1-1,\nc. adresse til samtlige innkvarteringslokaler der arbeids- eller oppdragstakere har gjennomført innreisekarantene,\nd. summen av merkostnader i tilskuddsperioden, jf. lovens § 5 (1) og forskriftens § 2-2,\ne. søkers bankkontonummer slik det fremgår i bankenes felles Konto- og adresseringsregister,\nf. om søker er skattepliktig til Norge,\ng. om søker har blitt kontrollert av relevante tilsynsmyndigheter, herunder Arbeidstilsynet, i perioden etter 1. november 2020, og om relevant tilsynsmyndighet har fattet vedtak om brudd som en følge av brudd på gjeldende smittevernregler eller brudd på arbeidsmiljøloven.",
+      "(3) Søker skal erklære at vedkommende har gjort seg kjent med regelverket og at foretaket faller inn under ordningen, herunder blant annet at summen av merkostnadene som føres opp etter andre ledd bokstav d oppfyller kravene i § 2-2 og er i tråd med dokumentasjonen etter § 5-6. Søker skal bekrefte at opplysningene er riktige og at de kan dokumenteres, og at en er kjent med plikten til å varsle tilskuddsmyndighet dersom det i ettertid oppdages feil. Søker skal også bekrefte at vedkommende er kjent med at det kan bli ilagt straff eller administrativ sanksjon dersom det er gitt uriktige eller ufullstendige opplysninger, eller det unnlates å gi pliktige opplysninger."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-4",
+     "nummer": "§ 5-4",
+     "tittel": "Hvem som kan signere søknaden",
+     "ledd": [
+      "Personer i virksomheten registrert med nøkkelrolle i Enhetsregisteret kan signere og sende inn søknad. Med nøkkelrolle menes en av følgende roller:\na. norsk representant eller kontaktperson for utenlandsk enhet\nb. styrets leder\nc. komplementar\nd. innehaver\ne. deltaker med fullt ansvar\nf. deltaker med delt ansvar\ng. daglig leder eller administrerende direktør\nh. bestyrende reder."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-5",
+     "nummer": "§ 5-5",
+     "tittel": "Bekreftelse fra revisor eller autorisert regnskapsfører, kostnadsdekning",
+     "ledd": [
+      "(1) Revisor eller autorisert regnskapsfører skal på grunnlag av fastsatte kontrollhandlinger bekrefte at det er utarbeidet dokumentasjon i henhold til § 5-6.",
+      "(2) Revisor eller autorisert regnskapsfører skal på grunnlag av fastsatte kontrollhandlinger og dokumentasjonen etter § 5-6 bekrefte følgende opplysninger i søknaden:\na. Opplysningene om merkostnader i tilskuddsperioden (jf. § 5-3 annet ledd bokstav d, herunder at det kun er oppgitt kostnader i henhold til § 2-2, jf. § 4-1 annet og tredje ledd når det gjelder konsern som søker samlet\nb. Opplysningene om arbeids- eller oppdragstakere (jf. § 5-3 annet ledd bokstav a.",
+      "(3) Revisor eller autorisert regnskapsfører skal på grunnlag av fastsatte kontrollhandlinger og dokumentasjonen etter § 5-6 bekrefte at følgende vilkår for å motta tilskudd er oppfylt:\na. Loven § 5 første ledd bokstav c, jf. forskriften § 2-1 – vilkår om at foretaket har ansatte\nb. Forskriften § 2-4 bokstav a første punktum og bokstav b – vilkår knyttet til arbeids- og oppdragstakere\nc. Forskriften § 2-7 første ledd bokstav a til d, jf. § 4-3 første ledd når det gjelder konsern som søker samlet – vilkår om overholdelse av frister for skatt og årsregnskap.",
+      "(4) Revisor eller autorisert regnskapsfører skal bekrefte at de ikke har kjennskap til at det er gitt uriktige opplysninger i søknaden.",
+      "(5) Bekreftelsen skal gis elektronisk i den formen tilskuddsmyndigheten bestemmer før søknad sendes inn.",
+      "(6) Tilskuddsmyndigheten fastsetter og offentliggjør krav til kontrollhandlinger som revisor eller autorisert regnskapsfører skal utføre i forbindelse med bekreftelse av opplysningene.",
+      "(7) Kostnaden for bekreftelse etter første ledd refunderes med 80 prosent, men maksimum med 15 000 kroner per tilskuddsperiode, for de som får vedtak om tildeling av tilskudd, jf. § 3-1."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-6",
+     "nummer": "§ 5-6",
+     "tittel": "Krav til dokumentasjon som skal foreligge hos søker på søknadstidspunktet",
+     "ledd": [
+      "(1) Det skal foreligge en oppstilling som dokumenterer merkostnadene som ligger til grunn for søknaden, jf. § 2-2. Oppstillingen skal spesifisere de kostnadene som er pådratt for å oppfylle kravene til gjennomføring av innreisekarantene som er lagt til grunn i søknaden. Oppstillingen skal henvise til relevant regnskapsmateriale.",
+      "(2) Det skal foreligge en oppstilling over de arbeids- og oppdragstakere som det søkes om tilskudd for, som inneholder informasjon om hvilket karantenested den enkelte arbeids- eller oppdragstakeren gjennomførte innreisekarantenen på. Oppstillingen skal dokumentere at vilkårene i § 2-4 bokstav a, første punktum og bokstav b til f er oppfylt, og underbygge opplysningene som er gitt i søknaden etter § 5-3. Oppstillingen skal vise til relevant underlagsdokumentasjon. Det skal blant annet dokumenteres om arbeids- eller oppdragstakeren er å regne som arbeidstaker eller oppdragstaker, at arbeids- eller oppdragstakeren har hatt et arbeids- eller oppdragsforhold med søker i tilskuddsperioden, og at arbeids- eller oppdragsforholdet har medført reise for den enkelte til Norge med påfølgende innreisekarantene i tilskuddsperioden. Søker skal angi organisasjonsnummeret og navn til det foretak oppdragstakeren er arbeidstaker hos eller innehaver av. I det tilfelle at dette foretaket er utenlandsk og ikke registrert i norske registre, må det oppgis registreringsnummer i hjemlandet, foretaksnavn og forretningsadresse.",
+      "(3) For foretak som søker om tilskudd etter § 1-1 første ledd bokstav a og b skal det foreligge en oppstilling som dokumenterer hvilke fasiliteter som har blitt brukt for å gjennomføre innreisekarantene som dekkes av søknaden. Oppstillingen skal gi opplysninger om hvert innkvarteringslokale, som beskriver hvordan lokalet er egnet til å oppfylle de gjeldende kravene til innkvartering for gjennomføring av innreisekarantene.",
+      "(4) Tilskuddsmyndigheten utdyper og offentliggjør krav til dokumentasjon etter første til tredje ledd, og utarbeider på bakgrunn av dette en veiledning som foretakene kan følge.",
+      "(5) Dokumentasjon som nevnt i første til tredje ledd, skal oppbevares i fem år etter regnskapsårets slutt, med mindre lengre oppbevaringstid følger av bestemmelser gitt i eller i medhold av bokføringsloven."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Betaling og innkreving",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 6-1",
+     "tittel": "Forfall for utbetaling av tilskudd",
+     "ledd": [
+      "Utbetaling av tilskudd og refusjon av kostnad etter § 5-5 syvende ledd skal skje snarest og senest tre uker etter at det er fattet vedtak om utbetaling av tilskudd."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 6-2",
+     "tittel": "Tilbakebetaling av uriktig utbetalt tilskudd",
+     "ledd": [
+      "(1) Dersom det er utbetalt tilskudd i strid med bestemmelsene i lov 21. desember 2020 nr. 175 om midlertidig tilskuddsordning for foretak med utgifter til innreisekarantene ved bruk av arbeidskraft fra utlandet eller forskrift gitt med hjemmel i denne lov, skal det uriktig utbetalte beløpet tilbakebetales. I tillegg skal det betales renter fra tildelingstidspunktet og frem til tilbakebetaling skjer. Rentesatsen er den sats EFTAs overvåkingsorgan til enhver tid fastsetter for krav om tilbakeføring av ulovlig støtte.",
+      "(2) Dersom et tilbakebetalingskrav utgjør under 100 kroner, tilbakebetales ikke beløpet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-3",
+     "nummer": "§ 6-3",
+     "tittel": "Bortfall av retten til tilskudd og krav om tilbakebetaling ved brudd på smittevernbestemmelser",
+     "ledd": [
+      "Dersom tilskuddsmyndigheten fatter vedtak om bortfall av retten til tilskudd for enkelte eller samtlige søknadsperioder etter § 2-3, kan allerede utbetalt tilskudd kreves tilbakebetalt med renter, jf. § 6-2."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-4",
+     "nummer": "§ 6-4",
+     "tittel": "Forfall for krav om tilbakebetaling og overtredelsesgebyr",
+     "ledd": [
+      "(1) Krav om tilbakebetaling etter § 6-2 og § 6-3 forfaller til betaling tre uker etter at melding om vedtak om tilbakebetaling er sendt til skyldner.",
+      "(2) Før utbetaling av tilskudd skjer etter § 6-1 første ledd, kan krav på tilbakebetaling likevel motregnes i utbetalingsbeløpet selv om tilbakebetalingskravet ikke er forfalt etter første ledd.",
+      "(3) Overtredelsesgebyr ilagt etter lov 21. desember 2020 nr. 175 om midlertidig tilskuddsordning for foretak med utgifter til innreisekarantene ved bruk av arbeidskraft fra utlandet § 10 forfaller til betaling tre uker etter at fristen for å klage over vedtaket om å ilegge sanksjon er ute, eller ved klage, tre uker etter at klagen er avgjort. Dersom søker eller tredjepart akter å prøve vedtakets gyldighet for domstolene, skal vedtaket etter anmodning ikke iverksettes før tre uker etter utløpet av søksmålsfristen eller ved søksmål, tre uker etter at endelig rettsavgjørelse foreligger.",
+      "(4) Tilbakebetaling av tilskudd etter § 3-1 fjerde ledd forfaller til betaling tre uker etter at erstatning er mottatt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-5",
+     "nummer": "§ 6-5",
+     "tittel": "Forsinkelsesrenter ved for sen betaling",
+     "ledd": [
+      "(1) For tilbakebetalingskrav og overtredelsesgebyr som ikke er betalt innen forfall etter § 6-4, betales forsinkelsesrente.",
+      "(2) Rentesatsen tilsvarer den til enhver tid gjeldende rentesats fastsatt i forskrift med hjemmel i lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m. (forsinkelsesrenteloven) § 3 første ledd første punktum. Rentene beregnes fra forfall etter § 6-4 og inntil betaling skjer. Forsinkelsesrenteloven § 2 annet ledd gjelder tilsvarende."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-6",
+     "nummer": "§ 6-6",
+     "tittel": "Rentegodtgjørelse ved forsinket utbetaling av tilskudd",
+     "ledd": [
+      "Utbetales tilskudd senere enn den frist som er fastsatt i § 6-1, skal det ytes rentegodtgjørelse fra forfallstidspunktet og frem til utbetalingen skjer. For øvrig gjelder § 6-5 annet ledd tilsvarende."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-7",
+     "nummer": "§ 6-7",
+     "tittel": "Plikt til å varsle om feil og mottatt erstatning",
+     "ledd": [
+      "Søker plikter uten opphold å varsle tilskuddsmyndigheten dersom det oppdages feil ved grunnlaget for vedtaket eller søker mottar erstatning som nevnt i § 3-1 fjerde ledd. Plikten til å varsle om feil gjelder også for den som har bekreftet innholdet i søknaden, jf. § 5-5 første ledd."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kap7",
+   "overskrift": "Kapittel 7. Svalbard",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 7-1",
+     "tittel": "Foretak på Svalbard som kommer inn under ordningen",
+     "ledd": [
+      "(1) Foretaket må være enten\na. selskap som er skattemessig hjemmehørende på Svalbard,\nb. enkeltpersonforetak drevet av person som er skattemessig hjemmehørende på Svalbard, eller\nc. ansvarlig selskap hvor deltakerne er skattemessig hjemmehørende på Svalbard.",
+      "(2) Foretaket må følge norske regler om bokføring, regnskap og revisjon. For foretak etablert i 2019 eller tidligere, må dette også være gjort for regnskapsåret 2019.",
+      "(3) Foretak som nevnt i foretaksregisterloven § 2-1 må, for å kunne søke om tilskudd i en tilskuddsperiode, være registrert i Foretaksregisteret.",
+      "(4) Enkeltpersonforetak som ikke er registrert i Foretaksregisteret må, for å kunne søke tilskudd for en tilskuddsperiode, være registrert i Enhetsregisteret.",
+      "(5) Foretaket må ikke være fritatt fra å levere næringsoppgave."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-8",
+   "navn": "kap8",
+   "overskrift": "Kapittel 8. Ikrafttredelse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-1",
+     "nummer": "§ 8-1",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Forskriften trer i kraft straks."
+     ]
+    }
+   ]
+  }
+ ]
+}

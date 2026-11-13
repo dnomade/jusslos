@@ -1,0 +1,379 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2001-06-26-738",
+ "dokumentid": "SF/forskrift/2001-06-26-738",
+ "departement": [
+  "Helse- og omsorgsdepartementet"
+ ],
+ "etat": [
+  "Helseavd."
+ ],
+ "kunngjort_i": "I 2001 hefte 8",
+ "ikraft": "2001-07-01",
+ "siste_endring_ikraft": "2024-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2023-12-21-2281",
+   "tekst": "forskrift/2023-12-21-2281 fra 2024-01-01"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2000-06-02-39/§7-1",
+   "tekst": "lov/2000-06-02-39/§7-1"
+  },
+  {
+   "ref": "lov/2000-06-02-39/§7-2",
+   "tekst": "lov/2000-06-02-39/§7-2"
+  },
+  {
+   "ref": "lov/2000-06-02-39/§7-3",
+   "tekst": "lov/2000-06-02-39/§7-3"
+  }
+ ],
+ "kunngjort": "2001-07-03",
+ "korttittel": "Forskrift om tilvirkning av legemidler i apotek",
+ "tittel": "Forskrift om tilvirkning av legemidler i apotek",
+ "annet": "Hjemmel: Fastsatt av Sosial- og helsedepartementet (nå Helse- og omsorgsdepartementet) 26. juni 2001 med hjemmel i lov av 2. juni 2000 nr. 39 om apotek § 7-1 første ledd, § 7-2 annet ledd og § 7-3 tredje ledd.\nEndret ved forskrifter 18 des 2009 nr. 1839, 20 des 2018 nr. 2193, 21 des 2023 nr. 2281 (i kraft 1 jan 2024).",
+ "refid": "forskrift/2001-06-26-738",
+ "eli": "/eli/forskrift/2001/06/26/738",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2001-06-26-738",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Alminnelige bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Forskriften gjelder tilvirkning av legemidler i apotek. Direktoratet for medisinske produkter kan sette som vilkår for tilvirkertillatelse til andre virksomheter som driver lignende tilvirkning at forskriften helt eller delvis skal gjelde tilsvarende."
+     ],
+     "endringer": [
+      "Endret ved forskrift 21 des 2023 nr. 2281 (i kraft 1 jan 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "I denne forskrift menes med:\na. Tilvirkning: Fremstilling, pakking, ompakking, etikettering, ometikettering og frigivelse av legemidler, samt de nødvendige kontroller i forbindelse med disse aktiviteter. Alle operasjoner som inngår i produksjon og kontroll fra mottak av råvarer til godkjenning av ferdigprodukt, samt dispensering av ferdigprodukt eller råvare regnes som tilvirkning.\nb. Resepturproduksjon: Tilvirkning av legemiddel for det enkelte tilfelle.\nc. Lagerproduksjon: Tilvirkning av legemiddel til lager og som ikke er resepturproduksjon.\nd. Resepturleieproduksjon: Resepturproduksjon hvor legemidlet selges til andre selvstendige apotek.\ne. Råvare: Substans som anvendes i tilvirkningen.\nf. Ferdigprodukt: Legemiddel som har gjennomgått alle trinn i fremstillingen, og som er kontrollert og frigitt for bruk.\ng. Mellomprodukt: Produsert materiale som må gjennomgå en eller flere delprosesser for å bli ferdigprodukt.\nh. Bulkprodukt: Et produkt som må fylles, pakkes eller etiketteres for å bli ferdigprodukt.\ni. Batch: En definert mengde råvare, emballasje eller produkt som blir produsert i en prosess eller en serie prosesser, slik at det forventes å bli homogent.\nj. Batchnummer: En entydig betegnelse, f.eks. tallnummer, for en bestemt batch.\nk. Sluttkontroll: De kontroller som skal gjøres før ansvarlig farmasøyt godkjenner legemidlet for bruk.\nl. Karantene: Status til en vare som er adskilt fysisk eller på andre effektive måter, i påvente av en beslutning om frigivelse eller underkjennelse.\nm. Kvalifisering: Fremgangsmåte for å bevise at utstyr fungerer korrekt og gir forventede resultater.\nn. Validering: Bevise, i samsvar med prinsippene om GMP, at prosedyre, prosess, utstyr, materiale, aktivitet eller system gir forventede resultater."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Dispensasjon fra krav",
+     "ledd": [
+      "Direktoratet for medisinske produkter kan gjøre unntak fra krav i denne forskrift dersom dette tilsies av særlige grunner og anses nødvendig for å sikre en god og forsvarlig legemiddelforsyning."
+     ],
+     "endringer": [
+      "Endret ved forskrift 21 des 2023 nr. 2281 (i kraft 1 jan 2024)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Tilvirkertillatelsen",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 4",
+     "tittel": "Generelt om tilvirkning",
+     "ledd": [
+      "Et apotek kan bare tilvirke legemidler dersom det har tilvirkertillatelse for gjeldende apotek.",
+      "Tilvirkertillatelse kreves ikke for enkel istandgjøring av legemidler som på grunn av begrenset holdbarhet må tilberedes rett før utlevering. Det samme gjelder for anbrudd og annen enkel istandgjøring av legemidler med markedsføringstillatelse. Slike enkle istandgjøringer betraktes som en del av ekspedisjonsarbeidet og skal dokumenteres.",
+      "For tilvirkning av radiofarmaka kreves også tillatelse fra Direktoratet for strålevern og atomsikkerhet."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 18 des 2009 nr. 1839 (i kraft 12 jan 2010), 20 des 2018 nr. 2193 (i kraft 1 jan 2019)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 5",
+     "tittel": "Tilvirkertillatelsens omfang",
+     "ledd": [
+      "I den grad kravene i denne forskrift er oppfylt, kan tilvirkertillatelsen omfatte:\na. resepturproduksjon,\nb. resepturleieproduksjon,\nc. lagerproduksjon, eller\nd. salg av egen lagerproduksjon til grossister eller andre apotek.",
+      "Tilvirkningens tillatte omfang skal fremgå av tillatelsen, herunder eventuelle begrensninger i hvilke legemiddelformer som skal kunne tilvirkes.",
+      "Tillatelsen skal gjelde for et bestemt apotek."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 6",
+     "tittel": "Vilkår",
+     "ledd": [
+      "Direktoratet for medisinske produkter kan sette vilkår for innvilgelse av tilvirkertillatelse etter første ledd dersom særlige grunner og hensynet til tilvirkningens art og omfang tilsier det."
+     ],
+     "endringer": [
+      "Endret ved forskrift 21 des 2023 nr. 2281 (i kraft 1 jan 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 7",
+     "tittel": "Søknad om tilvirkertillatelse",
+     "ledd": [
+      "Søknad om tilvirkertillatelse skal sendes til Direktoratet for medisinske produkter.",
+      "I søknaden skal søkeren gi de opplysninger som er nødvendige for å vise at kravene til tilvirkertillatelse er oppfylt, herunder opplysninger om:\na. hvilke legemiddelformer som ønskes produsert.\nb. hvilke legemiddelformer som ønskes produsert for lagerhold.\nc. hvilke legemiddelformer som ønskes solgt til andre apotek og grossister.\nd. oversikt over organisasjons- og ansvarsforhold knyttet til tilvirkningen, herunder opplysninger om hvem som søkes godkjent som kontrollfarmasøyt.\ne. opplysninger om innkjøp og kontroll av råvarer til bruk i legemiddeltilvirkningen.\nf. opplysninger om hvordan kvalitetskontroll av legemidler skal gjøres, herunder bruk av underleverandører av slike tjenester.\ng. opplysninger om de lokalene som skal benyttes ved tilvirkningen."
+     ],
+     "endringer": [
+      "Endret ved forskrift 21 des 2023 nr. 2281 (i kraft 1 jan 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 8",
+     "tittel": "Godkjenning av kontrollfarmasøyt",
+     "ledd": [
+      "Apotek med tilvirkertillatelse som nevnt i § 5 første ledd bokstavene b, c og d, skal ha kontrollfarmasøyt. Kontrollfarmasøyt og eventuell stedfortreder skal godkjennes av Direktoratet for medisinske produkter, og skal ha utdannelse tilsvarende farmasøytisk kandidat."
+     ],
+     "endringer": [
+      "Endret ved forskrift 21 des 2023 nr. 2281 (i kraft 1 jan 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-6",
+     "nummer": "§ 9",
+     "tittel": "Endring av tilvirkertillatelsen",
+     "ledd": [
+      "Endring av tilvirkertillatelsens omfang og vilkår, herunder ved skifte av kontrollfarmasøyt, må godkjennes av Direktoratet for medisinske produkter."
+     ],
+     "endringer": [
+      "Endret ved forskrift 21 des 2023 nr. 2281 (i kraft 1 jan 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-7",
+     "nummer": "§ 10",
+     "tittel": "Tilbakekall av tilvirkertillatelse",
+     "ledd": [
+      "Direktoratet for medisinske produkter skal kalle tilbake hele eller deler av tilvirkertillatelsen:\na. ved bevisst feilaktig eller mangelfull angivelse av sted for tilvirkning eller hvilke legemiddelformer som tilvirkes,\nb. ved vesentlig brudd på de krav som stilles til lokaler, teknisk utstyr og kontrollmuligheter ved tilvirkning av produktene, eller\nc. hvis tilvirkeren ikke lenger har til rådighet en godkjent kontrollfarmasøyt.",
+      "Direktoratet for medisinske produkter kan kalle tilbake eller endre tilvirkertillatelsen:\na. hvis søkeren har gitt feilaktige opplysninger i søknaden om tilvirkertillatelse, eller har unnlatt å melde fra om endrede forutsetninger for tillatelsen,\nb. ved mislighold av vilkår som er satt til tilvirkertillatelsen,\nc. ved tilvirkning i andre lokaler eller av andre legemidler eller legemiddelformer enn de som omfattes av tillatelsen,\nd. ved mangelfull oppfyllelse av de krav som stilles i forskrift til virksomhetens personale og til å sette kontrollfarmasøyt i stand til å utføre sine plikter,\ne. ved manglende overholdelse av leveringsplikt,\nf. ved manglende underretninger om foretatt utskifting av kontrollfarmasøyt,\ng. ved mangelfull dokumentasjon eller attestasjon i henhold til de krav som stilles til tilvirkning av legemidler i apotek eller ved mangelfull etterlevelse av de tilvirkningsoperasjoner som følger av markedsføringstillatelse, eller\nh. ved mislighold av pålagte kontrollkrav.",
+      "Vedtak etter første og annet ledd kan være tidsbegrenset eller endelig."
+     ],
+     "endringer": [
+      "Endret ved forskrift 21 des 2023 nr. 2281 (i kraft 1 jan 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-8",
+     "nummer": "§ 11",
+     "tittel": "Leveringsplikt",
+     "ledd": [
+      "Avtale om resepturleieproduksjon må utformes slik at tilvirker er forpliktet til å levere ethvert legemiddel som omfattes av tilvirkertillatelsen. For legemiddelleveranse som haster, plikter resepturleieprodusenten å levere varen så snart som mulig, normalt innen neste virkedag."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Kvalitetskrav, holdbarhetsmerking, reklamasjoner mv.",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 12",
+     "tittel": "Kvalitetskrav og krav til sluttkontroll",
+     "ledd": [
+      "Tilvirkning av legemidler skal skje i samsvar med bestemmelsene i kapittel 4 og bestemmelser i gjeldende farmakopé.",
+      "Legemidler tilvirket i apotek og råvarer som benyttes i produksjonen skal ha en kvalitet som er i overensstemmelse med bestemmelsene i gjeldende farmakopé.",
+      "Legemidlene skal underlegges en tilstrekkelig analytisk sluttkontroll. Ved resepturproduksjon er legemidler unntatt fra farmakopeens generelle krav til analytisk sluttkontroll. Slik tilvirkning skal undergis en kvalitetssikring som på annen måte sikrer overholdelsen av kvalitetskravene som stilles til legemidlene.",
+      "Produktkontroll i henhold til gjeldende farmakopé skal foretas ved tilvirkning av doserte legemidler hvor doseringsnøyaktighet og biologisk tilgjengelighet er viktige parametre.",
+      "Produkter med virkestoffer som er sterkt hygroskopiske eller som lett kan forvitre, bør kontrolleres, f.eks. ved tetthetsbestemmelse av oppløsninger.",
+      "Det skal utføres en kvantitativ bestemmelse av virkestoffer for følgende produktgrupper:\na. Doserte legemidler, med unntak av stikkpiller, hvor et enkelt virkestoff inngår med mengder på 50 mg eller mindre.\nb. Stikkpiller.\nc. Triturasjoner, ekstrakter og diluenda av sterktvirkende stoffer.\nd. Fortynninger av syrer, ammoniakk o.l. til medisinsk bruk."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 13",
+     "tittel": "Råvare- og emballasjekontroll",
+     "ledd": [
+      "Kvaliteten på råvarer som inngår i legemiddeltilvirkningen og kvaliteten på emballasje som har direkte kontakt med produktet, skal tilfredsstille kravene i gjeldende farmakopé.",
+      "Ved anskaffelse av råvarer som er analysert og eventuelt påført identitetsgaranti av leverandør skal apoteket forvisse seg om at leverandøren har de nødvendige tillatelser for slik tilvirkning. Dersom slik tillatelse ikke foreligger skal apoteket på annen måte forvisse seg om at råvaren er av tilfredsstillende kvalitet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 14",
+     "tittel": "Holdbarhetsmerking",
+     "ledd": [
+      "Apoteket skal påføre opplysninger om holdbarhet på alle legemidler som de tilvirker. Holdbarhetstid fastsettes på grunnlag av det enkelte produkt kjemiske, fysiske og mikrobiologiske egenskaper. Legemidler skal tilfredsstille farmakopékrav og eventuelle produktspesifikasjoner innenfor hele den fastsatte holdbarhetstid.",
+      "Ved resepturproduksjon kan holdbarheten maksimalt settes til seks måneder."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 15",
+     "tittel": "Reklamasjoner og tilbakekalling av tilvirkede legemidler",
+     "ledd": [
+      "Apotek skal straks registrere og undersøke reklamasjoner på produkter som er tilvirket i apoteket eller innkjøpt fra andre apotek. Undersøkelsene skal dokumenteres. Feil eller kvalitetsmangler som kan gi helseskade skal meldes til Direktoratet for medisinske produkter. Meldeplikten gjelder også dersom det foreligger mistanke om feil.",
+      "Apotek skal ha et system som gjør det mulig å tilbakekalle legemidler omgående og på et hvert tidspunkt."
+     ],
+     "endringer": [
+      "Endret ved forskrift 21 des 2023 nr. 2281 (i kraft 1 jan 2024)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Krav til god tilvirkningspraksis",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 16",
+     "tittel": "Generelle krav",
+     "ledd": [
+      "Etterlevelse av bestemmelsene i kapittel 4 skal tilpasses tilvirkningens omfang, egenart og risikoforhold, herunder omfanget av tilvirkertillatelsen.",
+      "Apotek med tilvirkertillatelse skal etablere et kvalitetssikringssystem som dokumenterer at virksomheten utøves i samsvar med denne forskrift.",
+      "Kvalitetssikringssystemet skal være basert på spesifikasjoner for råvarer, emballasje, mellomprodukter og ferdigvarer, på hovedforskrifter angående sammensetning, produksjon og kontroll av mellomprodukter og ferdigvarer, samt instrukser for prosedyrer angående utstyr, hygiene, produksjon og kontroll. Systemet skal dokumentere at tilsiktet produktkvalitet er oppnådd og kunne gi en direkte sporbarhet gjennom hele tilvirkningsprosessen, fra utgangsvarer til ferdig produkt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 17",
+     "tittel": "Personalet",
+     "ledd": [
+      "Driftskonsesjonæren er ansvarlig for tilvirkning av legemidler i de apotek driftskonsesjonen omfatter.",
+      "Ved resepturproduksjon skal farmasøyt være ansvarlig for den enkelte tilvirkning.",
+      "Ved lagerproduksjon og resepturleieproduksjon skal normalt en farmasøytisk kandidat være ansvarlige for produksjonen. I særlige tilfeller kan person med annen faglig bakgrunn aksepteres av Direktoratet for medisinske produkter. Kontrollfarmasøyten skal frigi legemidlene for bruk.",
+      "Ansvarsområder og organisatoriske forhold skal være klarlagt i stillingsinstrukser.",
+      "Undervisning og oppfølging av de ansatte skal være tilstrekkelig til å sikre at produktene som tilvirkes oppnår planlagt kvalitet."
+     ],
+     "endringer": [
+      "Endret ved forskrift 21 des 2023 nr. 2281 (i kraft 1 jan 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 18",
+     "tittel": "Lokaler",
+     "ledd": [
+      "Lokalene skal være utformet og dimensjonert slik at risikoen for sammenblanding av produkter og for krysskontaminasjon er tilstrekkelig lav i forhold til tilvirkningens art og omfang.",
+      "Lokalene skal være tilstrekkelig belyst, oppvarmet og ventilert. Luftens renhetsgrad og utskiftingsfrekvens må tilpasses tilvirkningens art og omfang.",
+      "I apotek med tillatelse til resepturproduksjon skal produksjonslokalene være tydelig avgrenset mot de øvrige apoteklokaler på en måte som forhindrer forurensning av de tilvirkede legemidlene.",
+      "Apotek med tillatelse til lagerproduksjon og resepturleieproduksjon skal normalt ha sluser som atskiller produksjonslokalene fra de øvrige apoteklokalene. I slusene skal personalet kunne skifte arbeidstøy og rengjøre gods. Slusene skal ikke benyttes til andre formål enn de som naturlig hører til slusefunksjonen.",
+      "Lokalene skal være utformet og overflatebehandlet slik at alle hygieneinstrukser kan følges."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 19",
+     "tittel": "Utstyr",
+     "ledd": [
+      "Utstyr skal være dimensjonert og utformet slik at det er velegnet til tilvirkning av de legemiddelformer som tilvirkertillatelsen omfatter. Utstyret skal være lett å rengjøre. Det skal finnes skriftlige prosedyrer for bruk, vedlikehold og kontroll av tilvirkningsutstyr. Periodiske kontroller skal dokumenteres.",
+      "Utstyr som benyttes til produksjon og kontroll skal være tilfredsstillende kvalifisert.",
+      "Aseptiske prosedyrer skal kontrolleres jevnlig.",
+      "Punktavsug og avtrekksskap som benyttes ved tilberedning av produkter som har stor risiko for kontaminasjon av omgivelsene bør plasseres utenfor tilvirkningslokalet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-5",
+     "nummer": "§ 20",
+     "tittel": "Hygiene",
+     "ledd": [
+      "Det skal finnes skriftlige hygieneinstrukser tilpasset apotekets aktiviteter og lokale forhold, herunder instrukser for rengjøring av lokaler og utstyr, håndtering av råvarer og produkter, personlig hygiene, hygienisk arbeidsteknikk, bruk av arbeidstøy og eventuell personsluse, samt forholdsregler ved smittsomme sykdommer.",
+      "Hygieneinstruksene skal regelmessig gjennomgås og følges opp av hele personalet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-6",
+     "nummer": "§ 21",
+     "tittel": "Dokumentasjon for lagerproduksjon",
+     "ledd": [
+      "Det skal utarbeides en hovedforskrift for hvert produkt og for hver batchstørrelse. Hovedforskriften skal bestå av preparasjonsforskrift, dispenseringsforskrift og kontrollforskrift. Hovedforskriften skal være entydig detaljert utformet og tilpasset det personalet som skal følge den. De ulike kontrollpunkter under fremstillingen skal tydelig angis, jf. § 23 om kvalitetskontroll.",
+      "Hovedforskriften skal være kontrollert og autorisert av ansvarshavende for produksjon og kontroll.",
+      "Arbeidsseddel for den enkelte batch skal være en kopi av den aktuelle del av hovedforskriften, laget slik at overføringsfeil elimineres. Arbeidsseddelen skal inneholde:\na. produktets navn og batchnummer.\nb. detaljert fremstillingsforskrift.\nc. kontrollnummer for anvendte råvarer og emballasje.\nd. datoer for de ulike trinn i fremstillingen med signatur for operatør og eventuelt kontrollør.\ne. angivelse av utførte prosesskontroller, herunder utbyttekontroll og kontroll med etiketter.\nf. datert underskrift av produksjons ansvarlig.\ng. kjemiske, fysikalske og eventuelle mikrobiologiske analyseresultater.\nh. datert underskrift for frigivelse for salg av kontrollfarmasøyt.",
+      "Når tilvirkningen er en dispensering av råvare eller bulkprodukt, skal hovedforskriften bestå av dispenseringsforskrift og kontrollforskrift.",
+      "Det skal føres produksjonsjournal.",
+      "Dokumentasjonen oppbevares i minst ett år utover produktets holdbarhetstid, men likevel ikke mindre enn fem år. Hovedforskrifter som ikke lenger er i bruk, skal oppbevares like lenge som arbeidsseddel fra siste tilvirkning."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-7",
+     "nummer": "§ 22",
+     "tittel": "Dokumentasjon for resepturproduksjon",
+     "ledd": [
+      "Det enkelte produkt skal fortløpende tildeles et kontrollnummer. Produktets kontrollnummer og holdbarhet skal fremgå av produktmerkingen.",
+      "All tilvirkning skal foregå i henhold til arbeidsseddel. Arbeidssedler for produkter fremstilt ved resepturproduksjon oppbevares i minst ett år.",
+      "Arbeidsseddelen skal inneholde:\na. Kopi av resept eller hovedforskrift laget slik at overføringsfeil elimineres.\nb. Fullstendig fremstillingsforskrift, som gir uttrykk for den fremgangsmåte som er benyttet i fremstillingen. Viktige trinn i tilvirkningen skal være dokumentert.\nc. Eventuell steriliseringstid, steriliseringstemperatur og øvrige betingelser forbundet med fremstilling av sterile legemidler skal dokumenteres på arbeidsseddelen.\nd. Eventuelle beregninger, detaljert gjengitt.\ne. Kontrollnummer for anvendte råvarer.\nf. Dokumentasjon av avveining.\ng. Nøyaktig gjengivelse av produktmerking.\nh. Fremstillingsdato.\ni. Datert underskrift av den som har fremstilt produktet og, dersom produktet ikke er fremstilt av en farmasøyt, av den farmasøyt som godkjenner produkt. Ved resepturleieproduksjon skal kontrollfarmasøyt godkjenne produktet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-8",
+     "nummer": "§ 23",
+     "tittel": "Krav til produksjon",
+     "ledd": [
+      "1. Det skal foreligge skriftlige prosedyrer for alle generelle arbeidsoperasjoner, herunder produksjon av de vanlige legemiddelformer, anvendte steriliseringsmetoder og lignende.\n2. Produksjonen skal foregå etter hovedforskriften, aktuelle prosedyrer eller instrukser.\n3. Kritiske trinn i produksjonsprosessen skal valideres dersom dette tilsies av produksjonens art og omfang.\n4. Under produksjonen skal tilvirkningskar og -utstyr være tydelig merket med produktets navn og batchnummer.\n5. Alle avveininger skal dobbeltkontrolleres. Der veieutstyret med printer anvendes, kan kontroll av printerutskriften være en slik kontroll.\n6. Det bør normalt bare arbeides med ett produkt av gangen i samme lokale. Dersom flere produkter likevel bearbeides samtidig, skal produksjonen skje på en slik måte at krysskontaminasjon og sammenblanding forhindres.\n7. Før tilvirkningen begynner skal arbeidssone og utstyr være klargjort slik at det ikke finnes rester fra annen tilvirkning som kan føre til forveksling eller kontaminasjon. Klargjøringen skal dokumenteres. Det må vises særlig aktpågivenhet for å hindre forveksling under dispensering og etikettering ved lagerproduksjon.\n8. Beholdere som inneholder mellomprodukter og bulkprodukter skal merkes med entydig navn og batchnummer, og oppbevares forsvarlig.\n9. Drogeekstraksjoner eller drogeblandinger må kun tilvirkes i egne lokaler der det ikke foregår annen type tilvirkning.\n10. Aseptisk fremstilte legemidler skal fremstilles under betingelser som gir nødvendig sikkerhet for at sterilitet oppnås i det ferdige produkt.\n11. Tilberedning av cytostatika skal foregå i eget rom og under betingelser som tar sikte på å beskytte både produktet og personalet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-9",
+     "nummer": "§ 24",
+     "tittel": "Kvalitetskontroll",
+     "ledd": [
+      "Apotek med tillatelse til lagerproduksjon og resepturleieproduksjon skal ha en etablert kvalitetskontrollfunksjon som kontrollfarmasøyt er ansvarlig for. Kontrollfarmasøyt er den eneste som kan frigi et produkt for bruk i produksjonen eller for salg.",
+      "Det skal føres en fortløpende journal over mottatte råvarer og den enkelte råvare skal tildeles et råvarekontrollnummer. Kontrollnummeret skal gjøre det mulig å tilbakespore varen til den enkelte råvarebatch hos leverandør og den identitetskontroll varen har gjennomgått.",
+      "Aseptisk arbeidsteknikk skal regelmessig kontrolleres ved å simulere en aseptisk fremstilling ved bruk av bakteriologisk næringsmedium.",
+      "Ved lagerproduksjon og resepturleieproduksjon gjelder følgende:\na. Kontrollfarmasøyten er ansvarlig for mottakskontroll av råvarer, emballasje og etiketter. Varene skal holdes i karantene inntil de er frigitt for produksjon. Retningslinjer for dette skal finnes i egen instruks.\nb. Kvalitetskontrollen skal dessuten omfatte kontroll av produksjonen, kontrollanalyser (herunder prøvetaking), referanselager og oppfølging av reklamasjoner. Det er likevel ikke krav om referanselager ved resepturleieproduksjon.\nc. Der det kreves en kvantitativ, en mikrobiologisk eller eventuelt en annen sluttkontroll av et produkt, kan utenforstående laboratorier benyttes til analyseoppdrag. Dersom analyseoppdraget utføres av en ekstern part, må dette oppdraget skje i henhold til en skriftlig avtale. Avtalen må spesifisere partenes oppgaver og ansvar.\nd. Ved lagerproduksjon skal mengde ferdig produkt vurderes mot teoretisk utbytte, forbruk av råvarer, etiketter og emballasje. Ved store eller unormale avvik som kan være av betydning for kvaliteten av produktet, skal ikke produktet frigis for salg uten at det er funnet en tilstrekkelig forklaring på avviket.\ne. Når det tas ut referanseprøver av ferdigprodukter skal disse lagres ved korrekt oppbevaringstemperatur for produktet. Prøvene skal oppbevares like lenge som arbeidsseddelen.\nf. Før frigivelse for salg skal det ferdige produkt holdes atskilt i karantene."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Ikrafttredelse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 25",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Forskriften trer i kraft 1. juli 2001."
+     ]
+    }
+   ]
+  }
+ ]
+}

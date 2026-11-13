@@ -1,0 +1,65 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-2017-09-25-1453",
+ "dokumentid": "DEL/forskrift/2017-09-25-1453",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Skattedirektoratet"
+ ],
+ "ikraft": "2017-09-25",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2009-06-19-58/§3-31",
+   "tekst": "lov/2009-06-19-58/§3-31"
+  },
+  {
+   "ref": "lov/2009-06-19-58/§6-36",
+   "tekst": "lov/2009-06-19-58/§6-36"
+  },
+  {
+   "ref": "lov/2009-06-19-58/§7-9",
+   "tekst": "lov/2009-06-19-58/§7-9"
+  },
+  {
+   "ref": "forskrift/2017-01-26-76",
+   "tekst": "forskrift/2017-01-26-76"
+  }
+ ],
+ "kunngjort": "2017-09-26 14:55",
+ "korttittel": "Deleg. av myndighet etter mval. § 3-31, § 6-36 og § 7-9",
+ "tittel": "Delegering av myndighet etter merverdiavgiftsloven § 3-31, § 6-36 og § 7-9",
+ "annet": "Hjemmel: Fastsatt av Skattedirektoratet 25. september 2017 med hjemmel i lov 19. juni 2009 nr. 58 om merverdiavgift (merverdiavgiftsloven) § 3-31, § 6-36 og § 7-9 og delegeringsvedtak 26. januar 2017 nr. 76.",
+ "refid": "forskrift/2017-09-25-1453",
+ "eli": "/eli/forskrift/2017/09/25/1453",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/2017-09-25-1453",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Skattedirektoratets myndighet etter merverdiavgiftsloven § 3-31, § 6-36 og § 7-9 delegeres til skattekontorene."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Vedtaket under I trer i kraft straks."
+    }
+   ]
+  }
+ ]
+}

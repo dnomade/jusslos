@@ -1,0 +1,801 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-1993-12-21-1219",
+ "dokumentid": "SF/forskrift/1993-12-21-1219",
+ "departement": [
+  "Helse- og omsorgsdepartementet"
+ ],
+ "etat": [
+  "Spesialisthelsetjenesteavdelingen"
+ ],
+ "kunngjort_i": "I 1993 1563",
+ "ikraft": "1994-01-01",
+ "siste_endring_ikraft": "2026-09-18",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2026-09-18-1835",
+   "tekst": "forskrift/2026-09-18-1835"
+  }
+ ],
+ "endrer": "forskrift/1965-02-19-4",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1992-12-04-132/§6",
+   "tekst": "lov/1992-12-04-132/§6"
+  },
+  {
+   "ref": "lov/1992-12-04-132/§14",
+   "tekst": "lov/1992-12-04-132/§14"
+  },
+  {
+   "ref": "lov/1992-12-04-132/§15",
+   "tekst": "lov/1992-12-04-132/§15"
+  },
+  {
+   "ref": "lov/1992-12-04-132/§16",
+   "tekst": "lov/1992-12-04-132/§16"
+  },
+  {
+   "ref": "lov/1992-12-04-132/§17",
+   "tekst": "lov/1992-12-04-132/§17"
+  },
+  {
+   "ref": "lov/1992-12-04-132/§18",
+   "tekst": "lov/1992-12-04-132/§18"
+  },
+  {
+   "ref": "lov/1992-12-04-132/§28",
+   "tekst": "lov/1992-12-04-132/§28"
+  },
+  {
+   "ref": "lov/2000-06-23-56/§2-2",
+   "tekst": "lov/2000-06-23-56/§2-2"
+  },
+  {
+   "ref": "forskrift/1995-06-08-521",
+   "tekst": "forskrift/1995-06-08-521"
+  }
+ ],
+ "siste_rettelse": "2015-01-06 (§ 4)",
+ "korttittel": "Forskrift om legemiddelgrossister",
+ "tittel": "Forskrift om grossistvirksomhet med legemidler",
+ "annet": "Hjemmel: Fastsatt av Sosial- og helsedepartementet 21. desember 1993 med hjemmel i lov av 4. desember 1992 nr. 132 om legemidler m.v. (legemiddelloven) § 6, § 14, § 15, § 16, § 17, § 18 og § 28 og lov av 23. juni 2000 nr. 56 om helsemessig og sosial beredskap § 2-2, jf. kgl.res. av 8. juni 1995 nr. 521.\nEØS-henvisninger: EØS-avtalen vedlegg II pkt. 15b (direktiv 92/25/EØF).\nEndret ved forskrifter 16 des 1994 nr. 1117, 22 des 1999 nr. 1560, 27 des 2000 nr. 1578, 23 juli 2001 nr. 883 (hjemmel), 21 des 2001 nr. 1553, 18 jan 2002 nr. 56, 21 mars 2002 nr. 338, 17 des 2002 nr. 1677, 25 feb 2003 nr. 232, 14 aug 2003 nr. 1054, 5 nov 2004 nr. 1443, 17 des 2004 nr. 1712, 1 des 2006 nr. 1346, 8 nov 2007 nr. 1255, 3 april 2008 nr. 320, 10 nov 2009 nr. 1364, 24 nov 2011 nr. 1135, 17 jan 2013 nr. 61, 20 aug 2013 nr. 1037, 11 juni 2014 nr. 736, 9 des 2013 nr. 1573, 23 sep 2015 nr. 1096, 18 des 2015 nr. 1740, 4 juli 2018 nr. 1144, 20 des 2018 nr. 2193. 24 jan 2019 nr. 41, 3 mars 2020 nr. 226, 27 april 2020 nr. 891 (i kraft 1 mai 2020), 2 juni 2022 nr. 977 (i kraft 16 sep 2022), 23 aug 2022 nr. 1572 (i kraft 16 sep 2022), 14 des 2023 nr. 2059 (i kraft 15 des 2023), 14 des 2023 nr. 2059 (i kraft 1 jan 2024), 21 des 2023 nr. 2281 (i kraft 1 jan 2024), 26 juni 2024 nr. 1354 (i kraft 1 juli 2024), 14 des 2023 nr. 2059 (i kraft 15 august 2024), 30 aug 2024 nr. 2075 (i kraft 1 sep 2024), 19 des 2024 nr. 3284 (i kraft 1 jan 2025), 18 sep 2026 nr. 1835.\nEndres ved forskrift 18 sep 2026 nr. 1835 (i kraft 16 jan 2027).\nRettelser: 06.01.2015 (§ 4).",
+ "refid": "forskrift/1993-12-21-1219",
+ "eli": "/eli/forskrift/1993/12/21/1219",
+ "url": "https://lovdata.no/dokument/SF/forskrift/1993-12-21-1219",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "Kap. I. Definisjoner og virkeområde",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrift 22 des 1999 nr. 1560 (i kraft 1 jan 2000)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "Med grossistvirksomhet med legemidler menes alle aktiviteter som omfatter innkjøp, oppbevaring, utlevering og utførsel av legemidler, med unntak for utlevering til allmenheten og vanlig apotekvirksomhet.",
+      "Med grossist forstås innehaver av grossisttillatelse eller av annen tillatelse som gir rett til å utøve grossistvirksomhet med legemidler.",
+      "Med legemiddelformidling menes enhver form for virksomhet knyttet til salg eller kjøp av legemidler, unntatt engros- og detaljomsetning, som ikke innebærer fysisk håndtering og som består i å forhandle uavhengig på vegne av en annen juridisk eller fysisk person.",
+      "Med legemiddelformidler (broker) menes virksomhet eller person som driver med formidling av legemidler."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 22 des 1999 nr. 1560 (i kraft 1 jan 2000), 11 juni 2014 nr. 736 (i kraft 1 juli 2014)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 1a",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Forskriften kap. I til IV og VI a og VII gjelder bare for legemidler til mennesker. Forskriften kapittel V og VI gjelder også for legemidler til dyr."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 22 des 1999 nr. 1560 (i kraft 1 jan 2000), endret ved forskrift 23 aug 2022 nr. 1572 (i kraft 16 sep 2022)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "Kap. II. Tillatelse til grossistvirksomhet",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrift 22 des 1999 nr. 1560 (i kraft 1 jan 2000)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 2",
+     "tittel": "Grossisttillatelse",
+     "ledd": [
+      "Grossistvirksomhet må ikke skje uten tillatelse fra Direktoratet for medisinske produkter. Tillatelse kreves for hvert enkelt sted grossisten skal drive sin virksomhet. Tillatelse forutsetter at grossisten oppfyller kravene i denne forskrift.",
+      "Søknad om tillatelse etter første ledd skal avgjøres innen 90 dager regnet fra den dag søknaden ble mottatt. Dersom Direktoratet for medisinske produkter må be søkeren om ytterligere opplysninger som er nødvendige for å behandle søknaden, suspenderes tidsfristen inntil opplysninger er mottatt.",
+      "Grossisttillatelse kan gis tidsbegrenset og på bestemte vilkår, herunder begrenset til eksportvirksomhet, jf. § 2a.",
+      "Grossister som omsetter radiofarmaka må også ha tillatelse fra Direktoratet for strålevern og atomsikkerhet."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 22 des 1999 nr. 1560 (i kraft 1 jan 2000), 27 des 2000 nr. 1578 (i kraft 1 jan 2001), 20 des 2018 nr. 2193 (i kraft 1 jan 2019), 21 des 2023 nr. 2281 (i kraft 1 jan 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 2a",
+     "tittel": "Utførsel av legemidler",
+     "ledd": [
+      "Direktoratet for medisinske produkter kan på særskilte vilkår gi personer eller virksomheter rett til utførsel av legemidler.",
+      "Privatpersoner kan til personlig bruk utføre en rimelig mengde legemidler innenfor EØS-området, så sant legemidlene er lovlig ervervet.",
+      "Tilvirkere av legemidler kan utføre de legemidler som omfattes av tilvirkertillatelsen.",
+      "Direktoratet for medisinske produkter kan fastsette nærmere retningslinjer for utførsel av legemidler."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 22 des 1999 nr. 1560 (i kraft 1 jan 2000), endret ved forskrifter 27 des 2000 nr. 1578 (i kraft 1 jan 2001), 21 des 2023 nr. 2281 (i kraft 1 jan 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 2b",
+     "tittel": "Tilbakekall av grossisttillatelse",
+     "ledd": [
+      "Direktoratet for medisinske produkter skal tilbakekalle grossisttillatelsen midlertidig eller endelig hvis forutsetninger for tillatelsen ikke lenger er til stede:\na. ved vesentlige brudd på de krav som stilles i § 7 om lokaler og nødvendig utstyr\nb. ved vesentlig brudd på de krav som stilles i § 6 om virksomhetens personale\nc. ved mangelfull medvirkning ved tilsyn, jf. § 17a\nd. ved innkjøp av legemidler i strid med § 12\ne. ved salg av legemidler i strid med § 13\nf. ved mangelfull oppfyllelse av de krav som stilles i § 9."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 22 des 1999 nr. 1560 (i kraft 1 jan 2000), endret ved forskrifter 27 des 2000 nr. 1578 (i kraft 1 jan 2001), 21 des 2023 nr. 2281 (i kraft 1 jan 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 3",
+     "tittel": "Tillatelse i medhold av tilvirkertillatelse utstedt av EØS-stat",
+     "ledd": [
+      "Firmaer med tilvirkertillatelse for legemidler i et land innenfor EØS-området, kan også utøve grossistvirksomhet med de preparater som omfattes av tilvirkertillatelsen. Ved utøvelse av slik grossistvirksomhet gis melding til Direktoratet for medisinske produkter.",
+      "For øvrig skal utøvelsen av grossistvirksomheten skje i samsvar med denne forskrift."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 22 des 1999 nr. 1560 (i kraft 1 jan 2000), 27 des 2000 nr. 1578 (i kraft 1 jan 2001), 21 des 2023 nr. 2281 (i kraft 1 jan 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 3a",
+     "tittel": "Nasjonale krav til grossistvirksomhet i medhold av EØS-tillatelse",
+     "ledd": [
+      "Innehaver av tillatelse utstedt av annet land i EØS-området som gir rett til utøvelse av grossistvirksomhet i Norge, kan ikke pålegges strengere leveringskrav eller mer omfattende krav til offentlig tjenesteyting enn det som innehavere av grossisttillatelse utstedt i medhold av § 2 er pålagt. Slike krav må under enhver omstendighet være begrunnet ut fra hensynet til folkehelsen og må være avpasset det formål vilkåret skal fremme."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 22 des 1999 nr. 1560 (i kraft 1 jan 2000)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kapIII",
+   "overskrift": "Kap. III. Krav til grossistvirksomhet",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Kapitteloverskrift tilføyd ved forskrift 22 des 1999 nr. 1560 (i kraft 1 jan 2000)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 4",
+     "tittel": null,
+     "ledd": [
+      "Grossister som leverer til apotek, må som hovedregel innen 24 timer kunne levere hvor som helst i landet. I områder med vanskelige kommunikasjonsforhold skal leveranse som hovedregel skje innen 48 timer. Leveringsplikten omfatter alle legemidler som grossisten fører. Når særlige grunner foreligger, kan Direktoratet for medisinske produkter gjøre unntak fra dette kravet.",
+      "Grossister som leverer til apotek, kan pålegges en forsyningsplikt for leveranser utenom normal åpningstid.",
+      "Overfor utsalgssted som omsetter legemidler etter forskrift 14. august 2003 nr. 1053 om omsetning mv. av visse reseptfrie legemidler utenom apotek gjelder ikke kravet i første ledd. Grossisten bestemmer selv hvilke utsalgssteder utenom apotek denne ønsker å handle med. Leveringstid skal i slike tilfelle avtales mellom grossist og utsalgssted.",
+      "Grossist som omsetter legemidler til en virksomhet som ikke er apotek og som driver detaljsalg av reseptfrie legemidler, må levere de legemidler som denne virksomheten etterspør dersom disse inngår i minimumsutvalget som nevn i forskrift 14. august 2003 nr. 1053 om omsetning mv. av visse reseptfrie legemidler utenom apotek § 9."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 27 des 2000 nr. 1578 (i kraft 1 jan 2001), 14 aug 2003 nr. 1054 (i kraft 1 nov 2003), 9 des 2013 nr. 1573 (i kraft 1 jan 2015), 21 des 2023 nr. 2281 (i kraft 1 jan 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 5",
+     "tittel": null,
+     "ledd": [
+      "Legemiddelgrossister som distribuerer legemidler til apotek, plikter å beredskapssikre et ekstra lager av legemidler i Norge. Legemidlene omfattet av beredskapsplikten fremgår av vedlegg til denne forskriften.",
+      "Direktoratet for medisinske produkter kan gi dispensasjon fra krav som følger av denne bestemmelsen.",
+      "Direktoratet for medisinske produkter fører tilsyn med legemiddelgrossisters oppfyllelse av bestemmelsen."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 27 des 2000 nr. 1578 (i kraft 1 jan 2001), 23 sep 2015 nr. 1096 (i kraft 1 jan 2016), 14 des 2023 nr. 2059 (i kraft 15 des 2023, se forskriften del III tredje ledd for overgangsregel), 14 des 2023 nr. 2059 (i kraft 1 jan 2024, se forskriftens del III annet ledd)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 5a",
+     "tittel": null,
+     "ledd": [
+      "Legemiddelgrossist omfattet av beredskapsplikten skal rapportere til Direktoratet for medisinske produkter. Direktoratet for medisinske produkter fastsetter nærmere retningslinjer for rapportering.",
+      "Beredskapslageret beregnes av legemiddelgrossistens totale lagerbeholdning av legemidler i vedlegg til denne forskriften med fratrekk for salgslager beregnet til 20 dagers ordinær omsetning.",
+      "Legemiddelgrossist som distribuerer legemidler til apotek i Norge, skal kompenseres for beredskapsplikt etter § 5 basert på faktisk lagerbeholdning.",
+      "Det gis kompensasjon for kapitalkostnad beregnet av maksimal AIP av beredskapslageret minus 10 prosent etter sats fastsatt av Helse- og omsorgsdepartementet. Sats for kompensasjon for kapitalkostnad er NIBOR + 2 % per siste dag i inneværende måned.",
+      "Det gis kompensasjon for håndtering og lagring etter sats fastsatt av Helse- og omsorgsdepartementet. Sats for håndtering og lagring er 4 kroner per pakning.",
+      "Det gis økt sats pr. pakning av kjølevarer, A-preparater og B-preparater. Økt sats er 8 kroner per pakning.",
+      "Det gis kompensasjon for nødvendige kostnader til ukurans på inntil 10 %.",
+      "Kompensasjon utbetales månedlig basert på rapportert lagerbeholdning fra legemiddelgrossist.",
+      "Direktoratet for medisinske produkter forvalter kompensasjonsordningen."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 14 des 2023 nr. 2059 (i kraft 15 aug 2024), endret ved forskrift 30 aug 2024 nr. 2075 (i kraft 1 sep 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 6",
+     "tittel": null,
+     "ledd": [
+      "Grossister skal i sin virksomhet ha ansatt en person som har cand.pharm. eksamen eller tilsvarende utdanning som ansvarlig for den farmasøytisk-faglige del av virksomheten. Når særlige grunner foreligger, kan Direktoratet for medisinske produkter gjøre unntak fra dette krav.",
+      "Ansvarsforholdene i bedriften skal klart framgå av organisasjonskart og stillingsinstrukser.",
+      "Forøvrig skal virksomheten ha tilstrekkelig stort og kvalifisert personale i forhold til arten og omfanget av den virksomheten som drives."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 27 des 2000 nr. 1578 (i kraft 1 jan 2001), 21 des 2023 nr. 2281 (i kraft 1 jan 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 7",
+     "tittel": null,
+     "ledd": [
+      "Virksomheten skal ha til disposisjon tilstrekkelig store og velegnede lokaler, samt nødvendig utstyr, slik at legemidlene kan lagres og håndteres på en sikker og faglig forsvarlig måte. Direktoratet for medisinske produkter kan gi nærmere retningslinjer for dette."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 27 des 2000 nr. 1578 (i kraft 1 jan 2001), 21 des 2023 nr. 2281 (i kraft 1 jan 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-6",
+     "nummer": "§ 8",
+     "tittel": null,
+     "ledd": [
+      "Grossister skal sørge for sikker transport av legemidlene, slik at legemidlene ikke ødelegges, kommer på avveie eller forårsaker skader."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-7",
+     "nummer": "§ 9",
+     "tittel": null,
+     "ledd": [
+      "Virksomheten skal foregå etter sikre og dokumenterbare arbeidsrutiner som er i overensstemmelse med retningslinjer for god distribusjonspraksis (GDP) utgitt av EU-Kommisjonen.",
+      "Alle varepartier skal kunne etterspores og tilbakekalles av grossisten dersom tilbakekalling fra markedet skulle være nødvendig ut fra konstaterte feil, eller ved mistanke om feil, på varepartiene.",
+      "Vareflyten inn og ut av virksomheten skal dokumenteres for alle inn- og utgående transaksjoner av legemidler, og minst inneholde dato, legemidlets navn, mottatt eller utlevert mengde og leverandørens eller mottakerens navn og adresse. Dokumentasjon av transaksjoner skal for legemidler med krav til sikkerhetsanordninger, som nevnt i forskrift 18. desember 2009 nr. 1839 § 3-29, i tillegg inneholde varepartiets nummer (batchnummer). Dokumentasjonen må oppbevares på en måte som gjør den tilgjengelig for tilsynsmyndighetene i minst 5 år.",
+      "Virksomheten skal ha et kvalitetssystem som beskriver ansvarsområder, arbeidsrutiner og risikohåndteringskrav i virksomheten. Grossisten skal kontrollere at legemidlene som mottas ikke er forfalsket, ved å gjennomføre kontroll av legemidlets ytre emballasje, jf. forskrift 18. desember 2009 nr. 1839 § 3-29 fjerde ledd. Dette gjelder ikke ved salg av legemidler til tredjeland, eller ved mottak av legemidler fra tredjeland når legemidlet skal distribueres direkte til tredjeland og legemidlet ikke skal plasseres på markedet i EU/EØS-området.",
+      "Før utlevering av legemidler til profesjonell sluttbruker jf. legemiddelloven § 15 tredje og fjerde ledd, skal grossist foreta kontroll og utmelding av legemidler med sikkerhetsanordninger. Denne bestemmelsen gjelder ikke ved utlevering til sykehus, jf. grossistforskriften § 13 punkt 7.",
+      "Grossist skal foreta kontroll og utmelding av legemidler som omfattes av forordning (EU) 2016/161 artikkel 23 bokstav f).",
+      "Forordning (EU) 2016/161 om sikkerhetsanordninger på legemiddelemballasje gjelder som forskrift, jf. legemiddelforskriften § 3-29 siste ledd.",
+      "Dersom innehaver av grossisttillatelsen får mistanke om eller kjennskap til forfalskede legemidler, skal Direktoratet for medisinske produkter straks underrettes.",
+      "Direktoratet for medisinske produkter kan gi nærmere retningslinjer vedrørende disse bestemmelser. Retningslinjene kan inneholde bestemmelser om plikt til mottak av varer som returneres fra apotek og andre, på grunn av overskredet holdbarhetstid eller av andre grunner."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 22 des 1999 nr. 1560 (i kraft 1 jan 2000), 27 des 2000 nr. 1578 (i kraft 1 jan 2001), 20 aug 2013 nr. 1037, 24 jan 2019 nr. 41 (i kraft 9 feb 2019), 21 des 2023 nr. 2281 (i kraft 1 jan 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-8",
+     "nummer": "§ 9a",
+     "tittel": "Salgsdokument",
+     "ledd": [
+      "Ved all utlevering av legemidler skal grossisten vedlegge et salgsdokument som minst angir dato, legemidlets navn og legemiddelform, levert mengde og leverandørens og mottakerens navn og adresse. I tillegg skal transaksjonsdokumentasjonen for legemidler som skal ha sikkerhetsanordninger som nevnt i forskrift 18. desember 2009 nr. 1839 § 3-29 fjerde ledd inneholde varepartiets nummer (batchnummer)."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 22 des 1999 nr. 1560 (i kraft 1 jan 2000), endret ved forskrift 20 aug 2013 nr. 1037."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-9",
+     "nummer": "§ 10",
+     "tittel": "Salgsrapportering",
+     "ledd": [
+      "Grossister skal gi oppgaver over salget til Direktoratet for medisinske produkter. Direktoratet for medisinske produkter kan gi nærmere retningslinjer for slik rapportering."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 22 des 1999 nr. 1560 (i kraft 1 jan 2000), 27 des 2000 nr. 1578 (i kraft 1 jan 2001), 21 des 2023 nr. 2281 (i kraft 1 jan 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-10",
+     "nummer": "§ 11",
+     "tittel": "Salg til ikke-medisinsk bruk",
+     "ledd": [
+      "Grossister plikter å ivareta salg av legemidler til teknisk, vitenskapelig og annen ikke-medisinsk bruk."
+     ],
+     "endringer": [
+      "Endret ved forskrift 22 des 1999 nr. 1560 (i kraft 1 jan 2000)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kapIV",
+   "overskrift": "Kap. IV. Innkjøp og salg av legemidler",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrift 22 des 1999 nr. 1560 (i kraft 1 jan 2000)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 12",
+     "tittel": null,
+     "ledd": [
+      "Grossister kan bare kjøpe legemidler fra produsenter med tilvirkertillatelse eller fra godkjente grossister eller importører. Grossisten skal påse at produsenten, grossisten eller importøren har nødvendig tillatelse. Grossisten skal påse at den som legemidlene kjøpes fra overholder kravene i § 9 første ledd. Når særlige grunner foreligger, kan Direktoratet for medisinske produkter gjøre unntak fra denne bestemmelse."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 27 des 2000 nr. 1578 (i kraft 1 jan 2001), 20 aug 2013 nr. 1037, 21 des 2023 nr. 2281 (i kraft 1 jan 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 13",
+     "tittel": null,
+     "ledd": [
+      "Grossister kan bare selge legemidler til:\n1. Apotek.\n2. Tilvirkere med tillatelse etter § 12 i lov av 4. desember 1992 nr. 132 om legemidler m.v. (legemiddelloven).\n3. Importører og tilvirkere som i medhold av legemiddelloven § 14 og § 16 har tillatelse til å selge samme vare.\n4. Sykehjem som inngår i den kommunale helse- og omsorgstjenesten.\n5. Offentlige og offentlig godkjente laboratorier og vitenskapelige institusjoner og andre lignende institusjoner eller bedrifter, etter Direktoratet for medisinske produkters nærmere bestemmelse.\n6. Andre godkjente grossister.\n7. Sykehus, for de varegrupper som er fastsatt av Direktoratet for medisinske produkter etter retningslinjer fra Helsedepartementet.\n8. Andre helseinstitusjoner enn kommunale sykehjem for de varegrupper som er fastsatt av Direktoratet for medisinske produkter etter retningslinjer fra Helsedepartementet.\n9. Sluttbruker av legemiddelet, for de varegrupper som er fastsatt av Direktoratet for medisinske produkter.\n10. Kjøpmenn som i medhold av lov om legemidler § 16 har tillatelse til å selge legemidler.",
+      "Når særlige grunner foreligger, kan Direktoratet for medisinske produkter gjøre unntak fra denne bestemmelse."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 16 des 1994 nr. 1117, 27 des 2000 nr. 1578 (i kraft 1 jan 2001), 21 mars 2002 nr. 338 (i kraft 1 april 2002), 17 des 2002 nr. 1677 (i kraft 1 jan 2003), 5 nov 2004 nr. 1443, 17 jan 2013 nr. 61, 23 aug 2022 nr. 1572 (i kraft 16 sep 2022), 21 des 2023 nr. 2281 (i kraft 1 jan 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 14",
+     "tittel": "Krav til grossist som driver direkte salg av legemidler til sykehjem i den kommunale helse- og omsorgstjenesten",
+     "ledd": [
+      "Forskrift 2. juni 2022 nr. 977 om rekvirering og utlevering av legemidler m.m. gjelder tilsvarende ved salg av legemidler fra grossist til sykehjem.",
+      "Grossist kan ikke selge legemidler direkte til sykehjem dersom grossisten har eller burde ha grunn til å tro at sykehjemmet ikke tilfredsstiller fastsatte krav til internkontroll og lagring av legemidler.",
+      "Ved salg av legemidler til sykehjem kan grossist ikke kreve en pris for legemidlene som overstiger apotekenes maksimale utsalgspris slik denne beregnes etter kapittel 12 i forskrift av 22. desember 1999 nr. 1559 om legemidler.",
+      "Grossister som driver direkte salg av legemidler til sykehjem i den kommunale helse- og omsorgstjenesten må kunne:\na. dokumentere hvordan plikten til å gi informasjon og veiledning om solgte legemidler ivaretas,\nb. dokumentere leveringsevne for alle legemidler som omfattes av leveringsavtale med kommunen, og\nc. dokumentere hvilken leveringstid som er avtalt med kommunen for hver enkelt legemiddelgruppe."
+     ],
+     "endringer": [
+      "Opphevet ved forskrift 22 des 1999 nr. 1560 (fra 1 jan 2000). Tilføyd igjen ved forskrift 21 mars 2002 nr. 338 (i kraft 1 april 2002), endret ved forskrifter 3 april 2008 nr. 320 (i kraft 1 mai 2008), 17 jan 2013 nr. 61, 9 des 2013 nr. 1573 (i kraft 1 jan 2015), 2 juni 2022 nr. 977 (i kraft 16 sep 2022)."
+     ],
+     "opphevet": "2022-09-16"
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 15",
+     "tittel": null,
+     "ledd": [
+      "Ved fare for tilgangen til legemidler i Norge kan Direktoratet for medisinske produkter pålegge grossister og andre som driver grossistvirksomhet, restriksjoner i salg og utlevering av legemidler.",
+      "Legemidler underlagt restriksjoner etter første ledd oppføres på liste fastsatt av Direktoratet for medisinske produkter.",
+      "Listen gjelder som del av denne forskrift og er tilgjengelig på Direktoratet for medisinske produkters sin nettside.",
+      "Dersom vilkår etter første ledd ikke lenger er oppfylt, skal legemidlet fjernes fra listen i andre ledd."
+     ],
+     "endringer": [
+      "Opphevet ved forskrift 22 des 1999 nr. 1560 (i kraft 1 jan 2000), tilføyd ved forskrift 5 nov 2004 nr. 1443, endret ved forskrifter 24 nov 2011 nr. 1135 (i kraft 1 jan 2012), 9 des 2013 nr. 1573 (i kraft 1 jan 2015), 2 juni 2022 nr. 977 (i kraft 16 sep 2022), opphevet ved forskrift 23 aug 2022 nr. 1572 (i kraft 16 sep 2022), tilføyd ved forskrift 26 juni 2024 nr. 1354 (i kraft 1 juli 2024)."
+     ],
+     "opphevet": "2024-07-01"
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-5",
+     "nummer": "§ 16",
+     "tittel": null,
+     "ledd": [
+      "Ved fare for tilgangen til legemidler i Norge kan Direktoratet for medisinske produkter pålegge grossister restriksjoner i parallelleksport av legemidler.",
+      "Legemidler underlagt restriksjoner i parallelleksport etter første ledd oppføres på liste fastsatt av Direktoratet for medisinske produkter.",
+      "Listen gjelder som del av denne forskrift og er tilgjengelig på Direktoratet for medisinske produkters sin nettside.",
+      "Dersom vilkår etter første ledd ikke lenger er oppfylt, skal legemidlet fjernes fra listen i andre ledd."
+     ],
+     "endringer": [
+      "Opphevet ved forskrift 22 des 1999 nr. 1560 (i kraft 1 jan 2000), tilføyd ved forskrift 26 juni 2024 nr. 1354 (i kraft 1 juli 2024)."
+     ],
+     "opphevet": "2024-07-01"
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-6",
+     "nummer": "§ 17",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Opphevet ved forskrift 5 nov 2004 nr. 1443."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kapV",
+   "overskrift": "Kap. V. Legemiddelstatistikk basert på grossisters omsetning av legemidler",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Tilføyd ved forskrift 22 des 1999 nr. 1560 (i kraft 1 jan 2000), endret ved forskrift 21 des 2001 nr. 1553 (i kraft 1 jan 2002)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 18",
+     "tittel": "Virkeområde og formål",
+     "ledd": [
+      "Forskriftene i dette kapittel gjelder innlevering og behandling av opplysninger om omsetning av legemidler, inkludert vaksiner og medisinfôr, fra virksomheter som utøver engrosomsetning med legemidler. Formålet med bestemmelsene er å kartlegge legemiddelomsetningen i landet over tid slik at man får en oversikt over det totale legemiddelsalget til bruk for forskning på legemiddelområdet og for helsemyndighetenes overordnede planlegging og styring av legemiddelforsyningen."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 21 des 2001 nr. 1553 (i kraft 1 jan 2002), endret ved forskrifter 25 feb 2003 nr. 232 (i kraft 3 mars 2003), 17 des 2004 nr. 1712 (i kraft 1 jan 2005)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 19",
+     "tittel": "Meldepliktig omsetning",
+     "ledd": [
+      "Virksomhet som nevnt i § 18 skal levere opplysninger om meldepliktig omsetning til Folkehelseinstituttet.",
+      "Med meldepliktig omsetning menes alt salg av legemidler, med unntak av:\na. Naturlegemidler\nb. Radiofarmaka\nc. Homeopatiske og antroposofiske legemidler\nd. Medisinske gasser\ne. Råvarer (farmasøytisk aktive substanser).",
+      "Råvarer som benyttes i fiskeoppdrett er likevel meldepliktig omsetning."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 21 des 2001 nr. 1553 (i kraft 1 jan 2002), endret ved forskrift 18 des 2015 nr. 1740 (i kraft 1 jan 2016)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 20",
+     "tittel": "Opplysninger om meldepliktig omsetning",
+     "ledd": [
+      "Opplysninger om meldepliktig omsetning fra virksomhet som nevnt i § 18 skal samles i den orden og med den verdiangivelse som angis i følgende tabell:",
+      "| Felt nr. | Beskrivelse | Posisjon i tallrekken | Verdiangivelse\n| 01 | Rapporteringsperiode, måned | 1-2 | 01-12\n| 02 | Rapporteringsperiode, år | 3-6 | 2001-9999\n| 03 | Grossistkonsesjonsnummer | 7-10 | 7001-7999\n| 04 | Kundenummer (grossistens nummer) | 11-14 | Numerisk/alfanumerisk\n| 05 | Kundekategori kode (grossistens kode) | 15-16 | 01-99 eller 00\n| 06 | Apotekkonsesjonsnummer | 17-20 | 1001-6999 eller 0000\n| 07 | Kommunenummer tilhørende kundenummer/apotekkonsesjonsnummer | 21-24 | 0101-2099\n| 08 | Varenummer | 25-30 | 000001-999999\n| 09 | Antall pakninger omsatt, med fratrekk av varer i retur | 31-37 | 0000001-9999999\n| 10 | Fakturert beløp, med fratrekk av varer i retur | 38-47 | 0000001,00-9999999,99\n| 11 | Beregnet netto AIP pr. pakning | 48-55 | 00001,00-99999,99\n| 12 | Beregnet netto GIP pr. pakning | 56-63 | 00001,00-99999,99",
+      "Opplysninger om legemidler benyttet til oppdrettsfisk, inklusive medisinert fiskefôr og råvarer, skal samles i den orden og med den verdiangivelse som angis i følgende tabell:",
+      "| Felt nr. | Beskrivelse | Posisjon i tallrekken | Verdiangivelse\n| 01 | Rapporteringsperiode, år | 1-4 | 2002-9999\n| 02 | Grossist konsesjonsnummer | 5-8 | 7001-7999\n| 03 | Kundenummer (grossistens nummer) | 9-12 | Numerisk/alfanumerisk\n| 05 | Apotek konsesjonsnummer | 13-16 | 1001-6999\n| 04 | Kommunenummer tilhørende kundenummer/apotekkonsesjonsnummer | 17-20 | 0101-2099\n| 06 | Produktnavn/varenavn | 21-52 | Alfanumerisk\n| 07 | Pakningsstørrelse | 53-72 | Alfanumerisk\n| 08 | Navn på virkestoff | 73-92 | Alfanumerisk\n| 09 | Mengde virkestoff pr. pakningsstørrelse | 93-98 | 000001-999999\n| 10 | Enhet mengdeangivelse virkestoff | 99-100 | Mg, gr, kg\n| 11 | Antall pakninger omsatt, med fratrekk av varer i retur | 101-107 | 0000001-9999999\n| 12 | Fakturert beløp, med fratrekk av varer i retur | 108-118 | 00000000,00-99999999,99"
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 21 des 2001 nr. 1553 (i kraft 1 jan 2002)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-4",
+     "nummer": "§ 21",
+     "tittel": "Opplysninger om kunder",
+     "ledd": [
+      "Samtidig med innlevering av opplysningene i § 20 skal virksomheten levere et kunderegister med oversikt over alle kundenummer.",
+      "Opplysninger om kunder skal samles i den orden og med den verdiangivelse som angis i følgende tabell:",
+      "| Felt nr. | Beskrivelse | Posisjon i tallrekken | Verdiangivelse\n| 01 | Rapporteringsperiode, måned | 1-2 | 01-12\n| 02 | Rapporteringsperiode, år | 3-6 | 2002-9999\n| 03 | Grossist konsesjonsnummer | 7-10 | 7001-7999\n| 04 | Kundenummer (grossistens nummer) | 11-14 | Numerisk/alfanumerisk\n| 05 | Apotek konsesjonsnummer | 15-18 | 1001-6999\n| 06 | Kommunenummer tilhørende kundenummer/apotekkonsesjonsnummer | 19-22 | 0101-2099\n| 07 | Kundenavn (grossistens tekst) | 23-52 | Alfanumerisk\n| 08 | Poststed | 53-72 | Alfanumerisk\n| 09 | Postnummer | 73-77 | Numerisk\n| 10 | Kundekategori kode (grossistens kode) | 78-79 | Numerisk\n| 11 | Kundekategori type (grossistens tekst) | 80-99 | Alfanumerisk"
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 21 des 2001 nr. 1553 (i kraft 1 jan 2002)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-5",
+     "nummer": "§ 22",
+     "tittel": "Innlevering av opplysninger",
+     "ledd": [
+      "Opplysningene som nevnt i § 20 og § 21 skal leveres i en elektronisk fil.",
+      "Elektronisk fil med opplysninger om meldepliktig omsetning skal inneholde opplysninger om filens totalt antall registrerte linjer og akkumulert fakturert beløp for alle linjer.",
+      "Folkehelseinstituttet kan gi nærmere bestemmelser om filens format og andre forhold av betydning for registrering av opplysningene."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 21 des 2001 nr. 1553 (i kraft 1 jan 2002), endret ved forskrift 18 des 2015 nr. 1740 (i kraft 1 jan 2016)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-6",
+     "nummer": "§ 23",
+     "tittel": "Rapporteringsperiode",
+     "ledd": [
+      "Grossister som leverer til apotek, skal gi opplysninger som nevnt i § 20 første ledd og § 21 for hver måned. Opplysningene skal sendes innen femte arbeidsdag etter utløpet av måneden. Opplysninger som nevnt i § 20 annet ledd skal likevel bare gis for hvert år. Opplysningene skal sendes innen 15. januar året etter rapporteringsperiodens utløp."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 21 des 2001 nr. 1553 (i kraft 1 jan 2002), endret ved forskrift 9 des 2013 nr. 1573 (i kraft 1 jan 2015)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-7",
+     "nummer": "§ 24",
+     "tittel": "Bruk av registrerte opplysninger",
+     "ledd": [
+      "Opplysninger om omsetning av legemidler kan benyttes til forskning, statlig styring og planlegging, samt fremstilling av offentlig statistikk over legemiddelforbruket i Norge."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 21 des 2001 nr. 1553 (i kraft 1 jan 2002), endret ved forskrifter 25 feb 2003 nr. 232 (i kraft 3 mars 2003), 17 des 2004 nr. 1712 (i kraft 1 jan 2005)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-8",
+     "nummer": "§ 25",
+     "tittel": "Tvangsmulkt",
+     "ledd": [
+      "Dersom en virksomhet etter å ha mottatt advarsel ikke overholder bestemmelsene i dette kapittel, kan Folkehelseinstituttet ilegge virksomheten tvangsmulkt i form av engangsmulkt eller løpende dagsmulkt."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 21 des 2001 nr. 1553 (i kraft 1 jan 2002), endret ved forskrifter 10 nov 2009 nr. 1364 (i kraft 1 jan 2010), 18 des 2015 nr. 1740 (i kraft 1 jan 2016)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kapVI",
+   "overskrift": "Kap. VI. Legemiddeldetaljistavgift og LUA-avgift",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Overskrift endret ved forskrifter 21 des 2001 nr. 1553 (i kraft 1 jan 2002), 1 des 2006 nr. 1346 (i kraft 1 jan 2007), 4 juli 2018 nr. 1144."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 26",
+     "tittel": "Virkeområde og avgiftssats",
+     "ledd": [
+      "Forskriften i dette kapittel gjelder beregning og innkreving av legemiddeldetaljistavgift forutsatt at det ikke i Stortingets budsjettvedtak for det enkelte år er truffet annen bestemmelse. Avgiften skal dekke tilskudd til apotek og Relis, fraktrefusjon av legemidler samt myndighetenes utgifter til forvaltning av apotek. Sats for avgiften er 0,25 %.",
+      "§ 27a, § 28a, § 30, § 31 og § 33 i dette kapittelet gjelder også beregning og innkreving av LUA-avgift fastsatt i medhold av forskrift 14. august 2003 nr. 1053 om omsetning mv. av visse reseptfrie legemidler utenom apotek § 3.",
+      "Det kalenderåret som Stortingets vedtak gjelder, kalles avgiftsåret."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 21 des 2001 nr. 1553 (i kraft 1 jan 2002), endret ved forskrifter 1 des 2006 nr. 1346 (i kraft 1 jan 2007), 10 nov 2009 nr. 1364 (i kraft 1 jan 2010), 4 juli 2018 nr. 1144, 19 des 2024 nr. 3284 (i kraft 1 jan 2025)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 27",
+     "tittel": "Avgiftsplikt",
+     "ledd": [
+      "Avgiftspliktig er:\na. grossister og andre som driver engrosomsetning av legemidler i Norge etter tillatelse fra Direktoratet for medisinske produkter eller annen legemiddelmyndighet innen EØS-området, og\nb. apotek som kjøper legemidler fra utenlandsk grossist."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 21 des 2001 nr. 1553 (i kraft 1 jan 2002), endret ved forskrift 21 des 2023 nr. 2281 (i kraft 1 jan 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-3",
+     "nummer": "§ 27a",
+     "tittel": "Plikt til å betale LUA-avgift",
+     "ledd": [
+      "Plikt til å betale LUA-avgift har grossister som selger legemidler til utsalgssteder som omsetter legemidler i henhold til forskrift 14. august 2003 nr. 1053 om omsetning mv. av visse reseptfrie legemidler utenom apotek. LUA-avgiften innberettes og innbetales til Direktoratet for medisinske produkter samtidig med legemiddeldetaljistavgiften jf. § 33."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 1 des 2006 nr. 1346 (i kraft 1 jan 2007), endret ved forskrifter 4 juli 2018 nr. 1144, 21 des 2023 nr. 2281 (i kraft 1 jan 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-4",
+     "nummer": "§ 28",
+     "tittel": "Avgiftspliktig omsetning",
+     "ledd": [
+      "Avgiftspliktig omsetning er:\na. grossistens netto legemiddelsalg til apotek og andre som selger legemidler til allmennheten samt sluttbrukere av legemidler i avgiftsåret, avrundet nedover til nærmeste 100 kr, og\nb. apotekets netto legemiddelkjøp fra utenlandsk grossist, med fradrag for kjøp av varer som nevnt i annet ledd bokstavene c og d.",
+      "Med netto legemiddelsalg menes alt kontant- og kredittsalg av legemidler til kjøpere som nevnt i første ledd med fradrag av:\na. merverdiavgift,\nb. rabatt som gis til kjøper, likevel slik at det ved salg til apotek bare kan kreves fradrag for rabatt som går direkte til apoteket,\nc. salg av legemidler produsert av apotek eller i virksomhet på oppdrag fra apotek, og\nd. salg av råvarer til bruk i produksjon av legemidler beregnet for videresalg."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 21 des 2001 nr. 1553 (i kraft 1 jan 2002), endret ved forskrift 17 des 2002 nr. 1677 (i kraft 1 jan 2003)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-5",
+     "nummer": "§ 28a",
+     "tittel": "Avgiftspliktig omsetning (legemidler utenom apotek)",
+     "ledd": [
+      "Avgiftspliktig omsetning er grossistens netto salg med fradrag av merverdiavgift og rabatter til utsalgssteder utenom apotek av legemidler som forutsetter særskilt tillatelse gitt i medhold av forskrift om omsetning mv. av visse reseptfrie legemidler utenom apotek § 3."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 1 des 2006 nr. 1346 (i kraft 1 jan 2007)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-6",
+     "nummer": "§ 29",
+     "tittel": "Skjønnsmessig fastsettelse",
+     "ledd": [
+      "Den avgiftspliktige omsetning kan fastsettes ved skjønn når:\na. innberetning som nevnt i § 33 ikke er innkommet i rett tid og i foreskrevet form, eller\nb. mottatt innberetning er uriktig, ufullstendig eller bygger på regnskap som ikke er ført i samsvar med gjeldende lov og forskrift.",
+      "Ny beregning av avgift kan foretas inntil tre år etter utløpet av vedkommende avgiftsår."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 21 des 2001 nr. 1553 (i kraft 1 jan 2002)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-7",
+     "nummer": "§ 30",
+     "tittel": "Beregning av legemiddeldetaljistavgift og LUA-avgift",
+     "ledd": [
+      "Legemiddeldetaljistavgift og LUA-avgift for hvert avgiftsår beregnes av den avgiftspliktige omsetningen etter satser fastsatt av departementet."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 21 des 2001 nr. 1553 (i kraft 1 jan 2002), endret ved forskrifter 1 des 2006 nr. 1346 (i kraft 1 jan 2007), 10 nov 2009 nr. 1364 (i kraft 1 jan 2010), 4 juli 2018 nr. 1144."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-8",
+     "nummer": "§ 31",
+     "tittel": "Innkreving av avgifter",
+     "ledd": [
+      "Den avgiftspliktige skal kreve legemiddeldetaljistavgift og LUA-avgift i henhold til § 30 dekket fra virksomheter som detaljomsetter legemidlet, samt andre sluttbrukere.",
+      "Grunnlaget for krav etter første ledd skal være netto legemiddelomsetning til den enkelte kunde og den av departementet fastsatte avgiftssats jf. § 30.",
+      "Den avgiftspliktige skal føre legemiddeldetaljistavgiften og LUA-avgiften på særskilte konti."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 21 des 2001 nr. 1553 (i kraft 1 jan 2002), endret ved forskrifter 1 des 2006 nr. 1346 (i kraft 1 jan 2007), 10 nov 2009 nr. 1364 (i kraft 1 jan 2010), 4 juli 2018 nr. 1144."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-9",
+     "nummer": "§ 32",
+     "tittel": "Beregning av apotekenes utsalgspris",
+     "ledd": [
+      "Apotek kan ikke legge avgiften inn i sitt grunnlag for beregning av utsalgspris for legemidler som er gitt maksimal utsalgspris som fastlagt i legemiddelforskriften."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 21 des 2001 nr. 1553 (i kraft 1 jan 2002), endret ved forskrifter 18 jan 2002 nr. 56 (i kraft 1 feb 2002), 10 nov 2009 nr. 1364 (i kraft 1 jan 2010)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-10",
+     "nummer": "§ 33",
+     "tittel": "Innberetning og innbetaling til Direktoratet for medisinske produkter mv.",
+     "ledd": [
+      "Legemiddeldetaljistavgiften skal innberettes av den avgiftspliktige senest en måned etter avsluttet termin. Hver termin omfatter 2 kalendermåneder. 1. termin januar og februar, 2. termin mars og april, 3. termin mai og juni, 4. termin juli og august, 5. termin september og oktober og 6. termin november og desember. Legemiddeldetaljistavgiften innbetales i henhold til faktura mottatt fra Direktoratet for medisinske produkter.",
+      "Direktoratet for medisinske produkter kan etter søknad gi tillatelse til at avgiftspliktige med liten omsetning kan innberette og innbetale legemiddeldetaljistavgift én eller flere ganger i året.",
+      "Den avgiftspliktige skal benytte særskilt skjema til innberetningen. Til avgiftspliktige som starter opp sin virksomhet i løpet av avgiftsåret, skal Direktoratet for medisinske produkter sende det nødvendige antall skjema for gjenværende del av avgiftsåret.",
+      "Den avgiftspliktige skal dokumentere innberetningen etter nærmere anvisninger fra Direktoratet for medisinske produkter. Direktoratet for medisinske produkter kan kreve utlevert spesifikasjoner, underlagsmateriale og attestasjoner som anses nødvendig for kontroll av oppgavene. Direktoratet for medisinske produkter kan også gjennomføre kontroll av underlagsmaterialet hos den avgiftspliktige. Den avgiftspliktige skal medvirke til at Direktoratet for medisinske produkter kan gjennomføre nødvendig kontroll.",
+      "Bestemmelsen gjelder også innberetning og innbetaling av LUA-avgift etter dette kapittelet så langt den passer. Departementet kan gi nærmere bestemmelser om innberetning og innbetaling av LUA-avgiften."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 21 des 2001 nr. 1553 (i kraft 1 jan 2002), endret ved forskrifter 1 des 2006 nr. 1346 (i kraft 1 jan 2007), 8 nov 2007 nr. 1255, 10 nov 2009 nr. 1364 (i kraft 1 jan 2010), 4 juli 2018 nr. 1144, 21 des 2023 nr. 2281 (i kraft 1 jan 2024)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kapVI",
+   "overskrift": "Kap. VI a. Formidling av legemidler",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Tilføyd ved forskrift 11 juni 2014 nr. 736 (i kraft 1 juli 2014)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 33a",
+     "tittel": "Legemiddelformidling",
+     "ledd": [
+      "Legemiddelformidlere som har adresse i Norge må være registrert i et offentlig tilgjengelig register hos Direktoratet for medisinske produkter for å kunne formidle legemidler innenfor EU/EØS-området. Registrering kan bare gjøres for formidlere som har fast adresse i Norge.",
+      "Søknad om registrering skal inneholde opplysninger om navn, firmanavn og fast adresse.",
+      "Formidleren plikter uten unødig forsinkelse å informere Direktoratet for medisinske produkter om enhver endring av betydning for registreringen,",
+      "Formidleren skal påse at legemidlene som formidles har markedsføringstillatelse innen EU/EØS-området.",
+      "Kravene i § 9 første, annet, tredje, fjerde og femte ledd gjelder for formidlere av legemidler.",
+      "Registreringen etter første ledd kan slettes dersom kravene i denne forskriften ikke overholdes.",
+      "Kravene i denne bestemmelsen gjelder ikke for formidling av virksomt stoff."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 11 juni 2014 nr. 736 (i kraft 1 juli 2014), endret ved forskrift 21 des 2023 nr. 2281 (i kraft 1 jan 2024)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-8",
+   "navn": "kapVII",
+   "overskrift": "Kap. VII. Forskjellige bestemmelser",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Tilføyd ved forskrift 21 des 2001 nr. 1553 (i kraft 1 jan 2002)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-1",
+     "nummer": "§ 34",
+     "tittel": "Tilsyn",
+     "ledd": [
+      "Direktoratet for medisinske produkter fører tilsyn med grossister og legemiddelformidlere og kan i den forbindelse kreve fremlagt de oppgaver og opplysninger som anses nødvendig for tilsynet. Direktoratet for medisinske produkter kan gi nærmere retningslinjer for tilsynet og for de opplysninger som kan kreves framlagt."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 21 des 2001 nr. 1553 (i kraft 1 jan 2002), endret ved forskrifter 11 juni 2014 nr. 736 (i kraft 1 juli 2014), 21 des 2023 nr. 2281 (i kraft 1 jan 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-2",
+     "nummer": "§ 35",
+     "tittel": "Attest for god distribusjonspraksis",
+     "ledd": [
+      "Direktoratet for medisinske produkter utsteder attest for god distribusjonspraksis til grossist som oppfyller kravene til god distribusjonspraksis som fremgår av EU-kommisjonens retningslinjer for god distribusjonspraksis. Attesten skal utstedes senest 90 dager etter avsluttet tilsyn.",
+      "Direktoratet for medisinske produkter skal legge resultatet etter utført tilsyn inn i en offentlig tilgjengelig database underlagt Det europeiske legemiddelbyrå (EMA)."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 21 des 2001 nr. 1553 (i kraft 1 jan 2002), endret ved forskrifter 20 aug 2013 nr. 1037, 21 des 2023 nr. 2281 (i kraft 1 jan 2024)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-9",
+   "navn": "kapVIII",
+   "overskrift": "Kap. VIII. Ikrafttredelse",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Tilføyd ved forskrift 21 des 2001 nr. 1553 (i kraft 1 jan 2002)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-1",
+     "nummer": "§ 36",
+     "tittel": null,
+     "ledd": [
+      "Denne forskrift, unntatt § 3, kapittel V og kapittel VI, trådte i kraft samtidig med at Avtale om Det europeiske økonomiske samarbeidsområde trådte i kraft i Norge. § 3 trådte i kraft fra 1. januar 1995. Kapittel V og kapittel VI trer i kraft 1. januar 2002."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 21 des 2001 nr. 1553 (i kraft 1 jan 2002)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-10",
+   "navn": null,
+   "overskrift": "Vedlegg: Liste over legemidler omfattet av beredskapsplikt jf. § 5",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "| ATC | Virkestoff | Formulering | Antall måneder beredskap\n| A10A | Insulin og analoger | Parenterale | 8\n| B01AA03 | Warfarin | Oral | 3\n| B01AB04 | Dalteparin | Parenteral | 3\n| B01AB05 | Enoksaparin | Parenteral | 3\n| B01AC06 | Acetylsalisylsyre | Oral | 3\n| B01AF02 | Apiksaban | Oral | 3\n| C01CA24 | Adrenalin | Parenteral | 3\n| C03CA01 | Furosemid | Oral | 3\n| C07AB02 | Metoprolol | Oral, depot | 3\n| C08DA01 | Verapamil | Oral, depot | 3\n| C09AA05 | Ramipril | Oral | 3\n| C09CA06 | Kandesartan | Oral | 3\n| H02AA02 | Fludrokortison | Oral | 3\n| H02AB06 | Prednisolon | Oral | 6\n| H02AB10 | Kortison | Oral | 3\n| H03AA01 | Levotyroksin | Oral | 3\n| H04AA01 | Glukagon | Parenteral | 3\n| J01CA04 | Amoksicillin | Oral | 3\n| J01CA08 | Pivmecillinam | Oral | 3\n| J01CE01 | Benzylpenicillin | Parenteral | 3\n| J01CE02 | Fenoksymetylpenicillin | Oral | 3\n| J01DC02 | Cefuroksim | Parenteral | 3\n| J01DD01 | Cefotaksim | Parenteral | 3\n| J01FA01 | Erytromycin | Oral | 3\n| J01MA02 | Ciprofloksacin | Oral | 3\n| J04A | Legemidler mot tuberkulose | Perorale | 6\n| L04AX01 | Azatioprin | Oral | 6\n| N02AA05 | Oksykodon | Oral | 6\n| N02BE01 | Paracetamol | Oral og rektal | 3\n| N03AF01 | Karbamazepin | Oral | 3\n| N03AG01 | Valproinsyre | Oral | 3\n| N03AX09 | Lamotrigin | Oral | 3\n| N04BA02 | Levodopa og dekarboksylasehemmer | Oral | 3\n| N05AD01 | Haloperidol | Oral | 6\n| N05AH03 | Olanzapin | Oral | 6\n| N05BA01 | Diazepam | Rektal | 6\n| N05CD08 | Midazolam | Bukkal | 3\n| R03AC02 | Salbutamol | Inhalasjon | 3\n| R03BA02 | Budesonid | Inhalasjon | 3\n| R03BA05 | Flutikason | Inhalasjon | 3\n| R03BB01 | Ipratropiumbromid | Inhalasjon | 3\n| S01 | Glaukommidler | Øyedråper | 3"
+    },
+    {
+     "type": "endring",
+     "tekst": "Tilføyd ved forskrift 23 sep 2015 nr. 1096 (i kraft 1 jan 2016), endret ved forskrifter 3 mars 2020 nr. 226, 27 april 2020 nr. 891 (i kraft 1 mai 2020), 14 des 2023 nr. 2059 (i kraft 15 des 2023), 18 sep 2026 nr. 1835. Endres ved forskrift 18 sep 2026 nr. 1835 (i kraft 16 jan 2027)."
+    }
+   ]
+  }
+ ]
+}

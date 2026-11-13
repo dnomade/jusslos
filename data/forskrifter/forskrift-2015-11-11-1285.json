@@ -1,0 +1,129 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2015-11-11-1285",
+ "dokumentid": "SF/forskrift/2015-11-11-1285",
+ "departement": [
+  "Kunnskapsdepartementet"
+ ],
+ "etat": [
+  "Barnehageavd."
+ ],
+ "kunngjort_i": "I 2015 hefte 12",
+ "ikraft": "2015-12-01",
+ "siste_endring_ikraft": "2021-03-19",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2021-03-19-801",
+   "tekst": "forskrift/2021-03-19-801"
+  }
+ ],
+ "endrer": "forskrift/2005-12-16-1509",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2005-06-17-64/§30",
+   "tekst": "lov/2005-06-17-64/§30"
+  }
+ ],
+ "kunngjort": "2015-11-16 15:00",
+ "siste_rettelse": "2021-04-09 (hjemmel)",
+ "korttittel": "Forskrift om politiattest i barnehager",
+ "tittel": "Forskrift om politiattest i barnehager",
+ "annet": "Hjemmel: Fastsatt av Kunnskapsdepartementet 11. november 2015 med hjemmel i lov 17. juni 2005 nr. 64 om barnehager (barnehageloven) § 30 fjerde ledd.\nEndret ved forskrift 19 mars 2021 nr. 801.\nRettelser: 09.04.2021 (hjemmel).",
+ "refid": "forskrift/2015-11-11-1285",
+ "eli": "/eli/forskrift/2015/11/11/1285",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2015-11-11-1285",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Virkeområde",
+   "ledd": [
+    "Forskriften gjelder alle godkjente og godkjenningspliktige barnehager."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Krav om politiattest",
+   "ledd": [
+    "Kravet om å legge fram politiattest etter barnehageloven § 30 første ledd gjelder før personen begynner å arbeide i barnehage.",
+    "I vurderingen av om det skal innhentes politiattest for personer som nevnt i barnehageloven § 30 andre ledd, skal barnehageeier og kommunen som barnehagemyndighet legge vekt på om oppholdet eller innflytelsen gir vedkommende mulighet til å være i direkte kontakt med barna."
+   ],
+   "endringer": [
+    "Endret ved forskrift 19 mars 2021 nr. 801."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Krav til attesten",
+   "ledd": [
+    "Politiattesten skal ikke være eldre enn tre måneder når den leveres til mottaker."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Framgangsmåte ved ansettelse",
+   "ledd": [
+    "Arbeidsgiver skal i utlysningsteksten gjøre søkere oppmerksom på at det vil bli krevd politiattest ved ansettelse, men at denne ikke skal legges ved søknaden. Attest skal kun kreves av den søkeren som får tilbud om stillingen. Det skal i tilbudet tas forbehold om at anmerkninger på politiattesten kan føre til endring i tilbudet om stilling. Politiattest skal foreligge før søkeren ansettes.",
+    "Det skal framgå av saksdokumentene at søker som ansettes har levert politiattest til arbeidsgiver."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Yrkesforbud og egnethet",
+   "ledd": [
+    "Personer som ikke legger fram politiattest eller legger fram politiattest som viser dom for overtredelse av straffeloven § 299, § 301, § 302, § 303, § 304, § 305, § 306, § 310 eller § 311, eller lov 22. mai 1902 nr. 10 Almindelig borgerlig Straffelov § 195, § 196, § 200 andre ledd, § 201 første ledd bokstav c, § 201a eller § 204a, er utelukket fra fast eller midlertidig ansettelse i barnehage.",
+    "Hvis en politiattest viser andre anmerkninger, må barnehageeier vurdere om anmerkningen gjør personen uegnet til å arbeide i barnehagen."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "Godkjenning av barnehage",
+   "ledd": [
+    "Kommunen skal ved godkjenning av barnehagen innhente politiattest fra eier av barnehagen, eier av barnehagens lokaler og deres familiemedlemmer, hvis vedkommende har mulighet til å være i direkte kontakt med barna i barnehagen.",
+    "Kommunen skal vurdere om anmerkninger på en attest fører til avslag på søknad om godkjenning av barnehage eller ikke. Kommunen skal ikke godkjenne en barnehage dersom attest er krevd, men ikke levert. Kommunen skal heller ikke godkjenne en barnehage der en person nevnt i § 6 første ledd skal ha et ansettelsesforhold i barnehagen og leverer attest med anmerkninger som nevnt i § 5 første ledd.",
+    "Det skal framgå av kommunens saksdokumenter at politiattest er levert."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 7",
+   "tittel": "Behandling av politiattest og taushetsplikt",
+   "ledd": [
+    "Politiattesten skal oppbevares utilgjengelig for uvedkommende. Den skal makuleres straks etter at den har vært brukt til det formålet den er innhentet for, jf. politiregisterforskriften § 37-2.",
+    "Den som får kjennskap til opplysninger i en politiattest, skal hindre at uvedkommende får adgang eller kjennskap til opplysningene, jf. politiregisterloven § 47."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-8",
+   "nummer": "§ 8",
+   "tittel": "Fornyet vandelskontroll",
+   "ledd": [
+    "Fornyet vandelskontroll kan foretas i samsvar med politiregisterloven § 43."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-9",
+   "nummer": "§ 9",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Forskriften trer i kraft 1. desember 2015. Fra samme tidspunkt oppheves forskrift 16. desember 2005 nr. 1509 om politiattest i henhold til barnehageloven, fastsatt med hjemmel i lov 17. juni 2005 nr. 64 om barnehager (barnehageloven) § 19 fjerde ledd."
+   ]
+  }
+ ]
+}

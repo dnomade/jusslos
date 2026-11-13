@@ -1,0 +1,209 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2022-05-25-924",
+ "dokumentid": "SF/forskrift/2022-05-25-924",
+ "departement": [
+  "Samferdselsdepartementet"
+ ],
+ "etat": [
+  "Statens jernbanetilsyn"
+ ],
+ "ikraft": "2022-06-01",
+ "hjemmel": [
+  {
+   "ref": "lov/1993-06-11-100/§5",
+   "tekst": "lov/1993-06-11-100/§5"
+  },
+  {
+   "ref": "lov/1993-06-11-100/§6",
+   "tekst": "lov/1993-06-11-100/§6"
+  },
+  {
+   "ref": "lov/1993-06-11-100/§15",
+   "tekst": "lov/1993-06-11-100/§15"
+  },
+  {
+   "ref": "forskrift/2021-09-03-2675/§5",
+   "tekst": "forskrift/2021-09-03-2675/§5"
+  }
+ ],
+ "kunngjort": "2022-05-30 14:25",
+ "korttittel": "Arbeidsmaskinforskriften",
+ "tittel": "Forskrift om arbeidsmaskiner på jernbanenettet og infrastruktur for sporvei, tunnelbane og forstadsbane (arbeidsmaskinforskriften)",
+ "annet": "Hjemmel: Fastsatt av Statens jernbanetilsyn 25. mai 2022 med hjemmel i lov 11. juni 1993 nr. 100 om anlegg og drift av jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. (jernbaneloven) § 5, § 6 og § 15 og forskrift 3. september 2021 nr. 2675 om sikkerhet og tekniske forhold ved jernbanen § 5.",
+ "refid": "forskrift/2022-05-25-924",
+ "eli": "/eli/forskrift/2022/05/25/924",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2022-05-25-924",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1-1",
+     "tittel": "Formål",
+     "ledd": [
+      "Forskriften fastsetter krav om og fremgangsmåten for søknad om tillatelse til å ta i bruk kjøretøy på jernbanenettet, og krav til kjøretøyet og virksomheten som forvalter det."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 1-2",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Forskriften omfatter tillatelse til å ta i bruk arbeidsmaskiner, oppgradering, fornyelse, drift og vedlikehold av arbeidsmaskiner til bruk på jernbanenettet og infrastruktur for sporvei, tunnelbane og forstadsbane, som kun skal kjøre på lukket område og som ikke faller inn under samtrafikkforskriftens virkeområde."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 1-3",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "I forskriften her forstås med:\na. jernbanenett: hele jernbaneinfrastrukturen som forvaltes av en infrastrukturforvalter,\nb. jernbanevirksomhet: virksomhet som driver gods- og persontransport, jernbaneinfrastruktur og trafikkstyring,\nc. arbeidsmaskin: skinne-/veimaskiner og påsporbare maskiner med jernbaneutrustning iht. EN 14033, EN 15746 og EN 15954, EN 15955 og EN 13977,\nd. oppgradering: ethvert større endringsarbeid på et delsystem eller en del av et delsystem som forbedrer delsystemets generelle ytelse,\ne. lukket område: område hvor jernbanestrekningen er stengt for ordinær trafikk, herunder sikret anleggsområde-jernbane og avstengt område."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Krav til virksomheter som forvalter jernbanekjøretøy",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 2-1",
+     "tittel": "Drift, kontroll og vedlikehold av kjøretøy",
+     "ledd": [
+      "Infrastrukturforvalter har ansvaret for alle kjøretøy som benyttes på lukket område.",
+      "Den som eier kjøretøyet eller forvalter kjøretøyet på vegne av eier har ansvaret for at kjøretøyet blir vedlikeholdt i henhold til nasjonale og internasjonale standarder, og skal ha kontroll på og dokumentere utført vedlikehold. Vedlikeholdet skal sikre at ingen sikkerhetskritiske systemer, deler eller komponenter forringes så mye at det fører til funksjonssvikt.",
+      "Den som eier kjøretøyet eller forvalter kjøretøyet på vegne av eier, er ansvarlig for at brukermanualer og nødvendig opplæring i bruk av kjøretøyet blir gitt til fører før kjøretøyet tas i bruk.",
+      "Førere skal forstå hvordan adhesjonsforholdet virker inn på trekkraft og bremsekraft, samt kjenne til hvilke krefter som oppstår mellom spor og kjøretøy ved kjøring."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 2-2",
+     "tittel": "Teknisk dokumentasjon",
+     "ledd": [
+      "Den som eier kjøretøyet eller forvalter kjøretøyet på vegne av eier, skal inneha oppdatert dokumentasjon for kjøretøyet. Den som bruker kjøretøyet plikter å bidra til oppdatering av dokumentasjonen, blant annet vedlikeholdsdokumentasjon og operasjonelle betingelser av sikkerhetsmessig betydning for kjøretøyet. Endringer av operasjonelle krav og vedlikeholdsdokumentasjon for kjøretøyet skal dokumenteres med risikoanalyse, risikovurderinger og betingelser for sikker bruk.",
+      "Jernbanevirksomhet skal ha tilgang til teknisk dokumentasjon som beskriver de forutsetninger og begrensninger som er knyttet til kjøretøyet. Dokumentasjonen skal kunne bekrefte at systemer, deler og komponenter er i samsvar med de nasjonale og internasjonale standarder som er lagt til grunn for konstruksjon og bruk av kjøretøyet. Disse forutsetningene og begrensningene skal legges til grunn for prosedyrer for drift og vedlikehold av kjøretøyet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 2-3",
+     "tittel": "Register",
+     "ledd": [
+      "Jernbanevirksomheten skal ha et register over alle kjøretøy som virksomheten bruker. Registeret skal som et minimum identifisere kjøretøy individuelt."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Krav til kjøretøy",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 3-1",
+     "tittel": "Krav til kjøretøy",
+     "ledd": [
+      "Kjøretøy skal ha et akseptabelt sikkerhetsnivå. Kjøretøy som er konstruert, prosjektert, testet, oppgradert og fornyet i henhold til standardene EN 14033, EN 15746, EN 15954, EN 15955 eller EN 13977, anses å ha et akseptabelt sikkerhetsnivå. Der det ikke er oppgitt noe annet i forskriften her er det den siste versjonen av standarden som gjelder.",
+      "Avvik fra standarder skal vurderes teknisk og sikkerhetsmessig, og testes, og vurderingen skal dokumenteres. Kravene til sikkerhet kan også oppfylles om virksomheten kan dokumentere at kjøretøyet, ved testing, holder et tilsvarende sikkerhetsnivå som i anerkjent standard.",
+      "Hvis et kjøretøy har risikoaspekter som det ikke er tatt hensyn til i anerkjente standarder, må disse vurderes særskilt. En slik vurdering skal dokumenteres. Risikovurderinger skal gjennomføres etter anerkjent standard. Ved kombinasjoner av deler av anerkjente standarder skal det dokumenteres at det oppnås et akseptabelt sikkerhetsnivå.",
+      "Statens jernbanetilsyn kan kreve at virksomheten benytter uavhengig organ til verifisering av om nødvendig sikkerhet er ivaretatt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 3-2",
+     "tittel": "Bremser",
+     "ledd": [
+      "Bremsesystemene skal være konstruert slik at de feiler til sikker tilstand.",
+      "Kjøretøyet skal ha servicebrems, parkeringsbrems og nødbrems som sikrer bruken på gjeldende infrastruktur ved maksimal gradient."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Tillatelsesprosessen",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 4-1",
+     "tittel": "Krav om tillatelse til å ta i bruk kjøretøy og ny tillatelse etter endring av kjøretøy",
+     "ledd": [
+      "Før kjøretøy tas i bruk skal Statens jernbanetilsyn gi tillatelse i henhold til denne forskriften.",
+      "Ved senere endringer eller oppgraderinger skal det oversendes dokumentasjon som beskriver prosjektet til Statens jernbanetilsyn. Statens jernbanetilsyn avgjør hvorvidt endringen medfører at det er nødvendig med en ny tillatelse. Dokumentasjonen skal kunne bekrefte at systemer, deler og komponenter er i samsvar med de nasjonale og internasjonale standarder som er lagt til grunn for konstruksjon og bruk av kjøretøyet.",
+      "Slik ny tillatelse skal kreves når det allmenne sikkerhetsnivået kan påvirkes negativt av det planlagte arbeidet. Statens jernbanetilsyn skal fatte sin beslutning senest fire måneder etter at søkeren har innlevert komplett dokumentasjon."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 4-2",
+     "tittel": "Søknad om tillatelse til å ta i bruk kjøretøy",
+     "ledd": [
+      "Ved søknad om tillatelse til å ta i bruk en arbeidsmaskin må følgende dokumentasjon vedlegges søknaden:\na. navn på kontaktperson,\nb. beskrivelse av kjøretøyet (systembeskrivelse),\nc. angivelse av den infrastrukturen kjøretøyet skal brukes på,\nd. oversikt over relevante standarder som vist til i § 3-1 som kjøretøyet er bygget etter, eventuelle avvik fra disse standardene,\ne. sikkerhetsvurderingsrapport som bekrefter kompatibilitet mellom kjøretøyet og infrastrukturen det skal brukes på."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 4-3",
+     "tittel": "Søknad om tillatelse til å ta i bruk kjøretøy som er i samsvar med en tillatt type",
+     "ledd": [
+      "Ved søknad om tillatelse til å ta i bruk et kjøretøy som er i samsvar med et kjøretøy som allerede har tillatelse i Norge, er det tilstrekkelig at en typesamsvarserklæring i henhold til forskrift om typesamsvarserklæring vedlegges søknaden, sammen med referanse til Statens jernbanetilsyns vedtak om tillatelse for identisk individ.",
+      "Hvis forutsetningene for å gi den opprinnelige tillatelsen har blitt endret, kan Statens jernbanetilsyn kreve at det søkes på vanlig måte."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Avsluttende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 5-1",
+     "tittel": "Unntak",
+     "ledd": [
+      "Statens jernbanetilsyn kan i særlige tilfeller gjøre unntak fra kravene i forskriften her."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 5-2",
+     "tittel": "Ikrafttredelse og endring i andre forskrifter",
+     "ledd": [
+      "Forskriften trer i kraft 1. juni 2022.",
+      "Unntak som er gitt med hjemmel i forskrift 19. desember 2005 nr. 1621 om krav til jernbaneforetak på det nasjonale jernbanenettet (sikkerhetsforskriften) eller med hjemmel i forskrift 21. juni 2012 nr. 633 om kjøretøy på det nasjonale jernbanenettet (kjøretøyforskriften) og forskrift av 19. desember 2016 nr. 1846 om kjøretøy på jernbanenettet (kjøretøyforskriften) gjelder videre så langt unntaket rekker."
+     ]
+    }
+   ]
+  }
+ ]
+}

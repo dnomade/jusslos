@@ -1,0 +1,77 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2002-03-01-215",
+ "dokumentid": "SF/forskrift/2002-03-01-215",
+ "departement": [
+  "Arbeids- og inkluderingsdepartementet"
+ ],
+ "etat": [
+  "Velferdspolitisk avd."
+ ],
+ "kunngjort_i": "I 2002 hefte 3",
+ "ikraft": "2002-03-01",
+ "siste_endring_ikraft": "2006-07-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2006-06-30-790",
+   "tekst": "forskrift/2006-06-30-790 fra 2006-07-01"
+  }
+ ],
+ "endrer": "forskrift/1995-12-22-1171",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1957-06-28-12/§22",
+   "tekst": "lov/1957-06-28-12/§22"
+  },
+  {
+   "ref": "forskrift/2002-03-01-211/§3",
+   "tekst": "forskrift/2002-03-01-211/§3"
+  },
+  {
+   "ref": "lov/1966-12-16-9/§12",
+   "tekst": "lov/1966-12-16-9/§12"
+  }
+ ],
+ "kunngjort": "2002-03-05",
+ "korttittel": "Forskr. om administrasjon av fiskerpensjonstrygd",
+ "tittel": "Forskrift om administrasjon av pensjonstrygden for fiskere.",
+ "annet": "Hjemmel: Fastsatt av Sosialdepartementet 1. mars 2002 med hjemmel i lov av 28. juni 1957 nr. 12 om pensjonstrygd for fiskere § 22, jf. kgl.res. av 1. mars 2002 nr. 211 § 3 og lov av 16. desember 1966 nr. 9 om anke til Trygderetten § 12 nr. 2.\nEndret ved forskrift 30 juni 2006 nr. 790.",
+ "refid": "forskrift/2002-03-01-215",
+ "eli": "/eli/forskrift/2002/03/01/215",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2002-03-01-215",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Garantikassen for fiskeres ansvar, oppgaver og myndighet",
+   "ledd": [
+    "Garantikassen har den daglige administrasjonen av pensjonstrygden for fiskere og skal herunder:\n- kreve inn medlemspremie\n- avgjøre krav om å bli unntatt fra trygden og om å bli opptatt som frivillig medlem\n- avgjøre krav om ytelser etter lov om pensjonstrygd for fiskere, herunder foreta beregning og samordning av pensjoner\n- utbetale ytelser\n- føre rettighetsregister (sentralregister)\n- informere om pensjonstrygden for fiskere."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Arbeids- og velferdsdirektoratets ansvar og myndighet",
+   "ledd": [
+    "Arbeids- og velferdsdirektoratet har det overordnede ansvaret for praktiseringen av regelverket, og kan oppheve og endre vedtak som Garantikassen har gjort etter fiskerpensjonsloven.",
+    "Arbeids- og velferdsdirektoratet er ankemotpart for Trygderetten."
+   ],
+   "endringer": [
+    "Endret ved forskrift 30 juni 2006 nr. 790 (i kraft 1 juli 2006, se endringsforskriften for overgangsregel)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Forskriften trer kraft 1. mars 2002. Fra samme tidspunkt oppheves midlertidig forskrift av 22. desember 1995 nr. 1171 om administrasjon av pensjonstrygd for fiskere."
+   ]
+  }
+ ]
+}

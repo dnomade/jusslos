@@ -1,0 +1,284 @@
+{
+ "skjema": "1.0",
+ "type": "lov",
+ "datokode": "LOV-2023-12-20-108",
+ "dokumentid": "NL/lov/2023-12-20-108",
+ "departement": [
+  "Justis- og beredskapsdepartementet"
+ ],
+ "ikraft": "2025-10-01",
+ "rettsomrade": [
+  "EU/EØS-rett > Informasjonssamfunnet",
+  "HMS og beredskaps- og sikkerhetsrett > Samfunnssikkerhet",
+  "IKT- og medierett"
+ ],
+ "kunngjort": "2023-12-20 11:40",
+ "eos_henvisning": "EØS-avtalen vedlegg XI\nnr. 5cpa (direktiv (EU) 2016/1148).",
+ "korttittel": "Digitalsikkerhetsloven",
+ "tittel": "Lov om digital sikkerhet (digitalsikkerhetsloven)",
+ "annet": "Prop.109 LS (2022–2023), Innst.78 L (2023–2024), Lovvedtak 15 (2023–2024). Stortingets første og andre gangs behandling hhv. 7. og 12. desember 2023. Fremmet av Justis- og beredskapsdepartementet.",
+ "refid": "lov/2023-12-20-108",
+ "eli": "/eli/lov/2023/12/20/108",
+ "url": "https://lovdata.no/dokument/NL/lov/2023-12-20-108",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Formål",
+     "ledd": [
+      "Loven skal bidra til å sikre grunnleggende krav til digital sikkerhet i virksomheter med særlig betydning for samfunnet ved å forebygge, avdekke og motvirke uønskede hendelser i nettverks- og informasjonssystemer som brukes for å levere samfunnsviktige tjenester og digitale tjenester. Loven skal også legge til rette for sikkerhet i IKT-produkter, IKT-tjenester og IKT-prosesser."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Saklig virkeområde",
+     "ledd": [
+      "Loven gjelder for\na. tilbydere av samfunnsviktige tjenester etter § 6 i sektorene energi, transport, helse, vannforsyning, bank, finansmarkedsinfrastruktur og digital infrastruktur\nb. tilbydere av digitale tjenester etter § 9.",
+      "Loven gjelder ikke for virksomheter som er omfattet av lov om elektroniske tillitstjenester.",
+      "Kongen kan gi forskrift med nærmere bestemmelser om og unntak fra lovens virkeområde."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Geografisk virkeområde",
+     "ledd": [
+      "Loven gjelder for\na. tilbydere av samfunnsviktige tjenester som er etablert i Norge\nb. tilbydere av digitale tjenester som har sitt hovedkontor i Norge, eller som har eller skal ha en representant i Norge etter § 12.",
+      "Kongen kan gi forskrift om lovens anvendelse for Svalbard, Jan Mayen og bilandene og fastsette særlige regler som er nødvendige av hensyn til de stedlige forholdene."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 4",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "I denne loven menes med\n1. nettverks- og informasjonssystemer:\na. elektronisk kommunikasjonsnett som nevnt i ekomloven § 1-5 nr. 2\nb. en enhet eller en gruppe av sammenkoblede eller beslektede enheter som behandler digitale data automatisk ved hjelp av et program\nc. digitale data som lagres, behandles, innhentes eller overføres ved hjelp av elementer som nevnt i bokstav a eller b for at dataene skal kunne driftes, vernes, beskyttes eller vedlikeholdes.\n2. sikkerheten i nettverks- og informasjonssystemer: evnen nettverk eller informasjonssystemer har til å tåle, på et gitt tillitsnivå, enhver handling som går ut over tilgjengeligheten, autentisiteten, integriteten eller tilliten til lagrede, overførte eller behandlede data eller tilknyttede tjenester som tilbys eller er tilgjengelige via slike nettverks- og informasjonssystemer\n3. hendelse: enhver hendelse med negativ virkning på sikkerheten i nettverks- og informasjonssystemer."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-5",
+     "nummer": "§ 5",
+     "tittel": "Forholdet til andre lover som stiller krav om sikkerhet og varsling",
+     "ledd": [
+      "Kravene om sikkerhet og varsling i §§ 7, 8, 10 og 11 gjelder så langt det ikke er fastsatt tilsvarende eller strengere krav i eller i medhold av annen lov."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Krav til tilbydere av samfunnsviktige tjenester",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 6",
+     "tittel": "Tilbydere av samfunnsviktige tjenester",
+     "ledd": [
+      "Som tilbyder av en samfunnsviktig tjeneste regnes virksomheter som\na. leverer en tjeneste som er viktig for å opprettholde kritiske samfunnsmessige eller økonomiske aktiviteter\nb. er avhengig av nettverks- og informasjonssystemer for å levere tjenesten, og\nc. kan få tjenesteleveransen betydelig forstyrret av en hendelse.",
+      "Ved vurderingen av om en hendelse kan betydelig forstyrre en tjenesteleveranse, skal det særlig legges vekt på\na. antallet brukere som er avhengig av tjenesten\nb. i hvilken grad andre samfunnssektorer som er nevnt i § 2, er avhengig av tjenesten\nc. hvilken virkning en hendelse kan ha i form av omfang og varighet for økonomiske og samfunnsmessige aktiviteter eller samfunnssikkerheten\nd. virksomhetens markedsandel\ne. størrelsen på det geografiske området som kan bli påvirket av en hendelse\nf. den berørte virksomhetens betydning for at det er tilstrekkelig tilgang på tjenesten, tatt i betraktning hvilke alternativer som finnes\ng. særlige sektorspesifikke forhold.",
+      "Kongen kan gi forskrift om hvilke virksomheter som skal regnes som tilbydere av samfunnsviktige tjenester."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 7",
+     "tittel": "Krav om sikkerhet for tilbydere av samfunnsviktige tjenester",
+     "ledd": [
+      "En tilbyder av en samfunnsviktig tjeneste skal gjennomføre en risikovurdering av nettverks- og informasjonssystemer som benyttes for å levere tjenesten.",
+      "Tilbyderen skal iverksette hensiktsmessige og proporsjonale tekniske og organisatoriske sikkerhetstiltak som samlet skal sørge for et sikkerhetsnivå som er tilpasset risikoen. Ved vurderingen av hva som er et forsvarlig sikkerhetsnivå, skal det blant annet ses hen til den teknologiske utviklingen.",
+      "Tilbyderen skal iverksette proporsjonale tiltak for å forebygge, avdekke og redusere konsekvensene av hendelser, slik at tjenesteleveransen kan opprettholdes."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 8",
+     "tittel": "Krav om varsling for tilbydere av samfunnsviktige tjenester",
+     "ledd": [
+      "En tilbyder av en samfunnsviktig tjeneste skal uten unødig opphold og uten hinder av taushetsplikt varsle det organet Kongen utpeker, om hendelser som virker betydelig inn på tjenesteleveransen. Ved vurderingen av om innvirkningen er betydelig, skal det blant annet legges vekt på antallet brukere som påvirkes, hendelsens varighet og størrelsen på det geografiske området som berøres."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Krav til tilbydere av digitale tjenester",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 9",
+     "tittel": "Tilbydere av digitale tjenester",
+     "ledd": [
+      "Som tilbyder av en digital tjeneste regnes virksomheter som tilbyr tjenester som definert i ehandelsloven § 1 andre ledd bokstav a og b i form av nettbaserte markedsplasser, nettbaserte søkemotorer eller skytjenester.",
+      "Med nettbasert markedsplass menes en tjeneste som gjør det mulig for forbrukere og næringsdrivende å inngå nettbaserte salgs- eller tjenesteavtaler med næringsdrivende, enten på nettstedet til den nettbaserte markedsplassen eller på nettstedet til en næringsdrivende som bruker datatjenester som leveres av den nettbaserte markedsplassen.",
+      "Med nettbasert søkemotor menes en tjeneste som gjør det mulig for brukere å foreta søk på i prinsippet alle nettsteder eller nettsteder på et bestemt språk, på grunnlag av et nøkkelord, en setning eller andre inndata, og som viser lenker hvor det er mulig å finne informasjon om det forespurte innholdet.",
+      "Med skytjeneste menes en tjeneste som gir tilgang til en skalerbar og fleksibel samling av delbare databehandlingsressurser.",
+      "Kongen kan gi forskrift om hvilke virksomheter som skal regnes som tilbydere av digitale tjenester."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 10",
+     "tittel": "Krav om sikkerhet for tilbydere av digitale tjenester",
+     "ledd": [
+      "En tilbyder av en digital tjeneste skal gjennomføre en risikovurdering av nettverks- og informasjonssystemer som benyttes for å levere tjenesten.",
+      "Tilbyderen skal iverksette hensiktsmessige og proporsjonale tekniske og organisatoriske sikkerhetstiltak som samlet skal sørge for et sikkerhetsnivå som er tilpasset risikoen. Ved vurderingen av hva som er et forsvarlig sikkerhetsnivå, skal det blant annet ses hen til den teknologiske utviklingen og tas hensyn til\na. sikkerheten i systemer, utstyr og anlegg\nb. hendelseshåndtering\nc. styring av opprettholdelse av tjenesteleveransen\nd. overvåking, revisjon og testing\ne. anerkjente internasjonale standarder.",
+      "Tilbyderen skal iverksette proporsjonale tiltak for å forebygge, avdekke og redusere konsekvensene av hendelser, slik at tjenesteleveransen kan opprettholdes."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 11",
+     "tittel": "Krav om varsling for tilbydere av digitale tjenester",
+     "ledd": [
+      "En tilbyder av en digital tjeneste skal uten unødig opphold og uten hinder av taushetsplikt varsle det organ Kongen utpeker, om hendelser som virker betydelig inn på tjenesteleveransen. Ved vurderingen av om innvirkningen er betydelig, skal det legges vekt på antall brukere som påvirkes, hendelsens varighet, størrelsen på det geografiske området som berøres, omfanget av funksjonalitetssvikten i tjenesten og omfanget av innvirkningen på økonomisk og samfunnsmessig aktivitet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 12",
+     "tittel": "Plikt til å utpeke en representant i Norge",
+     "ledd": [
+      "En tilbyder av digitale tjenester som ikke har sitt hovedkontor i Norge eller en annen EØS-stat, og som tilbyr digitale tjenester i Norge, skal utpeke en representant i Norge, med mindre tilbyderen har utpekt en representant i en annen EØS-stat hvor tjenestene tilbys."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Tilsyn og administrative reaksjoner",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 13",
+     "tittel": "Tilsyn",
+     "ledd": [
+      "Kongen utpeker én eller flere tilsynsmyndigheter som skal føre tilsyn med tilbydere som omfattes av loven."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 14",
+     "tittel": "Opplysningsplikt og tilgang til lokaler og utstyr",
+     "ledd": [
+      "Tilbydere og de som handler på vegne av en tilbyder, har plikt til å gi de opplysningene som tilsynsmyndigheten krever for å utføre sine oppgaver, og gi tilsynsmyndigheten tilgang til virksomhetens lokaler og utstyr og yte nødvendig bistand ved tilsynsmyndighetens undersøkelser.",
+      "Første ledd gjelder uten hinder av lovbestemt taushetsplikt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 15",
+     "tittel": "Pålegg om retting",
+     "ledd": [
+      "Ved overtredelse av bestemmelser gitt i eller i medhold av denne loven kan tilsynsmyndigheten gi tilbydere pålegg om at forholdet skal bringes i orden. Når det gis pålegg, skal det settes en frist for oppfyllelse."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 16",
+     "tittel": "Tvangsmulkt",
+     "ledd": [
+      "Tilsynsmyndigheten kan treffe vedtak om tvangsmulkt for å sikre at pålegg etter § 15 blir oppfylt. Tvangsmulkten kan fastsettes som en løpende mulkt eller som et engangsbeløp.",
+      "Tilsynsmyndigheten kan i særlige tilfeller frafalle påløpt tvangsmulkt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-5",
+     "nummer": "§ 17",
+     "tittel": "Overtredelsesgebyr",
+     "ledd": [
+      "Tilsynsmyndigheten kan ilegge overtredelsesgebyr dersom en tilbyder eller noen som handler på dennes vegne, forsettlig eller uaktsomt overtrer §§ 7, 8, 10, 11 eller 14.",
+      "Dersom den ansvarlige for overtredelsesgebyret er et foretak som inngår i et konsern, hefter foretakets morselskap og morselskapet i det konsern selskapet er en del av, subsidiært for beløpet.",
+      "Adgangen til å ilegge overtredelsesgebyr foreldes fem år etter at overtredelsen er opphørt. Fristen avbrytes ved at myndigheten gir forhåndsvarsel om eller fatter vedtak om overtredelsesgebyr."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Utfyllende regler mv.",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 18",
+     "tittel": "Forskrifter",
+     "ledd": [
+      "Kongen kan gi forskrift om\na. krav til sikkerhet og varsling i samsvar med §§ 7, 8, 10 og 11, herunder hva som regnes som tilsvarende krav etter § 5\nb. gjennomføring av tilsyn med tilbydere underlagt loven\nc. opplysningsplikt og tilgang til lokaler og utstyr etter § 14\nd. ileggelse og utmåling av tvangsmulkt og overtredelsesgebyr\ne. at den som forsettlig eller uaktsomt overtrer forskrift gitt i medhold av bokstav a, kan ilegges overtredelsesgebyr\nf. gjennomføring av forpliktelser som følger av EØS-avtalen og andre internasjonale avtaler, og som understøtter lovens regler eller formål\ng. behandling av personopplysninger, blant annet om formålet med behandlingen, behandlingsansvar, hvilke personopplysninger som kan behandles, viderebehandling, utlevering og sletting\nh. nasjonalt kontaktpunkt for sikkerhet i nettverks- og informasjonssystemer."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Sikkerhetssertifisering",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 19",
+     "tittel": "Sikkerhetssertifisering av informasjons- og kommunikasjonsteknologi",
+     "ledd": [
+      "Kongen kan gi forskrift om sikkerhetssertifisering av IKT-produkter, IKT-tjenester og IKT-prosesser for å gjennomføre forpliktelser etter EØS-avtalen. Dette omfatter også\na. utpeking av sertifiseringsmyndighet\nb. tilsyn med sertifiseringsorganer som tilbyr sikkerhetssertifisering av IKT-produkter, IKT-tjenester og IKT-prosesser\nc. pålegg om retting, tvangsmulkt og overtredelsesgebyr ved overtredelse av krav til sikkerhetssertifisering."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kap7",
+   "overskrift": "Kapittel 7. Sluttbestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 20",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Loven trer i kraft fra den tiden[1] Kongen bestemmer. De enkelte bestemmelsene kan settes i kraft til ulik tid."
+     ],
+     "fotnoter": [
+      {
+       "nr": "1",
+       "tekst": "Fra 1 okt 2025 iflg. res. 20 juni 2025 nr. 1088."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

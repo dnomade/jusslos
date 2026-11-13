@@ -1,0 +1,682 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-1994-02-10-123",
+ "dokumentid": "SF/forskrift/1994-02-10-123",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "etat": [
+  "Sjøfartsdirektoratet"
+ ],
+ "kunngjort_i": "Avd I 1994 220 (Kunngjort summarisk)",
+ "ikraft": "1994-04-01",
+ "siste_endring_ikraft": "2023-03-27",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2023-03-27-459",
+   "tekst": "forskrift/2023-03-27-459"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2007-02-16-9/§7",
+   "tekst": "lov/2007-02-16-9/§7"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§9",
+   "tekst": "lov/2007-02-16-9/§9"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§11",
+   "tekst": "lov/2007-02-16-9/§11"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§21",
+   "tekst": "lov/2007-02-16-9/§21"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§28a",
+   "tekst": "lov/2007-02-16-9/§28a"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§32",
+   "tekst": "lov/2007-02-16-9/§32"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§45",
+   "tekst": "lov/2007-02-16-9/§45"
+  },
+  {
+   "ref": "forskrift/2007-02-16-171",
+   "tekst": "forskrift/2007-02-16-171"
+  },
+  {
+   "ref": "forskrift/2007-05-31-590",
+   "tekst": "forskrift/2007-05-31-590"
+  },
+  {
+   "ref": "forskrift/2007-06-29-849",
+   "tekst": "forskrift/2007-06-29-849"
+  },
+  {
+   "ref": "forskrift/2013-08-19-1002",
+   "tekst": "forskrift/2013-08-19-1002"
+  }
+ ],
+ "siste_rettelse": "2022-02-15 (tegnsetting i lister tilpasset universell utforming, tabeller i § 16 samt struktur)",
+ "korttittel": "Forskrift om flyttbare produksjonsinnretninger",
+ "tittel": "Forskrift for flyttbare innretninger med produksjonstekniske installasjoner og utstyr",
+ "annet": "Hjemmel: Fastsatt av Sjøfartsdirektoratet 10. februar 1994 med hjemmel i lov 9. juni 1903 nr. 7 om Statskontrol med Skibes Sjødygtighed m.v. Hjemmel er endret til lov 16. februar 2007 nr. 9 om skipssikkerhet (skipssikkerhetsloven) § 7, § 9, § 11, § 21, § 28a, § 32 og § 45, jf. delegeringsvedtak 16. februar 2007 nr. 171, delegeringsvedtak 31. mai 2007 nr. 590 delegeringsvedtak 29. juni 2007 nr. 849 og delegeringsvedtak 19. august 2013 nr. 1002.\nEØS-henvisninger: EØS-avtalen vedlegg II kap. XIX nr. 1 (direktiv 98/34/EF).\nEndret ved forskrifter 11 okt 1996 nr. 977, 18 feb 1997 nr. 234, 18 feb 1997 nr. 141, 2 mars 1999 nr. 410, 11 april 2003 nr. 544 (bl.a. tittel), 28 juni 2004 nr. 1044, 28 juni 2004 nr. 1046, 29 juni 2007 nr. 1006, 14 mars 2008 nr. 305, 18 jan 2011 nr. 56, 19 aug 2013 nr. 1036, 5 juli 2016 nr. 897, 27 mars 2023 nr. 459.\nRettelser: 08.05.2003 (Forord, § 8, § 21, kap. XIV), 02.04.2008 (§ 13 nr. 4), 06.05.2008 (§ 15 nr. 3), 15.02.2022 (tegnsetting i lister tilpasset universell utforming, tabeller i § 16 samt struktur).",
+ "refid": "forskrift/1994-02-10-123",
+ "eli": "/eli/forskrift/1994/02/10/123",
+ "url": "https://lovdata.no/dokument/SF/forskrift/1994-02-10-123",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "Kapittel I: Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "1. Forskriften gjelder for flyttbare innretninger med produksjonstekniske installasjoner eller utstyr for lagring, transport og/eller overføring av hydrokarboner til tankskip og som er registrert eller skal registreres i norsk skipsregister.\n2. Innretninger som er registrert i norsk skipsregister, kan, frem til neste sertifikatutstedelse, følge de krav som gjaldt ved siste sertifikatfornyelse.\n3. Denne forskrift gjelder ikke for innretninger som utfører brønnstrømstesting ved leteboring eller produksjonsboring. For slike operasjoner gjelder de til enhver tid gjeldende bestemmelser for boretekniske installasjoner og utstyr som er fastsatt av Sjøfartsdirektoratet."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 11 april 2003 nr. 544 (i kraft 1 juli 2003), 28 juni 2004 nr. 1044."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "I denne forskrift betyr:\n1. Anerkjent klasseinstitusjon: Klasseinstitusjoner som departementet har inngått avtale med i medhold av skipssikkerhetsloven § 41:\n1. American Bureau of Shipping (ABS)\n2. Bureau Veritas (BV)\n3. DNV\n4. Lloyd's Register of Shipping (LR)\n5. Nippon Kaiji Kyoaki (Class NK)\n6. Rina Services S.p.A (RINA).\n2. Anerkjent standard: Standard som er utgitt av NS/BS/API/DIN/NFPA/ISO/CEN/IEC eller andre standarder, ev. regelverk, som for et bestemt anvendelsesområde er nasjonalt og/eller internasjonalt anerkjent. Sjøfartsdirektoratet vil i enkelte tilfeller kunne bestemme hvilken standard som kan anerkjennes.\n3. Den produksjonstekniske installasjon:\nDen samlede installasjon av produksjonssystemer og produksjonsutstyr, inkludert tilhørende prosessanlegg.\n4. Dimensjonerende brann:\nBrann som i henhold til de definerte akseptkriteriene representerer en uakseptabel risiko, og som derfor legges til grunn for utforming og bruk av den flyttbare innretning.\n5. Dimensjonerende eksplosjon:\nEksplosjon som i henhold til de definerte akseptkriteriene representerer en uakseptabel risiko, og som derfor legges til grunn for utforming og bruk av den flyttbare innretning.\n6. Dimensjonerende ulykkeshendelse:\nUlykkeshendelse som i henhold til de definerte akseptkriteriene representerer en uakseptabelt risiko, og som derfor legges til grunn for utforming og bruk av innretningen og dens beredskap.\n7. Eksplosjonsfarlige områder: Alle områder hvor det på grunn av mulighet for tilstedeværelse av eksplosjonsfarlig atmosfære kan oppstå eksplosjon/brann ved bruk av uegnet utstyr, maskineri eller elektrisk utstyr.\nSoner: Eksplosjonsfarlige områder inndeles i sone 0, 1 og 2.\nSone 0: Områder hvor det forekommer eksplosjonsfarlig atmosfære uavbrutt eller i lange perioder.\nSone 1: Områder hvor det leilighetsvis må regnes med eksplosjonsfarlig atmosfære under normale driftshold.\nSone 2: Områder hvor det forekommer eksplosjonsfarlig atmosfære bare unntaksvis og kortvarig.\n8. Flyttbar innretning:\nFlyttbar plattform, herunder boreskip, som har utstyr for boring etter undersjøiske petroleumsforekomster ombord, og flyttbar plattform til annet bruk enn boring etter undersjøiske petroleumsforekomster.\n9. MOU-klasseinstitusjon: Anerkjent klasseinstitusjon som det er inngått tilleggsavtale med om å utføre kontroll og besiktigelse mv. av flyttbare innretninger. Disse institusjonene er:\n1. American Bureau of Shipping (ABS)\n2. DNV\n3. Lloyd's Register of Shipping (LR).\n10. Sikkerhetsstyringssystem:\nAlle systematiske tiltak som rederiet skal iverksette for å sikre at virksomheten planlegges, organiseres, utøves og vedlikeholdes i samsvar med krav fastsatt i eller i medhold av lov 16. februar 2007 nr. 9 om skipssikkerhet.\n11. Lastesystem:\nDet system som overfører hydrokarboner fra den flyttbare innretningen til mottaksterminal, f. eks. på tankskip.\n12. Operasjonstilstand:\nAlle innretningens tilstander når stigerør er tilkoplet og det foregår produksjon (dvs. prosessering av olje/gass) eller produksjonssystemene inneholder hydrokarboner under trykk.\n13. Overlevningstilstand:\nAlle innretningens tilstander når stigerør pga. værforhold m.m. er frakoplet.\n14. Rederiet:\nDefinisjonen av rederiet i skipssikkerhetsloven § 4 gjelder tilsvarende.\n15. Risiko:\nUttrykk for den fare som uønskede hendelser representerer for mennesker, miljø eller materielle verdier. Risikoen uttrykkes ved sannsynligheten for og konsekvensene av de uønskede hendelsene.\n16. Risikoanalyse:\nSystematisk fremgangsmåte for å beskrive og/eller beregne risiko. Risikoanalysen utføres ved kartlegging av uønskede hendelser, og årsaker til og konsekvenser av disse.\n17. Miljølast:\nDen belastning som påføres innretningen som følge av f.eks. bølger, vind og strøm.\n18. NDT:\nIkke destruktiv testing. (Non Destructive Testing).\n19. Ventetilstand:\nAlle innretningens tilstander når stigerør er tilkoplet og produksjonen er avstengt."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 2 mars 1999 nr. 410 (i kraft 1 sept 1999), 11 april 2003 nr. 544 (i kraft 1 juli 2003), 29 juni 2007 nr. 1006 (i kraft 1 juli 2007), 14 mars 2008 nr. 305 (i kraft 24 mars 2008), 18 jan 2011 nr. 56, 5 juli 2016 nr. 897, 27 mars 2023 nr. 459."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "Kapittel II: Generelle bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 3",
+     "tittel": "Plikter",
+     "ledd": [
+      "Rederiet, arbeidsgiver, plattformsjef og andre som har sitt arbeid om bord skal utføre sine plikter i henhold til skipssikkerhetsloven og med de utfyllende bestemmelser som følger av denne forskrift."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 2 mars 1999 nr. 410 (i kraft 1 sept 1999), 11 april 2003 nr. 544 (i kraft 1 juli 2003), 29 juni 2007 nr. 1006 (i kraft 1 juli 2007), 19 aug 2013 nr. 1036 (i kraft 20 aug 2013)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 4",
+     "tittel": "Fravik",
+     "ledd": [
+      "I enkelttilfeller kan Sjøfartsdirektoratet etter skriftlig søknad fravike forskriftens krav. Spesielle grunner må gjøre fraviket nødvendig og fraviket må være sikkerhetsmessig forsvarlig. Dersom kyststatens krav og de krav som er fastsatt i denne forskrift er uforenlige, kan Sjøfartsdirektoratet fravike kravene i den utstrekning det er forsvarlig. Fravik må ikke være i strid med internasjonal overenskomst Norge har sluttet seg til."
+     ],
+     "endringer": [
+      "Endret ved forskrift 11 april 2003 nr. 544 (i kraft 1 juli 2003)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 4 A",
+     "tittel": "Gjensidig aksept",
+     "ledd": [
+      "Når denne forskriften stiller krav om at en bestemt utrustning, materiale, utstyr eller innretning, eller om type utstyr o.l., skal anskaffes eller forefinnes i et fartøy, eller at det skal treffes en bestemt foranstaltning, eller det stilles bestemte krav til bygning eller design, skal Sjøfartsdirektoratet tillate at det anbringes eller forefinnes annet tilbehør, materialer, anordninger eller apparater, eller typer av disse, eller at det treffes en annen foranstaltning i fartøyet, eller at fartøyet er bygget eller designet på annen måte.",
+      "Forutsetningen for at Sjøfartsdirektoratet skal akseptere dette er følgende: Det må være dokumentert gjennom testing eller på annen måte, at tilbehøret, materiellet, utstyret eller innretningen, eller type av slik, eller arrangement, bygning eller konstruksjon, er minst like effektiv som det som kreves i forskriftene.",
+      "Sjøfartsdirektoratet skal akseptere resultater av tester som er utført ved anerkjente testinstitusjoner, inkludert testinstitusjoner i øvrige EØS-land. Forutsetningen er at testene gir passende og tilfredsstillende garanti av teknisk, fagmessig og uavhengig art."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 2 mars 1999 nr. 410 (i kraft 1 sept 1999)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kapIII",
+   "overskrift": "Kapittel III: Dokumentasjon",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Overskriften endret ved forskrift 11 april 2003 nr. 544 (i kraft 1 juli 2003)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 5",
+     "tittel": "Dokumentasjon",
+     "ledd": [
+      "1. Rederiet skal kunne dokumentere at forskriftens krav er oppfylt. På forespørsel skal dokumentasjon sendes Sjøfartsdirektoratet. Dokumentasjonsinnholdet, omfanget, typen og tidspunktet for oversendelse fastsettes av Sjøfartsdirektoratet.\n2. Det skal avklares med Direktoratet for samfunnssikkerhet og beredskap og MOU-klasseinstitusjon hvilken tilleggsdokumentasjon som skal forelegges for disse kontrollinstitusjonene."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 2 mars 1999 nr. 410 (i kraft 1 sept 1999), 11 april 2003 nr. 544 (i kraft 1 juli 2003), 28 juni 2004 nr. 1046, 29 juni 2007 nr. 1006 (i kraft 1 juli 2007)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 6",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Opphevet ved forskrift 2 mars 1999 nr. 410 (i kraft 1 sept 1999)."
+     ],
+     "opphevet": "1999-09-01"
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 7",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Opphevet ved forskrift 2 mars 1999 nr. 410 (i kraft 1 sept 1999)."
+     ],
+     "opphevet": "1999-09-01"
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kapIV",
+   "overskrift": "Kapittel IV: Tekniske krav til den produksjonstekniske installasjonen",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 8",
+     "tittel": "Generelle krav til den produksjonstekniske installasjonen.",
+     "ledd": [
+      "1. Den produksjonstekniske installasjonen skal tilfredsstille et sikkerhetsnivå som ikke ligger lavere enn som angitt enten i Det Norske Veritas, Hydrocarbon Production Plant eller gjennom annen internasjonalt anerkjent norm. Dette skal være kontrollert og godkjent av MOU-klasseinstitusjon eller på annen måte som bestemt av sokkelstatens myndighet.\n2. De risiki driften av den produksjonstekniske installasjon representerer for innretningens øvrige systemer, og de risiki øvrige systemer representerer for driften av den produksjonstekniske installasjonen skal vurderes i risikoanalysen, jf. forskrift 22. desember 1993 nr. 1239 om risikoanalyse for flyttbare innretninger."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 2 mars 1999 nr. 410 (i kraft 1 sept 1999), 11 april 2003 nr. 544 (i kraft 1 juli 2003)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 9",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Opphevet ved forskrift 2 mars 1999 nr. 410 (i kraft 1 sept 1999)."
+     ],
+     "opphevet": "1999-09-01"
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 10",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Opphevet ved forskrift 18 feb 1997 nr. 234 (i kraft 1 juli 1997)."
+     ],
+     "opphevet": "1997-07-01"
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kapV",
+   "overskrift": "Kapittel V: Tekniske krav til den flyttbare innretningen",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrift 27 mars 2023 nr. 459."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 11",
+     "tittel": "Generelle krav til den flyttbare innretningen",
+     "ledd": [
+      "– innretning med lagertanker for olje:\nFor flyttbare innretninger som lagrer råolje om bord skal relevante deler av Sjøfartsdirektoratets til enhver tid gjeldende forskrifter for oljetankskip gjelde.\n– Innretning med lagertanker for gass:\nFor flyttbare innretninger som lagrer gass i tanker om bord relevante deler av Sjøfartsdirektoratets til enhver tid gjeldende forskrifter om transport av spesielle eller farlige laster i bulk gjelde."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 12",
+     "tittel": "Skrogkonstruksjon",
+     "ledd": [
+      "1. Det skal utføres en særlig utmatningsberegning for flyttbare innretninger som skal ligge lenge i sanme retning som bølgeretningen. Basert på beregninger kan det forlanges forsterkninger av skroget.\n2. Det skal utføres en skrogstyrkeberegning som skal vise tilfredstillende sikkerhet mot progressivt sammenbrudd av den flyttbare innretningen etter dimensjonerende kollisjons- og skrogskadehendelser. Beregningene skal vise at halvt nedsenkbar innretning etter en slik skade, og i den minst gunstige aktuelle lastetilstand, tåler de mest ugunstige miljøbelastninger som kan forventes en gang hvert år uten å bryte sammen. I analysen settes sikkerhetsfaktor lik 1.2 for halvt nedsenkbare plattformer og 1.3 for oppjekkbar innretning. Innretning av skipstype skal etter slik skade tåle miljøbelastninger som forventes en gang hvert hundrede år (sannsynlighetsnivå 10-2), og med sikkerhetsfaktor lik 1.0.\n3 Ved installasjon av produksjonstekniske systemer og utstyr skal det tas hensyn til skrogets elastiske bøyning forårsaket av miljølaster og last/ballastfordeling."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 13",
+     "tittel": "Maskineri og rørsystemer",
+     "ledd": [
+      "1. Kjeler, forbrenningingsmotorer o.l. skal ikke plasseres i eksplosjonsfarlige områder.\nSlikt utstyr kan plasseres i rom som ligger inne i et omgivende eksplosjonsfarlig område, under forutsetning av at følgende betingelser oppfylles:\n- rommet holdes under overtrykk.\n- ventilasjonsluft for dannelse av overtrykk tas fra sikkert område.\n- alarmsystem anordnes for å varsle et eventuelt bortfall av overtrykk.\n- luftslusesystem med selvlukkende dører anordnes mellom rommet og sone 1 området. Selvlukkende dører er tilstrekkelig mellom rommet og sone 2, området.\n- eksosutløp plasseres i sikkert område.\n- overflater skal ikke ha temperatur over selvantennelsestemperatur for HC gasser (ca. 200 °C).\n- inntak for forbrenningsluft tas fra sikkert område.\n2. Brennstoffledninger for gasstilførsel til forbrenningsmaskineri kan føres gjennom «ikke-eksplosjonsfarlige områder», unntatt boligkvarter og kontrollstasjoner, dersom brennstoffledningene er spesielt beskyttet med ventilerte omkringliggende konsentriske rør (kappe), hvor fra ventileringsluft blir overvåket med gassdetektorer. Eller brennstoffledninger er helsveisede med spesiell solid utførelse når det gjelder materialer og dimensjoner, uten flenser, – og er godt merket og beskyttet mot ytre skade, – 100% prøvet (NDT) av sveiser og at rommet har anordnet gassdetektorer.\n3. Effektivt gnistfangerutstyr skal være montert i eksoskanaler fra alle forbrenningsutstyr (unntatt gassturbiner). Eksos fra gassturbiner skal være kjølt tilstrekkelig og ledet til sikkert område. Eksos skal ikke være til hinder for rømning, evakuering, eller kunne antenne gass ved eventuelle kontrollerte eller ukontrollerte gassutslipp. Vannkjølte eksosrør skal ha alarmordning for å varsle en eventuell svikt i kjølevannstilførselen. All eksos skal ledes slik at den ikke vil være til sjenanse for personell eller kunne skape farlige situasjoner for helikopteroperasjon.\n4. Overflate av maskineri eller rørsystemer som kan bli utsatt for hydrokarboner fra lekkasjer eller eventuelle andre ukontrollerte utslipp, skal i normal driftstilstand ikke ha en temperatur som overstiger hydrokarbonenes tenntemperatur, (dvs. normalt ikke høyere enn 200 °C).\n5. Rørsystemer.\nSikkerhetskritiske rørsystem for damp, kjølevann, instrumentluft, drivstoff, hydraulikkolje m.m., som inngår i utstyr for maritim operasjon av innretningen, skal ikke være koplet sammen med produksjonstekniske systemer, slik at en feil i disse også medfører funksjonssvikt av viktige maritime systemer (og omvendt). Likeså skal det være separering mellom produksjonstekniske systemer og eventuelle boretekniske systemer om begge systemer skal opereres samtidig. Det skal heller ikke være slik sammenkopling av systemer, f.eks. mellom gasskjølevannsystem og sanitærsystem, at en lekkasje av gass kan spres i i et område som i utgangspunktet er ment å være sikkert område."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-4",
+     "nummer": "§ 14",
+     "tittel": "Områdeklassifisering og ventilasjon",
+     "ledd": [
+      "1. Innretningen skal områdeklassifiseres med hensyn til eksplosjonsfarlige områder i henhold til Direktoratet for samfunnssikkerhet og beredskaps til enhver tid gjeldende forskrifter for maritime elektriske anlegg.\n2. Inntak og uttak for ventilasjonsluft skal plasseres slik at korrekte trykkforhold mellom ikke eksplosjonsfarlige områder og ekplosjonsfarlige områder, samt korrekte gjennomstrømningsmengder, kan opprettholdes under alle vindretninger og vindstyrker hvor produksjon ønskes opprettholdt. Prøver på dette kan forlanges.\n3. Det skal være minst 4,5 m i avstand mellom luftinntak og ventilasjonsutløp. Det skal være separate ventilasjonssystem for eksplosjonsfarlige og ikke eksplosjonsfarlige områder.\n4. Ventileringsluft til eksplosjonsbeskyttet trykksatt elektrisk utstyr (Ex(p)) som skal opprettholdes etter full nødavstegning skal være separert fra generelle ventilasjonssystemer.\n5. Oppvarmingselementer i ventilasjonssystem må ikke kunne antenne gass på grunn av høy overflatetemperatur etter nedstengt ventilasjon."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 11 april 2003 nr. 544 (i kraft 1 juli 2003), 28 juni 2004 nr. 1046."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-5",
+     "nummer": "§ 15",
+     "tittel": "Turret system",
+     "ledd": [
+      "1. Turret med opplagring skal være dimensjonert for samtidig oveført belastning fra forankringssystem og stigerør.\n2. Turret med rotasjonsmaskineri skal være konstruert slik at enkeltfeil i hvilken som helst aktiv komponent (inklusive lager) ikke forårsaker tap av mulighet til rotasjon av den flyttbare innretning.\n3. Turretsystem som ikke er konstruert for å kunne dreie +/– n x 360 ° skal ha prosedyrer for å ivareta aktuelle på grunn av dette, f. eks. krav om avstenging av produksjon under dreining opp mot været p.g.a. rullebevegelser.\n4. Innretninger, hvor turreten ikke kan dreie +/– x 360° rundt, skal ha et arrangement for rask frakopling av overføringer for hydrokarboner, elektriske kabelforbindelser m.m. mellom turret og den øvrige del av innretningen. Prosedyrer for når frakopling skal gjennomføres, skal utarbeides og inntas i operasjonsmanualen.\n5. Eventuelle operasjons er for turretsystem vil bli angitt i vedlegg til de maritime sertifikater."
+     ],
+     "endringer": [
+      "Endret ved forskrift 11 okt 1996 nr. 977 (i kraft 1 juli 1997)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-6",
+     "nummer": "§ 16",
+     "tittel": "Forankrings- og posisjoneringsystem",
+     "ledd": [
+      "1. Posisjoneringssystemet skal være i henhold til Sjøfartsdirektoratets forskrift om ankrings/posisjoneringssystemer.\n2. Når det i beregningsanalysen er vanskelig å fastsette innretningens basiskrefter som vind-, strøm-, bølgedrift, samt masse- og dempingskoeffisenter og transferfunksjoner, skal usikkerhetene klarlegges ved modellforsøk.\n3. Det skal utføres bevegelsesberegninger for innretningen og tankskipet, eventuelt for innretning og fast installasjon med hensyn på avdrift/kollisjon. Beregningene skal utføres for aktuelle værkondisjoner med innlagt største enkelfeil for innretningen (ankerlinebrudd, trusterstopp e.l.) eller med største enkeltfeil for tankskipet (stopp i hovedmaskineri eller truster).\nEtter slike hendelser skal avstanden mellom innretningen og tankskipet annen fast installasjon ikke bli mindre enn ca 10 meter.\n4. Effekten av groe på ankerlinene skal inkuderes i forankringsberegningene dersom innretningen planlegges å operere i områder hvor ankerlinene vil kunne begros.\n5. Konsekvensklasser og sikkerhetsfaktorer som skal legges til grunn for dimensjoneringen av ankersystemet fremgår av Tabell I og Tabell II.\n6. I tilleg til kravene i pkt 5, skal posisjoneringssystemet være kontrollberegnet og dimensjonert for dobbel feil basert på 10 års værkondisjon. Dersom operasjon i konsekvensklasse 3 er beregnet å skulle avslutte før 10 års værkondisjon nås, kan beregning av dobbeltfeil baseres på den maksimale operasjonstilstanden.\n7. I tabell I angis konsekvensklasser for de forskjellige operasjonelle faser som skal ligge til grunn for beregninger av sikkerhetsfaktoren. I tabell II angis sikkerhetsfaktorer.",
+      "Tabell I – Konsekvensklasser",
+      "Konsekvensklasser for ankerliner på innretninger når innretningen ligger forankret:\n| Plassering i forhold til andre installasjoner | ikke i nærheten | i nærheten men større enn X | i nærheten men større enn X | i nærheten men mindre enn X | i nærheten men mindre enn X\n| Ankerlinenes retning i forhold til den andre installasjonen | – | vender mot denne | vender fra denne | vender mot denne | vender fra denne\n| Tilstand | | | | |\n| Operasjonstilstand | 3 | 3 | 3 | 3 | 3\n| Ventetilstand | 2 | 2 | 2 | 2 | 3\n| Overlevelsestilstand | 1 | 1 | 2 | |",
+      "Avstanden X er gitt ved at avstanden mellom innretningen og den andre installasjonen er så stor, at innretningen etter eventuelt flerlinebrudd (3 eller fler), vil svinge klar den andre installasjonen med en avstand på minst 10 meter i ugunstigste faser.",
+      "Tabell II Sikkerhetsfaktorer\n| | Konsekvensklasse\n| Tilstand | Klasse 3 | Klasse 2 | Klasse 1\n| | KV | DY | KV | DY | KV | DY\n| Intakttilstand | 3.0 | 2.5 | 2.7 | 2.3 | 2.0 | 1.65\n| Likevektsposisjon etter enkeltfeil | 2.0 | 1.65 | 1.8 | 1.5 | 1.4 | 1.25\n| Maksimum utsving etter enkeltfeil | 1.4 | 1.2 | 1.4 | 1.2 | 1.1 | 1.0\n| Likevektposisjon[*] etter dobbeltfeil | | | 2.0 | 1.65 | 1.8 | 1.5\n| Maksimum utsving[*] etter dobbeltfeil | | | 1.4 | 1.2 | 1.4 | 1.2",
+      "DY= Dynamisk beregningsmetode",
+      "KY= Kvasistatisk beregningsmetode",
+      "8. Det skal utarbeides en plan for produksjonskontroll, verkstedkontroll og etterkontroll under drift av ankerliner og andre spenningspåkjente og/eller slitasjeutsatte komponenter slik som ledeskiver og kabelar i ankersystemet. Omfanget av etterkontroll vil være avhengig av den produksjon og verkstedkontroll som utføres og komponentenes utforming, dimensjonering og det materiale som er brukt. Planen skal dekke komponentenes levetid og skal i tillegg til standard kontroll og vedlikehold ta spesielt hensyn til følgende;\n- komponenter som blir utsatt for gjentatt høy belastning og/eller lastvekslinger (utmatting),\n- komponenter som utsettes for stor slitasje, korrosjon, erosjon, begroing o.l.,\n- spesielle bunnforhold,\n- andre driftsforhold som bil betinge spesiell kontroll.\nPlanen skal inntas i operasjonsmanualen/vedlikeholdssystemet.\n9. Bruddstyrken for ankerliner som legges til grunn i ankringsberegningene skal være justert for reduksjon i styrke grunnet korrosjon, slitasje o.l.\n10. Ankrene (inklusive peleankre) skal ha en holdekraft som minst er 25 % større enn den maksimale kraft ankeret vil kunne utsettes for i henhold til forankringsberegningene. Styrken av ankrene og deres holdekraft skal kunne dokumenteres med grunnlag i beregninger eller prøver. Beregningene skal ta hensyn til aktuelle bunnforhold og eventuelle tidligere prøver.\n11. Dersom ankerlinelengde er tenkt å kunne justeres avhengig av værforhold (aktivt forankringssystem) skal denne operasjonen testes ut og dokumenteres, for aktuelleforhold. For slike system skal det være mulig å planlegge justeringen om bord med simuleringsverktøy. Normalt skal vinsjer kunne kjøres uten at dette fører til nedstengning av andre kritiske systemer. Rederiet skal utarbeide en plan og instruks for slik aktiv vinsjkjøring, og denne skal inntas i operasjonsmanualen.\n12. Det skal kunne foretas funksjonstest av ankervinsjens funksjoner selv om vinsjen er i bruk.\n13. Ledeskiver for kjetting skal konstrueres med minst 7 lommer.\n14. Dynamiske effekters innvirkning på ankersystemet skal tas hensyn til ved beregning av det totale strekk i ankerlinene når det opereres på vanndyp som er større enn 200 m.\n15. Rederiet skal utarbeide plan for kontroll av ankerlinenes nedsynking i havbunnen for å kontrollere at de linelengder og lineprofiler som er lagt til grunn i ankerberegningene er opprettholdt.\n16. Det skal ikke være mulig å løse ut ankerliner når stigerør er innkoplet til innretningen. Det skal være et eget sikringssystem som forhindrer dette. Nødutløsning skal imidlertid være mulig med stigerør tilkoplet etter manuell oppheving av forannevnte sikringssystem. Risikoanalyse i henhold til Sjøfartsdirektoratets til enhver tid gjeldende forskrift om risikoanalyse skal avgjøre om det er behov for frakoplingsmekanisme for stigerør, og under hvilke dimensjonerende ulykkeshendelser slik frakopling er nødvendig.\n17. Maksimalt utsving av innretningen i inntakt kondisjon og etter eventuell enkeltfeil eller dobbeltfeil skal ikke overskride maksimalt utsving som stigerør er dimensjonert for å tåle. Det skal benyttes en sikkerhetsmargin på 2,5 % av vanndypet for stive stigerør, mens det for fleksible stigerør anvendes en sikkerhetsmargin på 5 % av vanndyp."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 11 okt 1996 nr. 977 (i kraft 1 juli 1997), 18 feb 1997 nr. 141 (i kraft 1 jan 1998), 2 mars 1999 nr. 410 (i kraft 1 sept 1999), 11 april 2003 nr. 544 (i kraft 1 juli 2003), 29 juni 2007 nr. 1006 (i kraft 1 juli 2007)."
+     ],
+     "fotnoter": [
+      {
+       "nr": "*",
+       "tekst": "Ved dobbeltfeil benyttes for beregning av krefter/bevegelser 10 års værkondisjon. Dersom maksimum intakttilstand er lavere enn 10-års kriteriet, brukes maksimum intakttilstand."
+      }
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-7",
+     "nummer": "§ 17",
+     "tittel": "Stabilitet",
+     "ledd": [
+      "1. Når produksjonsprosessen er igang, eller det er hydrokarboner under trykk i produksjonssystemene, skal kravene til intakt og lekk stabilitet for operasjonstilstander være i henhold til Sjøfartsdirektoratets til enhver tid gjeldende forskrift om stabilitet, vanntett oppdeling og vanntette/værtette lukningsmidler på flyttbare innretninger.\n2. En kollisjon med forsyningsskip på 5000 tonn deplasement med hastighet 2 m/s skal ikke medføre oljeutstrømning fra lagertanker eller fra prosessutstyr som står på dekk. Produksjonsinstallasjonen skal klare de krengninger som fremkommer uten at dette fører til kritiske hendelser.\n2. Stabilitetsmessige effekter av hurtigutløsning av stigerør og/eller ankerliner skal ikke medføre dynamisk krengevinkel over 17° i noen retning, under ugunstigste forhold."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kapVI",
+   "overskrift": "Kapittel VI: Risikoforebyggende tiltak",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 18",
+     "tittel": "Arrangement",
+     "ledd": [
+      "1. Boligkvarter og hovedevakueringsutstyr skal være adskilt fra produksjons og brønnhodeområde.\n2. Følgende områder skal adskilles og beskyttes fra hverandre:\n- brønnhodeområde,\n- produksjonsområdet,\n- lagertanker for hydrokarboner,\n- hjelpeutstyr som fyres, (kjeler, forbrenningsovner m.m),\n- maskineri,\n- boligkvarter og områder som inneholder sikkerhetskritisk utstyr, f.eks. utstyr for posisjonering, evakuering o.l.\n3. Produksjonsutstyret kan plasseres over lagertanker for råolje under forutsetning av at tankene er utstyrt nøytralgassanlegg, og at avluftingsventiler for gass fra tankene er slik arrangert at det aldri slippes gass ut i prosessområdet. Slike gassutslipp skal ventileres til sikkert område.\n4. Ballasttanker som grenser til lagertanker for olje skal være beskyttet mot korrosjon og malt innvendig med lys maling (belegg) slik at de er lette å inspisere for sprekker med tilhørende lekkasjer.\n5. Ventilasjonsinntak skal være plassert sikrest mulig med henblikk på eventuelle gass/røykutslipp fra en ulykkeshendelse, vindretning også tatt i betraktning.\n6. Utstyr som kan være en potensiell antennelseskilde skal ikke installeres i nærheten av mulige lekkasjekilder for hydrokarboner.\n7. Fra hvert område/rom skal det være minst to rømningsveier. Rømningsveiene skal være beskyttet i nødvendig omfang i forhold til dimensjonerende ulykkeshendelser. Hvor det i en evakueringssituasjon kan være nødvendig å passere i nærheten av den produksjonstekniske installasjonen, skal det forbi dette område være en innelukket, overtrykksventilert og isolert fluktvei."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kapVII",
+   "overskrift": "Kapittel VII: Strukturelle sikringstiltak mot brann og eksplosjon",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 19",
+     "tittel": "Strukturell brannsikring",
+     "ledd": [
+      "1. Den produksjonstekniske installasjonen skal være omgitt av hensiktsmessige strukturelle brannskiller og nødvendige eksplosjonstrykkavlastningskonstruksjoner for å hindre en videre spredning av inntruffet brann eller eksplosjon. På bakgrunn av dimensjonerende ulykkeshendelser og konsekvensanalyser skal det vurderes om minimumskrav til strukturell brannsikring mot tilstøtende områder er tilstrekkelige, eller om det er nødvendig med spesielle tiltak for å oppfylle angitte akseptkriterier, jf. Sjøfartsdirektoratets til enhver tid gjeldende forskrift om risikoanalyse, samt forskrift om sikringstiltak mot brann.\n2. Den produksjostekniske installasjonen, boreområde og brønnhodeområde skal adskilles fra hverandre, med brannskille av minimum klasse H-O.\n3. Skillet mellom den produksjonstekniske installasjonen og boligkvarteret skal være en konstruksjon som minst tilsvarer brannklasse H-60.\n4. Adkomstsåpninger til ikke eksplosjonsfarlige områder, samt luftinntak og andre åpninger skal være plassert lengst mulig bort fra områder hvor gasslekkasjer fra produksjonsutstyr eventuelt vil kunne forekomme.\n5. Bærende konstruksjoner, støtter, fundamenter m.m., for den produksjonstekniske installasjonen skal være brannbeskyttet, for å motstå beregnet dimensjonerende brannbelastning tilstrekkelig lenge ut fra tidsbehov for trykkavlastning.\n6. Rør, ventiler, kabler og akkumulatorer o.l. for nødavstengningsventiler og for sikrings- og bekjempelsessystemer i produksjonsområde skal prøves med hensyn til brannmotstand. Ventiler som ikke har metall til metalltetning skal tilfredsstille de branntekniske krav i API 607, eller tilsvarende anerkjent standard.\n7. Prosessutstyr for behandling av olje skal utstyres med spilltrau eller karm med tilstrekkelig kapasitet for oppsamling av oljesøl. Ved beregning av dreneringskapasiteten skal det tas hensyn til en dimensjonerende lekkasje (f. eks. brudd på største rør) og normal slingringsvinkel. Spilltrauet skal ha drenering med vannnlås til en lukket spilloljetank/oppsamlingstank (eventuelt sloptank). Det skal være drenering på begge sider under separatorer og lignende tanker. Oppsamlingstanken skal kunne romme all olje som er i største separator.\n8. Dreneringssystem for rom og områder klassifisert som eksplosjonsfarlige, skal være adskilt fra dreneringssystem for ikke eksplosjonsfarlige områder. Samletank for drenering fra eksplosjonsfarlige områder skal ha dekkgass (nøytralgass).\n9. Mellom tankdekk og oppbygget dekk spilltrau under den produksjonstekniske installasjonen, skal det være et ventilert og inspiserbart rom Tankdekk skal i aktuelle områder beskyttes og dimensjoneres for eventuelle jet-branner fra prosessutstyr som er plassert over, slik at tankdekket ikke kan bli utsatt for uakseptabel oppvarming ved eventuell antennelse av olje/gasslekkasjer.\n10. Nødfakling må ikke føre til for sterk varmebelastning på rømmingsveier og evakueringsstasjoner, heller ikke forhindre adkomst og betjening av kontrollstasjoner. Beskyttelse mot varmebelastning fra fakkel skal dimensjoneres i henhold til største hydrokarbonmengde som fakkelsystemet vil kunne avfakle. Varmebelastning fra fakkel skal ikke overstige 4.7 kw/m2 i områder hvor rømming og sjøveis evakuering vil kunne foregå."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 2 mars 1999 nr. 410 (i kraft 1 sept 1999), 11 april 2003 nr. 544 (i kraft 1 juli 2003)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-2",
+     "nummer": "§ 20",
+     "tittel": "Strukturell eksplosjonsbeskyttelse",
+     "ledd": [
+      "1. Bærende deler som dekk, tak og vegger skal, dersom det finnes nødvendig på bakgrunn av risikoanalysen, være arrangert for eksplosjonsavlasting eller dimensjonert slik at disse konstruksjonsdeler ved dimensjonerende eksplosjoner ikke ødelegges. Som eksplosjonsavlasting kan brukes åpne rom, eksplosjonspaneler/luker eller lettvegger som svikter på en kontrollert måte. For at trykkavlastning skal kunne tas hensyn til når det gjelder å spesifisere overlevingsevne av kritisk utstyr i rom hvor eksplosjon har skjedd, må åpningstrykk og åpningstid for eksplosjonspaneler dokumenteres.\n2. Eksplosjonstrykkberegniner basert på eventuelt område, romutforming, eksplosjonspaneler og plassering av utstyr kan bli forlangt utført for å fastlegge beregningstrykk på konstruksjonselementer som vegger, søyler, tanker rør m.m., for å gi dimensjoneringsgrunnlag (ekvivalent statisk trykk).\n3. Brannbeskyttelse (inkludert brannisolasjon) for et område/rom skal tåle fastlagt beregningstrykk uten at brannintegritet tapes.\n4. Beholdere med tilhørende rør m.v. som kan inneholde brennbare væsker og gasser skal dimensjoneres og beskyttes for et fastsatt beregningstrykk fra dimensjonerende eksplosjon."
+     ],
+     "endringer": [
+      "Endret ved forskrift 2 mars 1999 nr. 410 (i kraft 1 sept 1999)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-8",
+   "navn": "kapVIII",
+   "overskrift": "Kapittel VIII: Gass- og branndeteksjonssystemer",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-1",
+     "nummer": "§ 21",
+     "tittel": "Gassdeteksjonssystem",
+     "ledd": [
+      "1. Gassdeteksjonssystem og arrangement av gassdetektorer skal oppfylle Sjøfartsdirektoratets til enhver tid gjeldende forskrift om sikringstiltak mot brann på flyttbare innretninger. Gassdetektorer skal i tillegg plasseres i områder for:\n- produksjon. Produksjonsområdet skal i tillegg til punktdetektorer dekkes av infrarød linjedetektor,\n- turret/brønnhode med manifolder,\n- lasteoljepumper,\n- maskineri/kjeler hvor gass benyttes som brennstoff.\n2. Det skal installeres gassdetektorer i alle ventilasjonsimotak til rom med mekanisk ventilasjon. Dersom produksjonsområde er innebygget i rom med mekanisk ventilasjon skal det være montert gassdetektorer i ventilasjonsutløp.\n3. Pumperom for pumper for hydrokarboner skal være utstyrt med kontinuerlig målende gassdeteksjonssystem. Gasskonsentrasjonen skal kunne avleses kontinuerlig i lastekontrollrom, og alarm skal gis ved angitt gasskonsentrasjon i pumperom\n4. Rederiet skal vurdere installasjon av hydrogensulfiddetektorer (H2S) i produksjonsområdet for hvert enkelt oppdrag."
+     ],
+     "endringer": [
+      "Endret ved forskrift 29 juni 2007 nr. 1006 (i kraft 1 juli 2007)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-2",
+     "nummer": "§ 22",
+     "tittel": "Branndeteksjonssystem",
+     "ledd": [
+      "1. Branndeteksjonssystemet for den produksjontekniske installasjonen skal være basert på to forskjellige detektorprinsipper, f.eks. varme- og flammedetektorer. Detektorer skal være av adressebar type.\n2. Detektorsystemet skal fungere selv med feil i en hvilken som helst detektor eller brudd på kabel mellom detektorene. Sløyfene skal være utstyrt for overvåking mot kortslutning, brudd og jordfeil.\n3. Det skal være en separat dataprosessor/logisk styreenhet (sløyfekort) for hver enkelt detektorsløyfe. Ved bortfall av hovedprosessor (når det er en enkelt) skal det fortsatt være mulig å få indikert hvilken sløyfe en eventuell alarm kommer fra."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-9",
+   "navn": "kapIX",
+   "overskrift": "Kapittel IX: Aktive Sikringstiltak mot brann",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-1",
+     "nummer": "§ 23",
+     "tittel": "Brannpumpesystem for hovedbrannledning",
+     "ledd": [
+      "1. Brannpumpesystemets kapasitet:\nBrannvannskapasitet skal baseres på beregnet forbruk ved dimensjonerende brannhendelse.\n2. Flyttbar innretning av skipstype med lagring av olje om bord, hvor den produksjonstekniske installasjonen er plassert i tankdekkområdet, skal det ved dimensjonerende brann i produksjonsområdet, ha samtidig brannvann til:\n- overrislingsanlegg inkludert fjernstyrte skumkanoner for slokking i produksjonsområdet,\n- skumlegging av tankdekket,\n- det antall slangeposter som kan benyttes samtidig for slokking av brann i dette området,\n- overrisling for avkjøling av områder og utstyr, som for eksempel ytre skott av tilstøtende områder og helifueltanker; avhengig av arrangement og grad av passiv brannbeskyttelse.\n3. Tilleggskrav til antall, plassering og beskyttelse av brannpumpesystem med krafttilførsel, skal vurderes og avgjøres på grunnlag av utført risikoanalyse, jf. risikoanalyseforskriften.[1]"
+     ],
+     "endringer": [
+      "Endret ved forskrift 11 april 2003 nr. 544 (i kraft 1 juli 2003)."
+     ],
+     "fotnoter": [
+      {
+       "nr": "1",
+       "tekst": "Jf. forskrift av 22. desember 1993 nr. 1239 om risikoanalyse for flyttbare innretninger."
+      }
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-2",
+     "nummer": "§ 24",
+     "tittel": "Brannpumpesystem for overrisling med vann/skum",
+     "ledd": [
+      "1. Den produksjonstekniske installasjonen skal være beskyttet med overrislingsanlegg for skum/vann. Overrislingsanlegget skal være arrangert slik at det etter en dimensjonerende ulykkeshendelse i den produksjonstekniske installasjonen med ødeleggelse av en vann-/skumtilførsel, fortsatt er tilbake 100% slokning- og kjølekapasitet.\nDet skal være nok skumkonsentrat til å opprettholde skumlegging i minst 15 minutter. Skumkonsentrat skal kunne forsynes fra to adskilte og beskyttede områder på innretningen.\n2. Rederiet skal med grunnlag i en risikoanalyse foreslå type og arrangement av det fastmonterte brannbeskyttelsesanlegget for den produksjonstekniske installasjonen.\n3. Overrislingsanlegg[1] skal som minimum installeres for å dekke de nedenfor nevnte områder og utstyr, og ha følgende minimumskapasiteter:\n| Område: | Kapasitet:\n| – stigerør, turret, manifold og brønnhodeområdet (skum og vann) | 20 (l/min. m2)\n| – produksjonsområdet (skum og vann) | 10 (l/min. m2)\n| – overflate av trykkbeholdere og tanker som har brennbart innhold (vann) | 10 (l/min. m2)\n| – avskipningsterminal (skum og vann) | 10 (l/min. m2)\nUt fra resultatet av risikoanalysen, jf. pkt. 2, kan Sjøfartsdirektoratet kreve overrisling av andre områder, som for eksempel ytterflater på boligkvarteret, samt større kapasitet enn det som er angitt ovenfor.\n4. Overrislingsanlegg for prosessanlegget skal i tillegg til lokal- og fjernbetjent manuell utløsningdmulighet, også utløses automatisk ved deteksjon av brann.\n5. Automatisk overrislingsanlegg skal være sikret mot utilsiktet utløsning.\n6. Når det gjelder dysetype og kapasitet skal dette i de forskjellige områder tilpasses mulige gassjetbranner, væskepølbranner, rennende væskebranner og kombinasjoner av slike, alt etter hva som er mest aktuelt."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 11 april 2003 nr. 544 (i kraft 1 juli 2003), 29 juni 2007 nr. 1006 (i kraft 1 juli 2007)."
+     ],
+     "fotnoter": [
+      {
+       "nr": "1",
+       "tekst": "Anleggene kan installeres i henhold til NFPA 15 «water spray fixed systems», NFPA 16 «Deluge foam-water sprinkler and foam-water spray systems» eller tilsvarende anerkjente standarder. Skum skal være av filmdannende type (AFFF, Firestop)."
+      }
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-3",
+     "nummer": "§ 25",
+     "tittel": "Spesielle andre fastmonterte slukkeanlegg",
+     "ledd": [
+      "I områder/rom som er lukket eller delvis lukket, kan vannforstøvningsanlegg (tåkesystem) benyttes."
+     ],
+     "endringer": [
+      "Endret ved forskrift 11 april 2003 nr. 544 (i kraft 1 juli 2003)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-4",
+     "nummer": "§ 26",
+     "tittel": "Manuelt brannslokningsutstyr",
+     "ledd": [
+      "I prosessområdet skal det være plassert tilstrekkelig antall håndslokkeapparater med slokkemedium av type fildannende skum."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-10",
+   "navn": "kapX",
+   "overskrift": "Kapittel X: Brann- og eksplosjonsbeskyttelse av lagertanker i skrogstrukturen",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-1",
+     "nummer": "§ 27",
+     "tittel": "Strukturelle krav",
+     "ledd": [
+      "For innretninger som lagrer produserte hydrokarboner om bord skal arrangement og adskillelse av boligkvarter, maskinrom , tanker m.m. utføres slik som angitt i SOLAS-74, Kap. II-2 del D, Reg. 56 «Location and separation of spaces»."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-2",
+     "nummer": "§ 28",
+     "tittel": "Aktive sikringstiltak",
+     "ledd": [
+      "1. Flyttbar innretning som i produksjonsfasen lagrer produserte hydrokarboner ombord skal utstyres med følgende:\n1. Skumkanoner for dekning av tankdekk, som skal være i henhold til SOLAS-74, Kap. II-2 del D, Reg. 6l. «Fixed deckfoam system» I tillegg til manuell betjening iht. SOLAS-74, skal skumkanonene kunne fjernstyres fra plass med god oversikt.\n2. Det skal kunne tilføres skum på tankdekket inn under prosessinstallasjonen.\n3. Tankventilasjon skal minimum være i henhold til SOLAS-74, Kap. II 2 del D, Reg. 59. «Venting, purging, gas-freeing ventilation».\n4. Nøytralgassanlegg, skal minimum være i henhold til SOLAS-74, Kap. II-2 del D, Reg. 62. «Inert gas system».\n5. Fastmontert brannslokkingsanlegg i pumperom skal oppfylle kravene i SOLAS-74, Kap. II-2 del D, Reg. 63 «Cargo pump-rooms»\n6. Lasteoljepumper i pumperom skal være overvåket med instrument for måling av temperatur i aksellagere, pumpehus og akselgjennomføringer. Temperaturer skal kunne avleses i lastekontrollrom og alarm gis ved temperaturøkning."
+     ],
+     "endringer": [
+      "Endret ved forskrift 2 mars 1999 nr. 410 (i kraft 1 sept 1999)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-11",
+   "navn": "kapXI",
+   "overskrift": "Kapittel XI: Nødavstegnings- og nødutløsningssystem",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-11-paragraf-1",
+     "nummer": "§ 29",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Opphevet ved forskrift 2 mars 1999 nr. 410 (i kraft 1 sept 1999)."
+     ],
+     "opphevet": "1999-09-01"
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-11-paragraf-2",
+     "nummer": "§ 30",
+     "tittel": "Manuelt nødavstengningssytem",
+     "ledd": [
+      "1. Manuell nødavstegning skal kunne utføres i henhold til Sjøfartsdirektoratets til enhver tid gjeldende forskrift om sikringstiltak mot brann på flyttbare innretninger.\n2. Dessuten skal det kunne utføres manuell nødavstegning av:\n- den produksjonstekniske installasjonen, inkludert trykkavlastning,\n- lasteoljepumper\n3. Det skal være mulig å nødavstenge brønnstrømmen av olje og gass nærmest mulig det sted der denne strømmen kommer om bord i den flyttbare innretningen, for eksempel rett etter der stigerør avhenges.\n4. Manuell nødavstengning skal som et minimum kunne utføres fra bemannede kontrollstasjoner/nødkontrollstasjoner. Mest omfattende nødavstengning skal også kunne aktiveres fra evakueringsstasjonene."
+     ],
+     "endringer": [
+      "Endret ved forskrift 2 mars 1999 nr. 410 (i kraft 1 sept 1999)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-11-paragraf-3",
+     "nummer": "§ 31",
+     "tittel": "Automatisk nødavstengningssystem",
+     "ledd": [
+      "1. Automatisk nødavstegning skal være i henhold til Sjøfartsdirektoratets til enhver tid gjeldende forskrift om sikringstiltak mot brann på flyttbare innretninger.\n2. Automatisk nødavstengning av den produksjostekniske installasjonen og lasteoljepumpesystem skal aktiveres ved gass- og/eller branndeteksjon i områder med produksjonsystemer/utstyr. Automatisk nødavstengning av den produksjonstekniske installasjonen skal også aktiveres ved unormale hendelser som f.eks:\n- tap av gassavbrenningsfunksjon («groundflare»),\n- høyt nivå i væskeutskiller for fakkelsystem,\n- tap av instrumentluft,\n- brann i maskinrom,\n- andre relevante kritiske hendelser som fremkommer i en risikoanalyse.\n3. Ved branndeteksjon og automatisk nødavstenging av den produksjonstekniske installasjonen skal trykkavlastningsventiler åpnes automatisk. Trykkavlasting med trykkavlastingstider skal som minimun være i henhold til API-RP 520 og 521. Høytrykks- og lavtrykkssystemer skal kunne trykkavlastes samtidig. Det skal tas hensyn til eventuell hydratdannelse ved slik trykkavlastning.\n4. Det skal indikeres i kontrollstasjon/nødkontrollstasjon hva som er til nødavstavstengt og hvilket utstyr som er blitt automatisk nødavstengt. Det skal alarmfiltrering eller lignende slik at første alarmindikering kan identifiseres.\n5. Ved nødavstenging av den produksjonstekniske installasjonen skal viktig maskineri som benytter gass fra prosessen skifte automatisk over til annen brennstoffkilde. Tilsvarende må fakkelsystemet ved bortfall av brenngass skifte automatisk til annen gass, f.eks. propan. Fakkelsystemet skal som minimum konstrueres i henhold til API-RP/520 og 521.\n6. Nødavstengingssystemet skal ved systemfeil gå til sikreste posisjon («fail safe»). I prosess og brønnhodet innebærer dette hvilestrømsprinsipp for det elektriske kontrollsystemet.\n7. Ved nødavstenging må stengeventiler foran det produksjonstekniske utstyret, f.eks. brønnventiler, nødavstengingsventiler i brønnhoder, manifoldventiler stenges i riktig rekkefølge og med tidsforsinkelse, slik at ikke farlige trykkforhold oppstår.\n8. Ventilasjonsspjeld som lukkes ved nødavstenging av boligkvarter og andre rom hvor det er særlig påkrevet å forhindre gassinntreglung, skal være av type som er testet for særlig lav lekkasjerate, f.eks. lavere enn 300 (m/h/m2) ved differensialtrykk = 2000 Pa.\n9. Hydraulikksystem for å lukke nødavstengingsventiler m.m., skal være anordnet med filtreringsutstyr for kontinuerlig filtrering av hydraulikkoljen (pumpe med off-line filter)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-11-paragraf-4",
+     "nummer": "§ 32",
+     "tittel": "Manuelt nødutløsningssystem",
+     "ledd": [
+      "1. Det skal kunne utføres manuell nødutløsning av:\n- stigerør, jf. § 16 nr. 16 når risikoanalyse angir at dette er aktuelt\n- ankerliner, jf. § 16 nr. 16\n- eventuell fortøyningstrosse til tankskip, jf. § 35."
+     ],
+     "endringer": [
+      "Endret ved forskrift 2 mars 1999 nr. 410 (i kraft 1 sept 1999)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-12",
+   "navn": "kapXII",
+   "overskrift": "Kapittel XII: Andre spesielle av og tiltak mot forurensning",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-12-paragraf-1",
+     "nummer": "§ 33",
+     "tittel": "Nødkraft og nødkraftforbrukere",
+     "ledd": [
+      "1. Nødkraftkilden skal være slik plassert på innretningen at en ulykkessituasjon i produksjon/brønnhodet ikke fører til at både hovedkraft og nødkraft må nedstenges samtidig. Det skal tas hensyn til dominerende vindretning i forhold til innretningen rør det gjelder plasseringen av nødkraftkilden.\n2. Eksosrør skal ikke ha temperatur som overstiger tenntemperaturen til den aktuelle gass som produseres eller lagres på innretningen.\n* For testing av tenntemperatur vises til IEC-standard. Publikasjon 79-4 (1975): Electrical apparatus for explosive gas atmospheres, Part 4: Method of test for ignition temperature, og supplement publikasjon 79-4A.\n3. Turretmaskineriets lager og løftesystem skal kunne forsynes med nødkraft. Dette gjelder også utstyr på turret som må kunne frakoples p.g.a. rotasjonsbegrensninger.\n4. Ventilasjonssystem i eksplosjonsfarlige områder skal kunne forsynes fra nødkraftkilde."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-12-paragraf-2",
+     "nummer": "§ 34",
+     "tittel": "Sikringstiltak mot forurensning",
+     "ledd": [
+      "Den flyttbare innretningen skal være konstruert og ha et arrangement som forhindrer at det oppstår akutt foruresning fra fra fartøyets lagrings eller losseoverføringssystem.[*] Prosedyrer for operering av arrangement skal inntas i operasjonsmanualen."
+     ],
+     "fotnoter": [
+      {
+       "nr": "*",
+       "tekst": "Vedrørende utslipp av oljedamper vises til IMO; «Standard for vapour emission control systems»."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-13",
+   "navn": "kapXIII",
+   "overskrift": "Kapittel XIII: Laste- og fortøyningssystem",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrift 2 mars 1999 nr. 410 (i kraft 1 sept 1999)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-13-paragraf-1",
+     "nummer": "§ 35",
+     "tittel": "Laste- og fortøyningssystem",
+     "ledd": [
+      "1. Laste- og fortøyningssystem skal opereres innenfor systemets konstruksjons- og operasjonsbegrensninger. Instrukser for lastoverføring og frakopling skal foreligge ombord på innretningen og på lasteskipet.\n2. Normal- og nødutløsning av eventuell fortøyningstrosse skal kunne foretas opp til trossens bruddlast. Det skal være etablert prosedyrer som sikrer at lasteslangen ikke utsettes for uforutsette belastninger ved normal- eller nødutløsning av trosseforbindelsen eller ved brudd på trosseforbindelsen.\n3. Laste- og fortøyningssystemets kapasiteter i form av tillatt strekk, trykk og bevegelsesfrihet skal være beregnet og oppgitt i operasjonsmanualen. Ved beregning skal det benyttes anerkjente standarder som tar hensyn til de dynamiske forhold som kan være tilstede ved lasting offshore.\n4. Frigjøring av lasteslange skal ikke kunne utføres før lastepumper og lastesystemets ventiler er stengt.\n5. Det skal være arrangert med kommunikasjonsmuligheter mellom alle steder hvorfra lasteoperasjonen kan påvirkes. Det skal være visuell oversikt over alle systemer som forutsettes betjent/overvåket.\n6. Laste- og fortøyningssystemet skal være instrumentert for måling av strekk i lasteslange og fortøyningstrosse, avstand mellom innretning og lasteskip og trykk i lasteslange. Videre skal det være arrangert med nødstopp for lastoljepumper og lasteventiler.\n7. Diverse sikkerhetskrav:\na. Arrangement for drenering av lastoljerør skal anordnes.\nb. Lastoljerør skal kunne fylles med nøytralgass. Det skal tas forholdsregler for isolering av nøytralgassanlegg fra lastoljerørsystemet.\nc. Alle åpninger og luftinntak i området innenfor 10 m fra lasteslangens koblingsstykke skal holdes lukket mens lasting pågår.\nd. Lasteområdet skal kunne overrisles med skum.\ne. Lokal kontrollstasjon skal ha overrislingsanlegg.\nf. Lokal kontrollstasjon skal være ventilert til overtrykk. Ventilasjonsinntak skal være plassert i sikkert område.\n8. Det skal være satt opp et vedlikeholds- og testprogram for lastesystemet. Vedlikeholds- og testprogrammet skal inntas i operasjonsmanualen."
+     ],
+     "endringer": [
+      "Endret ved forskrift 2 mars 1999 nr. 410 (i kraft 1 sept 1999)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-14",
+   "navn": "kapXIV",
+   "overskrift": "Kapittel XIV: Vedlikehold, drift og bemanning",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-14-paragraf-1",
+     "nummer": "§ 36",
+     "tittel": "Reservedeler og vedlikeholdssystem",
+     "ledd": [
+      "1. Rederiet skal ha et vedlikeholds- og reservedelssystem. Vedlikeholdssystemet skal omfatte skrog/tanker og alle systemer og komponenter som beskrives i denne forskrift, og dekke de betingelser om vedlikehold, testing og kontinuerlig kontroll mv. som stilles her.\n2. Rederiet er ansvarlig for at reservedeler er tilgjengelige, slik at reparasjon og utskifting kan skje innenfor en tidsramme som ikke vil forringe sikkerheten om bord."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 2 mars 1999 nr. 410 (i kraft 1 sept 1999), 11 april 2003 nr. 544 (i kraft 1 juli 2003), 29 juni 2007 nr. 1006 (i kraft 1 juli 2007)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-14-paragraf-2",
+     "nummer": "§ 37",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Opphevet ved forskrift 2 mars 1999 nr. 410 (i kraft 1 sept 1999)."
+     ],
+     "opphevet": "1999-09-01"
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-14-paragraf-3",
+     "nummer": "§ 38",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Opphevet ved forskrift 2 mars 1999 nr. 410 (i kraft 1 sept 1999)."
+     ],
+     "opphevet": "1999-09-01"
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-15",
+   "navn": "kapXV",
+   "overskrift": "Kapittel XV: Avsluttende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-15-paragraf-1",
+     "nummer": "§ 39",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Denne forskrift trer i kraft den 1. april 1994."
+     ],
+     "endringer": [
+      "Endret ved forskrift 29 juni 2007 nr. 1006 (i kraft 1 juli 2007, tidligere § 40)."
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,424 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2014-12-19-1841",
+ "dokumentid": "SF/forskrift/2014-12-19-1841",
+ "departement": [
+  "Landbruks- og matdepartementet",
+  "Nærings- og fiskeridepartementet"
+ ],
+ "etat": [
+  "Avdeling for matpolitikk"
+ ],
+ "kunngjort_i": "I 2014 hefte 18",
+ "ikraft": "2015-01-01",
+ "siste_endring_ikraft": "2022-04-28",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2022-04-06-635",
+   "tekst": "forskrift/2022-04-06-635 fra 2022-04-28"
+  }
+ ],
+ "endrer": "forskrift/1965-03-19-9941\nforskrift/1990-02-05-144",
+ "gjelder_for": "Svalbard",
+ "hjemmel": [
+  {
+   "ref": "lov/2001-06-15-75/§24",
+   "tekst": "lov/2001-06-15-75/§24"
+  },
+  {
+   "ref": "lov/2003-12-19-124/§3",
+   "tekst": "lov/2003-12-19-124/§3"
+  },
+  {
+   "ref": "lov/2003-12-19-124/§6",
+   "tekst": "lov/2003-12-19-124/§6"
+  },
+  {
+   "ref": "lov/2003-12-19-124/§14",
+   "tekst": "lov/2003-12-19-124/§14"
+  },
+  {
+   "ref": "lov/2003-12-19-124/§29",
+   "tekst": "lov/2003-12-19-124/§29"
+  },
+  {
+   "ref": "forskrift/2003-12-19-1790",
+   "tekst": "forskrift/2003-12-19-1790"
+  },
+  {
+   "ref": "lov/2009-06-19-97/§36",
+   "tekst": "lov/2009-06-19-97/§36"
+  },
+  {
+   "ref": "forskrift/2010-06-11-814",
+   "tekst": "forskrift/2010-06-11-814"
+  }
+ ],
+ "kunngjort": "2015-01-07 15:20",
+ "korttittel": "Forskrift om varsel og melding om sjukdom hos dyr på Svalbard",
+ "tittel": "Forskrift om varsel og melding om sjukdom hos dyr på Svalbard",
+ "annet": "Hjemmel: Fastsatt av Landbruks- og matdepartementet og Nærings- og fiskeridepartementet 19. desember 2014 med hjemmel i lov 15. juni 2001 nr. 75 om veterinærer og annet dyrehelsepersonell § 24, lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) § 3, § 6, § 14 og § 29, jf. delegeringsvedtak 19. desember 2003 nr. 1790, og lov 19. juni 2009 nr. 97 om dyrevelferd § 36, jf. delegeringsvedtak 11. juni 2010 nr. 814.\nEndret ved forskrifter 1 april 2019 nr. 461, 6 april 2022 nr. 635 (i kraft 28 april 2022, bl.a. tittel).",
+ "refid": "forskrift/2014-12-19-1841",
+ "eli": "/eli/forskrift/2014/12/19/1841",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2014-12-19-1841",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Formål",
+   "ledd": [
+    "Forskriften skal fremme god dyrehelse og derved bidra til god folkehelse og dyrevelferd ved å sikre at Mattilsynet får nødvendige opplysninger om sjukdom hos dyr. Forskriften skal også bidra til å ivareta hensynet til miljøet."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Virkeområde",
+   "ledd": [
+    "Forskriften gjelder veterinærers og laboratoriers plikt til å varsle og gi melding til Mattilsynet om sjukdom hos pattedyr, herunder sjøpattedyr, fugler, reptiler, amfibier, bier og humler. Forskriften gjelder også veterinærers og laboratoriers plikt til å videresende isolater.",
+    "Forskriften gjelder sjukdommer hos dyr på Svalbard."
+   ],
+   "endringer": [
+    "Endret ved forskrifter 1 april 2019 nr. 461 (i kraft 1 juni 2019), 6 april 2022 nr. 635 (i kraft 28 april 2022)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Definisjoner",
+   "ledd": [
+    "I denne forskriften gjelder følgende definisjoner:\na. «sjukdom hos dyr»: tilfeller hvor dyr viser tegn på svekket helsetilstand eller hvor prøver fra dyr viser forekomst av smittestoffer, inkludert antibiotikaresistente bakterier, eller andre agens som kan føre til svekket helsetilstand for dyr eller mennesker.\nb. «A-, B- og C-sjukdom»: kategorisering av sjukdommer som fastsatt i vedleggene til denne forskriften."
+   ],
+   "endringer": [
+    "Endret ved forskrift 1 april 2019 nr. 461 (i kraft 1 juni 2019)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Varsel",
+   "ledd": [
+    "Veterinærer og laboratorier skal umiddelbart varsle Mattilsynet muntlig dersom de påviser eller får grunn til mistanke om A- eller B-sjukdom hos dyr. Varselet skal i tillegg og så snart som mulig sendes skriftlig via Mattilsynets meldesystem.",
+    "Varslingsplikt etter første ledd gjelder uansett ved påvisning av eller grunn til mistanke om at dyr har sjukdom som oppfyller ett eller flere av disse vilkårene:\na. kan medføre fare for død eller alvorlig helseskade hos mennesker\nb. kan føre til at et større antall dyr blir utsatt for sjukdom\nc. kan utløse store økonomiske tap for samfunnet\nd. kan gi andre vesentlige samfunnsmessige konsekvenser\ne. antas ikke å forekomme i Norge\nf. har uvanlig utbredelse\ng. svekker dyrets helsetilstand på uvanlig måte eller i uvanlig høy grad.",
+    "Plikten til å varsle gjelder ikke nye tilfeller av sjukdommen i besetninger som Mattilsynet har pålagt restriksjoner."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Melding",
+   "ledd": [
+    "Laboratorier som påviser nye tilfeller av sjukdom i besetninger som Mattilsynet har pålagt restriksjoner, skal gi Mattilsynet skriftlig melding. Meldingen skal sendes innen 24 timer etter påvisningen.",
+    "Laboratorier som påviser antibiotikaresistente bakterier som fastsatt i vedlegget over C-sjukdommer, skal gi Mattilsynet skriftlig melding. Meldingen skal sendes så snart som mulig og senest innen 7 dager etter påvisningen. Dette gjelder likevel ikke dersom det er inngått avtale mellom laboratoriet og Mattilsynet om at melding skal gis på en annen måte eller på et annet tidspunkt.",
+    "Veterinærer som påviser C-sjukdom hos dyr, skal gi Mattilsynet skriftlig melding. Meldingen skal sendes så snart som mulig og senest 7 dager etter påvisningen. Når prøver sendes til analyse for undersøkelse i laboratorium utenfor Norge, skal skriftlig melding sendes av veterinær som er ansvarlig for prøvetakingen."
+   ],
+   "endringer": [
+    "Endret ved forskrift 1 april 2019 nr. 461 (i kraft 1 juni 2019)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "Nødvendige opplysninger",
+   "ledd": [
+    "Varsel etter § 4 og melding etter § 5 skal inneholde nødvendige opplysninger om\na. varsleren eller melderen\nb. sjukdommen, herunder symptomer og eventuell diagnose\nc. dyreholdets identitet og art\nd. dyrene som er rammet av sjukdommen\ne. tidspunktet for mistanke eller påvisning."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 6a",
+   "tittel": "Isolater og nye prøver",
+   "ledd": [
+    "Laboratorier skal på anmodning fra Mattilsynet sende bakterieisolater til Veterinærinstituttet."
+   ],
+   "endringer": [
+    "Tilføyd ved forskrift 1 april 2019 nr. 461 (i kraft 1 juni 2019)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-8",
+   "nummer": "§ 7",
+   "tittel": "Tilgang til opplysninger",
+   "ledd": [
+    "Dyreeiere skal ha tilgang til opplysninger om hvilke tilfeller av sjukdom hos egne dyr som er varslet eller meldt til Mattilsynet.",
+    "Veterinærer og laboratorier skal ha tilgang til opplysninger om hvilke tilfeller av sjukdom som de selv har varslet eller meldt til Mattilsynet.",
+    "Referanselaboratorier skal ha tilgang til opplysninger om hvilke tilfeller av sjukdom innen deres ansvarsområde som er varslet eller meldt til Mattilsynet."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-9",
+   "nummer": "§ 8",
+   "tittel": "Tilsyn og vedtak",
+   "ledd": [
+    "Mattilsynet fører tilsyn og kan fatte nødvendige vedtak for gjennomføring av bestemmelsene i denne forskriften."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-10",
+   "nummer": "§ 9",
+   "tittel": "Dispensasjon",
+   "ledd": [
+    "Mattilsynet kan i særlige tilfeller dispensere fra bestemmelsene i forskriften dersom det ikke vil stride mot Norges internasjonale forpliktelser, herunder EØS-avtalen."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-11",
+   "nummer": "§ 10",
+   "tittel": "Straff",
+   "ledd": [
+    "Overtredelse av denne forskriften eller enkeltvedtak gitt i medhold av den, er straffbart i henhold til dyrehelsepersonelloven § 37, matloven § 28 og dyrevelferdsloven § 37."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-12",
+   "nummer": "§ 11",
+   "tittel": "Ikrafttredelse mv.",
+   "ledd": [
+    "Forskriften trer i kraft 1. januar 2015. Samtidig oppheves forskrift 19. mars 1965 nr. 9941 om fortegnelse over sjukdommer som omfattes av matloven og forskrift 5. februar 1990 nr. 144 om instrukser for A-, B- og C-sjukdommer (dyresjukdommer)."
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "vedlegg",
+   "overskrift": "Vedlegg. A-sjukdommer",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "| Norsk betegnelse | Internasjonal betegnelse | Smittestoff\n| Afrikansk hestepest (AHP) | African horse sickness (AHS) | AHS-virus (Orbivirus, Rheoviridae)\n| Afrikansk svinepest (ASP) | African swine fever (ASF) | ASF-virus (Asfivirus, Asfariviridae)\n| Aviær influensa (AI) | Avian influenza (AI) | AI-virus (Infuenzavirus A, Orthomyxoviridae)\nGjelder høypatogen (HP) AI hos alle fugler og lavpatogen (LP) AI subtype H5 eller H7 hos tamme fugler\n| Blåtunge | Bluetongue | Bluetongue-virus (Orbivirus, Rheoviridae)\n| Brucellose | Brucellosis | Brucella spp.\n| Ebola- og marburgvirus | Ebola hemorrhagic fever and Marburg hemorrhagic fever | Ebolavirus (Ebolavirus, Filoviridae), Marburg virus (Marburgvirus, Filoviridae)\n| Epizootisk hemoragisk sjukdom hos hjortedyr | Epizootic haemorrhagic disease of deer (EHD) | EHD-virus, (Orbivirus, Rheoviridae)\n| Infeksiøs laryngotrakeitt (ILT) | Avian infectious laryngotracheitis (ILT) | ILT-virus (Gallid herpesvirus 1, Alphaherpesvirinae, Herpesviridae)\n| Klassisk svinepest (KSP) | Classical swine fever (CSF) | CSF-virus (Pestivirus, Flaviviridae)\n| Kvegpest[*] | Rinderpest | Rinderpestvirus (Morbillivirus, Paramyxoviridae)\n| Lumpy skin disease (LSD) | Lumpy skin disease (LSD) | LSD-virus (Capropoxvirus, Poxviridae)\n| Miltbrann | Anthrax | Bacillus anthracis\n| Munn- og klauvsjuke (MKS) | Foot and mouth disease (FMD) | FMD-virus (Aphtovirus, Picornaviridae)\n| Newcastlesjuke | Newcastle disease (ND) | ND-virus (Aviært paramyxovirus 1, Avulavirus, Paramyxoviridae)\n| Ondartet beskjelersjuke | Dourine | Trypanosoma equiperdum\n| Ondartet lungesjuke hos storfe | Contagious bovine pleuropneumonia (CBPP) | Mycoplasma mycoides subsp. mycoides, SC\n| Ondartet smittsom griselammelse | Teschovirus encephalomyelitis | Porcine teshovirus serotype 1 (PTV-1) (Teschovirus, Picornaviridae)\n| Pseudorabies | Aujeszky's disease (AD) | AD-virus (Suis herpesvirus 1, Alphaherpesvirinae, Herpesviridae)\n| Rabies | Rabies | Rabiesvirus (Lyssavirus, Rhabdoviridae)\n| Rift Valley fever | Rift Valley fever (RVF) | RVF-virus (Phlebovirus, Bunyaviridiae)\n| Saue- og geitekopper | Sheep and goat pox | Saue- og geitekoppevirus (Capripoxvirus, Poxviridae)\n| Saueskabb | Scabies psoroptica ovium (sheep scab) | Psoroptes ovis.\n| Smittsom gastroenteritt | Transmissible gastroenteritis of swine (TGE) | TGE-virus (Alphacoronavirus, Coronaviridae)\n| Smittsomt blæreutslett hos gris | Swine vesicular disease (SVD) | SVD-virus (Enterovirus, Picornaviridae)\n| Småfepest | Peste des petits ruminants (PPR) | PPR-virus (Morbillivirus, Paramyxoviridae)\n| Snive | Glanders | Burkholderia mallei\n| Vesikulær stomatitt (VS) | Vesicular stomatitis (VS) | VS-virus (Vesikulovirus, Rhabdoviridae)"
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "vedlegg",
+   "overskrift": "Vedlegg. B-sjukdommer",
+   "innhold": [
+    {
+     "type": "seksjon",
+     "id": "kapittel-2-kapittel-1",
+     "navn": "kap1",
+     "overskrift": "1. Sjukdommer hos flere dyrearter",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "| Norsk betegnelse | Internasjonal betegnelse | Smittestoff\n| Ekinokokkose | Echinococcosis/hydatidosis | Echinococcus mulitilocularis og Echinococcus granulosus s.l.\n| Klamydiainfeksjoner hos fugler, inkludert psittakose og ornithose | |\n| Leptospirose | Leptospirosis | Leptospira ssp.\n| Overførbare spongiforme encefalopatier, unntatt skrapesjuke hos småfe og BSE hos storfe | Transmissible spongiform encephalopathy (TSE), inkludert Chronic wasting disease (CWD) | prion (PrPSc)\n| Paratuberkulose | Paratuberculosis, Johne's disease | Mycobacterium avium subsp. paratuberculosis\n| Salmonellainfeksjoner | Salmonellosis | Salmonella spp.\n| Trikinose | Trichinellosis | Trichinella spp.\n| Tuberkulose | Tuberculosis | Mycobacterium bovis og Mycobacterium tuberculosis"
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-2-kapittel-2",
+     "navn": "kap2",
+     "overskrift": "2. Hest",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "| Norsk betegnelse | Internasjonal betegnelse | Smittestoff\n| Infeksiøs anemi | Equine infectious anemia (EIA) | EIA-virus (Lentivirus, Retroviridae)\n| Kverke | Strangles | Streptococcus equi subsp. equi\n| Virusencefalomyelitt i form av Eastern equine encephalomyelitis (EEE), Western equine encephalomyelitis (WEE), Venezuelan equine encephalomyelitis (VEE), Japanese encephalitis (JE) eller West Nile fever (WNF) | Equine encephalomyelitis |\nEEE-virus (Alphavirus, Togaviridae)\nWEE-virus (Alphavirus, Togaviridae)\nVEE-virus (Alphavirus, Togaviridae)\nJE-virus (Alphavirus, Togaviridae) WNF-virus (Alphavirus, Togaviridae)"
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-2-kapittel-3",
+     "navn": "kap3",
+     "overskrift": "3. Storfe",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "| Norsk betegnelse | Internasjonal betegnelse | Smittestoff\n| Bovin genital campylobakteriose | Bovine genital campylobacteriosis | Campylobacter fetus subsp. venerealis\n| Bovin spongiform encefalopati (BSE) | Bovine spongiform encephalopathy | prion (PrPSc)\n| Bovin tritrichomoniasis | Tritrichomoniasis | Tritrichomonas foetus\n| Bovin virusdiaré (BVD) | Bovine viral diarrhoea (BVD) | BVD-virus (Pestivirus, Flaviviridae)\n| Dyreassosiert MRSA (LA-MRSA) | Livestock associated Methicillin-resistant Staphylococcus aureus (LA-MRSA) | Meticillinresistente Staphylococcus aureus (MRSA) som har vist eller viser evne til å etablere seg og spres mellom dyr i husdyrbesetninger.\n| Enzootisk bovin leukose (EBL) | Enzootic bovine leukosis (EBL) | BL-virus (Retrovirus, Retroviridae)\n| Infeksiøs bovin rhinotrakeitt\nInfeksiøs pustuløs vulvovaginitt (IBR/IPV) | Infectious bovine rhinotracheitis Infectious pustular vulvovaginitis (IBR/IPV) | IBR/IPV-virus (Bovine herpesvirus 1 (BoHV-1), Herpesviridae)\n| Ringorm | Ringworm | Trichophyton verrucosum"
+      },
+      {
+       "type": "endring",
+       "tekst": "Endret ved forskrift 1 april 2019 nr. 461 (i kraft 1 juni 2019)."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-2-kapittel-4",
+     "navn": "kap4",
+     "overskrift": "4. Småfe",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "| Norsk betegnelse | Internasjonal betegnelse | Smittestoff\n| Artritt-encefalitt hos sau og geit | Caprine arthritis-encephalitis (CAE) | CAE-virus (Lentivirus, Retrovirus, Retroviridae)\n| Border disease (BD) | Border disease (BD) | BD-virus (Pestivirus, Flaviviridae)\n| Dyreassosiert MRSA (LA-MRSA) | Livestock associated Methicillin-resistant Staphylococcus aureus (LA-MRSA) | Meticillinresistente Staphylococcus aureus (MRSA) som har vist eller viser evne til å etablere seg og spres mellom dyr i husdyrbesetninger.\n| Enzootisk abort hos søye | Enzootic abortion of ewes (ovine chlamydiosis) | Chlamydophila abortus\n| Fotråte (smittsom klauvsjuke) | Infectious foot rot | Virulente stammer av Dichelobacter nodosus\n| Infeksiøs agalakti | Contagious agalactia | Mycoplasma agalactiae\n| Lungeadenomatose | Ovine pulmonary adenocarsinoma | Jaagsiekte sheep virus (retrovirus, Retroviridae)\n| Mædi | Maedi-visna viral infection | MV-virus (Lentivirus, ovine retrovirus, Retroviridae)\n| Skrapesjuke | Scrapie | prion (PrPSc)\n| Smittsom pleuro-pneumoni hos geit | Contagious caprine pleuropneumonia (CCPP) | Mycoplasma capricolum subsp. capripneumoniae"
+      },
+      {
+       "type": "endring",
+       "tekst": "Endret ved forskrift 1 april 2019 nr. 461 (i kraft 1 juni 2019)."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-2-kapittel-5",
+     "navn": "kap5",
+     "overskrift": "5. Svin",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "| Norsk betegnelse | Internasjonal betegnelse | Smittestoff\n| Dyreassosiert MRSA (LA-MRSA) | Livestock associated Methicillin-resistant Staphylococcus aureus (LA-MRSA) | Meticillinresistente Staphylococcus aureus (MRSA) som har vist eller viser evne til å etablere seg og spres mellom dyr i husdyrbesetninger.\n| Infeksjon med porcint respiratorisk coronavirus (PRCV) | Porcine respiratoty coronavirus infection | PRC-virus (Alphacoronavirus, Coronaviridae)\n| Influensa | Swine influenza | Influensa virus A (Influenzavirus A, Orthomyxoviridae)\n| Nekrotiserende enteritt (tarmbrann) | Clostridium perfringens type C infection | Clostridium perfringens type C\n| Porcin epidemisk diaré (PED) | Porcine epidemic diarrhoea (PED) | PED-virus (Alphacoronavirus, Coronaviridae)\n| Porcint respiratorisk og reproduksjonssyndrom (PRRS) | Porcine respiratory and reproductive syndrome (PRRS) | PRRS-virus (Arterivirus, Arteriviridae)"
+      },
+      {
+       "type": "endring",
+       "tekst": "Endret ved forskrift 1 april 2019 nr. 461 (i kraft 1 juni 2019)."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-2-kapittel-6",
+     "navn": "kap6",
+     "overskrift": "6. Fjørfe",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "| Norsk betegnelse | Internasjonal betegnelse | Smittestoff\n| Aviær rhinotrakeitt, inkludert rhinotrakeitt hos kalkun | Avian rhinotracheitis (ART) Turkey rhinotracheitis (TRT) | Aviært metapneumovirus (Metapneumovirus, Paramyxoviridae)\n| Egg dropp syndrom (EDS-76) | Egg drop syndrome (EDS-76) | EDS-76-virus (Adenovirus, Adenoviridae)\n| Hønsekolera | Fowl cholera | Pasteurella multocida subsp. multocida\n| Infeksiøs bronkitt (IB) | Avian infectious bronchitis (IB) | IB-virus (Gammacoronavirus, Coronaviridae)\n| Mycoplasmose | Avian mycoplasmosis | Mycoplasma gallisepticum og Mycoplasma meleagridis\n| Paramyxovirus-infeksjon hos tamduer, unntatt Newcastlesjuke | Avian paramyxovirus infection (except Newcastle disease) | Aviært paramyxovirus 1, (Avulavirus, Paramyxoviridae)\n| Tuberkulose | Avian tuberculosis | Mycobacterium avium subsp. avium\n| Virusenteritt hos and | Duck virus enteritis (DVE) | Andeenterittvirus (Alphaherpesvirus, Herpesviridae)\n| Virushepatitt hos and | Duck virus hepatitis (DVH) | DVH I, II, III.\nDVH I (Avihepatovirus, Picornaviridae)\nDVH II og III (Astrovirus 1og 2, Avastrovirus, Astroviridae)"
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-2-kapittel-7",
+     "navn": "kap7",
+     "overskrift": "7. Bier og humler",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "| Norsk betegnelse | Internasjonal betegnelse | Parasitt eller smittestoff\n| Liten kubebille | Small Hive Beetle | Aethina tumida\n| Lukket yngelråte | American foulbrood of honey bees | Paenibacillus larvae\n| Steinyngel | Stonebrood | Aspergillus flavus, A. fumigatus eller A. niger\n| Tropilaelaps-midd | Tropilaelapsinfestation of honey bees | Tropilaelaps ssp.\n| Åpen yngelråte | European foulbrood | Melissococcus plutonius"
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-2-kapittel-8",
+     "navn": "kap8",
+     "overskrift": "8. Hund, katt, pelsdyr, gnagere, haredyr og primater",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "| Norsk betegnelse | Internasjonal betegnelse | Smittestoff\n| Apekopper | Monkey pox | Monkey pox virus (Orthopoxvirus Poxviridiae)\n| Europeisk brunhare syndrom (EBHS) | European brown hare syndrom | EBHS-virus (Lagovirus, Caliciviridiae)\n| Leishmaniose | Leishmaniosis | Leishmania ssp.\n| Myxomatose | Myxomatosis | Myxomavirus (Leporipoxvirus, Poxviridae)\n| Ringorm hos pelsdyr | Ringworm | Microsporum canis\n| Sarcoptesskabb hos rev i fangenskap | Sarcopic mange in foxes | Sarcoptes scabiei\n| Valpesjuke | Distemper | Valpesjukevirus(Morbillivirus, Paramyxoviridae)\n| Viral hemorrhagisk sjukdoma hos kanin | Rabbit haemorrarhagisc disease (RHD) | RHD-virus (Lagovirus, Caliciviridae)\n| Virusenteritt hos mink | Parvovirus enteritis | Parvovirus (Parvoviridae)"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "vedlegg",
+   "overskrift": "Vedlegg. C-sjukdommer",
+   "innhold": [
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-1",
+     "navn": "kap1",
+     "overskrift": "1. Hest",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "| Norsk betegnelse | Internasjonal betegnelse | Smittestoff\n| Godartet beskjelersjuke | Equine coital exanthema | Equin herpesvirus 3 (EHV-3) Herpesviridae\n| Hesteinfluensa | Equine influenza | Influenza virus A H7N7 eller H3N8 (Influenzavirus A, Orthomyxoviridae)\n| Smittsom metritt | Contagious equine metritis (CEM) | Taylorella equigenitalis\n| Rhinopneumonitt (virusabort) | Equine rhinopneumonitis | Equine herpevirus -1 eller -4 (EHV-1, EHV-4) (Herpesviridae)\n| Virusarteritt | Equine viral artheritis (EVA) | Equine arteritis virus (Arteriviridae)"
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-2",
+     "navn": "kap2",
+     "overskrift": "2. Storfe",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "| Norsk betegnelse | Internasjonal betegnelse | Smittestoff\n| Cysticerkose hos storfe | Bovine cysticercosis | Taenia saginata\n| Smittsom diaré (vinterdysenteri) | Winter dysentery in cattle | Bovine coronavirus (BCV) (Coronaviridae)"
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-3",
+     "navn": "kap3",
+     "overskrift": "3. Småfe",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "| Norsk betegnelse | Internasjonal betegnelse | Smittestoff\n| Byllesjuke | Caseous lymphadenitis in sheep and goats | Actinobacillus lignieresii og Corynebacterium pseudotuberculosis\n| Munnskurv | Contagious ecthyma (orf) | Ecthymavirus (Parapoxvirus, Poxiviridae)\n| Smittsom øyebetennelse, unntatt klamydiainfeksjoner | Infectious keratoconjunctivitis | Mycoplasma conjunctivae, Branhamella (Moraxella) ovis"
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-4",
+     "navn": "kap4",
+     "overskrift": "4. Svin",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "| Norsk betegnelse | Internasjonal betegnelse | Smittestoff\n| Circovirusinfeksjon hos svin | Porcine circovirus diseases (PCVD) | Porcint circovirus type 2 (PCV2) (Circovirus, Circoviridae)\n| Cysticerkose hos svin | Porcine cysticercosis | Taenia solium\n| Smittsom griselammelse (virusencefalomyelitter), unntatt Teschen disease | Benign enzootic paresis (Talfan disease) | Porcine techovirus diverse serotyper (Picornaviridae)\n| Svinedysenteri | Swine dysentery | Brachyspira hyodysenteriae\n| Tarmadenomatose | Proliferative enteropathy | Lawsonia intracellularis"
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-5",
+     "navn": "kap5",
+     "overskrift": "5. Fjørfe",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "| Norsk betegnelse | Internasjonal betegnelse | Smittestoff\n| Smittsom hjerne- og ryggmargbetennelse hos høns – aviær encefalomyelitt (AE) | Avian encephalomyelitis (AE) | Aviært encephalomyelitvirus (AE-virus) (Hepatovirus, Picornaviridae)\n| Aviær infeksiøs anemi (blåvingesjuke) | Chicken infectious anemia(CIA) | CIA-virus (Gyrovirus, Circoviridae)\n| Infeksiøs bursitt (Gumboro) | Infectious bursal disease (IBD) Gumboro disease | IBD-virus (Avibirnavirus, Birnaviridae)\n| Mykoplasmainfeksjoner – unntatt infeksjoner forårsaket av Mycoplasma gallisepticum og Mycoplasma meleagridis | Mycoplasma infections | Mycoplasma synoviae\n| Smittsom hønselammelse | Marek's disease (MD) | MD-virus (Mardivirus, Herpesviridae)"
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-6",
+     "navn": "kap6",
+     "overskrift": "6. Bier og humler",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "| Norsk betegnelse | Internasjonal betegnelse | Smittestoff\n| Nosemasjuke | Nosemosis of honey bees | Nosema apis\n| Varroainfeksjon | Varroosis of honey bees | Varroa destructor\n| Trakémiddinfeksjon | Acarapiosis of honey bees | Acarapis woodi"
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-7",
+     "navn": "kap7",
+     "overskrift": "7. Sjukdommer hos flere dyrearter",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "| Norsk betegnelse | Internasjonal betegnelse | Smittestoff\n| Colistinresistente Enterobacteriacae | Colistin resistant Enterobacteriaceae | Colistin resistente Enterobacteriaceae\n| Dyreassosiert MRSA (LA-MRSA) hos andre dyrearter enn storfe, småfe og svin | Livestock associated Methicillin-resistant Staphylococcus aureus (LA-MRSA) | Meticillinresistente Staphylococcus aureus (MRSA) som har vist eller viser evne til å etablere seg og spres mellom dyr i husdyrbesetninger.\n| ESBL/AmpC produserende Enterobacteriacae | ESBL/pAmpC producing Enterobacteriaceae | 3. og 4. generasjons cefalosporin resistente Enterobacteriaceae\n| Fluorokinolonresistente Gram-negative bakterier | Fluoroquinolone resistant Enterobacteriacae | Fluorokinolonresistente Gram-negative bakterier\n| Klamydiainfeksjoner hos andre dyrearter enn småfe, fjørfe og andre fugler | Chlamydia infections | Chlamydia spp.\n| Karbapenemaseproduserende/Karbapenemresistente Enterobacteriacae | Carbapenemaseproducing/Carbapenem resistant Enterobacteriacae | Karbapenemaseproduserende/karbapenem resistente Enterobacteriacae\n| Klostridieinfeksjoner, unntatt nekrotiserende enteritt hos svin forårsaket av Clostridium perfringens type C | Clostridial infections | Clostridium spp.\n| Kopper og koppelignende sjukdommer – unntatt saue- og geitekopper | Cow pox\nSwine pox | Orthipoxvirus (Poxviridae)\nSwinepox virus (Suipoxvirus, Poxviridae)\n| Lever- og hjernebetennelse hos rev og hund | Fox encephalitis/hepatitis contagiosa canis (HCC) | Canian adenovirus 1 (CAV-1) (Adenoviridae)\n| Linezolidresistente Enterokokker | Linezolid-resistant Enterococcus faecium og E. faecalis | Linezolid resistent Enterococcus faecium og E. faecalis\n| Listeriose | Listeriosis | Listeria monocytogenes, Listeria ivanovii\n| Louping ill | Louping ill | Louping ill virus, (Flavivirus, Flaviviridae)\n| MRSA | Methicillin-resistant Staphylococcus aureus (MRSA) | Meticillinresistente Staphylococcus aureus\n| MRSP | Methicillin-resistant Staphylococcus pseudintermedius (MRSP) | Meticillinresistente Staphylococcus pseudintermedius\n| Smittsom nysesjuke og andre luftveisinfeksjoner hos drøvtyggere og svin, unntatt A- og B-sjukdommer | | Diverse agens\n| Ondartet katarrfeber | Malignant catarrhal fever (MCF) | MCF-virus (ovine herpesvirus 2, (OvHv-2), Herpesviridae)\n| Parafilariose | Parafilariosis | Parafilaria multipapillosa (hest), Parafilaria bovicola (storfe)\n| Parvovirus-infeksjoner, unntatt virusenteritt hos mink | | Parvovirus (Parvoviridae)\n| Pasteurellose | Pasteurellosis | Pasteurella multocida/Manheimia haemolytica\n| Piroplasmose | Babesiose | Babesia bovis\n| Q-feber | Q-fever | Coxiella burnetii\n| Ringorm som ikke er B-sjukdom | Ringworm | Microsporum spp. og Trichophyton spp.\n| Sjodogg | Tick-borne fever | Anaplasma phagocytophilum\n| Toksoplasmose | Toxoplasmosis | Toxoplasma gondii\n| Tuberkulose hos pattedyr, unntatt M. tuberculosis og M. bovis | Tuberculosis | Mycobacterium avium subsp. hominisuis\n| Tularemi (harepest) | Tularemia | Francisella tularensis\n| VRE | Vankomycin resistant Enterococcus faecium og E. faecalis | Vankomycinresistente Enterococcus faecium og E. faecalis"
+      },
+      {
+       "type": "endring",
+       "tekst": "Endret ved forskrift 1 april 2019 nr. 461 (i kraft 1 juni 2019)."
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "fotnoter": [
+  {
+   "nr": "*",
+   "tekst": "Utryddet på verdensbasis pr. 2011."
+  }
+ ]
+}

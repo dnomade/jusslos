@@ -1,0 +1,47 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-1985-11-29-1994",
+ "dokumentid": "SF/forskrift/1985-11-29-1994",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "etat": [
+  "J-JU"
+ ],
+ "kunngjort_i": "I 1985 s 1223",
+ "ikraft": "1986-01-16",
+ "gjelder_for": "Norge",
+ "korttittel": "Omorganisering av Bergvesenet",
+ "tittel": "Omorganisering av Bergvesenet.",
+ "annet": "Fastsatt ved kgl.res. av 29. november 1985. Fremmet av Industridepartementet.",
+ "refid": "forskrift/1985-11-29-1994",
+ "eli": "/eli/forskrift/1985/11/29/1994",
+ "url": "https://lovdata.no/dokument/SF/forskrift/1985-11-29-1994",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Med unntak av Svalbard og Jan Mayen samles landets bergmesterdistrikter til ett distrikt med ett embetskontor ledet av en bergmester. Embetet plasseres i Trondheim."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Omorganiseringen gjennomføres trinnvis fra det tidspunktet Industridepartementet bestemmer."
+    }
+   ]
+  }
+ ]
+}

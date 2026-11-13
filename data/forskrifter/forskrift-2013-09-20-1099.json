@@ -1,0 +1,140 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2013-09-20-1099",
+ "dokumentid": "SF/forskrift/2013-09-20-1099",
+ "departement": [
+  "Justis- og beredskapsdepartementet"
+ ],
+ "etat": [
+  "Kriminalomsorgsavd."
+ ],
+ "kunngjort_i": "I 2013 hefte 13",
+ "ikraft": "2013-09-20",
+ "siste_endring_ikraft": "2020-07-24",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2020-07-24-1591",
+   "tekst": "forskrift/2020-07-24-1591"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2001-05-18-21/§4e",
+   "tekst": "lov/2001-05-18-21/§4e"
+  }
+ ],
+ "kunngjort": "2013-09-20 15:15",
+ "siste_rettelse": "2017-05-23 (§ 3)",
+ "korttittel": "Forskrift om personopplysninger i kriminalomsorgen",
+ "tittel": "Forskrift om behandling av personopplysninger i kriminalomsorgen",
+ "annet": "Hjemmel: Fastsatt ved kgl.res. 20. september 2013 med hjemmel i lov 18. mai 2001 nr. 21 om gjennomføring av straff mv. (straffegjennomføringsloven) § 4e. Fremmet av Justis- og beredskapsdepartementet.\nRettelser: 23.05.2017 (§ 3).\nEndret ved forskrift 24 juli 2020 nr. 1591.",
+ "refid": "forskrift/2013-09-20-1099",
+ "eli": "/eli/forskrift/2013/09/20/1099",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2013-09-20-1099",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Formål",
+   "ledd": [
+    "Forskriften skal sikre at kriminalomsorgen ivaretar personvernet når de behandler personopplysninger etter straffegjennomføringsloven § 4c og § 4d."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Opplysningskategorier",
+   "ledd": [
+    "Når det er nødvendig for å ivareta formålene i straffegjennomføringsloven § 4c, kan kriminalomsorgen behandle følgende:\na. personalia, herunder alias\nb. signalement, personlige kjennetegn og bilde av domfelte og innsatte\nc. kontaktopplysninger\nd. opplysninger om pårørende, barn og forsørgeransvar\ne. straffesaks- og soningsdata\nf. politiopplysninger av betydning for straffegjennomføringen\ng. helseopplysninger\nh. arbeids- og utdanningsopplysninger\ni. opplysninger mottatt fra samarbeidspartnere i forvaltningen\nj. opplysninger om domfeltes geografiske posisjon og bevegelse\nk. domfeltes biometri, herunder fingeravtrykk og ansiktssignalement\nl. andre opplysninger for å ivareta sikkerheten til tilsatte, domfelte, innsatte og samfunnet for øvrig.",
+    "Kriminalomsorgen kan behandle opplysninger om siktedes, domfeltes og innsattes personlige forhold, livsforhold og fremtidsmuligheter i forbindelse med arbeid med personundersøkelse etter straffeprosessloven § 161."
+   ],
+   "endringer": [
+    "Endret ved forskrift 24 juli 2020 nr. 1591."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Kvalitetskrav til personopplysningene",
+   "ledd": [
+    "Personopplysninger som behandles skal\na. være tilstrekkelige og relevante for formålet med behandlingen\nb. være korrekte og oppdaterte\nc. ikke lagres lenger enn nødvendig ut fra formålet med behandlingen, jf. straffegjennomføringsloven § 4c."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Behandlingen av personopplysninger som ikke er verifiserte",
+   "ledd": [
+    "Kriminalomsorgen kan behandle personopplysninger som ikke er verifiserte dersom det er nødvendig for å opprettholde ro og orden og for å ivareta sikkerheten for de tilsatte, innsatte, domfelte og samfunnet for øvrig, jf. straffegjennomføringsloven § 4c bokstav b.",
+    "Behandles personopplysninger som ikke er verifiserte, skal det nedtegnes at opplysningene ikke er verifiserte, og kilden til opplysningene skal oppgis så langt det er mulig.",
+    "Opplysningene skal søkes verifisert."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Utlevering av taushetsbelagte opplysninger",
+   "ledd": [
+    "Kriminalomsorgen kan utlevere taushetsbelagte opplysninger til offentlige organer og private aktører når den registrerte samtykker til utleveringen. Taushetsbelagte opplysninger kan også utleveres når det er i samsvar med forvaltningsloven § 13 flg., eller følger av andre bestemmelser gitt i lov eller med hjemmel i lov.",
+    "Opplysningene skal utleveres skriftlig. Kravet til skriftlighet kan fravikes dersom tidsmessige grunner gjør det nødvendig.",
+    "Kriminalomsorgen skal nedtegne hvilke opplysninger som utleveres, formålet med utleveringen og hvem som mottar opplysningene. Utleveres det opplysninger som ikke er verifiserte, skal det fremgå at opplysningene ikke er verifisert."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "Retting, sperring og sletting av personopplysninger",
+   "ledd": [
+    "Kriminalomsorgen skal av eget tiltak, eller på begjæring fra den registrerte, rette de personopplysningene som er mangelfulle. Dersom det er nødvendig, skal kriminalomsorgen supplere eller oppdatere opplysningene.",
+    "Kan personopplysningene få betydning som dokumentasjon og vil en sletting kunne påvirke den registrertes legitime interesser, skal opplysningene sperres. Sperrede opplysninger kan bare brukes til de formål som gjorde at de ikke ble slettet.",
+    "Personopplysninger skal slettes senest ti år etter at straffegjennomføringen er avsluttet, med mindre de skal arkiveres etter arkivlova.",
+    "Personopplysninger som ikke er verifiserte, kan behandles i fire måneder mens kriminalomsorgen undersøker om opplysningene er relevante og nødvendige for å ivareta formålet med behandlingen jf. § 3 bokstav a og § 4 første ledd jf. straffegjennomføringsloven § 4c bokstav b. Oppfyller ikke opplysningene kravene i § 3 bokstav a og § 4 første ledd jf. straffegjennomføringsloven § 4c bokstav b, skal de slettes umiddelbart, med mindre enkeltvedtak bygger på dem."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 7",
+   "tittel": "Tilgang til personopplysninger innad i kriminalomsorgen",
+   "ledd": [
+    "Bare tilsatte i kriminalomsorgen som skal ivareta formålene i straffegjennomføringsloven § 4c og andre som utfører tjeneste eller arbeid for kriminalomsorgen, skal ha tilgang til personopplysninger. Den behandlingsansvarlige er ansvarlig for at de som gis tilgang, har fått nødvendig opplæring i og autorisasjon til å behandle personopplysningene."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-8",
+   "nummer": "§ 8",
+   "tittel": "Saksbehandling i saker om innsyn, retting, sperring og sletting av personopplysninger",
+   "ledd": [
+    "Begjæring om innsyn, retting, sperring og sletting av personopplysninger skal behandles av lokalt nivå i kriminalomsorgen.",
+    "Gjelder begjæringen opplysninger som er mottatt fra politiet, skal begjæringen sendes avgivende organ i politiet for en uttalelse før kriminalomsorgen fatter vedtak."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-9",
+   "nummer": "§ 9",
+   "tittel": "Klage",
+   "ledd": [
+    "Den registrerte kan påklage vedtak om innsyn, retting, sperring og sletting i samsvar med straffegjennomføringsloven § 7 og forvaltningsloven kapittel VI. Klagefristen er tre uker, jf. forvaltningsloven § 29."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-10",
+   "nummer": "§ 10",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Forskriften trer i kraft straks."
+   ]
+  }
+ ]
+}

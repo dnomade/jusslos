@@ -1,0 +1,114 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2017-05-04-536",
+ "dokumentid": "SF/forskrift/2017-05-04-536",
+ "departement": [
+  "Kommunal- og distriktsdepartementet"
+ ],
+ "etat": [
+  "Planavd."
+ ],
+ "ikraft": "2017-05-15",
+ "endrer": "forskrift/2005-10-28-1259",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1935-06-07-2/§6",
+   "tekst": "lov/1935-06-07-2/§6"
+  }
+ ],
+ "kunngjort": "2017-05-08 14:15",
+ "korttittel": "Forskrift om ekom ved tinglysing av salgspant m.m. av motorvogn",
+ "tittel": "Forskrift om elektronisk kommunikasjon ved tinglysing av salgspant og leasing av motorvogn",
+ "annet": "Hjemmel: Fastsatt av Kommunal- og moderniseringsdepartementet 4. mai 2017 med hjemmel i lov 7. juni 1935 nr. 2 om tinglysing § 6 første ledd.",
+ "refid": "forskrift/2017-05-04-536",
+ "eli": "/eli/forskrift/2017/05/04/536",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2017-05-04-536",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Virkeområde",
+   "ledd": [
+    "Forskriften gjelder elektronisk kommunikasjon mellom finansforetak og Løsøreregisteret ved tinglysing av salgspant og leasing av motorvogn etter panteloven § 3-17 tredje ledd og § 3-22 annet ledd, som er signert på elektronisk medium, men som ikke omfattes av bestemmelser om elektronisk sertifikat i forskrift 3. november 1995 nr. 875 om tinglysing.",
+    "De alminnelige saksbehandlingsreglene fastsatt i lov 7. juni 1935 nr. 2 om tinglysing og forskrift 3. november 1995 nr. 875 om tinglysing gjelder med mindre annet er bestemt i denne forskrift."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Begrepsdefinisjoner",
+   "ledd": [
+    "Definisjonen av dokument og definisjonen av skriftlig i forvaltningsloven § 2 første ledd bokstav f og g gjelder tilsvarende ved tinglysing etter denne forskrift."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Godkjente brukere",
+   "ledd": [
+    "Bare brukere som er godkjent av Løsøreregisteret kan sende inn dokumenter elektronisk."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Innsendelse",
+   "ledd": [
+    "Ved elektronisk kommunikasjon av tinglysingsdata benyttes den form og fremgangsmåte som er anvist av Løsøreregisteret, herunder bruk av standardiserte elektroniske dokumenter. Løsøreregisteret fastsetter hva som er en betryggende metode for å autentisere innsenderen av et dokument og sikre meldingens integritet og ivareta hensynet til konfidensialitet og ikke-benekting."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Krav til underskrift og oppbevaring av dokumentasjon",
+   "ledd": [
+    "Salgspant og leasing av motorvogn som skal sendes inn elektronisk etter denne forskrift skal underskrives på elektronisk medium. Det er ikke nødvendig at det underskrevne dokumentet sendes tinglysingsmyndigheten. Underskrevne dokumenter må oppbevares slik at de er tilgjengelige for ettertiden. Innsender kan lagre dokumentet elektronisk, og det er krav til at man i ettertid kan kontrollere tidspunkt for underskrift.",
+    "På forespørsel skal banken oversende nødvendig dokumentasjon på avtalene til Løsøreregisteret for kontroll."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "Innføring i tinglysingsregisteret",
+   "ledd": [
+    "Løsøreregisteret kan bruke egen nummerserie for tinglysing av elektroniske dokumenter."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 7",
+   "tittel": "Underretninger fra Løsøreregisteret",
+   "ledd": [
+    "Underretning om nekting av tinglysing, bekreftet utskrift, tinglysingsattest og andre meldinger fra Løsøreregisteret knyttet til elektroniske dokument, sendes til innsender elektronisk."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-8",
+   "nummer": "§ 8",
+   "tittel": "Oppbevaring av dokument",
+   "ledd": [
+    "Løsøreregisteret skal oppbevare elektroniske dokumenter i henhold til de regler som er fastsatt i eller i medhold av lov 4. desember 1992 nr. 126 om arkiv."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-9",
+   "nummer": "§ 9",
+   "tittel": "Ikrafttredelse og opphevelse",
+   "ledd": [
+    "Forskriften trer i kraft 15. mai 2017.",
+    "Fra samme tidspunkt oppheves forskrift 28. oktober 2005 nr. 1259 om prøveprosjekt for elektronisk kommunikasjon ved tinglysing av salgspant i motorvogn."
+   ]
+  }
+ ]
+}

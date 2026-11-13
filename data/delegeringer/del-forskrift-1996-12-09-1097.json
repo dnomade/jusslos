@@ -1,0 +1,61 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-1996-12-09-1097",
+ "dokumentid": "DEL/forskrift/1996-12-09-1097",
+ "departement": [
+  "Energidepartementet"
+ ],
+ "etat": [
+  "Oljeavd."
+ ],
+ "kunngjort_i": "Avd I 1996 1746",
+ "ikraft": "1997-01-01",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1996-11-29-72/§12-1",
+   "tekst": "lov/1996-11-29-72/§12-1"
+  },
+  {
+   "ref": "lov/1985-03-22-11/§31",
+   "tekst": "lov/1985-03-22-11/§31"
+  },
+  {
+   "ref": "forskrift/1985-06-12-1188/§2",
+   "tekst": "forskrift/1985-06-12-1188/§2"
+  }
+ ],
+ "korttittel": "Delegering til Oljedirektoratet",
+ "tittel": "Delegering av myndighet til Oljedirektoratet etter petroleumsloven § 31 og forskrift for Petroleumsregisteret § 2.",
+ "annet": "Fastsatt av Nærings- og energidepartementet 9. desember 1996 med hjemmel i lov av 22. mars 1985 nr. 11 om petroleumsvirksomhet § 31 og forskrift av 12. juni 1985 nr. 1188 for Petroleumsregisteret § 2.",
+ "refid": "forskrift/1996-12-09-1097",
+ "eli": "/eli/forskrift/1996/12/09/1097",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/1996-12-09-1097",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Nærings- og energidepartementet delegerer herved sin myndighet etter lov 22. mars 1985 nr. 11 om petroleumsvirksomhet § 31 og forskrift 12. juni 1985 nr. 1188 for Petroleumsregisteret § 2 til Oljedirektoratet. Delegeringen er begrenset til å gjelde føring av Petroleumsregisteret."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Delegeringen trer i kraft 1. januar 1997."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2026-07-01-1458",
+ "dokumentid": "SF/forskrift/2026-07-01-1458",
+ "departement": [
+  "Samferdselsdepartementet"
+ ],
+ "etat": [
+  "Veg-, by- og trafikksikkerhetsavdelingen"
+ ],
+ "ikraft": "2027-04-01",
+ "endrer": "forskrift/2007-07-02-877",
+ "hjemmel": [
+  {
+   "ref": "lov/1965-06-18-4/§13",
+   "tekst": "lov/1965-06-18-4/§13"
+  },
+  {
+   "ref": "lov/1965-06-18-4/§13a",
+   "tekst": "lov/1965-06-18-4/§13a"
+  },
+  {
+   "ref": "lov/1965-06-18-4/§14",
+   "tekst": "lov/1965-06-18-4/§14"
+  },
+  {
+   "ref": "lov/1965-06-18-4/§19b",
+   "tekst": "lov/1965-06-18-4/§19b"
+  },
+  {
+   "ref": "lov/1965-06-18-4/§20",
+   "tekst": "lov/1965-06-18-4/§20"
+  },
+  {
+   "ref": "lov/1965-06-18-4/§21",
+   "tekst": "lov/1965-06-18-4/§21"
+  },
+  {
+   "ref": "lov/1965-06-18-4/§32",
+   "tekst": "lov/1965-06-18-4/§32"
+  },
+  {
+   "ref": "lov/1965-06-18-4/§36",
+   "tekst": "lov/1965-06-18-4/§36"
+  }
+ ],
+ "kunngjort": "2026-07-01 14:00",
+ "tittel": "Forskrift om endring i forskrift om kjøre- og hviletid og fartsskriver for vegtransport i EØS",
+ "annet": "Hjemmel: Fastsatt av Samferdselsdepartementet 1. juli 2026 med hjemmel i lov 18. juni 1965 nr. 4 om vegtrafikk (vegtrafikkloven) § 13, § 13a, § 14, § 19b, § 20, § 21 annet ledd, § 32 og § 36.",
+ "refid": "forskrift/2026-07-01-1458",
+ "eli": "/eli/forskrift/2026/07/01/1458",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2026-07-01-1458",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "I forskrift 2. juli 2007 nr. 877 om kjøre- og hviletid og fartsskriver for vegtransport i EØS gjøres følgende endring:\nNy § 2a skal lyde:"
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-foreslåttparagraf-1",
+     "nummer": null,
+     "tittel": null,
+     "ledd": [
+      "§ 2a. Innenlands godstransport med kjøretøy over 2 500 kg",
+      "Innenlands godstransport med kjøretøy der største tillatte masse, medregnet vekten av tilhenger eller semitrailer, overstiger 2 500 kg, skal fra 1. april 2027 være omfattet av forordning (EF) nr. 561/2006. Kjøretøy omfattet av forordning (EF) 561/2006 er også omfattet av bestemmelsene om fartsskriver, jf. forordning (EU) 165/2014 om bruk av fartsskriver innen vegtransport artikkel 3 nr. 1."
+     ],
+     "fremtidig": true
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Endringen trer i kraft 1. april 2027."
+    }
+   ]
+  }
+ ]
+}

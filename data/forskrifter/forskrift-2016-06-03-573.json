@@ -1,0 +1,336 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2016-06-03-573",
+ "dokumentid": "SF/forskrift/2016-06-03-573",
+ "departement": [
+  "Helse- og omsorgsdepartementet"
+ ],
+ "etat": [
+  "Helserettsavd."
+ ],
+ "kunngjort_i": "I 2016 hefte 7",
+ "ikraft": "2016-06-03",
+ "siste_endring_ikraft": "2018-07-20",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2018-06-15-876",
+   "tekst": "forskrift/2018-06-15-876 fra 2018-07-20"
+  }
+ ],
+ "endrer": "forskrift/2009-12-18-1640",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2014-06-20-42/§11",
+   "tekst": "lov/2014-06-20-42/§11"
+  },
+  {
+   "ref": "lov/2014-06-20-42/§14",
+   "tekst": "lov/2014-06-20-42/§14"
+  },
+  {
+   "ref": "lov/2014-06-20-42/§18",
+   "tekst": "lov/2014-06-20-42/§18"
+  },
+  {
+   "ref": "lov/2014-06-20-42/§22",
+   "tekst": "lov/2014-06-20-42/§22"
+  },
+  {
+   "ref": "lov/2014-06-20-42/§23",
+   "tekst": "lov/2014-06-20-42/§23"
+  },
+  {
+   "ref": "lov/2014-06-20-42/§25",
+   "tekst": "lov/2014-06-20-42/§25"
+  },
+  {
+   "ref": "lov/2014-06-20-42/§30",
+   "tekst": "lov/2014-06-20-42/§30"
+  }
+ ],
+ "kunngjort": "2016-06-06 14:40",
+ "korttittel": "Syketransportregisterforskriften",
+ "tittel": "Forskrift om registre for administrering og samordning av syketransport (syketransportregisterforskriften)",
+ "annet": "Hjemmel: Fastsatt ved kgl.res. 3. juni 2016 med hjemmel i lov 20. juni 2014 nr. 42 om behandling av helseopplysninger ved ytelse av helsehjelp (pasientjournalloven) § 11 første ledd, § 14 andre ledd, § 18 tredje ledd, § 22 fjerde ledd, § 23 tredje ledd, § 25 tredje ledd og § 30 femte ledd. Fremmet av Helse- og omsorgsdepartementet.\nEndret ved forskrift 15 juni 2018 nr. 876.",
+ "refid": "forskrift/2016-06-03-573",
+ "eli": "/eli/forskrift/2016/06/03/573",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2016-06-03-573",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Generelle bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Forskriften gjelder Enkeltoppgjørsregisteret og Direkteoppgjørsregisteret, og gir regler om innsamling og øvrig behandling av helseopplysninger i registrene."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "1. Direkteoppgjørsregisteret: register som inneholder relevante og nødvendige opplysninger for administrering og samordning av syketransport der pasienten reiser på rekvisisjon, og helseforetakene dekker utgiftene ved direkteoppgjør til transportør.\n2. Enkeltoppgjørsregisteret: registre som inneholder relevante og nødvendige opplysninger for administrering og samordning av syketransport der pasienten reiser uten rekvisisjon, og helseforetakene mottar krav om dekning av utgifter, jf. syketransportforskriften.\n3. Transportør: den som på helseforetakets regning utfører transport av pasienten til undersøkelse eller behandling i kommune- og spesialisthelsetjenesten, jf. spesialisthelsetjenesteloven § 2-1a nr. 6."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Formål med registrene",
+     "ledd": [
+      "Formålet med Enkeltoppgjørsregisteret og Direkteoppgjørsregisteret for syketransport er å gi grunnlag for administrering og samordning av transport til undersøkelse eller behandling i kommune og spesialisthelsetjenesten. Administrering omfatter også saksbehandling, refusjon av krav om dekning og oppgjør av slike transportutgifter. Opplysninger i registeret kan brukes som grunnlag for utarbeidelse av statistikk og til forskning."
+     ],
+     "endringer": [
+      "Endret ved forskrift 15 juni 2018 nr. 876 (i kraft 20 juli 2018)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 4",
+     "tittel": "Forbud mot bruk",
+     "ledd": [
+      "Helseopplysninger i Enkeltoppgjørsregisteret og i Direkteoppgjørsregisteret kan ikke brukes til andre formål enn det som følger av § 3."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-5",
+     "nummer": "§ 5",
+     "tittel": "Dataansvarlig og databehandler",
+     "ledd": [
+      "Helseforetakenes senter for pasientreiser ANS er dataansvarlig for behandling av helseopplysninger i Enkeltoppgjørsregisteret og i Direkteoppgjørsregisteret.",
+      "Dataansvarlig kan inngå avtale med databehandler om behandling av opplysningene, jf. personvernforordningen artikkel 28."
+     ],
+     "endringer": [
+      "Endret ved forskrift 15 juni 2018 nr. 876 (i kraft 20 juli 2018)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-6",
+     "nummer": "§ 6",
+     "tittel": "Opplysninger i Direkteoppgjørsregisteret",
+     "ledd": [
+      "Direkteoppgjørsregisteret kan uten samtykke fra den registrerte inneholde følgende opplysninger:\n1. pasientens navn\n2. fødselsnummer eller annet entydig identifikasjonsnummer\n3. hvor og når pasienten skal hentes og bringes\n4. dato og tid for behandling, eventuelt når pasienten er klar til å hentes etter behandling\n5. pasientens hjemkommune\n6. kontakttelefonnummer\n7. reisemåte\n8. eventuelle særskilte transportbehov\n9. hvilket beløp pasienten skal betale i egenandel\n10. om pasienten har frikort ved reisetidspunktet\n11. om pasienten har en annen fritaksgrunn for egenandel enn frikort\n12. om pasienten har ledsager(e)\n13. om fritt behandlingsvalg er benyttet eller ikke\n14. hvem som har rekvirert reisen\n15. behandlerens navn og behandlingsstedets navn og adresse\n16. behandlerens bekreftelse på at det er medisinske eller behandlingsmessige grunner til at pasienten må benytte egen bil eller drosje i stedet for kollektivtilbud\n17. opplysninger om at pasienten har takket nei til tilbud om reise fra helseforetaket eller transportør helseforetaket har avtale med.",
+      "Opplysninger om fritaksgrunn, jf. første ledd nr. 11, kan ikke registreres uten samtykke fra den registrerte.",
+      "Opplysninger som nevnt i første ledd kan bare behandles i den grad det er nødvendig og relevant for å nå formålet med Direkteoppgjørsregisteret."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-7",
+     "nummer": "§ 7",
+     "tittel": "Opplysninger i Enkeltoppgjørsregisteret",
+     "ledd": [
+      "Enkeltoppgjørsregisteret kan uten samtykke fra den registrerte inneholde følgende opplysninger:\n1. pasientens navn\n2. fødselsnummer eller annet entydig identifikasjonsnummer\n3. krav fra pasienten\n4. hvor og når pasienten har reist\n5. behandlerens navn og behandlingsstedets navn og adresse\n6. dato og tid for behandling\n7. andre forhold opplyst av pasienten som er relevante for behandlingen av krav om refusjon, så som spesielle hjelpemidler i forbindelse med transporten\n8. om pasienten har frikort eller ikke\n9. om pasienten har andre grunner for fritak for egenandel enn frikort\n10. om fritt behandlingsvalg er benyttet eller ikke\n11. krav fra ledsager(e) og/eller pårørende\n12. om det er behov for ledsager(e)\n13. hvilket beløp som kreves refundert og hvilken refusjon som blir innvilget\n14. kontonummer som refusjon skal utbetales til\n15. vedtaksdato\n16. at stønad til helsehjelp er gitt med hjemmel i folketrygdloven § 5-24a\n17. det nærmeste aktuelle behandlingsstedet for pasienten i Norge\n18. hvilke reise- og oppholdsutgifter pasienten ville hatt dersom helsehjelpen hadde vært mottatt ved det nærmeste aktuelle behandlingsstedet\n19. hvilke transportmiddel som legges til grunn ved beregningen av refusjonen\n20. behandlerens bekreftelse på at det er medisinske eller behandlingsmessige grunner til at pasienten må benytte egen bil eller drosje i stedet for kollektivtilbud\n21. om behandleren får refusjon fra HELFO for helsehjelpen\n22. opplysninger om at pasienten har takket nei til tilbud om reise fra helseforetaket eller transportør helseforetaket har avtale med.",
+      "Opplysning om fritaksgrunn, jf. første ledd nr. 9, kan ikke registreres uten samtykke fra den registrerte.",
+      "Opplysninger som nevnt i første ledd kan bare behandles i den grad det er nødvendig og relevant for å nå formålet med Enkeltoppgjørsregisteret."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-8",
+     "nummer": "§ 8",
+     "tittel": "Registrertes rett til informasjon og innsyn",
+     "ledd": [
+      "Den registrerte har rett til informasjon og innsyn i behandling av person- og helseopplysninger om seg selv i samsvar med pasientjournalloven § 18."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Innsending og behandling av opplysninger i Enkeltoppgjørsregisteret og i Direkteoppgjørsregisteret, kvalitetskontroll mv.",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 9",
+     "tittel": "Plikt til å sende inn opplysninger til Direkteoppgjørsregisteret",
+     "ledd": [
+      "Virksomheter, behandlere og tjenesteytere skal, uten hinder av taushetsplikt, sende inn relevante og nødvendige opplysninger etter § 6 til Direkteoppgjørsregisteret."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 10",
+     "tittel": "Plikt til å sende inn opplysninger til Enkeltoppgjørsregisteret",
+     "ledd": [
+      "Virksomheter, behandlere og tjenesteytere skal, uten hinder av taushetsplikt, sende inn relevante og nødvendige opplysninger etter § 7 til Enkeltoppgjørsregisteret."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 11",
+     "tittel": "Annen innsending av opplysninger til Enkeltoppgjørsregisteret og Direkteoppgjørsregisteret",
+     "ledd": [
+      "Opplysninger som nevnt i forskriften § 6 og § 7 kan også innsendes fra pasienten."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 12",
+     "tittel": "Mottakers ansvar for kvalitetskontroll",
+     "ledd": [
+      "Dataansvarlig skal sørge for at helseopplysninger som innsamles og behandles i Enkeltoppgjørsregisteret og i Direkteoppgjørsregisteret er korrekte, relevante og nødvendige for de formål de innsamles for, jf. § 3."
+     ],
+     "endringer": [
+      "Endret ved forskrift 15 juni 2018 nr. 876 (i kraft 20 juli 2018)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 13",
+     "tittel": "Tilgjengeliggjøring av opplysninger for transportør",
+     "ledd": [
+      "Dataansvarlig skal sørge for at følgende opplysninger i Direkteoppgjørsregisteret utleveres til eller gjøres tilgjengelig på andre måter for transportør:\n1. pasientens navn og kjønn\n2. kontakttelefonnummer\n3. rekvisisjonsnummer\n4. henteadresse\n5. hentetidspunkt\n6. bestemmelsessted\n7. dato og tid for behandling\n8. eventuelle særskilte transportbehov\n9. hvilket beløp pasienten skal betale i egenandel\n10. tur-ID\n11. kontrakts-ID som skal benyttes for transporten og oppgjøret."
+     ],
+     "endringer": [
+      "Endret ved forskrift 15 juni 2018 nr. 876 (i kraft 20 juli 2018)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-6",
+     "nummer": "§ 14",
+     "tittel": "Plikt til å sende inn opplysninger til Egenandelsregisteret",
+     "ledd": [
+      "Dataansvarlig skal sørge for at det fra Direkteoppgjørsregisteret og Enkeltoppgjørsregisteret blir sendt inn relevante og nødvendige opplysninger til Egenandelsregisteret. Relevante og nødvendige opplysninger er begrenset til følgende opplysninger:\n1. pasientens fødselsnummer og eventuelt navn, eller annen sikker identifikasjon, adresse og bostedskommune\n2. organisasjonsnummer til helseforetaket som har vært ansvarlig for å administrere transporten\n3. reisedato\n4. egenandelsbeløp\n5. om pasienten har frikort\n6. at pasienten ikke har betalt egenandel på grunn av andre fritaksgrunner enn frikort.",
+      "Opplysninger om fritaksgrunn, jf. første ledd nr. 6, kan ikke registreres uten samtykke fra den registrerte.",
+      "Ved enkeltoppgjør skal i tillegg vedtaksdato sendes inn."
+     ],
+     "endringer": [
+      "Endret ved forskrift 15 juni 2018 nr. 876 (i kraft 20 juli 2018)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-7",
+     "nummer": "§ 15",
+     "tittel": "Frist for å sende inn opplysninger til Egenandelsregisteret",
+     "ledd": [
+      "Fra Direkteoppgjørsregisteret skal opplysninger til Egenandelsregisteret sendes inn senest 14 dager etter at egenandelen er betalt.",
+      "Fra Enkeltoppgjørsregisteret skal opplysninger til Egenandelsregisteret sendes inn senest 14 dager etter at vedtak om refusjon er fattet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-8",
+     "nummer": "§ 16",
+     "tittel": "Sammenstilling",
+     "ledd": [
+      "Personidentifiserbare opplysninger i Direkteoppgjørsregisteret kan sammenstilles med personidentifiserbare opplysninger i Enkeltoppgjørsregisteret. Personidentifiserbare opplysninger i Enkeltoppgjørsregisteret kan sammenstilles med personidentifiserbare opplysninger i Direkteoppgjørsregisteret."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Taushetsplikt, informasjonssikkerhet, internkontroll, lagring og sletting av opplysninger",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 17",
+     "tittel": "Taushetsplikt",
+     "ledd": [
+      "Enhver som behandler helseopplysninger etter denne forskriften, har taushetsplikt etter pasientjournalloven § 15."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 18",
+     "tittel": "Informasjonssikkerhet",
+     "ledd": [
+      "Dataansvarlig skal gjennom planlagte og systematiske tiltak sørge for tilfredsstillende informasjonssikkerhet med hensyn til konfidensialitet, integritet og tilgjengelighet ved behandling av helseopplysninger etter forskriften, jf. pasientjournalloven § 22."
+     ],
+     "endringer": [
+      "Endret ved forskrift 15 juni 2018 nr. 876 (i kraft 20 juli 2018)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 19",
+     "tittel": "Plikt til internkontroll",
+     "ledd": [
+      "Dataansvarlig skal etablere internkontroll i samsvar med pasientjournalloven § 23. De systematiske tiltakene skal tilpasses virksomhetens art, aktiviteter og størrelse i det omfang det er nødvendig for å etterleve kravene i og i medhold av pasientjournalloven. Det skal legges særlig vekt på kravene i pasientjournalloven § 22.",
+      "Databehandler, jf. § 5, skal behandle disse opplysningene i samsvar med de krav og rutiner dataansvarlig har oppstilt."
+     ],
+     "endringer": [
+      "Endret ved forskrift 15 juni 2018 nr. 876 (i kraft 20 juli 2018)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 20",
+     "tittel": "Internkontrollens innhold",
+     "ledd": [
+      "Internkontroll innebærer at dataansvarlig skal ha kunnskap om gjeldende regler om behandling av helseopplysninger, tilstrekkelig og oppdatert dokumentasjon for gjennomføring av rutiner, samt ha denne dokumentasjonen tilgjengelig for dem den måtte angå. Internkontrollen skal blant annet inneholde:\n1. oversikt over hvordan virksomheten er organisert,\n2. oversikt over ansvars- og myndighetsforhold,\n3. oversikt over de krav i og i medhold av personvernforordningen, personopplysningsloven og pasientjournalloven som gjelder for virksomheten,\n4. rutiner virksomheten følger for å sikre overholdelse av kravene, herunder rutiner for:\n- oppfyllelse av krav om at personidentifiserbare opplysninger bare behandles når dette er nødvendig for å fremme formålet med registeret, og er i tråd med gjeldende bestemmelser om taushetsplikt\n- oppfyllelse av begjæring om informasjon og innsyn, jf. pasientjournalloven § 18\n- hvordan virksomheten oppfyller bestemmelsene om tilgjengeliggjøring av opplysninger fra registeret, jf. § 13 og § 14,\n5. rutiner virksomheten følger dersom avvik oppstår og opplysninger om hvem som er ansvarlig,\n6. rutiner virksomheten følger for å hindre gjentakelse av avvik og opplysninger om hvem som er ansvarlig,\n7. rutiner for hvordan virksomheten systematisk og regelmessig gjennomgår sin internkontroll for å kontrollere at aktivitetene og resultatene av dem stemmer overens med det system virksomheten har fastlagt, og om det medfører oppfyllelse av personvernforordningen, personopplysningsloven og pasientjournalloven,\n8. rutiner om hvordan virksomheten sikrer seg at alle aktuelle og kun gjeldende rutiner blir benyttet, og\n9. rutiner for hvordan virksomheten sikrer at de ansatte har tilstrekkelig kompetanse til å overholde forskriftens krav."
+     ],
+     "endringer": [
+      "Endret ved forskrift 15 juni 2018 nr. 876 (i kraft 20 juli 2018)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 21",
+     "tittel": "Lagring og sletting av opplysninger",
+     "ledd": [
+      "Opplysninger i registeret skal ikke lagres lenger enn det som er nødvendig for å gjennomføre formålet med behandlingen av opplysningene. Hvis ikke opplysningene deretter må oppbevares i henhold til arkivloven, folketrygdloven eller annen lovgivning, skal de slettes."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Avsluttende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 22",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Opphevet ved forskrift 15 juni 2018 nr. 876 (i kraft 20 juli 2018)."
+     ],
+     "opphevet": "2018-07-20"
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 23",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Forskriften trer i kraft straks. Fra samme tidspunkt oppheves forskrift 18. desember 2009 nr. 1640 om registre for administrering og samordning av syketransport."
+     ]
+    }
+   ]
+  }
+ ]
+}

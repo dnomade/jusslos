@@ -1,0 +1,394 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2002-12-20-1625",
+ "dokumentid": "SF/forskrift/2002-12-20-1625",
+ "departement": [
+  "Helse- og omsorgsdepartementet"
+ ],
+ "etat": [
+  "Helserettsavdelingen"
+ ],
+ "kunngjort_i": "I 2002 hefte 18",
+ "ikraft": "2004-01-01",
+ "siste_endring_ikraft": "2023-07-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2023-03-30-452",
+   "tekst": "forskrift/2023-03-30-452 fra 2023-07-01"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2001-06-15-53/§6",
+   "tekst": "lov/2001-06-15-53/§6"
+  },
+  {
+   "ref": "lov/2001-06-15-53/§7",
+   "tekst": "lov/2001-06-15-53/§7"
+  },
+  {
+   "ref": "lov/2001-06-15-53/§10a",
+   "tekst": "lov/2001-06-15-53/§10a"
+  },
+  {
+   "ref": "lov/2001-06-15-53/§15",
+   "tekst": "lov/2001-06-15-53/§15"
+  },
+  {
+   "ref": "lov/2001-06-15-53/§16",
+   "tekst": "lov/2001-06-15-53/§16"
+  },
+  {
+   "ref": "lov/1967-02-10/§28",
+   "tekst": "lov/1967-02-10/§28"
+  }
+ ],
+ "kunngjort": "2002-12-23",
+ "siste_rettelse": "2021-03-03 (tegnsetting i lister tilpasset universell utforming).",
+ "korttittel": "Forskrift om Norsk Pasientskadeerstatning m.m.",
+ "tittel": "Forskrift om Norsk Pasientskadeerstatning og Pasientskadenemnda",
+ "annet": "Hjemmel: Fastsatt ved kgl.res. 20. desember 2002 med hjemmel i lov av 15. juni 2001 nr. 53 om erstatning ved pasientskader mv. (pasientskadeloven) § 6 annet ledd, § 7 første og annet ledd, § 10 a, § 15 fjerde ledd og § 16 tredje og fjerde ledd og lov av 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven) § 28 siste ledd. Fremmet av Helsedepartementet (nå Helse- og omsorgsdepartementet).\nEndret ved forskrifter 21 nov 2003 nr. 1364 (forskriften gjengitt i sin helhet etter endringene), 19 des 2003 nr. 1646, 18 feb 2005 nr. 167, 31 okt 2008 nr. 1167, 17 jan 2013 nr. 61, 29 okt 2015 nr. 1232, 18 des 2015 nr. 1740, 1 mars 2021 nr. 573, 30 mars 2023 nr. 452 (i kraft 1 juli 2023).\nRettet 03.03.2021 (tegnsetting i lister tilpasset universell utforming).",
+ "refid": "forskrift/2002-12-20-1625",
+ "eli": "/eli/forskrift/2002/12/20/1625",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2002-12-20-1625",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Definisjoner mv.",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "Norsk Pasientskadeerstatning er et uavhengig forvaltningsorgan opprettet med hjemmel i pasientskadeloven § 6.",
+      "Pasientskadenemnda er et uavhengig forvaltningsorgan opprettet med hjemmel i pasientskadeloven § 16. Nasjonalt klageorgan for helsetjenesten er sekretariat for nemnda."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 31 okt 2008 nr. 1167 (i kraft 1 jan 2009), 18 des 2015 nr. 1740 (i kraft 1 jan 2016), 1 mars 2021 nr. 573."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Organenes uavhengighet og departementets instruksjonsmyndighet",
+     "ledd": [
+      "Departementet kan ikke instruere Norsk Pasientskadeerstatning eller Pasientskadenemnda om lovtolkning, skjønnsutøvelse eller avgjørelse av enkeltsaker."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 31 okt 2008 nr. 1167 (i kraft 1 jan 2009), 18 des 2015 nr. 1740 (i kraft 1 jan 2016)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Om Norsk Pasientskadeerstatning",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 3",
+     "tittel": "Ansvar og oppgaver",
+     "ledd": [
+      "Norsk Pasientskadeerstatning er ansvarlig for skader som omfattes av pasientskadelovens virkeområde og skal behandle krav og utbetale erstatning.",
+      "Norsk Pasientskadeerstatning kan etter avtale påta seg å behandle krav om erstatning for personskader utover første ledd. Slike avtaler må i sin helhet finansieres av oppdragsgiver og må ikke skje til fortrengsel for deres lovpålagte oppgaver. Slike avtaler skal godkjennes av departementet."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 18 feb 2005 nr. 167, 31 okt 2008 nr. 1167 (i kraft 1 jan 2009)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 4",
+     "tittel": "Informasjon og statistikk",
+     "ledd": [
+      "Norsk Pasientskadeerstatning skal:\na. sørge for at det blir utarbeidet og formidlet informasjon om erstatningsordningen og pasientskadeloven til helsepersonell og pasienter og\nb. legge til rette for at opplysninger om statistikk og oversikt over skader, skadeomfang og risiko gjøres tilgjengelig i det skadeforebyggende arbeidet."
+     ],
+     "endringer": [
+      "Endret ved forskrift 31 okt 2008 nr. 1167 (i kraft 1 jan 2009)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. (Opphevet)",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Kapitlet opphevet ved forskrift 18 des 2015 nr. 1740 (i kraft 1 jan 2016)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 5",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Endret ved forskrift 31 okt 2008 nr. 1167 (i kraft 1 jan 2009), opphevet ved forskrift 18 des 2015 nr. 1740 (i kraft 1 jan 2016)."
+     ],
+     "opphevet": "2016-01-01"
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 6",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Opphevet ved forskrift 18 des 2015 nr. 1740 (i kraft 1 jan 2016)."
+     ],
+     "opphevet": "2016-01-01"
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 7",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Endret ved forskrift 31 okt 2008 nr. 1167 (i kraft 1 jan 2009), opphevet ved forskrift 18 des 2015 nr. 1740 (i kraft 1 jan 2016)."
+     ],
+     "opphevet": "2016-01-01"
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Om Pasientskadenemnda",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 8",
+     "tittel": "Kompetanse",
+     "ledd": [
+      "Pasientskadenemnda behandler klager over enkeltvedtak i Norsk Pasientskadeerstatning som nevnt i pasientskadeloven § 14 annet punktum, jf. § 15 første ledd."
+     ],
+     "endringer": [
+      "Endret ved forskrift 31 okt 2008 nr. 1167 (i kraft 1 jan 2009)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 9",
+     "tittel": "Anmodning om å overta behandlingen av en sak",
+     "ledd": [
+      "Pasientskadenemnda kan etter anmodning fra den som krever erstatning, beslutte å overta behandlingen av en sak som ikke er ferdigbehandlet av Norsk Pasientskadeerstatning. For at en anmodning om dette skal vurderes, kreves at det har gått minst to år siden kravet ble meldt til en av disse.",
+      "I vurderingen av anmodningen kan blant annet hensynet til sakens opplysning, behovet for en to-instansbehandling, førsteinstansens arbeid i saken, årsaken til at to år har gått og hensynet til skadelidte vektlegges.",
+      "I saker av en slik art at en saksbehandlingstid over to år er nødvendig, skal ikke Pasientskadenemnda overta behandlingen av saken før avgjørelse i førsteinstansen er truffet med mindre særlige hensyn taler for det.",
+      "Pasientskadenemndas sekretariat kan treffe vedtak om å avslå anmodning om overtakelse av saker uten å forelegge anmodningen for Pasientskadenemnda.",
+      "Førsteinstansens uttalelse til anmodningen skal innhentes.",
+      "Avgjørelsen kan ikke påklages."
+     ],
+     "endringer": [
+      "Endret ved forskrift 31 okt 2008 nr. 1167 (i kraft 1 jan 2009)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 10",
+     "tittel": "Oppnevning av Pasientskadenemnda og godtgjørelsen til medlemmene av nemnda",
+     "ledd": [
+      "Som medisinsk sakkyndige oppnevnes leger med erfaring fra ulike fagområder, herunder allmennlegevirksomhet og sykehusvirksomhet. Det kan også oppnevnes helsepersonell med annen helsefaglig kompetanse.",
+      "Brukerrepresentanter oppnevnes etter forslag fra Norsk Pasientforening, Funksjonshemmedes Fellesorganisasjon og Forbrukerrådet.",
+      "Departementet fastsetter godtgjørelsen til medlemmene av nemnda."
+     ],
+     "endringer": [
+      "Endret ved forskrift 18 des 2015 nr. 1740 (i kraft 1 jan 2016)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 11",
+     "tittel": "Oppnevning av varamedlemmer",
+     "ledd": [
+      "Det oppnevnes varamedlemmer for leder, nestleder og medlemmer i nemnda.",
+      "Varamedlemmer for brukerrepresentanter oppnevnes etter forslag fra Norsk Pasientforening, Funksjonshemmedes Fellesorganisasjon og Forbrukerrådet."
+     ],
+     "endringer": [
+      "Endret ved forskrift 31 okt 2008 nr. 1167 (i kraft 1 jan 2009)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-5",
+     "nummer": "§ 12",
+     "tittel": "Fungeringsperiode",
+     "ledd": [
+      "Nemndas leder, nestleder, medlemmer og varamedlemmer oppnevnes for en periode på tre år. Finner oppnevning sted i løpet av en periode, gjelder oppnevningen likevel bare til hovedperiodens utløp. Oppnevningen skal sikre kontinuitet over tid."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-6",
+     "nummer": "§ 13",
+     "tittel": "Inhabilitet mv.",
+     "ledd": [
+      "Medlemmer som er inhabile etter domstolloven § 106 eller § 108 kan ikke delta i behandlingen av saken. Spørsmålet om medlemmenes habilitet må avklares før møtedagen.",
+      "Dersom Pasientskadenemndas leder har bestemt at nemnda skal settes med fem medlemmer jf. pasientskadeloven § 16 tredje ledd, kan nemnda være beslutningsdyktig selv om et medlem har meldt forfall, og det ikke har latt seg gjøre å kalle inn vararepresentant, dersom ikke hensynet til sammensetningen taler mot det. Ved stemmelikhet avgjør stemmen til den som leder nemnda i den enkelte sak."
+     ],
+     "endringer": [
+      "Endret ved forskrift 18 des 2015 nr. 1740 (i kraft 1 jan 2016)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-7",
+     "nummer": "§ 14",
+     "tittel": "Om Pasientskadenemndas vedtak og gjennomføring av møtene",
+     "ledd": [
+      "Sekretariatet forbereder saken og dagsorden og saksdokumenter sendes til nemndsmedlemmene i god tid før møtet.",
+      "Vedtak fattes på grunnlag av sekretariatets skriftlige saksfremstilling og etter muntlige drøftelser mellom medlemmene i nemnda."
+     ],
+     "endringer": [
+      "Endret ved forskrift 18 des 2015 nr. 1740 (i kraft 1 jan 2016)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-8",
+     "nummer": "§ 15",
+     "tittel": "Hvem som kan møte i Pasientskadenemnda",
+     "ledd": [
+      "Fra sekretariatet kan leder eller dennes stedfortreder samt saksbehandler møte i nemnda og kan i møtet avklare uklarheter og gi tilleggsopplysninger i saken. En representant for Norsk Pasientskadeerstatning kan møte i nemnda som observatør, men har ikke talerett. Nemndas leder avgjør med endelig virkning hvem som utover dette kan møte i nemnda."
+     ],
+     "endringer": [
+      "Endret ved forskrift 31 okt 2008 nr. 1167 (i kraft 1 jan 2009)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Finansiering",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrift 31 okt 2008 nr. 1167 (i kraft 1 jan 2009, tidligere kapittel 6)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 16",
+     "tittel": "Finansiering av offentlig ansvar",
+     "ledd": [
+      "De regionale helseforetakene, fylkeskommunene og kommunene yter tilskudd til dekning av erstatning for pasientskader voldt i den offentlige helse- og omsorgstjenesten.",
+      "Departementet dekker kostnadene til driften av Norsk pasientskadeerstatning og Pasientskadenemnda og til advokatutgifter.",
+      "Tilskuddene fastsettes av departementet."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 31 okt 2008 nr. 1167 (i kraft 1 jan 2009, tidligere § 17), 17 jan 2013 nr. 61, 18 des 2015 nr. 1740 (i kraft 1 jan 2016)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 17",
+     "tittel": "Egenandel fra skadevolder i offentlig helsetjeneste",
+     "ledd": [
+      "I tilfeller der Norsk pasientskadeserstatning utbetaler erstatning som følge av skade voldt i den offentlige helse- og omsorgstjenesten, kan det kreves egenandel fra skadevolder. Departementet fastsetter egenandelens størrelse.",
+      "Egenandel etter første ledd kan også kreves ved skade voldt i helsetjeneste som omfattes av fritt behandlingsvalg etter spesialisthelsetjenesteloven § 4-3."
+     ],
+     "endringer": [
+      "Endret ved forskrift 31 okt 2008 nr. 1167 (i kraft 1 jan 2009, tidligere § 18), 17 jan 2013 nr. 61, 29 okt 2015 nr. 1232 (i kraft 1 nov 2015)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 18",
+     "tittel": "Forvaltning av tilskudd til dekning av ansvaret etter loven",
+     "ledd": [
+      "Departementet fastsetter instruks for Norsk Pasientskadeerstatnings forvaltning av tilskuddene til dekning av organets løpende ansvar."
+     ],
+     "endringer": [
+      "Endret ved forskrift 31 okt 2008 nr. 1167 (i kraft 1 jan 2009, tidligere § 20)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Godtgjøring for gjennomgang og oversendelse av opplysninger fra pasientjournal til Norsk pasientskadeerstatning og Pasientskadenemnda",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Tilføyd ved forskrift 30 mars 2023 nr. 452 (i kraft 1 juli 2023)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 19",
+     "tittel": "Godtgjøring til helsepersonell for gjennomgang, utskrift og oversendelse av opplysninger fra pasientjournal",
+     "ledd": [
+      "Godtgjøring for gjennomgang, utskrift og oversendelse av opplysninger fra pasientjournal etter henvendelse fra Norsk pasientskadeerstatning eller Nasjonalt klageorgan for helsetjenesten som sekretariat for Pasientskadenemnda, ytes etter de reglene som fremgår i denne paragrafen, jf. pasientskadeloven § 10a.",
+      "Godtgjørelse ytes til privatpraktiserende helsepersonell, uavhengig av om de har driftsavtale med det offentlige. Det ytes ikke godtgjørelse til helsepersonell som er innklaget som påstått skadevolder.",
+      "For arbeid og utgifter ved gjennomgang, utskrift og oversendelse av relevante deler av pasientjournal, ytes en stykkpris tilsvarende 0,5 ganger den timesatsen som fastsettes av Justisdepartementet etter forskrift 3. desember 1997 nr. 1441 om salær fra det offentlige til advokater m.v. § 2. Satsen på det tidspunkt henvendelsen ble mottatt, benyttes.",
+      "Krav om godtgjøring fremmes sammen med oversendelsen av opplysningene.",
+      "Helsepersonell som er forespurt om utdrag av pasientjournal, og som ved gjennomgang av journalen ikke finner relevante opplysninger å oversende, kan også fremme krav om godtgjøring etter denne bestemmelsen."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 30 mars 2023 nr. 452 (i kraft 1 juli 2023)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kap7",
+   "overskrift": "Kapittel 7. Ikrafttredelse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 20",
+     "tittel": "Endring av forskriften",
+     "ledd": [
+      "Departementet kan foreta endringer i forskriften."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 31 okt 2008 nr. 1167 (i kraft 1 jan 2009), endret ved forskrift 30 mars 2023 nr. 452 (i kraft 1 juli 2023, tidligere § 19)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-2",
+     "nummer": "§ 21",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Denne forskriften trer i kraft når Kongen bestemmer.[1]"
+     ],
+     "fotnoter": [
+      {
+       "nr": "1",
+       "tekst": "I kraft 1 jan 2004, jf. res. 19 des 2003 nr. 1646."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

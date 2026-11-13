@@ -1,0 +1,51 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-2004-01-23-191",
+ "dokumentid": "DEL/forskrift/2004-01-23-191",
+ "departement": [
+  "Landbruks- og matdepartementet"
+ ],
+ "kunngjort_i": "I 2004 hefte 2",
+ "ikraft": "2004-01-23",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1992-12-04-130/§6a",
+   "tekst": "lov/1992-12-04-130/§6a"
+  }
+ ],
+ "kunngjort": "2004-01-27",
+ "korttittel": "Deleg. til LD etter husdyravlloven",
+ "tittel": "Delegering av myndighet til Landbruksdepartementet etter lov om husdyravl § 6a.",
+ "annet": "Fastsatt ved Kronprinsreg.res. 23. januar 2004 med hjemmel i lov av 4. desember 1992 nr. 130 om husdyravl § 6a. Fremmet av Landbruksdepartementet.",
+ "refid": "forskrift/2004-01-23-191",
+ "eli": "/eli/forskrift/2004/01/23/191",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/2004-01-23-191",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Den myndighet som i lov av 4. desember 1992 nr. 130 om husdyravl § 6a er tillagt Kongen, delegeres til Landbruksdepartementet."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Delegeringen trer i kraft straks."
+    }
+   ]
+  }
+ ]
+}

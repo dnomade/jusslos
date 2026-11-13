@@ -1,0 +1,485 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2005-02-18-160",
+ "dokumentid": "SF/forskrift/2005-02-18-160",
+ "departement": [
+  "Landbruks- og matdepartementet"
+ ],
+ "etat": [
+  "Avd. for matpolitikk"
+ ],
+ "kunngjort_i": "I 2005 hefte 3",
+ "ikraft": "2005-03-01, 2007-01-01, 2008-01-01",
+ "siste_endring_ikraft": "2013-02-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2013-01-21-62",
+   "tekst": "forskrift/2013-01-21-62 fra 2013-02-01"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2009-06-19-97/§6",
+   "tekst": "lov/2009-06-19-97/§6"
+  },
+  {
+   "ref": "lov/2009-06-19-97/§7",
+   "tekst": "lov/2009-06-19-97/§7"
+  },
+  {
+   "ref": "lov/2009-06-19-97/§8",
+   "tekst": "lov/2009-06-19-97/§8"
+  },
+  {
+   "ref": "lov/2009-06-19-97/§9",
+   "tekst": "lov/2009-06-19-97/§9"
+  },
+  {
+   "ref": "lov/2009-06-19-97/§23",
+   "tekst": "lov/2009-06-19-97/§23"
+  },
+  {
+   "ref": "lov/2009-06-19-97/§24",
+   "tekst": "lov/2009-06-19-97/§24"
+  },
+  {
+   "ref": "lov/2009-06-19-97/§25",
+   "tekst": "lov/2009-06-19-97/§25"
+  },
+  {
+   "ref": "forskrift/2010-06-11-814",
+   "tekst": "forskrift/2010-06-11-814"
+  },
+  {
+   "ref": "lov/2001-06-15-75/§19",
+   "tekst": "lov/2001-06-15-75/§19"
+  },
+  {
+   "ref": "lov/2003-12-19-124/§33",
+   "tekst": "lov/2003-12-19-124/§33"
+  }
+ ],
+ "kunngjort": "2005-02-25",
+ "siste_rettelse": "2006-01-06 (kapittelnummerering)",
+ "korttittel": "Forskrift om velferd for småfe",
+ "tittel": "Forskrift om velferd for småfe",
+ "annet": "Hjemmel: Fastsatt av Landbruks- og matdepartementet 18. februar 2005 med hjemmel i lov 19. juni 2009 nr. 97 om dyrevelferd § 6, § 7, § 8, § 9, § 23, § 24 og § 25, jf. delegeringsvedtak 11. juni 2010 nr. 814, lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) § 33 og lov 15. juni 2001 nr. 75 om veterinærer og annet dyrehelsepersonell § 19.\nEndret ved forskrifter 21 des 2006 nr. 1598, 14 nov 2007 nr. 1269, 21 des 2009 nr. 1733, 6 aug 2010 nr. 1147, 21 jan 2013 nr. 62.",
+ "refid": "forskrift/2005-02-18-160",
+ "eli": "/eli/forskrift/2005/02/18/160",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2005-02-18-160",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "Kapittel I. Formål, virkeområde og definisjoner",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Formål",
+     "ledd": [
+      "Formålet med forskriften er å legge forholdene til rette for god helse og trivsel hos sau og geit, og sikre at det tas hensyn til dyrenes naturlige behov."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Forskriften gjelder for hold av og aktivitet i forhold til sau og geit."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "a. Mentale behov: behov for å utøve naturlig adferd, behov for trygghet og trivsel m.m.\nb. Fysiologiske behov: behov for god helse og kondisjon, riktig ernæring og beskyttelse mot ugunstige klimatiske forhold m.m.\nc. Klimatiske forhold: temperatur, luftkvalitet, vind, luftfuktighet, nedbør og solstråling.\nd. Gjeting: kontinuerlig oppsyn med dyrene."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "Kapittel II. Generelle bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 4",
+     "tittel": "Generelle krav",
+     "ledd": [
+      "Småfe skal behandles forsvarlig og omsorgsfullt, og det skal tas hensyn til dyrenes mentale og fysiologiske behov. Småfe skal beskyttes mot fare for unødig lidelse."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 5",
+     "tittel": "Kompetanse",
+     "ledd": [
+      "Dyreeier og annen med ansvar for småfe skal ha nødvendig kunnskap om driftsformen, om dyrenes mentale og fysiologiske behov, samt kunnskap om bestemmelsene i denne forskriften. Den som har ansvaret for dyreholdet skal sikre tilstrekkelig faglig kompetent personell til enhver tid."
+     ],
+     "endringer": [
+      "Endret ved forskrift 21 des 2009 nr. 1733 (i kraft 1 jan 2010)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 6",
+     "tittel": "Tamhet, flokktilhørighet m.m.",
+     "ledd": [
+      "Dyrene skal være tamme nok til å kunne stelles, fanges og håndteres på forsvarlig måte avhengig av driftsformen.",
+      "Småfe skal holdes løs i grupper/flokk, med mindre enkeltdyr må holdes atskilt ut fra hensynet til avl, forebygging av sykdom og/eller dyrevelferd.",
+      "Småfe skal ikke holdes varig bundet, verken innendørs eller utendørs. Vær og bukk kan om nødvendig holdes bundet i parringssesongen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 7",
+     "tittel": "Avl",
+     "ledd": [
+      "I avlsarbeidet skal det legges vekt på å få frem friske og robuste dyr."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 8",
+     "tittel": "Håndtering og utstyr",
+     "ledd": [
+      "Håndtering og driving av småfe skal skje skånsomt og med hensyntagen til dyrenes adferd.",
+      "Gjeterhunder skal trenes og brukes på en slik måte at småfe ikke påføres skade eller unødig stress. Ved trening av hund skal det så langt mulig benyttes sau som er tilvent gjeting med hund.",
+      "Det er forbudt å sette annet utstyr på dyrene enn øremerking, bjeller, springsele ved bedekking eller utstyr som brukes av veterinærmedisinske grunner, med mindre det kan dokumenteres at dette er forsvarlig."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-6",
+     "nummer": "§ 9",
+     "tittel": "Fjerning av kroppsdeler og medisinsk behandling",
+     "ledd": [
+      "Det er forbudt å gjøre inngrep og/eller fjerne kroppsdeler på småfe, herunder amputasjon av hale og kastrasjon.",
+      "Bestemmelsene i første ledd er ikke til hinder for nødvendig kastrering, veterinærs inngrep av medisinske grunner, forsvarlig øremerking eller avhorning av kje som er nødvendig ut fra dyrevelferd.",
+      "Avhorning og kastrasjon skal utføres av veterinær med bruk av bedøvelse og langtidsvirkende smertelindring. Rutinemessig avhorning er kun tillatt på kje yngre enn 4 uker, med mindre dette kan medføre unødig lidelse."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kapIII",
+   "overskrift": "Kapittel III. Oppstalling, enkle dyrerom og utedrift",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 10",
+     "tittel": "Dyrerom m.m.",
+     "ledd": [
+      "Dyrerom, garder og binger skal være utformet slik at:\na. dyrene har god mulighet for sosial kontakt, bevegelse og annen naturlig adferd,\nb. gulv, vegger og innredninger som dyrene er i kontakt med, er av god utforming og kvalitet,\nc. det er enkelt å foreta grundig inspeksjon av samtlige dyr,\nd. det er tilrettelagt for å gi dyrene godt stell og for levering til dyrebil, og\ne. det er innlagt vann.",
+      "Bestemmelsene i første ledd bokstav e gjelder ikke husdyrrom som er i bruk ved denne forskriftens ikrafttreden."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 11",
+     "tittel": "Oppstalling",
+     "ledd": [
+      "Tilgjengelig areal per dyr og totalarealet skal være tilpasset dyrenes behov.",
+      "Småfe skal ha adgang til bekvem, tørr og trekkfri liggeplass, der alle dyrene kan ligge samtidig. Små lam og kje skal ha tilgang til tett liggeunderlag med tilfredstillende varmetekniske egenskaper.",
+      "Fôrkrybbe og fôrbrett skal være konstruert slik at dyrene får normal etestilling.",
+      "Spalteåpninger og hull i strekkmetall skal være tilpasset dyrenes størrelse. Ved bruk av talle skal det brukes nok strø til å sikre tilstrekkelig tørt underlag.",
+      "Strømførende innretning skal ikke brukes som skillevegger eller på annen måte avgrense dyrenes oppholdsplass innendørs.",
+      "Gulv eller annet materiale med skader som har betydning for dyrenes velferd skal repareres eller skiftes ut.",
+      "Småfe som føder i binger med flere dyr skal gis god mulighet til å søke isolasjon.",
+      "Syke dyr og dyr som trenger ekstra tilsyn skal kunne skilles ut i særskilte garder/binger."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 12",
+     "tittel": "Melding om dyrehold og bygninger til oppstalling",
+     "ledd": [
+      "Enhver som vil holde dyr, skal på forhånd melde fra om dette til Mattilsynet. Melding skal gis på den måten Mattilsynet bestemmer og inneholde nødvendige opplysninger om dyreholdet, herunder dyreholderens navn, foretaks- eller fødselsnummer, dyreholderen og dyreholdets adresse, informasjon om bygninger til oppstalling av dyrene, produksjonsform og kapasitet, samt opplysninger om dyreholders kompetanse, jf. § 5. Endringer i disse opplysningene, herunder oppføring av nye bygninger, vesentlige endringer av eksisterende bygninger og opphør av dyreholdet, skal meldes til Mattilsynet."
+     ],
+     "endringer": [
+      "Endret ved forskrift 14 nov 2007 nr. 1269."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 13",
+     "tittel": "Tekniske innretninger",
+     "ledd": [
+      "Tekniske innretninger som har betydning for dyrenes velferd, skal være egnet ut fra dyrevelferd, holdes rene og vedlikeholdes, samt kontrolleres jevnlig. Ved feil skal dyrenes velferd og hygieniske forhold ivaretas ved alternative løsninger inntil utbedring er foretatt.",
+      "Nye innretninger og utstyr til småfe skal være utprøvd og dokumentert egnet i forhold til dyrenes velferd før de tas i bruk.",
+      "Dersom driften er avhengig av strøm for å ivareta dyrenes behov på en forsvarlig måte, skal det ved stans i strømforsyningen være mulig å skaffe strømaggregat innen rimelig tid."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 14",
+     "tittel": "Inneklima",
+     "ledd": [
+      "Inneklima skal være tilpasset art, alder, mengde ull m.m. Dyrerom skal ha romvolum i forhold til antall dyr og ventilasjonssystem som sikrer tilstrekkelig luftskifte.",
+      "Dyrene skal holdes i tørre og trekkfrie rom med lav støvkonsentrasjon. Gasser i uheldige konsentrasjoner skal ikke komme inn eller oppstå i dyrerom.",
+      "Ved bruk av mekanisk ventilasjon skal det finnes alternative løsninger som sikrer luftskifte i tilfelle strømbrudd.",
+      "Dersom dyrenes velferd er avhengig av mekanisk ventilasjon og det er fare for at feil ikke oppdages i tide gjennom tilsyn, skal det være tilkoblet alarm. Varslingen skal fungere også ved svikt i strømforsyningen. Alarmsystemet skal prøves jevnlig."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-6",
+     "nummer": "§ 15",
+     "tittel": "Lys og støy",
+     "ledd": [
+      "Småfe skal ha tilgang på dagslys. I dyrerom skal det være kunstig belysning for å sikre dyrene og røkter tilstrekkelig lys. Lyskildene skal plasseres slik at de ikke er til ubehag for dyrene.",
+      "Lyset skal tilpasses dyrenes naturlige døgnrytme, og inneholde en naturlig mørkeperiode. Dette gjelder ikke når lamming eller andre forhold gjør bruk av lys nødvendig ut fra dyrevernhensyn. Svakt orienteringslys er tillatt som nattlys.",
+      "Dyrene skal ikke utsettes for unødig støy og støynivået skal være så lavt at det ikke er til ubehag for dyrene. Varig støy på mer enn 65 dB er forbudt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-7",
+     "nummer": "§ 16",
+     "tittel": "Brannsikring",
+     "ledd": [
+      "I småfefjøs skal materialer, konstruksjoner, vedlikehold og renhold utformes/utføres med tanke på å forebygge brann.",
+      "Eier eller annen med ansvar for dyrene skal sørge for at det gjennomføres faglig kontroll av elektrisk anlegg minimum hvert 3 år.",
+      "Egnet brannvarslingsanlegg skal være installert i bygningen senest 1. januar 2007 for geit og senest 1. september 2007 for sau. Dette gjelder ikke småfehold med færre enn 30 vinterfôrede dyr eller når brannalarm er åpenbart unødvendig.",
+      "Det skal være brannslanger eller et tilstrekkelig antall håndslukkeapparater i alle bygninger med småfe. Disse skal kontrolleres regelmessig. Kravet til brannslukkingsutstyr gjelder ikke når det er åpenbart unødvendig.",
+      "Dyrene skal lett kunne slippes ut i tilfelle brann eller andre nødssituasjoner. Plassering og utforming av ganger, dører mv. skal muliggjøre en rask evakuering av dyrene. Det skal i nybygg som er tatt i bruk etter 1. mars 2005, være minst to utganger fra hvert dyrerom."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 21 des 2006 nr. 1598, 14 nov 2007 nr. 1269."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-8",
+     "nummer": "§ 17",
+     "tittel": "Driftsformer med enkle dyrerom og utegang",
+     "ledd": [
+      "Ved driftsformer med dyrerom og utegang der fôrings og/eller aktivitetsområde er ute, skal bestemmelsene i denne forskriften, unntatt § 10 bokstav e, være oppfylt.",
+      "Dyrene skal ha tilgang på liggeunderlag med tilfredstillende varmetekniske egenskaper der alle dyrene kan ligge samtidig. Det er ikke tillatt med metall eller betong som liggeareal.",
+      "Liggeområdet skal som minimum ha 3 tette vegger og tak og gi tilstrekkelig beskyttelse mot vind og nedbør, og skal være slik utformet at det ikke renner vann inn fra omkringliggende områder.",
+      "Det skal etableres fôringsplass som gjør det mulig å fôre dyrene på en god måte.",
+      "Det skal avsettes særskilt plass for dyr som trenger spesielt tilsyn eller stell. I den kalde årstiden skal egnet rom med tilstrekkelig lys og som kan varmes opp, være tilgjengelig for slike dyr."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-9",
+     "nummer": "§ 18",
+     "tittel": "Unntak fra kravet om tjenlig oppholdsrom – utedrift",
+     "ledd": [
+      "Ved tillatelse til utedrift etter forskrifter 20. november 1976 nr. 2 om unntak fra plikten til å sørge for oppholdsrom for dyr, skal bestemmelsene i denne forskriften med unntak for § 10 – § 17 og § 27, være oppfylt.",
+      "Dyretallet skal tilpasses beitegrunnlaget. Eier eller annen med ansvar for dyrene skal ha mulighet til raskt å skaffe tilstrekkelig og egnet fôr i tilfelle situasjoner der beitet ikke gir tilstrekkelig næring. Det skal etableres fôringsplass som gjør det mulig å fôre dyrene på en god måte.",
+      "Terreng og vegetasjon skal gi tilstrekkelig ly, og dyrene skal ha beskyttende ullfell i den kalde årstider.",
+      "Det skal etableres innhengning som gjør det mulig å samle dyrene. Dyrene skal samles når det er nødvendig av dyrevernmessige hensyn, og minimum vår og høst for kontroll, merking, napping og klipping av ull, nødvendig parasittbehandling, o.l.",
+      "Paring skal skje slik at lamming og kjeing kan forekomme når beite- og klimaforhold er gunstige. Tilsynet skal intensiveres før og under lamming.",
+      "Mattilsynet – distriktskontoret skal på anmodning bli varslet før tilsyn med eller samling av skal utføres, og eier eller annen som ser etter dyrene for denne, skal sørge for transport."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kapIV",
+   "overskrift": "Kapittel IV. Tilsyn og stell",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 19",
+     "tittel": "Tilsyn og stell",
+     "ledd": [
+      "Eier eller annen med ansvar for dyrene skal sikre at samtlige dyr får tilsyn etter behov.",
+      "Dyr som holdes innendørs, skal normalt sees etter minst to ganger pr. døgn.",
+      "Dyr som holdes på utmarksbeite, skal sees etter minst en gang pr. uke i områder uten særskilt risiko.",
+      "Ved mistanke om økt fare må tilsynet intensiveres slik at forhold som kan medføre dårlig velferd, syke, skadde og avmagrede dyr, oppdages så tidlig som råd er.",
+      "Småfe skal ha godt og regelmessig stell, og klippes etter behov og minst årlig. Dyrenes klauver skal undersøkes regelmessig og beskjæres ved behov. Småfe skal ved behov gis fødselshjelp av kompetent person, om nødvendig av veterinær."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 20",
+     "tittel": "Fôr og vann",
+     "ledd": [
+      "Fôring av og beitegrunnlaget for småfe skal være tilstrekkelig og slik sammensatt at det dekker dyrenes behov for fôr og vann av god kvalitet, og de skal ha kontinuerlig tilgang til vann.",
+      "Lam/kje skal ha tilstrekkelig med melk. Nyfødte skal snarest ha tilstrekkelig med råmelk.",
+      "Med mindre dyrene har fri tilgang på fôr og vann, skal alle dyrene kunne ete samtidig.",
+      "Fôr og vann skal lagres og plasseres slik at kvaliteten ikke forringes. Kraftfôret skal være lagret slik at dyr ikke kan komme til det."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 21",
+     "tittel": "Sykdom og skade",
+     "ledd": [
+      "Det skal arbeides for å forebygge skade og sykdom hos småfe. Det skal etableres hensiktsmessig smittebeskyttelse.",
+      "Syke eller skadde dyr skal behandles på forsvarlig måte. Ved behov skal veterinær konsulteres.",
+      "Dersom det kan føre til unødig lidelse for dyret å leve videre, skal det avlives.",
+      "Om nødvendig ut fra dyrevernmessige hensyn skal behandling eller avliving foretas på stedet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 22",
+     "tittel": "Journal",
+     "ledd": [
+      "Eier eller annen med ansvar for dyrene skal sørge for at det føres en ordnet opptegnelse over sykdom, skader, defekter og dødsfall, og ved kjent eller sannsynlig årsak skal denne angis, samt over tiltak overfor egne eller beitelagets dyr når de holdes utendørs.",
+      "Opptegnelsen skal oppbevares i minst 3 år."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-5",
+     "nummer": "§ 23",
+     "tittel": "(Opphevet 1 feb 2013 ved forskrift 21 jan 2013 nr. 62.)",
+     "ledd": []
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kapV",
+   "overskrift": "Kapittel V. Beitebruk",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 24",
+     "tittel": "Mosjon, uteområdet og klima",
+     "ledd": [
+      "Småfe skal holdes på egnet beite minst 16 uker i året med mindre klimatiske eller andre dyrevernmessige forhold er til hinder. Småfe skal når forholdene ligger til rette for det gis adgang til uteområder også utenom ordinær beitesesong.",
+      "Driften skal være tilpasset de klimatiske forhold."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 25",
+     "tittel": "Slipp og hold av småfe på utmarksbeite",
+     "ledd": [
+      "Ved slipp og hold på utmarksbeite skal eier eller annen med ansvar for dyrene, sikre at:\na. samtlige dyr har god helsetilstand og er i forsvarlig hold,\nb. avkom er sammen med mordyr og er i god stand til å holde følge med mora,\nc. avkom som slippes med mordyr uten tilstrekkelig melkeproduksjon, er eldre enn 6 uker og tar til seg nok fôr til å sikre utvikling og vekst,\nd. avkom som slippes uten mordyr, er eldre enn 8 uker, er i følge med voksen sau og tar til seg nok fôr til å sikre utvikling og vekst, og\ne. avkom som blir morløse, tas hjem dersom morløsheten medfører økt fare for lidelse."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 26",
+     "tittel": "Forebyggende tiltak",
+     "ledd": [
+      "Dyr som ikke holdes i bygninger skal, når det er nødvendig og mulig, beskyttes mot rovdyrangrep, helsefare, underernæring, trafikkskader m.m."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-4",
+     "nummer": "§ 27",
+     "tittel": "Hjemsanking om høsten",
+     "ledd": [
+      "Dyreeier har ansvar for at småfe på utmarksbeite hentes hjem i god tid før det ventes frost eller snøfall om høsten."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kapVI",
+   "overskrift": "Kapittel VI. Administrative bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 28",
+     "tittel": "Tilsyn og vedtak",
+     "ledd": [
+      "Mattilsynet fører tilsyn og treffer vedtak for å sikre etterlevelse av denne forskriften.",
+      "Tilsynet kan kreve opplysninger knyttet til driften og dokumentasjon på at bestemmelsene etterleves."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 29",
+     "tittel": "(Opphevet ved forskrift 6 aug 2010 nr. 1147.)",
+     "ledd": []
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-3",
+     "nummer": "§ 30",
+     "tittel": "Dispensasjon",
+     "ledd": [
+      "Mattilsynet kan i særlige tilfeller dispensere fra bestemmelser i denne forskriften og sette vilkår for dispensasjonen. Dispensasjoner kan trekkes tilbake ved brudd på dyrevernbestemmelser eller manglende etterlevelse av vilkår."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-4",
+     "nummer": "§ 31",
+     "tittel": "Straff",
+     "ledd": [
+      "Overtredelse av bestemmelser gitt i denne forskriften eller enkeltvedtak gitt i medhold av forskriften, er straffbart i henhold til dyrevelferdsloven § 37 og matloven § 28."
+     ],
+     "endringer": [
+      "Endret ved forskrift 6 aug 2010 nr. 1147."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kapVII",
+   "overskrift": "Kapittel VII. Ikrafttredelse og overgangsbestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 32",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Denne forskriften trer i kraft 1. mars 2005."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-2",
+     "nummer": "§ 33",
+     "tittel": "Overgangsbestemmelser",
+     "ledd": [
+      "For eksisterende drift ved ikrafttredelse av denne forskriften, trer følgende bestemmelser i kraft:\na. § 11 andre ledd andre pkt. om tett liggeunderlag for lam og kje trer i kraft fra 1. januar 2007.\nb. § 14 fjerde ledd om alarm trer i kraft 1. januar 2008."
+     ],
+     "endringer": [
+      "Endret ved forskrift 21 des 2009 nr. 1733 (i kraft 1 jan 2010)."
+     ]
+    }
+   ]
+  }
+ ]
+}

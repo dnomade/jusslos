@@ -1,0 +1,503 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2020-02-13-688",
+ "dokumentid": "SF/forskrift/2020-02-13-688",
+ "departement": [
+  "Kunnskapsdepartementet"
+ ],
+ "etat": [
+  "Norsk barnebokinstitutt"
+ ],
+ "ikraft": "2020-05-01",
+ "siste_endring_ikraft": "2024-08-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2024-05-23-967",
+   "tekst": "forskrift/2024-05-23-967 fra 2024-08-01"
+  }
+ ],
+ "endrer": "forskrift/2017-05-23-993",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2005-04-01-15/§3-3",
+   "tekst": "lov/2005-04-01-15/§3-3"
+  },
+  {
+   "ref": "lov/2005-04-01-15/§3-6",
+   "tekst": "lov/2005-04-01-15/§3-6"
+  },
+  {
+   "ref": "lov/2005-04-01-15/§3-7",
+   "tekst": "lov/2005-04-01-15/§3-7"
+  },
+  {
+   "ref": "lov/2005-04-01-15/§3-9",
+   "tekst": "lov/2005-04-01-15/§3-9"
+  },
+  {
+   "ref": "lov/2005-04-01-15/§3-10",
+   "tekst": "lov/2005-04-01-15/§3-10"
+  },
+  {
+   "ref": "lov/2024-03-08-9/§8-1",
+   "tekst": "lov/2024-03-08-9/§8-1"
+  },
+  {
+   "ref": "lov/2024-03-08-9/§8-2",
+   "tekst": "lov/2024-03-08-9/§8-2"
+  },
+  {
+   "ref": "lov/2024-03-08-9/§8-3",
+   "tekst": "lov/2024-03-08-9/§8-3"
+  },
+  {
+   "ref": "lov/2024-03-08-9/§8-5",
+   "tekst": "lov/2024-03-08-9/§8-5"
+  },
+  {
+   "ref": "lov/2024-03-08-9/§11-4",
+   "tekst": "lov/2024-03-08-9/§11-4"
+  },
+  {
+   "ref": "lov/2024-03-08-9/§11-6",
+   "tekst": "lov/2024-03-08-9/§11-6"
+  },
+  {
+   "ref": "lov/2024-03-08-9/§11-7",
+   "tekst": "lov/2024-03-08-9/§11-7"
+  },
+  {
+   "ref": "lov/2024-03-08-9/§11-8",
+   "tekst": "lov/2024-03-08-9/§11-8"
+  },
+  {
+   "ref": "lov/2024-03-08-9/§11-9",
+   "tekst": "lov/2024-03-08-9/§11-9"
+  },
+  {
+   "ref": "lov/2024-03-08-9/§11-10",
+   "tekst": "lov/2024-03-08-9/§11-10"
+  },
+  {
+   "ref": "lov/2024-03-08-9/§11-11",
+   "tekst": "lov/2024-03-08-9/§11-11"
+  },
+  {
+   "ref": "lov/2024-03-08-9/§11-12",
+   "tekst": "lov/2024-03-08-9/§11-12"
+  },
+  {
+   "ref": "lov/2024-03-08-9/§12-4",
+   "tekst": "lov/2024-03-08-9/§12-4"
+  },
+  {
+   "ref": "lov/2024-03-08-9/§12-5",
+   "tekst": "lov/2024-03-08-9/§12-5"
+  },
+  {
+   "ref": "lov/2024-03-08-9/§12-6",
+   "tekst": "lov/2024-03-08-9/§12-6"
+  },
+  {
+   "ref": "lov/2024-03-08-9/§14-1",
+   "tekst": "lov/2024-03-08-9/§14-1"
+  }
+ ],
+ "kunngjort": "2020-04-07 15:10",
+ "tittel": "Forskrift om opptak, studier og eksamen ved Norsk barnebokinstitutt",
+ "annet": "Hjemmel: Fastsatt av styret i Norsk barnebokinstitutt 13. februar 2020 med hjemmel i lov 1. april 2005 nr. 15 om universiteter og høyskoler (universitets- og høyskoleloven) § 3-3, § 3-6, § 3-7, § 3-9 og § 3-10.\nTilføyd hjemmel: Lov 8. mars 2024 nr. 9 om universiteter og høyskoler (universitets- og høyskoleloven) § 8-1, § 8-2, § 8-3, § 8-5, § 11-4, § 11-6, § 11-7, § 11-8, § 11-9, § 11-10, § 11-11, § 11-12, § 12-4, § 12-5, § 12-6 og § 14-1.\nEndret ved forskrifter 20 mai 2021 nr. 4001, 23 mai 2024 nr. 967 (i kraft 1 aug 2024).",
+ "refid": "forskrift/2020-02-13-688",
+ "eli": "/eli/forskrift/2020/02/13/688",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2020-02-13-688",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "Kapittel I – Generelle regler",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1-1",
+     "tittel": "Forskriftens formål og virkeområde",
+     "ledd": [
+      "(1) Formålet med forskriften er å sikre en forsvarlig gjennomføring av studiene ved Norsk barnebokinstitutt.",
+      "(2) Forskriften gjelder opptak, studier og eksamen ved Norsk barnebokinstitutt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 1-2",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "I denne forskrift menes med:\na. Forfatterutdanningen: Forfatterutdanningen ved Norsk barnebokinstitutt. Utdanning i skrivekunst og litteraturformidling.\nb. Klagenemnd: Felles klagenemnd for Skrivekunstakademiet og Norsk barnebokinstitutt.\nc. Opptaksforskriften: Forskrift 6. januar 2017 nr. 13 om opptak til høgre utdanning.\nd. Samtidslitteraturstudiet: Samtidslitteratur for barn og unge. Nettbasert videreutdanning for litteraturformidlere.\ne. Utdanningsinstitusjonen: Norsk barnebokinstitutt.\nf. Mastergradsforskriften: Forskrift 1. desember 2005 nr. 1392 om krav til mastergrad.\ng. Masterstudiet: Masterstudium i barne- og ungdomslitterær skrivekunst og formidling."
+     ],
+     "endringer": [
+      "Endret ved forskrift 23 mai 2024 nr. 967 (i kraft 1 aug 2024)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "Kapittel II – Opptak til studier",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 2-1",
+     "tittel": "Opptak",
+     "ledd": [
+      "(1) Opptak til Norsk barnebokinstitutt skjer lokalt, og etter følgende intervaller:\na. Samtidslitteraturstudiet: hvert år med studiestart ved høstsemesterets begynnelse.\nb. Forfatterutdanningen: annethvert år med studiestart ved høstsemesterets begynnelse.\nc. Masterstudiet: annethvert år med studiestart ved høstsemesterets begynnelse.",
+      "(2) Studier ved utdanningsinstitusjonen er adgangsregulert av kapasitets- og ressurshensyn. Styret fastsetter årlig opptaksrammer for de enkelte studier. Styret har fullmakt til å justere opptaksrammene underveis i opptaksarbeidet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 2-2",
+     "tittel": "Opptakskrav for Samtidslitteraturstudiet",
+     "ledd": [
+      "(1) Opptak til Samtidslitteraturstudiet krever at søker på søknadstidspunktet har oppnådd en utdanning som kvalifiserer til arbeid med barne- og ungdomslitteratur eller formidling av slik litteratur.",
+      "(2) Eksempler på godkjent utdanning er:\na. bibliotekarstudier,\nb. litteraturstudier,\nc. lærerstudier,\nd. formidlingsstudier,\ne. pedagogikkstudier, eller\nf. andre relevante fag.",
+      "(3) Søknad om opptak skal inneholde:\na. Søknadsbrev der søker gjør rede for:\ni. behovet for økt kompetanse,\nii. muligheten til å gjennomføre utdanningen,\niii. målsettingen med studiet, og\niv. motivasjonen for utdanningen, og\nb. CV med opplysninger om søker, så som alder, yrke, adresse, telefon og e-postadresse, samt opplysninger om relevant utdanning og arbeidserfaring, og\nc. Vitnemål, attester og annen relevant dokumentasjon på utdanning og arbeidserfaring."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 2-3",
+     "tittel": "Saksbehandling ved opptak til Samtidslitteraturstudiet",
+     "ledd": [
+      "(1) Utdanningsinstitusjonen oppnevner hvert år en opptakskomité bestående av to personer, hvorav minst én er faglig ansatt ved utdanningsinstitusjonen.",
+      "(2) Opptakskomiteen rangerer søknadene etter en helhetsvurdering, med særlig vekt på søkers behov, gjennomføringsevne, målsetting og motivasjon.",
+      "(3) Søknader om opptak innvilges kun for hele studieløpet over ett år.",
+      "(4) Tre studieplasser er stipendplasser forbeholdt søkere fra Asia, Afrika, Midtøsten og/eller Latin-Amerika, samt søkere med samisk eller kvensk bakgrunn som ellers oppfyller kriteriene for opptak. Hvis slike søkere ikke finnes omgjøres stipendplassene til ordinære studieplasser."
+     ],
+     "endringer": [
+      "Endret ved forskrift 23 mai 2024 nr. 967 (i kraft 1 aug 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 2-4",
+     "tittel": "Opptakskrav for Forfatterutdanningen",
+     "ledd": [
+      "(1) Opptak til Forfatterutdanningen krever at søker på søknadstidspunktet har oppnådd generell studiekompetanse i form av fullført og bestått videregående utdanning. For søkere som er over 25 år på søknadstidspunktet kan spesielle faglige kvalifikasjoner i form av realkompetanse kompensere for manglende videregående utdanning.",
+      "(2) Før vedtak om opptak kan fattes, må søker i tillegg ha bestått opptaksprøve fastsatt av utdanningsinstitusjonen. Opptaksprøven består av en skriftlig og en muntlig del. Den skriftlige delen besvares og vedlegges søknaden. Den muntlige delen avholdes i samsvar med § 2-5 fjerde og femte ledd.",
+      "(3) Søknad om opptak skal inneholde:\na. Søknadsbrev der søker gjør rede for:\ni. behovet for økt kompetanse,\nii. muligheten til å gjennomføre utdanningen,\niii. målsettingen med studiet, og\niv. motivasjonen for utdanningen, og\nb. CV med opplysninger om søker, så som alder, yrke, adresse, telefon og e-postadresse, samt opplysninger om relevant utdanning og arbeidserfaring, og\nc. Den skriftlige delen av opptaksprøven, og\nd. Vitnemål, attester og annen relevant dokumentasjon på utdanning og arbeidserfaring.",
+      "(4) Den skriftlige delen av opptaksprøven skal bestå av en original tekst utformet av søkeren og ikke tidligere utgitt. Teksten kan ha form av:\na. Enten: Én til tre prosatekster for barn eller ungdom av skjønn- eller faglitterær art, til sammen ca. 15 sider,\nb. Eller: Poesi for barn eller ungdom, til sammen ca. ti sider,\nc. Eller: Scenetekst for barn eller ungdom, til sammen ca. 12 sider,\nd. Eller: En blanding av poesi og prosa for barn eller ungdom, til sammen ca. 15 sider."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 20 mai 2021 nr. 4001, 23 mai 2024 nr. 967 (i kraft 1 aug 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 2-5",
+     "tittel": "Saksbehandling ved opptak til Forfatterutdanningen",
+     "ledd": [
+      "(1) Utdanningsinstitusjonen oppnevner en opptakskomité bestående av tre personer som hver for seg eller samlet skal ha kompetanse i skrivekunst og litteraturformidling. Minst ett medlem i opptakskomiteen er faglig ansatt ved utdanningsinstitusjonen.",
+      "(2) Opptakskomiteen vurderer innledningsvis søkerne på bakgrunn av søknadens formelle krav, herunder om de formelle krav til opptaksprøvens skriftlige del er oppfylt.",
+      "(3) Søkere som oppfyller de formelle kravene går videre til opptaksrundens annen del. I annen del vurderer opptakskomiteen skrivekunstnerisk talent i den skriftlige delen av opptaksprøven, og foretar en rangering utelukkende på denne bakgrunn.",
+      "(4) De søkerne som rangeres høyest etter tredje ledd, går videre til opptaksprøvens muntlige del. Den muntlige delen utføres av opptakskomiteen som intervju med søkeren. I vurderingen av intervjuet vektlegges:\na. søkerens personlige egnethet i form av motivasjon og vilje til å arbeide med studiet, og\nb. søkerens mulighet for å sette av tilstrekkelig med tid for å gjennomføre studiet.",
+      "(5) Som grunnlag for opptakskomiteens og søkerens forberedelser til intervjuet legges søknadsbrevet etter § 2-4 tredje ledd bokstav a til grunn.",
+      "(6) På bakgrunn av en samlet vurdering av skriftlig og muntlig opptaksprøve, rangerer opptakskomiteen søkerne. Opptakskomiteen kan tilby de høyest rangerte søkerne studieplass. Ved eventuell ledig kapasitet, kan de øvrige søkerne tilbys studieplass etter rangering.",
+      "(7) To studieplasser er stipendplasser forbeholdt søkere fra Asia, Afrika, Midtøsten og/eller Latin-Amerika, samt søkere med samisk eller kvensk bakgrunn som ellers oppfyller kriteriene for opptak. Hvis slike søkere ikke finnes omgjøres stipendplassene til ordinære studieplasser."
+     ],
+     "endringer": [
+      "Endret ved forskrift 23 mai 2024 nr. 967 (i kraft 1 aug 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-6",
+     "nummer": "§ 2-6",
+     "tittel": "Opptakskrav til Masterstudiet",
+     "ledd": [
+      "(1) Masterstudiet er regulert av Mastergradsforskriften og bygger på en 3-årig bachelorgrad eller likeverdig utdanning (180 studiepoeng). Minst 80 studiepoeng innenfor mastergradens fagområde (for eksempel skrivekunst, film, dramaturgi, barne- og ungdomslitteratur, nordisk litteratur, fremmedspråkslitteratur, allmenn litteraturvitenskap, formidling, skuespillerfag). Andre dokumenterte kvalifikasjoner kan i spesielle tilfeller godkjennes som likeverdig med inntil 80 studiepoeng. Det kan for eksempel være erfaring med barne- og ungdomslitterær skrivekunst og formidling til barn og unge.",
+      "(2) Opptak skjer etter skriftlig søknad og opptaksprøve. Den skriftlige søknaden skal inkludere søknadsbrev og CV. Søknadsbrevet skal opplyse om motivasjon for egen skriving og motivasjon for formidling. CV skal minst opplyse om tidligere utdanning, skriveerfaring og formidlingserfaring.",
+      "(3) Skriftlig søknad om opptak skal inneholde:\na. Søknadsbrev der søker gjør rede for:\ni. motivasjon for egen skriving,\nii. motivasjon for formidling,\nb. CV med opplysninger om søker, så som alder, yrke, adresse, telefon og e-postadresse, samt opplysninger om arbeidserfaring, og\ni. tidligere utdanning,\nii. tidligere skriveerfaring, og\niii. tidligere formidlingserfaring\nc. Vitnemål, attester og annen relevant dokumentasjon på utdanning og erfaring.",
+      "(4) Opptaksprøven er todelt. Første del sendes inn sammen med søknaden og består av egen kunstnerisk tekst som skal være på ca. 15 sider og ikke tidligere er utgitt samt en beskrivelse av et formidlingsopplegg for barn på 3–5 sider. Formidlingsopplegget kan være avholdt, men det er ikke et krav.",
+      "(5) Kvalifiserte søkere rangeres første gang på bakgrunn av opptaksprøvens første del. De høyest rangerte innkalles til muntlig opptaksprøve.",
+      "(6) Den muntlige prøven formes som kunstnerisk refleksjon og refleksjon over målgrupperelaterte formidlingsmetoder. Den muntlige prøven avgjør hvem som blir tilbudt studieplass."
+     ],
+     "endringer": [
+      "Endret ved forskrift 23 mai 2024 nr. 967 (i kraft 1 aug 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-7",
+     "nummer": "§ 2-7",
+     "tittel": "Saksbehandling ved opptak til Masterstudiet",
+     "ledd": [
+      "(1) Utdanningsinstitusjonen oppnevner en opptakskomité bestående av tre personer som hver for seg eller samlet skal ha kompetanse i skrivekunst og litteraturformidling. Minst ett medlem i opptakskomiteen er faglig ansatt ved utdanningsinstitusjonen.",
+      "(2) Opptakskomiteen vurderer innledningsvis søkerne på bakgrunn av søknadens formelle krav, herunder om de formelle krav til opptaksprøvens skriftlige del er oppfylt.",
+      "(3) Søkere som oppfyller de formelle kravene går videre til opptaksrundens annen del. I annen del vurderer opptakskomiteen skrivekunstnerisk talent og evne til målgrupperelatert formidling i den skriftlige delen av opptaksprøven, og foretar en rangering utelukkende på denne bakgrunn.",
+      "(4) De søkerne som rangeres høyest etter tredje ledd, går videre til opptaksprøvens muntlige del. Den muntlige delen formes som kunstnerisk refleksjon og refleksjon over målgrupperelaterte formidlingsmetoder. I vurderingen av den muntlige prøven vektlegges søkerens evne til refleksjon over kunstneriske og formidlingsrelaterte prosesser.",
+      "(5) Som grunnlag for opptakskomiteens forberedelser til vurdering av den muntlige prøven legges den skriftlige prøven etter § 2-6 fjerde ledd til grunn.",
+      "(6) Opptakskomiteen rangerer søkerne på bakgrunn av den muntlige opptaksprøven. Opptakskomiteen kan tilby de høyest rangerte søkerne studieplass. Ved eventuell ledig kapasitet, kan de øvrige søkerne tilbys studieplass etter rangering.",
+      "(7) To studieplasser er stipendplasser forbeholdt søkere fra Asia, Afrika, Midtøsten og/eller Latin-Amerika, samt søkere med samisk eller kvensk bakgrunn som ellers oppfyller kriteriene for opptak. Hvis slike søkere ikke finnes omgjøres stipendplassene til ordinære studieplasser."
+     ],
+     "endringer": [
+      "Endret ved forskrift 23 mai 2024 nr. 967 (i kraft 1 aug 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-8",
+     "nummer": "§ 2-8",
+     "tittel": "Klage over vedtak om opptak",
+     "ledd": [
+      "(1) Søker som har fått avslag på vedtak om opptak, kan klage over avgjørelsen. Klagen skal være skriftlig og gjøre rede for grunnlaget for klagen, herunder om det klages over formelle feil (saksbehandlingen) eller opptakskomiteens vurdering av søknaden (skjønnsutøvelsen).",
+      "(2) Klage over vedtak om opptak til Forfatterutdanningen og Masterstudiet kan kun skje på grunnlag av formelle feil.",
+      "(3) Klager behandles av utdanningsinstitusjonens klagenemnd.",
+      "(4) Klagefristen er tre uker etter at opptaksvedtak er kunngjort."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-9",
+     "nummer": "§ 2-9",
+     "tittel": "Klagenemnd",
+     "ledd": [
+      "(1) Utdanningsinstitusjonen har felles klagenemnd med Skrivekunstakademiet.",
+      "(2) Klagenemnden skal ha fem medlemmer med personlige varamedlemmer. Leder og varamedlem for leder skal fylle de lovbestemte krav for lagdommere. Leder og varamedlem for leder skal ikke være ansatt ved institusjonen. To av medlemmene skal være studenter.",
+      "(3) Representanter for institusjonens eier eller medlem av institusjonens styre kan ikke være medlem av klagenemnden.",
+      "(4) Klagenemnden skal behandle klager over enkeltvedtak og, etter styrets bestemmelse, andre klagesaker for kandidatene.",
+      "(5) Klagenemnden er vedtaksfør når lederen eller varamedlem for leder og to andre medlemmer er til stede.",
+      "(6) Klagenemndens vedtak i klagesaker kan ikke påklages."
+     ],
+     "endringer": [
+      "Endret ved forskrift 23 mai 2024 nr. 967 (i kraft 1 aug 2024)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kapIII",
+   "overskrift": "Kapittel III – Eksamensreglement",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 3-1",
+     "tittel": "Rett til avlegging av eksamen",
+     "ledd": [
+      "Studenter som er tatt opp til studier etter kapittel II har adgang til å avlegge eksamen dersom:\na. Studenten har betalt studieavgift for alle gjennomførte semestre på studiet,\nb. Studenten har meldt seg opp til eksamen innen tidsfrist angitt av utdanningsinstitusjonen, og\nc. Studenten har oppfylt arbeidskravene til studiet angitt av utdanningsinstitusjonen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 3-2",
+     "tittel": "Eksamensformer",
+     "ledd": [
+      "Følgende eksamensformer kan tas i bruk:\na. gruppeopplegg og foredrag,\nb. mappeinnlevering,\nc. muntlig prøve,\nd. skriftlig hjemmeoppgave,\ne. semesteroppgave,\nf. formidlingsopplegg,\ng. undervisningsopplegg,\nh. masterprosjekt,\ni. samtale mellom student og eksamenskommisjon."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 3-3",
+     "tittel": "Gruppeopplegg og foredrag",
+     "ledd": [
+      "Gruppeopplegg og foredrag er muntlige redegjørelser av fastlagt lengde over et på forhånd fastsatt tema, fremført for en forsamling av studenter og sensorer. Gruppeopplegg forberedes og fremføres av flere enn én student i fellesskap. Foredrag forberedes og fremføres individuelt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 3-4",
+     "tittel": "Mappeinnlevering",
+     "ledd": [
+      "Mappeinnlevering er innlevering av på forhånd fastsatte obligatoriske eller selvvalgte oppgaver til studentens egen eksamensmappe. Oppgaver som inngår i eksamensmappen kan bedømmes hver for seg og samlet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 3-5",
+     "tittel": "Muntlig prøve",
+     "ledd": [
+      "I muntlig prøve gjør studenten rede for deler av pensum med utgangspunkt i spørsmål fra en eksamenskomité. Der det er nødvendig kan komiteen også be om utgreiinger i forbindelse med innleverte skriftlige oppgaver. Studenten må ha fremvist gyldig legitimasjon for å få adgang til å avlegge muntlig prøve."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-6",
+     "nummer": "§ 3-6",
+     "tittel": "Skriftlig hjemmeoppgave",
+     "ledd": [
+      "Skriftlig hjemmeoppgave innebærer at studenten arbeider individuelt over et angitt tidsforløp med en skriftlig besvarelse over et oppgitt emne."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-7",
+     "nummer": "§ 3-7",
+     "tittel": "Semesteroppgave",
+     "ledd": [
+      "Semesteroppgave er en individuell skriftlig besvarelse av en oppgave studenten selv har valgt innenfor et relevant studieemne. Valg av oppgave må godkjennes av utdanningsinstitusjonen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-8",
+     "nummer": "§ 3-8",
+     "tittel": "Formidlingsopplegg",
+     "ledd": [
+      "Formidlingsopplegg innebærer at studenten planlegger og beskriver et formidlingsprosjekt som er teoretisk og praktisk relevant for det aktuelle studieemnet. Skisse for opplegget skal forelegges ansvarlig lærer til avsatt tid for forhåndsgodkjenning. Skriftlig rapport over formidlingsopplegget skal innleveres til studentens eksamensmappe. Rapporten skal presentere opplegget og drøfte sentrale problemstillinger knyttet til intensjon, gjennomføring og resultat."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-9",
+     "nummer": "§ 3-9",
+     "tittel": "Undervisningsopplegg",
+     "ledd": [
+      "Undervisningsopplegg er en forberedelse og avholdelse av undervisning for en eller flere elever. Valg av tema og form for undervisning må godkjennes av utdanningsinstitusjonen før den kan avholdes. For at undervisningsopplegget skal godkjennes må studenten utferdige og innlevere en evalueringsrapport om forberedelsen og avholdelsen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-10",
+     "nummer": "§ 3-10",
+     "tittel": "Masterprosjekt",
+     "ledd": [
+      "Masterprosjekt er et selvstendig, individuelt gjennomført arbeid til 40 studiepoeng. Masterprosjektet er to-delt. Det består av 1) et selvvalgt kunstnerisk utviklingsarbeid som munner ut i barne- og ungdomslitterær(e) tekst(er) i selvvalgt(e) format(er). Teksten(e) danner grunnlag for 2) et formidlingsprosjekt som også skal utarbeides. Det er anledning til å tilpasse formidlingsopplegget til ulike formater."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-11",
+     "nummer": "§ 3-11",
+     "tittel": "Samtale mellom student og eksamenskomité",
+     "ledd": [
+      "Samtale mellom student og eksamenskomité kan brukes som del av vurderingsgrunnlag sammen med for eksempel innlevert eksamensmappe."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-12",
+     "nummer": "§ 3-12",
+     "tittel": "Nærmere om eksamensformer",
+     "ledd": [
+      "Styret kan fastsette de nærmere regler for hvordan de ulike eksamensformer skal avvikles. Slike regler skal gjøres tilgjengelig for studentene på hensiktsmessig måte."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-13",
+     "nummer": "§ 3-13",
+     "tittel": "Eksamenskomité",
+     "ledd": [
+      "(1) Styret oppnevner en eksamenskomité bestående av to medlemmer, hvorav minst ett av medlemmene skal ha førstestillingskompetanse. Ett av medlemmene skal videre ha tilknytning til utdanningsinstitusjonen i kraft av forskerstilling eller lærerstilling. For Forfatterutdanningen og Masterstudiet skal videre minst ett av medlemmene ha relevant kunstnerisk kompetanse.",
+      "(2) Eksamenskomiteen vurderer eksamener som utgjør hele eller del av avsluttende eksamen. For deleksamen i løpet av studiet kan intern sensur der begge komitémedlemmene er hentet fra det ordinære lærermiljøet benyttes."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-14",
+     "nummer": "§ 3-14",
+     "tittel": "Sensur og vurdering",
+     "ledd": [
+      "(1) Sensuren skal foreligge innen 15 virkedager hvis ikke særlige grunner gjør det nødvendig å bruke mer tid.",
+      "(2) Vurderingsuttrykket ved eksamen, prøve, bedømmelse av oppgave eller annen vurdering skal være bestått/ikke-bestått eller en gradert skala med fem trinn fra A til E for bestått og F for ikke-bestått."
+     ],
+     "endringer": [
+      "Endret ved forskrift 23 mai 2024 nr. 967 (i kraft 1 aug 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-15",
+     "nummer": "§ 3-15",
+     "tittel": "Vitnemål",
+     "ledd": [
+      "Vitnemål utferdiges dersom samtlige moduler/emner er bestått. En student som etter tredje gangs eksamen i en modul/emne fremdeles ikke har bestått denne, kan få dokumentasjon av resultater for de moduler/emner som er bestått."
+     ],
+     "endringer": [
+      "Endret ved forskrift 23 mai 2024 nr. 967 (i kraft 1 aug 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-16",
+     "nummer": "§ 3-16",
+     "tittel": "Kontinuasjon og ny eksamen",
+     "ledd": [
+      "(1) Studenter som har gyldig sykdomsforfall til eksamen vedkommende er meldt opp i, har adgang til å avlegge kontinuasjonseksamen. Kontinuasjonseksamen arrangeres så snart som mulig etter ordinær evaluering, og senest innen fire uker etter klagefristens utløp. Har studenten også gyldig sykdomsforfall til kontinuasjonseksamen, har vedkommende adgang til innen fem uker å avlegge ytterligere én kontinuasjonseksamen.",
+      "(2) Frister for avholdelse av kontinuasjonseksamen avbrytes i rettsferien.",
+      "(3) Studenter som ikke består eksamen, har rett til å melde seg opp til ny ordinær eksamen i vedkommende emne. Slik rett bortfaller dersom eksamen ikke bestås ved tredje forsøk.",
+      "(4) Studenter har ikke rett til å melde seg opp til ny eksamen i et allerede bestått emne."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-17",
+     "nummer": "§ 3-17",
+     "tittel": "Klage over formelle feil ved eksamen",
+     "ledd": [
+      "Ved klage over formelle feil ved eksamen gjelder universitets- og høyskoleloven § 11-9. Utdanningsinstitusjonens klagenemnd er relevant klageinstans for klager etter lovens § 11-9."
+     ],
+     "endringer": [
+      "Endret ved forskrift 23 mai 2024 nr. 967 (i kraft 1 aug 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-18",
+     "nummer": "§ 3-18",
+     "tittel": "Klage over karakterfastsetting, klagesensur og rett til begrunnelse for karakter",
+     "ledd": [
+      "Rett til begrunnelse for karakter gjelder iht. universitets- og høyskolelovens § 11-8. Ved klage på karakterfastsettelse gjelder universitets- og høyskolelovens § 11-10. Klagesensur gjennomføres iht. universitets- og høyskolelovens § 11-11."
+     ],
+     "endringer": [
+      "Endret ved forskrift 23 mai 2024 nr. 967 (i kraft 1 aug 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-19",
+     "nummer": "§ 3-19",
+     "tittel": "Annullering, utestenging og bortvisning",
+     "ledd": [
+      "Ved annullering av eksamen eller prøve, utestenging og bortvisning gjelder universitets- og høyskolelovens § 12-4–§ 12-6."
+     ],
+     "endringer": [
+      "Endret ved forskrift 23 mai 2024 nr. 967 (i kraft 1 aug 2024)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kapIV",
+   "overskrift": "Kapittel IV – Ikrafttredelse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 4-1",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Forskriften trer i kraft 1. mai 2020. Fra samme dato oppheves forskrift 23. mai 2017 nr. 993 om opptak, studier og eksamen ved Norsk barnebokinstitutt."
+     ]
+    }
+   ]
+  }
+ ]
+}

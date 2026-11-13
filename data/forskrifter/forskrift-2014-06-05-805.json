@@ -1,0 +1,744 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2014-06-05-805",
+ "dokumentid": "SF/forskrift/2014-06-05-805",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "etat": [
+  "Sjøfartsdirektoratet"
+ ],
+ "kunngjort_i": "I 2014 hefte 8",
+ "ikraft": "2014-07-01",
+ "siste_endring_ikraft": "2025-06-26",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2025-06-26-1372",
+   "tekst": "forskrift/2025-06-26-1372"
+  }
+ ],
+ "endrer": "forskrift/2001-10-19-1309",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2007-02-16-9/§2",
+   "tekst": "lov/2007-02-16-9/§2"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§6",
+   "tekst": "lov/2007-02-16-9/§6"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§17",
+   "tekst": "lov/2007-02-16-9/§17"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§43",
+   "tekst": "lov/2007-02-16-9/§43"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§45",
+   "tekst": "lov/2007-02-16-9/§45"
+  },
+  {
+   "ref": "forskrift/2007-02-16-171",
+   "tekst": "forskrift/2007-02-16-171"
+  },
+  {
+   "ref": "forskrift/2007-05-31-590",
+   "tekst": "forskrift/2007-05-31-590"
+  }
+ ],
+ "kunngjort": "2014-06-24 14:20",
+ "siste_rettelse": "2022-01-27 (tegnsetting i lister tilpasset universell utforming)",
+ "korttittel": "Forskrift om helseundersøkelse på skip",
+ "tittel": "Forskrift om helseundersøkelse av arbeidstakere på norske skip og flyttbare innretninger",
+ "annet": "Hjemmel: Fastsatt av Sjøfartsdirektoratet 5. juni 2014 med hjemmel i lov 16. februar 2007 nr. 9 om skipssikkerhet (skipssikkerhetsloven) § 2, § 6, § 17, § 43 og § 45, jf. delegeringsvedtak 16. februar 2007 nr. 171 og delegeringsvedtak 31. mai 2007 nr. 590.\nEØS-henvisninger: EØS-avtalen vedlegg VII nr. 1 (direktiv 2005/36/EØF), vedlegg XIII (direktiv (EU) 2019/1159), vedlegg XIII nr. 56j (direktiv (EU) 2022/993), vedlegg XVIII nr. 32j (direktiv 2009/13/EF).\nEndret ved forskrifter 10 nov 2017 nr. 1778, 20 des 2017 nr. 2379, 3 feb 2020 nr. 102, 30 juli 2021 nr. 2465 (i kraft 1 aug 2021), 24 jan 2022 nr. 118, 2 juni 2023 nr. 791, 7 nov 2023 nr. 1800 (EØS-henvisning), 26 juni 2025 nr. 1372.\nRettelser: 15.04.2015 (EØS-henvisningsfeltet), 25.01.2017 (EØS-henvisningsfeltet), 30.01.2018 (§ 16), 05.12.2019 (hjemmel), 27.01.2022 (tegnsetting i lister tilpasset universell utforming).",
+ "refid": "forskrift/2014-06-05-805",
+ "eli": "/eli/forskrift/2014/06/05/805",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2014-06-05-805",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "Kapittel I. Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Formål",
+     "ledd": [
+      "Forskriften skal sikre at den som har sitt arbeid på norsk skip eller flyttbar innretning, er helsemessig skikket til tjeneste om bord, ikke lider av én eller flere medisinske tilstander som kan antas å bli forverret ved tjeneste om bord, eller utgjør en fare for helsen eller sikkerheten til andre om bord."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 10 nov 2017 nr. 1778 (i kraft 16 nov 2017), 20 des 2017 nr. 2379 (i kraft 1 jan 2018)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Forskriften gjelder for den som har sitt arbeid på norsk skip eller flyttbare innretning, med unntak av den som bare\na. arbeider om bord mens fartøyet ligger i havn\nb. foretar inspeksjoner om bord.",
+      "Forskriften gjelder ikke for den som er fylt 18 år og som har sitt arbeid på følgende fartøy, når fartøyet ikke er sammenhengende ute i sjøen i mer enn tre dager:\na. fiskefartøy med største lengde opp til 15 meter eller med bruttotonnasje under 100 når fartøyet har en lengde (L) under 24 meter\nb. fiskefartøy med lengde (L) under 24 meter, som er sertifisert for Bankfiske I eller mindre fartsområder\nc. lasteskip med lengde (L) under 15 meter i innenriksfart.",
+      "Forskriften gjelder for sjøfartsleger."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 10 nov 2017 nr. 1778 (i kraft 16 nov 2017), 26 juni 2025 nr. 1372."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "I denne forskrift menes med:\na. «Sjøfartslege»: Lege som er godkjent til å utføre helseundersøkelse og treffe vedtak i samsvar med bestemmelsene i forskriften her.\nb. «Helseerklæring»: Erklæring fra sjøfartslege om at en person er undersøkt i samsvar med forskriften her, og funnet helsemessig skikket til å gjøre tjeneste om bord.\nc. «Permanent udyktighetserklæring»: Erklæring fra sjøfartslege om at en person er undersøkt i samsvar med forskriften her, og ikke funnet helsemessig skikket til å gjøre tjeneste om bord og det ikke er sannsynlig at personen vil oppfylle vilkårene innen to år.\nd. «Foreløpig udyktighetserklæring»: Erklæring fra sjøfartslege om at en person er undersøkt i samsvar med forskriften her, og ikke funnet helsemessig skikket til å gjøre tjeneste om bord, men det er sannsynlig at personen vil kunne oppfylle vilkårene innen to år.\ne. «Midlertidig udyktighetserklæring»: Erklæring fra sjøfartslege, uten forutgående helseundersøkelse, om at en person ikke anses helsemessig skikket til å gjøre tjeneste om bord."
+     ],
+     "endringer": [
+      "Endret ved forskrift 26 juni 2025 nr. 1372."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "Kapittel II. Rederiet og den som har sitt arbeid om bord",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Overskrift endret ved forskrift 10 nov 2017 nr. 1778 (i kraft 16 nov 2017)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 4",
+     "tittel": "Krav om helseerklæring",
+     "ledd": [
+      "Den som har sitt arbeid om bord, skal ha gyldig helseerklæring.",
+      "Helseerklæring utstedt i samsvar med kravene til helseerklæringer i et EØS-land, oppfyller kravet i første ledd når helseerklæringen er utstedt i et EØS-land.",
+      "Den som har sitt arbeid om bord, kan ha helseerklæring utstedt av flaggstat som Sjøfartsdirektoratet har godkjent.",
+      "Den som har sitt arbeid på flyttbar innretning i stilling som ikke krever kompetansesertifikat etter forskrift 22. desember 2011 nr. 1523 om kvalifikasjoner og sertifikater for sjøfolk, kan alternativt ha helseerklæring etter Petroleumstilsynets regelverk.",
+      "Hvis helseerklæringen til den som har sitt arbeid om bord, er utløpt for ikke mer enn én måned siden, kan vedkommende tiltre tjeneste om bord når det med rimelighet ikke er mulig å legge frem ny helseerklæring uten at fartøyet blir oppholdt. Ny helseerklæring skal legges frem i første havn skipet anløper og hvor undersøkelsen kan utføres etter kravene i forskriften her, men ikke senere enn seks uker etter at den som har sitt arbeid om bord, tiltrådte tjeneste. Hvis mulig skal det fremlegges en midlertidig helseerklæring om tilfredsstillende helse.",
+      "Helseerklæringene skal oppbevares av skipsfører om bord.",
+      "Rederiet skal bære utgiftene ved helseundersøkelse etter denne forskriften."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 10 nov 2017 nr. 1778 (i kraft 16 nov 2017), 30 juli 2021 nr. 2465 (i kraft 1 aug 2021)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 5",
+     "tittel": "Helseerklæringens gyldighet",
+     "ledd": [
+      "Helseerklæringen er gyldig i to år. Helseerklæring utstedt til den som er under 18 år, er gyldig i ett år.",
+      "Hvis helseerklæringen utløper når skipet er ute i sjøen, er helseerklæringen gyldig til første havn skipet anløper hvor undersøkelsen kan utføres etter kravene i forskriften her.",
+      "Helseerklæringen er uansett ikke lenger gyldig når det er gått mer enn tre måneder siden utløpsdato.",
+      "Helseerklæringen skal fornyes hvis den som har sitt arbeid om bord, tiltrer en annen stilling om bord med strengere krav til helse."
+     ],
+     "endringer": [
+      "Endret ved forskrift 10 nov 2017 nr. 1778 (i kraft 16 nov 2017)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 6",
+     "tittel": "Krav om ny helseerklæring",
+     "ledd": [
+      "Rederiet eller skipsføreren skal kreve ny helseerklæring hvis det er sannsynlig at den som har sitt arbeid om bord, ikke lenger oppfyller kravene til helseerklæring i forskriften her.",
+      "Kravet om ny helseerklæring skal gis skriftlig og være begrunnet. Begrunnelsen for kravet om ny helseerklæring kan for eksempel være at den som har sitt arbeid om bord, har vært arbeidsufør i mer enn 30 dager, har vært innlagt på sykehus eller begynner med nye medisiner.",
+      "Den som har sitt arbeid om bord, som har grunn til å anta at helsekravene i forskriften her ikke lenger er oppfylt for eget vedkommende, skal uten ugrunnet opphold informere skipsføreren eller rederiet og konsultere sjøfartslege."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 10 nov 2017 nr. 1778 (i kraft 16 nov 2017), 26 juni 2025 nr. 1372."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 6a",
+     "tittel": "Dispensasjon ved innflagging av fartøy",
+     "ledd": [
+      "Når et fartøy skal registreres i et norsk skipsregister i forbindelse med innflagging, kan Sjøfartsdirektoratet etter skriftlig søknad fra rederiet gi et tidsavgrenset unntak fra kravet om gyldig helseerklæring etter denne forskriften dersom rederiet godtgjør at følgende vilkår er oppfylt:\na. det ikke med rimelighet er mulig å fremlegge gyldige helseerklæringer etter denne forskriften for alle som har sitt arbeid om bord, før tidspunktet for registrering i et norsk skipsregister,\nb. de som har sitt arbeid om bord, har gyldige helseerklæringer som er utstedt av en flaggstat som har ratifisert den internasjonale konvensjon om normer for opplæring, sertifikater og vakthold for sjøfolk (STCW), og det fremgår av helseerklæringene at de er utstedt i samsvar med STCW,\nc. kopi av gyldige helseerklæringer etter denne forskriften vil bli sendt inn så snart som mulig og senest innen tre måneder etter at fartøyet er blitt registrert i et norsk skipsregister."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 3 feb 2020 nr. 102."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kapIII",
+   "overskrift": "Kapittel III. Sjøfartsleger",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrift 26 juni 2025 nr. 1372."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 7",
+     "tittel": "Krav for å bli godkjent som sjøfartslege",
+     "ledd": [
+      "Sjøfartsdirektoratet eller norsk utenriks fagstasjon kan gi godkjenning som sjøfartslege til lege med autorisasjon i henhold til nasjonale bestemmelser i det landet hvor vedkommende har sin praksis, og som\na. har gjennomført kurs i sjøfartsmedisin godkjent av Sjøfartsdirektoratet\nb. kan gjennomføre helseundersøkelser etter forskriften her i et slikt omfang at sjøfartsmedisinsk kompetanse opprettholdes\nc. deltar på oppfriskningskurs i sjøfartsmedisin i løpet av godkjenningsperioden\nd. har tilgang til det utstyret som kreves for å gjennomføre helseundersøkelser etter forskriften her\ne. har normalt fargesyn eller har organisert seg slik at fargesynet til den som har sitt arbeid om bord, kan bli forsvarlig undersøkt\nf. behersker norsk eller engelsk\ng. har nødvendig kjennskap til norsk regelverk, særlig forskriften her og forvaltningsloven\nh. har et kvalitetssystem i henhold til en internasjonalt anerkjent standard.",
+      "Lege med praksis i Norge godkjennes som sjøfartslege av Sjøfartsdirektoratet.",
+      "Lege med praksis utenfor Norge godkjennes som sjøfartslege av utenriks fagstasjon på vegne av Sjøfartsdirektoratet.",
+      "Godkjenning som sjøfartslege gis for en periode fra ett til fem år.",
+      "Godkjenningsbeviset skal være synlig plassert på kontoret til sjøfartslegen.",
+      "Sjøfartslege med praksis i Norge skal sende søknad om fornyelse av godkjenningen til Sjøfartsdirektoratet ikke senere enn én måned før godkjennelsen utløper.",
+      "Sjøfartslege med praksis utenfor Norge skal sende søknad om fornyelse av godkjenningen til utenriks fagstasjon ikke senere enn én måned før godkjennelsen utløper.",
+      "Godkjenning kan trekkes tilbake hvis det er sannsynlig at legen ikke lenger oppfyller vilkårene for godkjenning eller legens saksbehandling ikke er i samsvar med kravene i forskriften her eller forvaltningsloven.",
+      "Sjøfartsdirektoratet kan i særlige tilfeller gi dispensasjon fra kravene for å bli godkjent som sjøfartslege."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 10 nov 2017 nr. 1778 (i kraft 16 nov 2017), 26 juni 2025 nr. 1372."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 8",
+     "tittel": "Krav til legitimasjon og egenerklæring",
+     "ledd": [
+      "Før helseundersøkelsen begynner, skal sjøfartslegen kontrollere identiteten til den som har sitt arbeid om bord.",
+      "Den som har sitt arbeid om bord, skal avgi egenerklæring om sin helse på skjema fastsatt av Sjøfartsdirektoratet og underskrive egenerklæringen i sjøfartslegens påsyn.",
+      "Sjøfartslegen skal oppbevare egenerklæringen."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 10 nov 2017 nr. 1778 (i kraft 16 nov 2017), 26 juni 2025 nr. 1372."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 9",
+     "tittel": "Sjøfartslegens kompetanse og saksbehandling",
+     "ledd": [
+      "Sjøfartslege kan foreta helseundersøkelse og utstede:\na. helseerklæring\nb. begrenset helseerklæring\nc. permanent, foreløpig eller midlertidig udyktighetserklæring.",
+      "Sjøfartslegens vedtak etter første ledd er enkeltvedtak etter forvaltningsloven.",
+      "Helseundersøkelsen gjøres med utgangspunkt i § 1 og vedlegget til forskriften her. Når den som har sitt arbeid om bord, har en medisinsk tilstand som ikke direkte fremgår av vedlegget, skal sjøfartslegen anvende analog vurdering for å sikre at formålet i § 1 er oppfylt.",
+      "Sjøfartslege som har tilgang til elektronisk registrering av helse- og udyktighetserklæringer, skal undersøke den sist registrerte helse- eller udyktighetserklæringen til den som har sitt arbeid om bord, i Sjøfartsdirektoratets database.",
+      "Sjøfartslegen skal kreve at den som har sitt arbeid om bord, legger frem papirversjonen av sin sist utstedte helseerklæring. Sjøfartslegen skal makulere denne helseerklæringen ved endt undersøkelse."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 10 nov 2017 nr. 1778 (i kraft 16 nov 2017), 2 juni 2023 nr. 791, 26 juni 2025 nr. 1372."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 10",
+     "tittel": "Utstedelse av helseerklæring",
+     "ledd": [
+      "Når den som har sitt arbeid om bord, oppfyller kravene i forskriften her, skal sjøfartslegen utstede helseerklæring på skjema fastsatt av Sjøfartsdirektoratet.",
+      "Hvis sjøfartslegen med utgangspunkt i § 1 vurderer at det er helse- og sikkerhetsmessig forsvarlig, kan helseerklæring utstedes til den som har sitt arbeid om bord, selv om resultatet av undersøkelser ikke foreligger før tiltredelse i tjenesten.",
+      "Sjøfartslegen skal underrette rederiet og den som har sitt arbeid om bord, hvis de fullstendige undersøkelsesresultatene viser at den som har sitt arbeid om bord, ikke oppfyller kravene til helseerklæring i forskriften her.",
+      "Sjøfartslege som har tilgang til elektronisk registrering av helse- og udyktighetserklæringer, skal registrere helseerklæringen i Sjøfartsdirektoratets database.",
+      "Sjøfartslegen skal signere helseerklæringen og stemple den med et stempel som har sjøfartslegens navn og tittel. Helseerklæringen skal også signeres av den som har sitt arbeid om bord."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 10 nov 2017 nr. 1778 (i kraft 16 nov 2017), 2 juni 2023 nr. 791, 26 juni 2025 nr. 1372."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 11",
+     "tittel": "Utstedelse av begrenset helseerklæring",
+     "ledd": [
+      "En helseerklæring kan begrenses til et bestemt fartsområde, et bestemt tidsrom eller en bestemt tjeneste om bord.",
+      "I vurderingen av om det skal utstedes begrenset helseerklæring, skal sjøfartslegen blant annet ta hensyn til\na. helsen til den som har sitt arbeid om bord\nb. arbeidsoppgavene som følger tjenesten til den som har sitt arbeid om bord\nc. om den som har sitt arbeid om bord, kan fungere effektivt i en nøds- eller ulykkessituasjon\nd. om den som har sitt arbeid om bord, utgjør en fare for helsen eller sikkerheten til andre som har sitt arbeid om bord.",
+      "Sjøfartslege som har tilgang til elektronisk registrering av helse- og udyktighetserklæringer, skal registrere den begrensede helseerklæringen i Sjøfartsdirektoratets database. Sjøfartslege som ikke har tilgang til elektronisk registrering, skal sende en kopi av den begrensede helseerklæringen til Sjøfartsdirektoratet.",
+      "Sjøfartslegen skal signere den begrensede helseerklæringen og stemple den med et stempel som har sjøfartslegens navn og tittel. Helseerklæringen skal også signeres av den som har sitt arbeid om bord."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 10 nov 2017 nr. 1778 (i kraft 16 nov 2017), 2 juni 2023 nr. 791, 26 juni 2025 nr. 1372."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-6",
+     "nummer": "§ 12",
+     "tittel": "Utstedelse av permanent, foreløpig og midlertidig udyktighetserklæring",
+     "ledd": [
+      "Når den som har sitt arbeid om bord, ikke oppfyller kravene til helseerklæring i forskriften her, og det ikke er sannsynlig at vedkommendes helse vil bedre seg innen to år, skal sjøfartslegen utstede en permanent udyktighetserklæring.",
+      "Når den som har sitt arbeid om bord, ikke oppfyller kravene til helseerklæring i forskriften her, men vedkommende innen to år kan oppfylle kravene, skal sjøfartslegen utstede en foreløpig udyktighetserklæring.",
+      "Sjøfartslege som uten forutgående helseundersøkelse blir gjort kjent med forhold som gjør det overveiende sannsynlig at den som har sitt arbeid om bord, ikke lenger tilfredsstiller kravene til helseerklæring i forskriften her, skal utstede en midlertidig udyktighetserklæring. Sjøfartslegen skal underrette rederiet og den som vedtaket retter seg mot, om vedtaket. Vedtak om midlertidig udyktighet gjelder inntil den som har sitt arbeid om bord, er undersøkt av sjøfartslege og det er truffet nytt vedtak om helseerklæring, begrenset helseerklæring, permanent udyktighetserklæring eller foreløpig udyktighetserklæring.",
+      "Sjøfartslege som har tilgang til elektronisk registrering av helse- og udyktighetserklæringer, skal registrere udyktighetserklæringen i Sjøfartsdirektoratets database. Sjøfartslege som ikke har tilgang til elektronisk registrering, skal sende en kopi av udyktighetserklæringen til Sjøfartsdirektoratet.",
+      "Sjøfartslegen skal signere udyktighetserklæringen og stemple den med et stempel som har sjøfartslegens navn og tittel."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 10 nov 2017 nr. 1778 (i kraft 16 nov 2017), 2 juni 2023 nr. 791, 26 juni 2025 nr. 1372."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-7",
+     "nummer": "§ 13",
+     "tittel": "Fagnemnda for helsesaker",
+     "ledd": [
+      "Klage på vedtak truffet av sjøfartslege, og søknad om dispensasjon fra helsekrav i forskriften her, skal behandles av fagnemnda for helsesaker. Fagnemnda skal fatte sine vedtak på bakgrunn av § 1 og vedlegget til forskriften her.",
+      "Fagnemnda skal ha tre medlemmer, og skal bestå av en lege som er nemndas leder, en representant fra et fagforbund og en representant fra Sjøfartsdirektoratet. Representanten fra fagforbundet skal ha kunnskap om den type arbeid som blir utført av den som klagen eller søknaden gjelder.",
+      "Fagnemndas medlemmer har taushetsplikt om de opplysninger som fremkommer om personlige forhold i forbindelse med fagnemndas saksbehandling."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 10 nov 2017 nr. 1778 (i kraft 16 nov 2017), 26 juni 2025 nr. 1372."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-8",
+     "nummer": "§ 14",
+     "tittel": "Kompetansen til fagnemnda for helsesaker",
+     "ledd": [
+      "Fagnemnda for helsesaker kan behandle klage på vedtak truffet av sjøfartslege, og søknad om dispensasjon fra ett eller flere helsekrav i forskriften her.",
+      "Fagnemndas avgjørelse er et vedtak etter forvaltningsloven og skal følge lovens saksbehandlingsregler.",
+      "Fagnemnda kan sette særlige begrensninger og vilkår for utstedelse av helseerklæring, begrensningene skal påføres helseerklæringen."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 10 nov 2017 nr. 1778 (i kraft 16 nov 2017), 26 juni 2025 nr. 1372."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-9",
+     "nummer": "§ 15",
+     "tittel": "Klage på sjøfartslegens vedtak",
+     "ledd": [
+      "Den som har sitt arbeid om bord, kan i henhold til forvaltningslovens regler klage på sjøfartslegens vedtak."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 10 nov 2017 nr. 1778 (i kraft 16 nov 2017), 26 juni 2025 nr. 1372."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-10",
+     "nummer": "§ 16",
+     "tittel": "Dispensasjon",
+     "ledd": [
+      "Fagnemnda for helsesaker kan gi den som har sitt arbeid om bord, dispensasjon fra ett eller flere av helsekravene i forskriften her når vedkommende søker skriftlig om unntak, og ett av følgende vilkår er oppfylt:\na. Det godtgjøres at kravet ikke er et minimumskrav fra en bindende internasjonal standard, ikke er vesentlig og at unntaket anses sikkerhetsmessig forsvarlig, jf. § 1 i forskriften her.\nb. Det godtgjøres at kravet ikke er et minimumskrav fra en bindende internasjonal standard og at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften her.",
+      "Søknad om dispensasjon fremsettes for den sjøfartslege som har truffet vedtak om utstedelse av begrenset helseerklæring eller udyktighetserklæring.",
+      "Sjøfartslegen skal foreta de undersøkelsene som søknaden gir grunn til. Sjøfartslege med praksis i Norge skal sende søknaden med utfyllende opplysninger til Sjøfartsdirektoratet, mens sjøfartslege med praksis utenfor Norge skal sende søknaden om dispensasjon til Sjøfartsdirektoratet gjennom utenriks fagstasjon."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 10 nov 2017 nr. 1778 (i kraft 16 nov 2017), 26 juni 2025 nr. 1372."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-11",
+     "nummer": "§ 17",
+     "tittel": "Utsatt iverksetting av vedtak",
+     "ledd": [
+      "Ved klage eller søknad om dispensasjon kan sjøfartslegen tillate at den som har sitt arbeid om bord, fortsetter i samme eller mindre krevende tjeneste om bord inntil klagen eller søknaden er avgjort, hvis\na. rederiet eller skipsføreren har gitt skriftlig samtykke til sjøfartslegen\nb. sjøfartslegen finner at en utsatt iverksetting av vedtaket ikke vil være i strid med § 1.",
+      "En tillatelse etter første ledd kan gis for en periode som ikke skal overstige seks måneder og kan ikke forlenges gjennom nytt vedtak om utsatt iverksetting.",
+      "Sjøfartslegen skal fylle ut skjema for udyktighet med angivelse av varigheten for utsettelsen. Samtidig skal helseerklæring utstedes for tilsvarende periode."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 10 nov 2017 nr. 1778 (i kraft 16 nov 2017), 26 juni 2025 nr. 1372."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kapIV",
+   "overskrift": "Kapittel IV. Avsluttende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 18",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Denne forskrift trer i kraft 1. juli 2014.",
+      "Forskrift 19. oktober 2001 nr. 1309 om helseundersøkelse av arbeidstakere på skip oppheves fra samme dato."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 19",
+     "tittel": "Overgangsregler for sjøfartsleger",
+     "ledd": [
+      "Den som allerede er godkjent som sjøfartslege, må gjennomføre godkjent kurs i sjøfartsmedisin som nevnt i § 7 første ledd bokstav a og innføre kvalitetssystem som nevnt i § 7 første ledd bokstav h innen fem år fra den dato denne forskriften trer i kraft."
+     ],
+     "endringer": [
+      "Endret ved forskrift 26 juni 2025 nr. 1372."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 20",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Opphevet ved forskrift 10 nov 2017 nr. 1778 (i kraft 16 nov 2017)."
+     ],
+     "opphevet": "2017-11-16"
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": null,
+   "overskrift": "Vedlegg til forskrift 5. juni 2014 nr. 805 om helseundersøkelse av arbeidstakere på norske skip og flyttbare innretninger",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrift 26 juni 2025 nr. 1372."
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-5-kapittel-1",
+     "navn": "kapA",
+     "overskrift": "A – Synskrav",
+     "innhold": [
+      {
+       "type": "seksjon",
+       "id": "kapittel-5-kapittel-1-kapittel-1",
+       "navn": null,
+       "overskrift": "Undersøkelse av synet",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Avstandssyn undersøkes ved bruk av Snellens tavle eller ekvivalent undersøkelsesmetode. Kravene følger STCW-koden tabell A-I/9, se nedenfor.\nLesesyn undersøkes ved bruk av lesetavler.\nFargesyn undersøkes ved bruk av Ishiharas pseudoisokromatiske tavler eller ekvivalent test.\nDersom Ishihara-testen ikke bestås, kan arbeidstakeren henvises til undersøkelse ved bruk av lanternetest.\nLanternetesting følger «International Recommendations for Colour Vision Requirements for Transport» fra International Commission on Illumination (CIE-143-2001), eller senere utgaver.\nDet er ikke tillatt å benytte kontaktlinser eller briller hvis hensikt er å fremme fargesyn, herunder hjelpemiddel med rødfarget glass som øker kontrasten mellom grønne, gule og brune farger, slik at en fargesvak arbeidstaker kan bestå Ishihara-testen.\nSynsfeltet undersøkes initialt ved bruk av Donders test. Enhver indikasjon på begrensning av synsfeltet skal medføre henvisning til øyelege for mer detaljert kartlegging av synsfeltdefekten.\nBegrensning i nattsyn kan være sekundær til øyesykdom eller oftalmologiske inngrep. Slik begrensning kan også oppdages som følge av begrensing til testing av lavkontrastsyn. Spesialistvurdering må foretas dersom det er mistanke om redusert nattsyn.\nEtter synskorrigerende kirurgi og andre oftalmologiske inngrep som har et potensiale til å forstyrre synsevnen, må det gjennomføres en spesialistundersøkelse når synsevnen antas å være stabilisert for å kartlegge eventuell forekomst av redusert kontrastsyn, redusert nattsyn, halo, stardust eller lignende effekter. Dette er av størst betydning for den som tar del i brovakten.\nSynskravene bygger på STCW-koden tabell A-I/9: Minimum synskrav for sjøfolk i tjeneste om bord på skip\n| Regel i STCW-\nkonven-\nsjonen | Kategori arbeidstaker | Avstandssyn med korreksjon[1] | Lesesyn | Fargesyn[3] | Synsfelt[4] | Nattblindhet[4] | Diplopi[4]\n| | | Ene øyet | Andre øyet | Begge øyne sammen, med eller uten korreksjon | | | |\n| I/11\nII/1\nII/2\nII/3\nII/4\nII//5\nVII/2 | Skipsførere, dekksoffiserer og matroser som skal delta i utkikk | 0,5[2] | 0,5 | Lesesyn kreves for skipsnavigasjonen (kart og nautiske referansepublikasjoner, bruk av broinstrumentering og utstyr og identifikasjon av navigasjonshjelpemidler) | Se fotnote[6] | Normale synsfelt | Nattsyn kreves for å utføre alle nødvendige funksjoner i mørket problemfritt | Ingen spesielle vilkår\n| I//11\nIII/1\nIII/2\nIII/4\nIII/5\nIII/6\nIII/7\nVII/2 | Alle maskinoffiserer, elektrotekniske offiserer, elektroteknisk mannskap og annet mannskap som inngår i maskinvakten | 0,4[5] | 0,4[5] | Lesesyn kreves for å lese instrumenter på nært hold, kunne operere utstyr og identifisere systemer/komponenter som nødvendig. | Se fotnote[7] | Tilstrekkelige synsfelt | Nattsyn kreves for å utføre alle nødvendige funksjoner i mørket problemfritt | Ingen spesielle vilkår\n| I/11\nIV/2 | GMDSS-radiooperatører | 0,4 | 0,4 | Lesesyn kreves for å lese instrumenter på nært hold, betjene utstyr og identifisere systemer/komponenter som nødvendig. | | Tilstrekkelig synsfelt | Nattsyn kreves for å utføre alle nødvendige funksjoner i mørket problemfritt | Ingen spesielle vilkår\nSjøfartsleger bør råde arbeidstaker som bruker briller eller kontaktlinser for å kunne utføre arbeidet sitt, til å medbringe reserve briller eller kontaktlinser, og oppbevare disse på et hensiktsmessig sted om bord."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-5-kapittel-1-kapittel-2",
+       "navn": null,
+       "overskrift": "Synskorrigerende operasjoner",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Hvis synskorrigerende laseroperasjon er foretatt, må synsevnen være stabilisert og kvaliteten av synsevnen, inkludert kontrastsensitivitet, glare-forekomst og nattsyn være sjekket av spesialist i oftalmologi."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-5-kapittel-1-kapittel-3",
+       "navn": null,
+       "overskrift": "Arbeidstakere som ikke er omfattet av STCW-konvensjonen",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Alle arbeidstakere på skip skal oppfylle minimumsstandardene på 0,1 uten korreksjon på hvert øye (STCW-koden del B-I/9, avsnitt 10). Denne standarden er også relevant for andre sjøfolk for å sikre tilstrekkelig synsevne i nødssituasjoner hvis man mister eller skader synshjelpemidlene.\nArbeidstakere som ikke er dekket av STCW-konvensjonens synskrav, bør ha tilstrekkelig syn til å utføre sine arbeidsoppgaver i rutine- og nødssituasjoner sikkert og effektivt. xxxx"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-5-kapittel-2",
+     "navn": "kapB",
+     "overskrift": "B – Hørsel",
+     "innhold": [
+      {
+       "type": "seksjon",
+       "id": "kapittel-5-kapittel-2-kapittel-1",
+       "navn": "kapH",
+       "overskrift": "Hørselskrav for arbeidstakere som er omfattet av STCW-konvensjonen",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "| Frekvens | 500 Hz | 1000 Hz | 2000 Hz | 3000 Hz\n| Beste øre | Gjennomsnittlig hørseltap ikke større enn 30 dB\n| Dårligste øre | Gjennomsnittlig hørseltap ikke større enn 40 dB\nHørselskravene er ekvivalente til hviskestemme på henholdsvis 3 meter og 2 meter."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-5-kapittel-2-kapittel-2",
+       "navn": "kapH",
+       "overskrift": "Hørselskrav for arbeidstakere som ikke er omfattet av STCW-konvensjonen",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Arbeidstakere som utfører arbeid som ikke er omfattet av STCW-konvensjonen, skal ha tilfredsstillende sosial hørsel."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-5-kapittel-2-kapittel-3",
+       "navn": null,
+       "overskrift": "Undersøkelsesmetode",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Hørsel skal undersøkes ved hver helseundersøkelse med henblikk på å utstede helseerklæring.\nHørselsundersøkelsen skal gjennomføres med rentoneaudiometri ved hver undersøkelse.\nTale- og hviskestemme anbefales ikke som eneste undersøkelse.\n«Tilfredsstillende sosial hørsel» anses oppnådd når arbeidstakeren oppfatter vanlig tale korrekt på to meters avstand uten anledning til å lese på munnen."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-5-kapittel-2-kapittel-4",
+       "navn": null,
+       "overskrift": "Bruk av høreapparat",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Dette er bare akseptabelt hos arbeidstakere som er i tjeneste og hvor det er konstatert at arbeidstaker vil være i stand til å utføre arbeidsoppgavene sine sikkert og effektivt i rutine- og nødssituasjoner.\nFor arbeidstakere som ikke tilfredsstiller kravene til hørsel for person som skal ha brovakts- eller sikkerhetsfunksjon, kan høreapparat tillates hvis det gir en hørsel som, for alle de angitte frekvensene, gir et hørselstap som er minst 10 dB lavere (bedre) enn de grenseverdier som er satt for henholdsvis brovakts- og sikkerhetsfunksjon.\nHøreapparat kan tillates for øvrige arbeidstakere dersom vedkommende derved oppnår en tilfredsstillende sosial hørsel.\nArbeidstaker som bruker høreapparat må undersøkes ved Høresentral eller av øre-nese-hals-spesialist for taleaudiometriundersøkelse i bakgrunnsstøy. Før endelig konklusjon foretas for arbeidstaker som har brovaktsfunksjon eller sikkerhetsfunksjon, må det innhentes uttalelse fra arbeidsgiver om arbeidsstedets støynivå. Det må være sannsynliggjort at hørselen vil holde dette nivået i hele gyldighetsperioden for helseerklæringen. Om nødvendig må det utstedes tidsbegrenset helseerklæring.\nDersom det er nødvendig, må det installeres hørselshjelpemidler som sikrer at arbeidstaker kan vekkes fra søvn i nødssituasjoner."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-5-kapittel-3",
+     "navn": "kapC",
+     "overskrift": "C – Fysiske funksjonskrav",
+     "innhold": [
+      {
+       "type": "seksjon",
+       "id": "kapittel-5-kapittel-3-kapittel-1",
+       "navn": null,
+       "overskrift": "Introduksjon",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "De fysiske funksjonskravene for arbeid til sjøs varierer vidt og omfatter både rutineoppgaver og nødprosedyrer. Dette krever tilstrekkelig funksjonsdyktighet på følgende områder:\na. styrke\nb. utholdenhet\nc. fleksibilitet\nd. balanse og koordinasjon\ne. størrelse – forenlig med å kunne komme gjennom trange åpninger og arbeide i trange områder\nf. arbeidskapasitet – hjerte/lunge-reserve og\ng. egnethet for spesielle oppgaver som f.eks. å kunne bære pusteapparat for røykdykkere."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-5-kapittel-3-kapittel-2",
+       "navn": null,
+       "overskrift": "Medisinske tilstander og fysisk funksjonsevne",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Noen medisinske tilstander kan medføre reduksjon av fysisk funksjonsevne på flere måter, som f.eks.:\na. høy eller lav kroppsvekt/fedme\nb. alvorlig redusert muskelmasse\nc. muskel- og skjelettsykdommer, smerte eller bevegelsesinnskrenkning\nd. følgetilstand etter skade eller kirurgi\ne. lungesykdommer\nf. hjerte- og karsykdommer\ng. nevrologiske sykdommer."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-5-kapittel-3-kapittel-3",
+       "navn": null,
+       "overskrift": "Testing av fysisk funksjonsevne",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Fysisk funksjonstesting skal utføres når det er en indikasjon for det, f.eks. på grunn av tilstedeværelse av en av de ovenfor nevnte tilstandene, eller på grunn av andre bekymringer om arbeidstakers fysiske funksjonsevne.\nHva som skal testes avhenger av grunner for å gjøre det.\nTabell B-I/9 i STCW-konvensjonen gir anbefalinger om hva som skal testes for de ulike funksjonene.\nNedenstående anbefaling viser hvordan man kan vurdere om kravene er oppfylt.\n- Observert evne til å utføre rutine- og nødprosedyrer sikkert og effektivt.\n- Oppgaver som ligner på rutine- og nødprosedyrene.\n- Vurdering av kardiorespiratorisk reserve, inkludert spirometri og ergometriske tester. Disse vil gi et mål for maksimum arbeidskapasitet og indirekte fortelle noe om arbeidstakers evne til å utføre fysisk krevende arbeid. En stor reserve vil også indikere at hjerte- og lungefunksjonen med stor sannsynlighet holder i hele gyldighetsperioden for helseerklæringen. Rettesnoren er måling av maksimalt oksygenopptak (VO2 maks), men dette krever avansert utstyr. Step-tester som Chester eller Harvard er enklere alternativer og kan brukes for screening. Hvis step-testen er unormal kan man henvise til VO2 maks eller tredemølletest.\n- Uformell testing av kardiorespiratorisk reserve, f.eks. ved å løpe trapper (3–6 etasjer) og observere graden av slitenhet, tungpust o.l. samt pulsfrekvens når man stopper. Dette er ikke reproduserbart av andre enn samme lege ved neste undersøkelse.\n- Klinisk vurdering av styrke, bevegelsesevne, koordinering osv.\nTilleggsinformasjon kan stamme fra arbeidstakers egen beskrivelse av aktiviteter som arbeidstaker har gjort nylig eller gjør regelmessig, så som\n- fysisk krevende arbeidsoppgaver på skipet (bære tunge ting, håndtere fortøyninger etc.)\n- gjennomføring av et fysisk krevende kurs, så som røykdykkerkurs, helikopterrømningskurs, sikkerhetskurs etter STCW-konvensjonen eller lignende\n- bekreftet individuelt treningsprogram."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-5-kapittel-3-kapittel-4",
+       "navn": null,
+       "overskrift": "Tolking av resultater",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "- Er det evidens for at arbeidstakeren ikke er i stand til å utføre sine arbeidsoppgaver i rutine- og nødssituasjoner sikkert og effektivt?\n- Er det observert noen begrensning i styrke, bevegelighet, utholdenhet eller koordinasjon?\n- Hva var resultatet av arbeidskapasitetstestingen?\n- Testen begrenset pga. kortpust, muskel/skjelett-smerte eller annen smerte, eller utmattelse. Årsaker må undersøkes og tas i betrakting når man vurderer fysisk funksjonsevne.\n- Ikke i stand til å gjennomføre testen.\n- Gjennomført test, men sliten og med dårlig restitusjon etter avsluttet test.\n- Gjennomført test til god eller gjennomsnittlig standard.\nDiskuter subjektive opplevelser under testen med arbeidstaker og spør også hvordan det fungerer om bord ved vanlige arbeidsoppgaver og øvelser i nødprosedyrer (f.eks. livbåtøvelser). Innhent komparentopplysninger ved usikkerhet om konklusjonen."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-5-kapittel-3-kapittel-5",
+       "navn": null,
+       "overskrift": "Beslutningstagning",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Informasjon fra flere kilder kan være nødvendig og mange av disse er ikke tilgjengelige i løpet av den medisinske undersøkelsen.\n- Er det indikasjon for at fysisk funksjonsevne er redusert? (stivhet, fedme, sykehistorie med hjertesykdom osv.)\n- Hvis NEI – Ingen test nødvendig.\n- Hvis JA – Vurder hvilke tester eller observasjoner som må utføres for å kunne vurdere arbeidstakers funksjonsevne i relasjon til arbeidsoppgavene.\n- Indikerer testresultatene at funksjonsevnen er redusert?\n- NEI – under forutsetning av at det ikke foreligger en underliggende sykdom som påvirker? Gjennomføringen av testen. → Ubegrenset helseerklæring\n- JA – men tjenestepliktene kan modifiseres slik at arbeidstakeren kan arbeide trygt og effektivt uten å legge for store byrder på andre. → Begrenset helseerklæring\n- JA – men årsaken til begrensningen kan bli behandlet. Ikke forenlig med pålitelig, sikker og effektiv utførelse av arbeidsoppgavene. → Foreløpig udyktighetserklæring\n- JA – og årsaken til begrensningen kan ikke behandles. Ikke forenlig med pålitelig sikker og effektiv utførelse av arbeidsoppgavene. → Permanent udyktighetserklæring."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-5-kapittel-4",
+     "navn": "kapD",
+     "overskrift": "D – Bruk av medikamenter",
+     "innhold": [
+      {
+       "type": "seksjon",
+       "id": "kapittel-5-kapittel-4-kapittel-1",
+       "navn": null,
+       "overskrift": "Introduksjon",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Bruk av medikamenter kan ha stor betydning for arbeidstakers evne til å arbeide på sjøen. Noen har bivirkninger som kan påvirke sikker og effektiv utførelse av arbeidsoppgaver og andre har komplikasjoner som kan øke sannsynligheten for sykdom til sjøs.\nAvsnittet om medikamentbruk gjelder først og fremst foreskrevne medikamenter som man går på kontinuerlig.\nBruk av peroral medikasjon kan være vanskelig ved kvalme og oppkast, og sykdom kan oppstå som følge av at medikamentene ikke lenger tas og derfor heller ikke beskytter (epileptiske anfall, hormoner osv.).\nSjøfartslegen må vurdere bivirkningsrisikoen og den individuelle reaksjonen på hvert medikament.\nHvis medikasjonen er klinisk essensiell for effektiv kontroll av sykdommen, f.eks. insulin, antikoagulasjonsmidler eller psykofarmaka, kan det være farlig å avslutte medikamentering for det formål å bli godkjent for arbeid på sjøen."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-5-kapittel-4-kapittel-2",
+       "navn": null,
+       "overskrift": "Utstedelse av erklæring om bruk av faste medisiner",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Sjøfartslegen må sørge for at arbeidstaker har skriftlig dokumentasjon for medikamentene som er i bruk. Denne bør være i en form som kan vises til inspektører som spør om bruk av medikamenter om bord. Dette er spesielt viktig for medikamenter som har streng forskrivningsregulering (reseptgruppe A og B i Norge) og medikamenter som kan misbrukes.\nAlle arbeidstakere som kan godkjennes helsemessig, og som går på fast medikasjon, skal utstyres med erklæring fra sjøfartslegen med:\na. spesifikasjon av medikamentets navn,\nb. dosering og\nc. en bekreftelse på at det er gitt tillatelse til å bruke medikamentene under tjenestegjøring om bord på skip."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-5-kapittel-4-kapittel-3",
+       "navn": null,
+       "overskrift": "Korttidsbehandling med medikamenter",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Medikamentell behandling av sykdom som ikke er kronisk, skal som regel være avsluttet før en helseerklæring kan utstedes.\nBruk av slike medikamenter omfattes ikke av kravet til erklæring om bruk av faste medikamenter.\nDet er opp til rederiet og skipsfører å ha rutiner som dekker korttidsbehandling og bruk av reseptfrie legemidler."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-5-kapittel-4-kapittel-4",
+       "navn": null,
+       "overskrift": "Medikamenter som kan ha uheldig effekt på arbeidsoppgaver i rutine- og nødssituasjoner",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "- Medikamenter som påvirker sentralnervesystemets funksjoner (f.eks. sovemedikamenter, antipsykotika, noen smertestillende, noen angstdempende og antidepressive medikamenter, antiepileptika og antihistaminer)\n- Medikamenter som øker sannsynlighet for akutt sykdom (f.eks. insulin, noen eldre antihypertensiva og medikamenter som predisponerer for krampeanfall)\n- Medikamenter som forverrer synsevnen (f.eks. hyoscine og atropin)."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-5-kapittel-4-kapittel-5",
+       "navn": null,
+       "overskrift": "Medikamenter som kan ha alvorlige bivirkninger",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "- Blødning fra skade eller spontanblødning (f.eks. warfarin). Individuell vurdering av sannsynligheten er nødvendig. Antikoagulantia som warfarin eller dicoumarin har vanligvis sannsynlighet for komplikasjoner på et nivå som er uforenlig med arbeid til sjøs, men hvis koagulasjonsverdiene er stabile og nøye overvåket, kan arbeid uten øket risiko for skade og innenfor rekkevidde av helikopter med evakueringskapasitet vurderes\n- Fare som følge av opphør av medisinering (hormoner, insulin, antiepileptika, antihypertensiva, orale antidiabetika osv.)\n- Antibiotika og andre antiinfektiva\n- Antimetabolitter og kreftbehandling\n- Medikasjon som skal startes etter pasientens egen vurdering (antibiotika for tilbakevendende infeksjoner eller astmabehandling)."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-5-kapittel-4-kapittel-6",
+       "navn": null,
+       "overskrift": "Medikasjon som krever begrensning av perioden til sjøs på grunn av overvåkningsbehov",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "En rekke forskjellige medikamenter, så som antidiabetika, antihypertensiva og substitusjonsterapi (hormoner) kan kreve tett oppfølging av lege/spesialist, og derfor være uforenlig med arbeid til sjøs."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-5-kapittel-4-kapittel-7",
+       "navn": null,
+       "overskrift": "Utstedelse av helseerklæring",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Sjøfartslegen må basere sin avgjørelse på pålitelig informasjon om medikamentbruk, medikamentenes bivirkningsforekomst, den tilgrunnliggende tilstand og dens behandlingsbehov, og gjøre sin vurdering av medikamentbruken etter en personlig undersøkelse av arbeidstaker.\n- UDYKTIGHET\n- Det er uforenlig med pålitelig sikker og effektiv utførelse av arbeidsoppgaver i rutine- og nødssituasjoner hvis:\n- det er risiko for livstruende konsekvenser hvis man ikke får medisinen som bestemt\n- det er risiko for kognitiv påvirkning når medikamentet tas som foreskrevet\n- det er risiko for alvorlige bivirkninger som kan være farlige til sjøs, f.eks. blødningsrisiko ved bruk av antikoagulantia.\n- BEGRENSET HELSEERKLÆRING\n- Det er en risiko for bivirkninger, men disse utvikles over tid, og arbeid i kystfart kan være akseptabelt.\n- TIDSBEGRENSET HELSEERKLÆRING\n- Det er behov for overvåkning av effekt av behandling eller bivirkninger hyppigere enn varigheten av en helseerklæring.\n- UBEGRENSET HELSEERKLÆRING\n- Ingen bivirkninger, ingen krav om hyppige kontroller og ingen risiko for livstruende konsekvenser dersom medikamentet ikke inntas."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-5-kapittel-5",
+     "navn": "kapE",
+     "overskrift": "E – Helsekrav for vanlige medisinske tilstander",
+     "innhold": [
+      {
+       "type": "seksjon",
+       "id": "kapittel-5-kapittel-5-kapittel-1",
+       "navn": null,
+       "overskrift": "Introduksjon",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Det er ikke mulig å utarbeide en komplett liste over skikkethetskriterier som dekker alle mulige medisinske tilstander og variasjonen i alvorlighetsgrad, symptomatologi, prognose og behandling.\nPrinsippene som er brukt i den etterfølgende tabellen, kan ofte ekstrapoleres til andre tilstander, der disse ikke er nevnt. Analog fortolkning må brukes. I alle tilfeller må sjøfartslegene vurdere om arbeidstakeren er helsemessig og fysisk skikket til å utføre arbeidsoppgavene sine pålitelig, sikkert og effektivt både i rutine- og nødssituasjoner."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-5-kapittel-5-kapittel-2",
+       "navn": null,
+       "overskrift": "Medisinske tilstander",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Tabellen over medisinske tilstander er organisert på følgende måte:\n| 1. kolonne: | WHO International Classification of Diseases, 10. utgave (ICD-10). Kodene er tatt med for å muliggjøre innsamling og sammenligning av data for statistikk- og forskningsformål.\n| 2. kolonne: | Det vanlige navnet på sykdommen eller en gruppe av sykdommer med en kort beskrivelse av relevansen for arbeid på havet.\n| 3. kolonne: | Beskrivelse av tilstander som er uforenlige med arbeid til sjøs. Det sjekkes først mot denne kolonnen.\n| 4. kolonne: | Beskrivelse av tilstander som bør medføre begrenset helseerklæring. Det sjekkes mot denne kolonnen hvis arbeidstakeren ikke dekkes av beskrivelsen i kolonne 3.\n| 5. kolonne: | Beskrivelse av tilstander som er forenlige med helseerklæring uten begrensninger. Denne kolonnen sjekkes først når arbeidstakerens tilstand ikke dekkes av kolonne 3 og 4.\nFor en del tilstander har én eller flere kolonner fått beskrivelsen «Uegnet». Dette er brukt når det ikke er relevant eller ikke passende med denne typen helseerklæring.\n| ICD 10 | Medisinsk tilstand | Uforenlig med pålitelig, sikker og effektiv utførelse av arbeidsoppgaver i rutine- og nødssituasjoner | Skikket med begrensning eller tidsavgrensning i helseerklæringen | Skikket uten begrensning\n| | | T: Foreløpig udyktighet | R: I stand til å gjøre noen, men ikke alle arbeidsoppgaver i noen, men ikke alle fartsområder |\n| | | P: Permanent udyktighet | L: Øket behov for overvåkning av medisinsk tilstand eller medisinering |\n| A00–B99 | Visse infeksjonssykdommer og parasittsykdommer\n| A00–09 | Gastrointestinal infeksjon\nOverføring til andre – tilbakefall | T – Hvis oppdaget mens på land (aktuelle symptomer eller venter på prøveresultater vedrørende bærerstatus); eller bekreftet bærerstatus inntil denne er dokumentert ikke lenger å være tilstede | Ikke aktuelt | Ikke-catering personell: Når tilfredsstillende behandlet eller helbredet\nCateringpersonell: Helseerklæring avhenger av individuell medisinsk vurdering. Bakteriell sanering kan være nødvendig\n| A15–16 | Lungetuberkulose\nOverføring til andre, tilbakefall\n(Testing følger forskrift om tuberkulosekontroll) | T – Positiv screening-test eller sykehistorie\n– inntil undersøkt.\nHvis infisert – inntil behandling er stabilisert og pasienten er dokumentert smittefri.\nP – Tilbakefall eller alvorlig lungeskade | Ikke aktuelt | Fullført behandling etter forskrift om tuberkulosekontroll[i] (og WHO Treatment of Tuberculosis guidelines)\n| A50–64 | Seksuelt overførbar sykdom\nAkutt funksjonsnedsettelse, tilbakefall | T – Hvis konstatert mens på land – inntil diagnostisert, behandling initiert og fri for symptomer som reduserer funksjonsevnen.\nP – Senkomplikasjoner som reduserer funksjonsdyktighet og ikke kan behandles | R – Overvei kystfart hvis oralt behandlingsregime med symptomkontroll er etablert | Etter fullført vellykket behandling\n| B15 | Hepatitt A\nOverførbar gjennom kontaminering av drikkevann og mat | T – Inntil gulsott er forsvunnet og leverenzymene er normalisert | Ikke aktuelt | Når full helbredelse\n| B16–19 | Hepatitt B, C, osv.\nOverførbar ved kontakt via blod eller andre kroppsvæsker. Mulighet for permanent leverskade og lever-cancer | T – Inntil gulsott er forsvunnet og leverenzymene er normalisert.\nP – Persisterende leverskade med symptomer som affiserer pålitelig, sikker og effektiv utførelse av arbeidsoppgaver | R, L – Usikkerhet om full helbredelse eller smittefrihet. Individuell vurdering basert på tjeneste om bord og fartsområde | Ved full helbredelse og bekreftet lav[ii] smittesannsynlighet\n| B20–24 | HIV+\nOverførbar ved kontakt med blod eller andre kroppsvæsker. Progresjon til HIV-relatert sykdom eller AIDS | T – Inntil stabilisert behandling med CD4-nivå > 350 eller hvis behandling er endret og reaksjonen på den nye medisinen er usikker\nP – Ikke-reversibel, funksjonsnedsettende HIV-relatert sykdom. Vedvarende funksjonsnedsettende effekt av medisinering | R, L – Tidsbegrenset og/eller kystnært fartsområde: HIV+ og lav[ii] sannsynlighet for progresjon, uten behandling eller på stabil medisinering uten bivirkninger, men krever regelmessig spesialistovervåkning | HIV+, ingen aktuell funksjonsnedsettelse og svært lav[i] sannsynlighet for sykdomsprogresjon. Ingen bivirkninger av behandling eller behov for hyppig overvåkning.\n| A00–B99 | Andre infeksjoner\nFunksjonsnedsettelse, risiko for andre | T – Hvis påvist mens på land: Inntil fri for sannsynlighet for overføring til andre og i stand til å utføre sine arbeidsoppgaver.\nP – Hvis vedvarende sannsynlighet for tilbakefall med reduksjon av funksjonsevne eller økt risiko for andre | Individuell vurdering basert på sykdommens natur | Full helbredelse og bekreftet lav[ii] smittesannsynlighet\n| C00–D48 | Svulster\n| C00–D48 | Maligne neoplasmer – inkludert lymfom, leukemi og relaterte tilstander\nTilbakefall, spesielt akutte komplikasjoner, f.eks. akutte spontane blødninger og krampeanfall | T – Inntil undersøkt, behandlet og prognosen er konstatert\nP – Vedvarende funksjonsnedsettelse med symptomer som affiserer arbeid til sjøs og har en høy[ii] sannsynlighet for tilbakefall | L – Begrenset til intervall mellom spesialistundersøkelser hvis:\n– cancer er diagnostisert <5 år siden; og\n– det ikke er noen aktuell funksjonsnedsettelse som reduserer evnen til å utføre arbeidsoppgaver eller oppholde seg om bord; og\n– det er lav[ii] sannsynlighet for tilbakefall og minimal sannsynlighet for å måtte behøve akutt legebehandling/hospitalisering\nR – Hvis vedvarende funksjonsnedsettelse ikke interfererer med essensielle oppgaver og tilbakefall sannsynligvis ikke vil medføre behov for akutt legebehandling/hospitalisering | Cancer diagnostisert mer enn 5 år siden, eller spesialistvurdering ikke lenger påkrevd og ingen aktuell funksjonsnedsettelse med lav[ii] sannsynlighet for tilbakefall med funksjonsnedsettelse.\nMå bekreftes gjennom spesialistuttalelse med evidens som underbygger konklusjonen\n| D50–89 | Sykdommer i blod og bloddannende organer og visse tilstander som angår immunsystemet\n| D50–59 | Anemier/hemoglobinopatier\nRedusert arbeidskapasitet. Episodisk nedbrytning av røde blodlegemer | T – Fjerne farvann, inntil hemoglobin normal og stabil\nP – Alvorlig tilbakevendende eller kontinuerlig anemi eller funksjonsnedsettende symptomer som følge av nedbrytning av røde blodlegemer og som viser seg ikke å kunne behandles | R, L – Vurder restriksjon til kystfart og regelmessig overvåkning hvis redusert hemoglobin men asymptomatisk | Normale nivåer av hemoglobin\n| D73 | Splenektomi (sykehistorie med kirurgi) Økt mottakelighet for visse infeksjoner | T – Etter kirurgisk inngrep inntil helt gjenvunnet helse | R – Individuell vurdering. Kan sannsynligvis være skikket til å arbeide kystnært og i tempererte områder, men kan kanskje ikke jobbe i tropiske områder | Individuell vurdering\n| D50–89 | Andre sykdommer i blod og bloddannende organer\nSpontane blødninger, redusert arbeidskapasitet, redusert motstand mot infeksjoner | T – Under utredning\nP – Kronisk koagulasjonsforstyrrelse | Individuell vurdering for andre tilstander | Individuell vurdering\n| E00–90 | Endokrine sykdommer, ernæringssykdommer og metabolske forstyrrelser\n| E10 | Diabetes – insulinavhengig\nAkutt funksjonsnedsettelse på grunn av hypoglykemi.\nKomplikasjoner som følge av utilstrekkelig blodsukkerkontroll.\nØkt sannsynlighet for komplikasjoner fra øyne, nervesystem og hjerte-kar | T – Fra start av behandling inntil stabilisert.\nP – Hvis dårlig kontrollert eller ikke følger behandlingen som forordnet. Historie med hypoglykemi eller manglende evne til å oppfatte begynnende hypoglykemi. Funksjonsnedsettende komplikasjoner av diabetes | R, L – Avhengig av bekreftelse på god kontroll og god oppfølging av behandling og anbefalinger og god evne til å oppfatte begynnende hypoglykemi. Skikket for kystnært arbeid uten alene-vakt. Tidsbegrenset til neste spesialistkontroll. Må være under jevnlig spesialist-kontroll | Ikke aktuelt\n| E11–14 | Diabetes – Ikke insulinbehandlet, på annen behandling\nProgresjon til insulinbehov, øket sannsynlighet for komplikasjoner fra øyne, nervesystem og hjerte-kar | T – Fjerne farvann og vakt inntil stabilisert.\nP – Funksjonsnedsettende komplikasjoner av diabetes | R – Kystnært. Ikke deltaking i vakt inntil stabilisert.\nR – Kystnært, ikke deltaking i vakt hvis små bivirkninger av medisinering eller står på sulfonylurea.\nL – Tidsbegrenset hvis ikke følger adekvat opp behandlingen og rådgivningen eller medisiner behøver hyppig vurdering. Sjekk diett, vekt og kardiovaskulær risiko-kontroll | Når stabilisert og ingen funksjonsnedsettende komplikasjoner\n| | Diabetes – Ikke insulinbehandlet, på diett\nProgresjon til insulinbehov, øket sannsynlighet for komplikasjoner fra øyne, nervesystem og hjerte-kar | T – Fjerne farvann og vakt inntil stabilisert | R – Kystnært, ikke deltaking i vakt – inntil stabilisert.\nL – Tidsbegrenset hvis ikke følger adekvat opp behandlingen og rådgivningen eller behøver hyppig vurdering. Sjekk diett, vekt og kardiovaskulær risikokontroll | Når stabilisert og ingen funksjonsnedsettende komplikasjoner\n| E65–68 | Fedme og unormal kroppsvekt – høy eller lav\nRisiko for en selv, redusert bevegelighet, redusert arbeidskapasitet. Øket sannsynlighet for diabetes, hjerte-karsykdom og artritt | T – Hvis sikkerhetskritiske arbeidsoppgaver ikke kan ivaretas, fysisk yteevne eller arbeidskapasitet er dårlig.\nP – Hvis sikkerhetskritiske arbeidsoppgaver ikke kan ivaretas, fysisk yteevne eller arbeidskapasitet er dårlig. Forsøk på å bedre situasjonen har vært mislykket\nNB: BMI er en brukbar indikator på når tilleggsundersøkelser inklusive fysisk testing må utføres. BMI skal ikke være eneste basis for vedtak om udyktighet. Ved BMI over 35 er det obligatorisk å utføre testing, men det bør vurderes allerede når BMI passerer 30. | R, L – Tidsbegrenset og begrenset til kystnære farvann eller til begrensede arbeidsoppgaver hvis arbeidstakeren ikke er i stand til å utføre visse arbeidsoppgaver, men i stand til å utføre rutine- og nødprosedyrer som hører inn under sikkerhetskritiske plikter | Fysisk funksjonsevne og arbeidskapasitet\n(C – Fysiske funksjonskrav) er gjennomsnittlig eller bedre, vekt er stabil eller på veg ned og det er ingen komorbiditet\n| E00–90 | Andre endokrine og metabolske sykdommer (thyreoideasykdommer, binyresykdommer inklusive Addisons sykdom, hypofysesykdom, ovarialsykdom, testikkelsykdom)\nSannsynlighet for tilbakefall eller komplikasjoner | T – Inntil behandling er etablert og stabilisert uten bivirkninger\nP – Hvis vedvarende funksjonsnedsettelse, behov for hyppig justering av medikasjon og øket sannsynlighet for alvorlige komplikasjoner | R, L – Individuell vurdering basert på spesialistråd hvis usikkerhet om prognose eller bivirkninger av behandlingen. Må vurdere sannsynlighet for funksjonsnedsettende komplikasjoner fra tilstanden og/eller behandlingen, inkludert problemer med å ta medisiner, og konsekvenser av infeksjon eller skade mens arbeider til sjøs | Hvis medikasjon er stabil uten problemer med å ta medisinen til sjøs, overvåkning av tilstanden kan skje sjelden, det foreligger ikke redusert fysisk yteevne og svært lav[ii] sannsynlighet for komplikasjoner.\nSpesielt for Addisons sykdom: Risikoen vil vanligvis være slik at en ubegrenset helseerklæring ikke bør utstedes\n| F00–99 | Psykiske lidelser og atferdsforstyrrelser\n| F10 | Alkoholmisbruk (avhengighet)\nTilbakefall, ulykker, uhensiktsmessig adferd/adferd som truer sikkerheten | T – Inntil utredet og stabilisert og kriteriene for skikkethet er oppfylt. Inntil ett år etter diagnose eller ett år etter tilbakefall.\nP – Hvis vedvarende og det er komorbiditet med sannsynlighet for tilbakefall eller forverrelse til sjøs | R, L – Tidsavgrenset, ikke arbeid som skipsfører eller uten tett oppfølging og kontinuerlig medisinsk overvåkning, under forutsetning av at\n– behandlende lege rapporterer vellykket deltaking i rehabiliteringsprogram og\n– det er en bedring i leverprøvene | Etter tre år uten tilbakefall etter siste episode og fravær av komorbiditet\n| F11–19 | Avhengighet av narkotiske stoffer/vedvarende misbruk. Inkluderer både illegalt ervervede stoffer og stoffer foreskrevet på resept.\nTilbakefall, ulykker, uhensiktsmessig adferd/adferd som truer sikkerheten | T – Inntil utredet og stabilisert og kriteriene for skikkethet er oppfylt. Inntil et år etter diagnose eller et år etter tilbakefall.\nP – Hvis vedvarende og det er komorbiditet med sannsynlighet for tilbakefall eller forverrelse til sjøs | R, L – Tidsavgrenset, ikke arbeid som skipsfører eller uten tett oppfølging eller kontinuerlig medisinsk overvåkning, under forutsetning av at\n– behandlende lege rapporterer vellykket deltaking i rehabiliteringsprogram;\n– det foreligger evidens for fullføring av et uannonsert/tilfeldig screeningprogram for det aktuelle stoffet i minst tre måneder uten noen positive prøver og minst tre negative prøver; og\n– kontinuerlig deltaking i screening-program for narkotika og andre stoffer som kan misbrukes | Etter tre år uten tilbakefall etter siste episode og fravær av komorbiditet\n| F20–31 | Psykose (akutt) – enten den er organisk, schizofren eller av annen kategori listet i ICD. Bipolar (manisk depressiv lidelse).\nTilbakefall som fører til forandring i persepsjon, kognisjon, ulykker, uhensiktsmessig adferd eller adferd som truer sikkerheten | Etter en enkelt episode med kjente utløsende faktorer:\nT – inntil utredet og stabilisert og helsekravene er oppfylt. Minst tre måneder etter en episode | R, L – Tidsavgrenset og begrenset til kystnære farvann; ikke arbeid som skipsfører, Ikke uten tett oppfølging og medisinsk kontroll, under forutsetning av at\n– arbeidstakeren har innsikt,\n– følger behandlingen og de råd vedkommende får, og\n– ikke har noen funksjonsreduserende bivirkninger av medisineringen | Individuell vurdering minst et år etter episoden, forutsatt at utløsende faktorer kan kontrolleres og alltid unngås\n| | | Etter en enkelt episode uten kjente utløsende faktorer eller mer enn én episode med eller uten utløsende faktorer:\nT – Inntil tilstanden er undersøkt og stabilisert og helsekravene er oppfylt. Minst to år etter siste episode.\nP – Mer enn tre episoder eller kontinuerlig sannsynlighet for tilbakefall. Helsekravene med eller uten restriksjoner er ikke oppfylt | R, L – Tidsavgrenset og begrenset til kystnære farvann; ikke arbeid som skipsfører; Ikke uten tett oppfølging og medisinsk kontroll, forutsatt at\n– arbeidstakeren har innsikt,\n– følger behandlingen og de råd vedkommende får, og\n– ikke har noen funksjonsreduserende bivirkninger av medisineringen | Individuell vurdering for å ekskludere sannsynlighet for tilbakefall minst fem år etter erklært frisk etter siste episode, ingen residualsymptomer og ingen medikasjon nødvendig siste to år\n| F32–38 | Stemnings-/affektive lidelser\nAlvorlige angsttilstander, depresjon eller enhver annen mental sykdom som kan redusere funksjonsevnen\nTilbakefall, redusert yteevne, spesielt i nødssituasjoner | T – Mens akutt, under utredning eller hvis funksjonsnedsettende bivirkninger av medisiner. Minst tre måneder på stabil medisinering.\nP – Persisterende eller tilbakevendende symptomer som går ut over yteevnen | R, L – Begrenset til kystnære farvann; Ikke arbeid som skipsfører; bare hvis arbeidstakeren:\n– har god funksjonsevne,\n– innsikt,\n– følger nøye behandlingen og rådene vedkommende får,\n– er uten bivirkninger, og\n– har en lav[ii] sannsynlighet for tilbakefall | Individuell vurdering for å utelukke sannsynligheten for tilbakefall etter minst to års uten episoder og uten medikasjon eller på medikasjon uten funksjonsnedsettende bivirkninger\n| | Stemnings-/affektive lidelser\nMindre eller reaktive symptomer på angst og depresjon Tilbakefall, redusert yteevne, spesielt i nødssituasjoner | T – Inntil symptomfri. Hvis arbeidstakeren bruker medisiner, må disse være på stabil dose og fri for funksjonsreduserende bivirkninger.\nP – Persisterende eller tilbakevendende symptomer som går ut over yteevnen | R, L – Tidsbegrenset og overveielse av geografisk begrensning hvis på stabil dosering av medisiner og ikke har funksjonsnedsettende symptomer eller funksjonsnedsettende bivirkninger av medikasjonen. | Individuell vurdering getter ett år fra slutten av episode hvis symptomfri og uten medikasjon eller på medikasjon uten funksjonsnedsettende bivirkninger.\n| F00–99 | Andre sykdommer, f.eks. personlighetsforstyrrelser, ADHD, utviklingsforstyrrelser (autisme).\nRedusert yteevne og pålitelighet og redusert sosial tilpasningsevne | T – Under utredning eller utprøving av medisiner, til endelig funksjonsnivå er konstatert\nP – Hvis antas å ha sikkerhetsmessige konsekvenser | R – Hvis bare er i stand til å ha begrensede arbeidsoppgaver. Individuell risikovurdering nødvendig. | Ingen forventede symptomer eller bivirkninger når arbeidstakeren arbeider om bord. Ingen hendelser har skjedd under tidligere perioder til sjøs.\n| G00–99 | Sykdommer i nervesystemet\n| G40–41 | Enkelt krampeanfall\nRisiko for skipet, andre om bord eller arbeidstakeren selv | Enkelt krampeanfall\nT – Under utredning og i et år etterpå. | R – Et år etter krampeanfall og på stabil medisinering. Ikke vakttjeneste; i kystnære farvann. | Et år etter krampeanfallet og et år etter avsluttet behandling. Hvis utløsende faktorer må det godtgjøres at disse ikke kommer til å opptre igjen.\n| | Epilepsi – ingen utløsende faktorer\n(multiple krampeanfall) Risiko for skipet, andre om bord eller arbeidstakeren selv | T – Under utredning og i to år etter siste krampeanfall\nP – Tilbakevendende anfall som ikke kontrolleres av medikasjon | R – Uten medikasjon eller på stabil medikasjon med god compliance: Individuell vurdering av skikkethet, begrenset til «ikke vakttjeneste»; i kystnære farvann | Fri for krampeanfall minst de siste ti år, har ikke tatt antiepileptika denne 10-årsperioden og har ikke hatt pågående sannsynlighet for krampeanfall.\n| | Epilepsi utløst av alkohol, medikasjon, hodeskade (multiple krampeanfall)\nRisiko for skipet, andre om bord eller arbeidstakeren selv | T – Under utredning og i to år etter siste krampeanfall.\nP – Tilbakevendende anfall som ikke kontrolleres av medikasjon | R – Individuell vurdering etter to års abstinens fra/fravær av enhver kjent utløsende faktor, krampefri og enten uten medisiner eller på stabil medisinering med god compliance: begrenset til «ikke vakttjeneste» og i kystnære farvann | Fri for krampeanfall minst de siste fem år, har ikke tatt antiepileptika denne femårsperioden, forutsatt at det ikke er noen vedvarende eksponering for den utløsende faktoren.\n| G43 | Migrene (hyppige anfall som forårsaker tap av arbeidsevne) Sannsynlighet for tilbakefall med tap av arbeidsevne | P – Hyppige anfall som leder til funksjonsnedsettelse | R – Hvis bare er i stand til å ha begrensede arbeidsoppgaver | Ingen forventede bivirkninger som fører til tap av arbeidsevne når arbeidstakeren arbeider om bord. Ingen hendelser har skjedd under tidligere perioder til sjøs.\n| G47 | Søvnapné\nTrøtthet og episoder der arbeidstakeren faller i søvn under arbeidsøkten | T – Inntil behandling har startet og vært vellykket i tre måneder\nP – Behandling ikke vellykket, eller arbeidstakeren følger ikke opp (dårlig compliance) | L – Når behandlingen har vært demonstrert vellykket i tre måneder, inklusive compliance med CPAP-maskin (continuous positive airway pressure) er bekreftet. Halvårlig kontroll av compliance basert på CPAP-maskinens registreringer. | Individuell vurdering basert på arbeidsoppgave og spesialistuttalelse\n| G47 | Narkolepsi\nTrøtthet og episoder der arbeidstakeren faller i søvn under arbeidsøkten | T – Inntil kontrollert med behandling i minst to år.\nP – Behandlingen er ikke vellykket, eller arbeidstakerens følger ikke opp (dårlig compliance) | R, L – Kystnære farvann, ikke vakttjeneste, hvis spesialisten bekrefter full kontroll med behandlingen i minst to år. Årlig kontroll. | Ikke aktuelt\n| G00–99 | Andre organiske nervesykdommer, f.eks. multippel sklerose, Parkinsons sykdom.\nTilbakefall/progresjon. Begrensning i muskelkraft, balanse, koordinering og bevegelsesevne | T – Inntil diagnostisert og stabil.\nP – Hvis begrensningene påvirker evnen til å utføre arbeidet pålitelig, sikkert og effektivt eller ikke er i stand til å fylle kravene om fysisk funksjonsdyktighet (C – Fysiske funksjonskrav) | R, L – Individuell vurdering basert på arbeidsoppgaver og spesialistuttalelse | Individuell vurdering basert på arbeidsoppgaver og spesialistuttalelse\n| R55 | Synkope og andre bevissthetstap\nTilbakefall kan føre til skade og tap av kontroll | T – Inntil undersøkt, årsaken er påvist og kontroll av bakenforliggende tilstand er sikret | |\n| | (a) vanlig besvimelse | P – Hvis gjentagende anfall fortsetter til tross for full undersøkelse og passende behandling | | Vanlig besvimelse, hvis ikke nye hendelser\n| | (b) ikke en vanlig besvimelse; tilstand uten kjent årsak,\nikke tilbakevendende uten påvist underliggende hjertesykdom, metabolsk sykdom eller nevrologisk årsak | T – Fire uker\nP – Hvis gjentagende anfall fortsetter til tross for full undersøkelse og passende behandling | R, L – Individuell vurdering, kystnært farvann, ikke vakttjeneste alene | Tre måneder etter hendelsen hvis ikke nye tilfeller\n| | (c) Synkope med tilbakevendende eller med mulig underliggende hjertesykdom, metabolsk sykdom eller nevrologisk årsak | T – Mulig underliggende årsak som ikke er konstatert eller ikke er mulig å behandle; i seks måneder etter hendelsen hvis ikke nye anfall\nT – ved mulig underliggende eller påvist årsak, vellykket behandlet; i en måned etter vellykket behandling\nP – Hvis gjentagende anfall fortsetter til tross for full undersøkelse og passende behandling | R, L – Individuell vurdering, kystnært farvann, ikke vakttjeneste alene | Med mulig underliggende årsak, men det er ikke funnet noen behandlingsbar årsak – ett år etter hendelsen hvis ikke nye tilfeller. Med mulig underliggende årsak funnet og behandlet; tre måneder etter vellykket behandling\n| | (d) Bevissthetsforstyrrelse med funn som indikerer epilepsi. Gå til G40–41 |\nP – Hvis gjentagende anfall fortsetter til tross for full undersøkelse og passende behandling | | Ikke aktuelt hvis indikasjon på epilepsi\n| T90 | Intrakraniell kirurgi/hodeskade, inkludert behandling for vaskulære anomalier eller alvorlig hodeskade med hjerneskade.\nRisiko for skip, andre om bord, og seg selv pga. epileptiske anfall. Redusert kognitiv, sensorisk eller motorisk funksjon. Tilbakefall eller komplikasjon til underliggende sykdom | T – I ett år eller lenger inntil sannsynligheten for epileptiske anfall er lav[ii] basert på spesialistråd\nP – Vedvarende funksjonsnedsettelse på grunn av underliggende tilstand eller skade eller tilbakevendende epileptiske anfall | R – Etter minst ett år, kystnært, ikke vakttjeneste alene hvis sannsynlighet for nye epileptiske anfall er lav,[ii] og det ikke er noen funksjonsnedsettelse på grunn av underliggende sykdom eller skade.\nPå vilkår av at arbeidstakeren følger råd og anvisning, tar medisiner som foreskrevet og følger kontrollene slik spesialisten bestemmer | Ingen funksjonsnedsettelse på grunn av underliggende sykdom, ikke på anti-epilepsi-medikasjon, sannsynlighet for nye anfall svært lav.[ii]\nPå vilkår av at arbeidstakeren følger råd og anvisning, tar medisiner som foreskrevet og følger kontrollene slik spesialisten bestemmer\n| H00–99 | Sykdommer i øyet og øyets omgivelser. Sykdom i øre og ørebensknute\n| H00–59 | Øyesykdommer: Progressiv eller tilbakevendende (f.eks. glaukom, makulopati, diabetisk retinopati, retinitis pigmentosa, keratokonus, diplopi, blefarospasme, uveitt, kornea-ulcerasjon eller netthinneløsning)\nSannsynlighet for tilbakefall, sannsynlighet for at synskravene ikke kan oppfylles | T – Forbigående manglende oppfyllelse av relevante synskrav (A – Synskrav) og lav[ii] sannsynlighet for påfølgende funksjonsnedsettelse eller funksjonsnedsettende tilbakefall når tilstanden er behandlet eller gått over av seg selv\nP – Manglende evne til å oppfylle relevante synskrav (A – Synskrav) eller, hvis behandlet, økt sannsynlighet for påfølgende funksjonsnedsettelse eller funksjonsnedsettende tilbakefall | R – Kystnært hvis tilbakefall er mulig men usannsynlig og behandlingsbar ved tidlig medisinsk intervensjon\nL – Hvis tilbakefall er mulig men usannsynlig og kan oppdages ved jevnlig medisinsk kontroll | Svært lav[ii] sannsynlighet for tilbakefall. Progresjon til et nivå der synskravene ikke lenger er oppfylt er usannsynlig innenfor helseerklæringens gyldighetsperiode.\n| H65–67 | Otitis externa; otitis media\nTilbakefall, sannsynlighet for infeksjonskilde hos dem som håndterer mat, problem med å bruke hørselsvern | T – Inntil behandlet\nP – Hvis kronisk renning fra øret hos personell som håndterer mat | Individuell vurdering. Vurder effekt av varme, luftfuktighet og hørselsvern ved otitis externa. | Effektiv behandling og ingen vesentlig sannsynlighet for tilbakefall.\n| H68–95 | Øresykdommer: Progressive (f.eks. otosklerose) | T – Forbigående manglende oppfyllelse av hørselskravene (B – Hørsel) og lav[ii] sannsynlighet for påfølgende funksjonsnedsettelse eller funksjonsnedsettende tilbakefall når tilstanden er behandlet eller gått over av seg selv.\nP – Manglende evne til oppfyllelse av hørselskravene (B – Hørsel) eller, hvis behandlet, påfølgende funksjonsnedsettelse eller øket sannsynlighet for funksjonsnedsettende tilbakefall | L – Hvis tilbakefall er mulig men usannsynlig og det kan oppdages ved jevnlig kontroll | Svært lav[ii] sannsynlighet for tilbakefall. Progresjon til et nivå der hørselskravene (B – Hørsel) ikke lenger er oppfylt er usannsynlig innenfor attestperiodens varighet.\n| H81 | Ménières sykdom og andre former for kronisk eller tilbakevendende funksjonsnedsettende vertigo.\nBalanseforstyrrelser som medfører bevegelseshemning og kvalme (C – Fysiske funksjonskrav) | T – I akuttfasen\nP – Hyppige anfall som leder til funksjonsnedsettelse | R – Hvis ikke kan utføre alle arbeidsoppgavene, men kan ivareta sikkerhetskritiske oppgaver eller kompenserende tiltak er satt i verk.\nR, L – Hvis hyppig spesialistovervåkning er nødvendig | Lav[ii] sannsynlighet for funksjonsnedsettelse mens vedkommende er til sjøs\n| I00–99 | Sykdommer i sirkulasjonssystemet\n| I05–08\nI34–39 | Medfødte hjertesykdommer og klaffesykdommer\n(inkludert kirurgi for disse tilstandene)\nHjertebilyder som ikke tidligere er undersøkt\nSannsynlighet for progresjon og begrensning av arbeidskapasitet | T – Inntil undersøkt, og hvis nødvendig, behandlet.\nP – Hvis arbeidskapasiteten er redusert eller det er episoder med funksjonsnedsettelse eller hvis antikoagulasjonsbehandling eller hvis permanent høy sannsynlighet for funksjonsnedsettende hendelse | R – Kystnære farvann hvis Individuell vurdering indikerer enten sannsynlighet for akutte komplikasjoner eller hurtig progresjon.\nL – Hvis hyppig overvåkning er nødvendig | Hjertebilyder – når ikke er ledsaget av misdannelse eller sykdom i hjertet og konstatert benign av spesialist i kardiologi etter foretatt undersøkelse.\nAndre tilstander – Individuell vurdering basert på råd fra kardiolog\n| I10–15 | Hypertensjon\nØkt sannsynlighet for ischemisk hjertesykdom, øye- og nyreskade og slag. Mulighet for akutte hypertensive episoder. | T – Vanligvis hvis >160 systolisk eller >100 diastolisk mm Hg, inntil undersøkt og behandlet i tråd med nasjonale eller internasjonale retningslinjer for hypertensjonsbehandling.\nP – Hvis vedvarende >160 systolisk eller >100 diastolisk mm Hg med eller uten behandling | L – Hvis overvåkning er nødvendig for å sikre at nivåene holder seg innenfor anbefalte grenser | Hvis tilfredsstillende behandlet i samsvar med nasjonale eller internasjonale retningslinjer og er uten funksjonsnedsettende effekt fra tilstand eller medisinering\n| I20–25 | Hjertehendelse, f.eks. hjerteinfarkt, EKG-holdepunkter for tidligere hjerteinfarkt eller nylig oppdaget venstre grenblokk, angina, hjertestans, koronar bypass, koronar angioplastikk.\nAkutt funksjonsnedsettelse eller begrenset arbeidskapasitet. Problemer med å takle tilbakevendende hjertehendelser til sjøs. | T – I tre måneder etter initiale undersøkelse og behandling er iverksatt, lenger hvis det ikke er symptomkontroll.\nP – Hvis kriteriene for å utstede helseerklæring ikke er tilstede og ytterligere reduksjon av sannsynligheten for tilbakefall ikke er forventet | L – Hvis sannsynligheten for tilbakefall er svært lav[ii] og arbeidstakeren er påpasselig med å følge anbefalinger for reduksjon av risiko og det ikke er forekomst av relevant komorbiditet: Utsted 6 måneders helseerklæring initialt og deretter årlig helseerklæring.\nR, L – Hvis sannsynligheten for tilbakefall er lav,[ii] begrenset til\n– ikke å arbeide alene eller ha vakt alene;\nog\n– bare kystnære farvann, dersom ikke arbeider på skip med lege:\nutsted 6 måneders helseerklæring initialt og deretter årlig helseerklæring.\nR, L – Hvis sannsynligheten for tilbakefall er moderat[ii] og asymptomatisk. Oppfyller fysiske funksjonskrav for rutinearbeid og nødprosedyrer:\n-Ikke å arbeide alene eller ha vakt alene; og\n– arbeider på skip ikke lenger enn 1 time fra havn, dersom ikke arbeider på skip med lege. Individuell vurdering. Årlig kontroll. | Ikke aktuelt\n| I44–49 | Hjerterytmeforstyrrelser og ledningsforstyrrelser (inklusive de som har pacemaker og implantert ICD).\nSannsynlighet for funksjonsnedsettende tilbakefall, og begrensning av arbeidskapasitet. Pacemaker/ICD-aktivitet kan bli influert av sterke elektriske felt. | T – Inntil undersøkt, behandlet og tilfredsstillende effekt av behandlingen er bekreftet.\nP – Hvis funksjonsnedsettende symptomer eller sannsynlighet for funksjonsnedsettelse som følge av tilbakefall, samt ICD-implantat. | L – Hvis nødvendig med kontroller med kortere intervaller og ingen funksjonsnedsettende symptomer og svært lav[ii] sannsynlighet for funksjonsnedsettelse på grunn av tilbakefall, basert på spesialistråd.\nR – Restriksjoner på vakttjeneste alene eller for fjerne farvann hvis lav[ii] sannsynlighet for akutt funksjonsnedsettelse som følge av tilbakefall eller forutsigbart behov for tilgang til spesialisthelsetjeneste. Kontroller og behandling må spesifiseres. Hvis utstyrt med pacemaker må varighet av helseerklæring falle sammen med behovet for pacemaker-kontroller. | Ikke behov for kontroller, eller behov for kontroll sjeldnere enn hvert annet år, ingen funksjonsnedsettende symptomer og svært lav[ii] sannsynlighet for funksjonsnedsettelse som følge av tilbakefall, basert på spesialistråd.\n| I61–69\nG46 | Ischemisk cerebrovaskulær lidelse (slag eller TIA).\nØkt sannsynlighet for tilbakefall, akutt tap av arbeidsevne eller bevegelsesevne. Sannsynlighet for å utvikle annen sirkulatorisk sykdom som kan føre til akutt tap av funksjonsevne. | T – Inntil behandlet og enhver resttilstand er stabilisert og i tre måneder etter hendelsen.\nP – Hvis restsymptomer interfererer med utførelsen av arbeidsoppgavene eller det er en signifikant øket sannsynlighet for tilbakefall. | R, L – Individuell vurdering av skikkethet til arbeidet; ikke vakttjeneste alene. Vurderingen må inkludere sannsynlighet for framtidige kardiovaskulære hendelser. De vanlige standardene for fysisk funksjonsevne må være oppfylt (C – Fysiske funksjonskrav). Årlig vurdering. | Ikke aktuelt\n| I73 | Arteriell klaudikasjon\nSannsynlighet for annen sirkulatorisk sykdom som kan forårsake plutselig tap av arbeidsevne. Begrensning av arbeidskapasitet. | T – Inntil vurdert.\nP – Hvis ute av stand til å utføre arbeidsoppgavene. | R, L – Vurder begrensning til arbeid uten vakttjeneste i kystnære farvann, forutsatt at symptomene er små og ikke interfererer med essensielle arbeidsoppgaver eller hvis tilstanden er behandlet med kirurgi eller annen behandling som har fjernet symptomene og generelle fysiske funksjonskrav (C – Fysiske funksjonskrav) kan oppfylles. Vurder sannsynligheten for framtidige hjertehendelser (kriterier i I20–25). Revurder minst årlig. | Ikke aktuelt\n| I83 | Åreknuter\nMulighet for blødning ved skade, hudforandringer og ulcerasjon. | T – Inntil behandlet for funksjonsnedsettende symptomer. Opp til en måned etter kirurgi. | Ikke aktuelt | Ingen funksjonsnedsettende symptomer eller komplikasjoner.\n| I80.2–3 | Dyp venetrombose/lungeemboli\nSannsynlighet for tilbakefall og alvorlig lungeemboli. Sannsynlighet for blødning som følge av antikoagulasjonsbehandling. | T – Inntil undersøkt og behandlet og vanligvis mens går på korttids (tidsavgrenset) behandling med antikoagulantia.\nP – Hvis tilbakevendende eller på permanente antikoagulantia. | R, L – Kan vurderes skikket for arbeid hvis lav[ii] sannsynlighet for skade; i kystnære farvann; når stabilisert på antikoagulantia med regelmessig monitorering av behandlingsnivået. | Full restitusjon, og ikke bruk av antikoagulantia.\n| I00–99 | Annen hjertesykdom, f.eks. kardiomyopati, perikarditt, hjertesvikt.\nSannsynlighet for tilbakefall, akutt tap av arbeidsevne og redusert arbeidskapasitet. | T – Inntil undersøkt, behandlet og tilfredsstillende effekt av behandlingen er bekreftet.\nP – Hvis funksjonsnedsettende symptomer eller sannsynlighet for dette som følge av tilbakefall. | Individuell vurdering basert på spesialistuttalelse. | Individuell vurdering. Svært lav[ii] sannsynlighet for tilbakefall.\n| J00–99 | Sykdommer i åndedrettssystemet\n| J02–04\nJ30–39 | Nese-, svelg- og bihuletilstander\nKan medføre redusert arbeidsevne. Kan residivere. Overføring av infeksjon til fødemidler og/eller til andre mannskapsmedlemmer i visse tilfeller. | T – Inntil tilfredsstillende behandlet.\nP – Hvis funksjonsnedsettende og tilbakevendende. | Individuell vurdering. | Når behandling fullført. Hvis ikke det foreligger faktorer som predisponerer for tilbakefall.\n| J40–44 | Kronisk bronkitt og/eller emfysem\nRedusert arbeidskapasitet og funksjonsnedsettende symptomer. | T – Hvis akutt episode.\nP – Hvis residiverende alvorlige episoder eller hvis generelle fysiske funksjonskrav ikke oppfylles, eller hvis funksjonsnedsettende dyspné. | R, L – Individuell vurdering. Strengere for tjeneste i fjerne farvann. Vurder skikkethet for nødssituasjoner, og evne til å møte generelle fysiske funksjonskrav (C – Fysiske funksjonskrav). Årlig revurdering. | Ikke aktuelt\n| J45–46 | Astma (detaljert beskrivelse fra spesialist hos alle som kommer til førstegangsundersøkelse)\nUforutsigbare episoder med åndenød. | T – Så lenge episoden varer, til undersøkt (inklusive mulighet for arbeidsrelatert årsak) og behandling er dokumentert effektiv.\nHos personer under 20 år med sykehusinnleggelse eller bruk av orale steroider, de siste tre år.\nP – Hvis påregnelig sannsynlighet for akutt livstruende astmaanfall mens til sjøs, eller sykehistorie med ukontrollert astma, f.eks. multiple sykehusinnleggelser. | R, L – Kystnære farvann eller om bord på skip med lege hvis moderat[iii] voksenastma, med god kontroll med bruk av inhalasjon og ingen episoder som krever sykehusinnleggelse eller perorale steroider de siste to årene eller historie som viser mild eller anstrengelsesrelatert astma som krever jevnlig behandling. | Under 20-årsalder: Hvis mild eller moderat[iii] barneastma, men uten sykehusinnleggelser eller perorale steroider de siste tre årene og ikke behov for annen behandling\nOver 20-årsalder: Hvis mild[iii] eller anstrengelsesutløst[iii] og ikke behov for kontinuerlig behandling.\n| J93 | Pneumothorax (spontan eller traumatisk) Akutt funksjonsnedsettelse som følge av tilbakefall | T – 12 måneder etter første episode eller kortere etter råd fra spesialist\nP – Etter tilbakevendende episoder dersom det ikke er foretatt pleurektomi eller pleurodese | R – Tjeneste utelukkende i havneområder når er blitt frisk | Vanligvis i 12 måneder etter initial episode eller kortere varighet etter råd fra spesialist.\nEtter kirurgi – basert på råd fra behandlende spesialist.\n| K00–93 | Sykdommer i fordøyelsessystemet\n| K01–06 | Tannhelse og munnsykdommer\nAkutt smerte fra tannpine. Tilbakevendende munn- og tannkjøttinfeksjoner. | T – Hvis synlig ubehandlet tann- eller munnsykdom.\nP – Hvis øket sannsynlig for akutte tannproblemer vedvarer etter behandling er fullført, eller arbeidstakeren ikke følger opp anbefaling om tannbehandling. | R – Begrenset til kystnære farvann, hvis kriteriene for fysisk funksjonsevne ikke er oppfylt og skipets operasjoner vil gi tilgang på tannlegetjenester uten at det går ut over skipets sikkerhet. | Hvis tenner og tannkjøtt ser ut til å være i god tilstand. (Tannkjøtt alene når tannløs og veltilpassete tannproteser i god stand.) Ingen komplekse proteser; eller hvis tannsjekk siste år med nødvendig oppfølging er gjennomført og ingen problemer seinere.\n| K25–28 | Ulcus pepticum\nTilbakefall med smerte, blødning og perforasjon | T – Inntil helet eller kurert ved kirurgi eller med kontroll av helicobacter og på normal diett i minst tre måneder.\nP – Hvis ulcus persisterer på tross av kirurgi eller medikasjon | R – Individuell vurdering for mulig tilbakevending til tjeneste tidligere hvis kystnære farvann. | Når kurert og på normalt kosthold i minst tre måneder.\n| K40–41 | Hernier – inguinale og femorale\nSannsynlighet for inneklemming | T – Inntil undersøkt av kirurg og bekreftet at det ikke er noen sannsynlighet for inneklemming eller, hvis nødvendig, behandlet | R – Ubehandlet: Individuell vurdering med tanke på kystnære farvann. | Når tilfredsstillende behandlet og unntaksvis når kirurgen vurderer at det ikke er noen sannsynlighet for inneklemming.\n| K42–43 | Navlebrokk og ventralhernie\nUstabilitet i abdominalveggen ved bøying og løfting. | Individuell vurdering avhengig av alvorlighetsgraden av symptomene og funksjonsnedsettelse. Vurder betydningen av regelmessige tunge kroppslige anstrengelser. | Individuell vurdering avhengig av alvorlighetsgraden av symptomene og funksjonsnedsettelse. Vurder betydningen av regelmessige tunge kroppslige anstrengelser. | Individuell vurdering avhengig av alvorlighetsgraden av symptomene og funksjonsnedsettelse. Vurder betydningen av regelmessige tunge kroppslige anstrengelser.\n| K44 | Diafragmahernie (hiatus)\nRefsum av mageinnhold og magesyre som kan forårsake brystsvie, smerter, utløst av bøying og løfting | Individuell vurdering basert på alvorlighetsgraden av symptomer når ligger ned, under søvn, løfting og bøying og den funksjonsnedsettelsen som kommer derav. | Individuell vurdering basert på alvorlighetsgraden av symptomer når ligger ned, under søvn, løfting og bøying og den funksjonsnedsettelsen som kommer derav. | Individuell vurdering basert på alvorlighetsgraden av symptomer når ligger ned, under søvn, løfting og bøying og den funksjonsnedsettelsen som kommer derav.\n| K50, 51, 57, 58, 90 | Ikke-infeksiøs enteritt, kolitt, Crohns sykdom, divertikulitt og lignende\nFunksjonsnedsettelse og smerter. | T – Inntil utredet og behandlet\nP – Hvis alvorlig eller tilbakevendende | R – Fyller ikke vilkårene for helseerklæring uten begrensning, men akutt forverrelse er usannsynlig. Kystnære farvann. | Individuell vurdering av spesialist. Fullt kontrollert med lav[ii] sannsynlighet for tilbakefall.\n| K60, I84 | Analtilstander: Hemorrhoider, fissurer, fistler\nSannsynlighet for episoder som forårsaker smerte og nedsatt funksjonsdyktighet. | T – Hvis prolaberte hemorrhoider med gjentatte blødninger eller som forårsaker symptomer. Hvis fissuren eller fistelen er smertefull, infisert, blødning skjer gjentatte ganger eller forårsaker fekal inkontinens.\nP – Vurder hvis ikke behandlingsbar eller stadige residiv | Individuell vurdering for ubehandlede tilstander til kystnære farvann. | Når tilfredsstillende behandlet.\n| K70, 72 | Levercirrhose\nLeversvikt. Blødende øsofagusvaricer. | T – Inntil tilfredsstillende undersøkt.\nP – Hvis alvorlig eller komplisert med ascites eller øsofagusvaricer. | R, L – Individuell vurdering basert på spesialistråd. | Ikke aktuelt\n| K80–83 | Galleveislidelse\nSannsynlighet for gallesteinskolikk, gulsott og leversvikt | T – Gallekolikk inntil kurativt behandlet\nP – Avansert leversykdom, tilbakevendende eller persisterende funksjonsnedsettende symptomer. | R, L – Individuell vurdering basert på spesialistråd.\nOppfyller ikke kravene for ubegrenset helseerklæring. Akutt opptreden av gallekolikk usannsynlig. | Individuell vurdering basert på spesialistråd. Svært lav[ii] sannsynlighet for tilbakefall eller forverrelse i løpet av de neste to år.\n| K85–86 | Pankreatitt\nSannsynlighet for residiv | T – Inntil helbredet\nP – Hvis gjentatt eller alkoholrelatert, hvis det ikke er dokumentert avholdenhet. Se Alkoholmisbruk. | Individuell vurdering basert på spesialistråd. | Individuell vurdering basert på spesialistråd. Svært lav[ii] sannsynlighet for residiv.\n| Y83 | Stomi (ileostomi, colostomi)\nFunksjonsnedsettelse ved tap av kontroll, behov for poser osv. potensielt problem i langvarige nødssituasjoner. | T – Inntil stabilisert\nP – Dårlig kontrollert | R – Individuell vurdering | Individuell vurdering basert på spesialistråd.\n| L00–99 | Sykdommer i hud og underhud\n| L00–08 | Hudinfeksjoner\nResidiv, overføring av smitte til andre | T – Inntil vellykket behandlet.\nP – Vurder hvis jobber i catering og har tilbakevendende problemer. | R, L – Basert på natur og alvorlighet av infeksjonen. | Helbredet med lav[ii] sannsynlighet for residiv.\n| L10–99 | Andre hudsykdommer, f.eks. eksem, dermatitt, psoriasis.\nResidiv, noen ganger yrkessykdom | T – Inntil undersøkt og tilfredsstillende behandlet | Individuell vurdering\nR – Hvis forverrelse ved varme eller stoffer på arbeidsplassen. | Stabil uten nedsatt arbeidsevne.\n| M00–99 | Sykdommer i muskelskjelettsystemet og bindevev\n| M10–23 | Osteoartritt, annen leddsykdom ev. med leddproteser.\nSmerte og bevegelsesinnskrenkning som affiserer arbeidsevnen. Proteser: Sannsynlighet for infeksjon og dislokasjon. Begrenset levetid av proteser. | T – Full restitusjon av fysisk funksjon og spesialistråd er nødvendig før arbeid kan gjenopptas til sjøs etter hofte- eller kneprotese.\nP – Avanserte og alvorlige tilfeller. | R – Individuell vurdering basert på jobbkrav og sykehistorie. Vurder arbeidsoppgaver i nødssituasjoner og evakuering fra skip. Må oppfylle generelle fysiske funksjonskrav. | Individuell vurdering. Hvis i stand til å fylle alle jobbkrav i normalsituasjon og nødssituasjoner. Svært lav[ii] sannsynlighet for forverrelse slik at arbeidsoppgavene ikke kan ivaretas.\n| M24.4 | Residiverende instabilitet i skulder eller kneledd Akutt bevegelseshemning med smerte. | T – Inntil tilfredsstillende behandlet. | R – Individuell vurdering av sannsynlighet for residiv. | Behandlet, med svært lav[ii] sannsynlighet for tilbakefall.\n| M54.5 | Ryggsmerter\nSmerte og bevegelsesinnskrenkning. Sannsynlighet for akutte forverrelser. | T – I akutte faser.\nP – Hvis tilbakevendende eller vedvarende redusert arbeidsevne. | Individuell vurdering. | Individuell vurdering.\n| Y83.4 Z97.1 | Ekstremitetsproteser\nBevegelsesinnskrenkning som hindrer utførelsen av arbeidsoppgaver i normale og nødssituasjoner. | P – Hvis essensielle arbeidsoppgaver ikke kan utføres. | R – Hvis arbeidsoppgaver i normal- og nødssituasjoner kan utføres, med noen begrensninger i ikke-essensielle arbeidsoppgaver. | Hvis oppfyller alle krav til fysisk funksjonsevne (C – Fysiske funksjonskrav). Tilrettelegging for å montere protesen i nødssituasjoner må bekreftes.\n| N00–99 | Sykdommer i urin- og kjønnsorganer\n| N00, N17 | Akutt nefritt\nNyresvikt, hypertensjon | P – Inntil frisk | Individuell vurdering av resttilstand | Full restitusjon med normal nyrefunksjon og ingen resttilstand.\n| N03–05, N18–19 | Subakutt eller kronisk nefritt eller nefrose\nNyresvikt, hypertensjon | T – Inntil undersøkt | R, L – Individuell vurdering basert på spesialistråd basert på nyrefunksjon og sannsynlighet for komplikasjoner. | Individuell vurdering basert på spesialistråd vedrørende nyrefunksjon og sannsynlighet for komplikasjoner.\n| N20–23 | Nyre- eller ureterstein\nKolikkanfall | T – Inntil utredet og behandlet\nP – Residiverende steindannelse | R – Vurder om usikkerhet om arbeidsevne under tropiske forhold eller i høy omgivelsestemperatur. Individuell vurdering med tanke på kystnære farvann. | Individuell vurdering basert på spesialistråd ved normal urin og nyrefunksjon uten tilbakefall.\n| N33, N40 | Prostataforstørrelse/urinveisobstruksjon\nAkutt urinretensjon | T – Inntil utredet og behandlet.\nP – Hvis ikke lar seg behandle. | R – Individuell vurdering for kystnære farvann. | Vellykket behandling. Lav[ii] sannsynlighet for residiv.\n| N70–98 | Gynekologiske tilstander – alvorlig vaginalblødning eller menstruasjonssmerter, endometriose, prolaps eller andre tilstander\nFunksjonsnedsettelse pga. blødning og smerter | T – Hvis nedsatt arbeidsevne eller utredning er nødvendig for å finne årsaken og behandle denne | R – Individuell vurdering hvis det er sannsynlig at tilstanden kan kreve behandling under seilas eller påvirke arbeidsevnen. | Fullt restituert med lav[ii] sannsynlighet for residiv\n| R31, 80, 81, 82 | Proteinuri, hematuri, glykosuri eller andre abnorme funn i urin\nIndikator på nyresykdom eller annen sykdom. | T – Hvis initiale funn er klinisk signifikante.\nP – Alvorlig og ikke behandlingsbar underliggende årsak, f.eks. redusert nyrefunksjon | L – Når regelmessige kontroller er nødvendig\nR, L – Når det er usikkerhet om årsak, men ikke et akutt problem | Svært lav[ii] sannsynlighet for underliggende alvorlig sykdom\n| Z90.5 | Fjerning av nyre eller en ikke-fungerende nyre.\nRedusert væskeregulering under ekstreme forhold hvis den gjenværende nyren ikke er fullt ut funksjonell. | P – Enhver reduksjon av funksjon i gjenværende nyre hos en ny arbeidstaker. Signifikant dysfunksjon i gjenværende nyre hos en som allerede er arbeidstaker. | R – Ingen eksponering for tropiske fartsområder eller høy omgivelsestemperatur.\nSjøfolk (som er i tjeneste) med mindre dysfunksjon i gjenværende nyre. | Gjenværende nyre må være fullt ut funksjonell og ikke være utsatt for å bli skadet av progressiv sykdom. Basert på nyreundersøkelse og spesialistvurdering.\n| O00–99 | Svangerskap, fødsel og barseltid\n| O00–99 | Graviditet\nKomplikasjoner, begrensning i bevegelighet. Mulighet for skade på mor og barn ved premature fødsler til sjøs. | T – Sene stadier av graviditet og tidlige postnatale periode. Unormale svangerskap som krever høy grad av overvåkning. | R, L – Individuell vurdering hvis mindre funksjonsnedsettelse. Kan vurdere arbeid til seinere i svangerskapet i kystnære farvann. | Ukomplisert graviditet uten funksjonsnedsettelse (Normalt inntil 24. uke.)\nGraviditet bør opplyses om på et tidlig stadium slik at nødvendige vurderinger kan gjøres.\n| | Generelt\n| R47, F80 | Taleforstyrrelser\nBegrensning i kommunikasjonsevne | P – Hvis uforenlig med pålitelig utførelse av arbeidsoppgaver i normal- og nøds-situasjoner. | R – Hvis assistanse/hjelpemidler med kommunikasjon er nødvendig for å sikre pålitelig utførelse av arbeidsoppgaver i normal- og nødssituasjoner. Spesifiser assistanse/hjelpemidler. | Forstyrrelsen hindrer ikke pålitelig utførelse av arbeidsoppgaver i normal- og nødssituasjoner.\n| T78 Z88 | Allergier (andre enn allergisk dermatitt og astma)\nSannsynlighet for tilbakefall og økende alvorlighetsgrad. Redusert evne til pålitelig utførelse av arbeidsoppgaver i normal- og nødssituasjoner. | T – Inntil ferdig undersøkt av spesialist.\nP – Hvis det er sannsynlighet for livstruende reaksjoner. | Individuell vurdering av sannsynlighet for anfall og alvorlighetsgrad av reaksjon, behandlingsmulighet og tilgang på medisinsk behandling.\nR – Når reaksjonen reduserer arbeidsevnen, ikke er livstruende, og rimelige tiltak kan iverksettes for å redusere sannsynligheten for residiv. | Når reaksjonen reduserer arbeidsevnen, ikke er livstruende og kan bli fullt kontrollert med langtidsbehandling med ikke-steroid selvmedisinering eller ved livsstilsendringer som er gjennomførbare til sjøs, og det ikke er noen sikkerhetskritiske bivirkninger.\n| Z94 | Transplantat – nyre, hjerte, lunge, lever. (For proteser i ledd, ekstremiteter, linser, øre, hjerteklaffer etc., se aktuelle seksjon). Sannsynlighet for avstøtning. Bivirkninger av medikasjon. | T – Inntil effekten av kirurgi og medisinering for å hindre frastøtning er stabilisert\nP – Individuell vurdering basert på spesialistråd. | R, L – Individuell vurdering basert på spesialistråd. | Ikke aktuelt.\n| Klassifiser etter tilstand | Progressive tilstander, som for øyeblikket fyller kravene, f.eks. Chorea Huntington (inklusive slektsanamnese) og keratoconus | T – Inntil undersøkt og tilfredsstillende behandlet hvis indisert.\nP – Vurder ved førstegangsundersøkelse hvorvidt et annet yrkesvalg er mer hensiktsmessig. | Individuell vurdering basert på spesialistråd. Slike tilstander er akseptable hvis det er usannsynlig at tilstanden innenfor helseerklæringens gyldighetsperiode vil progrediere til en grad som reduserer evnen til utførelse av arbeidsoppgaver i normal- eller nødssituasjoner. | Individuell vurdering basert på spesialistråd. Slike tilstander er akseptable hvis det er usannsynlig at tilstanden innenfor helseerklæringens gyldighetsperiode vil progrediere til en grad som reduserer evnen til utførelse av arbeidsoppgaver i normal- eller nødssituasjoner.\n| Klassifiser etter tilstand | Tilstander som ikke er oppført | T – Inntil undersøkt og tilfredsstillende behandlet hvis indisert.\nP – Hvis vedvarende redusert evne til pålitelig utførelse av arbeidsoppgaver i normal- og nødssituasjoner. | Bruk analog vurdering med utgangspunkt i tilstander som er beskrevet som retningslinje ved vurdering.\nVurder sannsynlighet for akutt reduksjon av arbeidsevne, residiv, progresjon og begrensning i utførelsen av arbeidsoppgaver i normal- og nødssituasjoner. Ved tvil, søk råd og vurder begrensning | Bruk analog vurdering med utgangspunkt i tilstander som er beskrevet.\nVurder sannsynlighet for reduksjon av arbeidsevne, residiv, progresjon og begrensning i utførelsen av arbeidsoppgaver i normal- og nødssituasjoner. Ved tvil, søk råd og vurder begrensning.\n| Svært lav: | Mindre enn 2 % per år\n| Lav: | 2–5 % per år\n| Moderat: | 5–10 % per år\n| Høy: | > 10 %"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "fotnoter": [
+  {
+   "nr": "1",
+   "tekst": "Verdier er oppgitt etter Snellens desimalnotasjon."
+  },
+  {
+   "nr": "2",
+   "tekst": "En verdi på minst 0,7 på ett øye er anbefalt for å redusere risikoen for underliggende uoppdaget synsdefekt."
+  },
+  {
+   "nr": "3",
+   "tekst": "Som definert i «International Recommendation for Colour Vision Requirements for Transport» utgitt av Commission Internationale de l'Éclairage (CIE-143-2001, inkludert eventuelle senere versjoner)."
+  },
+  {
+   "nr": "4",
+   "tekst": "Henvisning til spesialist når dette er indisert etter sjøfartslegens undersøkelse."
+  },
+  {
+   "nr": "5",
+   "tekst": "Maskinromsoperatører skal ha et kombinert syn på minst 0,4."
+  },
+  {
+   "nr": "6",
+   "tekst": "CIE fargesynsstandard 1 eller 2."
+  },
+  {
+   "nr": "7",
+   "tekst": "På bakgrunn av STCW-konvensjonen Del A-1/9 pkt. 5 er kravet om fargesyn for maskinister, skipselektrikere osv. som inngår i maskinvakten, at deres samlede syn tilfredsstiller kravene i tabell A-1/9."
+  },
+  {
+   "nr": "i",
+   "tekst": "Forskrift 13. februar 2009 nr. 205 om tuberkulosekontroll."
+  },
+  {
+   "nr": "ii",
+   "tekst": "Forekomst/hyppighet: Når begrepene svært lav, lav og moderat er brukt for sannsynlighet for medisinsk hendelse, er dette basert på klinisk vurdering, men i noen tilfeller kvantitativ evidens tilgjengelig for sannsynlighet for en medisinsk hendelse. Når dette er tilgjengelig, for eksempel for epilepsi eller hjertehendelser, er det nødvendig å individualisere sannsynligheten basert på klinisk kunnskap om enkeltpersonen for å vurdere den individuelle sannsynligheten for en hendelse.\nKvantitative sannsynlighetsgrenser settes omtrentlig til:"
+  },
+  {
+   "nr": "iii",
+   "tekst": "Astma: Definisjon av alvorlighetsgrader\nBarne-astma:\n- Mild: Debut etter 10-årsalder eller ingen sykehusinnleggelser, normal aktivitet mellom episodene, kontrollert av inhalasjonsterapi alene, gått over ved 16-årsalder, normal lungefunksjon\n- Moderat: Få sykehusinnleggelser, hyppig bruk av inhalasjonsbehandling ved anfall mellom episodene, påvirker normal arbeidskapasitet, gått over ved 16-årsalder, normal lungefunksjon.\n- Alvorlig: Hyppige episode som behøver mer intensiv behandling, hyppige sykehusinnleggelser, hyppig oral eller intravenøs steroid-behandling, unormal lungefunksjon.\nVoksen-astma:\n- Astma som persisterer fra barnealder eller begynner etter 16-årsalder. Det er et vidt spekter av indre og ytre årsaker til astma i voksen alder. Hos personer med voksen-astma i anamnesen, og som vil begynne å arbeide til sjøs, må rollen til spesifikke allergener undersøkes, inklusive de som forårsaker yrkesrelatert astma. Mindre spesifikke agens som kulde, arbeidsbelastning og luftveisinfeksjon må også vurderes.\n- Mild, intermitterende astma: Sjeldne episoder med mild tungpust som opptrer sjeldnere enn med 1–2 ukers mellomrom, og raskt går over med inhalasjon av beta2-agonist.\n- Mild astma: Hyppige episoder med tungpust, som krever bruk av beta2-agonist inhalasjon eller medfører behandling med kortikosteroid-inhalasjon.\n- Arbeidsrelatert astma: Episoder med tungpust og åndenød utløst av arbeidsbelastning, spesielt i kulde. Episodene kan effektivt behandles med steroider (eller langtidsvirkende beta2-agonister) eller annen oral behandling.\n- Moderat astma: Hyppige episoder med tungpust på tross av regelmessig behandling av inhalasjonssteroider (eller steroider/langtidsvirkende beta2-agonist) eller tillegg av annen medisinering, av og til behov for orale steroider.\n- Alvorlig astma: Hyppige episoder med tungpust og åndenød. Hyppig hospitalisering. Hyppig bruk av orale steroider."
+  }
+ ]
+}

@@ -1,0 +1,879 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2007-12-28-1753",
+ "dokumentid": "SF/forskrift/2007-12-28-1753",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "etat": [
+  "Justervesenet"
+ ],
+ "kunngjort_i": "I 2008 hefte 1",
+ "ikraft": "2008-01-01",
+ "siste_endring_ikraft": "2025-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2024-12-12-3135",
+   "tekst": "forskrift/2024-12-12-3135 fra 2025-01-01"
+  }
+ ],
+ "endrer": "forskrift/2004-10-22-1398",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2007-01-26-4/§7",
+   "tekst": "lov/2007-01-26-4/§7"
+  },
+  {
+   "ref": "lov/2007-01-26-4/§8",
+   "tekst": "lov/2007-01-26-4/§8"
+  },
+  {
+   "ref": "lov/2007-01-26-4/§10",
+   "tekst": "lov/2007-01-26-4/§10"
+  },
+  {
+   "ref": "lov/2007-01-26-4/§13",
+   "tekst": "lov/2007-01-26-4/§13"
+  },
+  {
+   "ref": "lov/2007-01-26-4/§17",
+   "tekst": "lov/2007-01-26-4/§17"
+  },
+  {
+   "ref": "lov/2007-01-26-4/§19",
+   "tekst": "lov/2007-01-26-4/§19"
+  },
+  {
+   "ref": "lov/2007-01-26-4/§30",
+   "tekst": "lov/2007-01-26-4/§30"
+  },
+  {
+   "ref": "lov/2007-01-26-4/§35",
+   "tekst": "lov/2007-01-26-4/§35"
+  },
+  {
+   "ref": "forskrift/2007-12-20-1723/§1-2",
+   "tekst": "forskrift/2007-12-20-1723/§1-2"
+  },
+  {
+   "ref": "forskrift/2007-12-20-1723/§5-1",
+   "tekst": "forskrift/2007-12-20-1723/§5-1"
+  },
+  {
+   "ref": "forskrift/2007-12-20-1723/§5-4",
+   "tekst": "forskrift/2007-12-20-1723/§5-4"
+  },
+  {
+   "ref": "lov/2004-12-17-101",
+   "tekst": "lov/2004-12-17-101"
+  }
+ ],
+ "kunngjort": "2008-01-11 15:40",
+ "siste_rettelse": "2020-10-21 (EØS-henvisningsfeltet)",
+ "korttittel": "Forskrift om krav til elektrisitetsmålere",
+ "tittel": "Forskrift om krav til elektrisitetsmålere",
+ "annet": "Hjemmel: Fastsatt av Justervesenet 28. desember 2007 med hjemmel i lov 26. januar 2007 nr. 4 om målenheter, måling og normaltid § 35, jf. § 7, § 8, § 10, § 13, § 17, § 19 og § 30 og forskrift 20. desember 2007 nr. 1723 om målenheter og måling § 1-2 annet ledd, § 5-1 annet ledd og § 5-4.\nEØS-henvisninger: EØS-avtalen vedlegg II kap. IX nr. 27e (direktiv 2014/32/EU).\nForskriftens kapittel 3, 4 og § 1, § 2, § 26 og § 28 er meldt til EFTAs overvåkingsorgan i henhold til kravene i lov 17. desember 2004 nr. 101 om europeisk meldeplikt for tekniske regler (EØS-høringsloven) og direktiv 98/34/EF endret ved direktiv 98/48/EF.\nEndret ved forskrifter 9 sep 2011 nr. 921, 12 des 2011 nr. 1267, 10 des 2014 nr. 1576, 23 okt 2017 nr. 1682, 20 des 2017 nr. 2295, 10 des 2018 nr. 1883, 21 des 2022 nr. 2508 (i kraft 1 jan 2023), 1 des 2023 nr. 1989 (i kraft 1 jan 2024), 12 des 2024 nr. 3135 (i kraft 1 jan 2025).\nRettelser: 02.05.2008 (§ 24, § 27, § 28), 10.01.2018 (§ 28), 25.06.2018 (EØS-henvisningsfeltet), 21.10.2020 (EØS-henvisningsfeltet).",
+ "refid": "forskrift/2007-12-28-1753",
+ "eli": "/eli/forskrift/2007/12/28/1753",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2007-12-28-1753",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1 – Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Forskriften fastsetter hvilke krav som skal gjelde for elektrisitetsmålere som måler aktiv energi eller en kombinasjon av aktiv og reaktiv energi når de selges eller tilbys for salg og når de brukes i distribusjonsnett med lavspenning som grunnlag for beregning av økonomisk oppgjør, jf. forskrift 20. desember 2007 nr. 1723 om målenheter og måling § 3-1.",
+      "Elektrisitetsmålere som selges eller tilbys for salg skal minimum oppfylle de grunnleggende kravene fastsatt i kapittel 2. Kravene til elektrisitetsmålere under bruk er fastsatt i kapittel 3.",
+      "Kontrollordninger for elektrisitetsmålere under bruk reguleres i kapittel 4 i forskriften her, mens kontroll og godkjenningsordninger for elektrisitetsmålere som selges eller tilbys for salg reguleres i forskrift om målenheter og måling kapittel 4.",
+      "Forskriften setter ikke krav til elektromagnetisk stråling som avgis av måleinstrumentet."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 23 okt 2017 nr. 1682, 20 des 2017 nr. 2295 (i kraft 1 jan 2018), 21 des 2022 nr. 2508 (i kraft 1 jan 2023), 1 des 2023 nr. 1989 (i kraft 1 jan 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "I denne forskriften menes med\na. elektrisitetsmåler: en innretning som måler aktiv elektrisk energi som forbrukes i en krets, herunder måler som i tillegg måler reaktiv elektrisk energi. Målere som bare måler reaktiv energi omfattes ikke av definisjonen i denne forskriften;\nb. distribusjonsnett med lavspenning: anlegg med høyeste nominell spenning til og med 1000 V vekselspenning eller 1500 V likespenning;\nc. statisk måler: en elektronisk måler;\nd. målestørrelsen: den bestemte størrelsen som skal måles;\ne. påvirkende størrelse: en størrelse som ikke er målestørrelsen, men som påvirker måleresultatet;\nf. angitte driftsbetingelser: de verdier av målestørrelsen og påvirkende størrelser som utgjør elektrisitetsmålerens normale driftsbetingelser;\ng. forstyrrelse: en påvirkende størrelse med en verdi som er innenfor de grenser som er spesifisert i hensiktsmessige krav, men utenfor elektrisitetsmålerens angitte driftsbetingelser. En påvirkende størrelse er uansett en forstyrrelse dersom den ikke er spesifisert i de angitte driftsbetingelser;\nh. kritisk endringsverdi: den verdien der endringen i måleresultatet anses som uønsket;\ni. klimatisk miljø: omgivelser der elektrisitetsmålere kan benyttes. Det er definert en rekke temperaturgrenser for å ta høyde for klimaforskjeller mellom EØS-statene;\nj. forsyningsvirksomhet: en leverandør av elektrisitet, gass, varme eller vann;\nk. bruker: den som er ansvarlig for målingen."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 20 des 2017 nr. 2295 (i kraft 1 jan 2018), 21 des 2022 nr. 2508 (i kraft 1 jan 2023)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2 – Krav til elektrisitetsmålere som selges eller tilbys for salg",
+   "innhold": [
+    {
+     "type": "seksjon",
+     "id": "kapittel-2-kapittel-1",
+     "navn": "kapI",
+     "overskrift": "Avsnitt I – Generelle krav",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-1",
+       "nummer": "§ 3",
+       "tittel": "Måleteknisk beskyttelse og kvalitetsnivå",
+       "ledd": [
+        "En elektrisitetsmåler skal ha en høy grad av måleteknisk beskyttelse, slik at alle berørte parter kan ha tillitt til måleresultatet, og den skal konstrueres og fremstilles etter tilfredsstillende kvalitetsnivå med hensyn til måleteknologi og måledataenes sikkerhet."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-2",
+       "nummer": "§ 4",
+       "tittel": "Påtenkt bruk og påregnelig feilbruk",
+       "ledd": [
+        "Det skal tas hensyn til elektrisitetsmålerens påtenkte bruk samt den påregnelige feilbruk ved valg av løsninger som anvendes for å oppfylle kravene i dette kapitlet."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-3",
+       "nummer": "§ 5",
+       "tittel": "Tillatte feil",
+       "ledd": [
+        "Under de angitte driftsbetingelser og i fravær av en forstyrrelse skal målefeilen ikke overstige den maksimale tillatte målefeil som er fastsatt i § 28. Med mindre annet er angitt i avsnitt II, uttrykkes den maksimale tillatte målefeil som avviket fra den sanne måleverdi som et tosidig intervall.",
+        "Under de angitte driftsbetingelser og dersom det foreligger en forstyrrelse, er kravet til yteevne som fastsatt i avsnitt II.",
+        "Dersom elektrisitetsmåleren er beregnet brukt i et gitt permanent kontinuerlig elektromagnetisk felt, skal måleresultatet under forsøket med amplitudemodulert elektromagnetisk felt ligge innenfor maksimal tillatt målefeil."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-4",
+       "nummer": "§ 6",
+       "tittel": "Påvirkende størrelser",
+       "ledd": [
+        "Produsenten skal angi det klimatiske, mekaniske og elektromagnetiske miljø som elektrisitetsmåleren er beregnet brukt i, samt strømforsyning og andre påvirkende størrelser som kan påvirke målenøyaktigheten, idet det tas hensyn til kravene fastsatt i avsnitt II."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-5",
+       "nummer": "§ 7",
+       "tittel": "Klimatisk miljø",
+       "ledd": [
+        "Produsenten skal angi øvre og nedre temperaturgrense blant verdiene i tabell 1 og angi hvorvidt elektrisitetsmåleren er konstruert for kondenserende eller ikke-kondenserende fuktighet, samt om den tiltenkte plassering er åpen eller lukket.",
+        "Tabell 1\n| Øvre temperaturgrense | 30 °C | 40 °C | 55 °C | 70 °C\n| Nedre temperaturgrense | 5 °C | -10 °C | -25 °C | -40 °C"
+       ],
+       "endringer": [
+        "Endret ved forskrift 21 des 2022 nr. 2508 (i kraft 1 jan 2023)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-6",
+       "nummer": "§ 8",
+       "tittel": "Mekanisk miljø",
+       "ledd": [
+        "Det mekaniske miljø klassifiseres i følgende klasser:\nTabell 2\n| M1 | Denne klassen omfatter elektrisitetsmålere som anvendes på steder med minimal eksponering for vibrasjoner og sjokk, f.eks. elektrisitetsmålere som monteres på lette støttekonstruksjoner og utsettes for ubetydelige vibrasjoner og sjokk fra lokale sprengninger, byggearbeider, smelling med dører osv.\n| M2 | Denne klassen omfatter elektrisitetsmålere som anvendes på steder med betydelig eller høyt vibrasjons- og sjokknivå, f.eks. forårsaket av maskiner og forbipasserende kjøretøy i nærheten, eller av at elektrisitetsmåleren er plassert i umiddelbar nærhet av tunge maskiner, transportbånd osv.\n| M3 | Denne klassen omfatter elektrisitetsmålere som anvendes på steder med høyt og meget høyt vibrasjons- og sjokknivå, for eksempel elektrisitetsmålere montert direkte på maskiner, transportbånd osv.",
+        "Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med det mekaniske miljø:\na. vibrasjon\nb. mekanisk sjokk."
+       ],
+       "endringer": [
+        "Endret ved forskrift 21 des 2022 nr. 2508 (i kraft 1 jan 2023)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-7",
+       "nummer": "§ 9",
+       "tittel": "Elektromagnetisk miljø",
+       "ledd": [
+        "Med mindre annet er fastsatt i avsnitt II klassifiseres det elektromagnetiske miljø i følgende klasser:\nTabell 3\n| E1 | Denne klassen omfatter elektrisitetsmålere som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i bygninger som brukes til bolig- og handelsformål, og lette industribygninger.\n| E2 | Denne klassen omfatter elektrisitetsmålere som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i andre industribygg.\n| E3 | Denne klassen omfatter elektrisitetsmålere som får strøm fra batteriet i et kjøretøy. Slike elektrisitetsmålere skal oppfylle kravene for E2 samt tilleggskrav til toleranse for stor strøm- og spenningsvariasjon ved innkobling og frakobling av motorens startmekanisme.",
+        "Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med elektromagnetisk miljø:\na. spenningsavbrudd\nb. kortvarig redusert spenning\nc. elektriske utladninger og spenningstransienter på forsyningsledninger og/eller signalledninger\nd. høyfrekvente elektromagnetiske felt\ne. overførte høyfrekvente elektromagnetiske felt på forsyningsledninger og/eller signalledninger\nf. overspenning på forsyningsledninger og/eller signalledninger."
+       ],
+       "endringer": [
+        "Endret ved forskrift 21 des 2022 nr. 2508 (i kraft 1 jan 2023)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-8",
+       "nummer": "§ 10",
+       "tittel": "Andre påvirkende størrelser",
+       "ledd": [
+        "Det skal tas hensyn til følgende andre påvirkende størrelser når det er hensiktsmessig:\na. spenningsvariasjon\nb. variasjoner i nettfrekvens\nc. nettgenererte magnetiske felt\nd. andre størrelser som kan påvirke elektrisitetsmålerens nøyaktighet i vesentlig grad."
+       ],
+       "endringer": [
+        "Endret ved forskrift 21 des 2022 nr. 2508 (i kraft 1 jan 2023)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-9",
+       "nummer": "§ 11",
+       "tittel": "Grunnleggende regler for forsøk og bestemmelse av feil",
+       "ledd": [
+        "Ved utførelse av forsøk i henhold til denne forskriften gjelder følgende:\na. De grunnleggende kravene angitt i § 5 skal kontrolleres for hver relevante påvirkende størrelse. Med mindre annet er angitt i avsnitt II, gjelder disse grunnleggende kravene når hver påvirkende størrelse påføres og virkningen av den vurderes separat, idet alle andre påvirkende størrelser holdes relativt konstante ved sine referanseverdier.\nb. Måleforsøk skal utføres under og etter påføring av den påvirkende størrelsen, alt etter hva som tilsvarer normal driftsstatus for elektrisitetsmåleren når denne påvirkende størrelsen kan antas å opptre."
+       ],
+       "endringer": [
+        "Endret ved forskrift 21 des 2022 nr. 2508 (i kraft 1 jan 2023)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-10",
+       "nummer": "§ 12",
+       "tittel": "Luftfuktighet",
+       "ledd": [
+        "Avhengig av det klimatiske miljø elektrisitetsmåleren er ment brukt i, kan det mest hensiktsmessige testforløp enten være stasjonær fuktig varme (ikke-kondenserende), eller syklisk fuktig varme (kondenserende).",
+        "Testforløp med syklisk varierende fuktighet er hensiktsmessig dersom kondensering er viktig, eller dersom dampgjennomtrengning vil bli fremskyndet av ventilasjon. Ved forhold der ikke-kondenserende luftfuktighet er viktig, er testforløp med stasjonær fuktig varme hensiktsmessig."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-11",
+       "nummer": "§ 13",
+       "tittel": "Reproduserbarhet",
+       "ledd": [
+        "Dersom elektrisitetsmåleren brukes til å måle den samme målestørrelsen, men på ulike steder og av ulike brukere, skal resultatene av påfølgende målinger være i nært samsvar. Variasjonen i måleresultatene skal være liten i forhold til maksimal tillatt målefeil."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-12",
+       "nummer": "§ 14",
+       "tittel": "Repeterbarhet",
+       "ledd": [
+        "Dersom målestørrelsen har samme verdi og måleforholdene er uendret, skal de påfølgende måleresultatene stemme godt overens. Variasjonen i måleresultatene skal være liten i forhold til maksimal tillatt målefeil."
+       ],
+       "endringer": [
+        "Endret ved forskrift 21 des 2022 nr. 2508 (i kraft 1 jan 2023)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-13",
+       "nummer": "§ 15",
+       "tittel": "Oppløsning og følsomhet",
+       "ledd": [
+        "En elektrisitetsmåler skal være tilstrekkelig følsom, og skal ha tilstrekkelig oppløsning tilpasset måleoppgaven."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-14",
+       "nummer": "§ 16",
+       "tittel": "Holdbarhet",
+       "ledd": [
+        "En elektrisitetsmåler skal være konstruert slik at dens måletekniske egenskaper er tilstrekkelig stabile i et tidsrom som produsenten fastsetter, forutsatt at det monteres, vedlikeholdes og brukes korrekt i samsvar med produsentens anvisninger og i det miljø det er bestemt for."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-15",
+       "nummer": "§ 17",
+       "tittel": "Pålitelighet",
+       "ledd": [
+        "En elektrisitetsmåler skal konstrueres slik at virkningen av en funksjonsfeil som medfører et unøyaktig måleresultat, reduseres så langt som mulig, med mindre en slik feil er åpenbar."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-16",
+       "nummer": "§ 18",
+       "tittel": "Egnethet",
+       "ledd": [
+        "En elektrisitetsmåler skal være\na. egnet til den påtenkte bruk, idet det tas hensyn til de i praksis forekommende driftsbetingelser og det ikke stilles urimelige krav til brukeren for å oppnå et korrekt måleresultat;\nb. ufølsom overfor små variasjoner i målestørrelsens verdi, eller den skal reagere på en hensiktsmessig måte dersom måleren er beregnet til måling av verdier av målestørrelsen som er konstant over tid;\nc. konstruert slik at målefunksjonen skal kunne kontrolleres etter at elektrisitetsmåleren er markedsført og tatt i bruk. Om nødvendig skal særskilt utstyr eller programvare til denne kontrollen være en del av elektrisitetsmåleren. Testprosedyren skal være beskrevet i bruksanvisningen;\nd. robust og framstilt av materialer som er velegnet til de påtenkte driftsbetingelser.",
+        "En elektrisitetsmåler skal ikke være av en slik art at den lett kan brukes til bedrageri, og muligheten for utilsiktet feilbruk skal være minst mulig. En elektrisitetsmåler som anvendes med gjennomstrømning eller elektrisk strøm utenfor det kontrollerte området, skal ikke overskride gitte verdier som anvist i gjeldende standarder.",
+        "Dersom en elektrisitetsmåler har tilknyttet programvare med andre funksjoner enn målefunksjonen, skal programvaren som har avgjørende betydning for målefunksjonen, kunne identifiseres, og den skal ikke utsettes for forstyrrende påvirkning fra de tilknyttede programvarefunksjonene."
+       ],
+       "endringer": [
+        "Endret ved forskrift 21 des 2022 nr. 2508 (i kraft 1 jan 2023)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-17",
+       "nummer": "§ 19",
+       "tittel": "Beskyttelse mot manipulering",
+       "ledd": [
+        "Dersom elektrisitetsmåleren kobles til en annen anordning direkte eller ved fjerntilkobling, skal de måletekniske egenskapene ikke påvirkes av anordningen på en feilaktig måte. Komponenter som har avgjørende betydning for de måletekniske egenskapene, skal være konstruert slik at de kan sikres. De anvendte sikkerhetstiltak skal gjøre det mulig å påvise om inngrep har funnet sted.",
+        "Programvare som har avgjørende betydning for de måletekniske egenskapene, skal være merket tilsvarende og være sikret. Identifikasjon av slik programvare skal lett kunne framskaffes fra elektrisitetsmåleren. Eventuell informasjon eller indikasjon på at det har funnet sted et inngrep skal være tilgjengelig i et rimelig tidsrom.",
+        "Måledata, programvare som er av avgjørende betydning for måleegenskapene og måleteknisk viktige parametre som lagres eller overføres, skal være beskyttet på hensiktsmessig vis mot tilsiktede eller utilsiktede virkninger.",
+        "Visningen av samlet mengde eller visningene som samlet mengde kan utledes fra, og som helt eller delvis danner grunnlaget for betaling, skal ikke kunne tilbakestilles under bruk."
+       ],
+       "endringer": [
+        "Endret ved forskrift 21 des 2022 nr. 2508 (i kraft 1 jan 2023)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-18",
+       "nummer": "§ 20",
+       "tittel": "Opplysninger som skal påføres eller følge elektrisitetsmåleren",
+       "ledd": [
+        "En elektrisitetsmåler skal være påført produsentens merke eller navn og opplysninger om målerens nøyaktighet. I den grad det er relevant skal også følgende opplysninger påføres elektrisitetsmåleren:\na. relevante opplysninger om bruksbetingelser\nb. målekapasitet\nc. måleområde\nd. identitetsmerke\ne. nummer på sertifikat for EF-typegodkjenning eller EF-konstruksjonsundersøkelse\nf. opplysninger om hvorvidt tilleggsutstyr som gir måleresultater er i samsvar med bestemmelsene i fastsatte forskrifter om lovregulert måleteknisk kontroll.",
+        "Opplysninger om betjening skal følge elektrisitetsmåleren med mindre måleren er så enkel at dette er unødvendig. Opplysningene skal være lette å forstå, og skal i relevant omfang omfatte følgende:\na. angitte driftsbetingelser\nb. elektromagnetisk miljø\nc. øvre og nedre temperaturgrense, akseptabelt fuktighetsområde samt om måleren er egnet for innendørs og/eller utendørs bruk\nd. anvisninger for montering, vedlikehold, reparasjoner og tillatte innstillinger\ne. anvisninger for korrekt betjening og eventuelle særlige bruksvilkår\nf. vilkår for kompatibilitet med grensesnitt, underenheter eller måleredskap.",
+        "Dersom elektrisitetsmålerens dimensjoner er for små, eller konstruksjonen er for følsom til at de relevante opplysninger kan påføres, skal disse være påført de følgedokumenter som kreves i henhold til denne forskriften. Alle merker og påskrifter skal være tydelige og utvetydige og de skal ikke kunne fjernes eller flyttes. For grupper av identiske elektrisitetsmålere er det ikke nødvendig med individuelle bruksanvisninger."
+       ],
+       "endringer": [
+        "Endret ved forskrift 21 des 2022 nr. 2508 (i kraft 1 jan 2023)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-19",
+       "nummer": "§ 21",
+       "tittel": "Angivelse av måleverdi",
+       "ledd": [
+        "Med mindre annet er angitt i avsnitt II, skal skalaintervallet for en målt verdi være på formen 1 × 10n, 2 × 10n eller 5 × 10n, hvor n er et heltall eller null. Målenheten eller dens symbol skal vises nær tallverdien.",
+        "Det skal benyttes målenheter og symboler som er i samsvar med bestemmelsene i kapittel 2 i forskrift om målenheter og måling."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-20",
+       "nummer": "§ 22",
+       "tittel": "Visning av resultat",
+       "ledd": [
+        "Resultatet skal vises på et display eller som papirutskrift. Ved utskrift skal skriften eller registreringen være lett lesbar og ikke kunne fjernes.",
+        "Alle resultater skal være tydelige og utvetydige og ledsages av de merker og påskrifter som er nødvendige for å opplyse brukeren om resultatets betydning. Resultatet som vises, skal være lett lesbart under normale bruksforhold. Ytterligere informasjon kan vises under forutsetning av at den ikke kan forveksles med de måletekniske kontrollerte resultatene.",
+        "Uansett om en elektrisitetsmåler som er beregnet på forsyningsmåling kan fjernavleses eller ikke, skal den være utstyrt med et metrologisk kontrollert display eller en visning som sluttbrukeren kan avlese uten bruk av hjelpemidler. Det som avleses på displayet eller visningen, er måleresultatet som danner grunnlaget for prisen som skal betales."
+       ],
+       "endringer": [
+        "Endret ved forskrift 10 des 2018 nr. 1883 (i kraft 1 jan 2019)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-21",
+       "nummer": "§ 23",
+       "tittel": "Samsvarsvurdering",
+       "ledd": [
+        "En elektrisitetsmåler skal være konstruert slik at det lett kan vurderes om den er i samsvar med de relevante kravene i denne forskriften."
+       ],
+       "endringer": [
+        "Endret ved forskrift 21 des 2022 nr. 2508 (i kraft 1 jan 2023)."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-2-kapittel-2",
+     "navn": "kapII",
+     "overskrift": "Avsnitt II – Spesifikke krav",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-2-paragraf-1",
+       "nummer": "§ 24",
+       "tittel": "Definisjoner",
+       "ledd": [
+        "| I | = | den elektriske strømmen gjennom måleren\n| In | = | den angitte referansestrømmen som den transformatordrevne måleren er konstruert for\n| Ist | = | den laveste angitte verdi av I der måleren registrerer aktiv elektrisk energi ved effektfaktor 1 (flerfasemålere med symmetrisk belastning)\n| Imin | = | den verdi av I der målerens feil ligger innenfor angitte tolerangrenser (flerfasemålere med symmetrisk belastning)\n| Itr | = | den verdi av I der målerens feil skal ligge innefor minste toleransegrenser tilsvarende klassens betegnelse\n| Imax | = | største verdi av I der målerens feil ligger innenfor angitte toleransegrenser\n| U | = | tilført elektrisk spenning til måleren\n| Un | = | angitt referansespenning\n| f | = | frekvensen av den spenningen som tilføres til måleren\n| fn | = | angitt referansefrekvens\n| PF | = | effektfaktor = cosφ = cosinus til fasedifferansen φ mellom I og U."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-2-paragraf-2",
+       "nummer": "§ 25",
+       "tittel": "Nøyaktighet",
+       "ledd": [
+        "Elektrisitetsmålere skal ha klasseindeksene A, B eller C. Produsenten skal angi målerens klasseindeks."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-2-paragraf-3",
+       "nummer": "§ 26",
+       "tittel": "Bruksområder for elektrisitetsmålere",
+       "ledd": [
+        "Tabell 4\n| Målerklasse A\ni temperaturområde + 5 °C ... + 30 °C\n| Benyttes for målere for innendørs installasjon for bruk i husholdninger, herunder utleieformål, private hybler og hybelhus.\n| Målerklasse B\ni temperaturområde – 25 °C ... + 55 °C\n| Benyttes for målere for utendørs installasjon for bruk i husholdninger, herunder hytte/fritidseiendom.\n| Målerklasse B\ni temperaturområde + 5 °C ... + 30 °C\n| Benyttes for\n– ikke-transformatorkoblede målere for innendørs installasjon for bruk i næringsvirksomhet/lett industri, herunder fellesmålere i butikksentre\n– direktekoblede målere for bruk til belysning /oppvarming av offentlig vei\n| Målerklasse C med valgfritt i temperaturområde | Kan benyttes for alle bruksområder. Må benyttes for\n– transformatorkoblede målere for bruk i næringsvirksomhet/lett industri, herunder fellesmålere i butikksentre\n– fellesmålere i borettslag med etterfølgende målere i serie\n– transformatorkoblede målere for belysning /oppvarming av offentlig vei"
+       ],
+       "endringer": [
+        "Endret ved forskrift 21 des 2022 nr. 2508 (i kraft 1 jan 2023)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-2-paragraf-4",
+       "nummer": "§ 27",
+       "tittel": "Angitte driftsbetingelser",
+       "ledd": [
+        "Produsenten skal angi angitte driftsbetingelser for måleren, særlig verdiene av fn, Un, In, Ist, Imin, Itr og Imax som gjelder for måleren. For de angitte strømverdier skal måleren oppfylle vilkårene gitt i tabell 5:",
+        "Tabell 5\n| | Klasse A | Klasse B | Klasse C\n| For direktekoplede målere\n| Ist | ≤ 0,05 · Itr | ≤ 0,04 · Itr | ≤ 0,04 · Itr\n| Imin | ≤ 0,5 · Itr | ≤ 0,5 · Itr | ≤ 0,3 · Itr\n| Imax | ≥ 50 · Itr | ≥ 50 · Itr | ≥ 50 · Itr\n| For transformatorkoblede målere\n| Ist | ≤ 0,06 · Itr | ≤ 0,04 · Itr | ≤ 0,02 · Itr\n| Imin | ≤ 0,4 · Itr | ≤ 0,2 · Itr [1] | ≤ 0,2 · Itr\n| In | = 20 · Itr | = 20 · Itr | = 20 · Itr\n| Imax | ≥ 1,2 · In | ≥ 1,2 · In | ≥ 1,2 · In",
+        "Spennings-, frekvens- og effektfaktorområdene innenfor hvilke måleren skal oppfylle krav til maksimal tillatte målefeil, er angitt i tredje og fjerde ledd. Disse områdene skal ta hensyn til de typiske egenskapene ved strømmen som leveres gjennom offentlige distribusjonssystemer.\n| | Spennings- og frekvensområde skal være minst: | 0,9 · Un ≤ U ≤ 1,1 · Un\n| | | 0,98 · fn ≤ f ≤ 1,02 · fn",
+        "Effektfaktorområdet er minst fra cosφ = 0,5 induktiv til cosφ = 0,8 kapasitiv."
+       ],
+       "fotnoter": [
+        {
+         "nr": "1",
+         "tekst": "For elektromekaniske målere i klasse B gjelder Imin ≤ 0,4 · Itr ."
+        }
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-2-paragraf-5",
+       "nummer": "§ 28",
+       "tittel": "Maksimal tillatt målefeil",
+       "ledd": [
+        "Påvirkningen av de forskjellige målestørrelser og påvirkende størrelser (x1, x2, x3 ...) vurderes hver for seg, alle andre målestørrelser og påvirkende størrelser holdes konstant på sine referanseverdier. Målefeilen, som ikke skal overstige maksimal tillatte målefeil angitt i tabell 6, beregnes som målefeil \\(= \\sqrt{(x_1^2 + x_2^2 + \\text{...} + x_n^2)}\\).",
+        "Dersom måleren arbeider under varierende strømbelastninger, skal prosentvise feil ikke overstige grensene gitt i tabell 6.\n| Maksimal tillatt målefeil i prosent ved angitte driftsbetingelser og definerte strømbelastningsnivåer og driftstemperaturer\n| | Driftstemperaturer | Driftstemperaturer | Driftstemperaturer | Driftstemperaturer\n| | + 5 °C ... + 30 °C | - 10 °C ... + 5 °C\neller\n+ 30 °C ... + 40 °C | - 25 °C ... – 10 °C\neller\n+ 40 °C ... + 55 °C | - 40 °C ... – 25 °C\neller\n+ 55 °C ... + 70 °C\n| | A | B | C | A | B | C | A | B | C | A | B | C\n| Enfasemåler og flerfasemåler ved drift med symmetrisk belastning\n| Imin ≤ I < Itr | 3,5 | 2 | 1 | 5 | 2,5 | 1,3 | 7 | 3,5 | 1,7 | 9 | 4 | 2\n| Itr ≤ I ≤ Imax | 3,5 | 2 | 0,7 | 4,5 | 2,5 | 1 | 7 | 3,5 | 1,3 | 9 | 4 | 1,5\n| Flerfasemåler ved drift med enfasebelastning\n| Itr ≤ I ≤ Imax | 4 | 2,5 | 1 | 5 | 3 | 1,3 | 7 | 4 | 1,7 | 9 | 4,5 | 2\n| For elektromekaniske flerfasemålere er strømintervallet for enfasebelastning begrenset til 5Itr ≤ I ≤ Imax.",
+        "Dersom en måler arbeider ved forskjellige temperaturområder, gjelder de relevante verdier for maksimal tillatt målefeil.",
+        "En elektrisitetsmåler skal ikke reguleres slik at den systematisk måler i favør av en part."
+       ],
+       "endringer": [
+        "Endret ved forskrifter 9 sep 2011 nr. 921, 20 des 2017 nr. 2295 (i kraft 1 jan 2018), 21 des 2022 nr. 2508 (i kraft 1 jan 2023)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-2-paragraf-6",
+       "nummer": "§ 29",
+       "tittel": "Tillatt påvirkning av forstyrrelser",
+       "ledd": [
+        "Siden elektrisitetsmålere er direkte koplet til hovednettforsyning, og siden nettstrømmen også er en av målestørrelsene, anvendes et spesielt elektromagnetisk miljø for elektrisitetsmålere. Måleren skal være i samsvar med det elektromagnetiske miljøet E2 og tilleggskravene i § 30 og § 31.",
+        "Det elektromagnetiske miljøet og tillatte påvirkninger gjenspeiler situasjonen der det er forstyrrelser av lang varighet som ikke skal påvirke nøyaktigheten utover de kritiske endringene og transiente forstyrrelsene, som kan forårsake midlertidig reduksjon eller tap av funksjon eller ytelse, men som måleren skal vende tilbake fra, og som ikke skal påvirke nøyaktigheten utover de kritiske endringene.",
+        "Dersom det er en forutsigbar høy risiko på grunn av lyn, eller dersom forsyningen overveiende skjer via luftledninger, skal målerens måleegenskaper beskyttes."
+       ],
+       "endringer": [
+        "Endret ved forskrift 21 des 2022 nr. 2508 (i kraft 1 jan 2023)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-2-paragraf-7",
+       "nummer": "§ 30",
+       "tittel": "Påvirkning av forstyrrelser av lang varighet",
+       "ledd": [
+        "Tabell 7\n| | Kritiske endringer i prosent for målere i klasse\n| | A | B | C\n| omvendt faserekkefølge | 1,5 | 1,5 | 0,3\n| usymmetrisk spenning (gjelder bare flerfasemålere) | 4 | 2 | 1\n| innhold av overharmoniske komponenter i strømmen[1] | 1 | 0,8 | 0,5\n| innhold av likestrøm og overharmoniske komponenter i strømmen[1] | 6 | 3 | 1,5\n| raske strømtransienter | 6 | 4 | 2\n| magnetiske felt: ledningsbundet og radiobåren elektromagnetisk påvirkning, høyfrekvente elektromagnetiske felt (innstrålt RF) og ledningsbårne forstyrrelser oppstått pga. RF-felt | 3 | 2 | 1"
+       ],
+       "endringer": [
+        "Endret ved forskrift 21 des 2022 nr. 2508 (i kraft 1 jan 2023)."
+       ],
+       "fotnoter": [
+        {
+         "nr": "1",
+         "tekst": "For elektromekaniske elektrisitetsmålere er det ikke definert kritiske endringsverdier for overharmoniske komponenter i strømmen og for likestrøm og overharmoniske komponenter i strømmen."
+        }
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-2-paragraf-8",
+       "nummer": "§ 31",
+       "tittel": "Tillatt påvirkning av transiente elektromagnetiske fenomener",
+       "ledd": [
+        "Påvirkningen av en elektromagnetisk forstyrrelse på en elektrisitetsmåler skal være slik at under og umiddelbart etter forstyrrelse skal enhver størrelse beregnet på prøving av målerens nøyaktighet ikke frambringe pulser eller signaler som tilsvarer en energi på mer enn den kritiske endringsverdien.",
+        "I rimelig tid etter en elektromagnetisk forstyrrelse skal måleren\na. gjenoppta driften innenfor grensen for maksimal tillatt målefeil\nb. ha alle målefunksjoner i behold\nc. gi mulighet for innhenting av alle måledata som forelå før forstyrrelsen\nd. ikke vise noen endring i den registrerte energien på mer enn den kritiske endringsverdien.",
+        "Den kritiske endringsverdien i kWh er m · Un · Imax · 10-6 (der m er antall måleelementer i måleren, Un i volt og Imax i ampere). For overstrøm er den kritiske endringsverdien 1,5 %."
+       ],
+       "endringer": [
+        "Endret ved forskrift 21 des 2022 nr. 2508 (i kraft 1 jan 2023)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-2-paragraf-9",
+       "nummer": "§ 32",
+       "tittel": "Egnethet",
+       "ledd": [
+        "Under den nominelle driftsspenningen skal målerens positive feil ikke overstige 10 %.",
+        "Visningsanordningen skal ha et tilstrekkelig antall sifre til å sikre at visningen ikke kommer tilbake til startverdien når måleren arbeider i 4000 timer ved full belastning (I = Imax, U = Un og PF = 1), og den skal ikke kunne nullstilles under bruk.",
+        "Ved tap av strømforsyning i kretsen skal de mengdene av elektrisk energi som er blitt målt, være tilgjengelig for avlesning i et tidsrom på minst fire måneder."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-2-paragraf-10",
+       "nummer": "§ 33",
+       "tittel": "Drift uten belastning",
+       "ledd": [
+        "Når spenningen er satt på uten at det går strøm gjennom kretsen (det skal være åpen kretsløp), skal måleren ikke registrere noen energi ved spenning mellom 0,8 · Un og 1,1 · Un."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-2-paragraf-11",
+       "nummer": "§ 34",
+       "tittel": "Oppstart",
+       "ledd": [
+        "Måleren skal starte og fortsette registreringen ved Un, PF = 1 (flerfasemåler med symmetriske belastninger) og en strøm som er lik Ist."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-2-paragraf-12",
+       "nummer": "§ 35",
+       "tittel": "Enheter",
+       "ledd": [
+        "Den elektriske energien som måles, skal vises i kilowatt-timer eller megawatt-timer."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3 – Krav til elektrisitetsmålere under bruk",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 36",
+     "tittel": "Hvem som er ansvarlig",
+     "ledd": [
+      "Bestemmelsene i kapittel 3 retter seg mot bruker, jf. § 2."
+     ],
+     "endringer": [
+      "Endret ved forskrift 20 des 2017 nr. 2295 (i kraft 1 jan 2018)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 37",
+     "tittel": "Krav til elektrisitetsmålere med MID samsvarsvurdering",
+     "ledd": [
+      "Elektrisitetsmålere som er samsvarsvurdert i henhold til bestemmelsene i kapittel 2, heretter kalt MID samsvarsvurdering, skal benyttes med den målerklassen som er bestemt for det bruksområdet der måleren benyttes, jf. § 26.",
+      "For elektrisitetsmålere med MID samsvarsvurdering gjelder tilsvarende maksimal tillatt målefeil under bruk som ved salg, jf. § 28."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 20 des 2017 nr. 2295 (i kraft 1 jan 2018), 21 des 2022 nr. 2508 (i kraft 1 jan 2023)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 38",
+     "tittel": "Krav til elektrisitetsmålere med nasjonal samsvarsvurdering",
+     "ledd": [
+      "Elektrisitetsmålere som er samsvarsvurdert i henhold til forskrift 25. juli 2002 nr. 972 om krav til elektrisitetsmålere som selges, heretter kalt nasjonal samsvarsvurdering skal benyttes med nøyaktighetsnivå 1 i miljøklasse «utendørs» og nøyaktighetsnivå 1 eller 2 i miljøklasse «innendørs».",
+      "For elektrisitetsmålere med nasjonal samsvarsvurdering gjelder maksimal tillatt målefeil under bruk som fastsatt i tabell 8 og 9.\nTabell 8\n| Maksimal tillatt målefeil for enfase- og trefasemålere med symmetrisk belastning\n| Strømverdi | PF cos(φ) | Maksimal tillatte målefeil i %\n| | | Nøyaktighetsnivå 1 | Nøyaktighetsnivå 2\n| Itr ≤ I ≤ Imaks. eller 0,1Ib < I < Imaks. | 1 | 1,5 | 3\n| 2Itr ≤ I ≤ Imaks. eller 0,2Ib < I < Imaks. | ≠ 1 | 1,5 | 3\n| Imin ≤ I ≤ Itr eller 0,05Ib < I < 0,1Ib | 1 | 2,25 | 3,75\n| 2Imin ≤ I ≤ 2Itr eller 0,1Ib < I < 0,2Ib | ≠ 1 | 2,25 | 3,75\nTabell 9\n| Maksimal tillatt målefeil for trefasemålere med kun enfasebelastning og symmetrisk spenning\n| Strømverdi | PF cos(φ) | Maksimal tillatte målefeil i %\n| | | Nøyaktighetsnivå 1 | Nøyaktighetsnivå 2\n| Itr ≤ I ≤ Imaks. eller 0,1Ib < I < Imaks. | 1 | 3 | 4,5\n| 2Itr ≤ I ≤ Imaks. eller 0,2Ib < I < Imaks. | ≠ 1 | 3 | 4,5"
+     ],
+     "endringer": [
+      "Endret ved forskrifter 20 des 2017 nr. 2295 (i kraft 1 jan 2018), 21 des 2022 nr. 2508 (i kraft 1 jan 2023)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 39",
+     "tittel": "Krav til elektrisitetsmålere uten samsvarsvurdering",
+     "ledd": [
+      "Elektrisitetsmålere som er solgt før 1. januar 2003 og elektrisitetsmålere som måler strømleveranse til elektriske kjøretøy og er solgt før 1. januar 2025, kan brukes uten at det foreligger samsvarsvurdering.",
+      "For elektrisitetsmålere som ikke har samsvarsvurdering, gjelder maksimal tillatt målefeil under bruk som fastsatt i tabell 10 og 11. Dersom slike målere ikke har spesifisert en nøyaktighetsklasse, skal de ha maksimalt 3,5 % målefeil.\nTabell 10\n| Maksimal tillatt målefeil for enfase- og trefasemålere med symmetrisk belastning\n| Strømverdi | PF/cos(φ) | Maksimal tillatt målefeil i %\n| For direkte koblet | For transformator koblet | 1 | Klasse 0,5 | Klasse 1 | Klasse 2\n| 0,1 Ib ≤ I < Imax | 0,1 In ≤ I < Imax | 1 | ± 1 | ± 2 | ± 3,5\n| Ib | In | 0,5 induktive | ± 1,6 | ± 2 | ± 3,5\nTabell 11\n| Maksimal tillatt målefeil for trefasemålere med kun enfasebelastning og symmetrisk spenning\n| Strømverdi | PF/cos(φ) | Maksimal tillatt målefeil i %\n| For direkte koblet | For transformator koblet | 1 | Klasse 0,5 | Klasse 1 | Klasse 2\n| 0,1 Ib ≤ I < Imax | 0,1 In ≤ I < Imax | 1 | ± 2,5 | ± 3 | ± 4,5"
+     ],
+     "endringer": [
+      "Endret ved forskrifter 20 des 2017 nr. 2295 (i kraft 1 jan 2018), 21 des 2022 nr. 2508 (i kraft 1 jan 2023)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 40",
+     "tittel": "Øvrige krav til elektrisitetsmålere under bruk",
+     "ledd": [
+      "Elektrisitetsmålere med samsvarsvurdering skal være installert og sikret i henhold til beskrivelsene i typeprøvingssertifikatet.",
+      "Det kan benyttes målere med høyere krav til nøyaktighet enn bruksområdet tilsier. I slike tilfeller må måleren tilfredsstille målenøyaktigheten for den klassen den er spesifisert for."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 20 des 2017 nr. 2295 (i kraft 1 jan 2018), 21 des 2022 nr. 2508 (i kraft 1 jan 2023)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-6",
+     "nummer": "§ 41",
+     "tittel": "Elektrisitetsmålere som ikke tilfredsstiller kravene",
+     "ledd": [
+      "Elektrisitetsmålere som ikke tilfredsstiller kravene i kapittel 3, skal tas ut av bruk, og kan ikke tas i bruk igjen før de tilfredsstiller kravene."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 12 des 2011 nr. 1267 (i kraft 1 jan 2012), 10 des 2014 nr. 1576 (i kraft 1 jan 2015), 20 des 2017 nr. 2295 (i kraft 1 jan 2018)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-7",
+     "nummer": "§ 41a",
+     "tittel": "Unntak fra meldingsplikt ved plombebrudd",
+     "ledd": [
+      "For elektrisitetsmålere gjøres det unntak fra plikten til å melde om plombebrudd i henhold til forskrift om målenheter og måling § 5-5 andre og fjerde ledd."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 12 des 2024 nr. 3135 (i kraft 1 jan 2025)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4 – Kontrollordninger for elektrisitetsmålere under bruk",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 42",
+     "tittel": "Hvem som er ansvarlig",
+     "ledd": [
+      "Bestemmelsene i kapittel 4 retter seg mot bruker, jf. § 2."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 20 des 2017 nr. 2295 (i kraft 1 jan 2018)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 42a",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Kapittel 4 gjelder ikke for elektrisitetsmålere som måler strømleveranse til elektriske kjøretøy."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 21 des 2022 nr. 2508 (i kraft 1 jan 2023)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 43",
+     "tittel": "Krav til kontroll av elektrisitetsmålere",
+     "ledd": [
+      "Kontroll av elektrisitetsmålere skal gjøres enten ved periodisk totalkontroll som beskrevet i § 48, eller ved statistisk kontroll beskrevet i § 49 og § 50.",
+      "Kontroll kan unnlates for elektrisitetsmålere som i henhold til forskrift om måling, avregning, fakturering av nettjenester og elektrisk energi, nettselskapets nøytralitet mv. § 4-1 andre ledd ikke har installert AMS.",
+      "Justervesenet kan ved enkeltvedtak likevel fastsette at målere nevnt i andre ledd skal kontrolleres eller byttes ut.",
+      "Ved kontroll av elektrisitetsmålere som beskrevet i § 46 og § 47, skal det kontrolleres at nøyaktighetskravene i kapittel 3 er tilfredsstilt. Ved kontroll av nøyaktigheten til elektrisitetsmålere skal minimum ett av testprogrammene i § 46 eller § 47 følges.",
+      "Kontrollen skal utføres av et laboratorium som oppfyller kravene i § 54."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 20 des 2017 nr. 2295 (i kraft 1 jan 2018, tidligere § 42), 21 des 2022 nr. 2508 (i kraft 1 jan 2023)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 44",
+     "tittel": "Kontrollperioder",
+     "ledd": [
+      "Første kontroll av måleren skal foretas innen 3 år etter produksjonsåret. Dersom måleren godkjennes, skal andre kontroll foretas innen 8 år etter dette. Deretter skal kontroll foretas hvert 10. år. Tidspunktet for tredje og senere kontroller kan endres dersom intervallet er tilstrekkelig dokumentert.",
+      "Elektrisitetsmålere som er reparert, skal alltid kontrolleres før de tas i bruk. Deretter skal de kontrolleres etter intervallene som angitt i første ledd."
+     ],
+     "endringer": [
+      "Endret ved forskrift 20 des 2017 nr. 2295 (i kraft 1 jan 2018, tidligere § 45)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-5",
+     "nummer": "§ 45",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Opphevet ved forskrift 20 des 2017 nr. 2295 (i kraft 1 jan 2018)."
+     ],
+     "opphevet": "2018-01-01"
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-6",
+     "nummer": "§ 46",
+     "tittel": "Testprogram i laboratorium",
+     "ledd": [
+      "Testprogrammet skal benyttes ved test i stasjonært laboratorium. Testprogrammet kan også benyttes i felt, og vil da være likestilt med test i laboratorium dersom man har strøm- og spenningskilde slik at testprogrammet under kan følges.",
+      "Måleren skal være koblet opp og belastet med strøm en tid før testen starter, slik at normal driftstemperatur er oppnådd (jf. fabrikantens spesifikasjoner). Målere som testes i felt vil ha normal driftstemperatur.",
+      "Testprogrammet består av testpunktene i tabell 12. For 3-fasemålere skal det i tillegg til testpunktene i tabell 12 utføres en test med belastning på 10 × Itr ved cos(φ) = 1 i direktekoblede målere og på In ved cos(φ) = 1 i transformatorkoblede målere under følgende forhold:\na. En eller to av fasene skal være avbrutt i 3-fase, 4-wiresystem.\nb. En av fasene skal være avbrutt i 3-fase, 3-wiresystem\nMed fasevinkel menes lastens fasevinkel.\nTabell 12\n| Måler med MID samsvarsvurdering | Måler som ikke har MID samsvarsvurdering\n| Imin ved cos(φ) = 1 | Imin ved cos(φ) = 1\n| Itr ved cos(φ) = 1 | 10 % av Ib ved cos(φ) = 1\n| 10 × Itr ved cos(φ) = 1 | Ib ved cos(φ) = 1\n| 10 × Itr ved cos(φ) = 0,5 induktiv | Ib ved cos(φ) = 0,5 induktiv\n| Minimum 0,6 x Imax ved cos(φ)= 1 | Minimum 0,6 x Imax ved cos(φ) = 1"
+     ],
+     "endringer": [
+      "Endret ved forskrifter 20 des 2017 nr. 2295 (i kraft 1 jan 2018, tidligere § 43 (delvis)), 21 des 2022 nr. 2508 (i kraft 1 jan 2023)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-7",
+     "nummer": "§ 47",
+     "tittel": "Testprogram i felt",
+     "ledd": [
+      "Dersom dette alternativet følges, skal testgruppen deles i to like deler, der den ene delen skal kontrolleres i samsvar med kontrollopplegget angitt i § 46. Den andre halvparten skal kontrolleres i felt, der det minimum skal utføres følgende tester av nøyaktighetskrav/strømavhengighet ved anleggets cos(φ):",
+      "Tabell 13\n| Måler med MID samsvarsvurdering | Måler som ikke har MID samsvarsvurdering\n| ca. Itr | ca. 10 % av Ib\n| ca. 10 x Itr | ca. Ib\n| Minimum 0,6 x Imax | Minimum 0,6 x Imax"
+     ],
+     "endringer": [
+      "Endret ved forskrift 20 des 2017 nr. 2295 (i kraft 1 jan 2018, tidligere § 43 (delvis))."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-8",
+     "nummer": "§ 48",
+     "tittel": "Periodisk totalkontroll",
+     "ledd": [
+      "Ved periodisk totalkontroll kontrolleres alle målere. Alle elektrisitetsmålere som ikke oppfyller kravene, skal tas ut av bruk."
+     ],
+     "endringer": [
+      "Endret ved forskrift 20 des 2017 nr. 2295 (i kraft 1 jan 2018, tidligere § 46)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-9",
+     "nummer": "§ 49",
+     "tittel": "Statistisk kontroll – gruppering",
+     "ledd": [
+      "Statistisk kontroll kan gjennomføres på grupper sammensatt av ensartede målere på 18 eller flere enheter, slik at resultatene er representative for hele gruppen. En gruppe skal være så homogen som mulig, men kan inneholde målere fra flere eiere. En gruppe eller et parti ensartede målere defineres ved samme målertype-ID fastsatt av Justervesenet.",
+      "Produksjonsåret for alle målere i en gruppe må være innenfor en periode på inntil tre år. Utgangspunktet for kontrollperiodene, jf. § 44, fastsettes til medianverdien for gruppens produksjonsår."
+     ],
+     "endringer": [
+      "Endret ved forskrift 20 des 2017 nr. 2295 (i kraft 1 jan 2018, tidligere § 47)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-10",
+     "nummer": "§ 50",
+     "tittel": "Statistisk kontroll – metode for utplukk",
+     "ledd": [
+      "Dersom en gruppe består av mellom 18 og 64 målere skal utplukket gjøres i henhold til tabell 14. For slike små grupper foretas bare enkelt utplukk, og gruppen kan bare godkjennes dersom alle målerne i utplukket oppfyller nøyaktighetskravene i kapittel 3.",
+      "Tabell 14\n| Gruppestørrelse | Utplukk\n| 18–25 | 17\n| 26–50 | 22\n| 51–64 | 24",
+      "Utvelgelse av målere for statistisk kontroll av grupper bestående av 65 målere eller mer, skal gjøres som vist i tabell 15. Hele gruppen godkjennes dersom antall underkjente målere er lik eller mindre enn godkjenningstallet for det aktuelle utplukket. Hele gruppen underkjennes dersom antall underkjente målere er lik eller større enn underkjenningstallet for det aktuelle utplukket.",
+      "Tabell 15\n| Nr. | Gruppe størrelse | Utplukk | Utplukk størrelse | Kumulativ utplukk størrelse | Antall underkjente målere[**]\n| | | | | | Godkjenning | Underkjenning | Andre utplukk nødvendig[*]\n| 4.1 | 65 til\n1 200 | første\nandre | 32\n32 | 32\n64 | 0\n1 | 2\n2 | 1\n| 4.2 | 1 201 til\n3 200 | første\nandre | 50\n50 | 50\n100 | 1\n4 | 4\n5 | 2 til 3\n| 4.3 | 3 201 til\n10 000 | første\nandre | 80\n80 | 80\n160 | 2\n6 | 5\n7 | 3 til 4\n| 4.4 | 10 001 til\n35 000 | første\nandre | 125\n125 | 125\n250 | 5\n12 | 9\n13 | 6 til 8\n| 4.5 | 35 001 til\n150 000 | første\nandre | 200\n200 | 200\n400 | 9\n23 | 14\n24 | 10 til 13",
+      "Et utplukk skal hentes fra en gruppe på en slik måte at det for hver enkelt måler i gruppen er like stor sannsynlighet for å bli plukket ut. Det skal benyttes en tilfeldighetstabell eller et annet verktøy som sikrer et tilfeldig utplukk. Det er ikke tillatt å tilføre flere målere til en gruppe etter at gruppen er godkjent.",
+      "Det kan gjøres et utplukk som skal erstatte det opprinnelige utplukket i en forhåndsdefinert rekkefølge. Rekkefølgen på målere som er plukket ut som reserver, skal dokumenteres. Reservene skal ikke inngå i kontrollgruppen, med mindre målerne skal erstattes i henhold til kriteriene i § 51."
+     ],
+     "endringer": [
+      "Endret ved forskrift 20 des 2017 nr. 2295 (i kraft 1 jan 2018, tidligere § 48)."
+     ],
+     "fotnoter": [
+      {
+       "nr": "*",
+       "tekst": "Dersom resultatet av testen av gruppen viser et antall underkjente målere i gruppen som svarer til tallene i denne kolonnen, skal et andre utplukk trekkes tilfeldig fra gruppen."
+      },
+      {
+       "nr": "**",
+       "tekst": "I hver av linjene som representerer andre utplukk, er antallet underkjente målere lik summen av de målere som ble underkjent i første utplukk og de som ble underkjent i andre utplukk."
+      }
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-11",
+     "nummer": "§ 51",
+     "tittel": "Kriterier for når en måler kan erstattes i det statistiske utplukket",
+     "ledd": [
+      "En måler kan erstattes i det statistiske utplukket dersom det kan dokumenteres at måleren har en av følgende feil:\na. vann i måler\nb. manipulert måler, herunder plombebrudd og hærverk\nc. brent måler\nd. feilaktig gruppetilhørighet\ne. måler har svært vanskelig adgang",
+      "For at det statistiske grunnlaget skal opprettholdes, må måleren som er tatt ut erstattes av en ny måler blant reservene, jf. § 50 fjerde ledd."
+     ],
+     "endringer": [
+      "Endret ved forskrift 20 des 2017 nr. 2295 (i kraft 1 jan 2018, tidligere § 49)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-12",
+     "nummer": "§ 52",
+     "tittel": "Utskifting av elektrisitetsmålere som ikke oppfyller kravene ved statistisk kontroll",
+     "ledd": [
+      "Dersom elektrisitetsmålere i den statistiske kontrollen ikke oppfyller kravene, skal samtlige målere i gruppen byttes ut innen ett år. Enkeltmålere som har blitt testet og som oppfyller kravene i kapittel 3, trenger likevel ikke tas ut av bruk. Derimot skal den enkelte måler som ikke oppfyller kravene tas ut av bruk, selv om den statistiske kontrollen medfører at gruppen som sådan blir godkjent."
+     ],
+     "endringer": [
+      "Endret ved forskrift 20 des 2017 nr. 2295 (i kraft 1 jan 2018, tidligere § 50)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-13",
+     "nummer": "§ 53",
+     "tittel": "Omgjøring av gruppering etter at kontroll er foretatt",
+     "ledd": [
+      "Justervesenet kan ved enkeltvedtak bestemme at gruppering av målere kan omgjøres. I disse tilfellene skal det gjøres nytt utplukk i henhold til § 49 og § 50. Kontrollen av disse nye gruppene skal være gjennomført innen ett år etter at enkeltvedtaket er fattet."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 20 des 2017 nr. 2295 (i kraft 1 jan 2018)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-14",
+     "nummer": "§ 54",
+     "tittel": "Krav til laboratorier",
+     "ledd": [
+      "Laboratorier som skal gjennomføre kontroll av elektrisitetsmålere etter denne forskriften skal være akkreditert i henhold til NS-EN ISO/IEC 17025 for å utføre testene som er beskrevet i § 46 og § 47. Frem til 1. januar 2019 gjelder ikke krav om akkreditering for laboratorier som har blitt godkjent av Justervesenet til å gjennomføre slik kontroll."
+     ],
+     "endringer": [
+      "Endret ved forskrift 20 des 2017 nr. 2295 (i kraft 1 jan 2018, tidligere § 51)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-15",
+     "nummer": "§ 55",
+     "tittel": "Krav til internt kontrollsystem",
+     "ledd": [
+      "Bruker av elektrisitetsmålere skal ha et internt kontrollsystem som oppfyller kravene i forskrift 20. desember 2016 nr. 1753 om krav til internkontrollsystem for måleredskaper og målinger."
+     ],
+     "endringer": [
+      "Endret ved forskrift 20 des 2017 nr. 2295 (i kraft 1 jan 2018, tidligere § 52)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-16",
+     "nummer": "§ 56",
+     "tittel": "Rapportering til Justervesenet",
+     "ledd": [
+      "På Justervesenets forespørsel skal brukere og andre som er involvert i å gjennomføre kontrollen i henhold til kapittel 4, rapportere om dette til Justervesenet. Det skal rapporteres om kontrollen som er gjennomført, resultatene av kontrollen og de beslutninger som er tatt som følge av kontrollen. Opplysningene skal gis i det nødvendige omfanget som blir etterspurt for å dokumentere at forskriften er etterlevd, og i et standard digitalt format."
+     ],
+     "endringer": [
+      "Endret ved forskrift 20 des 2017 nr. 2295 (i kraft 1 jan 2018, tidligere § 53)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5 – Avsluttende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 57",
+     "tittel": "Overtredelsesgebyr",
+     "ledd": [
+      "Overtredelse av bestemmelsene i denne forskriften kan medføre pålegg av overtredelsesgebyr utmålt etter bestemmelsene i forskrift om målenheter og måling kapittel 7."
+     ],
+     "endringer": [
+      "Endret ved forskrift 20 des 2017 nr. 2295 (i kraft 1 jan 2018, tidligere § 54)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 58",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Denne forskriften trer i kraft 1. januar 2008. Fra samme tid oppheves forskrift 22. oktober 2004 nr. 1398 om krav til elektrisitetsmålere under bruk."
+     ],
+     "endringer": [
+      "Endret ved forskrift 20 des 2017 nr. 2295 (i kraft 1 jan 2018, tidligere § 55)."
+     ]
+    }
+   ]
+  }
+ ]
+}

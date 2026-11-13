@@ -1,0 +1,51 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-2025-11-11-2242",
+ "dokumentid": "DEL/forskrift/2025-11-11-2242",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Skattelovavdelingen"
+ ],
+ "ikraft": "2025-11-11",
+ "hjemmel": [
+  {
+   "ref": "lov/2005-06-17-67",
+   "tekst": "lov/2005-06-17-67"
+  }
+ ],
+ "kunngjort": "2025-11-11 14:30",
+ "tittel": "Delegering av myndighet til Skattedirektoratet etter skattebetalingsloven",
+ "annet": "Hjemmel: Fastsatt av Finansdepartementet 11. november 2025 med hjemmel i lov 17. juni 2005 nr. 67 om betaling og innkreving av skatte- og avgiftskrav (skattebetalingsloven).",
+ "refid": "forskrift/2025-11-11-2242",
+ "eli": "/eli/forskrift/2025/11/11/2242",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/2025-11-11-2242",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Departementets myndighet etter lov 17. juni 2005 nr. 67 om betaling og innkreving av skatte- og avgiftskrav (skattebetalingsloven) delegeres til Skattedirektoratet for så vidt gjelder oppgaver innenfor direktoratets ansvarsområde."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Vedtaket under I trer i kraft straks."
+    }
+   ]
+  }
+ ]
+}

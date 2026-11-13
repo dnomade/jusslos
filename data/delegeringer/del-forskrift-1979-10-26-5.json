@@ -1,0 +1,77 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-1979-10-26-5",
+ "dokumentid": "DEL/forskrift/1979-10-26-5",
+ "departement": [
+  "Arbeids- og inkluderingsdepartementet"
+ ],
+ "etat": [
+  "Dir. for Arbeidstilsynet"
+ ],
+ "kunngjort_i": "I 1979 s 641",
+ "ikraft": "1979-11-01",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1977-02-04-4/§30",
+   "tekst": "lov/1977-02-04-4/§30"
+  }
+ ],
+ "korttittel": "Delegering etter arbeidsmiljøloven",
+ "tittel": "Ikrafttredelse av lov av 10 juni 1977 nr. 86 om planlegging, organisering og gjennomføring av helsetjenester ved bedrifter. Delegasjon av myndighet.",
+ "annet": "Fastsatt ved kongelig resolusjon av 26. oktober 1979. Fremmet av Sosialdepartementet. (Lov 10 juni 1977 nr. 86 om planlegging, organisering og gjennomføring av helsetjenester ved bedrifter er opphevet.)",
+ "refid": "forskrift/1979-10-26-5",
+ "eli": "/eli/forskrift/1979/10/26/05",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/1979-10-26-5",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I.",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Loven skal tre i kraft 1 november 1979."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II.",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Loven skal ikke gjelde på Svalbard og den norske kontinentalsokkelen."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kapIII",
+   "overskrift": "III.",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Kongens myndighet etter lovens § 1 tredje ledd, § 7 første og tredje ledd og § 10 delegeres til Sosialdepartementet."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kapIV",
+   "overskrift": "IV.",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Kongens myndighet etter lov av 4 februar 1977 nr. 4 om arbeidervern og arbeidsmiljø m.v. § 30 nr. 4 delegeres til Direktoratet for arbeidstilsynet."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,327 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2003-08-21-1068",
+ "dokumentid": "SF/forskrift/2003-08-21-1068",
+ "departement": [
+  "Samferdselsdepartementet"
+ ],
+ "etat": [
+  "Luftfartstilsynet"
+ ],
+ "kunngjort_i": "I 2003 hefte 12",
+ "ikraft": "2003-10-01",
+ "siste_endring_ikraft": "2020-03-02",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2020-03-02-234",
+   "tekst": "forskrift/2020-03-02-234"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1993-06-11-101/§7-1",
+   "tekst": "lov/1993-06-11-101/§7-1"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§7-4",
+   "tekst": "lov/1993-06-11-101/§7-4"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§9-1",
+   "tekst": "lov/1993-06-11-101/§9-1"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§15-4",
+   "tekst": "lov/1993-06-11-101/§15-4"
+  },
+  {
+   "ref": "forskrift/1999-12-10-1273",
+   "tekst": "forskrift/1999-12-10-1273"
+  }
+ ],
+ "kunngjort": "2003-08-22",
+ "korttittel": "Forskrift om system for sikkerhetsstyring innen bakketjenesten",
+ "tittel": "Forskrift om bruk av system for sikkerhetsstyring innen bakketjenesten",
+ "annet": "Hjemmel: Fastsatt av Luftfartstilsynet 21. august 2003 med hjemmel i lov av 11. juni 1993 nr. 101 om luftfart (luftfartsloven) § 7-1 tredje ledd, § 7-4 annet ledd, § 9-1, jf. § 15-4, jf. delegeringsvedtak av 10. desember 1999 nr. 1273.\nEndret ved forskrifter 26 sep 2005 nr. 1074, 1 feb 2007 nr. 115, 7 juni 2011 nr. 595, 25 aug 2015 nr. 1000, 2 mars 2020 nr. 234 (bl.a. tittel og vedlegg).",
+ "refid": "forskrift/2003-08-21-1068",
+ "eli": "/eli/forskrift/2003/08/21/1068",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2003-08-21-1068",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Formål",
+     "ledd": [
+      "Formålet med denne forskriften er å stille krav til innføring og bruk av et system for sikkerhetsstyring innen bakketjenesten. Systemet skal sørge for at tjenesteleverandør planlegger, organiserer og utfører virksomheten slik at flysikkerheten kontinuerlig forbedres."
+     ],
+     "endringer": [
+      "Endret ved forskrift 2 mars 2020 nr. 234."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "(1) Forskriften gjelder bakketjenesten på landingsplasser til allmenn bruk. Forskriften gjelder ikke for bakketjenesten ved flyplasser som er sertifisert i medhold av forskrift 25. august 2015 nr. 1000 om sertifisering av flyplasser mv.",
+      "(2) Sikkerhetsstyringssystemet skal omfatte alle arbeidsprosesser innenfor bakketjenesten, samt tilhørende tjenester som styres av eller kontrolleres av denne, inkludert tjenester ytet av eller systemer levert av underleverandører."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 1 feb 2007 nr. 115, 7 juni 2011 nr. 595 (i kraft 1 juli 2011), 25 aug 2015 nr. 1000, 2 mars 2020 nr. 234."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "I denne forskriften menes med:\na. Bakketjeneste (Aerodrome Services): De aktiviteter som er nødvendig for flyplassens drift og vedlikehold og som omfatter plasstjeneste, elektrotjeneste, brann- og redningstjeneste og forebyggelse av anslag mot luftfarten.\nb. Risiko: Uttrykk for den påvirkning som uønskede hendelser representerer på menneske, miljø eller materielle verdier. Risikoen uttrykkes ved sannsynligheten for/hyppigheten av og konsekvensene av de uønskede hendelsene.\nc. Risikoevaluering: Sammenligning av resultater fra en risikoanalyse med akseptkriterier for risiko og andre beslutningskriterier.\nd. System for sikkerhetsstyring: En systematisk tilnærming til sikkerhetsstyring som omfatter organisering av virksomheten, ansvarslinjer, overordnede strategier samt prosedyrer. Styringssystemet dokumenterer hvordan virksomheten skal oppnå og opprettholde et akseptabelt sikkerhetsnivå.\ne. Tjenesteleverandør: Foretak som er ansvarlig for etablering og drift av bakketjenester."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 1 feb 2007 nr. 115, 2 mars 2020 nr. 234."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 4",
+     "tittel": "Generelt",
+     "ledd": [
+      "(1) Flysikkerhet skal gis høyeste prioritet i organisasjonen.",
+      "(2) Tjenesteleverandør som utøver bakketjeneste skal ha et system for sikkerhetsstyring som bør være en del av kvalitetssystemet, jf. forskrift 5. januar 2001 nr. 11 om kvalitetssystem i ervervsmessige luftfartsvirksomheter. Dersom systemet er en del av kvalitetssystemet, skal det klart fremgå hvilke deler som omhandler styring og oppfølging av flysikkerheten.",
+      "(3) Systemet, samt senere endringer, skal aksepteres av Luftfartstilsynet."
+     ],
+     "endringer": [
+      "Endret ved forskrift 2 mars 2020 nr. 234."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Krav til sikkerhetsoppnåelse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 5",
+     "tittel": "Krav til systemets innhold",
+     "ledd": [
+      "(1) Tjenesteleverandøren skal utarbeide en sikkerhetsstrategi som viser virksomhetens mål. Strategien skal gi en beskrivelse av den aktivitet som utføres på en slik måte at det er mulig å ta stilling til graden av måloppnåelse.",
+      "(2) Systemet for sikkerhetsstyring skal som et minimum inneholde dokumentasjon som viser:\na. de etablerte ledelses- og ansvarsforhold som er av betydning for flysikkerheten,\nb. de etablerte planer for oppnåelse av flysikkerhetsmål som viser hvordan de fastsatte målene skal oppnås og videreutvikles. Planene skal vise hvordan man sikrer samsvar mellom kortsiktige og langsiktige mål,\nc. myndighetskrav og de etablerte interne krav til flysikkerhet, samt rutiner for å ivareta disse. Det skal være utarbeidet rutiner for å sikre at underleverandører av tjenester og produkter som har betydning for flysikkerheten tilfredsstiller tjenesteleverandørens egne krav,\nd. planlagte og gjennomførte analyser som er nødvendige for å identifisere forhold som kan føre til svekkelse av flysikkerheten, samt oppfølging av resultatene fra analysene,\ne. de etablerte kriterier for akseptabel risiko for uønskede hendelser i virksomheten, samt vurderingene som ligger til grunn for utformingen av kriteriene,\nf. de etablerte krav til kompetanse for personell som utøver arbeidsoppgaver av betydning for flysikkerheten. Det skal sikres at alle som har arbeidsoppgaver av betydning for flysikkerheten har individuelt ansvar for sikkerheten knyttet til egne handlinger i arbeidsutøvelsen, herunder at ledere har ansvaret for sitt ansvarsområdes bidrag til flysikkerheten.\ng. de etablerte planer for å opprettholde flysikkerheten ved feil på systemer og operativ drift,\nh. de etablerte krav til intern rapportering og granskning av uønskede hendelser, jf. § 9.\ni. at det er etablert rutiner for identifisering og håndtering av brudd på myndighetskrav og på egne krav."
+     ],
+     "endringer": [
+      "Endret ved forskrift 1 feb 2007 nr. 115."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 6",
+     "tittel": "Krav til tjenesteleverandørens organisasjon",
+     "ledd": [
+      "(1) Tjenesteleverandør skal være organisert slik at ansvar for forhold av betydning for flysikkerheten klart fremgår.",
+      "(2) Tjenesteleverandøren skal ha en person som utøver en sikkerhetsstyringsfunksjon. Vedkommende skal ha det organisatoriske ansvar for utvikling og opprettholdelse av systemet.",
+      "(3) Den personen som utøver sikkerhetsstyringsfunksjonen bør være den samme som innehar stilling som kvalitetssjef i organisasjonen. Vedkommende skal være akseptert av Luftfartstilsynet. Denne bestemmelsen gjelder alle deler av flysikringstjenesten.",
+      "(4) Sikkerhetsstyringsfunksjonen skal være uavhengig av linjeorganisasjonen og rapportere direkte til det høyeste nivå i organisasjonen. Dersom organisasjonen er så liten at kombinasjon av flere typer ansvar kan være til hinder for tilstrekkelig uavhengighet, skal det etableres uavhengige tilleggsordninger."
+     ],
+     "endringer": [
+      "Endret ved forskrift 1 feb 2007 nr. 115."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 7",
+     "tittel": "Kompetanse",
+     "ledd": [
+      "(1) Arbeidsoppgaver som har betydning for flysikkerheten skal bare utføres av personell med tilstrekkelig kompetanse.",
+      "(2) Tjenesteleverandør skal sørge for nødvendig opplæring, samt dokumentere de ansattes kompetanse i forhold til de arbeidsoppgaver de er satt til å utføre. Personell skal være sertifisert i den grad stillingen krever det.",
+      "(3) Tjenesteleverandøren skal sørge for at de ansatte er oppmerksomme på de potensielle farer knyttet til sine arbeidsoppgaver.",
+      "(4) Krav til vedkommende som skal inneha sikkerhetsstyringsfunksjonen:\na. dokumenterbar kunnskap om sikkerhetsstyring og system for sikkerhetsstyring,\nb. god kjennskap til aktuelle bestemmelser for sivil luftfart (BSL),\nc. god kjennskap til tjenesteleverandørens sikkerhetsstyrings- og håndboksystem,\nd. kjennskap til tjenesteleverandørens organisasjon,\ne. dokumenterbar kunnskap om kvalitetsrevisjon."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 1 feb 2007 nr. 115, 2 mars 2020 nr. 234."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 8",
+     "tittel": "Krav til kvantitativt sikkerhetsnivå",
+     "ledd": [
+      "(1) Tjenesteleverandøren skal etablere kriterier for akseptabel risiko for alle uønskede hendelser i virksomheten. Kriterier skal benyttes for oppfølging av analyser som nevnt i § 10.",
+      "(2) Tjenesteleverandøren skal fastsette akseptable sikkerhetsnivåer for sentrale elementer av flysikkerhetskritiske systemer. Sikkerhetsnivåene skal utformes på en slik måte at det er mulig å vurdere om virksomheten drives på en forsvarlig måte."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 9",
+     "tittel": "Rutiner for intern rapportering og behandling av uønskede hendelser",
+     "ledd": [
+      "(1) Tjenesteleverandør skal etablere og vedlikeholde et system for intern systematisk rapportering, registrering og oppfølging av uønskede hendelser, samt forhold og mangler som kan innebære risiko for uønskede hendelser og anslag mot luftfartens sikkerhet.",
+      "(2) Uønskede hendelser skal straks undersøkes slik at eventuelle korrigerende eller forebyggende tiltak kan iverksettes.",
+      "(3) Det skal fremgå av systemet hvordan de korrigerende tiltakene gjennomføres."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 1 feb 2007 nr. 115, 2 mars 2020 nr. 234."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Krav til sikkerhetsbekreftelse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 10",
+     "tittel": "Risikoevaluering og risikoreduksjon",
+     "ledd": [
+      "(1) Tjenesteleverandør skal planlegge og gjennomføre analyser som er nødvendige for å identifisere forhold som kan føre til uønskede hendelser. Slike analyser skal gjennomføres på en systematisk måte på alle nivåer i tjenesteleverandørens organisasjon, og gjennom alle virksomhetsfaser.",
+      "(2) Slike analyser skal også planlegges og gjennomføres ved anskaffelser, utbygginger og modifikasjoner, samt ved endring av etablerte krav, endring av organisasjon eller arbeidsform, dersom endringen kan ha betydning for flysikkerheten.",
+      "(3) Resultater fra analysene skal inngå i underlaget for alle beslutninger som påvirker forhold av betydning for flysikkerheten, og skal brukes for å redusere risiko for uønskede hendelser."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 11",
+     "tittel": "Kvalitetsrevisjon av sikkerhetsarbeidet",
+     "ledd": [
+      "(1) Tjenesteleverandøren skal rutinemessig kontrollere at sikkerhetsarbeidet i organisasjonen utføres i samsvar med krav i sikkerhetsstyringssystemet.",
+      "(2) I den grad det anses nødvendig skal det fremmes anbefalinger om forbedring av sikkerhetsarbeidet.",
+      "(3) Kontrollene skal dokumenteres på en slik måte at graden av sikkerhet i henhold til etablerte mål i de enkelte deler av virksomheten fremgår."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 12",
+     "tittel": "Overvåking av sikkerheten",
+     "ledd": [
+      "(1) Tjenesteleverandør skal etablere måleparametere og indikatorer for å kontinuerlig overvåke forhold som er av betydning for flysikkerheten.",
+      "(2) Måleparametere og indikatorer skal utformes på en slik måte at:\na. man kan overvåke om de etablerte krav til akseptable sikkerhetsnivåer opprettholdes,\nb. graden av måloppnåelse klart fremkommer,\nc. de kan danne grunnlag for korrigerende og forebyggende tiltak."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 13",
+     "tittel": "Dokumentasjon",
+     "ledd": [
+      "(1) Arbeidet med flysikkerheten skal dokumenteres systematisk, og på en slik måte at det viser en klar forbindelseslinje til organisasjonens sikkerhetsstrategi.",
+      "(2) Alle resultater og konklusjoner av analyser som gjennomføres for nye systemer eller ved endringer i eksisterende systemer, og som har betydning for flysikkerheten, skal dokumenteres. Dokumentasjonen skal oppbevares gjennom hele systemets levetid. Luftfartstilsynet kan til enhver tid kreve å få utlevert all dokumentasjon."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 26 sep 2005 nr. 1074 (i kraft 1 nov 2005), 1 feb 2007 nr. 115, 2 mars 2020 nr. 234."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Krav til sikkerhetsinformasjon og forbedring",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 14",
+     "tittel": "Erfaringsutveksling",
+     "ledd": [
+      "Tjenesteleverandøren skal utarbeide rutiner for utveksling av erfaringer som oppnås i forbindelse med undersøkelser av uønskede hendelser og andre sikkerhetsrelevante aktiviteter, både til ledelsen og på teknisk og operativt nivå. Dersom tjenesteleverandøren har flere enheter, skal denne informasjonen også utveksles mellom enhetene."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 15",
+     "tittel": "Forbedring",
+     "ledd": [
+      "(1) Den øverste ledelsen skal med planlagte mellomrom gjennomgå organisasjonens system for sikkerhetsstyring for å sørge for at det fortsatt er hensiktsmessig, tilstrekkelig og virker effektivt. Gjennomgangene skal dokumenteres.",
+      "(2) Tjenesteleverandøren har ansvar for at alle ansatte oppfordres til å komme med forslag til løsninger på identifiserte sikkerhetsrelaterte problemer.",
+      "(3) Tjenesteleverandøren er ansvarlig for at nødvendige forbedringstiltak iverksettes og følges opp.",
+      "(4) Effekten av tiltakene skal evalueres og dokumenteres."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Avsluttende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 16",
+     "tittel": "Søknad",
+     "ledd": [
+      "(1) Søknad om akseptering av system for sikkerhetsstyring, samt senere endringer i systemet skal sendes Luftfartstilsynet.",
+      "(2) Søknad om aksept av person som utøver sikkerhetsstyringsfunksjonen skal sendes Luftfartstilsynet."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 1 feb 2007 nr. 115, 2 mars 2020 nr. 234."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 17",
+     "tittel": "Tilbakekall",
+     "ledd": [
+      "Dersom tjenesteleverandør ikke overholder bestemmelsene i denne forskrift, kan Luftfartstilsynet tilbakekalle aksepteringen av:\na. systemet for sikkerhetsstyring, og/eller\nb. personen som innehar sikkerhetsstyringsfunksjonen."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 1 feb 2007 nr. 115, 2 mars 2020 nr. 234."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 18",
+     "tittel": "Dispensasjon",
+     "ledd": [
+      "Luftfartstilsynet kan, når særlige grunner tilsier det, dispensere fra bestemmelsene i denne forskrift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-4",
+     "nummer": "§ 19",
+     "tittel": "(Opphevet ved forskrift 1 feb 2007 nr. 115.)",
+     "ledd": []
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-5",
+     "nummer": "§ 20",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Denne forskrift gjelder fra 1. oktober 2003."
+     ]
+    }
+   ]
+  }
+ ]
+}

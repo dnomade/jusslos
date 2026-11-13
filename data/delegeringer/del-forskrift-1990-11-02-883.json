@@ -1,0 +1,53 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-1990-11-02-883",
+ "dokumentid": "DEL/forskrift/1990-11-02-883",
+ "departement": [
+  "Justis- og beredskapsdepartementet"
+ ],
+ "etat": [
+  "Sivilavd."
+ ],
+ "kunngjort_i": "I 1990 891",
+ "ikraft": "1991-01-01",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1930-02-21/§2",
+   "tekst": "lov/1930-02-21/§2"
+  }
+ ],
+ "korttittel": "Ikrafttr. av endringslov til skifteloven",
+ "tittel": "Ikrafttredelse av lov av 22. juni 1990 nr. 40 om endring i lov av 21. februar 1930 om skifte og diverse andre lover. Delegering av myndighet.",
+ "annet": "Fastsatt ved Kronprinsreg.res. av 2. november 1990. Fremmet av Justis- og politidepartementet.",
+ "refid": "forskrift/1990-11-02-883",
+ "eli": "/eli/forskrift/1990/11/02/883",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/1990-11-02-883",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Lov av 22. juni 1990 nr. 40 om endringer i lov av 21. februar 1930 om skifte og diverse andre lover trer i kraft fra 1. januar 1991."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Kongens myndighet etter skiftelovens § 2 annet ledd delegeres til Justis- og politidepartementet."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,766 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2019-11-12-2240",
+ "dokumentid": "SF/forskrift/2019-11-12-2240",
+ "departement": [
+  "Kunnskapsdepartementet"
+ ],
+ "etat": [
+  "Samisk høgskole"
+ ],
+ "ikraft": "2019-11-12",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2005-04-01-15/§4-13",
+   "tekst": "lov/2005-04-01-15/§4-13"
+  },
+  {
+   "ref": "lov/2024-03-08-9/§17-3",
+   "tekst": "lov/2024-03-08-9/§17-3"
+  }
+ ],
+ "kunngjort": "2020-02-19 14:50",
+ "korttittel": "Forskrift om graden philosophiae doctor ved Samisk høgskole",
+ "tittel": "Forskrift om graden philosophiae doctor ved Samisk høgskole",
+ "annet": "Hjemmel: Fastsatt av Studie- og forskningsstyret ved Samisk høgskole 12. november 2019 med hjemmel i lov 1. april 2005 nr. 15 om universiteter og høyskoler (universitets- og høyskoleloven) § 4-13.\nTilføyd hjemmel: Lov 8. mars 2024 nr. 9 om universiteter og høyskoler (universitets- og høyskoleloven) § 17-3.",
+ "refid": "forskrift/2019-11-12-2240",
+ "eli": "/eli/forskrift/2019/11/12/2240",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2019-11-12-2240",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": null,
+   "overskrift": "Del en: Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "seksjon",
+     "id": "kapittel-1-kapittel-1",
+     "navn": "kap1",
+     "overskrift": "Kapittel 1. Forskriftens virkeområde",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-1-paragraf-1",
+       "nummer": "§ 1-1",
+       "tittel": "Forskriftens virkeområde",
+       "ledd": [
+        "Denne forskriften gjelder doktorgradsutdanningen som fører frem til filosofisk doktorgrad ved Samisk høgskole (SH). Forskriften gir regler om opptak, gjennomføring og avslutning av doktorgraden."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-1-kapittel-2",
+     "navn": "kap2",
+     "overskrift": "Kapittel 2. Doktorgradsutdanningens omfang, innhold og målsetting",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-2-paragraf-1",
+       "nummer": "§ 2-1",
+       "tittel": "Doktorgradsutdanningens omfang, innhold og målsetting",
+       "ledd": [
+        "Doktorgradsutdanningen skal kvalifisere for forskningsvirksomhet av høy standard og for annet arbeid i samfunnet hvor det stilles store krav til vitenskapelig kompetanse. Doktorgradsutdanning ved Samisk høgskole tar spesielt hensyn til det samiske samfunnet og samiske behov samt utfordringer man har som minoritet og urfolk.",
+        "Doktorgradsutdanningen er normert til tre års fulltidsstudier. Doktorgradsutdanningens viktigste komponent er et selvstendig forskningsarbeid som gjennomføres under aktiv veiledning.",
+        "Doktorgraden tildeles på grunnlag av\n- godkjent vitenskapelig avhandling\n- godkjent gjennomføring av kursdelen\n- godkjent prøveforelesning over oppgitt emne\n- godkjent offentlig forsvar av avhandlingen (disputas)."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-1-kapittel-3",
+     "navn": "kap3",
+     "overskrift": "Kapittel 3. Ansvar",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-3-paragraf-1",
+       "nummer": "§ 3-1",
+       "tittel": "Ansvar",
+       "ledd": [
+        "Høgskolestyret har øverste ansvar for doktorgradsutdanningen, og fastsetter også generelle retningslinjer for organisering. Forsknings- og studiestyret (forkortet til DOS – Dutkan- ja oahppostivra) kan fastsette nærmere retningslinjer for det enkelte studiet med bakgrunn i forslag fra fagavdelingen.",
+        "DOS utnevner programstyre til hvert godkjente doktorgradsprogram med minst tre medlemmer, etter forslag fra fagavdelingen. Medlemmer i programstyret skal være forskere med gjennomført doktorgrad og doktorgradsstudenter.",
+        "Programstyret har ansvaret for opptak og løpende aktiviteter som er knyttet til gjennomføringen av doktorgradsutdanningen med den fullmakten som gis som følge av denne forskriften, av institusjonens interne retningslinjer eller ordinær arbeidsfullmakt."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-1-kapittel-4",
+     "navn": "kap4",
+     "overskrift": "Kapittel 4. Kvalitetssikring",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-4-paragraf-1",
+       "nummer": "§ 4-1",
+       "tittel": "Kvalitetssikring",
+       "ledd": [
+        "Samisk høgskole har et kvalitetssikringssystem, som også omfatter doktorgradsutdanningen."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": null,
+   "overskrift": "Del to: Opptak",
+   "innhold": [
+    {
+     "type": "seksjon",
+     "id": "kapittel-2-kapittel-1",
+     "navn": "kap5",
+     "overskrift": "Kapittel 5. Opptak",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-1",
+       "nummer": "§ 5-1",
+       "tittel": "Vilkår for opptak",
+       "ledd": [
+        "For opptak til doktorgradsutdanningen må søkeren ha en masterutdanning (120 studiepoeng) eller annen tilsvarende utdanning som institusjonen har godkjent som opptaksgrunnlag. Snittkarakter i masterutdanningen bør vanligvis være minimum B.",
+        "Søknaden skal inneholde følgende:\n- Dokumentasjon for den utdanning som skal ligge til grunn for opptaket\n- Prosjektbeskrivelse for doktorgraden\n- Plan for fremdrift\n- Forslag på veileder(e)\n- Opplysninger om eventuelle rettslige eller etiske problemstillinger som prosjektet kan reise, og hvordan disse kan avklares.",
+        "Kandidat og hovedveileder bør raskest mulig og senest innen tre måneder etter opptak sammen gå igjennom prosjektbeskrivelsen og vurdere eventuelle behov for justeringer.",
+        "SH kan fastsette at doktorgradsstudenter skal oppholde seg ved Samisk høgskole en viss prosentandel av arbeidstiden.",
+        "Det skal normalt søkes om opptak til doktorgradsutdanning innen tre måneder etter oppstart av det forskningsprosjektet som skal lede frem til doktorgraden. Dersom det gjenstår mindre enn ett års fulltidsarbeid med forskningsprosjektet ved søknadstidspunkt, kan søkeren avvises, jf. § 5-3."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-2",
+       "nummer": "§ 5-2",
+       "tittel": "Infrastruktur",
+       "ledd": [
+        "Doktorgradsstudenten skal ha til disposisjon nødvendig infrastruktur for gjennomføring av forskningsprosjektet. Avgjørelsen av hva som anses som nødvendig infrastruktur for gjennomføring, tas av leder for fagavdelingen. For doktorgradsstudenter med ekstern finansiering og/eller arbeidsplass inngås det en egen avtale mellom Samisk høgskole og ekstern part i forbindelse med det enkelte forskningsprosjekt. Slik avtale inngås ved opptak, eller umiddelbart etterpå."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-3",
+       "nummer": "§ 5-3",
+       "tittel": "Opptaksvedtak",
+       "ledd": [
+        "Vedtak om opptak baseres på en samlet vurdering av søknaden. DOS får fullmakt til å fastsette kriterier for rangering mellom kvalifiserte søkere om antallet søkere overstiger opptakskapasiteten.",
+        "I vedtaket skal minst én veileder oppnevnes, og det skal avklares hvordan andre behov som kommer fram i søknaden, skal imøtekommes. I avtalen skal det fastsettes startdato, som skal være lik startdato for finansiering, samt avtalens varighet. Eventuell forlengelse av avtaleperioden må relateres til rettighet som arbeidstaker eller avklares spesielt i forhold til kandidatens finansieringsgrunnlag.",
+        "Opptak kan nektes om\n- avtaler om opphavsrett er til hinder for offentliggjøring og offentlig forsvar av avhandlingen\n- de immaterialrettslige avtaler som er inngått, er så urimelige at institusjonen ikke bør medvirke i prosjektet\n- søkeren ikke vil kunne oppfylle kravet om at minimum ett år av prosjektet skal gjennomføres etter at vedkommende er tatt opp til doktorgradsutdanningen, jf. § 5-1."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-4",
+       "nummer": "§ 5-4",
+       "tittel": "Avtaleperiode",
+       "ledd": [
+        "Doktorgradsutdanningen er normert til tre års fulltidsstudier. SH kan treffe bestemmelser om forlengelse av avtaleperioden på grunnlag av lovfestede permisjoner og pliktarbeid.",
+        "Ved lovhjemlede avbrudd forlenges avtaleperioden tilsvarende. SH kan forlenge avtaleperioden etter begrunnet søknad. Ved innvilget forlengelse kan SH sette ytterligere betingelser.",
+        "Etter opptaksperiodens utløp opphører partenes rettigheter og plikter i henhold til doktorgradsavtalen, slik at doktorgradskandidaten kan miste sin rett til veiledning, kursdeltakelse og tilgang til institusjonens infrastruktur. Kandidaten kan likevel søke om å få levere inn avhandlingen til bedømmelse for doktorgraden."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-5",
+       "nummer": "§ 5-5",
+       "tittel": "Avslutning av avtaleperioden",
+       "ledd": [
+        "Frivillig avslutning",
+        "Kandidaten og fagavdelingen kan avtale at doktorgradsutdanningen avsluttes før avtalt tid. Ved frivillig avslutning av doktorgradsutdanningen skal det inngås en egen avtale om hvordan spørsmål knyttet til for eksempel arbeidssforhold, finansiering, rettigheter og resultater skal løses.",
+        "Om kandidaten ønsker å skifte prosjekt eller overgang til annet program, skal kandidaten søke nytt opptak på grunnlag av det nye prosjektet.",
+        "Tvungen avslutning",
+        "DOS kan vedta avslutning av doktorgradsutdanningen før avtalt tid. Tvungen avslutning kan vedtas hvis minst ett av følgende forhold foreligger:\n- Vesentlig forsinkelse i gjennomføringen av opplæringsdelen, grunnet forhold som kandidaten selv rår over.\n- Gjentatte eller vesentlige brudd fra kandidatens side på informasjons-, oppfølgings- eller rapporteringsplikt, jf. § 10-1.\n- Forsinkelse i fremdriften av forskningsprosjektet som er av en slik art at det skaper begrunnet tvil om kandidaten vil kunne fullføre prosjektet innenfor avtalt tid. For å danne grunnlag for tvungen avslutning må forsinkelsen skyldes forhold som kandidaten selv rår over.\n- Brudd på de forskningsetiske retningslinjer som gjelder for fagområdet. Dette gjelder også fusk, som rammes av reglene i universitets- og høyskoleloven, § 4-7.\n- Kandidatens opptreden bryter med den tillit som må foreligge mellom universitet og kandidat under gjennomføringen, herunder straffbare forhold knyttet til gjennomføringen av doktorgradsutdanningen.",
+        "Vedtak om tvungen avslutning fattes av DOS.",
+        "Doktorgradskandidater kan sies opp fra sin stilling når det er saklig grunn i virksomhetens eller tjenestemannens forhold, jf. lov om statens ansatte mv. (statsansatteloven) § 19 og § 20, eller avskjediges i henhold til § 26."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-2-kapittel-2",
+     "navn": "kap6",
+     "overskrift": "Kapittel 6. Doktorgradsavtalen",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-2-paragraf-1",
+       "nummer": "§ 6-1",
+       "tittel": "Doktorgradsavtalen",
+       "ledd": [
+        "Opptak til doktorgradsprogrammet formaliseres ved en skriftlig avtale mellom doktorgradskandidat, veileder(e) og Samisk høgskole. Avtalen regulerer partenes rettigheter og plikter i avtaleperioden. Den skal sikre at kandidaten deltar regelmessig i et aktivt forskermiljø og legge til rette for at forskerutdanningen skal kunne gjennomføres til avtalt tid. Høgskolen har et særskilt avtaleskjema for doktorgradsutdanningen.",
+        "For doktorgradskandidater med full eller delvis finansiering fra eller tilsetting hos en ekstern part, skal det i tråd med fastsatte retningslinjer inngås egen avtale mellom kandidaten, institusjonen og den eksterne part.",
+        "I tilfeller hvor doktorgradskandidaten skal ha tilknytning til utenlandsk institusjon, må Samisk høgskoles retningslinjer for slikt samarbeid følges og egne avtaler inngås på fastsatte skjema. Avtalen skal normalt inkluderes i opptaksavtalen."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": null,
+   "overskrift": "Del tre: Gjennomføring",
+   "innhold": [
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-1",
+     "navn": "kap7",
+     "overskrift": "Kapittel 7. Veiledning",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-1",
+       "nummer": "§ 7-1",
+       "tittel": "Veiledning",
+       "ledd": [
+        "Arbeidet med doktoravhandlingen skal foregå under individuell veiledning. Programstyre og veiledere skal sammen sikre at doktorgradskandidaten aktivt deltar i et forskningsmiljø."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-2",
+       "nummer": "§ 7-2",
+       "tittel": "Oppnevning av veileder(e)",
+       "ledd": [
+        "Doktorgradskandidaten skal som hovedregel ha to veiledere, hvor én oppnevnes som hovedveileder. Hovedveileder bør oppnevnes på opptakstidspunktet. Minst én av veilederne skal være fagansatt ved SH.",
+        "Hovedveilederen har det faglige hovedansvaret for kandidaten. Som en hovedregel skal hovedveilederen være ansatt ved SH.",
+        "Medveilederen er en fagperson som gir veiledning og som deler det faglige ansvaret for kandidaten med hovedveileder.",
+        "Alle veiledere skal ha doktorgrad eller tilsvarende kompetanse innenfor fagfeltet og være aktive forskere. Minst én av de oppnevnte veilederne skal ha tidligere erfaring fra eller opplæring som veileder av doktorgradskandidater.",
+        "Både doktorgradskandidat og veileder kan be DOS om å oppnevne ny veileder for kandidaten. Veileder kan ikke fratre før ny veileder er oppnevnt. Tvister om veileders og kandidats faglige rettigheter og plikter kan både veileder og kandidat bringe inn til behandling og avgjørelse ved DOS."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-3",
+       "nummer": "§ 7-3",
+       "tittel": "Veiledningens innhold",
+       "ledd": [
+        "Både veileder og doktorgradsstudent har rapporteringsplikt etter de retningslinjene som SH har fastsatt.",
+        "Veilederne plikter å holde seg orientert om fremdriften i kandidatens arbeid og vurdere den i forhold til prosjektplanen.Veilederne plikter også å følge opp faglige forhold som kan medføre forsinket gjennomføring av forskerutdanningen, slik at denne ikke kan fullføres innenfor normert tid.",
+        "Veilederne skal gi råd om formulering og avgrensning av tema og problemstillinger, drøfte og vurdere hypoteser og metoder, drøfte resultater og tolkningen av disse, drøfte opplegg og gjennomføring, herunder disposisjon, språklig form, dokumentasjon, og skal være behjelpelig med å finne faglitteratur og vitenskapelige kilder fra bibliotek, arkiver og lignende. I tillegg skal veileder gi veiledning om forskningsetiske spørsmål knyttet til avhandlingen."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-2",
+     "navn": "kap8",
+     "overskrift": "Kapittel 8. Opplæringsdel",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-2-paragraf-1",
+       "nummer": "§ 8-1",
+       "tittel": "Formål, innhold og omfang",
+       "ledd": [
+        "Forskerutdanningen skal være lagt opp slik at den skal kunne fullføres innenfor normert tidsramme. Høgskolen har ansvar for at opplæringsdelen, sammen med avhandlingsarbeidet, gir utdanning på høyt faglig nivå og i henhold til internasjonal standard. Dette omfatter gjennomføring av et vitenskapelig arbeid, trening i faglig formidling og innføring i forskningsetikk, vitenskapsteori og vitenskapsmetode. Opplæringen skal sammen med forskningsarbeidet bidra til oppnåelse av forventet læringsutbytte i henhold til det nasjonale kvalifikasjonsrammeverket.",
+        "Høgskolen bør tilby doktorgradskandidaten veiledning om fremtidige yrkesmuligheter i og utenfor akademia, herunder bevisstgjøring om den kompetansen som kandidaten har oppnådd gjennom forskningsarbeidet.",
+        "Dersom SH eller fagavdelingen, som har ansvar for programmet, ikke selv arrangerer hele opplæringsdelen, skal forholdene legges til rette for at kandidaten får tilsvarende opplæring ved annen institusjon eller enhet som tilbyr godkjent doktorgradsutdanning. I de emnene som mangler eget studietilbud, kan individuell pensum godkjennes som en del av studiet. Opplæringsdelen skal inneholde emner som utgjør minst 30 studiepoeng, hvorav minst 20 studiepoeng skal avlegges etter opptak. Emner som skal inngå i opplæringsdelen, bør ikke være eldre enn to år ved opptak til programmet.",
+        "Kurs på doktorgradsnivå ved annen institusjon skal godkjennes i samsvar med reglene i universitets- og høyskoleloven, § 3-5 første ledd."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-2-paragraf-2",
+       "nummer": "§ 8-2",
+       "tittel": "Kandidatens rettigheter ved permisjon",
+       "ledd": [
+        "Doktorgradskandidater som har foreldrepermisjon fra doktorgradsutdanningen, kan under permisjonstiden følge undervisning og avlegge eksamener i emner og kurs som skal inngå i kandidatens opplæringsdel, i tråd med lov om folketrygd (folketrygdloven)."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-3",
+     "navn": "kap9",
+     "overskrift": "Kapittel 9. Tilknytning til forskningsmiljøet",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-3-paragraf-1",
+       "nummer": "§ 9-1",
+       "tittel": "Tilknytning til forskningsmiljøet",
+       "ledd": [
+        "Hovedveileder har sammen med Samisk høgskole hovedansvaret for å legge til rette for at doktorgradsstudenten regelmessig kan delta i et aktivt forskningsmiljø sammen med forskere og andre doktorgradsstudenter. For doktorgradsstudenter som har sin hovedtilknytning til andre institusjoner, utformes det en avtale mellom gradgivende og samarbeidende institusjon som skal styre arbeidsvilkårene og dermed sikre doktorgradsstudenten deltakelse i aktivt forskningsmiljø, jf. § 6-1."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-4",
+     "navn": "kap10",
+     "overskrift": "Kapittel 10. Rapportering",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-4-paragraf-1",
+       "nummer": "§ 10-1",
+       "tittel": "Rapportering",
+       "ledd": [
+        "Samisk høgskoles system for kvalitetssikring av doktorgradsutdanningen skal omfatte tiltak for å avdekke manglende progresjon i avhandlingsarbeidet og kursdel, og mangler ved veiledningen, samt rutiner for å følge opp avdekkede mangler.",
+        "Doktorgradskandidat og veileder har et likeverdig ansvar for rapportering. Manglende eller mangelfull fremdriftsrapportering fra kandidaten kan medføre tvungen avslutning av forskerutdanningen før avtaleperiodens utløp, jf. § 5-5. Veileder som unnlater å følge opp rapporteringsplikten kan bli fratatt veilederansvaret.",
+        "Programstyret ved Samisk høgskole kan ved behov kreve særskilt rapportering."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-5",
+     "navn": "kap11",
+     "overskrift": "Kapittel 11. Doktorgradsavhandlingen",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-5-paragraf-1",
+       "nummer": "§ 11-1",
+       "tittel": "Krav til avhandlingen",
+       "ledd": [
+        "Avhandlingen skal være et selvstendig, vitenskapelig arbeid som oppfyller internasjonale standarder med hensyn til etiske krav, faglig nivå og metode innen fagområdet. Avhandlingen skal bidra til å utvikle ny faglig kunnskap og ligge på et nivå som tilsier at den vil kunne publiseres som en del av fagets vitenskapelige litteratur.",
+        "Avhandlingen kan være en monografi eller en artikkelavhandling (sammenstilling av flere mindre arbeider). I en artikkelavhandling skal kandidaten redegjøre for sammenhengen mellom artiklene.",
+        "En avhandling som er produsert av flere i fellesskap, kan godkjennes til bedømmelse dersom doktorgradsstudenten kan dokumentere og identifisere egne individuelle bidrag.",
+        "Dersom et skriftlig arbeid er blitt til i samarbeid med andre forfattere, skal doktorgradskandidaten følge de normer for medforfatterskap som er allment akseptert i fagmiljøet og som følger internasjonale standarder. I en artikkelavhandling skal kandidaten normalt være førsteforfatter av minst halvparten av artiklene.",
+        "En artikkelavhandling skal ha en underskrevet erklæring som beskriver kandidatens innsats i hvert enkelt arbeid.",
+        "Samisk høgskole bestemmer hvilke språk som kan benyttes i en avhandling."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-5-paragraf-2",
+       "nummer": "§ 11-2",
+       "tittel": "Arbeider som ikke godkjennes",
+       "ledd": [
+        "Arbeider eller deler av et arbeid som har vært godkjent som grunnlag for tidligere avlagte eksamener eller grader, kan ikke antas til bedømmelse med mindre arbeidet inngår som en mindre del av en avhandling som består av flere sammenhengende arbeider. Materiale, analyser eller metoder fra tidligere grader kan likevel benyttes som grunnlag for doktorgradsprosjektet.",
+        "Publiserte arbeider kan ikke godtas som del av avhandlingen hvis de er publisert mer enn fem år før kandidaten er tatt opp til doktorgradsstudiet",
+        "Avhandlingen kan innleveres for bedømmelse ved kun ett lærested, jf. § 14-1."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-6",
+     "navn": "kap12",
+     "overskrift": "Kapittel 12. Meldeplikt om arbeidsresultater som har potensial for næringsmessig utnyttelse",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-6-paragraf-1",
+       "nummer": "§ 12-1",
+       "tittel": "Meldeplikt om arbeidsresultater som har potensial for næringsmessig utnyttelse",
+       "ledd": [
+        "De samarbeidende institusjoners gjensidige rettigheter reguleres ved særskilt avtale.",
+        "Arbeidsgiverinstitusjonens til enhver tid gjeldende regelverk skal danne utgangspunkt for hvilken meldeplikt doktorgradskandidater med tilsetting ved Samisk høgskole har for arbeidsresultater med næringsmessig potensial. For doktorgradskandidater med ekstern arbeidsgiver skal tilsvarende meldeplikt nedfelles i avtale mellom Samisk høgskole, doktorgradskandidaten og den eksterne arbeidsgiver.",
+        "For doktorgradskandidater uten arbeidsgiver, skal tilsvarende meldeplikt nedfelles i opptaksavtalen mellom Samisk høgskole og doktorgradskandidaten."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": null,
+   "overskrift": "Del fire: Fullføring",
+   "innhold": [
+    {
+     "type": "seksjon",
+     "id": "kapittel-4-kapittel-1",
+     "navn": "kap13",
+     "overskrift": "Kapittel 13. Bedømmelse",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-4-kapittel-1-paragraf-1",
+       "nummer": "§ 13-1",
+       "tittel": "Grunnlag for bedømmelse",
+       "ledd": [
+        "Doktorgradsgraden tildeles på grunnlag av følgende:\n- godkjent vitenskapelig avhandling\n- godkjent gjennomføring av kursdelen, ev. annen godkjent faglig skolering eller kompetanse\n- godkjent prøveforelesning over oppgitt emne\n- godkjent offentlig forsvar av avhandlingen (disputas)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-4-kapittel-1-paragraf-2",
+       "nummer": "§ 13-2",
+       "tittel": "Vurderingsperiodens varighet",
+       "ledd": [
+        "Samisk høgskole må påse at tiden fra innlevering til disputas er kortest mulig. Det skal normalt ikke gå mer enn fem måneder fra innlevering til disputas.",
+        "Det er hovedveileders ansvar i god tid å melde til Samisk høgskole tidspunkt for kandidatens innlevering av avhandlingen, slik at institusjonen tidsnok kan starte vurderingsprosessen."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-4-kapittel-2",
+     "navn": "kap14",
+     "overskrift": "Kapittel 14. Innlevering av avhandlingen",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-4-kapittel-2-paragraf-1",
+       "nummer": "§ 14-1",
+       "tittel": "Søknad om bedømming",
+       "ledd": [
+        "Søknad om å få avhandlingen bedømt kan leveres først etter at opplæringsdelen er godkjent.",
+        "Søknaden skal inneholde følgende dokumenter:\n- Avhandlingen i henhold til institusjonens bestemmelser og krav\n- Dokumentasjon av godkjent opplæringsdel\n- Dokumentasjon av andre avtaler, for eksempel avtale om immaterielle rettigheter\n- Eventuelle medforfattererklæringer, jf. § 11-1\n- Erklæring om hvorvidt doktorgradsarbeidet leveres inn til bedømmelse for første eller andre gang\n- Erklæring om at doktorgradsarbeidet ikke er levert inn til bedømmelse ved annen institusjon.",
+        "Samisk høgskole kan på selvstendig grunnlag avvise søknad om å få avhandlingen bedømt dersom det er åpenbart at avhandlingen ikke holde høy nok vitenskapelig kvalitet og vil bli underkjent av en komité.",
+        "Avhandlingen skal være offentlig tilgjengelig senest to uker før disputas, jf. § 19-2."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-4-kapittel-2-paragraf-2",
+       "nummer": "§ 14-2",
+       "tittel": "Behandling av søknaden",
+       "ledd": [
+        "Samisk høgskole behandler søknad om å få avhandlingen bedømt. Søknad som ikke fyller kravene i § 14-1 skal avvises."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-4-kapittel-3",
+     "navn": "kap15",
+     "overskrift": "Kapittel 15. Oppnevning av bedømmelseskomité",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-4-kapittel-3-paragraf-1",
+       "nummer": "§ 15-1",
+       "tittel": "Oppnevning av bedømmelseskomité",
+       "ledd": [
+        "Når Samisk høgskole har godkjent søknad om å få avhandlingen bedømt, oppnevner DOS, på bakgrunn av forslag fra fagavdelingen, en sakkyndig komité som skal bedømme avhandlingen og disputasen. Forslaget skal begrunne og vise hvordan komiteen helhetlig dekker fagfeltet for avhandlingen. DOS oppnevner leder blant komiteens medlemmer eller en annen ansatt ved Samisk høgskole.",
+        "Bedømmelseskomiteen skal ha minst tre medlemmer. Komiteen skal settes sammen slik at\n- begge kjønn er representert\n- minst ett av medlemmene ikke har hovedstilling ved en norsk institusjon\n- flertallet i bedømmelseskomiteen ikke er ansatt ved Samisk høgskole\n- alle medlemmene har doktorgrad eller tilsvarende kompetanse.",
+        "Dersom kriteriene fravikes, skal dette begrunnes særskilt.",
+        "Oppnevnte veiledere og andre som har bidratt til avhandlingen, kan ikke være medlem av bedømmelseskomiteen eller administrere den.",
+        "Kandidaten skal underrettes om forslaget til sammensetning av komité og har anledning til å innlevere skriftlige merknader, senest innen én uke etter at forslaget til sammensetning er gjort kjent for kandidaten."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-4-kapittel-4",
+     "navn": "kap16",
+     "overskrift": "Kapittel 16. Komiteens arbeid",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-4-kapittel-4-paragraf-1",
+       "nummer": "§ 16-1",
+       "tittel": "Innhenting av supplerende opplysninger",
+       "ledd": [
+        "Komiteen kan kreve fremlagt avhandlingens grunnlagsmateriale og utfyllende tilleggsinformasjon.",
+        "Bedømmelseskomiteen kan invitere veileder til møte for å gjøre rede for veiledningen og arbeidet med avhandlingen."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-4-kapittel-4-paragraf-2",
+       "nummer": "§ 16-2",
+       "tittel": "Omarbeiding av innlevert avhandling",
+       "ledd": [
+        "Bedømmelseskomiteen kan på grunnlag av den innleverte avhandlingen og eventuelt tilleggsmateriale, jf. § 14-1, anbefale at DOS gir tillatelse til mindre omarbeiding. Komiteen bør i skriftlig form gi en konkret oversikt over hva kandidaten må omarbeide.",
+        "Tillater DOS en mindre omarbeiding av avhandlingen, skal det gis en frist for slik omarbeiding som normalt ikke skal være lengre enn tre måneder. Det skal samtidig fastsettes en ny frist for komiteens endelige innstilling. Samisk høgskoles vedtak kan ikke påklages av kandidaten.",
+        "Dersom komiteen finner at dyptgripende endringer vedrørende teori, hypotese, forskningsmateriale eller metode er nødvendige for at arbeidet skal kunne forsvares ved disputas, skal komiteen underkjenne avhandlingen."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-4-kapittel-4-paragraf-3",
+       "nummer": "§ 16-3",
+       "tittel": "Komiteens avgjørelse",
+       "ledd": [
+        "Komiteen avgir en felles innstilling om hvorvidt arbeidet er verdig til å forsvares for doktorgrad. Innstilling og eventuelle dissenser skal begrunnes.",
+        "Komiteens innstilling skal foreligge senest tre måneder etter at avhandlingen er levert, om institusjonen ikke vedtar noe annet. Anbefaler komiteen omarbeiding av avhandlingen, løper ny innstillingsfrist fra den dato avhandlingen leveres på nytt.",
+        "Komiteens innstilling oversendes Samisk høgskole som forelegger denne for doktorgradskandidaten. Kandidaten gis en frist på ti arbeidsdager til å fremme skriftlige merknader til innstillingen. Hvis kandidaten ikke ønsker å fremme merknader, skal kandidaten snarest underrette Samisk høgskole om dette. Samisk høgskole behandler saken i samsvar med § 17-1."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-4-kapittel-5",
+     "navn": "kap17",
+     "overskrift": "Kapittel 17. Komiteens innstilling og vurdering av innstillingen",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-4-kapittel-5-paragraf-1",
+       "nummer": "§ 17-1",
+       "tittel": "Komiteens innstilling og vurdering av innstillingen",
+       "ledd": [
+        "Samisk høgskole fatter, på grunnlag av bedømmelseskomiteens innstilling, vedtak om doktorgradsavhandlingen kan forsvares.",
+        "Enstemmig innstilling",
+        "Dersom komiteen avgir enstemmig innstilling og Samisk høgskole finner å legge den enstemmige innstillingen til grunn for sitt vedtak, fatter høgskolen selv vedtak på grunnlag av den enstemmige innstillingen.",
+        "Dersom Samisk høgskole finner at det foreligger begrunnet tvil om hvorvidt komiteens enstemmige innstilling skal legges til grunn, skal DOS søke nærmere avklaring fra bedømmelseskomiteen og/eller oppnevne to sakkyndige som avgir individuelle uttalelser om avhandlingen. Slike tilleggsuttalelser eller individuelle uttalelser skal forelegges doktorgradskandidaten, som gis anledning til å komme med merknader.",
+        "DOS fatter deretter endelig vedtak på grunnlag av innstillingen og de eksterne uttalelsene.",
+        "Vurdering av delt innstilling",
+        "Delt innstilling fra komiteen vurderes og vedtas av DOS. Dersom komiteen avgir delt innstilling og DOS vedtar å legge flertallets uttalelser til grunn for sitt vedtak, fatter Samisk høgskole vedtak i samsvar med flertallets innstilling. Dersom komiteen avgir delt innstilling og DOS vurderer å legge mindretallets uttalelser til grunn for sitt vedtak, kan DOS søke nærmere avklaring fra bedømmelseskomiteen og/eller oppnevne to nye sakkyndige som avgir individuelle uttalelser om avhandlingen. Disse sakkyndige arbeider ikke som komité, men vurderer avhandlingen hver for seg og kommer med hver sin uttalelse.",
+        "Doktorgradskandidaten gis anledning til å komme med merknader. Dersom begge de nye sakkyndige slutter seg til flertallets innstilling i den opprinnelige komiteen, skal denne flertallsinnstillingen følges.",
+        "Doktorgradskandidaten underrettes om vedtaket i DOS."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-4-kapittel-6",
+     "navn": "kap18",
+     "overskrift": "Kapittel 18. Ny vurdering",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-4-kapittel-6-paragraf-1",
+       "nummer": "§ 18-1",
+       "tittel": "Ny vurdering",
+       "ledd": [
+        "En doktorgradsavhandling som ikke er godkjent, kan innsendes i omarbeidet utgave først seks måneder etter at Samisk høgskole har fattet sitt forrige vedtak. Ny bedømmelse kan finne sted bare én gang.",
+        "Doktorgradskandidaten skal ved ny innlevering opplyse om at arbeidet tidligere har vært bedømt og ikke blitt godkjent."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-4-kapittel-7",
+     "navn": "kap19",
+     "overskrift": "Kapittel 19. Offentliggjøring av avhandlingen",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-4-kapittel-7-paragraf-1",
+       "nummer": "§ 19-1",
+       "tittel": "Krav til den trykte avhandlingen",
+       "ledd": [
+        "Når avhandlingen er funnet verdig til å forsvares, skal doktorgradskandidaten levere de eksemplarer av avhandlingen til Samisk høgskole som forskriftene for doktorgradsprogrammet forutsetter. Nærmere bestemmelser er gitt i de enkelte doktorgradsprogrammene. Avhandlingen skal følge mal og format i henhold til DOS' bestemmelser, jf. § 14-1.",
+        "Doktorgradskandidaten skal levere et kortfattet sammendrag av avhandlingen både på samisk og engelsk, samt enten på norsk, finsk, svensk eller russisk. Dersom avhandlingen er skrevet på et annet språk enn de forannevnte, skal det i tillegg leveres et sammendrag på avhandlingens språk."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-4-kapittel-7-paragraf-2",
+       "nummer": "§ 19-2",
+       "tittel": "Offentliggjøring",
+       "ledd": [
+        "Avhandlingen skal være offentlig tilgjengelig senest to uker før dato for offentlig forsvar. Avhandlingen gjøres tilgjengelig i den form den ble innlevert til bedømmelse. Om komiteen har bedt om omarbeiding, så offentliggjøres den omarbeidede avhandlingen, jf. § 16-2.",
+        "Det kan ikke legges restriksjoner på offentliggjøring av en doktorgradsavhandling med unntak av en på forhånd avtalt utsettelse av datoen for offentliggjøring. Slik utsettelse kan finne sted for at institusjonen og eventuelt ekstern part som helt eller delvis har finansiert doktorgradsutdanningen, skal kunne ta stilling til eventuell patentering. Ekstern part kan ikke stille krav om at hele doktorgradsavhandlingen eller deler av den ikke skal kunne offentliggjøres, jf. § 5-3."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-4-kapittel-8",
+     "navn": "kap20",
+     "overskrift": "Kapittel 20. Doktorgradsprøve",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-4-kapittel-8-paragraf-1",
+       "nummer": "§ 20-1",
+       "tittel": "Prøveforelesning",
+       "ledd": [
+        "Etter at avhandlingen er funnet verdig til å forsvares, skal doktorgradskandidaten gi en offisiell prøveforelesning. Prøveforelesningen er en selvstendig del av doktorgradsprøven og skal være over oppgitt emne. Hensikten er å prøve kandidatens evne til å tilegne seg kunnskaper utover avhandlingens tema og evnen til å formidle disse i en forelesningssituasjon. Tittel for prøveforelesning kunngjøres for doktorgradskandidaten minst ti arbeidsdager før forelesningen.",
+        "Prøveforelesningen avholdes før disputas. Bedømmelseskomiteen oppgir tema for prøveforelesning og forestår bedømmingen. Prøveforelesningen skal normalt skje på samisk eller på avhandlingsspråket, med mindre DOS bestemmer noe annet.",
+        "Vurderingskomiteen avgjør om prøveforelesningen er bestått eller ikke bestått. Det skal begrunnes dersom prøveforelesningen avgjøres som ikke bestått.",
+        "Prøveforelesningen skal være bestått før disputas kan avholdes."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-4-kapittel-8-paragraf-2",
+       "nummer": "§ 20-2",
+       "tittel": "Forsvar av avhandlingen",
+       "ledd": [
+        "Offentlig forsvar av avhandlingen skal finne sted etter at prøveforelesningen er avholdt og godkjent, og innen to måneder etter at avhandlingen er funnet verdig til å forsvares. Doktorgradskandidaten forsvarer avhandlingen i en offentlig disputas. Tid og sted for det offentlige forsvaret skal kunngjøres minst ti arbeidsdager før det avholdes.",
+        "Den komiteen som opprinnelig har bedømt avhandlingen, bedømmer også det offentlige forsvaret. Det offentlige forsvaret skjer normalt på samisk eller på hovedspråket i avhandlingen. Om DOS etter forslag fra bedømmelseskomiteen godkjenner det, kan forsvaret skje på ett eller flere andre språk.",
+        "Det skal normalt være to opponenter. De to opponentene skal være medlemmer av bedømmelseskomiteen og utpekes av DOS.",
+        "Disputasen ledes av leder av DOS eller den DOS bemyndiger. Den som leder disputasen, gjør kort rede for innleveringen, bedømmelsen av avhandlingen og prøveforelesningen. Deretter redegjør doktoranden for hensikten med og resultatene av den vitenskapelige undersøkelsen.",
+        "Disputasleder avtaler sammen med opponentene arbeidsfordeling og prioritering mellom doktorand og opponenter. Førsteopponenten innleder vanligvis opposisjonen og andreopponenten avslutter opposisjonen. Etter at begge opponenter har avsluttet sin opposisjon, gis de øvrige tilstedeværende anledning til å kommentere ex auditorio (fra salen) ved å gi beskjed til disputasleder innen en gitt frist. En av opponentene avslutter opposisjonen, og disputasleder avslutter disputasen.",
+        "Etter disputasen avgir bedømmelseskomiteen innstilling til institusjonen der den gjør rede for hvordan den har vurdert forsvaret av avhandlingen. Innstillingen skal konkludere med om disputasen er godkjent eller ikke godkjent. Opponentenes syn vektlegges i vurderingen. Innstillingen skal begrunnes dersom disputasen ikke godkjennes."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-4-kapittel-9",
+     "navn": "kap21",
+     "overskrift": "Kapittel 21. Godkjenning av doktorgradsprøve",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-4-kapittel-9-paragraf-1",
+       "nummer": "§ 21-1",
+       "tittel": "Godkjenning av doktorgradsprøve",
+       "ledd": [
+        "DOS fatter vedtak om godkjenning av doktorgradsprøven på grunnlag av bedømmelseskomiteens innstilling.",
+        "Dersom Samisk høgskole ikke godkjenner prøveforelesningen, må det avholdes ny prøveforelesning. Ny prøveforelesning bør holdes over nytt emne og ikke senere enn seks måneder etter første forsøk. Ny prøveforelesning kan bare holdes én gang. Forelesningen bedømmes så vidt mulig av den samme komité som den opprinnelige.",
+        "Dersom Samisk høgskole ikke godkjenner disputasen, kan doktorgradskandidaten forsvare avhandlingen på nytt. Ny disputas kan tidligst avholdes etter seks måneder, og bedømmes så vidt mulig av den samme komité som den opprinnelige, dersom ikke Samisk høgskole bestemmer noe annet."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-4-kapittel-10",
+     "navn": "kap22",
+     "overskrift": "Kapittel 22. Kreering og vitnemål",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-4-kapittel-10-paragraf-1",
+       "nummer": "§ 22-1",
+       "tittel": "Kreering og vitnemål",
+       "ledd": [
+        "Når DOS har godkjent opplæringsdelen, avhandlingen og doktorgradsprøven, fremmer avdelingsleder saken til styret for Samisk høgskole, som kreerer doktoranden til doktor i filosofi (philosophiae doctor). I vitnemålet skal det gis opplysninger om hvilken faglig avdeling doktoranden tilhører og utdanningsprogrammet vedkommende har deltatt i."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-4-kapittel-11",
+     "navn": "kap23",
+     "overskrift": "Kapittel 23. Vedlegg til vitnemål (Diploma Supplement)",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-4-kapittel-11-paragraf-1",
+       "nummer": "§ 23-1",
+       "tittel": "Vedlegg til vitnemål (Diploma Supplement)",
+       "ledd": [
+        "Rektor bestemmer hvilke avklaringer som skal være med i diplomet, vitnemålet og vedlegget til vitnemålet. Rektor underskriver diplomet, vitnemålet og vedlegget til vitnemålet (Diploma Supplement)."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": null,
+   "overskrift": "Del fem: Klage, fellesgrader og ikrafttredelse",
+   "innhold": [
+    {
+     "type": "seksjon",
+     "id": "kapittel-5-kapittel-1",
+     "navn": "kap24",
+     "overskrift": "Kapittel 24. Klage",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-5-kapittel-1-paragraf-1",
+       "nummer": "§ 24-1",
+       "tittel": "Klage vedrørende opptak og søknadsvurdering",
+       "ledd": [
+        "Kandidaten kan påklage avslag på søknad om opptak, vedtak om opphør av studierett og klage på søknad om godkjenning av elementer i opplæringsdelen, etter reglene i lov om behandlingsmåten i forvaltningssaker (forvaltningsloven) § 28–§ 36. Begrunnet klage sendes til Samisk høgskole. Hvis avslaget opprettholdes, sendes klagen til behandling i klagenemnda."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-5-kapittel-1-paragraf-2",
+       "nummer": "§ 24-2",
+       "tittel": "Klage vedrørende godkjenning i opplæringsdelen",
+       "ledd": [
+        "Eksamener som er avlagt under opplæringsdelen, kan påklages etter universitets- og høyskoleloven § 5-2–§ 5-3.",
+        "Behandling av mistanke om fusk eller forsøk på fusk følger Samisk høgskoles fastsatte rutiner for dette."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-5-kapittel-1-paragraf-3",
+       "nummer": "§ 24-3",
+       "tittel": "Klage over avslag på søknad om bedømmelse, ikke godkjent avhandling, prøveforelesning eller forsvar",
+       "ledd": [
+        "Avslag på søknad om å få avhandlingen bedømt og vedtak om ikke godkjent avhandling, prøveforelesning eller forsvar kan påklages etter reglene i forvaltningslovens § 28–§ 36.",
+        "Begrunnet klage sendes til Samisk høgskole. Samisk høgskole kan oppnevne enkeltpersoner eller en særskilt komité til å vurdere alle sider ved det påklagde vedtaket, eller oppnevne en komité som skal utarbeide en helhetlig sakkyndig vurdering."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-5-kapittel-2",
+     "navn": "kap25",
+     "overskrift": "Kapittel 25. Fellesgrader og cotutelle-avtaler",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-5-kapittel-2-paragraf-1",
+       "nummer": "§ 25-1",
+       "tittel": "Fellesgrader og cotutelle-avtaler",
+       "ledd": [
+        "Samisk høgskole kan inngå samarbeid med en eller flere norske eller utenlandske institusjoner om fellesgrader eller cotutelle-avtaler (felles veilederoppgaver). I avtaler om fellesgradssamarbeid og cotutelle kan rektor gi unntak for de øvrige bestemmelsene i disse retningslinjene."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-5-kapittel-2-paragraf-2",
+       "nummer": "§ 25-2",
+       "tittel": "Fellesgrader",
+       "ledd": [
+        "Med fellesgrader menes et samarbeid mellom flere institusjoner, der alle i fellesskap har ansvar for opptak, veiledning, gradstildeling og annet som er beskrevet i disse forskriftene. Samarbeidet organiseres normalt i et konsortium og reguleres i avtale mellom konsortiedeltakerne.",
+        "Fellesgrader gjelder normalt bare dersom det fra før er et etablert, stabilt faglig samarbeid mellom institusjonen og minst en av de andre konsortiedeltakerne. Styret for Samisk høgskole vedtar slike samarbeidsavtaler og de skal som et minimum favne opptak, finansiering, opplæringsdel, veiledning, arbeidsplass, rapporteringsplikt, avhandlingsspråk, avhandlingsform, vurdering, gradinndeling, vitnemål og resultatrettigheter. Avtalen underskrives av rektor."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-5-kapittel-2-paragraf-3",
+       "nummer": "§ 25-3",
+       "tittel": "Krav til fellesgrader og cotutelle-avtaler",
+       "ledd": [
+        "Kvalifikasjonskrav for opptak, krav om at avhandlingen skal være offentlig tilgjengelig og krav om offentlig disputas med en habil bedømmelseskomité kan ikke fravikes."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-5-kapittel-3",
+     "navn": "kap26",
+     "overskrift": "Kapittel 26. Ikrafttredelse",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-5-kapittel-3-paragraf-1",
+       "nummer": "§ 26-1",
+       "tittel": "Ikrafttredelse",
+       "ledd": [
+        "Forskriften trer i kraft etter vedtak i styret."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": null,
+   "overskrift": "Samisk versjon",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "For å lese nordsamisk versjon av forskriften se her: pdf-fil"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,58 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-1999-09-01-1001",
+ "dokumentid": "DEL/forskrift/1999-09-01-1001",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "etat": [
+  "Ressurs- og utredningsavd."
+ ],
+ "kunngjort_i": "Avd I 1999 2315",
+ "ikraft": "1999-09-01",
+ "endrer": "forskrift/1997-07-17-794",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "forskrift/1977-06-03-6/§3",
+   "tekst": "forskrift/1977-06-03-6/§3"
+  },
+  {
+   "ref": "forskrift/1978-04-28-20/§1",
+   "tekst": "forskrift/1978-04-28-20/§1"
+  }
+ ],
+ "korttittel": "Del. til Fiskeridirektoratet, fiske ved Svalbard",
+ "tittel": "Delegering av Fiskeridepartementets myndighet etter forskrift om fiskevernsone ved Svalbard § 3 nr. 1 og forskrift om regulering av fiske i Svalbards territorialfarvann og indre farvann § 1 nr. 1.",
+ "annet": "Fastsatt av Fiskeridepartementet 1. september 1999 med hjemmel i forskrift av 3. juni 1977 nr. 6 om fiskevernsone ved Svalbard § 3 nr. 1 og forskrift av 28. april 1978 nr. 20 om regulering av fiske i Svalbards territorialfarvann og indre farvann § 1 nr. 1.",
+ "refid": "forskrift/1999-09-01-1001",
+ "eli": "/eli/forskrift/1999/09/01/1001",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/1999-09-01-1001",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Fiskeridepartementets myndighet til å fastsette forbud mot å drive fiske i nærmere bestemte områder for å beskytte oppveksten av ungfisk og sikre rekruttering til bestandene etter forskrift av 3. juni 1977 nr. 6 om fiskevernsone ved Svalbard § 3 nr. 1 og forskrift av 28. april 1978 nr. 20 om regulering av fiske i Svalbards territorialfarvann og indre farvann § 1 nr. 1 delegeres til Fiskeridirektoratet."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Fiskeridepartementets vedtak av 17. juli 1997 nr. 794 om delvis delegering av Fiskeridepartementets myndighet, oppheves."
+    }
+   ]
+  }
+ ]
+}

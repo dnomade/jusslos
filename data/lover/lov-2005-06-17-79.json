@@ -1,0 +1,617 @@
+{
+ "skjema": "1.0",
+ "type": "lov",
+ "datokode": "LOV-2005-06-17-79",
+ "dokumentid": "NL/lov/2005-06-17-79",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "ikraft": "2006-01-01",
+ "siste_endring_ikraft": "2026-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "lov/2025-06-20-109",
+   "tekst": "lov/2025-06-20-109 fra 2026-01-01"
+  }
+ ],
+ "endrer": "lov/1985-06-14-68\nlov/2000-12-21-118",
+ "rettsomrade": [
+  "Fiskeri- og fangstrett og havbruk > Akvakultur. Havbruk"
+ ],
+ "kunngjort": "2005-06-17",
+ "siste_rettelse": "2021-08-24 (faglige fotnoter fjernet, UU-tilpasset)",
+ "korttittel": "Akvakulturloven",
+ "tittel": "Lov om akvakultur (akvakulturloven)",
+ "refid": "lov/2005-06-17-79",
+ "eli": "/eli/lov/2005/06/17/79",
+ "url": "https://lovdata.no/dokument/NL/lov/2005-06-17-79",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "Kapittel I. Formål og virkeområde",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Formål",
+     "ledd": [
+      "Loven skal fremme akvakulturnæringens lønnsomhet og konkurransekraft innenfor rammene av en bærekraftig utvikling, og bidra til verdiskaping på kysten."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Saklig virkeområde",
+     "ledd": [
+      "Loven gjelder produksjon av akvatiske organismer (akvakultur). Med akvatiske organismer forstås vannlevende dyr og planter. Som produksjon regnes ethvert tiltak for å påvirke levende akvatiske organismers vekt, størrelse, antall, egenskaper eller kvalitet. I tvilstilfeller kan departementet i enkeltvedtak eller forskrift bestemme hva som anses som akvakultur.",
+      "Loven gjelder også anlegg ment for akvakultur, herunder anlegg uten akvatiske organismer.",
+      "Lovens § 12 og kapittel VI til VIII gjelder også for vare- og tjenesteproduksjon til akvakulturnæringen.",
+      "Departementet kan i forskrift bestemme at aktiviteter som nevnt i første til tredje ledd ikke skal omfattes av hele eller deler av loven.",
+      "Produksjon av anadrome laksefisk og innlandsfisk til kultiveringsformål reguleres av lov 15. mai 1992 nr. 47 om laksefisk og innlandsfisk m.v."
+     ],
+     "endringer": [
+      "Endret ved lov 21 juni 2013 nr. 74 (ikr. 1 juli 2013 iflg. res. 21 juni 2013 nr. 745)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Geografisk virkeområde",
+     "ledd": [
+      "Denne loven gjelder:\na. på landterritoriet og i territorialfarvannet,\nb. i jurisdiksjonsområder etablert i medhold av lov 17. desember 1976 nr. 91 om Norges økonomiske sone, og\nc. på kontinentalsokkelen.",
+      "Loven gjelder ikke på Svalbard og Jan Mayen. Kongen kan gi forskrift om at loven helt eller delvis skal gjelde på Svalbard og Jan Mayen og kan fastsette nærmere bestemmelser av hensyn til de stedlige forhold, herunder bestemmelser som fraviker bestemmelser i denne lov."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "Kapittel II. Akvakulturtillatelse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 4",
+     "tittel": "Krav om akvakulturtillatelse",
+     "ledd": [
+      "Departementet kan gi tillatelse til å drive akvakultur (akvakulturtillatelse) etter §§ 6 og 7. Slik tillatelse kan også erverves ved overføring etter § 19.",
+      "Ingen kan drive akvakultur uten å være registrert som innehaver av akvakulturtillatelse i akvakulturregisteret, jf. § 18 første ledd."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 5",
+     "tittel": "Akvakulturtillatelsens innhold",
+     "ledd": [
+      "Akvakulturtillatelsen gir rett til produksjon av bestemte arter på avgrensede geografiske områder (lokaliteter), med de til enhver tid fastsatte begrensninger av tillatelsens omfang.",
+      "Departementet kan i enkeltvedtak eller forskrift gi nærmere bestemmelser om innholdet i akvakulturtillatelser, herunder omfang, avgrensing i tid mv."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 6",
+     "tittel": "Generelle vilkår for tildeling av akvakulturtillatelse",
+     "ledd": [
+      "Departementet kan etter søknad gi tillatelse til akvakultur dersom:\na. det er miljømessig forsvarlig,\nb. kravene i § 15 om forholdet til arealplaner og vernetiltak er oppfylt,\nc. avveiningen av arealinteresser etter § 16 er foretatt, og\nd. det er gitt tillatelser som kreves etter:\n- lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet m.v.,\n- lov 13. mars 1981 nr. 6 om vern mot forurensning og om avfall,\n- havne- og farvannsloven, og\n- lov 24. november 2000 nr. 82 om vassdrag og grunnvann.",
+      "Departementet kan i forskrift gi nærmere bestemmelser om tildeling av akvakulturtillatelse, herunder krav til søknad og kriterier for innvilgelse av søknad og gi nærmere bestemmelser om hvilke søknader som skal behandles av fylkeskommunene.",
+      "Departementet kan i forskrift gi nærmere bestemmelser om hel eller delvis stans i tildeling for bestemte arter i bestemte tidsperioder eller geografiske områder, herunder om at søknader skal behandles i tildelingsrunder på bestemte tidspunkt."
+     ],
+     "endringer": [
+      "Endret ved lover 19 juni 2009 nr. 61 (ikr. 1 juli 2009 iflg. res. 19 juni 2009 nr. 695), 9 jan 2009 nr. 4 (ikr. 1 jan 2010), 17 apr 2009 nr. 19 (ikr. 1 jan 2010 iflg. res. 4 des 2009 nr. 1456), 21 juni 2019 nr. 70 (ikr. 1 jan 2020 iflg. res. 21 juni 2019 nr. 872)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 7",
+     "tittel": "Særlig om akvakulturtillatelse til laks, ørret og regnbueørret",
+     "ledd": [
+      "For tildeling av tillatelse til produksjon av laks, ørret og regnbueørret kan departementet gi forskrift om:\na. antall tillatelser som skal tildeles,\nb. geografisk fordeling av tillatelser,\nc. prioriteringskriterier,\nd. utvelgelse av kvalifiserte søkere i henhold til prioriteringskriteriene i bokstav c, herunder trekning mv., og\ne. vederlag for tildeling av tillatelser.",
+      "Departementet kan i forskrift gi nærmere bestemmelser om vederlag for utvidelse av gjeldende tillatelse.",
+      "Departementet kan i forskrift bestemme hvor stor andel av produksjonskapasiteten et foretak kan kontrollere, herunder hvilke vilkår som skal gjelde for kontroll med en gitt andel mv.",
+      "Kongen kan i forskrift gi bestemmelser om tilpasning av produksjonen av laks, ørret og regnbueørret."
+     ],
+     "endringer": [
+      "Endret ved lover 18 des 2009 nr. 136 (ikr. 1 jan 2010), 21 juni 2013 nr. 74 (ikr. 1 juli 2013 iflg. res. 21 juni 2013 nr. 745)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 8",
+     "tittel": "Samordning i saker om etablering av akvakultur",
+     "ledd": [
+      "Myndighetene etter denne lov, lovene nevnt i § 6 første ledd bokstav d og kommunen, herunder som plan- og bygningsmyndighet, plikter å foreta en effektiv og samordnet søknadsbehandling.",
+      "Departementet kan i forskrift gi nærmere bestemmelser om samordning av søknadsbehandlingen, herunder fastsette tidsfrister for behandling av søknader."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-6",
+     "nummer": "§ 9",
+     "tittel": "Tilpasning av produksjon av hensyn til miljøet, og endring og tilbaketrekking av akvakulturtillatelse",
+     "ledd": [
+      "Departementet kan endre eller trekke tilbake akvakulturtillatelsen:\na. dersom dette er nødvendig ut fra hensynet til miljøet,\nb. dersom vesentlige forutsetninger som ligger til grunn for tillatelsen er endret,\nc. ved grov eller gjentatt overtredelse av bestemmelser gitt i eller i medhold av denne loven,\nd. dersom tillatelsen ikke benyttes eller bare benyttes i begrenset grad, eller\ne. dersom en eller flere nødvendige tillatelser gitt i medhold av lovene nevnt i § 6 første ledd bokstav d er bortfalt.",
+      "Endring og tilbaketrekking av tillatelse etter første ledd kan gjøres tidsbegrenset. Tidsbegrenset endring og tilbaketrekking kan gjøres betinget av at bestemte forhold utbedres eller endres.",
+      "Dersom det er nødvendig ut fra hensynet til miljøet, kan departementet i forskrift endre tillatelsers omfang og redusere muligheten til å utnytte tillatelser innenfor ett eller flere nærmere angitte områder.",
+      "Departementet kan i forskrift gi nærmere bestemmelser om endring og tilbaketrekking av akvakulturtillatelser."
+     ],
+     "endringer": [
+      "Endret ved lov 21 juni 2019 nr. 64 (ikr. 1 juli 2019 iflg. res. 21 juni 2019 nr. 859)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kapIII",
+   "overskrift": "Kapittel III. Miljøhensyn",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 10",
+     "tittel": "Miljønorm",
+     "ledd": [
+      "Akvakultur skal etableres, drives og avvikles på en miljømessig forsvarlig måte.",
+      "Departementet kan i enkeltvedtak eller forskrift gi nærmere bestemmelser for å sikre miljømessig forsvarlig akvakultur, herunder stille krav til forebyggende tiltak, krav om merking av akvatiske organismer, bruk av akvatiske organismer som ikke kan formere seg og bruk av fremmede organismer."
+     ],
+     "endringer": [
+      "Endret ved lov 21 juni 2013 nr. 74 (ikr. 1 juli 2013 iflg. res. 21 juni 2013 nr. 745)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 11",
+     "tittel": "Miljøovervåking",
+     "ledd": [
+      "Departementet kan i enkeltvedtak eller forskrift kreve at den som har eller søker om akvakulturtillatelse skal foreta eller bekoste nødvendige miljøundersøkelser for å dokumentere miljøtilstanden innenfor lokalitetens influensområde ved etablering, drift og avvikling av akvakultur.",
+      "Miljøundersøkelser etter denne bestemmelsen kan blant annet omfatte undersøkelser for å klarlegge om og hvordan akvakulturvirksomheten forårsaker, har forårsaket eller kan forårsake påvirkning på miljøet.",
+      "Departementet kan gi forskrift om gebyr og avgift for gjennomføring av miljøundersøkelser i regi av det offentlige. Skyldig gebyr og avgift er tvangsgrunnlag for utlegg."
+     ],
+     "endringer": [
+      "Endret ved lov 21 juni 2013 nr. 74 (ikr. 1 juli 2013 iflg. res. 21 juni 2013 nr. 745)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 12",
+     "tittel": "Krav til vare- og tjenesteprodusenter, innretninger, utstyr mv.",
+     "ledd": [
+      "Vare- og tjenesteprodusenter til akvakulturnæringen skal utføre sine oppdrag og tjenester på en miljømessig forsvarlig måte. Departementet kan i forskrift gi nærmere bestemmelser for å sikre forsvarlig gjennomføring av aktiviteter utført av vare- og tjenesteprodusenter.",
+      "Innretninger og utstyr som nyttes til aktiviteter som omfattes av denne lov skal være forsvarlig utformet, ha forsvarlige egenskaper og brukes med nødvendig aktsomhet.",
+      "Departementet kan gi forskrift om krav til tilvirkning, bruk og egenskaper ved innretninger og utstyr som nevnt i annet ledd, herunder fastsette godkjennings- og sertifiseringsordninger."
+     ],
+     "endringer": [
+      "Endret ved lov 21 juni 2013 nr. 74 (ikr. 1 juli 2013 iflg. res. 21 juni 2013 nr. 745)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 13",
+     "tittel": "Oppryddings- og gjenfangstplikt",
+     "ledd": [
+      "Den som driver akvakultur skal ved helt eller delvis opphør av produksjonen foreta opprydding på lokaliteten og tilstøtende områder, herunder fjerning av organismer, innretninger og utstyr mv.",
+      "Departementet kan i enkeltvedtak eller forskrift gi bestemmelser om at den som driver akvakultur har plikt til gjenfangst av den utsatte art.",
+      "Departementet kan gi forskrift om plikt til å stille sikkerhet for oppryddings- og gjenfangstplikten etter første og annet ledd.",
+      "Departementet kan gi forskrift om avgiftsordning for å sikre gjennomføring av oppryddings- og gjenfangstplikten. Fastsatt avgift er tvangsgrunnlag for utlegg."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 13 a",
+     "tittel": "Fellesansvar for fjerning av rømte organismer",
+     "ledd": [
+      "Innehaver av akvakulturtillatelse plikter å delta i en sammenslutning opprettet av departementet og å betale avgift til sammenslutningen.",
+      "Sammenslutningen skal, med de begrensninger som er fastsatt i forskrift, dekke utgifter det offentlige eller private har med fjerning av organismer som har rømt eller på annen uønsket måte har spredt seg fra en lokalitet for akvakultur. Sammenslutningen skal også dekke utgifter til fjerning av organismer som innehaver av tillatelse er pliktig til å dekke etter § 13, dersom den ansvarlige er ukjent. Dersom den rømte akvatiske organismen kan spores tilbake til en innehaver av akvakulturtillatelse, kan sammenslutningen kreve regress hos den ansvarlige.",
+      "Innehavere av akvakulturtillatelse svarer én for alle og alle for én på objektivt grunnlag for sammenslutningens utgifter.",
+      "Departementet kan i forskrift gi nærmere bestemmelser om sammenslutningens ikrafttreden, organisering og virksomhet, herunder om unntak fra plikten til medlemskap, årlig avgift for deltakelse i sammenslutningen og tilleggsinnbetalinger, begrensninger i ansvaret etter annet og tredje ledd og utbetaling.",
+      "Manglende innbetaling av avgift for deltakelse i sammenslutningen er tvangsgrunnlag for utlegg."
+     ],
+     "endringer": [
+      "Tilføyd ved lov 21 juni 2013 nr. 74 (ikr. 1 juli 2014 iflg. res. 21 juni 2013 nr. 745)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-6",
+     "nummer": "§ 14",
+     "tittel": "Beskyttelse av bestemte områder",
+     "ledd": [
+      "Departementet kan fastsette forbud mot, pålegge flytting av eller sette andre vilkår for akvakultur dersom dette er nødvendig for å bevare områder med særlig verdi for akvatiske organismer."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kapIV",
+   "overskrift": "Kapittel IV. Arealutnyttelse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 15",
+     "tittel": "Forholdet til arealplaner og vernetiltak",
+     "ledd": [
+      "Tillatelse til akvakultur kan ikke gis i strid med:\na. vedtatte arealplaner etter plan- og bygningsloven,\nb. vedtatte vernetiltak etter kapittel V i lov 19. juni 2009 nr. 100 om forvaltning av naturens mangfold,\nc. vedtatte vernetiltak etter lov 9. juni 1978 nr. 50 om kulturminner, eller\nd. vedtatte vernetiltak etter lov 10. juni 2025 nr. 33 om vern av marin natur utenfor territorialfarvannet.",
+      "Tillatelse til akvakultur kan likevel gis dersom det foreligger samtykke fra vedkommende plan- eller vernemyndighet."
+     ],
+     "endringer": [
+      "Endret ved lover 19 juni 2009 nr. 100 (ikr. 1 juli 2009 iflg. res. 19 juni 2009 nr. 704), 27 juni 2008 nr. 71 (ikr. 1 juli 2010 iflg. res. 18 juni 2010 nr. 896, endring endret ved lov 8 mai 2009 nr. 27), 10 juni 2025 nr. 33 (i kraft 1 jan 2026 iflg. res. 10 juni 2025 nr. 966)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 16",
+     "tittel": "Interesseavveining ved arealbruk til akvakultur",
+     "ledd": [
+      "Departementet skal foreta en avveining av arealinteresser ved plassering av lokaliteter til akvakultur. Det skal særlig legge vekt på:\na. søkers behov for areal til planlagt akvakulturproduksjon,\nb. alternativ bruk av området til annen akvakultur,\nc. annen bruk av området, og\nd. verneinteresser som ikke omfattes av § 15 bokstav b og c.",
+      "Departementet kan i forskrift gi nærmere bestemmelser om bruk og plassering av lokaliteter til akvakultur.",
+      "Departementet kan i forskrift gi nærmere bestemmelser om pålegg om flytting av akvakulturanlegg innenfor et nærmere definert geografisk område dersom overordnede samfunns- og næringsmessige hensyn, herunder hensynet til fiskehelse og miljø tilsier dette. Departementet kan også i forskrift gi nærmere bestemmelser om prosedyrer for initiering og gjennomføring av prosesser med sikte på flytting, herunder prinsipper for dekning av kostnader."
+     ],
+     "endringer": [
+      "Endret ved lov 19 juni 2009 nr. 61 (ikr. 1 juli 2009 iflg. res. 19 juni 2009 nr. 695)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 17",
+     "tittel": "Utnytting og bruk av lokaliteter mv.",
+     "ledd": [
+      "Den som har akvakulturtillatelse har enerett til uttak og gjenfangst av den utsatte arten på lokaliteten.",
+      "Departementet kan i enkeltvedtak eller forskrift regulere uttak og gjenfangst av den enkelte art på lokaliteten uavhengig av bestemmelsene i lov om forvaltning av viltlevande marine ressursar.",
+      "Departementet kan i forskrift avgrense eller forby ferdsel og annen bruk av lokaliteter samt tilstøtende områder, herunder fiske etter andre arter enn den utsatte art, dersom dette er nødvendig av hensyn til akvakulturproduksjonen."
+     ],
+     "endringer": [
+      "Endret ved lov 6 juni 2008 nr. 37 (ikr. 1 jan 2009 iflg. res. 12 des 2008 nr. 1355)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kapV",
+   "overskrift": "Kapittel V. Registrering, overføring og pantsettelse av akvakulturtillatelse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 18",
+     "tittel": "Registrering av akvakulturtillatelse",
+     "ledd": [
+      "Det skal føres et register over akvakulturtillatelser (akvakulturregisteret). I registeret gis den enkelte tillatelse et eget blad.",
+      "Det skal føres dagbok over de rettsstiftelser som skal registreres.",
+      "Departementet kan gi forskrift om registreringsordningen, herunder om registreringsmyndighet, erstatningsordning, føring av dagbok mv. Departementet kan i forskrift gi nærmere bestemmelser om fylkeskommunenes oppgaver knyttet til registreringsordningen.",
+      "Reglene i lov 7. juni 1935 nr. 2 om tinglysing kapittel 2 og 3 og § 35 gjelder tilsvarende så langt de passer og ikke annet følger av bestemmelser gitt i eller i medhold av denne lov."
+     ],
+     "endringer": [
+      "Endret ved lov 9 jan 2009 nr. 4 (ikr. 1 jan 2010)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 19",
+     "tittel": "Overføring av akvakulturtillatelse",
+     "ledd": [
+      "Akvakulturtillatelse kan overføres.",
+      "Overføring av akvakulturtillatelse har ikke betydning for myndighetenes bruk av virkemidler etter denne lov.",
+      "Utleie av akvakulturtillatelser er ikke tillatt. Departementet kan i særlige tilfeller gjøre unntak fra forbudet mot utleie.",
+      "Departementet kan i forskrift gi nærmere bestemmelser om overføring av akvakulturtillatelser."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 20",
+     "tittel": "Pantsettelse av akvakulturtillatelse",
+     "ledd": [
+      "Akvakulturtillatelse kan pantsettes.",
+      "Panteretten får rettsvern ved tinglysing på tillatelsens blad i akvakulturregisteret.",
+      "Pantsettelse av akvakulturtillatelse har ikke betydning for myndighetenes bruk av virkemidler etter denne lov.",
+      "Staten har panterett foran alle andre heftelser i tillatelsen for krav på tvangsmulkt etter § 28, krav om dekning av utgifter til iverksetting etter § 29, inndragning etter § 29 a og overtredelsesgebyr etter § 30.",
+      "Departementet kan i forskrift gi nærmere bestemmelser om pantsettelse av akvakulturtillatelser, herunder om beløpsmessig begrensning av statens panterett etter fjerde ledd."
+     ],
+     "endringer": [
+      "Endret ved lov 21 juni 2013 nr. 74 (ikr. 1 juli 2013 iflg. res. 21 juni 2013 nr. 745)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kapVI",
+   "overskrift": "Kapittel VI. Generelle krav og forpliktelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 21",
+     "tittel": "Tilsyn",
+     "ledd": [
+      "Departementet bestemmer hvem som er tilsynsmyndighet etter denne lov. Tilsynsmyndigheten skal føre tilsyn med at bestemmelsene i og i medhold av denne lov blir overholdt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 22",
+     "tittel": "Faglig kompetanse",
+     "ledd": [
+      "Enhver som deltar i aktiviteter som omfattes av denne lov skal ha nødvendig faglig kompetanse for slik aktivitet.",
+      "Departementet kan i forskrift gi nærmere bestemmelser om krav til faglig kompetanse for aktiviteter som omfattes av denne lov."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-3",
+     "nummer": "§ 22 a",
+     "tittel": "Lønnsvilkår på skip",
+     "ledd": [
+      "Innehavere av akvakulturtillatelser skal sørge for at ansatte på skip som leverer tjenester til akvakulturproduksjon, ikke har dårligere lønnsvilkår enn det som følger av gjeldende landsomfattende tariffavtaler. Kongen kan gi forskrift om hvordan forpliktelsene til innehavere av akvakulturtillatelser kan oppfylles."
+     ],
+     "endringer": [
+      "Tilføyd ved lov 20 juni 2025 nr. 109 (i kraft 1 jan 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-4",
+     "nummer": "§ 23",
+     "tittel": "Systematiske kontrolltiltak",
+     "ledd": [
+      "For å sikre at krav i eller i medhold av loven overholdes kan departementet i forskrift bestemme at den som driver aktiviteter som omfattes av denne lov har plikt til å etablere og gjennomføre systematiske kontrolltiltak."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-5",
+     "nummer": "§ 24",
+     "tittel": "Opplysnings- og undersøkelsesplikt",
+     "ledd": [
+      "Etter pålegg fra tildelings- og tilsynsmyndigheten plikter enhver som søker om eller driver aktiviteter som omfattes av denne lov, å gi opplysninger, dokumenter, prøvemateriale eller annet materiale som er nødvendig for at tildelings- og tilsynsmyndigheten skal kunne utføre sine oppgaver etter loven.",
+      "Etter pålegg fra tildelings- og tilsynsmyndigheten plikter enhver som søker om eller driver aktiviteter som omfattes av denne lov å gjennomføre undersøkelser som er nødvendige for at tildelings- og tilsynsmyndigheten skal kunne utføre sine oppgaver etter loven.",
+      "Departementet kan i forskrift gi nærmere bestemmelser om opplysnings- og undersøkelsesplikten i første og annet ledd, herunder om at pliktene skal utføres jevnlig.",
+      "Departementet kan i forskrift gi bestemmelser om at den som driver aktiviteter som omfattes av denne lov, skal ha og bruke utstyr og programvare med bestemt funksjon for rapportering etter denne bestemmelsen."
+     ],
+     "endringer": [
+      "Endret ved lover 9 jan 2009 nr. 4 (ikr. 1 jan 2010), 21 juni 2013 nr. 74 (ikr. 1 juli 2013 iflg. res. 21 juni 2013 nr. 745)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-6",
+     "nummer": "§ 25",
+     "tittel": "Bistandsplikt",
+     "ledd": [
+      "Enhver som driver aktiviteter som omfattes av denne lov plikter å gi tilsynsmyndighetene adgang til områder, innretning og utstyr i tilknytning til aktiviteten, for at tilsynsmyndigheten skal kunne utføre sine oppgaver etter loven.",
+      "Enhver som driver aktiviteter som omfattes av denne lov skal stille nødvendige lokaler, utstyr, materiell, organismer og arbeidshjelp til disposisjon for utøvelse av tilsynet og ellers yte bistand for gjennomføring av tilsynsarbeidet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-7",
+     "nummer": "§ 25 a",
+     "tittel": "Utveksling av opplysninger mellom myndigheter",
+     "ledd": [
+      "Tildelings- og tilsynsmyndigheter etter denne loven kan uten hinder av taushetsplikt gi opplysninger til kontroll-, politi- eller påtalemyndigheter dersom avgivelsen har sammenheng med deres oppgaver etter loven.",
+      "Taushetsplikt for andre kontroll-, politi- eller påtalemyndigheter hindrer ikke at disse gir tilsynsmyndigheter etter denne loven opplysninger som har naturlig sammenheng med deres oppgaver etter denne loven.",
+      "Kongen kan i forskrift gi nærmere bestemmelser om utveksling av opplysninger etter denne bestemmelsen."
+     ],
+     "endringer": [
+      "Tilføyd ved lov 21 juni 2013 nr. 74 (ikr. 1 juli 2013 iflg. res. 21 juni 2013 nr. 745)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-8",
+     "nummer": "§ 26",
+     "tittel": "Gebyr og avgift",
+     "ledd": [
+      "Departementet kan gi forskrift om gebyr og avgift, for behandling av søknader og for utførelse av tilsynsarbeid i henhold til bestemmelser i eller i medhold av denne lov.",
+      "Skyldig gebyr og avgift er tvangsgrunnlag for utlegg."
+     ],
+     "endringer": [
+      "Endret ved lover 29 juni 2007 nr. 77 (ikr. 1 juli 2007 iflg. res. 29 juni 2007 nr. 756), 21 juni 2013 nr. 74 (ikr. 1 juli 2013 iflg. res. 21 juni 2013 nr. 745)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kapVII",
+   "overskrift": "Kapittel VII. Reaksjoner og sanksjoner ved overtredelse",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Overskriften endret ved lov 21 juni 2013 nr. 74 (ikr. 1 juli 2013 iflg. res. 21 juni 2013 nr. 745)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 27",
+     "tittel": "Pålegg om tiltak",
+     "ledd": [
+      "Ved overtredelse av bestemmelser gitt i eller i medhold av loven kan tilsynsmyndigheten gi pålegg om tiltak for å bringe de ulovlige forhold til opphør. Det kan fastsettes frist for gjennomføring av slike tiltak."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-2",
+     "nummer": "§ 28",
+     "tittel": "Tvangsmulkt",
+     "ledd": [
+      "For å sikre at bestemmelser gitt i eller i medhold av denne lov blir gjennomført, kan tilsynsmyndigheten fatte vedtak om løpende tvangsmulkt overfor den ansvarlige. Det kan også vedtas tvangsmulkt som forfaller for hver overtredelse. Tvangsmulkt kan vedtas samtidig med pålegg etter § 27 eller senere.",
+      "Tvangsmulkten begynner å løpe dersom den ansvarlige oversitter den frist for retting av forholdet som tilsynsmyndigheten har fastsatt i vedtaket om tvangsmulkt, og løper så lenge det ulovlige forholdet varer. Tvangsmulkt kan ikke fastsettes, og den løper heller ikke, så langt det på grunn av forhold som ikke skyldes den ansvarlige, er umulig å oppfylle eller å etterleve det pålegget som tvangsmulkten er knyttet til.",
+      "Der flere er ansvarlige etter vedtak om tvangsmulkt, hefter de ansvarlige solidarisk for betaling av tvangsmulkten. Dersom den ansvarlige for påløpt tvangsmulkt er et selskap som inngår i et konsern, hefter selskapets morselskap og morselskapet i det konsern selskapet er en del av, subsidiært for beløpet. Tvangsmulkt er tvangsgrunnlag for utlegg. Departementet kan i særlige tilfeller frafalle påløpt tvangsmulkt.",
+      "Departementet kan i forskrift gi nærmere bestemmelser om tvangsmulkt, herunder tvangsmulktens størrelse og varighet, fastsettelse av tvangsmulkt og frafall av påløpt tvangsmulkt."
+     ],
+     "endringer": [
+      "Endret ved lov 21 juni 2013 nr. 74 (ikr. 1 juli 2013 iflg. res. 21 juni 2013 nr. 745)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-3",
+     "nummer": "§ 29",
+     "tittel": "Iverksetting av tiltak for den ansvarliges regning",
+     "ledd": [
+      "Dersom fristen for å etterkomme pålegg etter § 27 er utløpt, kan tilsynsmyndigheten sørge for iverksetting av tiltakene.",
+      "Selv om det ikke er gitt pålegg etter § 27 kan tilsynsmyndigheten, dersom det er nødvendig å iverksette tiltaket straks eller det foreligger andre særlige grunner, sørge for iverksetting av tiltak for å bringe ulovlige forhold til opphør.",
+      "Utgifter til iverksetting etter første og annet ledd kan kreves dekket av den ansvarlige. Der flere er ansvarlige, hefter de ansvarlige solidarisk for utgiftene. Krav om utgifter til iverksetting er tvangsgrunnlag for utlegg.",
+      "Departementet kan i forskrift gi nærmere bestemmelser om iverksetting av tiltak, herunder om innkreving av utgiftene til iverksetting."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-4",
+     "nummer": "§ 29 a",
+     "tittel": "Administrativ inndragning av utbytte",
+     "ledd": [
+      "Tilsynsmyndigheten kan helt eller delvis inndra utbytte som er oppnådd gjennom overtredelse av bestemmelser gitt i eller i medhold av loven. Inndragning foretas overfor den som utbyttet har tilfalt. Inndragning kan bare skje så langt dette ikke vil være klart urimelig.",
+      "Dersom den som utbyttet har tilfalt er et selskap som inngår i et konsern, hefter selskapets morselskap og morselskapet i det konsern selskapet er en del av, subsidiært for beløpet.",
+      "Endelig vedtak om inndragning av utbytte er tvangsgrunnlag for utlegg. Inndratt utbytte tilfaller statskassen.",
+      "Retten kan prøve alle sider av saken. Retten kan avsi dom for realitet i saken, dersom den finner det hensiktsmessig og forsvarlig.",
+      "Departementet kan i forskrift gi nærmere bestemmelser om inndragning, herunder om standardisert eller skjønnsmessig utmåling av utbytte og fradrag for utgifter."
+     ],
+     "endringer": [
+      "Tilføyd ved lov 21 juni 2013 nr. 74 (ikr. 1 jan 2014 iflg. res. 21 juni 2013 nr. 745)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-5",
+     "nummer": "§ 30",
+     "tittel": "Overtredelsesgebyr",
+     "ledd": [
+      "Et foretak kan ilegges overtredelsesgebyr dersom foretaket eller noen som har handlet på foretakets vegne overtrer bestemmelser gitt i eller i medhold av loven. Dette gjelder selv om ansvaret for overtredelsen ikke kan rettes mot noen enkeltperson.",
+      "Ved avgjørelsen av om foretaket skal ilegges overtredelsesgebyr og ved utmålingen av gebyret kan det særlig legges vekt på:\na. overtredelsesgebyrets preventive virkning,\nb. overtredelsens grovhet,\nc. om foretaket ved internkontroll, retningslinjer, instruksjon, opplæring eller andre tiltak kunne ha forebygget overtredelsen,\nd. om overtredelsen er begått for å fremme foretakets interesser,\ne. om foretaket har hatt eller kunne oppnådd noen fordel ved overtredelsen,\nf. foretakets økonomiske evne,\ng. om det foreligger gjentakelse,\nh. hvilke tiltak som er iverksatt for å forebygge eller avbøte virkningene av overtredelsen og\ni. om overtredelsen innebærer fare for eller har ført til alvorlig eller uopprettelig miljøskade.",
+      "Dersom den ansvarlige for overtredelsesgebyret er et foretak som inngår i et konsern, hefter foretakets morselskap og morselskapet i det konsern selskapet er en del av, subsidiært for beløpet.",
+      "Overtredelsesgebyret forfaller til betaling 2 måneder fra vedtak er fattet. Endelig vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg. Dersom foretaket går til søksmål mot staten for å prøve vedtaket, suspenderes tvangskraften.",
+      "Retten kan prøve alle sider av saken. Retten kan avsi dom for realitet i saken, dersom den finner det hensiktsmessig og forsvarlig.",
+      "Adgangen til å ilegge overtredelsesgebyr foreldes 2 år etter at overtredelsen er opphørt. Fristen avbrytes ved at tilsynsmyndigheten gir forhåndsvarsel eller fatter vedtak om overtredelsesgebyr.",
+      "Departementet skal i forskrift fastsette et øvre tak for overtredelsesgebyr ilagt etter denne bestemmelsen. Departementet kan i forskrift fastsette nærmere regler om utmålingen av overtredelsesgebyr."
+     ],
+     "endringer": [
+      "Endret ved lov 21 juni 2013 nr. 74 (ikr. 1 jan 2014 iflg. res. 21 juni 2013 nr. 745)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-6",
+     "nummer": "§ 31",
+     "tittel": "Straff",
+     "ledd": [
+      "Den som forsettlig eller grovt uaktsomt vesentlig overtrer bestemmelsene gitt i eller i medhold av §§ 4, 5, 10, 12, 13, 14, 17, 19, 22, 23, 24 og 25, straffes med bøter eller fengsel inntil 1 år eller begge deler, dersom forholdet ikke rammes av strengere straffebestemmelse.",
+      "Grov overtredelse av første ledd straffes med bot eller fengsel inntil 2 år eller begge deler, om ikke strengere straffebestemmelse får anvendelse. Ved avgjørelsen av om overtredelsen er grov, skal det særlig legges vekt på om den økonomiske eller potensielle økonomiske verdien av overtredelsen er stor, om overtredelsen har skjedd systematisk og over tid, om overtredelsen har skjedd som ledd i organisert virksomhet, om overtredelsen har medført eller voldt fare for en betydelig miljøskade og om miljøskade som følge av overtredelsen er uopprettelig.",
+      "Departementet kan i forskrift gitt i medhold av denne loven fastsette at overtredelse av forskriften ikke er straffbar."
+     ],
+     "endringer": [
+      "Endret ved lover 21 juni 2013 nr. 74 (ikr. 1 juli 2013 iflg. res. 21 juni 2013 nr. 745), 19 juni 2015 nr. 65 (ikr. 1 okt 2015)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-7",
+     "nummer": "§ 31 a",
+     "tittel": "Samordning av tilsyn og reaksjoner i saker om akvakultur",
+     "ledd": [
+      "Myndighetene etter denne lov og etter lovene som er nevnt i § 6 første ledd bokstav d skal så langt det er hensiktsmessig, samordne tilsyn og ileggelse av reaksjoner eller sanksjoner ved lovbrudd innen akvakulturnæringen.",
+      "Departementet kan i forskrift gi nærmere bestemmelser om samordningen, herunder bestemmelser om varsling ved mulig reaksjons- eller sanksjonsileggelse."
+     ],
+     "endringer": [
+      "Tilføyd ved lov 21 juni 2013 nr. 74 (ikr. 1 juli 2013 iflg. res. 21 juni 2013 nr. 745)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-8",
+   "navn": "kapVIII",
+   "overskrift": "Kapittel VIII. Avsluttende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-1",
+     "nummer": "§ 32",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Loven trer i kraft 1. januar 2006."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-2",
+     "nummer": "§ 33",
+     "tittel": "Overgangsbestemmelser",
+     "ledd": [
+      "Enkeltvedtak og forskrifter gitt i medhold av lov 14. juni 1985 nr. 68 om oppdrett av fisk, skalldyr m.v. og lov 21. desember 2000 nr. 118 om havbeite videreføres."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-3",
+     "nummer": "§ 33 a",
+     "tittel": "Søksmålsfrist",
+     "ledd": [
+      "Departementet kan i forskrift bestemme at parten må reise søksmål om gyldigheten av forvaltningsvedtak med hjemmel i denne lov eller krav om erstatning som følge av vedtaket, innen seks måneder fra det tidspunkt da melding om endelig vedtak kom fram til vedkommende part. Det kan gis oppfriskning for oversittelse av fristen etter reglene i tvisteloven §§ 16-12 til 16-14."
+     ],
+     "endringer": [
+      "Tilføyd ved lov 21 juni 2013 nr. 74 (ikr. 1 juli 2013 iflg. res. 21 juni 2013 nr. 745)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-4",
+     "nummer": "§ 34",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Opphevet ved lov 21 juni 2013 nr. 74 (ikr. 1 juli 2013 iflg. res. 21 juni 2013 nr. 745)."
+     ],
+     "opphevet": "2013-07-01"
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-5",
+     "nummer": "§ 35",
+     "tittel": "Oppheving av andre lover",
+     "ledd": [
+      "Fra den tid loven her trer i kraft, oppheves lov 14. juni 1985 nr. 68 om oppdrett av fisk, skalldyr m.v. og lov 21. desember 2000 nr. 118 om havbeite."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-6",
+     "nummer": "§ 36",
+     "tittel": "Endringer i andre lover",
+     "ledd": [
+      "Fra den tid loven her trer i kraft, gjøres følgende endringer i andre lover: – – –"
+     ]
+    }
+   ]
+  }
+ ]
+}

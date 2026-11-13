@@ -1,0 +1,57 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-2000-11-27-1178",
+ "dokumentid": "DEL/forskrift/2000-11-27-1178",
+ "departement": [
+  "Samferdselsdepartementet"
+ ],
+ "etat": [
+  "Veg- og miljøavd."
+ ],
+ "kunngjort_i": "I 2000 2496",
+ "ikraft": "2000-11-27",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1963-06-21-23/§3",
+   "tekst": "lov/1963-06-21-23/§3"
+  },
+  {
+   "ref": "lov/1963-06-21-23/§7",
+   "tekst": "lov/1963-06-21-23/§7"
+  }
+ ],
+ "korttittel": "Deleg. til Vegdirektoratet etter vegloven",
+ "tittel": "Delegering av myndighet til Vegdirektoratet etter vegloven § 3 og § 7.",
+ "annet": "Fastsatt av Samferdselsdepartementet 27. november 2000 med hjemmel i veglov av 21. juni 1963 nr. 23.",
+ "refid": "forskrift/2000-11-27-1178",
+ "eli": "/eli/forskrift/2000/11/27/1178",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/2000-11-27-1178",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Samferdselsdepartementet delegerer med dette departementets myndighet til å fatte vedtak om omklassifisering etter veglov § 3 og § 7 til Vegdirektoratet i de tilfeller hvor det er lokal enighet om omklassifisering."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Vedtaket trer i kraft 27. november 2000."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,323 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2008-10-15-1214",
+ "dokumentid": "SF/forskrift/2008-10-15-1214",
+ "departement": [
+  "Kultur- og likestillingsdepartementet"
+ ],
+ "etat": [
+  "Avd. for sivilsamfunn og idrett"
+ ],
+ "kunngjort_i": "I 2008 hefte 12",
+ "ikraft": "2008-12-01",
+ "siste_endring_ikraft": "2016-04-20",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2016-04-20-401",
+   "tekst": "forskrift/2016-04-20-401"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2007-06-29-88/§21",
+   "tekst": "lov/2007-06-29-88/§21"
+  }
+ ],
+ "kunngjort": "2008-11-18 13:50",
+ "korttittel": "Forskrift om register for frivillig virksomhet",
+ "tittel": "Forskrift til lov om register for frivillig virksomhet",
+ "annet": "Hjemmel: Fastsatt av Kultur- og kirkedepartementet (nå Kulturdepartementet) 15. oktober 2008 med hjemmel i lov 29. juni 2007 nr. 88 om register for frivillig virksomhet § 21.\nEndret ved forskrifter 9 juli 2009 nr. 996, 21 juni 2010 nr. 1089, 20 april 2016 nr. 401.",
+ "refid": "forskrift/2008-10-15-1214",
+ "eli": "/eli/forskrift/2008/10/15/1214",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2008-10-15-1214",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Organisering og formål",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Organisering, lokalisering mv.",
+     "ledd": [
+      "Frivillighetsregisteret legges til Registerenheten i Brønnøysund (Brønnøysundregistrene) og føres av en registerfører utnevnt av Kongen.",
+      "Formålet med registeret er å forbedre og forenkle samhandlingen mellom frivillig virksomhet og offentlige myndigheter og å legge til rette for det offentliges politikk overfor frivillig virksomhet, men uten at dette går ut over den frivillige virksomhetens selvstendige stilling. Formålet med registeret er videre å styrke og bevare grunnlaget for frivillig virksomhet."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Meldingene til Frivillighetsregisteret",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 2",
+     "tittel": "Språk",
+     "ledd": [
+      "Dokumenter inneholdende opplysninger som danner grunnlag for registrering i Frivillighetsregisteret skal være skrevet på norsk, med mindre registerfører finner det ubetenkelig å godta opplysningene på et annet språk."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 3",
+     "tittel": "Bankkontonummer",
+     "ledd": [
+      "Enheten kan velge å registrere opplysning om sitt bankkontonummer. Enheter som ønsker å være omfattet av grasrotandelsordningen, skal registrere opplysning om sitt bankkontonummer, jf. § 2 andre ledd i forskrift 27. februar 2009 nr. 238 om grasrotandel. Enheter som velger å registrere opplysning om sitt bankkontonummer er ansvarlig for at opplysningen til enhver tid er oppdatert i Frivillighetsregisteret."
+     ],
+     "endringer": [
+      "Endret ved forskrift 9 juli 2009 nr. 996."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 4",
+     "tittel": "Kategori (Aktivitetsområde)",
+     "ledd": [
+      "Enheten skal ved melding om registrering oppgi kategori for aktivitets- og virksomhetsområde for enheten. Rapporteringen skjer i henhold til klassifikasjonsskjema utarbeidet av departementet. Registerfører har anledning til å plassere enheten i en annen kategori dersom dette følger av innsendt dokumentasjon og praksis ved kategorisering for øvrig tilsier det, jf. frivillighetsregisterloven § 13.",
+      "Enheten kan melde inntil tre kategorier. Dersom det meldes mer enn én kategori, må kategoriene rangeres i forhold til omfang.",
+      "Enheten kan også melde at den ønsker å være omfattet av grasrotandelsordningen, jf. § 2 i forskrift 27. februar 2009 nr. 238 om grasrotandel. I så fall skal det i meldingen erklæres at enheten etter den meldepliktiges oppfatning oppfyller vilkårene for å kunne delta i grasrotandelsordningen. Registerfører skal likevel kontrollere om enheten oppfyller vilkårene."
+     ],
+     "endringer": [
+      "Endret ved forskrift 9 juli 2009 nr. 996."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 4b",
+     "tittel": "Tilknytning til en gruppe enheter (Relasjonelle forhold)",
+     "ledd": [
+      "Med tilknytning til en gruppe enheter menes tilknytningsforhold mellom sentralledd og annen registreringsenhet. Annen registreringsenhet kan være regionalledd og lokalledd.",
+      "Med sentralledd menes en selvstendig juridisk person som organisatorisk og/eller gjennom vedtekter samordner regional- og/eller lokalledd med felles formål.",
+      "Med regionalledd menes en selvstendig juridisk person som organisatorisk og/eller gjennom vedtekter er tilknyttet et sentralledd, og som har ett eller flere lokalledd tilknyttet seg.",
+      "Med lokalledd menes en selvstendig juridisk person på lokalt plan som organisatorisk og/eller gjennom vedtekter har tilknytning til et sentralledd og eventuelt regionalledd.",
+      "Hvis det foreligger tilknytningsforhold til én eller flere andre registreringsenheter skal opplysning om tilknytningen meldes av sentralleddet til Frivillighetsregisteret i tråd med veileder fra registerfører. Slik oppdatering skal meldes årlig.",
+      "Registerfører skal underrette regional- og lokalledd som det registreres tilknytningsforhold til. Regional- og lokalledd kan melde sletting av opplysninger om tilknytningsforhold."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 21 juni 2010 nr. 1089."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Tilgang til registrerte opplysninger",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 5",
+     "tittel": "Avgivelse av registrerte opplysninger",
+     "ledd": [
+      "Ordinære søk i Frivillighetsregisteret skal være gratis. Det samme gjelder enkeltavgivelser av standardiserte produkter.",
+      "Registrerte opplysninger kan etter forespørsel også avgis i form av særskilte sammenstillinger eller masseavgivelse. Registerfører kan fastsette nærmere vilkår for denne type spesialavgivelse. Gebyr for slike tjenester fra Frivillighetsregisteret fastsettes i forskrift 16. desember 2003 nr. 1551 om gebyr for tjenester fra Brønnøysundregistrene."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Klage",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 6",
+     "tittel": "Klageadgang",
+     "ledd": [
+      "Registerførers vedtak kan påklages til en særskilt klagenemnd oppnevnt av departementet. Med unntak av de særbestemmelser som følger av frivilllighetsregisterloven og forskriften her, skal klagebehandlingen følge forvaltningslovens regler."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 7",
+     "tittel": "Klageorgan",
+     "ledd": [
+      "Kultur- og kirkedepartementet oppretter en uavhengig klagenemnd som er klageinstans for avgjørelser som er truffet av Frivillighetsregisteret, jf. frivillighetsregisterloven § 19.",
+      "Klagenemnda skal bestå av fem medlemmer, hvorav to fra frivillig sektor, hver med personlig oppnevnte varamedlemmer. Klagenemndas medlemmer oppnevnes av departementet. Nemndas leder skal ha bestått juridisk embetseksamen. Nemndas medlemmer oppnevnes for fire år. Gjenoppnevning kan foretas en gang. Vervet er frivillig. Suppleringer i perioden kan foretas av departementet. Departementet kan løse et medlem av nemnda fra vervet dersom medlemmet ikke har skjøttet sitt verv eller dersom vedkommende selv ber om det.",
+      "Klagenemnda kan bare treffe vedtak når den er fulltallig, med mindre annet er bestemt. Saker avgjøres ved flertallsvedtak."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Registreringsgebyr og årsavgift",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 8",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Opphevet ved forskrift 20 april 2016 nr. 401."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 9",
+     "tittel": "Registreringsgebyr",
+     "ledd": [
+      "Enheter som registreres i Frivillighetsregisteret, skal ikke betale registreringsgebyr."
+     ],
+     "endringer": [
+      "Endret ved forskrift 20 april 2016 nr. 401."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 10",
+     "tittel": "Årsavgift",
+     "ledd": [
+      "Enheter som per 1. januar 2016 og senere er registrert i Frivillighetsregisteret, skal ikke betale årsavgift."
+     ],
+     "endringer": [
+      "Endret ved forskrift 20 april 2016 nr. 401."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Frivillig rapportering av regnskapsopplysninger",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 11",
+     "tittel": "Regler for valgfri rapportering av regnskapsopplysninger til Regnskapsregisteret",
+     "ledd": [
+      "Bestemmelsene i dette kapitlet gjelder for registreringsenheter som ikke har innsendingsplikt til Regnskapsregisteret etter regnskapsloven § 8-2, men som velger å benytte seg av den frivillige adgangen til å påta seg rapporteringsplikt av regnskapsopplysninger til Regnskapsregisteret etter frivillighetsregisterloven § 7.",
+      "Med årsregnskap etter denne forskriften menes et regnskap bestående av aktivitetsregnskap, balanse og noter utarbeidet etter § 12 – § 17 nedenfor.",
+      "Årsregnskapet skal omfatte hele virksomheten til enheten. Aktivitetsregnskapet og balansen skal settes opp med sammenligningstall for fjoråret.",
+      "Kravet om at aktivitetsregnskapet og balansen skal settes opp med sammenligningstall for fjoråret gjelder ikke første gang årsregnskapet blir rapportert til Regnskapsregisteret."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 12",
+     "tittel": "Regnskapsperioden",
+     "ledd": [
+      "Regnskapsperioden skal normalt være 12 måneder og normalt følge kalenderåret. Når virksomheten begynner eller opphører kan regnskapsåret være kortere eller lengre, men høyst 18 måneder."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-3",
+     "nummer": "§ 13",
+     "tittel": "Aktivitetsregnskap",
+     "ledd": [
+      "Aktivitetsregnskapet skal ha følgende oppstillingsplan:\n1. Anskaffede midler:\na. Medlemsinntekter\nb. Tilskudd\nc. Innsamlede midler, gaver mv.\nd. Inntekter fra operasjonelle aktiviteter\ne. Finansinntekter\nf. Andre inntekter\n2. Forbrukte midler\na. Kostnader knyttet til anskaffelse av midler\nb. Kostnader knyttet til organisasjonens formål\nc. Administrasjonskostnader\n3. Årets aktivitetsresultat\n4. Tillegg/reduksjon egenkapital\na. Grunnkapital\nb. Annen egenkapital."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-4",
+     "nummer": "§ 14",
+     "tittel": "Balanse",
+     "ledd": [
+      "Balansen skal ha følgende oppstillingsplan:\n1. Eiendeler\na. Anleggsmidler\nI. Immaterielle eiendeler\nII. Bevaringsverdige eiendeler\nIII. Andre driftsmidler\nIV. Finansielle anleggsmidler\nb. Omløpsmidler\nI. Beholdinger\nII. Fordringer\nIII. Investeringer\nIV. Bankinnskudd, kontanter og lignende\n2. Egenkapital og gjeld\na. Egenkapital\nI. Grunnkapital\nII. Annen egenkapital\nb. Gjeld\nI. Avsetninger for forpliktelser\nII. Annen langsiktig gjeld\nIII. Kortsiktig gjeld."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-5",
+     "nummer": "§ 15",
+     "tittel": "Noter",
+     "ledd": [
+      "Det skal utarbeides noter som minst skal inneholde:\n1. Regnskapsprinsipper – det skal opplyses om anvendte regnskapsprinsipper, herunder prinsipper for inntektsføring om omregning av utenlandsk valuta.\n2. Opplysninger som er nødvendige for å bedømme enhetens stilling og resultat og som ikke fremgår av regnskapet for øvrig.\n3. Lønnsforhold til ledende ansatte – eventuelle ytelser til ledende ansatte og styret skal oppgis.\n4. Medlemmer – antall medlemmer ved regnskapsårets slutt skal oppgis.\n5. Antall årsverk – det skal opplyses om antall årsverk som enheten har sysselsatt i regnskapsåret."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-6",
+     "nummer": "§ 16",
+     "tittel": "Årsberetning",
+     "ledd": [
+      "Det skal utarbeides en årsberetning som minst skal inneholde:\n1. Opplysninger om arten av virksomheten og hvor virksomheten drives.\n2. En oversikt over enhetens virksomhet, aktiviteter i regnskapsåret og en redegjørelse for årsregnskapet.\n3. Forslag til anvendelse av overskudd eller dekning av tap dersom dette ikke framgår av årsregnskapet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-7",
+     "nummer": "§ 17",
+     "tittel": "Krav til språk og valuta",
+     "ledd": [
+      "Årsregnskapet skal føres i norske kroner og på norsk språk. Årsberetningen skal være på norsk."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-8",
+     "nummer": "§ 18",
+     "tittel": "Melding til Frivillighetsregisteret om rapportering av regnskap",
+     "ledd": [
+      "Registreringsenheter som benytter seg av adgangen til å rapportere regnskapsopplysninger i henhold til frivillighetsregisterlovens § 7 skal sende melding til Frivillighetsregisteret om at de har påtatt seg dette.",
+      "I meldingen må det opplyses hvilken regnskapsperiode enheten følger og dato for avholdelse av ordinært årsmøte generalforsamling eller tilsvarende."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-9",
+     "nummer": "§ 19",
+     "tittel": "Innsending til Regnskapsregisteret",
+     "ledd": [
+      "Enheter som har registrert opplysning om frivillig innsendingsplikt, skal sende årsregnskapet og årsberetningen til Regnskapsregisteret innen en måned etter at det er godkjent av årsmøtet, generalforsamlingen eller tilsvarende organ.",
+      "Årsregnskap og årsberetning må senest være sendt til Regnskapsregisteret før 1. oktober i året etter regnskapsåret. Dette gjelder for enheter med avslutningsdato i perioden 01.07.-31.12. For enheter med avslutningsdato i perioden 01.01.-30.06. er tilsvarende frist før 1. april.",
+      "Har ikke Regnskapsregisteret mottatt årsregnskap og årsberetning innen fristen, starter Frivillighetsregisteret oppfølging etter frivillighetsregisterloven § 7 jf. § 12."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-10",
+     "nummer": "§ 20",
+     "tittel": "Offentlighet",
+     "ledd": [
+      "Årsregnskapet og årsberetningen som er innsendt til og godkjent av Regnskapsregisteret er offentlige. Enhver har rett til å gjøre seg kjent med innholdet av dokumentene hos Regnskapsregisteret."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-11",
+     "nummer": "§ 21",
+     "tittel": "(Opphevet ved forskrift 21 juni 2010 nr. 1089.)",
+     "ledd": []
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-12",
+     "nummer": "§ 22",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Forskriften trer i kraft 1. desember 2008."
+     ]
+    }
+   ]
+  }
+ ]
+}

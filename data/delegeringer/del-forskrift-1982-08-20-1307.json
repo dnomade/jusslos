@@ -1,0 +1,57 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-1982-08-20-1307",
+ "dokumentid": "DEL/forskrift/1982-08-20-1307",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Adm.avd."
+ ],
+ "kunngjort_i": "I 1982 458",
+ "ikraft": "1982-08-20",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1911-08-18-8/§44a",
+   "tekst": "lov/1911-08-18-8/§44a"
+  },
+  {
+   "ref": "lov/1911-08-18-8/§45",
+   "tekst": "lov/1911-08-18-8/§45"
+  }
+ ],
+ "korttittel": "Delegering etter skatteloven",
+ "tittel": "Resolusjon om delegering av myndighet til Finansdepartementet etter skatteloven.",
+ "annet": "Fastsatt ved kgl.res. av 20. august 1982. Fremmet av Finansdepartementet.",
+ "refid": "forskrift/1982-08-20-1307",
+ "eli": "/eli/forskrift/1982/08/20/1307",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/1982-08-20-1307",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Den myndighet som er tillagt Kongen etter § 44A nr. 9 annet ledd og § 45 ellevte ledd bokstav d og fjortende ledd i skatteloven, delegeres til Finansdepartementet."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Bestemmelsen under I trer i kraft straks."
+    }
+   ]
+  }
+ ]
+}

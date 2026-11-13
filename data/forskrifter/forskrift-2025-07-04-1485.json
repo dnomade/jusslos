@@ -1,0 +1,361 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2025-07-04-1485",
+ "dokumentid": "SF/forskrift/2025-07-04-1485",
+ "departement": [
+  "Kunnskapsdepartementet"
+ ],
+ "etat": [
+  "Juridisk avdeling"
+ ],
+ "ikraft": "2025-08-01",
+ "endrer": "forskrift/2019-03-15-410",
+ "hjemmel": [
+  {
+   "ref": "lov/2024-03-08-9/§3-8",
+   "tekst": "lov/2024-03-08-9/§3-8"
+  }
+ ],
+ "kunngjort": "2025-07-08 13:15",
+ "tittel": "Forskrift om nasjonal retningslinje for fysioterapeututdanning",
+ "annet": "Hjemmel: Fastsatt av Kunnskapsdepartementet 4. juli 2025 med hjemmel i lov 8. mars 2024 nr. 9 om universiteter og høyskoler (universitets- og høyskoleloven) § 3-8 andre ledd.",
+ "refid": "forskrift/2025-07-04-1485",
+ "eli": "/eli/forskrift/2025/07/04/1485",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2025-07-04-1485",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Virkeområde og formål",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Virkeområde og formål",
+     "ledd": [
+      "Forskriften gjelder for universiteter og høyskoler som gir fysioterapeututdanning.",
+      "Forskriften gjelder for 3-årig bachelorgrad i fysioterapi.",
+      "Forskriften skal sikre et nasjonalt likeverdig faglig nivå, slik at kandidatene som uteksamineres, har en felles sluttkompetanse, uavhengig av utdanningsinstitusjon."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Formål med utdanningen",
+     "ledd": [
+      "Fysioterapeututdanningen skal utdanne kandidater med særskilt kompetanse i å undersøke kropp, bevegelse og funksjon, stille kliniske diagnoser, vurdere indikasjon for tiltak og gjennomføre og evaluere disse. Kandidaten skal ha bred kompetanse i å gjenopprette, vedlikeholde og utvikle bevegelsesutfoldelse og funksjon, for å fremme mestring, livskvalitet og deltakelse.",
+      "Kandidaten skal ha kompetanse til å ivareta mennesker fra ulike grupper i samfunnet, i alle livsfaser, med ulike funksjonsnivå og sykdomstilstander. Utdanningen skal sikre at kandidaten ivaretar menneskers individuelle behov og rett til medvirkning. I tillegg til individrettet arbeid skal fysioterapeuter bidra på gruppe- og systemnivå for å fremme folkehelsen og samfunnets bærekraft. Kandidaten skal bidra med kompetanse i tverrfaglige og målrettede samarbeidsprosesser innenfor helse- og omsorgssektoren og i andre sektorer.",
+      "Utdanningen skal også sikre kompetanse og holdninger som danner grunnlag for likeverdige tjenestetilbud for alle grupper i samfunnet, deriblant samers status som urfolk og deres rettigheter til språklige og kulturelt tilrettelagte tjenester.",
+      "Utdanningen skal bidra til at kandidaten har en tydelig profesjonsidentitet, og kan delta i utviklingen av fysioterapi som kunnskapsfelt, for å møte samfunnets eksisterende og fremtidige behov. Videre skal utdanningen kvalifisere kandidater til turnustjeneste, som er obligatorisk for å få autorisasjon som fysioterapeut. Fysioterapeuter skal kunne arbeide selvstendig, innhente bistand og henvise pasienter videre ved behov."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Kompetanseområder",
+     "ledd": [
+      "Fysioterapeututdanningen skal gi læringsutbytte i tråd med kravene i kapittel 2 til 8 under følgende kompetanseområder:\n- Kropp, bevegelse og funksjon\n- Undersøkelse, vurdering, diagnostisering og tiltak\n- Samhandling og kommunikasjon\n- Habilitering og rehabilitering\n- Etikk og kulturforståelse\n- Kritisk tenkning, kvalitetssikring og innovasjon\n- Samfunn og folkehelse.",
+      "Læringsutbyttebeskrivelsene i § 6 b, § 8 e og f, § 11 b og c, § 17 b og c, § 20 a, b, d og e, § 21 c, § 22 c, § 23 b, § 24 b og c er basert på forskrift 4. juli 2025 nr. 1478 om felles rammeplan for helse- og sosialfagutdanninger § 2, og tilpasset utdanningen."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Læringsutbytte for kompetanseområdet kropp, bevegelse og funksjon",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 4",
+     "tittel": "Kropp, bevegelse og funksjon – Kunnskap",
+     "ledd": [
+      "Kandidaten\na. har bred kunnskap om kroppens struktur, funksjon og utvikling som forutsetning for helse, aktivitet, deltakelse og mestring\nb. har bred kunnskap om bevegelsesutvikling, -læring og -kontroll\nc. har bred kunnskap om forhold som virker oppbyggende og nedbrytende på kroppen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 5",
+     "tittel": "Kropp, bevegelse og funksjon – Ferdigheter",
+     "ledd": [
+      "Kandidaten\na. kan analysere kroppsholdning, bevegelser og funksjon, og beskrive dette med presis fagterminologi\nb. kan reflektere over ulike perspektiver på kropp, helse og sykdom\nc. kan reflektere over eget og andres kroppsuttrykk."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 6",
+     "tittel": "Kropp, bevegelse og funksjon – Generell kompetanse",
+     "ledd": [
+      "Kandidaten\na. har innsikt i hvordan menneskets helse, funksjon og deltakelse påvirkes av samspillet mellom fysiologiske prosesser og personlige, sosiale, miljømessige og kulturelle forhold\nb. har kunnskap om at omsorgssvikt, vold, overgrep, rus og sosioøkonomiske ulikheter har betydning for helse."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Læringsutbytte for kompetanseområdet undersøkelse, vurdering, diagnostisering og tiltak",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 7",
+     "tittel": "Undersøkelse, vurdering, diagnostisering og tiltak – Kunnskap",
+     "ledd": [
+      "Kandidaten\na. har bred kunnskap om fysioterapeutisk undersøkelse, tiltak og evaluering\nb. har bred kunnskap om funksjonsendringer."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 8",
+     "tittel": "Undersøkelse, vurdering, diagnostisering og tiltak – Ferdigheter",
+     "ledd": [
+      "Kandidaten\na. kan analysere, tolke og forholde seg kritisk til undersøkelsesfunn, stille kliniske diagnoser som grunnlag for tiltak, og vurdere behov for å henvise videre\nb. kan bruke egen kropp og hender med tydelighet, presisjon, trygghet, varhet og respekt i undersøkelse og behandling\nc. kan anvende og tilpasse undersøkelser i møte med pasienter i alle livsfaser for å forstå deres ressurser og begrensninger\nd. kan anvende og tilpasse instruksjon og veiledning i undersøkelse og behandling\ne. kan anvende relevant kunnskap for å identifisere og følge opp mennesker som er utsatt for omsorgssvikt, vold og overgrep og henvise videre ved behov. Videre kan kandidaten samtale med barn om tema som omsorgssvikt, vold og overgrep\nf. kan anvende relevant kunnskap for å ivareta barn og unge, samt andre sårbare grupper som har behov for behandling og/eller tjenester, og sikre deres medvirkning og rettigheter\ng. kan beherske livreddende førstehjelp."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 9",
+     "tittel": "Undersøkelse, vurdering, diagnostisering og tiltak – Generell kompetanse",
+     "ledd": [
+      "Kandidaten\na. kan planlegge, gjennomføre og justere tiltak i samråd med pasient og pårørende\nb. kjenner til hjelpemidler som fremmer bevegelse og funksjon, og har innsikt i tilpasning og formidling av disse."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Læringsutbytte for kompetanseområdet samhandling og kommunikasjon",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 10",
+     "tittel": "Samhandling og kommunikasjon – Kunnskap",
+     "ledd": [
+      "Kandidaten\na. har kunnskap om helsevesenets organisering og andre profesjoners kompetanseområde som grunnlag for samarbeid\nb. har kunnskap om individets rett til autonomi, brukermedvirkning og samvalg\nc. har kunnskap om hvilke forutsetninger som ligger til grunn for god kommunikasjon."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 11",
+     "tittel": "Samhandling og kommunikasjon – Ferdigheter",
+     "ledd": [
+      "Kandidaten\na. kan reflektere over og utøve fysioterapi som relasjonell prosess\nb. kan anvende relasjons-, kommunikasjons- og veiledningskompetanse til å forstå, motivere og samhandle med brukere, pasienter og pårørende som er i lærings-, mestrings- og endringsprosesser\nc. kan anvende egen profesjonskompetanse i veiledning og tverrfaglig samhandling\nd. kan anvende digital teknologi som fremmer kommunikasjon og samhandling."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 12",
+     "tittel": "Samhandling og kommunikasjon – Generell kompetanse",
+     "ledd": [
+      "Kandidaten\na. kan formidle fysioterapifaglig kunnskap tilpasset ulike målgrupper\nb. kan utveksle faglige synspunkter med andre og delta i faglig samarbeid."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Læringsutbytte for kompetanseområdet habilitering og rehabilitering",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 13",
+     "tittel": "Habilitering og rehabilitering – Kunnskap",
+     "ledd": [
+      "Kandidaten\na. har bred kunnskap om habilitering, rehabilitering og individuell plan\nb. har kunnskap om modeller for pasientforløp og brukernes behov for koordinerte tjenester."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 14",
+     "tittel": "Habilitering og rehabilitering – Ferdigheter",
+     "ledd": [
+      "Kandidaten\na. kan anvende kunnskap om mestring, og støtte pasienter til å ta i bruk egne ressurser\nb. kan reflektere over hvordan egen og andres kompetanse kan brukes i tverrprofesjonelt samarbeid for å utvikle et brukertilpasset tjenestetilbud."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 15",
+     "tittel": "Habilitering og rehabilitering – Generell kompetanse",
+     "ledd": [
+      "Kandidaten\na. har innsikt i hvordan vedvarende funksjonsnedsettelse kan påvirke livskvalitet\nb. kan planlegge, gjennomføre og koordinere habiliterings-/rehabiliteringsprosesser, utarbeide og følge opp individuelle planer i samarbeid med pasienter, pårørende og andre aktører\nc. kan planlegge, delta i og lede samarbeid på tvers av fagmiljøer, profesjoner, sektorer, virksomheter og nivåer."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Læringsutbytte for kompetanseområdet etikk og kulturforståelse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 16",
+     "tittel": "Etikk og kulturforståelse – Kunnskap",
+     "ledd": [
+      "Kandidaten\na. har kunnskap om kulturelt betingede oppfatninger av helse, sykdom og funksjonsnedsettelser."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 17",
+     "tittel": "Etikk og kulturforståelse – Ferdigheter",
+     "ledd": [
+      "Kandidaten\na. kan anvende sentrale teorier innen etikk og kulturforståelse for å møte andre med et helhetlig menneskesyn, respekt og empati\nb. kan reflektere over maktforhold, profesjonalitet og egen rolle som yrkesutøver i møte med andre, samt vurdere og håndtere etiske problemstillinger\nc. kan anvende kunnskap om inkludering, likestilling og ikke-diskriminering og kan bidra til likeverdige tjenester for alle grupper i samfunnet uavhengig av kjønn, etnisitet, språk, religion og livssyn, funksjonsnivå, sosial bakgrunn, seksuell orientering, kjønnsidentitet, kjønnsuttrykk og alder."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-3",
+     "nummer": "§ 18",
+     "tittel": "Etikk og kulturforståelse – Generell kompetanse",
+     "ledd": [
+      "Kandidaten\na. har innsikt i at kultur og samfunnsforhold virker inn på helsepolitiske prioriteringer og fordeling av ressurser\nb. kan planlegge og gjennomføre fysioterapivirksomhet i tråd med gjeldende lovverk."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kap7",
+   "overskrift": "Kapittel 7. Læringsutbytte for kompetanseområdet kritisk tenkning, kvalitetssikring og innovasjon",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 19",
+     "tittel": "Kritisk tenkning, kvalitetssikring og innovasjon – Kunnskap",
+     "ledd": [
+      "Kandidaten\na. har kunnskap om forskningsetikk og metoder for innsamling og analyse av empirisk materiale\nb. kjenner til vitenskaps- og kunnskapsteorier med relevans for fysioterapi."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-2",
+     "nummer": "§ 20",
+     "tittel": "Kritisk tenkning, kvalitetssikring og innovasjon – Ferdigheter",
+     "ledd": [
+      "Kandidaten\na. kan tilegne seg ny kunnskap, gjøre faglige vurderinger og prioriteringer, fatte beslutninger og handle i tråd med kunnskapsbasert praksis\nb. kan anvende kunnskap om klinisk resonnering til å dokumentere, kvalitetssikre, evaluere og formidle egen praksis\nc. kan anvende relevante teoretiske perspektiver og kritisk tenkning i arbeid med faglige problemstillinger\nd. kan anvende digital kompetanse og bistå i utvikling av og bruke egnet teknologi for å fremme funksjon og deltakelse, både på individ- og systemnivå\ne. kan vurdere risiko for uønskede hendelser og behersker metoder for å følge opp dette systematisk."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-3",
+     "nummer": "§ 21",
+     "tittel": "Kritisk tenkning, kvalitetssikring og innovasjon – Generell kompetanse",
+     "ledd": [
+      "Kandidaten\na. kan planlegge og gjennomføre eget arbeid selvstendig og ansvarlig\nb. kan planlegge og gjennomføre systematiske fagutviklingsprosjekter og formidle fremgangsmåte og funn\nc. kan planlegge og delta i tjenesteinnovasjon og systematiske og kvalitetsforbedrende arbeidsprosesser. Kandidaten kan også anvende kunnskap om digital sikkerhet\nd. kan bidra til utvikling av god praksis gjennom nysgjerrighet, engasjement og kreativitet, både selvstendig og i samarbeid med andre."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-8",
+   "navn": "kap8",
+   "overskrift": "Kapittel 8. Læringsutbytte for kompetanseområdet samfunn og folkehelse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-1",
+     "nummer": "§ 22",
+     "tittel": "Samfunn og folkehelse – Kunnskap",
+     "ledd": [
+      "Kandidaten\na. har bred kunnskap om bevegelse, aktivitet og deltakelse som helsefremmende og sykdomsforebyggende tiltak\nb. har bred kunnskap om fysioterapifagets historie og utvikling, og profesjonens samfunnsoppdrag\nc. har kunnskap om kulturelle og sosiale forholds betydning for folkehelse\nd. kjenner til den helsefremmende og sykdomsforebyggende betydningen av kosthold, ernæring, hygiene og smittevern\ne. har kunnskap om samenes status som urfolk og om samenes rettigheter, særlig innenfor helse- og sosialfeltet\nf. har kunnskap om helse- og sosialpolitiske prioriteringer og beslutningsprosesser på kommunalt, regionalt og statlig nivå."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-2",
+     "nummer": "§ 23",
+     "tittel": "Samfunn og folkehelse – Ferdigheter",
+     "ledd": [
+      "Kandidaten\na. kan anvende metoder for å kartlegge miljøfaktorer og innhente informasjon om helsetilstanden i befolkningen\nb. kan anvende oppdatert kunnskap om helse- og velferdssystemet, lover, regelverk og veiledere i fysioterapeutisk fagutøvelse og virksomhet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-3",
+     "nummer": "§ 24",
+     "tittel": "Samfunn og folkehelse – Generell kompetanse",
+     "ledd": [
+      "Kandidaten\na. har innsikt i hvilken betydning meningsfylt aktivitet og arbeidsdeltakelse har for helse\nb. har innsikt i sammenhenger mellom helse, utdanning, arbeid og levekår\nc. kan planlegge og gjennomføre tiltak som fremmer god folkehelse, arbeidsinkludering og sosial deltakelse i et mangfoldig samfunn\nd. kjenner til utviklingstrekk i samfunnet med betydning for organisering av helsevesenet og utøvelse av fysioterapi."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-9",
+   "navn": "kap9",
+   "overskrift": "Kapittel 9. Studiets oppbygging og praksisstudier",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-1",
+     "nummer": "§ 25",
+     "tittel": "Studiets oppbygging",
+     "ledd": [
+      "Utdanningen skal organiseres på en måte som fremmer integrering av teori- og praksisstudier. Emnene skal bygge på hverandre og det skal stilles gradvis høyere krav til studentenes kompetanse og selvstendighet. Utdanningen skal fremstå som helhetlig ved at faglig innhold, pedagogiske virkemidler og praksisstudier kobles sammen.",
+      "Det skal være sammenheng mellom læringsutbyttebeskrivelser, læringsaktiviteter og vurderingsformer. Veiledet ferdighetstrening på utdanningsinstitusjonen skal ha en sentral plass i alle tre studieår for å sikre klinisk handlingskompetanse og personlige og praktiske ferdigheter."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-2",
+     "nummer": "§ 26",
+     "tittel": "Praksisstudier",
+     "ledd": [
+      "Praksisstudier er de delene av utdanningen som foregår i autentiske yrkessituasjoner. Praksisstudiene skal utformes slik at de sikrer at læringsutbyttet oppnås. De er obligatoriske og skal dekke minst 30 uker, hvorav to perioder bør ha en varighet på minst syv uker.",
+      "Hovedvekten av praksisstudiene skal gjennomføres i primær- og spesialisthelsetjenesten. Det bør tilrettelegges for at praksisstudier kan gjennomføres på andre relevante arenaer, som barnehage, skole, arbeidslivssektoren, frisklivssentraler eller frivillig sektor. Studentene bør møte brukere i alle aldersgrupper og gis anledning til å delta i tverrprofesjonelt samarbeid med studenter fra andre utdanninger, og med andre yrkesgrupper ved praksisstedene."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-10",
+   "navn": "kap10",
+   "overskrift": "Kapittel 10. Ikrafttredelse og overgangsordninger",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-1",
+     "nummer": "§ 27",
+     "tittel": "Ikrafttredelse, overgangsordninger og oppheving av forskrift",
+     "ledd": [
+      "Forskriften trer i kraft 1. august 2025.",
+      "Universiteter og høyskoler som tilbyr utdanningen, kan tilby eksamen etter forskrift 1. desember 2005 nr. 1375 til rammeplan for fysioterapeututdanning inntil 31. desember 2025.",
+      "Forskrift 15. mars 2019 nr. 410 om nasjonal retningslinje for fysioterapeututdanning oppheves fra 1. august 2025."
+     ]
+    }
+   ]
+  }
+ ]
+}

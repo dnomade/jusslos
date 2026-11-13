@@ -1,0 +1,72 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2023-12-12-2083",
+ "dokumentid": "SF/forskrift/2023-12-12-2083",
+ "departement": [
+  "Kunnskapsdepartementet"
+ ],
+ "etat": [
+  "Norges Handelshøyskole"
+ ],
+ "ikraft": "Frå og med eksamenar avlagt i vårsemesteret 2024 til og med eksamenar avlagt i haustsemesteret 2024",
+ "hjemmel": [
+  {
+   "ref": "lov/2005-04-01-15/§3-9",
+   "tekst": "lov/2005-04-01-15/§3-9"
+  },
+  {
+   "ref": "lov/2005-04-01-15/§8-2",
+   "tekst": "lov/2005-04-01-15/§8-2"
+  },
+  {
+   "ref": "lov/2024-03-08-9/§17-3",
+   "tekst": "lov/2024-03-08-9/§17-3"
+  }
+ ],
+ "kunngjort": "2023-12-18 15:10",
+ "tittel": "Mellombels forskrift om sensurfristar ved Norges Handelshøyskole (NHH)",
+ "annet": "Heimel: Fastsett av styret ved Norges Handelshøyskole 12. desember 2023 med heimel i lov 1. april 2005 nr. 15 om universiteter og høyskoler (universitets- og høyskoleloven) § 3-9 og § 8-2.\nTilføyd hjemmel: Lov 8. mars 2024 nr. 9 om universiteter og høyskoler (universitets- og høyskoleloven) § 17-3.",
+ "refid": "forskrift/2023-12-12-2083",
+ "eli": "/eli/forskrift/2023/12/12/2083",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2023-12-12-2083",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Område denne forskrifta gjeld for",
+   "ledd": [
+    "Forskrifta gjeld nærare oppgjevne eksamenar i bachelorstudiet i økonomi og administrasjon og for autorisasjonsprøve i oversettelse (translatøreksamen) ved Norges Handelshøyskole."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Kunngjeringsdatoar for ordinære eksamenar i bachelorstudiet i økonomi og administrasjon",
+   "ledd": [
+    "Sensur vert kunngjort seinast fire veker etter eksamensdagen i RET1 Rettslære for økonomar."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Kunngjeringsdatoar for heimeeksamen i autorisasjonsprøve i oversettelse",
+   "ledd": [
+    "Sensur vert kunngjort seinast fem veker etter eksamensdagen ved heimeeksamen i autorisasjonsprøve i oversettelse."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Ikraftsetjing m.m.",
+   "ledd": [
+    "Forskrift tek til å gjelde frå og med eksamenar avlagt i vårsemesteret 2024 og gjeld til og med eksamenar avlagt i haustsemesteret 2024. For eksamen i emne som ikkje er nemnd i forskrift, gjeld fristen på tre veker etter lov om universiteter og høyskoler.",
+    "Unntak for ordinær sensurfrist gjeld det semesteret emnet vert undervist."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-2007-12-14-1445",
+ "dokumentid": "DEL/forskrift/2007-12-14-1445",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Skattelovavd."
+ ],
+ "kunngjort_i": "I 2007 hefte 12",
+ "ikraft": "2008-01-01",
+ "siste_endring_ikraft": "2013-08-08",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2013-08-08-963",
+   "tekst": "forskrift/2013-08-08-963"
+  }
+ ],
+ "endrer": "forskrift/1992-12-09-1040",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1980-06-13-24/§4-4",
+   "tekst": "lov/1980-06-13-24/§4-4"
+  },
+  {
+   "ref": "lov/1980-06-13-24/§4-9",
+   "tekst": "lov/1980-06-13-24/§4-9"
+  }
+ ],
+ "kunngjort": "2007-12-18 15:10",
+ "korttittel": "Deleg. til Skattedir. etter ligningsloven",
+ "tittel": "Delegering av myndighet til Skattedirektoratet etter ligningsloven § 4-4 nr. 8 og § 4-9 nr. 7",
+ "annet": "Hjemmel: Fastsatt av Finansdepartementet 14. desember 2007 med hjemmel i lov 13. juni 1980 nr. 24 om ligningsforvaltning (ligningsloven) § 4-4 nr. 8 og § 4-9 nr. 7.\nEndret ved vedtak 8 aug 2013 nr. 963.",
+ "refid": "forskrift/2007-12-14-1445",
+ "eli": "/eli/forskrift/2007/12/14/1445",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/2007-12-14-1445",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Finansdepartementets myndighet etter ligningsloven § 4-4 nr. 8 og § 4-9 nr. 7 delegeres til Skattedirektoratet."
+    },
+    {
+     "type": "endring",
+     "tekst": "Endret ved vedtak 8 aug 2013 nr. 963."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Delegeringen trer i kraft 1. januar 2008 med virkning fra og med inntektsåret 2007. Med virkning fra samme tidspunkt oppheves delegeringsvedtak 9. desember 1992 nr. 1040."
+    }
+   ]
+  }
+ ]
+}

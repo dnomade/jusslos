@@ -1,0 +1,591 @@
+{
+ "skjema": "1.0",
+ "type": "lov",
+ "datokode": "LOV-2001-06-15-75",
+ "dokumentid": "NL/lov/2001-06-15-75",
+ "departement": [
+  "Landbruks- og matdepartementet"
+ ],
+ "ikraft": "2002-01-01, 2005-08-15",
+ "siste_endring_ikraft": "2015-10-01",
+ "sist_endret_ved": [
+  {
+   "ref": "lov/2015-06-19-65",
+   "tekst": "lov/2015-06-19-65 fra 2015-10-01"
+  }
+ ],
+ "endrer": "lov/1948-12-10-3",
+ "rettsomrade": [
+  "Helse- og omsorgsrett > Helsepersonell",
+  "Landbruk, jakt og skogbruk > Dyrevern. Veterinær"
+ ],
+ "siste_rettelse": "2021-08-24 (faglige fotnoter fjernet)",
+ "korttittel": "Dyrehelsepersonelloven",
+ "tittel": "Lov om veterinærer og annet dyrehelsepersonell [dyrehelsepersonelloven]",
+ "annet": "Jf. tidligere lov 10 des 1948 nr. 3.",
+ "refid": "lov/2001-06-15-75",
+ "eli": "/eli/lov/2001/06/15/75",
+ "url": "https://lovdata.no/dokument/NL/lov/2001-06-15-75",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Formål, definisjoner og virkeområde",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Lovens formål",
+     "ledd": [
+      "Lovens formål er å bidra til at dyrehelsepersonell utøver forsvarlig virksomhet og dermed bidrar til god dyrehelse, forsvarlig dyrevern, trygg mat og ivaretakelse av miljøhensyn."
+     ],
+     "endringer": [
+      "Endret ved lov 21 des 2007 nr. 132 (ikr. 1 jan 2008)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "Med dyrehelsepersonell forstås i denne loven personer som har autorisasjon eller lisens etter §§ 4 og 5 og personer som har rett til å arbeide midlertidig som dyrehelsepersonell uten norsk autorisasjon.",
+      "Med akvatiske dyr forstås i denne loven vannlevende dyr, herunder sjøpattedyr, samt kjønnsprodukter, hvile- og forplantningsstadier av vannlevende dyr."
+     ],
+     "endringer": [
+      "Endret ved lov 19 des 2008 nr. 120 (ikr. 1 jan 2009 iflg. res. 19 des 2008 nr. 1483)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Lovens virkeområde",
+     "ledd": [
+      "Loven gjelder for dyrehelsepersonell i riket.",
+      "Kongen kan gi forskrifter om lovens anvendelse på Svalbard og Jan Mayen, og kan fastsette særlige regler under hensyn til de stedlige forhold."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 3 a",
+     "tittel": "Kommunens ansvar",
+     "ledd": [
+      "Kommunene skal sørge for tilfredsstillende tilgang på tjenester fra dyrehelsepersonell.",
+      "Kommunene har ansvar for å organisere en klinisk veterinærvakt utenom ordinær arbeidstid."
+     ],
+     "endringer": [
+      "Tilføyd ved lov 21 des 2007 nr. 132 (ikr. 1 jan 2008)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Autorisasjon, lisens og andre godkjenninger",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 4",
+     "tittel": "Autorisasjon",
+     "ledd": [
+      "Rett til autorisasjon som veterinær (dyrlege) og fiskehelsebiolog har den som dokumenterer relevant eksamen ved norsk universitet eller vitenskapelig høgskole.",
+      "Rett til autorisasjon har også den som har avlagt utenlandsk eksamen som er anerkjent etter avtale om gjensidig godkjenning etter § 6.",
+      "Autorisasjon som veterinær eller fiskehelsebiolog kan også gis den som har utenlandsk eksamen som departementet anerkjenner som faglig jevngod, eller som på annen måte godtgjør å ha nødvendig kyndighet. Departementet skal først innhente uttalelser fra norsk universitet eller vitenskapelig høgskole.",
+      "Departementet kan ved forskrift fastsette at andre enn de personellgruppene som omfattes av foregående ledd, kan gis autorisasjon.",
+      "Autorisasjon gis etter søknad. Søkeren må være under 75 år og ellers være skikket.",
+      "Departementet kan gi nærmere forskrifter om praktisk tjeneste, tilleggsutdannelse og krav om skriftlig løfte som vilkår for å få autorisasjon."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 5",
+     "tittel": "Lisens",
+     "ledd": [
+      "Den som ikke fyller vilkårene for å få autorisasjon, kan i stedet gis lisens etter søknad. Departementet kan fastsette at en lisens skal være begrenset i tid, til bestemt stilling, til utførelse av praktisk tjeneste som omtalt i § 4 siste ledd, til visse undersøkelses- eller behandlingsmåter eller knyttet til andre vilkår og innskrenkninger.",
+      "Lisens kan også gis til dyrehelsepersonell med utenlandsk eksamen som er anerkjent etter avtale om gjensidig godkjenning etter § 6.",
+      "Autorisert dyrehelsepersonell som godtgjør at de er skikket til fortsatt å utøve forsvarlig virksomhet etter nådd aldersgrense, kan gis lisens.",
+      "Departementet gir nærmere forskrifter om betingelsene for å få lisens og de vilkårene som kan knyttes til den."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 6",
+     "tittel": "Internasjonale avtaler",
+     "ledd": [
+      "Autorisasjon, lisens og andre godkjenninger kan gis etter gjensidig avtale med fremmed stat.[1] Departementet kan ved forskrift gi nærmere regler om autorisasjon, lisens og godkjenninger av dyrehelsepersonell på grunnlag av utenlandske yrkeskvalifikasjoner samt kontroll, plikter og rettigheter for slikt dyrehelsepersonell."
+     ],
+     "endringer": [
+      "Endret ved lov 19 des 2008 nr. 120 (ikr. 1 jan 2009 iflg. res. 19 des 2008 nr. 1483)."
+     ],
+     "fotnoter": [
+      {
+       "nr": "1",
+       "tekst": "Jf. EØS-avtalen vedlegg VII nr. 1 (direktiv 2005/36/EF)."
+      }
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 7",
+     "tittel": "Grensepraksis",
+     "ledd": [
+      "Autoriserte veterinærer som driver praksis i Sverige og Finland i veterinærdistrikter som grenser til Norge, kan i særlige tilfeller yte veterinære tjenester i tilgrensende norsk veterinærdistrikt uten autorisasjon eller lisens fra departementet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 8",
+     "tittel": "Godkjenning av spesialister",
+     "ledd": [
+      "Departementet kan gi forskrifter om vilkår for godkjenning av spesialister innen avgrensede fagområder."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-6",
+     "nummer": "§ 9",
+     "tittel": "Myndighet til å gi autorisasjon, lisens og andre godkjenninger",
+     "ledd": [
+      "Autorisasjon, lisens og godkjenning av spesialister gis av departementet eller den departementet bemyndiger."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-7",
+     "nummer": "§ 9a",
+     "tittel": "Forholdet til tjenesteloven",
+     "ledd": [
+      "Kongen kan gi forskrift om saksbehandlingsregler til utfylling av reglene i tjenesteloven, herunder om saksbehandlingsfrist og rettsvirkninger av fristoverskridelse.",
+      "Unntak fra tjenesteloven § 11 annet ledd kan bare gjøres når det er begrunnet ut fra tvingende allmenne hensyn, herunder hensynet til privatpersoners beskyttelsesverdige interesser.",
+      "Saksbehandlingsreglene kan fravike reglene i denne loven og forvaltningsloven."
+     ],
+     "endringer": [
+      "Tilføyd ved lov 19 juni 2009 nr. 103 (ikr. 28 des 2009 iflg. res. 19 juni 2009 nr. 672)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-8",
+     "nummer": "§ 10",
+     "tittel": "Avslag på søknad om autorisasjon, lisens eller andre godkjenninger",
+     "ledd": [
+      "Dersom det foreligger forhold som gir grunnlag for tilbakekall etter § 35, kan departementet eller den departementet bemyndiger avslå søknad om autorisasjon, lisens eller spesialistgodkjenning."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-9",
+     "nummer": "§ 11",
+     "tittel": "Aldersgrense og fraskrivelse av autorisasjon, lisens og spesialistgodkjenning",
+     "ledd": [
+      "Autorisasjon, lisens og spesialistgodkjenning i medhold av denne loven opphører når innehaveren fyller 75 år, jf. § 5 tredje ledd, men retten til å benytte yrkesbetegnelsen beholdes etter nådd aldersgrense.",
+      "Autorisasjon, lisens og spesialistgodkjenning gitt i medhold av denne loven kan fraskrives ved innlevering av dokumentet til departementet."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Dyrehelsepersonells plikter og rettigheter",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 12",
+     "tittel": "Dyrehelsepersonells plikter",
+     "ledd": [
+      "Dyrehelsepersonells plikter innen sitt fagområde er\n1. å arbeide for velferd og sunnhet hos dyr, herunder viltlevende dyrebestander,\n2. å medvirke til etisk og miljømessig forsvarlig dyrehold,\n3. å verne samfunnet mot fare og skader forårsaket av dyresjukdommer eller av næringsmidler og produkter av animalsk opprinnelse."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 13",
+     "tittel": "Utøvelse av virksomhet m.m.",
+     "ledd": [
+      "Dyrehelsepersonell kan utøve slik virksomhet som utdanningen kvalifiserer til innen de rammene denne og andre relevante lover setter.",
+      "Dyrehelsepersonell har plikt til å utøve sin virksomhet på en faglig forsvarlig måte.",
+      "Departementet kan i medhold av § 5 knytte vilkår til lisens og herunder bestemme at innehaver skal være underlagt tilsyn av annet dyrehelsepersonell."
+     ],
+     "endringer": [
+      "Endret ved lov 19 des 2008 nr. 120 (ikr. 1 jan 2009 iflg. res. 19 des 2008 nr. 1483)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 14",
+     "tittel": "Nødhjelp",
+     "ledd": [
+      "Dyrehelsepersonell plikter snarest mulig etter anmodning å yte den hjelp vedkommende evner – personlig eller ved stedfortreder – når det etter tilgjengelige opplysninger må antas at øyeblikkelig hjelp er påtrengende nødvendig. Plikten faller bort ved gyldig forfall eller ved at hjelp i tide blir ytt av annet dyrehelsepersonell.",
+      "For den hjelp dyrehelsepersonell har ytt etter foregående ledd, kan hun eller han kreve en passende godtgjørelse fra staten dersom hun eller han ikke etter krav får betaling av rekvirenten eller den som har betalingsplikten. Dersom rekvirenten eller dyrehelsepersonellet selv har hjelpeplikt etter dyrevelferdsloven[1] § 4 og dyret er viltlevende eller ikke har en kjent eier eller innehaver, kan dyrehelsepersonell kreve en passende godtgjørelse fra staten for nødvendig hjelp.",
+      "Departementet kan gi forskrifter om når øyeblikkelig hjelp er påtrengende nødvendig, hva som er nødvendig hjelp, passende godtgjørelse og om andre vilkår for godtgjørelse etter denne bestemmelsen."
+     ],
+     "endringer": [
+      "Endret ved lov 19 juni 2009 nr. 97 (ikr. 1 jan 2010 iflg. res. 19 juni 2009 nr. 703)."
+     ],
+     "fotnoter": [
+      {
+       "nr": "1",
+       "tekst": "Inkurie: Loven har ikke offisiell korttittel."
+      }
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 15",
+     "tittel": "Bruk av medhjelper",
+     "ledd": [
+      "Dyrehelsepersonell kan i sin virksomhet la seg bistå av annet personell forutsatt at det gis tilstrekkelig instruksjon og føres tilsyn. Den som overlater utførelse av oppgaver til andre, skal påse at vedkommende har de kvalifikasjonene som kreves for forsvarlig utførelse av oppgavene.",
+      "Departementet kan gi nærmere forskrifter om dyrehelsepersonells bruk av medhjelper."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 16",
+     "tittel": "Bruk av beskyttet tittel",
+     "ledd": [
+      "Bare den som har autorisasjon, lisens eller spesialistgodkjenning i medhold av denne loven, har rett til å benytte slik tittel som er fastsatt for vedkommende gruppe av dyrehelsepersonell. Unntak gjøres for veterinærer som har rett til å arbeide midlertidig som dyrehelsepersonell uten norsk autorisasjon.",
+      "Dyrehelsepersonell som ikke er veterinærer, men som har rett til å arbeide midlertidig som dyrehelsepersonell uten norsk autorisasjon, skal benytte sine utenlandske titler.",
+      "Andre må ikke benytte titler eller annonsere virksomhet på en slik måte at det gir eller er egnet til å gi inntrykk av at vedkommende har en bestemt autorisasjon, lisens eller spesialistgodkjenning."
+     ],
+     "endringer": [
+      "Endret ved lov 19 des 2008 nr. 120 (ikr. 1 jan 2009 iflg. res. 19 des 2008 nr. 1483)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-6",
+     "nummer": "§ 17",
+     "tittel": "Rekvirering av legemidler til dyr",
+     "ledd": [
+      "Bare veterinærer kan rekvirere reseptpliktige legemidler til dyr.",
+      "Uten hinder av første ledd kan fiskehelsebiologer rekvirere reseptpliktige legemidler til akvatiske dyr, unntatt sjøpattedyr.",
+      "Departementet kan helt eller delvis forby rekvirering av bestemte legemidler til dyr. Den samme retten har det departementet som helselovgivningen hører under.",
+      "Det departementet som helselovgivningen hører under gir alminnelige bestemmelser om utstedelse av resept og kan fastsette at resept på spesielt nevnte legemidler skal oppbevares på apotek til ettersyn for dyrehelsemyndighetene som ledd i offentlig tilsyn med forsvarlig virksomhet.",
+      "Apotek som har grunn til å tro at dyrehelsepersonell misbruker bedøvende midler eller rekvirerer legemidler det er forbud mot å rekvirere, skal uten hinder av sin taushetsplikt gi melding om dette til dyrehelsemyndighetene.",
+      "Departementet kan gi nærmere forskrifter om rekvirering forbeholdt dyrehelsepersonell med spesialkompetanse, og om rekvirering til bruk i eget praksisområde."
+     ],
+     "endringer": [
+      "Loven trådte ikr. 1 jan 2002, men med unntak for § 17 annet ledd, som trådte ikr. 15 aug 2005 iflg. vedtak 12 juli 2005 nr. 820."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-7",
+     "nummer": "§ 18",
+     "tittel": "Om medisinsk behandling av dyr og bruk av bestemte metoder m.m.",
+     "ledd": [
+      "Bare den som er veterinær kan\n1. behandle dyr som det er grunn til å tro er angrepet av smittsom sjukdom eller som har sjukdom hvis behandling krever veterinærmedisinsk kyndighet,\n2. nytte undersøkelses- og behandlingsmetoder som krever spesiell kyndighet i forbindelse med diagnostisering, forebygging og behandling av sjukdom hos dyr. Til slike metoder regnes operative inngrep, injeksjoner og annen perforering av hud eller slimhinne,\n3. iverksette fullstendig eller lokal bedøvelse,\n4. bruke reseptpliktige legemidler til behandling av dyr,\n5. forestå kjøttkontroll.",
+      "Fiskehelsebiologene kan behandle smittsomme og andre sjukdommer etter bestemmelsene i første ledd, punktene 1-4, men bare hos akvatiske dyr unntatt sjøpattedyr.",
+      "Bestemmelsene i denne paragrafen er ikke til hinder for at dyrehelsepersonell kan nytte medhjelper jf. § 15. Dyreeier kan etter instruksjon fra dyrehelsepersonell foreta medisinsk behandling av egne dyr med legemidler som kun er beregnet brukt av dyrehelsepersonell. Departementet kan gi forskrifter om bruk av legemidler på dyr.",
+      "Departementet kan i forskrift fastsette nærmere regler for immobilisering av dyr. Uten hinder av første ledd pkt. 3 kan departementet tillate at andre enn veterinær kan utføre dette i spesielle tilfeller."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-8",
+     "nummer": "§ 19",
+     "tittel": "Tillatelse til eller forbud mot bruk av bestemte metoder etc.",
+     "ledd": [
+      "Departementet kan ved forskrift fastsette at nærmere bestemte hjelpemidler og undersøkelses- og behandlingsmetoder bare kan nyttes av dyrehelsepersonell.",
+      "Departementet kan ved forskrift fastsette at spesielle hjelpemidler og undersøkelses- og behandlingsmetoder bare kan nyttes av dyrehelsepersonell etter særskilt tillatelse fra departementet. Departementet kan forby bruk av bestemte undersøkelses- og behandlingsmetoder."
+     ],
+     "endringer": [
+      "Endret ved lov 19 des 2008 nr. 120 (ikr. 1 jan 2009 iflg. res. 19 des 2008 nr. 1483)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-9",
+     "nummer": "§ 20",
+     "tittel": "Hovedregel om taushetsplikt",
+     "ledd": [
+      "Dyrehelsepersonell og deres medhjelpere skal hindre at andre får adgang eller kjennskap til opplysninger som han eller hun har fått i sin virksomhet om\n1. noens personlige forhold eller\n2. driftsmessige forhold som det vil være av konkurransemessig betydning å hemmeligholde av hensyn til den som opplysningene angår.",
+      "Vedkommende kan heller ikke utnytte slike opplysninger i egen virksomhet eller i tjeneste eller arbeid for andre.",
+      "Også enhver annen som omhandles i denne lov, har taushetsplikt om opplysninger nevnt i første ledd, i den grad vedkommende har fått kjennskap til opplysningene gjennom dyrehelsepersonell."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-10",
+     "nummer": "§ 21",
+     "tittel": "Begrensninger i taushetsplikten",
+     "ledd": [
+      "Taushetsplikten etter § 20 er ikke til hinder for\n1. at opplysninger gjøres kjent for den opplysningene direkte gjelder, eller for andre i den grad den som har krav på taushetsplikt, samtykker,\n2. at opplysninger gis den som fra før er kjent med opplysningene,\n3. at opplysninger gis når ingen berettiget interesse tilsier hemmelighold,\n4. at opplysninger gis videre når behovet for beskyttelse må anses ivaretatt ved at individualiserende kjennetegn er utelatt,\n5. at opplysninger gis videre når tungtveiende private eller offentlige interesser gjør det rettmessig å gi opplysningene videre, eller\n6. at opplysningene gis videre etter regler fastsatt i lov eller i medhold av lov når det er uttrykkelig fastsatt eller klart forutsatt at taushetsplikt ikke skal gjelde."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-11",
+     "nummer": "§ 22",
+     "tittel": "Opplysninger til dyreeier",
+     "ledd": [
+      "Dyrehelsepersonell skal uoppfordret gi dyreeieren eller dennes representant, opplysninger om undersøkelsesmetoder, diagnoser og aktuelle behandlingsalternativer og prognose. Videre skal eieren informeres om mulig risiko og bivirkning som undersøkelsen eller behandlingen medfører. Dersom det i tilknytning til undersøkelsen eller behandlingen oppstår skade eller komplikasjoner, skal dyreeieren informeres om dette. Opplysninger skal gis i en forståelig form og ut fra dyreeierens forutsetninger."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-12",
+     "nummer": "§ 23",
+     "tittel": "Forsvarlig virksomhet",
+     "ledd": [
+      "Dyrehelsepersonell plikter å utøve sin virksomhet forsvarlig og skal herunder\n1. holde sine relevante faglige ferdigheter og kunnskaper ved like,\n2. være bevisst egne faglige begrensninger,\n3. sikre kvaliteten på sine tjenester og påse at virksomheten og tjenestene planlegges og utføres i samsvar med allment aksepterte faglige og etiske normer og krav fastsatt i medhold av lov eller forskrift,\n4. dersom pasientenes tilstand krever spesiell behandling som en ikke behersker selv, henvise dyreeieren til annet dyrehelsepersonell som har nødvendig kyndighet og utstyr og\n5. gjøre seg kjent med de reglene som gjelder og følge de bestemmelsene som er gitt for utøvelse av egen virksomhet.",
+      "Departementet kan gi forskrifter med nærmere krav til hvordan virksomheter skal drives."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-13",
+     "nummer": "§ 24",
+     "tittel": "Om ordnede opptegnelser, meldinger, rapporter og innsyn i journal",
+     "ledd": [
+      "Dyrehelsepersonell plikter å melde fra til offentlige veterinærmyndigheter om bostedsadresse, om de driver privat virksomhet og om utgangspunktet for denne virksomheten.",
+      "Dyrehelsepersonell skal føre ordnede opptegnelser over sin virksomhet. Opptegnelsene skal føres i samsvar med god yrkesskikk og skal inneholde fullstendige opplysninger om pasienter og deres behandling, samt opplysninger som er nødvendige for å oppfylle melde- og rapporteringsplikten etter tredje ledd. Opptegnelsene kan kreves framlagt som bevis i en rettssak eller administrativ sak om vedkommendes virksomhet.",
+      "Dyrehelsepersonell skal avgi de rapportene og meldingene som offentlige dyrehelsemyndigheter bestemmer.",
+      "Dyrehelsepersonell skal gi dyrehelsemyndighetene adgang til virksomhetens lokaler og gi alle de opplysningene som anses påkrevet for utøvelsen av tilsyn med dyrehelsepersonells virksomhet. Dyrehelsepersonell skal, uten hinder av taushetsplikten, utlevere de dokumenter, lyd- og bildeopptak og lignende som kreves av tilsynsmyndigheten.",
+      "En dyreeier har rett til selv eller ved en representant han utpeker å gjøre seg kjent med egne dyrs journal med vedlegg. Etter anmodning har dyrehelsepersonell plikt til å låne ut eller utlevere journal med vedlegg til annen dyreklinikk eller annet dyrehelsepersonell når dette anses nødvendig for videre behandling av pasient.",
+      "Departementet kan gi forskrifter om bestemmelsene i denne paragrafen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-14",
+     "nummer": "§ 25",
+     "tittel": "Sikkerhetsstillelse",
+     "ledd": [
+      "Dyrehelsepersonell som vil utøve privat virksomhet, skal stille sikkerhet for det ansvar de kan pådra seg i sin virksomhet. Forsikringen skal også omfatte skade voldt av eventuelle arbeidstakere.",
+      "Departementet kan gi nærmere forskrifter om hvor stor sikkerhet som bør kreves."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-15",
+     "nummer": "§ 26",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Opphevet ved lov 21 des 2007 nr. 132 (ikr. 1 jan 2008)."
+     ],
+     "opphevet": "2008-01-01"
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-16",
+     "nummer": "§ 27",
+     "tittel": "Beordring i krisesituasjoner",
+     "ledd": [
+      "I alvorlige krisesituasjoner kan departementet, eller den departementet bemyndiger, pålegge praktiserende dyrehelsepersonell plikt til å utføre offentlige tjenester etter avtalt godtgjørelse. Beordringen skal være for så kort tid som mulig. Plikten faller bort ved gyldig forfall."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-17",
+     "nummer": "§ 28",
+     "tittel": "Utstedelse av faglige attester og erklæringer",
+     "ledd": [
+      "En attestutsteder må være varsom, nøyaktig og objektiv. Dokumentet skal være korrekt og bare inneholde opplysninger som er nødvendige for formålet. Dyrehelsepersonell som er inhabile etter forvaltningsloven § 6, skal ikke utstede attest eller lignende erklæring."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-18",
+     "nummer": "§ 29",
+     "tittel": "Bortfall av rett til å utøve virksomhet der dyrehelsepersonell opptrer som apoteker eller apotekbestyrer",
+     "ledd": [
+      "Dyrehelsepersonell med rekvireringsrett til legemidler, har ikke rett til å utøve sin virksomhet i den tid vedkommende er apoteker eller apotekbestyrer."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Det veterinærmedisinske rettsråd",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 30",
+     "tittel": "Rådets oppnevning og sammensetning",
+     "ledd": [
+      "Det oppnevnes et veterinærmedisinsk rettsråd med 7 medlemmer, som med personlige varamedlemmer oppnevnes av departementet for en periode på 5 år. Leder og nestleder oppnevnes av departementet. Ett av medlemmene med varamedlem skal være jurist. Av de øvrige seks medlemmene skal fire være dyrehelsepersonell i vitenskapelige stillinger innen relevante fagområder og to har erfaring fra klinisk praksis. De to sistnevnte oppnevnes etter forslag fra yrkesorganisasjonene. Ved oppnevningen skal det tas hensyn til at de forskjellige grenene av veterinærmedisinen blir best mulig representert.",
+      "Rådet kan innhente uttalelser fra eller tilkalle sakkyndige når den nødvendige kompetansen ikke finnes blant rådets medlemmer.",
+      "Departementet tilsetter rådets sekretær."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 31",
+     "tittel": "Rådets oppgaver",
+     "ledd": [
+      "Rådet skal være rådgiver for veterinærmyndighetene i disiplinærsaker, saker om forsvarlig virksomhet og saker av veterinærmedisinsk art. Rådet kan også ta opp saker av eget tiltak.",
+      "Rådet skal stå til disposisjon for retten, påtalemyndigheten, offentlige forsvarere og oppnevnte sakkyndige i veterinærmedisinske spørsmål og dyrevern i forbindelse med sivile saker og straffesaker.",
+      "Rådet kan avgi uttalelser og foreta undersøkelser for forsikringsselskaper og andre i saker om forsikring av dyr, dyrehelsepersonells ansvar, handelstvister og andre saker av veterinærmedisinsk eller dyrevernmessig art.",
+      "Departementet kan fastsette nærmere bestemmelser om arbeidsform og ytterligere arbeidsoppgaver."
+     ],
+     "endringer": [
+      "Endret ved lover 19 des 2003 nr. 129 (ikr. 1 jan 2004 iflg. res. 19 des 2003 nr. 1792), 19 juni 2009 nr. 97 (ikr. 1 jan 2010 iflg. res. 19 juni 2009 nr. 703)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 32",
+     "tittel": "Rådets innsynsrett i journaler m.v.",
+     "ledd": [
+      "Dyrehelsepersonells journal med vedlegg og øvrige dokumenter om saker som behandles av Det veterinærmedisinske rettsråd, skal på forespørsel forelegges rådet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 33",
+     "tittel": "Godtgjørelse",
+     "ledd": [
+      "Rådets leder, medlemmer og sekretær, samt tilkalte sakkyndige gis godtgjørelse etter satser fastsatt av departementet."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Straff og andre sanksjoner",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 34",
+     "tittel": "Advarsel",
+     "ledd": [
+      "Departementet eller den departementet bemyndiger kan gi advarsel til dyrehelsepersonell som forsettlig eller uaktsomt overtrer plikter etter denne loven eller bestemmelser gitt i medhold av den, hvis pliktbruddet er egnet til å medføre fare for sikkerheten i dyrehelsetjenesten eller til å påføre dyreeier store belastninger og dyr unødig lidelse. Tilsvarende gjelder hvis dyrehelsepersonell har utvist atferd som er egnet til å svekke tilliten til deres yrkesgruppe. Advarsel er enkeltvedtak etter forvaltningsloven."
+     ],
+     "endringer": [
+      "Endret ved lov 19 des 2003 nr. 129 (ikr. 1 jan 2004 iflg. res. 19 des 2003 nr. 1792)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 35",
+     "tittel": "Tilbakekall og suspensjon av autorisasjon, lisens eller andre godkjenninger",
+     "ledd": [
+      "Autorisasjon, lisens eller spesialistgodkjenning gitt i medhold av denne loven, kan av departementet kalles tilbake dersom innehaver er uskikket til å utøve sitt yrke på grunn av alvorlig sinnslidelse, psykisk eller fysisk svekkelse, langt fravær fra yrket, misbruk av alkohol, bruk av narkotika eller midler med lignende virkning, grov mangel på faglig innsikt, uforsvarlig virksomhet eller ved grove pliktbrudd etter denne loven, eller forskrift gitt i medhold av den. I forbindelse med vurderingen, kan departementet pålegge vedkommende å la seg undersøke av relevant fagpersonell.",
+      "Autorisasjon, lisens eller spesialistgodkjenning kan også kalles tilbake dersom innehaveren tross advarsel unnlater å innrette seg etter lov- eller forskriftsbestemte krav.",
+      "Autorisasjon, lisens eller annen godkjenning gitt på grunnlag av tilsvarende godkjenning i en annen stat kan kalles tilbake dersom godkjenningen taper sin gyldighet i vedkommende stat.",
+      "Istedenfor fullstendig tilbakekall kan autorisasjon, lisens eller andre godkjenninger begrenses til utøvelse av bestemt virksomhet. Til slikt vedtak kan det knyttes vilkår.",
+      "Dersom det er skjellig grunn til å anta at det foreligger grunnlag for tilbakekall kan departementet suspendere autorisasjon, lisens og andre godkjenninger, i den utstrekning det finnes nødvendig.",
+      "Ved tilbakekall, begrensning eller suspensjon av autorisasjon, lisens eller spesialistgodkjenninger skal det gis melding til godkjennende myndighet i annen stat hvor det er kjent at vedkommende utøver virksomhet, dersom dette er nødvendig for å oppfylle en internasjonal overenskomst."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 36",
+     "tittel": "Tap av rekvireringsrett",
+     "ledd": [
+      "Dersom en veterinærs eller fiskehelsebiologs rekvirering og bruk av legemidler til dyr er uforsvarlig eller i strid med lov eller forskrift gitt med hjemmel i lov, kan departementet helt eller delvis frata vedkommende retten til rekvirering og bruk av bestemte legemidler for en bestemt tid eller for alltid.",
+      "Hvis departementet finner det forsvarlig, kan det etter søknad gi tilbake retten før utløpet av den tid som er fastsatt.",
+      "En veterinær kan selv gi bindende avkall på retten til å rekvirere enkelte legemidler for en bestemt tid eller for alltid."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-4",
+     "nummer": "§ 37",
+     "tittel": "Straff",
+     "ledd": [
+      "Den som forsettlig eller uaktsomt overtrer denne loven eller bestemmelser gitt i medhold av den, straffes med bøter eller fengsel i inntil 3 måneder. Når det gjelder overtredelse av § 18 eller bestemmelser gitt i medhold av § 18, kan straffen under særdeles skjerpende omstendigheter forhøyes til inntil 6 måneders fengsel."
+     ],
+     "endringer": [
+      "Endret ved lover 4 juli 2003 nr. 78, 19 juni 2015 nr. 65 (ikr. 1 okt 2015)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-5",
+     "nummer": "§ 37 a",
+     "tittel": "Avgift og gebyr",
+     "ledd": [
+      "Kongen kan i forskrifter pålegge enhver omfattet av denne loven å betale gebyr for å dekke kostnader ved tilsyn, kontroll og særskilte ytelser, som utferdigelse av attester og godkjenninger mv., etter loven her.",
+      "Kongen kan i forskrifter pålegge virksomheter omfattet av lov om matproduksjon og mattrygghet mv. (matloven) å betale en avgift på næringsmidler som skal dekke kostnader ved tilsyn og kontroll etter loven her i den utstrekning aktivitetene retter seg mot dyr som brukes til produksjon av næringsmidler, såfremt kostnadene ikke dekkes ved gebyr i medhold av første ledd.",
+      "Kongen kan i forskrifter pålegge produsenter eller importører å betale en avgift på fôr til dyr som ikke brukes til produksjon av næringsmidler. Avgiften skal dekke kostnader ved tilsyn og kontroll etter loven her i den utstrekning aktivitetene retter seg mot dyr som ikke brukes til produksjon av næringsmidler, såfremt kostnadene ikke dekkes ved gebyr i medhold av første ledd.",
+      "Kongen kan gi nærmere bestemmelse om avgiftenes og gebyrenes beregning, oppkreving og innbetaling.",
+      "Ved forsinket betaling av avgifter og gebyrer, skal det betales rente i samsvar med lov 17. desember 1976 nr. 100 om renter ved forsinket betaling.",
+      "Avgifter og gebyrer er tvangsgrunnlag for utlegg."
+     ],
+     "endringer": [
+      "Tilføyd ved lov 19 des 2003 nr. 129 (ikr. 1 jan 2004 iflg. res. 19 des 2003 nr. 1792)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Avsluttende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 38",
+     "tittel": "Ikrafttreden",
+     "ledd": [
+      "Denne loven trer i kraft fra den tid Kongen bestemmer.[1] Samtidig oppheves lov 10. desember 1948 nr. 3 om veterinærer m.v.",
+      "Bestemmelsene i § 17 annet ledd om fiskehelsebiologers rett til rekvirering av legemidler gjelder ikke før det tidspunkt departementet bestemmer.[2]"
+     ],
+     "fotnoter": [
+      {
+       "nr": "1",
+       "tekst": "Fra 1 jan 2002 iflg. res. 15 juni 2001 nr. 711, med unntak av § 17 (2), som trådte ikr. 15 aug 2005 iflg. vedtak 12 juli 2005 nr. 820."
+      },
+      {
+       "nr": "2",
+       "tekst": "Fra 15 aug 2005 iflg. vedtak 12 juli 2005 nr. 820."
+      }
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 39",
+     "tittel": "Overgangsordninger",
+     "ledd": [
+      "Forskrifter o.l. gitt med hjemmel i lov 10. desember 1948 nr. 3 om veterinærer m.v. gjelder i den utstrekning de ikke strider mot loven her eller forskrifter fastsatt med hjemmel i loven her.",
+      "Den som ved lovens ikrafttredelse har autorisasjon og spesialistgodkjenning som dyrehelsepersonell, beholder sin autorisasjon og spesialistgodkjenning etter denne loven.",
+      "Departementet kan fastsette forskrifter med overgangsbestemmelser."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-3",
+     "nummer": "§ 40",
+     "tittel": "Endringer i andre lover",
+     "ledd": [
+      "I lov 20. desember 1974 nr. 73 om dyrevern gjøres følgende endringer: – – –"
+     ]
+    }
+   ]
+  }
+ ]
+}

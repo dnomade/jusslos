@@ -1,0 +1,203 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2022-06-13-1005",
+ "dokumentid": "SF/forskrift/2022-06-13-1005",
+ "departement": [
+  "Justis- og beredskapsdepartementet"
+ ],
+ "etat": [
+  "Politiavdelingen"
+ ],
+ "ikraft": "2023-01-01",
+ "siste_endring_ikraft": "2026-06-26",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2026-06-26-1396",
+   "tekst": "forskrift/2026-06-26-1396"
+  }
+ ],
+ "endrer": "forskrift/2009-12-23-1890",
+ "hjemmel": [
+  {
+   "ref": "lov/2008-05-15-35/§107a",
+   "tekst": "lov/2008-05-15-35/§107a"
+  },
+  {
+   "ref": "forskrift/2009-10-09-1260",
+   "tekst": "forskrift/2009-10-09-1260"
+  },
+  {
+   "ref": "forskrift/2009-12-18-1582",
+   "tekst": "forskrift/2009-12-18-1582"
+  }
+ ],
+ "kunngjort": "2022-06-13 15:10",
+ "tittel": "Forskrift om tilsynsrådet for tvangsreturer og utlendingsinternatet",
+ "annet": "Hjemmel: Fastsatt av Justis- og beredskapsdepartementet 13. juni 2022 med hjemmel i lov 15. mai 2008 nr. 35 om utlendingers adgang til riket og deres opphold her § 107a, jf. delegeringsvedtak 9. oktober 2009 nr. 1260 og omorganiseringsvedtak 18. desember 2009 nr. 1582.\nEndret ved forskrift 26 juni 2026 nr. 1396.",
+ "refid": "forskrift/2022-06-13-1005",
+ "eli": "/eli/forskrift/2022/06/13/1005",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2022-06-13-1005",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Formål og definisjoner",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Tilsynsrådets oppgaver",
+     "ledd": [
+      "Tilsynsrådet skal føre tilsyn med\na. driften av Politiets utlendingsinternat og særskilt tilrettelagte innkvarteringssteder\nb. at behandlingen av utlendinger som oppholder seg på steder som nevnt i bokstav a er i samsvar med utlendingsloven § 107 og utlendingsinternatforskriften\nc. tvangsreturer, jf. Europaparlaments- og rådsdirektiv 2008/115/EF artikkel 8 nummer 6, med unntak av retur av personer som nevnt i direktivet artikkel 2 nr. 2."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Definisjoner og avgrensning",
+     "ledd": [
+      "Med tvangsreturer menes uttransport av utlendinger uten gyldig oppholdsgrunnlag i Norge eller Schengenområdet som ikke returnerer frivillig og som det brukes tvangstiltak mot.",
+      "Tilsynsordningen omfatter tvangsreturer gjennomført med rutefly, nasjonalt chartret fly og charterfly i regi av Det europeiske grense- og kystvaktbyrå.",
+      "Tilsynet med tvangsreturer gjelder fra avhenting av utlendingen og frem til overlevering er gjennomført."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Oppnevning av tilsynsrådet og krav til opplæring",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 3",
+     "tittel": "Oppnevning",
+     "ledd": [
+      "Departementet oppnevner leder, nestleder, medlemmer og varamedlemmer av tilsynsrådet for en funksjonstid på to år. Tilsynsrådets leder bør være eller ha vært dommer. Leder må uansett fylle kravene til å være dommer. Samtlige medlemmer må fylle kravene til meddommere i domstolloven § 70 annet ledd nr. 1 til 3 og 5. Medlemmene bør ikke gjenoppnevnes mer enn to ganger."
+     ],
+     "endringer": [
+      "Endret ved forskrift 26 juni 2026 nr. 1396."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 4",
+     "tittel": "Krav til opplæring",
+     "ledd": [
+      "De av medlemmene av tilsynsrådet som skal føre tilsyn med tvangsreturer skal ha gjennomført opplæring i samsvar med godkjente europeiske standarder."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Generelle bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 5",
+     "tittel": "Tilsynsrådets uavhengighet",
+     "ledd": [
+      "Tilsynsrådet skal være uavhengig i sitt arbeid, og kan ikke instrueres om sin oppgaveløsning, lovtolkning eller skjønnsutøvelse. Departementet kan likevel instruere skriftlig om omfanget av tilsynsarbeidet og prioritering av særskilte problemstillinger av generell karakter."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 6",
+     "tittel": "Tilsynsrådets krav på opplysninger og tilgang til steder",
+     "ledd": [
+      "Tilsynsrådet kan kreve de opplysninger og adgang til de steder som er nødvendige for at det kan gjennomføre sine tilsynsoppgaver. Personalet på stedet skal bistå slik at tilsynsrådet kan utføre tilsynsoppgavene."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 7",
+     "tittel": "Taushetsplikt",
+     "ledd": [
+      "Forvaltningslovens regler om taushetsplikt gjelder for tilsynsrådets virksomhet. Taushetsplikten omfatter også forhold av betydning for sikkerheten ved utlendingsinternatet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 8",
+     "tittel": "Politiets plikter ved tilsyn med tvangsreturer",
+     "ledd": [
+      "Politiet har ansvar for den praktiske tilretteleggingen for tilsynsrådets tilstedeværelse under tvangsreturen, og skal i forkant overlevere de opplysningene som er nødvendige for at tilsynsrådet skal kunne ivareta sine oppgaver."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 9",
+     "tittel": "Rapportering",
+     "ledd": [
+      "Ved utgangen av hvert år sender tilsynsrådet årsmelding for tilsynet med tvangsreturer, Politiets utlendingsinternat og særskilt tilrettelagte innkvarteringssteder til Politiets utlendingsenhet. Tilsynsrådet kan også ta opp særskilte tema i egne meldinger. Meldingene videresendes Politidirektoratet sammen med uttalelse fra sjefen for Politiets utlendingsenhet. Tilsynsrådets årsmelding skal offentliggjøres.",
+      "Tilsynsrådet skal i tillegg rapportere løpende fra tilsyn med tvangsreturer. Rapportene sendes Politiets utlendingsenhet."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Gjennomføring av tilsyn",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 10",
+     "tittel": "Tilsyn med utlendingsinternatet og særskilt tilrettelagte innkvarteringssteder",
+     "ledd": [
+      "Tilsyn skal gjennomføres minst to ganger pr. år. Tilsynsrådet skal selv planlegge og gjennomføre sin virksomhet.",
+      "Tilsyn kan være varslet på forhånd eller skje uanmeldt.",
+      "Tilsynsrådets medlemmer har rett til å snakke med utlendingen dersom utlendingen selv ønsker det, og uten at personale er til stede. Tilsynsrådets medlemmer har rett til å delta på møter om utlendingen og kan få innsyn i saksdokumentene hvis vedkommende utlending samtykker.",
+      "Tilsynsrådet kan ta opp saker etter henvendelse fra utlending eller på eget initiativ. Sakene skal søkes løst på utlendingsinternatet. Dersom dette ikke fører frem eller rådet av andre årsaker finner grunn til det, kan saken tas opp med overordnet myndighet.",
+      "Det skal ved utlendingsinternatet føres en tilsynsprotokoll hvor det nedtegnes opplysninger om tilsynsbesøk, herunder varighet og forhold tilsynsrådet har merknader til.",
+      "Bestemmelsen gjelder tilsvarende for tilsyn med særskilt tilrettelagte innkvarteringssteder så langt den passer."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 11",
+     "tittel": "Tilsyn med tvangsreturer",
+     "ledd": [
+      "Tilsynsrådet skal føre tilsyn med om tvangsreturer blir gjennomført etter de nasjonale og internasjonale lover og retningslinjer som gjelder for uttransport, herunder for bruk av makt og maktmidler. Det skal ikke føres tilsyn med retur av personer som nevnt i Europaparlaments- og rådsdirektiv 2008/115/EF artikkel 2 nr. 2.",
+      "Tilsynet kan omfatte hele eller deler av tvangsreturen. Tilsynsrådet foretar selv utvelgelse av hvilke returer som skal følges innenfor eventuelle rammer gitt i medhold av § 5, og om tilsynet skal omfatte hele eller deler av uttransporten."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Ikraftsetting",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 12",
+     "tittel": "Ikraftsetting",
+     "ledd": [
+      "Forskriften trer i kraft 1. januar 2023. Fra samme tidspunkt oppheves forskrift 23. desember 2009 nr. 1890 om Politiets utlendingsinternat § 17."
+     ]
+    }
+   ]
+  }
+ ]
+}

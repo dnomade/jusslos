@@ -1,0 +1,187 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-1989-08-11-802",
+ "dokumentid": "SF/forskrift/1989-08-11-802",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "etat": [
+  "Maritim avd."
+ ],
+ "kunngjort_i": "I 1989 759",
+ "ikraft": "1989-08-11",
+ "siste_endring_ikraft": "2016-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2015-12-17-1735",
+   "tekst": "forskrift/2015-12-17-1735 fra 2016-01-01"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1987-06-12-48/§4",
+   "tekst": "lov/1987-06-12-48/§4"
+  },
+  {
+   "ref": "forskrift/2015-03-27-310",
+   "tekst": "forskrift/2015-03-27-310"
+  }
+ ],
+ "siste_rettelse": "2016-04-08 (§ 4 andre og tredje ledd tilbakeført)",
+ "korttittel": "Forskrift om fartsområde for lasteskip i NIS",
+ "tittel": "Forskrift om fartsområde for lasteskip registrert i norsk internasjonalt skipsregister (NIS)",
+ "annet": "Hjemmel: Fastsatt av kgl.res. 11. august 1989 i medhold av lov av 12. juni 1987 nr. 48 om norsk internasjonalt skipsregister § 4 annet ledd. Fremmet av Utenriksdepartementet .\nTilføyd hjemmel: Delegeringsvedtak 27. mars 2015 nr. 310.\nEndret ved forskrifter 1 jan 2014 nr. 238, 8 okt 2015 nr. 1170, 17 des 2015 nr. 1735.\nRettelser: 08.04.2016 (§ 4 andre og tredje ledd tilbakeført).",
+ "refid": "forskrift/1989-08-11-802",
+ "eli": "/eli/forskrift/1989/08/11/802",
+ "url": "https://lovdata.no/dokument/SF/forskrift/1989-08-11-802",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "Kapittel I. Generelle bestemmelser",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Overskrift tilføyd ved forskrift 8 okt 2015 nr. 1170 (i kraft 1 jan 2016)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Anvendelse",
+     "ledd": [
+      "Denne forskrift kommer til anvendelse på lasteskip registrert i norsk internasjonalt skipsregister, unntatt fartøyer som omfattes av forskrift 30. juni 1987 nr. 579 om særskilt fartsområde for fartøyer og flyttbare innretninger i petroleumsvirksomhet registrert i norsk internasjonalt skipsregister."
+     ],
+     "endringer": [
+      "Endret ved forskrift 8 okt 2015 nr. 1170 (i kraft 1 jan 2016)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Svalbard",
+     "ledd": [
+      "Skip som omfattes av denne forskrift tillates å føre last mellom havner på Svalbard og mellom Svalbard og fastlandet, uavhengig av bestemmelsene i kapittel II."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 8 okt 2015 nr. 1170 (i kraft 1 jan 2016)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "Kapittel II. Utvidet fartsområde for lasteskip registrert i norsk internasjonalt skipsregister",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Overskrift tilføyd ved forskrift 8 okt 2015 nr. 1170 (i kraft 1 jan 2016), endret ved forskrift 17 des 2015 nr. 1735 (i kraft 1 jan 2016)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 3",
+     "tittel": "Utvidelse av fartsområde for lasteskip",
+     "ledd": [
+      "Lasteskip der en vesentlig del av skipets virksomhet skjer utenfor norske farvann, tillates å føre last mellom norske havner når dette skjer\na. som del av en regulær rute mellom norsk og utenlandsk havn; eller\nb. som frakt av petroleum[1] i bulk fra innretning på norsk kontinentalsokkel; eller\nc. leilighetsvis i inntil 3 måneder.",
+      "Sjøfartsdirektoratet fører kontroll med at betingelsene etterleves."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 8 okt 2015 nr. 1170 (i kraft 1 jan 2016), 17 des 2015 nr. 1735 (i kraft 1 jan 2016)."
+     ],
+     "fotnoter": [
+      {
+       "nr": "1",
+       "tekst": "Jf. petroleumsloven § 1-6 a)."
+      }
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 4",
+     "tittel": "Utvidelse av fartsområdet for spesielle lasteskip",
+     "ledd": [
+      "Utover den utvidelse av fartsområde som følger av § 3, tillates lasteskip som er bygget eller utrustet for å transportere spesielle typer last, å føre slik last mellom norske havner, når skipet er på vei til eller fra utenlandsk havn og frakten ikke er ledd i et fast ruteopplegg. Skipsfører må være norsk statsborger eller statsborger fra land som omfattes av EØS-avtalen. Det er et vilkår at slik transport fører til en rasjonell utnyttelse av den tonnasje som er tilgjengelig, og ikke medfører uønskede konsekvenser for skip registrert i det ordinære skipsregisteret.",
+      "Et skip anses å være på vei til eller fra utenlandsk havn også når det fører last mellom norske havner i tillegg til en havn for å losse last fra utlandet og en havn for å ta ombord last fra utlandet.",
+      "Et skip kan ikke føre last mellom norske havner i medhold av denne forskrift før meddelelse er gitt fra Sjøfartsdirektoratet om at skipet er oppført på listen nevnt i § 5."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 8 okt 2015 nr. 1170 (i kraft 1 jan 2016, tidligere § 2), 17 des 2015 nr. 1735 (i kraft 1 jan 2016)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 5",
+     "tittel": "Liste over spesielle lasteskip som kan føre last mellom norske havner",
+     "ledd": [
+      "Sjøfartsdirektoratet skal føre en liste over spesielle lasteskip som kan føre last mellom norske havner i medhold av § 4. Oppføring på listen skjer når\n- det ikke innen en slik frist som direktoratet setter, kommer begrunnede innvendinger om at vilkårene i § 4 første ledd siste punktum ikke er oppfylt\n- skipet ikke tidligere under samme eier har vært brukt i strid med lovens § 4 eller bestemmelsene i denne forskrift, og\n- direktoratet ellers finner at vilkårene er til stede.",
+      "Listen skal gi opplysning om for hvilket tidsrom og hvilke laste- og lossehavner skipet har annet fartsområde enn det som følger av lovens § 4 første ledd, samt om hvilken type last det fører i dette fartsområdet.",
+      "Skip oppført på listen skal strykes ved eierskifte eller når det ikke lenger fyller vilkårene for oppføring, eller når det har vært brukt i strid med lovens § 4 eller bestemmelsene i denne forskrift."
+     ],
+     "endringer": [
+      "Endret ved forskrift 8 okt 2015 nr. 1170 (i kraft 1 jan 2016, tidligere § 3), 17 des 2015 nr. 1735 (i kraft 1 jan 2016)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 6",
+     "tittel": "Fremgangsmåte ved oppføring på listen",
+     "ledd": [
+      "For at et skip kan føres opp på listen nevnt i § 5, må Sjøfartsdirektoratet være gitt opplysninger som viser at vilkårene i § 4 første ledd er oppfylt, og som kreves for at det kan føres opp på listen.",
+      "Oppføring på listen skal forelegges skipsfartsnæringens organisasjoner til uttalelse. Det samme gjelder senere stryking av listen etter § 5 tredje ledds annet og tredje strykingsalternativ.",
+      "Sjøfartsdirektoratet fastsetter nærmere retningslinjer for fremgangsmåten ved oppføring på listen."
+     ],
+     "endringer": [
+      "Endret ved forskrift 8 okt 2015 nr. 1170 (i kraft 1 jan 2016, tidligere § 4), 17 des 2015 nr. 1735 (i kraft 1 jan 2016)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kapIII",
+   "overskrift": "Kapittel III. Straff og ikrafttredelse",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Overskrift tilføyd ved forskrift 8 okt 2015 nr. 1170 (i kraft 1 jan 2016), endret ved forskrift 17 des 2015 nr. 1735 (i kraft 1 jan 2016)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 7",
+     "tittel": "Straff.",
+     "ledd": [
+      "Den som forsettlig eller grovt uaktsomt overtrer bestemmelsene i denne forskrift straffes med bøter i medhold av lov 12. juni 1987 nr. 48 om norsk internasjonalt skipsregister § 11, såfremt strengere straff ikke kommer til anvendelse i medhold av annen lovbestemmelse.",
+      "Ved overtredelser kan vedkommende departement bestemme at skipet skal slettes av registeret, jfr. lov av 12. juni 1987 nr. 48 § 12 annet ledd."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 8 okt 2015 nr. 1170 (i kraft 1 jan 2016, tidligere § 5), 17 des 2015 nr. 1735 (i kraft 1 jan 2016)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 8",
+     "tittel": "Ikrafttreden.",
+     "ledd": [
+      "Denne forskrift trer i kraft straks."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 8 okt 2015 nr. 1170 (i kraft 1 jan 2016), 17 des 2015 nr. 1735 (i kraft 1 jan 2016, tidligere § 7)."
+     ]
+    }
+   ]
+  }
+ ]
+}

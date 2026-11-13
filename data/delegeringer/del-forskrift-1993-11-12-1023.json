@@ -1,0 +1,66 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-1993-11-12-1023",
+ "dokumentid": "DEL/forskrift/1993-11-12-1023",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "kunngjort_i": "Avd I 1993 Nr. 18",
+ "ikraft": "1994-01-01",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1993-06-11-66/§1",
+   "tekst": "lov/1993-06-11-66/§1"
+  },
+  {
+   "ref": "lov/1993-06-11-66/§3",
+   "tekst": "lov/1993-06-11-66/§3"
+  }
+ ],
+ "korttittel": "Ikrafttr. av pristiltaksloven",
+ "tittel": "Ikrafttredelse av lov 11. juni 1993 nr. 66 om pristiltak. Delegering av myndighet.",
+ "annet": "Fastsatt ved kgl.res. 12. november 1993. Fremmet av Administrasjonsdepartementet.",
+ "refid": "forskrift/1993-11-12-1023",
+ "eli": "/eli/forskrift/1993/11/12/1023",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/1993-11-12-1023",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Lov 11. juni 1993 nr. 66 om pristiltak trer i kraft 1. januar 1994."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Kongens myndighet til å treffe vedtak etter pristiltaksloven § 1 og § 3 første ledd annet punktum overføres til Administrasjonsdepartementet."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kapIII",
+   "overskrift": "III",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Disse bestemmelser trer i kraft straks."
+    }
+   ]
+  }
+ ]
+}

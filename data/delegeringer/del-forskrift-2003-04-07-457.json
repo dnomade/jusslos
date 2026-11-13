@@ -1,0 +1,54 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-2003-04-07-457",
+ "dokumentid": "DEL/forskrift/2003-04-07-457",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Skattelovavd."
+ ],
+ "kunngjort_i": "I 2003 hefte 6",
+ "ikraft": "2003-04-07",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1902-05-22-10/§79",
+   "tekst": "lov/1902-05-22-10/§79"
+  }
+ ],
+ "kunngjort": "2003-04-15",
+ "korttittel": "Deleg. til SI etter straffeloven",
+ "tittel": "Delegering av myndighet til Statens innkrevingssentral etter straffeloven § 79 fjerde ledd.",
+ "annet": "Fastsatt av Finansdepartementet 7. april 2003 med hjemmel i Almindelig borgerlig Straffelov (Straffeloven) av 22. mai 1902 nr. 10 § 79 fjerde ledd.",
+ "refid": "forskrift/2003-04-07-457",
+ "eli": "/eli/forskrift/2003/04/07/457",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/2003-04-07-457",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Finansdepartementets myndighet etter Almindelig borgerlig Straffelov (Straffeloven) av 22. mai 1902 nr. 10 § 79 fjerde ledd delegeres til Statens innkrevingssentral for så vidt gjelder påtale etter straffeloven § 343 andre ledd. Delegeringen gjelder i saker der trekk er pålagt av Statens innkrevingssentral og staten er fornærmet."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Vedtaket trer i kraft straks."
+    }
+   ]
+  }
+ ]
+}

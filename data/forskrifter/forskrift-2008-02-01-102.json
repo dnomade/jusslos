@@ -1,0 +1,114 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2008-02-01-102",
+ "dokumentid": "SF/forskrift/2008-02-01-102",
+ "departement": [
+  "Samferdselsdepartementet"
+ ],
+ "etat": [
+  "Luftfartstilsynet"
+ ],
+ "kunngjort_i": "I 2008 hefte 2",
+ "ikraft": "2008-02-01",
+ "siste_endring_ikraft": "2008-10-13",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2008-10-13-1103",
+   "tekst": "forskrift/2008-10-13-1103"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1993-06-11-101/§4-1",
+   "tekst": "lov/1993-06-11-101/§4-1"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§15-4",
+   "tekst": "lov/1993-06-11-101/§15-4"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§16-1",
+   "tekst": "lov/1993-06-11-101/§16-1"
+  },
+  {
+   "ref": "forskrift/1999-12-10-1273",
+   "tekst": "forskrift/1999-12-10-1273"
+  },
+  {
+   "ref": "forskrift/2001-04-06-321",
+   "tekst": "forskrift/2001-04-06-321"
+  }
+ ],
+ "kunngjort": "2008-02-08 14:20",
+ "korttittel": "Forskrift om støyemisjon fra luftfartøy",
+ "tittel": "Forskrift om støyemisjon fra luftfartøy",
+ "annet": "Hjemmel: Fastsatt av Luftfartstilsynet 1. februar 2008 med hjemmel i lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven) § 4-1, § 15-4 og § 16-1, jf. delegeringsvedtak 10. desember 1999 nr. 1273 og delegeringsvedtak 6. april 2001 nr. 321.\nEØS-henvisninger: EØS-avtalen vedlegg XIII nr. 66e (direktiv 2006/93/EF).\nEndret ved forskrift 13 okt 2008 nr. 1103.",
+ "refid": "forskrift/2008-02-01-102",
+ "eli": "/eli/forskrift/2008/02/01/102",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2008-02-01-102",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Formål",
+   "ledd": [
+    "Denne forskriften har som formål å regulere bruken av sivile subsoniske jetfly i tråd med reglene i § 3."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Virkeområde",
+   "ledd": [
+    "(1) Forskriften gjelder for luftfartøy med høyeste tillatte startvekt 34 000 kg eller mer, eller som har mer enn 19 passasjerseter. Seter forbeholdt besetningen holdes utenom.",
+    "(2) Forskriften gjelder ikke for Svalbard."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Hovedregel om støybegrensning",
+   "ledd": [
+    "Alle sivile subsoniske jetfly som opereres fra norske lufthavner, skal oppfylle normene i bind 1, del II, kapittel 3 i bilag 16 til konvensjonen om sivil luftfart (Chicago-konvensjonen), andre utgave (1988). Dette gjelder også fly på utenlandsk register."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Unntak",
+   "ledd": [
+    "Luftfartøy av historisk interesse kan etter søknad til Luftfartstilsynet unntas fra hovedregelen i § 3.",
+    "I forbindelse med innvilgelse av unntak etter 1. ledd, underretter Luftfartstilsynet EFTA Surveillance Authority (ESA) samt de ansvarlige myndigheter i EØS-området. Unntak skal begrunnes.",
+    "Norske myndigheter anerkjenner unntak som en annen EU/EØS-stat har gjort for luftfartøy registrert i denne statens register.",
+    "Luftfartstilsynet kan, etter søknad, i enkelttilfeller gi tillatelse til at luftfartøy som ikke kan opereres på grunnlag av bestemmelser i denne forskriften, likevel opereres fra norske lufthavner. Slike unntak er begrenset til:\na. luftfartøyer, hvis bruk er så spesiell at det ville være urimelig å nekte et midlertidig unntak.\nb. Luftfartøy som utfører ikke-inntektsbringende flyvninger med henblikk på endring, reparasjon eller vedlikehold."
+   ],
+   "endringer": [
+    "Endret ved forskrift 13 okt 2008 nr. 1103."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Overtredelse",
+   "ledd": [
+    "Bruk av luftfartøy i strid med denne forskriften, straffes i henhold til luftfartslovens § 14-29."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Denne forskriften trer i kraft straks."
+   ]
+  }
+ ]
+}

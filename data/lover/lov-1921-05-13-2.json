@@ -1,0 +1,48 @@
+{
+ "skjema": "1.0",
+ "type": "lov",
+ "datokode": "LOV-1921-05-13-2",
+ "dokumentid": "NL/lov/1921-05-13-2",
+ "departement": [
+  "Justis- og beredskapsdepartementet"
+ ],
+ "siste_endring_ikraft": "1979-06-08",
+ "sist_endret_ved": [
+  {
+   "ref": "lov/1979-06-08-38",
+   "tekst": "lov/1979-06-08-38"
+  }
+ ],
+ "rettsomrade": [
+  "Stats-, statsforfatnings- og statsborgerrett > Kongehuset"
+ ],
+ "siste_rettelse": "2021-09-28 (faglige fotnoter fjernet, struktur)",
+ "korttittel": "Lov om Kongens myndighetsalder",
+ "tittel": "Lov om Kongens myndighetsalder",
+ "refid": "lov/1921-05-13-2",
+ "eli": "/eli/lov/1921/05/13/02",
+ "url": "https://lovdata.no/dokument/NL/lov/1921-05-13-2",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": null,
+   "ledd": [
+    "Det fylte 18de år skal være Kongens myndighetsalder."
+   ],
+   "endringer": [
+    "Endret ved lover 7 feb 1969 nr. 6, 8 juni 1979 nr. 38."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": null,
+   "ledd": [
+    "Lov av 18 juli 1815, hvorved Kongens myndighetsalder bestemmes, opheves."
+   ]
+  }
+ ]
+}

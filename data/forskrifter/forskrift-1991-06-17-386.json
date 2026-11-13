@@ -1,0 +1,84 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-1991-06-17-386",
+ "dokumentid": "SF/forskrift/1991-06-17-386",
+ "departement": [
+  "Helse- og omsorgsdepartementet"
+ ],
+ "etat": [
+  "Helsedir. kontinentalsokkelkontor"
+ ],
+ "kunngjort_i": "I 1991 329",
+ "ikraft": "1991-10-01",
+ "siste_endring_ikraft": "2002-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2001-08-31-1016",
+   "tekst": "forskrift/2001-08-31-1016 fra 2002-01-01"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1996-11-29-72/§12-1",
+   "tekst": "lov/1996-11-29-72/§12-1"
+  },
+  {
+   "ref": "lov/1985-03-22-11/§57",
+   "tekst": "lov/1985-03-22-11/§57"
+  },
+  {
+   "ref": "forskrift/1985-06-28-1215/§23",
+   "tekst": "forskrift/1985-06-28-1215/§23"
+  }
+ ],
+ "korttittel": "Forskrift om hygiene i petroleumsvirksomheten",
+ "tittel": "Forskrift om hygieniske forhold m.v. for innretninger i petroleumsvirksomheten.",
+ "annet": "Fastsatt av Sosialdepartementet og Helsedirektoratet 17. juni 1991 med hjemmel i § 57 i lov av 22. mars 1985 nr. 11 om petroleumsvirksomhet jfr. § 23 i forskrift av 28. juni 1985 nr. 1215 om sikkerhet m.v. til lov om petroleumsvirksomhet og Sosialdepartementets delegeringsskriv av 5. september 1985 og 18. mars 1991 nr. 209., Forskriften opphevet fra 1 jan 2002, jf forskrift 31 aug 2001 nr. 1016, med unntak av kap. III.",
+ "refid": "forskrift/1991-06-17-386",
+ "eli": "/eli/forskrift/1991/06/17/386",
+ "url": "https://lovdata.no/dokument/SF/forskrift/1991-06-17-386",
+ "innhold": [
+  {
+   "type": "tekst",
+   "tekst": "---"
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapIII",
+   "overskrift": "Kap. III. Drikkevann.",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 12",
+     "tittel": "Alminnelige krav til drikkevann",
+     "ledd": [
+      "Drikkevann må være hygienisk betryggende og dessuten være klart, uten framtredende lukt, smak og farge, og tilgjengelig i tilstrekkelige mengder.",
+      "Departementet kan gi utfyllende forskrifter om krav til drikkevann og drikkevannsanlegg."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 13",
+     "tittel": "Kontroll av drikkevann",
+     "ledd": [
+      "Det skal utføres løpende kontroll av drikkevann. Til det skal det finnes nødvendig laboratorieutstyr."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 14",
+     "tittel": "Krav til personell",
+     "ledd": [
+      "Det personell som skal føre vedlikehold og kontroll med drikkevann og drikkevannsanlegg, må ha nødvendige og tilfredstillende faglige kvalifikasjoner."
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,166 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2022-10-27-1806",
+ "dokumentid": "SF/forskrift/2022-10-27-1806",
+ "departement": [
+  "Energidepartementet"
+ ],
+ "etat": [
+  "Energi- og vannressursavdelingen"
+ ],
+ "ikraft": "2022-11-01 – 2027-06-01",
+ "siste_endring_ikraft": "2025-12-15",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2025-12-15-2591",
+   "tekst": "forskrift/2025-12-15-2591"
+  }
+ ],
+ "hjemmel": [
+  {
+   "ref": "lov/1990-06-29-50/§4-1",
+   "tekst": "lov/1990-06-29-50/§4-1"
+  },
+  {
+   "ref": "lov/1990-06-29-50/§10-6",
+   "tekst": "lov/1990-06-29-50/§10-6"
+  }
+ ],
+ "kunngjort": "2022-10-28 15:25",
+ "tittel": "Midlertidig forskrift om bruk av flaskehalsinntekter",
+ "annet": "Hjemmel: Fastsatt av Olje- og energidepartementet 27. oktober 2022 med hjemmel i lov 29. juni 1990 nr. 50 om produksjon, omforming, overføring, omsetning, fordeling og bruk av energi m.m. (energiloven) § 4-1 og § 10-6.\nEndret ved forskrifter 7 des 2023 nr. 1974, 11 des 2024 nr. 3053, 15 des 2025 nr. 2591.",
+ "refid": "forskrift/2022-10-27-1806",
+ "eli": "/eli/forskrift/2022/10/27/1806",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2022-10-27-1806",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Generelle bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Formål",
+     "ledd": [
+      "Formålet med forskriften er å etablere en midlertidig ordning for omfordeling av flaskehalsinntekter mellom budområder internt i Norge og fra mellomlandsforbindelsen til Storbritannia fra Statnett SF til regionale og lokale nettselskaper for å redusere sannsynligheten for økt nettleie på grunn av høye kraftpriser."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "I denne forskrift forstås:\na. Nettselskap: Omsetningskonsesjonær som eier overføringsnett eller har ansvar for nettjenester.\nb. Mottaker: Nettselskap med inntektsramme som får rett til utbetaling etter fastsettelse i § 5.\nc. Flaskehalsinntekter: Flaskehalsinntekter mellom budområder internt i Norge og fra mellomlandsforbindelsen til Storbritannia."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Forskriften gjelder flaskehalsinntekter mellom budområder internt i Norge og fra mellomlandsforbindelsen til Storbritannia som er opparbeidet fra 1. januar 2022 til 31. desember 2026."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 7 des 2023 nr. 1974, 11 des 2024 nr. 3053, 15 des 2025 nr. 2591."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Fastsettelse av beløp til utbetaling",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 4",
+     "tittel": "Rapportering",
+     "ledd": [
+      "Statnett SF skal så snart som mulig og senest innen 7 dager etter at forskriften trer i kraft, rapportere summen av flaskehalsinntekter tilgjengelig for utbetaling for de første tre kvartalene i 2022 og for siste kvartal 2022 til Reguleringsmyndigheten for energi.",
+      "For 2023, 2024, 2025 og 2026 skal Statnett SF rapportere summen av flaskehalsinntekter tilgjengelig for utbetaling innen 14 dager før inngangen av hvert kvartal.",
+      "Rapporteringen av tilgjengelig beløp skal basere seg på en helhetlig vurdering av Statnett SFs inntekter og kostnader over tid, hvor målet er at flaskehalsinntekter som ikke er nødvendige for å dekke Statnett SFs kostnader, bør overføres til underliggende nett. Overførte flaskehalsinntekter skal ikke overstige Statnett SFs merinntekt."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 7 des 2023 nr. 1974, 11 des 2024 nr. 3053, 15 des 2025 nr. 2591."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 5",
+     "tittel": "Vedtak om utbetaling",
+     "ledd": [
+      "Reguleringsmyndigheten for energi fastsetter ved enkeltvedtak et beløp som skal utbetales fra Statnett SF til hver mottaker.",
+      "Beløp til utbetaling fastsettes basert på en helhetlig vurdering av inntekter og kostnader over tid hvor målet er at alle flaskehalsinntekter som ikke er nødvendige for å dekke Statnett SF sine kostnader, bør overføres til underliggende nett. Overførte flaskehalsinntekter skal ikke overstige Statnett SF sin merinntekt. Beløpet som utbetales beregnes og fordeles mellom mottakerne på følgende måte:\na. Det beregnes et nettapsvolum og en kraftpris for hvert av nettselskapene for beregningsperioden. Beregningsperioden regnes fra årets start til utgangen av kvartalet det beregnes en utbetaling for. Årlig nettapsvolum er identisk med det som inngår i inntektsrammen for det aktuelle året, og dette skal fordeles per måned ved bruk av tabell 12824 Elektrisitetsbalanse fra Statistisk sentralbyrå. Kraftprisen baserer seg på faktiske områdespotpriser, og terminpriser der faktisk kraftpris ikke er tilgjengelig. Den beregnede kraftprisen korrigeres for tilskudd som allerede er utbetalt.\nb. Reguleringsmyndigheten for energi beregner en terskelpris for å motta utbetaling, slik at beløpene som samlet utbetales er lik beløpet som er tilgjengelig for utbetaling fra Statnett SF. Terskelprisen kan ikke være lavere enn 350 kr/MWh.\nc. Nettselskaper med beregnet kraftpris over terskelprisen mottar utbetaling tilsvarende deres nettapsvolum multiplisert med differansen mellom deres kraftpris og terskelpris.",
+      "Mottakere skal sende faktura til Statnett SF med krav om utbetaling.",
+      "Utbetalingen skal inngå i beregningen av mer-/mindreinntekt som en reduksjon av Statnetts faktiske inntekt. Utbetalingen skal inngå som en del av mottakers faktiske inntekt etter forskrift om økonomisk og teknisk rapportering, inntektsramme for nettvirksomheten og tariffer."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Øvrige bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 6",
+     "tittel": "Pålegg",
+     "ledd": [
+      "Reguleringsmyndigheten for energi kan gi de pålegg som er nødvendige for gjennomføring av denne forskrift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 7",
+     "tittel": "Overtredelsesgebyr",
+     "ledd": [
+      "Reguleringsmyndigheten for energi kan ilegge overtredelsesgebyr ved overtredelse av § 4."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 8",
+     "tittel": "Dispensasjon",
+     "ledd": [
+      "Reguleringsmyndigheten for energi kan i særlige tilfeller dispensere fra denne forskrift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 9",
+     "tittel": "Klage",
+     "ledd": [
+      "Vedtak fattet av Reguleringsmyndigheten for energi kan påklages til Energiklagenemnda i medhold av forvaltningsloven § 28."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 10",
+     "tittel": "Varighet",
+     "ledd": [
+      "Forskriften trer i kraft 1. november 2022 og oppheves 1. juni 2027."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 7 des 2023 nr. 1974, 11 des 2024 nr. 3053, 15 des 2025 nr. 2591."
+     ]
+    }
+   ]
+  }
+ ]
+}

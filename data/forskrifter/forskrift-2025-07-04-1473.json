@@ -1,0 +1,330 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2025-07-04-1473",
+ "dokumentid": "SF/forskrift/2025-07-04-1473",
+ "departement": [
+  "Kunnskapsdepartementet"
+ ],
+ "etat": [
+  "Juridisk avdeling"
+ ],
+ "ikraft": "2025-08-01",
+ "endrer": "forskrift/2020-01-03-24",
+ "hjemmel": [
+  {
+   "ref": "lov/2024-03-08-9/§3-8",
+   "tekst": "lov/2024-03-08-9/§3-8"
+  }
+ ],
+ "kunngjort": "2025-07-07 16:10",
+ "tittel": "Forskrift om nasjonal retningslinje for klinisk ernæringsfysiologutdanning",
+ "annet": "Hjemmel: Fastsatt av Kunnskapsdepartementet 4. juli 2025 med hjemmel i lov 8. mars 2024 nr. 9 om universiteter og høyskoler (universitets- og høyskoleloven) § 3-8 andre ledd.",
+ "refid": "forskrift/2025-07-04-1473",
+ "eli": "/eli/forskrift/2025/07/04/1473",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2025-07-04-1473",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Virkeområde og formål",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Virkeområde og formål",
+     "ledd": [
+      "Forskriften gjelder for universiteter og høyskoler som gir klinisk ernæringsfysiologutdanning.",
+      "Forskriften gjelder for fullført masterutdanning i klinisk ernæring som kvalifiserer til autorisasjon som klinisk ernæringsfysiolog. Mastergrad i klinisk ernæring kan oppnås enten gjennom femårig integrert utdanning, eller studieløp organisert som bachelor- og mastergrad som samlet gir tilsvarende læringsutbytte.",
+      "Forskriften skal sikre et nasjonalt likeverdig faglig nivå, slik at kandidatene som uteksamineres har en felles sluttkompetanse, uavhengig av utdanningsinstitusjon."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Formål med utdanningen",
+     "ledd": [
+      "Formålet med klinisk ernæringsfysiologutdanning er å utdanne kandidater som er kvalifisert til å forebygge, utrede, diagnostisere og behandle ernæringsrelaterte tilstander og sykdommer til personer i alle aldre og livsfaser.",
+      "Utdanningen skal sikre at kandidaten har klinisk og basalmedisinsk kunnskap, kompetanse om grunnleggende og klinisk ernæring, samt kompetanse innen kostholds- og ernæringsforskning.",
+      "Kandidaten skal kunne arbeide systematisk med ernæringsproblemstillinger og være kompetent til å kritisk vurdere, formidle og omsette ernæringskunnskap til enkeltpersoner og grupper, annet helsepersonell, beslutningstakere og media.",
+      "I tillegg skal kandidaten ha gode kommunikasjons- og samhandlingsevner og ha forståelse for sin rolle i tverrprofesjonell samhandling i tjenesten og mellom tjenestene.",
+      "Utdanningen skal også sikre kompetanse og holdninger som danner grunnlag for likeverdige tjenestetilbud for alle grupper i samfunnet, deriblant kompetanse om samers status som urfolk og deres rettigheter til språklig og kulturelt tilrettelagte tjenester.",
+      "Utdanningen gir kompetanse til arbeid i spesialist- og primærhelsetjenesten. Videre gir utdanningen kompetanse til å arbeide innen offentlige virksomheter på lokalt, regionalt og nasjonalt nivå, i privat virksomhet som matvare- eller legemiddelbransjen, og i høyere utdanning og forskning."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Kompetanseområder",
+     "ledd": [
+      "Klinisk ernæringsfysiologutdanning skal gi læringsutbytte i tråd med kravene i kapittel 2–7 under følgende kompetanseområder:\n- Basalmedisinsk kunnskap og ernæringsfysiologi\n- Klinisk ernæring og prosess for ernæringsbehandling\n- Kunnskapsbasert ernæringsarbeid\n- Selvstendighet, ansvarlighet og kvalitetsbevissthet\n- Kommunikasjon og samhandling\n- Profesjonalitet.",
+      "Læringsutbyttebeskrivelsene i § 13 a, b, c og d, § 14 b og d, § 15 a og d, § 17 c og d, § 18 a og b, § 19 c og § 21 c er basert på forskrift 4. juli 2025 nr. 1478 om felles rammeplan for helse- og sosialfagutdanninger § 2, og tilpasset utdanningen.",
+      "Omfang og graden av kompleksitet i læringsutbyttebeskrivelsene vil være avgjørende for hvor stor plass de skal gis i utdanningen."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Læringsutbytte for kompetanseområdet basalmedisinsk kunnskap og ernæringsfysiologi",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 4",
+     "tittel": "Basalmedisinsk kunnskap og ernæringsfysiologi – Kunnskap",
+     "ledd": [
+      "Kandidaten\na. har avansert kunnskap om menneskekroppen fra molekyler, celler og organer til hele organismen, dens oppbygging, funksjoner og prosesser\nb. har avansert kunnskap innenfor grunnleggende biologiske mekanismer og hvordan menneskets funksjoner reguleres, med spesiell vekt på det som har betydning for utvikling av sykdom eller skade\nc. har avansert kunnskap om makro- og mikronæringsstoffers oppbygning, omsetning og virkning på kroppens funksjoner\nd. har avansert kunnskap om energiomsetningen og betydningen av fysisk aktivitet ved ernæringsrelaterte tilstander og sykdommer\ne. har avansert kunnskap innenfor appetittregulering og hvordan fysiologiske, psykologiske og sosiale faktorer og ytre stimuli påvirker sult, metthet og matinntak\nf. har avansert kunnskap om matvarers oppbygning, egenskaper, bruksområder og innhold av næringsstoffer og deres betydning i kostholdet\ng. har avansert kunnskap om kostholdet og de vanligste religiøse og kulturelle kosthensyn\nh. har avansert kunnskap om årsak, forekomst, konsekvenser og behandling av feilernæring og de viktigste mangeltilstandene i Norge\ni. har avansert kunnskap om årsak, forekomst, konsekvenser og behandling av ernæringsrelaterte sykdommer og tilstander til personer i alle aldre og livsfaser\nj. har avansert kunnskap innenfor forebygging av de vanligste ikke-smittsomme sykdommer, og deres betydning for samfunnet, og variasjon i prevalens over tid\nk. har inngående kunnskap om matvare- og næringsstoffanbefalinger og om grunnlaget for utarbeidelsen av kostråd til friske mennesker i livets ulike faser\nl. har inngående kunnskap om standardkost, spesialkost og konsistenstilpasset kost på helseinstitusjoner og i helse- og omsorgstjenesten gis i hjemmet\nm. kan analysere kostholdet på individ-, gruppe- og befolkningsnivå opp mot anbefalinger og retningslinjer relevante i ernæringsarbeidet\nn. kan analysere sentrale ernæringsutfordringer globalt, og kjenner til de vanligste ernæringsrettede tiltak og strategier\no. kan anvende kunnskap om human genetikk og vite hvordan genetiske sykdommer påvirker metabolismen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 5",
+     "tittel": "Basalmedisinsk kunnskap og ernæringsfysiologi – Ferdigheter",
+     "ledd": [
+      "Kandidaten\na. kan bruke kunnskap om immunforsvaret for å gi ernæringsbehandling ved infeksjonssykdommer, autoimmune sykdommer, allergier og intoleranser\nb. kan bruke kunnskap om matkulturer og mattradisjoner fra urbefolkning og de største innvandrergruppene i Norge og kan kommunisere og gi kulturtilpasset kostveiledning til disse\nc. kan bruke kunnskap om farmakologi til å forklare funksjoner, interaksjoner, bivirkninger og kontraindikasjoner av legemidler som er relevante innen ernæring\nd. kan bruke kunnskap om mikroorganismer og deres innflytelse på helse og sykdom\ne. kan bruke kunnskap innen psykologi for å gjenkjenne normal og forstyrret spiseatferd, samt kunne bidra i tverrfaglig behandling innen rus og psykisk helse\nf. kan analysere og forholde seg kritisk til kostholdet på individ-, gruppe- og befolkningsnivå i lys av bærekraft og miljøhensyn\ng. kan analysere og forholde seg kritisk til hvordan det helsefremmende og forebyggende ernæringsarbeidet og -politikken er utviklet og organisert nasjonalt og internasjonalt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 6",
+     "tittel": "Basalmedisinsk kunnskap og ernæringsfysiologi – Generell kompetanse",
+     "ledd": [
+      "Kandidaten\na. kan anvende sine kunnskaper og ferdigheter til å gi kostråd til personer i ulike livsfaser og funksjonsnivåer, samt befolkningsgrupper med særskilte kostvaner."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Læringsutbytte for kompetanseområdet klinisk ernæring og prosess for ernæringsbehandling",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 7",
+     "tittel": "Klinisk ernæring og prosess for ernæringsbehandling – Kunnskap",
+     "ledd": [
+      "Kandidaten\na. har avansert kunnskap innenfor stegene i ernæringsbehandlingsprosessen, herunder kartlegging, diagnose, intervensjon og oppfølging, den tilhørende modellen og terminologien\nb. har avansert kunnskap innenfor diagnosespesifikk ernæringsbehandling\nc. har avansert kunnskap om medisinsk ernæringsbehandling ved komplekse ernæringsrelaterte problemstillinger og kritisk sykdom\nd. har inngående kunnskap om metoder for dokumentasjon, krav til konfidensialitet i alle praksisfelt og juridiske og etiske aspekter ved journalføring\ne. kan anvende kunnskap om metoder for endring av kosthold på gruppe- og befolkningsnivå samt metoder for evaluering av folkehelseintervensjon."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 8",
+     "tittel": "Klinisk ernæring og prosess for ernæringsbehandling – Ferdigheter",
+     "ledd": [
+      "Kandidaten\na. kan analysere og forholde seg kritisk til relevante verktøy for vurdering av risiko for underernæring\nb. kan analysere og forholde seg kritisk til metoder for ernæringskartlegging, inkludert kost og næringsinntak, antropometri, biokjemiske data og fysiske funn\nc. kan analysere eksisterende samfunnsmessige og individuelle faktorer som påvirker kostrelatert atferd og helse i ulike befolkningsgrupper, nasjonalt og internasjonalt\nd. kan analysere et sammensatt sykdomsbilde og gi tilpasset og målrettet medisinsk ernæringsbehandling, -oppfølging og monitorering\ne. kan bruke innsamlet informasjon og sammenlikne med kriterier, anbefalinger og retningslinjer, og anvende dette til å stille en ernæringsdiagnose\nf. kan bruke kunnskap om ernæringskartlegging og diagnose til å gjennomføre en ernæringsintervensjon\ng. kan bruke relevante medisinske ernæringsprodukter, herunder valg og dosering av næringsdrikker, sondeernæring og intravenøs ernæring\nh. kan gjennomføre persontilpasset ernæringsbehandling ved genetiske sykdommer\ni. kan bruke relevante metoder for å følge opp og evaluere ernæringsstatus hos ulike brukere av helsetjenester og grupper av pasienter\nj. kan bruke kunnskap om måltidsproduksjon og måltidsservice på helseinstitusjoner og når helse- og omsorgstjenester gis i hjemmet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 9",
+     "tittel": "Klinisk ernæring og prosess for ernæringsbehandling – Generell kompetanse",
+     "ledd": [
+      "Kandidaten\na. kan anvende sine kunnskaper og ferdigheter til å gjennomføre ernæringsbehandling i alle aldre og livsfaser innen somatikk og psykisk helse\nb. kan anvende sine kunnskaper og ferdigheter til å planlegge, gjennomføre og evaluere helsefremmende og forebyggende ernæringstiltak i ulike befolkningsgrupper."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Læringsutbytte for kompetanseområdet kunnskapsbasert ernæringsarbeid",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 10",
+     "tittel": "Kunnskapsbasert ernæringsarbeid – Kunnskap",
+     "ledd": [
+      "Kandidaten\na. har inngående kunnskap om relevante forskningsmetoder innen basal-, klinisk-, og epidemiologisk kostholds- og ernæringsforskning, inkludert fortolkning av resultater\nb. har inngående kunnskap om prinsipper for systematisk kunnskapsoppsummering innen kostholds- og ernæringsforskning."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 11",
+     "tittel": "Kunnskapsbasert ernæringsarbeid – Ferdigheter",
+     "ledd": [
+      "Kandidaten\na. kan analysere og forholde seg kritisk til egen og andres kostholds- og ernæringsforskning og diskutere overførbarhet og relevans for egen praksis\nb. kan analysere og forholde seg kritisk til ernæringsfaglige problemstillinger og trender i media, og vurdere disse opp mot kunnskapsbasert ernæringsarbeid\nc. kan bruke relevante metoder for datainnsamling og statistisk analyse innen kostholds- og ernæringsforskning på en selvstendig måte\nd. kan bruke relevante metoder for å innhente pasient- og brukerinnsikt for å utvikle ernæringsfaget\ne. kan gjennomføre et selvstendig, avgrenset forsknings- eller utviklingsprosjekt under veiledning og i tråd med gjeldene forskningsetiske normer for å undersøke sammenhengen mellom kosthold, helse og sykdom."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 12",
+     "tittel": "Kunnskapsbasert ernæringsarbeid – Generell kompetanse",
+     "ledd": [
+      "Kandidaten\na. kan anvende sine kunnskaper og ferdigheter til å drive kunnskapsbasert ernæringspraksis\nb. kan anvende sine kunnskaper og ferdigheter til å utarbeide og oppdatere prosedyrer og rutiner ved ernæringsrelaterte tilstander og sykdommer\nc. kan bidra til fag- og kunnskapsutvikling innen ernæringsfaget, og bistå i forskningsprosjekter om sammenhengen mellom kosthold, helse og sykdom."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Læringsutbytte for kompetanseområdet selvstendighet, ansvarlighet og kvalitetsbevissthet",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 13",
+     "tittel": "Selvstendighet, ansvarlighet og kvalitetsbevissthet – Kunnskap",
+     "ledd": [
+      "Kandidaten\na. har kunnskap om barn og unge og er en utøver som ivaretar deres behov for behandling og/eller tjenester og kan sikre deres medvirkning og rettigheter, deriblant samiske barns rett til å bruke eget språk og kultur\nb. har kunnskap om sosiale og helsemessige problemer inkludert omsorgssvikt, vold, overgrep, rus- og sosioøkonomiske problemer og kunne identifisere og følge opp mennesker med slike utfordringer. Kandidaten skal kunne sette inn nødvendige tiltak og/eller behandling, eller henvise videre ved behov.\nc. har kunnskap om samers rettigheter, og forståelse for samenes status som urfolk og deres matvaner og tradisjoner\nd. har kunnskap om inkludering, likestilling og ikke-diskriminering, uavhengig av kjønn, etnisitet, religion og livssyn, funksjonsnedsettelse, seksuell orientering, kjønnsidentitet, kjønnsuttrykk og alder og bidra til å sikre likeverdige tjenester innen klinisk ernæring for alle grupper i samfunnet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 14",
+     "tittel": "Selvstendighet, ansvarlighet og kvalitetsbevissthet – Ferdigheter",
+     "ledd": [
+      "Kandidaten\na. kan bruke relevante metoder innen organisering og ledelse i eget arbeid og til å jobbe med enkeltindivider, grupper og samfunn\nb. kan bruke relevante metoder for å oppdage risiko for uønskede hendelser og systematisk følge opp disse\nc. kan bruke relevante metoder innen teknologi til ansvarlig innsamling og bruk av data til ernæringsfaglig oppdatering, rapportering og kvalitetsforbedringsarbeid\nd. kan bruke relevante metoder innen digital kompetanse innenfor e-helse og bistå i utviklingen og bruk av egnet teknologi både på individ-, gruppe og systemnivå, herunder ivareta digital sikkerhet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 15",
+     "tittel": "Selvstendighet, ansvarlighet og kvalitetsbevissthet – Generell kompetanse",
+     "ledd": [
+      "Kandidaten\na. kan tilegne seg ny kunnskap og foreta faglige vurderinger, avgjørelser og handlinger i tråd med kunnskapsbasert praksis. Kandidaten skal også kunne dokumentere og formidle sin faglige kunnskap\nb. kan anvende sine kunnskaper og ferdigheter i selvstendig fagutøvelse og prioritering av sine arbeidsoppgaver som klinisk ernæringsfysiolog\nc. kan anvende sine kunnskaper og ferdigheter til å oppdage og henvise videre barn og unge utsatt for eller som står i fare for å bli utsatt for omsorgssvikt, vold og/eller overgrep\nd. kan bidra til nytenkning og innovasjonsprosesser innen klinisk ernæring og bidra til tjenesteutvikling, innovasjon, og systematiske arbeidsprosesser og kontinuerlig kvalitetsforbedring."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Læringsutbytte for kompetanseområdet kommunikasjon og samhandling",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 16",
+     "tittel": "Kommunikasjon og samhandling – Kunnskap",
+     "ledd": [
+      "Kandidaten\na. har avansert kunnskap innenfor kommunikasjon, samhandling og samarbeid for å etablere tillit og ivareta en god relasjon og fremme motivasjon med brukere, pasienter og pårørende, og om hvordan språk og kultur påvirker dette\nb. har inngående kunnskap om pasientforløp, og hvordan pasienter og brukere veksler mellom primær- og spesialisthelsetjenesten i løpet av en sykdomsperiode\nc. har inngående kunnskap om hvordan variasjoner i helsekompetanse påvirker ulike pasient- og brukergruppers sykdomshåndtering, mestring og egenomsorg\nd. har kunnskap om kompetanse, arbeidsoppgaver og ansvarsområde hos samarbeidende profesjoner."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 17",
+     "tittel": "Kommunikasjon og samhandling – Ferdigheter",
+     "ledd": [
+      "Kandidaten\na. kan bruke relevante metoder for tilpasset kommunikasjon inkludert digitale plattformer avhengig av mottakerens funksjonsevner og forhåndskunnskaper innen kosthold og ernæring\nb. kan bruke relevante metoder i helsepedagogikk i undervisning og veiledning av brukere, pasienter, pårørende og andre helsepersonell\nc. kan gjennomføre kostveiledning, blant annet med bruk av relevante metoder innen pasientsentrerte konsultasjonsteknikker, av brukere, pasienter og pårørende i lærings-, mestrings- og endringsprosesser\nd. kan gjennomføre samhandling tverrfaglig, tverrprofesjonelt, tverrsektorielt og på tvers av virksomheter og nivåer, samt initiere til slik samhandling\ne. kan gjennomføre kostveiledning tilpasset mottakerens helsekompetanse, sosioøkonomiske status og kulturelle bakgrunn."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-3",
+     "nummer": "§ 18",
+     "tittel": "Kommunikasjon og samhandling – Generell kompetanse",
+     "ledd": [
+      "Kandidaten\na. kan anvende sine kunnskaper og ferdigheter i relasjons-, kommunikasjons- og veiledningskompetanse til å forstå og samhandle med brukere, pasienter og pårørende\nb. kan anvende sine kunnskaper og ferdigheter til å forstå sammenhengene mellom helse, utdanning, arbeid og levekår, og kan anvende dette i sin tjenesteutøvelse, både overfor enkeltpersoner og grupper i samfunnet, for å bidra til god folkehelse og arbeidsinkludering\nc. kan formidle kunnskapsbasert praksis om kosthold og ernæring til pasienter, brukere, pårørende og andre helseprofesjoner på en vitenskapelig men lettforståelig måte\nd. kan kommunisere kostråd til hele befolkningen eller til grupper av befolkningen som en del av helsefremmende og forebyggende ernæringsarbeid."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kap7",
+   "overskrift": "Kapittel 7. Læringsutbytte for kompetanseområdet profesjonalitet",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 19",
+     "tittel": "Profesjonalitet – Kunnskaper",
+     "ledd": [
+      "Kandidaten\na. har inngående kunnskap om kliniske ernæringsfysiologers viktigste ansvarsområder og arbeidsmetoder i primær- og spesialisthelsetjenesten\nb. har inngående kunnskap om ernæringsarbeid sin plass og organisering i helse- og omsorgssektoren\nc. kan anvende kunnskap om helse- og velferdssystemet, lover, regelverk og ernæringsrelevante veiledere i sin tjenesteutøvelse og forholder seg til helse- og sosialpolitikk."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-2",
+     "nummer": "§ 20",
+     "tittel": "Profesjonalitet – Ferdigheter",
+     "ledd": [
+      "Kandidaten\na. kan analysere og forholde seg kritisk til ulike informasjonskilder og teknologier og reflektere over effekten av disse på ernæring og helse\nb. kan analysere eksisterende overordnede ernæringsfaglige problemstillinger og bidra i strategisk arbeid på ulike nivåer innen helse- og omsorgssektoren og samfunnet for øvrig."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-3",
+     "nummer": "§ 21",
+     "tittel": "Profesjonalitet – Generell kompetanse",
+     "ledd": [
+      "Kandidaten\na. kan anvende sine kunnskaper og ferdigheter til å jobbe som klinisk ernæringsfysiolog i samsvar med akademisk standard og utvikle sin kompetanse innen klinisk ernæring\nb. kan anvende sine kunnskaper og ferdigheter til å reflektere over egen rolle og praksis som klinisk ernæringsfysiolog, også i tverrfaglige team\nc. kan analysere, reflektere over og håndtere etiske problemstillinger i sitt arbeid som klinisk ernæringsfysiolog i tråd med yrkesetiske retningslinjer."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-8",
+   "navn": "kap8",
+   "overskrift": "Kapittel 8. Studiets oppbygning og praksisstudier",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-1",
+     "nummer": "§ 22",
+     "tittel": "Studiets oppbygning",
+     "ledd": [
+      "Emnene i utdanningen skal bygge på hverandre og det skal stilles gradvis stigende krav til studentenes kunnskap, ferdighet og kompetanse. Studieprogrammene skal fremstå som helhetlige ved at vitenskapelig innhold, pedagogiske virkemidler og praksisstudier kobles sammen.",
+      "Utdanningen bygger på medisinske basalfag som videreføres i ernæringsbiokjemi og -fysiologi. Sentrale fag er matvarekunnskap, statistikk og metoder, human og klinisk ernæring i alle aldre og livsfaser. Veiledet ferdighetstrening, praksisstudier og teori vektlegges for å skaffe profesjonsforståelse og vitenskapelig kompetanse. Utdanningen organiseres på en måte som fremmer integrering av vitenskapelig teori og klinisk praksis. Praksisstudier skal fremme studentenes kompetanse innen klinisk ernæring."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-2",
+     "nummer": "§ 23",
+     "tittel": "Praksisstudier",
+     "ledd": [
+      "Praksisstudiene skal utformes slik at de sikrer at læringsutbyttene oppnås.",
+      "Praksisstudier skal utgjøre minimum 14 uker. De fordeles over hele studieløpet, hvorav minimum fire uker skal foregå i den kommunale helse- og omsorgstjenesten og minimum seks uker skal foregå sammenhengende i spesialisthelsetjenesten.",
+      "Praksisstudiene er en integrert del av utdanningen der teori underbygger det praktiske arbeidet. Det bør være en naturlig progresjon i faglig dybde og kompleksitet gjennom studieløpet.",
+      "Praksisstudiene skal fremme selvstendighet i arbeidet med pasienter og brukere. Gjennom praksisstudiene skal studentene også få erfaring med tverrprofesjonelt samarbeid og få erfaring med oppfølging av egne pasienter og brukere."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-9",
+   "navn": "kap9",
+   "overskrift": "Kapittel 9. Ikrafttredelse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-1",
+     "nummer": "§ 24",
+     "tittel": "Ikrafttredelse og oppheving av forskrift",
+     "ledd": [
+      "Forskriften trer i kraft 1. august 2025.",
+      "Fra samme tidspunkt oppheves forskrift 3. januar 2020 nr. 24 om nasjonal retningslinje for klinisk ernæringsfysiologutdanning."
+     ]
+    }
+   ]
+  }
+ ]
+}

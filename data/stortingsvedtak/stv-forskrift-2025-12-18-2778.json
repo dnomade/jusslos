@@ -1,0 +1,55 @@
+{
+ "skjema": "1.0",
+ "type": "stortingsvedtak",
+ "datokode": "FOR-2025-12-18-2778",
+ "dokumentid": "STV/forskrift/2025-12-18-2778",
+ "departement": [
+  "Stortinget"
+ ],
+ "ikraft": "Budsjettåret 2026",
+ "hjemmel": [
+  {
+   "ref": "lov/1814-05-17/§75",
+   "tekst": "lov/1814-05-17/§75"
+  },
+  {
+   "ref": "lov/2024-12-13-76",
+   "tekst": "lov/2024-12-13-76"
+  }
+ ],
+ "kunngjort": "2025-12-22 11:30",
+ "tittel": "Stortingsvedtak om frekvens- og nummeravgift for 2026",
+ "annet": "Hjemmel: Vedtatt av Stortinget 18. desember 2025 med hjemmel i Kongeriket Norges Grunnlov 17. mai 1814 § 75 bokstav a, jf. lov 13. desember 2024 nr. 76 om elektronisk kommunikasjon (ekomloven).",
+ "refid": "forskrift/2025-12-18-2778",
+ "eli": "/eli/forskrift/2025/12/18/2778",
+ "url": "https://lovdata.no/dokument/STV/forskrift/2025-12-18-2778",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": null,
+   "ledd": [
+    "Fra 1. januar 2026 skal det i henhold til ekomloven betales avgift til statskassen for bruk av frekvenser til drift av system for mobilkommunikasjon (frekvensavgift) med følgende beløp per MHz (frekvensdupleks) disponert båndbredde:\n– 450 MHz-båndet kr 1 562 000\n– 700 MHz-båndet kr 1 781 000\n– 800 MHz-båndet kr 1 781 000\n– 900 MHz-båndet kr 1 781 000\n– 1800 MHz-båndet kr 1 781 000\n– 2,1 GHz-båndet kr 1 648 000"
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": null,
+   "ledd": [
+    "For 2026 skal det i henhold til ekomloven betales avgift til statskassen for tillatelse til bruk av femsifrede nummer (nummeravgift) med følgende beløp per nummer:\nKategori A kr 175 240\nKategori B kr 124 860\nKategori C kr 96 050\nKategori D kr 67 260\nKategori E kr 31 250\nKategori F kr 3 890"
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": null,
+   "ledd": [
+    "Digitaliserings- og forvaltningsdepartementet kan fatte enkeltvedtak og gi forskrift om beregning og betaling av avgiften."
+   ]
+  }
+ ]
+}

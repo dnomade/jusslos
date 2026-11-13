@@ -1,0 +1,112 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2003-12-19-1755",
+ "dokumentid": "SF/forskrift/2003-12-19-1755",
+ "departement": [
+  "Helse- og omsorgsdepartementet"
+ ],
+ "etat": [
+  "Helsetjenesteavd."
+ ],
+ "kunngjort_i": "I 2003 hefte 18",
+ "ikraft": "2004-01-01",
+ "endrer": "forskrift/1997-03-11-214",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1999-07-02-61/§2-1a",
+   "tekst": "lov/1999-07-02-61/§2-1a"
+  }
+ ],
+ "kunngjort": "2004-01-06",
+ "korttittel": "Forskrift om reiseutgifter, spesialisttjeneste",
+ "tittel": "Forskrift om dekning av reise- og oppholdsutgifter ved ambulant kjeveortopedtjeneste i Nord-Norge.",
+ "annet": "Fastsatt av Helsedepartementet 19. desember 2003 med hjemmel i lov av 2. juli 1999 nr. 61 om spesialisthelsetjenesten m.m. § 2-1a fjerde ledd.",
+ "refid": "forskrift/2003-12-19-1755",
+ "eli": "/eli/forskrift/2003/12/19/1755",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2003-12-19-1755",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Omfang",
+     "ledd": [
+      "Helse Nord RFH har i særlige tilfeller ansvar for å dekke utgifter til reise og opphold for kjeveortoped ved reise til og fra faste behandlingssteder (ambulant kjeveortopedtjeneste) i Helseregion Nord, herunder Svalbard.",
+      "Dekning av utgifter til ambulant kjeveortopedtjeneste i Helseregion Nord gis vanligvis bare til kjeveortoped bosatt i Nord-Norge eller Nord-Trøndelag. Dersom det er mangel på kjeveortopeder her, kan Helse Nord RHF godkjenne at det gis dekning av utgifter til kjeveortopeder bosatt annet sted i Norge.",
+      "Det er et vilkår for dekning av utgifter at en ordning med ambulant kjeveortopedtjeneste ikke skal medføre merutgifter for Helse Nord RHF i forhold til pasientenes alternative reiseutgifter til et fjernere sted."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Søknad og forhåndstilsagn",
+     "ledd": [
+      "Fylkeskommunen må godtgjøre overfor Helse Nord RHF, at vilkårene under § 1 er til stede.",
+      "Tilsagn fra Helse Nord RHF om å gi dekning av utgifter som nevnt i § 1 første ledd må være innhentet på forhånd.",
+      "Et tilsagn om dekning av utgifter kan trekkes tilbake med en måneds varsel."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Beregning av reise- og oppholdsutgifter",
+     "ledd": [
+      "Dekning av utgifter gis bare for billigste reisemåte. Har den som foretar undersøkelsen eller behandlingen på grunn av særlige forhold hatt større nødvendige utgifter til reise og opphold, dekkes utgiftene etter regning.",
+      "Utgifter til reise og opphold beregnes etter «Regulativ for reiser innenlands for statens regning»."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 4",
+     "tittel": "Utgifter som ikke dekkes",
+     "ledd": [
+      "Utgifter ved reise for behandling av pasient innlagt i helseinstitusjon dekkes ikke etter disse forskrifter.",
+      "Det gis heller ikke dekning av utgifter til annet personell eller til leie av lokaler mv."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-5",
+     "nummer": "§ 5",
+     "tittel": "Foreldelse",
+     "ledd": [
+      "Krav om dekning av utgifter framsettes for Helse Nord RHF. Kravet må ledsages av den dokumentasjon som Helse Nord RHF finner nødvendig.",
+      "Krav om dekning av utgifter kan ikke gjøres gjeldende hvis det er gått mer enn seks måneder etter at kravet kunne ha vært satt fram."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-6",
+     "nummer": "§ 6",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Forskrift trer i kraft den 1. januar 2004."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Fra samme tidspunkt oppheves forskrift av 11. mars 1997 nr. 214 om stønad til dekning av reise- og oppholdsutgifter ved ambulant spesialisthelsetjeneste i Nord-Norge og visse andre distrikter."
+    }
+   ]
+  }
+ ]
+}

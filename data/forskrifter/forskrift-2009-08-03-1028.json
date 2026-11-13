@@ -1,0 +1,388 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2009-08-03-1028",
+ "dokumentid": "SF/forskrift/2009-08-03-1028",
+ "departement": [
+  "Arbeids- og inkluderingsdepartementet"
+ ],
+ "etat": [
+  "Arbeidsmiljø- og sikkerhetsavd., Direktoratet for Arbeidstilsynet"
+ ],
+ "kunngjort_i": "I 2009 hefte 9",
+ "ikraft": "2010-01-01",
+ "siste_endring_ikraft": "2024-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2023-08-29-1367",
+   "tekst": "forskrift/2023-08-29-1367 fra 2024-01-01"
+  }
+ ],
+ "endrer": "forskrift/1995-04-21-377",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2005-06-17-62/§1-4",
+   "tekst": "lov/2005-06-17-62/§1-4"
+  },
+  {
+   "ref": "lov/2005-06-17-62/§3-1",
+   "tekst": "lov/2005-06-17-62/§3-1"
+  },
+  {
+   "ref": "lov/2005-06-17-62/§4-1",
+   "tekst": "lov/2005-06-17-62/§4-1"
+  },
+  {
+   "ref": "forskrift/2021-06-29-2280",
+   "tekst": "forskrift/2021-06-29-2280"
+  }
+ ],
+ "kunngjort": "2009-08-07 13:20",
+ "siste_rettelse": "2022-01-01 (tegnsetting i lister tilpasset universell utforming)",
+ "korttittel": "Byggherreforskriften",
+ "tittel": "Forskrift om sikkerhet, helse og arbeidsmiljø på bygge- eller anleggsplasser (byggherreforskriften)",
+ "annet": "Hjemmel: Fastsatt av Arbeids- og inkluderingsdepartementet 3. august 2009 med hjemmel i lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven) § 1-4 første, tredje og fjerde ledd, § 3-1 og § 4-1 sjette ledd.\nTilføyd hjemmel: Delegeringsvedtak 29. juni 2021 nr. 2280.\nEØS-henvisninger: EØS-avtalen vedlegg XVIII nr. 16b (direktiv 92/57/EØF).\nEndret ved forskrifter 3 juni 2016 nr. 568 som endret ved forskrifter 29 juni 2016 nr. 835 og 5 mai 2017 nr. 545, 11 sep 2020 nr. 1755 (i kraft 1 jan 2021), 15 des 2021 nr. 3600 (i kraft 1 jan 2022), 29 aug 2023 nr. 1367 (i kraft 1 jan 2024).\nRettet 01.01.2022 (tegnsetting i lister tilpasset universell utforming).",
+ "refid": "forskrift/2009-08-03-1028",
+ "eli": "/eli/forskrift/2009/08/03/1028",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2009-08-03-1028",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Formål",
+     "ledd": [
+      "Forskriftens formål er å verne arbeidstakerne mot farer ved at det tas hensyn til sikkerhet, helse og arbeidsmiljø på bygge- eller anleggsplasser i forbindelse med planlegging, prosjektering og utførelse av bygge- eller anleggsarbeider."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Forskriften gjelder for enhver arbeidsplass hvor det utføres midlertidig eller skiftende bygge- eller anleggsarbeid."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Hvem forskriften retter seg mot",
+     "ledd": [
+      "Byggherren, koordinatoren, den prosjekterende, arbeidsgiveren og enmannsbedriften skal sørge for at bestemmelsene i denne forskriften blir gjennomført. Det samme gjelder for byggherrens representant.",
+      "Dersom byggherren er forbruker, jf. § 4 bokstav d, gjelder kun § 10 om forhåndsmelding."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 4",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "I forskriften menes med\na. bygge- eller anleggsarbeid\n1. oppføring av bygninger\n2. innrednings-, utsmykkings- og installasjonsarbeid\n3. montering og demontering av prefabrikkerte elementer\n4. riving, demontering, ombygging og istandsetting\n5. sanering og vedlikeholdsarbeid, utenom arbeid som er rutinemessig eller mindre omfattende\n6. alminnelig anleggsvirksomhet\n7. graving, sprengning og annet grunnarbeid\n8. annet arbeid som utføres i tilknytning til bygge- eller anleggsarbeid.\nb. byggherre: enhver fysisk eller juridisk person som får utført et bygge- eller anleggsarbeid.\nc. byggherrens representant: enhver fysisk eller juridisk person som skal utføre konkrete plikter etter denne forskriften på byggherrens vegne, i henhold til skriftlig avtale med byggherren.\nd. forbruker: en fysisk person som ikke hovedsakelig handler som ledd i næringsvirksomhet.\ne. koordinator: enhver fysisk eller juridisk person som sørger for koordinering av prosjektering eller utførelse på vegne av byggherren.\nf. prosjekterende: enhver fysisk eller juridisk person som har til oppdrag å tegne, beregne, planlegge eller beskrive hele eller deler av bygget eller anlegget som skal oppføres.\ng. enmannsbedrift: virksomhet som ikke sysselsetter arbeidstakere."
+     ],
+     "endringer": [
+      "Endret ved forskrift 11 sep 2020 nr. 1755 (i kraft 1 jan 2021)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Byggherrens plikter",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 5",
+     "tittel": "Generelle plikter",
+     "ledd": [
+      "Byggherren skal gjennom hele prosessen\na. sørge for at hensynet til sikkerhet, helse og arbeidsmiljø på bygge- eller anleggsplassen blir ivaretatt\nb. sikre at pliktene som er pålagt de prosjekterende, arbeidsgiverne og enmannsbedriftene i denne forskriften blir gjennomført\nc. sørge for og legge til rette for nødvendig dialog og samhandling mellom prosjekterende, arbeidsgivere og enmannsbedrifter for å sikre at hensynet til arbeidstakernes sikkerhet, helse og arbeidsmiljø blir ivaretatt ved prosjektering og utførelse av bygge- eller anleggsarbeider.",
+      "Byggherren skal under planleggingen og prosjekteringen\na. ivareta sikkerhet, helse og arbeidsmiljø ved de arkitektoniske, tekniske eller organisasjonsmessige valg som foretas\nb. kartlegge risikoforhold som har betydning for arbeidene som skal utføres\nc. vurdere risikoen som er kartlagt etter bokstav b og utarbeide planer med tiltak for å fjerne eller redusere risikoen\nd. dokumentere kartleggingen, risikovurderingen og planene etter bokstav b og c\ne. sørge for at det avsettes tilstrekkelig tid til prosjektering og utførelse av de forskjellige arbeidsoperasjoner\nf. dokumentere vurderingene som ligger til grunn for den tid som avsettes etter bokstav e.",
+      "Byggherren skal under utførelsen av arbeidene ivareta hensynet til sikkerhet, helse og arbeidsmiljø ved koordinering og oppfølging av virksomhetenes arbeid på bygge- eller anleggsplassen."
+     ],
+     "endringer": [
+      "Endret ved forskrift 11 sep 2020 nr. 1755 (i kraft 1 jan 2021)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 6",
+     "tittel": "Risikoforhold mv. som skal inngå i tilbudsgrunnlaget",
+     "ledd": [
+      "Byggherren skal innarbeide i tilbudsgrunnlaget:\na. de risikoforholdene som er avdekket under planlegging og prosjektering og som ikke er fjernet, jf. § 5 andre ledd bokstav b\nb. planer med tiltak som følger av kartleggingen og risikovurderingen etter § 5 andre ledd bokstav c."
+     ],
+     "endringer": [
+      "Endret ved forskrift 11 sep 2020 nr. 1755 (i kraft 1 jan 2021)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 7",
+     "tittel": "Plan for sikkerhet, helse og arbeidsmiljø",
+     "ledd": [
+      "Byggherren skal før oppstart av arbeidet på bygge- eller anleggsplassen sørge for at det utarbeides en skriftlig plan for sikkerhet, helse og arbeidsmiljø.",
+      "Byggherren skal sørge for at planen er lett tilgjengelig på bygge- eller anleggsplassen og at den oppdateres fortløpende dersom det oppstår endringer som har betydning for sikkerhet, helse og arbeidsmiljø.",
+      "Byggherren skal sørge for at arbeidsgivere og enmannsbedrifter:\na. gjøres kjent med planen\nb. får informasjon når det skjer endringer i planen under prosjektets framdrift som kan ha betydning for arbeidstakernes sikkerhet, helse og arbeidsmiljø.",
+      "Byggherren skal oppbevare planen i seks måneder etter at bygge- eller anleggsarbeidet er avsluttet."
+     ],
+     "endringer": [
+      "Endret ved forskrift 11 sep 2020 nr. 1755 (i kraft 1 jan 2021)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 8",
+     "tittel": "Krav til planen for sikkerhet, helse og arbeidsmiljø",
+     "ledd": [
+      "Planen for sikkerhet, helse og arbeidsmiljø skal beskrive hvordan risikoforholdene som følger av byggherrens og de prosjekterendes valg, skal håndteres.",
+      "Planen skal bygge på risikovurderinger, tilpasses det aktuelle bygge- eller anleggsarbeidet og inneholde\na. et organisasjonskart som beskriver rollefordelingen og entrepriseformen\nb. en fremdriftsplan som beskriver når og hvor de ulike arbeidsoperasjoner skal utføres, hvor det tas hensyn til koordinering av de forskjellige arbeidsoperasjonene\nc. en beskrivelse av de spesifikke tiltakene som er nødvendige for å redusere fare for liv og helse forbundet med blant annet:\n1. arbeid nær installasjoner i grunnen\n2. arbeid nær høyspentledninger og elektriske installasjoner\n3. arbeid på steder med passerende trafikk\n4. arbeid hvor arbeidstakere kan bli utsatt for ras eller synke i gjørme\n5. arbeid som innebærer bruk av sprengstoff\n6. arbeid i sjakter, underjordisk masseforflytning og arbeid i tunneler\n7. arbeid som innebærer fare for drukning\n8. arbeid i senkekasser der luften er komprimert\n9. arbeid som innebærer bruk av dykkerutstyr\n10. arbeid som innebærer at personer kan bli skadet ved fall eller av fallende gjenstander\n11. arbeid som innebærer riving av bærende konstruksjoner\n12. arbeid med montering og demontering av tunge elementer\n13. arbeid som innebærer fare for helseskadelig eksponering for støv, gass, støy eller vibrasjoner\n14. arbeid som utsetter personer for kjemiske eller biologiske stoffer som kan medføre en belastning for sikkerhet, helse og arbeidsmiljø eller som innebærer et lov- eller forskriftsfestet krav til helsekontroll\n15. arbeid med ioniserende stråling som krever at det utpekes kontrollerte eller overvåkede soner\n16. arbeid som innebærer brann- og eksplosjonsfare\n17. arbeid som innebærer fare for helseskadelig ergonomiske belastninger.\nd. en rutine for behandling av endringer og oppdatering av planen."
+     ],
+     "endringer": [
+      "Endret ved forskrift 11 sep 2020 nr. 1755 (i kraft 1 jan 2021)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 9",
+     "tittel": "Forebyggende tiltak",
+     "ledd": [
+      "Byggherren skal i forbindelse med arbeidet på den enkelte bygge- eller anleggsplassen særlig stille krav om\na. at det treffes nødvendige tiltak for å sikre at uvedkommende ikke får atkomst til bygge- eller anleggsplassen\nb. at det tas hensyn til andre virksomheter på eller i nærheten av bygge- eller anleggsplassen\nc. god orden og fullt forsvarlige hygieniske forhold\nd. sikker atkomst til arbeidsplassene og sikre ferdselsveier\ne. avmerking og tilrettelegging av områder for lagring og oppbevaring av forskjellige materialer, særlig når det dreier seg om farlige materialer eller stoffer\nf. vedlikehold, kontroll før igangsettelse og kontroll av anlegg og utstyr, for å kunne rette opp feil som kan påvirke arbeidstakernes sikkerhet, helse og arbeidsmiljø\ng. lagring, håndtering og fjerning av avfall og farlige materialer\nh. forsvarlige arbeidstidsordninger\ni. tilfredsstillende personalrom\nj. forsvarlig innkvartering."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-6",
+     "nummer": "§ 10",
+     "tittel": "Forhåndsmelding",
+     "ledd": [
+      "Byggherren skal sørge for at det senest en uke før arbeidet igangsettes sendes en forhåndsmelding på fastsatt elektronisk skjema til Arbeidstilsynet om bygge- eller anleggsarbeidet, dersom arbeidet vil vare utover 15 virkedager eller den forventede arbeidsmengde overstiger 250 dagsverk.",
+      "Dersom byggherren er forbruker skal forhåndsmeldingen sendes inn av den virksomheten som påtar seg å utføre bygge- eller anleggsarbeidet.",
+      "Byggherren skal sørge for at forhåndsmeldingen er oppdatert. Oppdatert forhåndsmelding skal settes opp synlig på bygge- eller anleggsplassen.",
+      "Forhåndsmeldingen skal inneholde følgende opplysninger:\na. dato for oversendelsen\nb. bygge- eller anleggsplassens nøyaktige adresse\nc. prosjektets art\nd. byggherrens navn, organisasjonsnummer, adresse og telefonnummer\ne. byggherrens representant sitt navn, organisasjonsnummer, adresse og telefonnummer\nf. koordinatorenes navn, organisasjonsnummer, adresse og telefonnummer\ng. angivelse av prosjekterende virksomheter og deres organisasjonsnummer\nh. angivelse av utførende virksomheter og deres organisasjonsnummer\ni. forventet dato for arbeidsstart på bygge- eller anleggsplassen\nj. forventet varighet av arbeidet på bygge- eller anleggsplassen\nk. forventet største antall arbeidstakere samtidig på bygge- eller anleggsplassen\nl. planlagt antall virksomheter.",
+      "Dersom aktørene som nevnt i fjerde ledd bokstav d til g er en juridisk person, skal det oppgis navn og telefonnummer til en kontaktperson."
+     ],
+     "endringer": [
+      "Endret ved forskrift 11 sep 2020 nr. 1755 (i kraft 1 jan 2021)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-7",
+     "nummer": "§ 11",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Opphevet ved forskrift 11 sep 2020 nr. 1755 (i kraft 1 jan 2021)."
+     ],
+     "opphevet": "2021-01-01"
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-8",
+     "nummer": "§ 12",
+     "tittel": "Dokumentasjon for fremtidige arbeider",
+     "ledd": [
+      "Byggherren skal sørge for at det utarbeides dokumentasjon for bygningen eller anlegget om de forhold som kan ha betydning for sikkerhet, helse og arbeidsmiljø ved fremtidige arbeider. Dokumentasjonen skal beskrive bygget eller anleggets konstruksjon og utforming, samt de byggeprodukter som er brukt. Beskrivelsen skal være i det omfang som er nødvendig for å ivareta sikkerhet, helse og arbeidsmiljø ved drift, vedlikehold, endring og riving.",
+      "Byggherren skal sørge for at dokumentasjonen overleveres til eieren av bygget eller anlegget etter ferdigstillelse eller etter at brukstillatelse er gitt."
+     ],
+     "endringer": [
+      "Endret ved forskrift 11 sep 2020 nr. 1755 (i kraft 1 jan 2021)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-9",
+     "nummer": "§ 13",
+     "tittel": "Utpeking og oppfølging av koordinator",
+     "ledd": [
+      "Arbeidet med sikkerhet, helse og arbeidsmiljø skal koordineres dersom det er flere prosjekterende eller dersom det er flere utførende virksomheter på bygge- eller anleggsplassen samtidig eller etter hverandre.",
+      "Byggherren kan selv ha rollen som koordinator eller velge å utpeke en ekstern koordinator.",
+      "Byggherren kan utpeke en koordinator for hele prosjektet, eller en for planleggings- og prosjekteringsfasen og en for utførelsesfasen, som på byggherrens vegne utfører koordineringen etter § 14.",
+      "Utpeking av koordinator fritar ikke byggherren for sitt ansvar på området.",
+      "Koordinatoren skal ikke ha andre plikter eller oppgaver som kan komme i konflikt med rollen som koordinator. Byggherren skal før valg av koordinator vurdere om slik konflikt kan oppstå. Vurderingen skal dokumenteres.",
+      "Byggherren skal gjennom en skriftlig avtale klargjøre hvilke plikter og fullmakter som koordinatoren skal ha. I tilfeller der byggherren selv har rollen som koordinator, skal det foreligge en tilsvarende skriftlig beskrivelse.",
+      "Byggherren skal jevnlig følge opp at koordinatoren oppfyller sine plikter. Byggherren skal dokumentere oppfølgingen.",
+      "Koordinatoren skal ha den nødvendige kunnskap om sikkerhet, helse og arbeidsmiljø, inkludert arbeidsmiljølovgivningen og inneha nødvendig kompetanse for å følge opp aktuelle risikoforhold i prosjektet."
+     ],
+     "endringer": [
+      "Endret ved forskrift 11 sep 2020 nr. 1755 (i kraft 1 jan 2021)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-10",
+     "nummer": "§ 14",
+     "tittel": "Koordinering og oppfølging av arbeidet med sikkerhet, helse og arbeidsmiljø",
+     "ledd": [
+      "Koordineringen og oppfølgingen skal ivareta hensynet til sikkerhet, helse og arbeidsmiljø på bygge- eller anleggsplassen.",
+      "Koordineringen og oppfølgingen skal sørge for å legge til rette for dialog og samhandling mellom involverte aktører.",
+      "Koordineringen og oppfølgingen i prosjekteringsfasen omfatter å\na. sørge for informasjonsdeling mellom de enkelte prosjekterende slik at risiko håndteres helhetlig\nb. påse at resultater av kartlegging og risikovurdering med tiltak innarbeides i tilbudsgrunnlag til utførende virksomheter\nc. sørge for utarbeidelse av planen for sikkerhet, helse og arbeidsmiljø.",
+      "Koordineringen og oppfølgingen i utførelsesfasen omfatter å\na. følge opp de risikoforhold som fremgår av byggherrens plan for sikkerhet, helse og arbeidsmiljø\nb. følge opp at virksomhetene gjennomfører planen for sikkerhet, helse og arbeidsmiljø\nc. følge opp at det utarbeides tidsplaner som sikrer at det avsettes tilstrekkelig tid til utførelse av de forskjellige arbeidsoperasjoner\nd. sørge for at de enkelte virksomheters arbeid som kan påvirke hverandre med hensyn til sikkerhet, helse og arbeidsmiljø, blir koordinert\ne. følge opp at kravene etter § 9 gjennomføres\nf. sørge for at det føres oversiktslister etter § 15."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 11 sep 2020 nr. 1755 (i kraft 1 jan 2021), 15 des 2021 nr. 3600 (i kraft 1 jan 2022)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-11",
+     "nummer": "§ 15",
+     "tittel": "Oversiktsliste",
+     "ledd": [
+      "Byggherren skal som ledd i arbeidet med sikkerhet, helse og arbeidsmiljø føre en oversiktsliste over alle som skal utføre arbeid på bygge- eller anleggsplassen. Oversiktslisten skal føres elektronisk, kontrolleres og oppdateres daglig.",
+      "Oversiktslisten skal inneholde følgende opplysninger:\na. navn og adresse på bygge- eller anleggsplassen\nb. navn på byggherren\nc. navn på arbeidsgivere eller enmannsbedrifter eller for innleide arbeidstakere navnet på innleievirksomheten\nd. organisasjonsnummer for registreringspliktige virksomheter\ne. navn, fødselsdato, arbeidsgiver og HMS-kortnummer på alle som skal utføre arbeid på bygge- eller anleggsplassen.",
+      "Oversiktslisten skal være tilgjengelig og skal på oppfordring vises til arbeidsgiveren, verneombudet, Arbeidstilsynet og skattemyndighetene. Oversiktslister skal oppbevares i seks måneder etter at bygge- eller anleggsarbeidet er avsluttet."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 3 juni 2016 nr. 568 som endret ved forskrifter 29 juni 2016 nr. 835 og 5 mai 2017 nr. 545 (i kraft 1 juli 2017), 11 sep 2020 nr. 1755 (i kraft 1 jan 2021)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-12",
+     "nummer": "§ 16",
+     "tittel": "Gjennomføring av plikter på byggherrens vegne",
+     "ledd": [
+      "Byggherren kan skriftlig avtale at en juridisk eller fysisk person på byggherrens vegne skal gjennomføre nærmere angitte plikter etter denne forskriften (byggherrens representant). Avtalen skal klargjøre hvilke plikter og fullmakter byggherrens representant skal ha.",
+      "Valg av byggherrens representant fritar ikke byggherren fra sitt ansvar.",
+      "Byggherrens representant skal ikke ha andre plikter eller oppgaver som kan komme i konflikt med de oppgaver vedkommende skal gjennomføre på vegne av byggherren. Byggherren skal før valg av byggherrens representant vurdere om slik konflikt kan oppstå. Vurderingen skal dokumenteres.",
+      "Byggherrens representant skal ha den nødvendige kunnskap om sikkerhet, helse og arbeidsmiljø, inkludert arbeidsmiljølovgivningen.",
+      "Byggherren skal jevnlig følge opp at byggherrens representant oppfyller sine plikter. Byggherren skal dokumentere oppfølgingen."
+     ],
+     "endringer": [
+      "Endret ved forskrift 11 sep 2020 nr. 1755 (i kraft 1 jan 2021)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Den prosjekterendes plikter",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 17",
+     "tittel": "Den prosjekterendes plikter",
+     "ledd": [
+      "Den prosjekterende skal ivareta hensynet til sikkerhet, helse og arbeidsmiljø gjennom valg av arkitektoniske eller tekniske løsninger.",
+      "Den prosjekterende skal under utførelsen av sine oppdrag kartlegge og vurdere risiko knyttet til sikkerhet, helse og arbeidsmiljø på bygge- eller anleggsplassen. Kartleggingen og risikovurderingen skal også ivareta grensesnittet mot andre fag og skal dokumenteres.",
+      "Dersom det kan oppstå risikoforhold som krever spesifikke tiltak, jf. forskriften § 8 andre ledd bokstav c, skal dette beskrives og meddeles byggherren.",
+      "De forhold som kan ha betydning for fremtidige arbeider, skal dokumenteres, jf. § 12.",
+      "Den prosjekterende skal medvirke i dialogen og samhandlingen etter § 5 første ledd bokstav c."
+     ],
+     "endringer": [
+      "Endret ved forskrift 11 sep 2020 nr. 1755 (i kraft 1 jan 2021)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Arbeidsgiverens og enmannsbedriftens plikter",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 18",
+     "tittel": "Arbeidsgiverens og enmannsbedriftens generelle plikter",
+     "ledd": [
+      "Arbeidsgiveren og enmannsbedriften skal følge planen for sikkerhet, helse og arbeidsmiljø og følge byggherrens eller koordinators anvisninger.",
+      "Arbeidsgiveren og enmannsbedriften skal planlegge og gjennomføre arbeidet på bakgrunn av nødvendige risikovurderinger, og foreta løpende risikovurdering av identifiserte risikoområder i byggherrens plan for sikkerhet, helse og arbeidsmiljø.",
+      "Arbeidsgiveren skal innarbeide relevante deler av planen for sikkerhet, helse og arbeidsmiljø i virksomhetens system for internkontroll, jf. forskrift 6. desember 1996 nr. 1127 om systematisk helse-, miljø- og sikkerhetsarbeid i virksomheter (Internkontrollforskriften). Innarbeidingen skal skje slik at planens bestemmelser kan identifiseres.",
+      "Arbeidsgiveren og enmannsbedriften skal informere byggherren om risikoforhold forårsaket av byggherrens og de prosjekterendes valg som ikke er dekket av spesifikke tiltak i planen for sikkerhet, helse og arbeidsmiljø.",
+      "Arbeidsgiveren og enmannsbedriften skal informere byggherren om behov for endring i planen for sikkerhet, helse og arbeidsmiljø som kan ha betydning for sikkerhet, helse og arbeidsmiljø.",
+      "Arbeidsgiveren og enmannsbedriften skal medvirke i dialogen og samhandlingen etter § 5 første ledd bokstav c.",
+      "Arbeidsgiveren skal sørge for at de forebyggende tiltakene i § 9 blir gjennomført.",
+      "Enmannsbedriften skal sørge for at kravene etter § 9 som gjelder for enmannsbedrifter, blir gjennomført."
+     ],
+     "endringer": [
+      "Endret ved forskrift 11 sep 2020 nr. 1755 (i kraft 1 jan 2021)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 19",
+     "tittel": "Informasjonsplikt",
+     "ledd": [
+      "Arbeidsgiveren skal informere verneombudet om planen for sikkerhet, helse og arbeidsmiljø før oppstart av bygge- eller anleggsarbeidet.",
+      "Arbeidsgiveren skal på en forståelig måte informere arbeidstakerne og verneombudet om alle tiltak som skal treffes om sikkerhet, helse og arbeidsmiljø på bygge- eller anleggsplassen.",
+      "Skriftlig dokumentasjon som benyttes i eller er relevant for arbeidet den enkelte skal utføre, slik som plan og rutiner for sikkerhet, helse og arbeidsmiljø, sikkerhetsopplæring, verneprotokoller, sikkerhetsinstrukser, sikkerhetsdatablader, varselskilter og bruksanvisninger for verktøy og arbeidsutstyr mv., skal foreligge slik at den enkelte forstår informasjonen godt."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 11 sep 2020 nr. 1755 (i kraft 1 jan 2021), 29 aug 2023 nr. 1367 (i kraft 1 jan 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 19a",
+     "tittel": "Krav om språkferdigheter",
+     "ledd": [
+      "Arbeidsgiveren skal sørge for at arbeidstakerne og innleide arbeidstakere i virksomheten kan kommunisere på en slik måte at kommunikasjonen ikke utgjør en sikkerhetsrisiko.",
+      "Arbeidsgiveren skal særlig sørge for at minst én blant de utførende arbeidstakerne og innleide arbeidstakerne på ethvert arbeidslag på bygge- eller anleggsplassen skal, når det er nødvendig for å ivareta sikkerhetshensyn, kunne forstå og gjøre seg forstått på et språk de andre på arbeidslaget forstår og kan gjøre seg forstått på."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 29 aug 2023 nr. 1367 (i kraft 1 jan 2024)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Straff",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 20",
+     "tittel": "Straff",
+     "ledd": [
+      "Forsettlig eller uaktsom overtredelse av denne forskriften eller vedtak gitt i medhold av forskriften, eller medvirkning til dette, straffes i henhold til arbeidsmiljøloven kapittel 19."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Avsluttende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 21",
+     "tittel": "Ikrafttredelse og overgangsbestemmelser",
+     "ledd": [
+      "Forskriften trer i kraft 1. januar 2010.",
+      "Fra samme dato oppheves forskrift 21. april 1995 nr. 377 om sikkerhet, helse og arbeidsmiljø på bygge- og anleggsplasser (byggherreforskriften).",
+      "For bygge- eller anleggsarbeid hvor Arbeidstilsynet har mottatt forhåndsmelding innen 1. januar 2010, kan byggherren i stedet velge å følge reglene i forskrift 21. april 1995 nr. 377 om sikkerhet, helse og arbeidsmiljø på bygge- og anleggsplasser (byggherreforskriften)."
+     ]
+    }
+   ]
+  }
+ ]
+}

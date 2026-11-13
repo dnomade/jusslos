@@ -1,0 +1,167 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-2018-12-20-2052",
+ "dokumentid": "DEL/forskrift/2018-12-20-2052",
+ "departement": [
+  "Forsvarsdepartementet"
+ ],
+ "ikraft": "2019-01-01",
+ "endrer": "lov/1998-03-20-10\nforskrift/2001-06-29-721\nforskrift/2003-06-27-802\nforskrift/2003-07-04-900\nforskrift/2004-02-12-1221\nforskrift/2018-06-22-951",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2018-06-01-24/§2-1",
+   "tekst": "lov/2018-06-01-24/§2-1"
+  },
+  {
+   "ref": "lov/2018-06-01-24/§2-2",
+   "tekst": "lov/2018-06-01-24/§2-2"
+  },
+  {
+   "ref": "lov/2018-06-01-24/§2-3",
+   "tekst": "lov/2018-06-01-24/§2-3"
+  },
+  {
+   "ref": "lov/2018-06-01-24/§2-4",
+   "tekst": "lov/2018-06-01-24/§2-4"
+  },
+  {
+   "ref": "lov/2018-06-01-24/§3-1",
+   "tekst": "lov/2018-06-01-24/§3-1"
+  },
+  {
+   "ref": "lov/2018-06-01-24/§3-2",
+   "tekst": "lov/2018-06-01-24/§3-2"
+  },
+  {
+   "ref": "lov/2018-06-01-24/§4-1",
+   "tekst": "lov/2018-06-01-24/§4-1"
+  },
+  {
+   "ref": "lov/2018-06-01-24/§4-2",
+   "tekst": "lov/2018-06-01-24/§4-2"
+  },
+  {
+   "ref": "lov/2018-06-01-24/§4-3",
+   "tekst": "lov/2018-06-01-24/§4-3"
+  },
+  {
+   "ref": "lov/2018-06-01-24/§4-4",
+   "tekst": "lov/2018-06-01-24/§4-4"
+  },
+  {
+   "ref": "lov/2018-06-01-24/§4-5",
+   "tekst": "lov/2018-06-01-24/§4-5"
+  },
+  {
+   "ref": "lov/2018-06-01-24/§5-2",
+   "tekst": "lov/2018-06-01-24/§5-2"
+  },
+  {
+   "ref": "lov/2018-06-01-24/§5-3",
+   "tekst": "lov/2018-06-01-24/§5-3"
+  },
+  {
+   "ref": "lov/2018-06-01-24/§5-5",
+   "tekst": "lov/2018-06-01-24/§5-5"
+  },
+  {
+   "ref": "lov/2018-06-01-24/§5-6",
+   "tekst": "lov/2018-06-01-24/§5-6"
+  },
+  {
+   "ref": "lov/2018-06-01-24/§6-2",
+   "tekst": "lov/2018-06-01-24/§6-2"
+  },
+  {
+   "ref": "lov/2018-06-01-24/§6-3",
+   "tekst": "lov/2018-06-01-24/§6-3"
+  },
+  {
+   "ref": "lov/2018-06-01-24/§6-5",
+   "tekst": "lov/2018-06-01-24/§6-5"
+  },
+  {
+   "ref": "lov/2018-06-01-24/§6-6",
+   "tekst": "lov/2018-06-01-24/§6-6"
+  },
+  {
+   "ref": "lov/2018-06-01-24/§7-1",
+   "tekst": "lov/2018-06-01-24/§7-1"
+  },
+  {
+   "ref": "lov/2018-06-01-24/§7-2",
+   "tekst": "lov/2018-06-01-24/§7-2"
+  },
+  {
+   "ref": "lov/2018-06-01-24/§7-3",
+   "tekst": "lov/2018-06-01-24/§7-3"
+  },
+  {
+   "ref": "lov/2018-06-01-24/§7-4",
+   "tekst": "lov/2018-06-01-24/§7-4"
+  },
+  {
+   "ref": "lov/2018-06-01-24/§8-1",
+   "tekst": "lov/2018-06-01-24/§8-1"
+  },
+  {
+   "ref": "lov/2018-06-01-24/§8-3",
+   "tekst": "lov/2018-06-01-24/§8-3"
+  },
+  {
+   "ref": "lov/2018-06-01-24/§8-5",
+   "tekst": "lov/2018-06-01-24/§8-5"
+  },
+  {
+   "ref": "lov/2018-06-01-24/§8-6",
+   "tekst": "lov/2018-06-01-24/§8-6"
+  },
+  {
+   "ref": "lov/2018-06-01-24/§8-9",
+   "tekst": "lov/2018-06-01-24/§8-9"
+  },
+  {
+   "ref": "lov/2018-06-01-24/§9-2",
+   "tekst": "lov/2018-06-01-24/§9-2"
+  },
+  {
+   "ref": "lov/2018-06-01-24/§9-3",
+   "tekst": "lov/2018-06-01-24/§9-3"
+  },
+  {
+   "ref": "lov/2018-06-01-24/§9-4",
+   "tekst": "lov/2018-06-01-24/§9-4"
+  },
+  {
+   "ref": "lov/2018-06-01-24/§10-1",
+   "tekst": "lov/2018-06-01-24/§10-1"
+  },
+  {
+   "ref": "lov/2018-06-01-24/§10-2",
+   "tekst": "lov/2018-06-01-24/§10-2"
+  },
+  {
+   "ref": "lov/2018-06-01-24/§11-2",
+   "tekst": "lov/2018-06-01-24/§11-2"
+  },
+  {
+   "ref": "lov/1992-12-04-126/§12",
+   "tekst": "lov/1992-12-04-126/§12"
+  }
+ ],
+ "kunngjort": "2018-12-20 15:50",
+ "korttittel": "Ikrafts. av lov 2018:24, sikkerhetsloven med overgangsregler, fordeling av myndighet, videreføring av forskrifter m.m.",
+ "tittel": "Ikraftsetting av lov 1. juni 2018 nr. 24 om nasjonal sikkerhet med overgangsregler, fordeling av myndighet, videreføring av forskrifter m.m.",
+ "annet": "Hjemmel: Fastsatt ved kgl.res. 20. desember 2018 med hjemmel i lov 1. juni 2018 nr. 24 om nasjonal sikkerhet (sikkerhetsloven) § 2-1, § 2-2, § 2-3, § 2-4, § 3-1, § 3-2, § 4-1, § 4-2, § 4-3, § 4-4, § 4-5, § 5-2, § 5-3, § 5-5, § 5-6, § 6-2, § 6-3, § 6-5, § 6-6, § 7-1, § 7-2, § 7-3, § 7-4, § 8-1, § 8-3, § 8-5, § 8-6, § 8-9, § 9-2, § 9-3, § 9-4, § 10-1, § 10-2 og § 11-2 og lov 4. desember 1992 nr. 126 om arkiv § 12. Fremmet av Forsvarsdepartementet.",
+ "refid": "forskrift/2018-12-20-2052",
+ "eli": "/eli/forskrift/2018/12/20/2052",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/2018-12-20-2052",
+ "innhold": [
+  {
+   "type": "tekst",
+   "tekst": "1. Ikrafttredelse\nLov 1. juni 2018 nr. 24 om nasjonal sikkerhet trer ikraft 1. januar 2019.\n2. Overgangsregler\na. Vedtak etter lov 20. mars 1998 nr. 10 om forebyggende sikkerhet § 2 tredje ledd gjelder frem til det er fattet et nytt vedtak etter lov 1. juni 2018 nr. 24 om nasjonal sikkerhet § 1-3 om forholdet.\nb. Informasjon som er sikkerhetsgradert etter lov 20. mars 1998 nr. 10 om forebyggende sikkerhetstjeneste § 11, er sikkerhetsgradert også etter lov 1. juni 2018 nr. 24 om nasjonal sikkerhet § 5-3.\nc. Skjermingsverdige informasjonssystemer og kryptosystemer som er godkjent etter lov 20. mars 1998 nr. 10 om forebyggende sikkerhetstjeneste § 13 og § 14, er godkjent frem til godkjenningen opphører eller det er gitt ny godkjenning.\nd. Objekter som er klassifisert etter lov 20. mars 1998 nr. 10 om forebyggende sikkerhetstjeneste § 17a, er klassifisert også etter lov 1. juni 2018 nr. 24 om nasjonal sikkerhet § 7-2 frem til det er gjort nytt vedtak etter § 7-2.\ne. Vedtak etter lov 20. mars 1998 nr. 10 om forebyggende sikkerhet § 17b fjerde ledd om krav til sikkerhetsklarering for adgang til et objekt, gjelder inntil departementet fatter vedtak om krav om adgangsklarering etter lov 1. juni 2018 nr. 24 om nasjonal sikkerhet § 8-3, og senest innen 1. januar 2022.\nf. Leverandører som er leverandørklarert etter lov 20. mars 1998 nr. 10 om forebyggende sikkerhetstjeneste § 28, er leverandørklarert frem til klareringen opphører.\ng. Den som er sikkerhetsklarert etter lov 20. mars 1998 nr. 10 om forebyggende sikkerhetstjeneste § 19, er sikkerhetsklarert frem til klareringen opphører. En klage i sak om sikkerhetsklarering avgjøres etter reglene på tidspunktet for vedtaket i klageinstansen.\n3. Fordeling av myndighet\na. Justis- og beredskapsdepartementet har det overordnede ansvaret for det forebyggende sikkerhetsarbeidet i sivil sektor.\nb. Forsvarsdepartementet har det overordnede ansvaret for det forebyggende sikkerhetsarbeidet i forsvarssektoren.\nc. Nasjonal sikkerhetsmyndighet har myndighet og ansvar som sikkerhetsmyndighet etter sikkerhetsloven i begge sektorer.\nd. Forsvarsdepartementet har forvaltningsansvaret for sikkerhetsloven og det administrative ansvaret for Nasjonal sikkerhetsmyndighet.\ne. Departementene skal identifisere grunnleggende nasjonale funksjoner og fatte vedtak overfor virksomheter etter lov 1. juni 2018 nr. 24 om nasjonal sikkerhet § 2-1 innen rimelig tid. Hva som er rimelig tid vil være avhengig av størrelsen på samfunnssektoren det gjelder, omfanget av skjermingsverdige verdier, kompleksiteten på verdikjedene, og den sikkerhetsfaglige kompetansen i departementet.\n4. Videreføring av forskrift\nForskrift 22. juni 2018 nr. 951 om kontroll med informasjon innhentet med luftbårne sensorsystemer fastsatt med delvis hjemmel i sikkerhetsloven 1998 skal fortsatt gjelde med delvis hjemmel i sikkerhetsloven 2018 § 7-5.\n5. Oppheving av myndighetsfordelingen og delegeringer etter sikkerhetsloven 1998\na. Kronprinsregentens resolusjon 4. juli 2003 nr. 900 om fordelingen av ansvar for forebyggende sikkerhetstjeneste og Nasjonal sikkerhetsmyndighet oppheves 1. januar 2019.\nb. Delegering 29. juni 2001 nr. 721 av myndighet til Forsvarsdepartementet etter sikkerhetsloven § 12 andre ledd, § 15 fjerde ledd, § 16 andre ledd og § 29 oppheves 1. januar 2019.\nc. Delegering 27. juni 2003 nr. 802 av myndighet til Forsvarsdepartementet etter sikkerhetsloven § 2 tredje ledd oppheves 1. januar 2019.\nd. Delegering 12. februar 2004 nr. 1221 av myndighet til Petroleumstilsynet etter sikkerhetsloven 23 første ledd oppheves 1. januar 2019."
+  }
+ ]
+}

@@ -1,0 +1,109 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2016-05-24-512",
+ "dokumentid": "SF/forskrift/2016-05-24-512",
+ "departement": [
+  "Samferdselsdepartementet"
+ ],
+ "etat": [
+  "Luftfartstilsynet"
+ ],
+ "kunngjort_i": "I 2016 hefte 6",
+ "ikraft": "2016-05-24",
+ "siste_endring_ikraft": "2020-10-07",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2020-10-07-1985",
+   "tekst": "forskrift/2020-10-07-1985"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1993-06-11-101/§9-1",
+   "tekst": "lov/1993-06-11-101/§9-1"
+  },
+  {
+   "ref": "forskrift/1999-12-10-1265",
+   "tekst": "forskrift/1999-12-10-1265"
+  },
+  {
+   "ref": "forskrift/1999-12-10-1273",
+   "tekst": "forskrift/1999-12-10-1273"
+  }
+ ],
+ "kunngjort": "2016-05-24 14:35",
+ "korttittel": "Operational directive according to the Aviation Act",
+ "tittel": "Operational Directive requiring the use of pressurized aircraft for air operators conducting scheduled passenger flights over mountainous areas in Norway",
+ "annet": "Hjemmel: Fastsatt av Luftfartstilsynet 24. mai 2016 med hjemmel i lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven) § 9-1, jf. delegeringsvedtak 10. desember 1999 nr. 1265 og delegeringsvedtak 10. desember 1999 nr. 1273.\nEØS-henvisninger: EØS-avtalen vedlegg XIII nr. 66n (forordning (EF) nr. 216/2008 endret ved forordning (EF) nr. 690/2009, forordning (EF) nr. 1108/2009, forordning (EU) nr. 6/2013 og forordning (EU) 2016/4).\nEndret ved forskrift 7 okt 2020 nr. 1985.",
+ "refid": "forskrift/2016-05-24-512",
+ "eli": "/eli/forskrift/2016/05/24/512",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2016-05-24-512",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "1. Introduction and applicability",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "1.1.\nThis Operational Directive contains mandatory action that is required to establish an acceptable level of safety. The Directive is issued in accordance with the Aviation Act (luftfartsloven) § 9-1.\n1.2.\nThis Operational Directive is applicable to commercial air transport (CAT) operators conducting scheduled passenger flights with airplanes over mountainous land areas in the Kingdom of Norway."
+    },
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrift 7 okt 2020 nr. 1985."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "2. Action to be taken: Requirement for pressurized aircraft",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "2.1.\nFor all commercial scheduled passenger flights with airplanes, over mountainous areas in Norway, pressurized aircraft must be used.\n2.2.\nMountainous areas in this context include all areas along intended routes, as well as relevant alternates where Minimum Obstacle Clearance Altitude or Grid Minimum Off-Route Altitude (MOCA/Grid MORA) is at or above 8000 feet, ref. Regulation (EU) No 965/2012 Annex IV, CAT.OP.MPA.145 – Establishment of minimum flight altitudes. This includes terrain with elevation at or above 6000 feet."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "3. Reason",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "3.1.\nMountainous areas in Norway are particularly exposed to icing conditions, evidenced by icing incidents resulting in loss of control of the aircraft.\n3.2.\nThe unique weather and geographical conditions in Norway which causes increased risk of icing is well documented in meteorological literature.\n3.3.\nDue to altitude restriction for flights without oxygen, ref. Regulation (EU) No 965/2012, CAT.IDE.A.240, an unpressurized passenger aircraft flying in mountainous areas will have to operate in the altitude levels between 8000 and 10 000 feet, resulting in a vertical maneuvering space of only 2000 feet. In case of a serious icing incident causing loss of control, the distance to the terrain below leaves an insufficient margin for a safe recovery of the aircraft.\n3.4.\nTo mitigate the risk of an accident due to icing and possible loss of control, all air operators conducting scheduled passenger flights over mountainous areas in Norway are required to use pressurized aircraft. This will enable flights to operate above 10 000 feet in order to avoid icing conditions, and to also provide an increased vertical maneuvering space for a safe recovery of the aircraft in case of loss of control due to icing."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "4. Notifications and queries",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "4.1.\nNotifications or queries should be sent to The Civil Aviation Authority of Norway, P.O. Box 243, 8001 Bodø, Norway, or by e-mail to postmottak@caa.no. Please refer to case 16/05084."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "5. Entry in to force",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "5.1.\nThis Operational Directive shall enter in to force immediately after its publication, and shall remain in force until it is revoked by the Civil Aviation Authority of Norway."
+    }
+   ]
+  }
+ ]
+}

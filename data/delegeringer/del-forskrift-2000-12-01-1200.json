@@ -1,0 +1,89 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-2000-12-01-1200",
+ "dokumentid": "DEL/forskrift/2000-12-01-1200",
+ "departement": [
+  "Helse- og omsorgsdepartementet"
+ ],
+ "etat": [
+  "Sykehusavdelingen"
+ ],
+ "kunngjort_i": "I 2000 2550",
+ "ikraft": "2001-01-01",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1969-06-19-57",
+   "tekst": "lov/1969-06-19-57"
+  },
+  {
+   "ref": "lov/1956-07-13",
+   "tekst": "lov/1956-07-13"
+  },
+  {
+   "ref": "lov/1960-01-08-1",
+   "tekst": "lov/1960-01-08-1"
+  },
+  {
+   "ref": "lov/1971-06-11-54",
+   "tekst": "lov/1971-06-11-54"
+  },
+  {
+   "ref": "lov/1972-06-23-69",
+   "tekst": "lov/1972-06-23-69"
+  },
+  {
+   "ref": "lov/1973-03-09-13",
+   "tekst": "lov/1973-03-09-13"
+  },
+  {
+   "ref": "lov/1974-06-14-47",
+   "tekst": "lov/1974-06-14-47"
+  },
+  {
+   "ref": "lov/1980-06-13-42",
+   "tekst": "lov/1980-06-13-42"
+  },
+  {
+   "ref": "lov/1980-06-13-43",
+   "tekst": "lov/1980-06-13-43"
+  },
+  {
+   "ref": "lov/1985-04-26-23",
+   "tekst": "lov/1985-04-26-23"
+  }
+ ],
+ "korttittel": "Deleg. til SHD etter sykehusl. og helsepersonell.",
+ "tittel": "Delegering av myndighet til Sosial- og helsedepartementet etter sykehusloven og helsepersonelloven.",
+ "annet": "Fastsatt ved kgl.res. 1. desember 2000. Fremmet av Sosial- og helsedepartementet.",
+ "refid": "forskrift/2000-12-01-1200",
+ "eli": "/eli/forskrift/2000/12/01/1200",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/2000-12-01-1200",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Sosial- og helsedepartementet gis myndighet til å oppheve eller endre forskrifter gitt med hjemmel i lov av 19. juni 1969 nr. 57 om sykehus m.v. og med hjemmel i de lover som oppheves ved ikrafttredelse av lov av 2. juli 1999 nr. 64 om helsepersonell m.v. (helsepersonelloven)."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Delegeringen trer i kraft 1. januar 2001."
+    }
+   ]
+  }
+ ]
+}

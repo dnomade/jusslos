@@ -1,0 +1,55 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-2025-06-12-1053",
+ "dokumentid": "DEL/forskrift/2025-06-12-1053",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Skattelovavdelingen"
+ ],
+ "ikraft": "2025-06-12",
+ "hjemmel": [
+  {
+   "ref": "lov/2025-04-25-12",
+   "tekst": "lov/2025-04-25-12"
+  },
+  {
+   "ref": "forskrift/2025-06-10-968",
+   "tekst": "forskrift/2025-06-10-968"
+  }
+ ],
+ "kunngjort": "2025-06-19 14:10",
+ "tittel": "Delegering av myndighet til Skattedirektoratet etter lov om innkreving av statlige krav mv. (innkrevingsloven)",
+ "annet": "Hjemmel: Fastsatt av Finansdepartementet 12. juni 2025 med hjemmel i lov 25. april 2025 nr. 12 om innkreving av statlige krav mv. (innkrevingsloven) og delegeringsvedtak 10. juni 2025 nr. 968.",
+ "refid": "forskrift/2025-06-12-1053",
+ "eli": "/eli/forskrift/2025/06/12/1053",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/2025-06-12-1053",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Finansdepartementets myndighet etter lov 25. april 2025 nr. 12 om innkreving av statlige krav mv. (innkrevingsloven) og etter delegeringsvedtak 10. juni 2025 nr. 968 delegeres til Skattedirektoratet."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Vedtaket trer i kraft straks."
+    }
+   ]
+  }
+ ]
+}

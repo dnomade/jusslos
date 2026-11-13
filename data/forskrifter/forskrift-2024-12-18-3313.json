@@ -1,0 +1,346 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2024-12-18-3313",
+ "dokumentid": "SF/forskrift/2024-12-18-3313",
+ "departement": [
+  "Digitaliserings- og forvaltningsdepartementet"
+ ],
+ "etat": [
+  "Avdeling for digitaliseringspolitikk"
+ ],
+ "ikraft": "2025-01-01",
+ "siste_endring_ikraft": "2026-07-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2026-06-22-1320",
+   "tekst": "forskrift/2026-06-22-1320 fra 2026-07-01"
+  }
+ ],
+ "hjemmel": [
+  {
+   "ref": "lov/2024-12-13-76/§3-7",
+   "tekst": "lov/2024-12-13-76/§3-7"
+  },
+  {
+   "ref": "lov/2024-12-13-76/§15-1",
+   "tekst": "lov/2024-12-13-76/§15-1"
+  },
+  {
+   "ref": "lov/2024-12-13-76/§15-12",
+   "tekst": "lov/2024-12-13-76/§15-12"
+  },
+  {
+   "ref": "lov/2024-12-13-76/§15-13",
+   "tekst": "lov/2024-12-13-76/§15-13"
+  },
+  {
+   "ref": "lov/2024-12-13-76/§16-7",
+   "tekst": "lov/2024-12-13-76/§16-7"
+  }
+ ],
+ "kunngjort": "2024-12-20 16:20",
+ "tittel": "Forskrift om datasenter",
+ "annet": "Hjemmel: Fastsatt av Digitaliserings- og forvaltningsdepartementet 18. desember 2024 med hjemmel i lov 13. desember 2024 nr. 76 om elektronisk kommunikasjon (ekomloven) § 3-7, § 15-1, § 15-12, § 15-13 og § 16-7.\nEndret ved forskrift 22 juni 2026 nr. 1320 (i kraft 1 juli 2026).",
+ "refid": "forskrift/2024-12-18-3313",
+ "eli": "/eli/forskrift/2024/12/18/3313",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2024-12-18-3313",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Innledende bestemmelser og krav til registrering",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1-1",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Forskriften gjelder for datasenteroperatører som definert i ekomloven § 1-5 nr. 38."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 1-2",
+     "tittel": "Terskelverdi for datasenteroperatør",
+     "ledd": [
+      "Terskelverdien etter ekomloven § 1-5 nr. 38 bokstav b er 0,5 MW."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 1-3",
+     "tittel": "Registreringsplikt for datasenteroperatører",
+     "ledd": [
+      "En datasenteroperatør skal registrere seg hos Nasjonal kommunikasjonsmyndighet før virksomheten starter opp. Virksomheten kan settes i gang når registrering er sendt.",
+      "Registreringen skal inneholde\n1. datasenteroperatørs navn\n2. norsk organisasjonsnummer eller datasenteroperatørens rettslige status, form og registreringsnummer dersom datasenteroperatøren er registrert i et handelsregister eller et lignende offentlig register i EØS\n3. norsk adresse eller adressen til datasenteroperatørens eventuelle hovedforetak i EØS og eventuelt en sekundær filial\n4. datasenteroperatørens nettadresse\n5. datasentrenes fysiske lokasjon\n6. kontaktinformasjonen til datasenteroperatørens fysiske representant i Norge\n7. en beskrivelse av hvilke tjenester som tilbys\n8. informasjon om norske statlige, fylkeskommunale og kommunale myndigheter, organer og virksomheter som er kunder hos datasenteroperatøren\n9. anslag over prosentvis andel av kraftforbruket som skal anvendes til utvinning av kryptovaluta\n10. opplysninger om størrelsen på abonnert elektrisk effekt\n11. forventet oppstart av virksomheten\n12. navn på eier av bygning der datasenteret er lokalisert.",
+      "Nasjonal kommunikasjonsmyndighet kan fastsette standardskjema som skal nyttes ved registreringen, og nærmere krav til selve registreringen. Endringer i registrerte opplysninger, herunder om opphør av virksomheten og sletting i registeret, skal snarest mulig og senest to uker etter endringen meldes til Nasjonal kommunikasjonsmyndighet.",
+      "Nasjonal kommunikasjonsmyndighet kan pålegge datasenteroperatører som faller under terskelverdien, men som er av særlig viktighet, å registrere seg. Nasjonal kommunikasjonsmyndighet kan ved enkeltvedtak gi unntak fra registreringsplikten i tilfeller der registrering er unødvendig for å oppfylle formålet med registreringen."
+     ],
+     "endringer": [
+      "Endret ved forskrift 22 juni 2026 nr. 1320 (i kraft 1 juli 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 1-4",
+     "tittel": "Plikt til å ha oppdatert kundeinformasjon tilgjengelig",
+     "ledd": [
+      "En datasenteroperatør skal ha tilgjengelig og oppdatert informasjon om kunder som får tilgang til datasentertjenester, jf. ekomloven § 1-5 nr. 37. Informasjonen skal omfatte hvor i datasenteret de enkelte kundenes fysiske utstyr er plassert og kundenes\n1. navn\n2. eventuelle organisasjonsnummer eller rettslige status, form og registreringsnummer dersom kunden er registrert i et handelsregister eller et lignende offentlig register\n3. adresse\n4. telefonnummer\n5. e-postadresse\n6. eventuelle nettadresse."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 22 juni 2026 nr. 1320 (i kraft 1 juli 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-5",
+     "nummer": "§ 1-5",
+     "tittel": "Plikt til å utlevere kundeinformasjon",
+     "ledd": [
+      "En datasenteroperatør har plikt til å utlevere informasjon som nevnt i § 1-4 om én eller enkelte angitte kunder til\na. politiet eller påtalemyndigheten når og i det omfang det er nødvendig for å stanse eller avverge et lovbrudd rettet mot eller begått ved bruk av utstyr i et datasenter.\nb. Politiets sikkerhetstjeneste når det er det er grunn til å undersøke om noen forbereder en handling som nevnt i politiloven § 17b, og det er grunn til å tro at informasjonen er av betydning for å forebygge handlingen.",
+      "En datasenteroperatør har plikt til å utlevere informasjon som nevnt i § 1-4 til\na. Nasjonal sikkerhetsmyndighet når og i det omfang det er nødvendig for å drive den nasjonale responsfunksjonen ved alvorlige digitale angrep og det nasjonale varslingssystemet for digital infrastruktur etter sikkerhetsloven § 2-4.\nb. Nasjonal kommunikasjonsmyndighet når og i det omfang det er nødvendig for å utføre oppgaver etter sikkerhetsloven.",
+      "Pålegget om utlevering av informasjon etter første og andre ledd skal fremsettes skriftlig av lederen av det aktuelle organet eller den denne bemyndiger. Pålegget skal så vidt mulig opplyse om hva saken gjelder, formålet med pålegget og hva det omfatter. Pålegget skal også opplyse om hvilken myndighet som er klageinstans. Det skal fremgå at vilkårene for utlevering av informasjonen er vurdert."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 22 juni 2026 nr. 1320 (i kraft 1 juli 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-6",
+     "nummer": "§ 1-6",
+     "tittel": "Krav om fysisk representant i Norge",
+     "ledd": [
+      "En datasenteroperatør skal ha en representant som er til stede i Norge. Representanten skal kunne møte opp fysisk og ha nødvendig fullmakt og kunnskap til å kunne følge opp henvendelser fra myndighetene, herunder til å kunne bistå når myndighetene har hjemmel til å gjennomføre tiltak etter lov eller forskrift gitt med hjemmel i lov, som forskriften § 1-5, straffeprosessloven, politiloven eller sikkerhetsloven."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 22 juni 2026 nr. 1320 (i kraft 1 juli 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-7",
+     "nummer": "§ 1-7",
+     "tittel": "Krav til responstid",
+     "ledd": [
+      "Innenfor arbeidstid skal datasenteroperatøren etterkomme pålegg etter § 1-5 uten ugrunnet opphold. Det samme gjelder bistand til gjennomføring av tiltak som nevnt i § 1-6.",
+      "Utenfor normal arbeidstid skal datasenteroperatøren ha beredskap for på kort varsel å følge opp henvendelser som nevnt i første ledd i saker som haster av hensyn til kriminalitetsbekjempelse eller nasjonal sikkerhet."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 22 juni 2026 nr. 1320 (i kraft 1 juli 2026)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Sikkerhet og beredskap",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 2-1",
+     "tittel": "Krav til sikkerhetsstyring",
+     "ledd": [
+      "En datasenteroperatør skal etablere og vedlikeholde et styringssystem for sikkerhet som beskriver virksomhetens sikkerhetsarbeid. Systemet skal sikre at virksomheten oppfyller krav gitt i eller med hjemmel i lov.",
+      "Virksomhetens leder skal jevnlig foreta en gjennomgang av virksomhetens styringssystem for sikkerhet. Styringssystemet skal gjøres kjent for virksomhetens ansatte og underleverandører i den grad det er hensiktsmessig for å oppfylle krav gitt i eller med hjemmel i lov.",
+      "Datasenteroperatørens styringssystem for sikkerhet skal dokumenteres.",
+      "Datasenteroperatøren skal jevnlig kontrollere og revidere planverk og dokumentasjon knyttet til virksomhetens sikkerhetsstyring for å sikre at krav fastsatt i eller med hjemmel i lov er oppfylt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 2-2",
+     "tittel": "Krav om risiko- og sårbarhetsvurdering",
+     "ledd": [
+      "En datasenteroperatør skal utarbeide og vedlikeholde risiko- og sårbarhetsvurderinger for å ivareta forsvarlig sikkerhet i datasenteret. Risiko- og sårbarhetsvurderingene skal være av et slikt omfang at virksomheten kan identifisere organisatoriske, fysiske, logiske og menneskelige sikkerhetstiltak.",
+      "Ved endringer som kan påvirke sikkerheten skal datasenteroperatøren vurdere hvilken risiko endringene medfører.",
+      "Datasenteroperatørens risiko- og sårbarhetsvurderinger skal dokumenteres."
+     ],
+     "endringer": [
+      "Endret ved forskrift 22 juni 2026 nr. 1320 (i kraft 1 juli 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 2-3",
+     "tittel": "Krav til grunnsikring og skadebegrensningstiltak",
+     "ledd": [
+      "En datasenteroperatør skal utarbeide, iverksette og vedlikeholde grunnsikringstiltak for å ivareta forsvarlig sikkerhet i datasenteret. Grunnsikringstiltak innebærer en kombinasjon av barrierer, deteksjons-, verifikasjons- og reaksjonstiltak.",
+      "Datasenteroperatøren skal planlegge skadebegrensningstiltak som kan iverksettes i situasjoner som ikke kan håndteres fullt ut med grunnsikringstiltakene.",
+      "Datasenteroperatøren skal ha en plan for å gjenopprette et forsvarlig sikkerhetsnivå.",
+      "Tiltak som nevnt i første og andre ledd, samt planer som nevnt i tredje ledd, skal dokumenteres."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 2-4",
+     "tittel": "Krav til sikringsplaner",
+     "ledd": [
+      "En datasenteroperatør skal utarbeide, iverksette og vedlikeholde planer for sikring av informasjon, informasjonssystemer og styringssystemer. Slike sikringsplaner innebærer som et minimum at datasenteroperatøren utarbeider og iverksetter prosedyrer for tildeling av rettigheter, tilgangskontroll, endring, sletting, logging, redundans, sikkerhetskopiering, vedlikehold og testing for å ivareta tilgjengelighet, autentisitet, integritet og konfidensialitet.",
+      "Datasenteroperatørens sikringsplaner skal dokumenteres."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 2-5",
+     "tittel": "Krav om beredskapsplanlegging og -øvelser",
+     "ledd": [
+      "En datasenteroperatør skal utarbeide og vedlikeholde beredskapsplaner for å ivareta forsvarlig sikkerhet i datasenteret.",
+      "Datasenteroperatørens beredskapsplaner skal dokumenteres.",
+      "Datasenteroperatøren skal jevnlig gjennomføre beredskapsøvelser med det innhold og omfang som er nødvendig for å vedlikeholde og utvikle virksomhetens kompetanse og evne til å håndtere uønskede hendelser.",
+      "Plan for gjennomføring av beredskapsøvelser skal dokumenteres.",
+      "Datasenteroperatøren skal på forespørsel delta i beredskapsøvelser arrangert av departementet eller Nasjonal kommunikasjonsmyndighet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-6",
+     "nummer": "§ 2-6",
+     "tittel": "Adgang til å pålegge sikkerhetsrevisjon",
+     "ledd": [
+      "Nasjonal kommunikasjonsmyndighet kan pålegge en datasenteroperatør å foreta en sikkerhetsrevisjon av hele eller deler av virksomheten, når opplysninger som er innhentet eller tilsyn som er gjennomført, ikke er tilstrekkelig til å besvare nødvendige spørsmål om virksomhetens sikkerhet. Nasjonal kommunikasjonsmyndighet kan stille krav til sikkerhetsrevisjonen. Revisjonen skal foretas av en uavhengig, kvalifisert tredjepart, og resultatet av revisjonen skal sendes Nasjonal kommunikasjonsmyndighet. Datasenteroperatøren skal dekke alle kostnadene ved revisjonen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-7",
+     "nummer": "§ 2-7",
+     "tittel": "Plikt til å følge opp at andre oppfyller sikkerhetskravene",
+     "ledd": [
+      "En datasenteroperatør skal følge opp at leverandører, entreprenører og andre som utfører arbeid for eller på vegne av operatøren, etterlever sikkerhetskrav fastsatt i eller med hjemmel i lov."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-8",
+     "nummer": "§ 2-8",
+     "tittel": "Plikt til å varsle om uønskede hendelser",
+     "ledd": [
+      "En datasenteroperatør skal uten ugrunnet opphold varsle Nasjonal kommunikasjonsmyndighet om hendelser som har medført vesentlige brudd på datasenteret eller datasentertjenestenes tilgjengelighet, autentisitet, integritet eller konfidensialitet.",
+      "Varselet skal minst opplyse om hendelsens årsak, konsekvensene for datasenteret og datasentertjenestene, innvirkningen på økonomiske og samfunnsmessige aktiviteter, antallet berørte kunder og det geografiske omfanget i den grad opplysningene er kjent. Det skal også opplyses om tiltakene for å stoppe og utbedre skadene, og hvor lenge tjenestene har vært eller vil være påvirket av hendelsen.",
+      "Ved konkrete og betydelige trusler med fare for brudd på autentisitet, integritet eller konfidensialitet skal datasenteroperatør varsle kundene om mulige vernetiltak eller avhjelpende tiltak som kunden kan sette i verk. Vil det det være hensiktsmessig, skal datasenteroperatør også informere om selve trusselen.",
+      "En datasenteroperatør skal varsle kundene om planlagt arbeid som kan få konsekvenser for datasentertjenestene som tilbys.",
+      "Nasjonal kommunikasjonsmyndighet kan gi forskrift om nærmere prosedyrer for varsling."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-9",
+     "nummer": "§ 2-9",
+     "tittel": "Adgang til å pålegge datasentrene å ha nasjonal autonomi",
+     "ledd": [
+      "Nasjonal kommunikasjonsmyndighet kan i en krise- og beredskapssituasjon pålegge datasenteroperatørene å drifte og vedlikeholde tjenestetilbudet med personell og tekniske løsninger i Norge."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-10",
+     "nummer": "§ 2-10",
+     "tittel": "Adgang til å pålegge prioritering av tjenestetilbud",
+     "ledd": [
+      "Har datasentertjenestene stanset eller på andre måter vært utsatt for forstyrrelser, kan Nasjonal kommunikasjonsmyndighet, når det er nødvendig for å sikre offentlige interesser, pålegge datasenteroperatørene å prioritere viktige samfunnsaktører når normal drift skal gjenopprettes."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Tilsyn, klage m.m.",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 3-1",
+     "tittel": "Tilsyn",
+     "ledd": [
+      "Nasjonal kommunikasjonsmyndighet fører tilsyn med at kravene i forskriften blir oppfylt, og kan blant annet innhente opplysninger og gjennomføre sanksjoner etter ekomloven kapittel 15."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 3-2",
+     "tittel": "Overtredelsesgebyr",
+     "ledd": [
+      "Nasjonal kommunikasjonsmyndighet kan ilegge et foretak overtredelsesgebyr dersom foretaket eller noen som handler på vegne av foretaket, forsettlig eller uaktsomt\na. overtrer § 1-3 (Registreringsplikt for datasenteroperatører), § 1-4 (Plikt til å ha oppdatert kundeinformasjon tilgjengelig), § 1-6 (Krav om fysisk representant i Norge), § 1-7 (Krav til responstid), § 2-1 (Krav til sikkerhetsstyring), § 2-2 (Krav om risiko- og sårbarhetsvurderinger), § 2-3 (Krav til grunnsikring og skadebegrensningstiltak), § 2-4 (Krav til sikringsplaner), § 2-5 (Krav om beredskapsplanlegging og -øvelser), § 2-7 (Plikt til å følge opp at andre oppfyller sikkerhetskravene) eller § 2-8 (Plikt til å varsle om uønskede hendelser)\nb. overtrer enkeltvedtak fastsatt med hjemmel i § 2-6 (Adgang til å pålegge sikkerhetsrevisjon), § 2-9 (Adgang til å pålegge datasentrene å ha nasjonal autonomi) eller § 2-10 (Adgang til å pålegge prioritering av tjenestetilbud), eller\nc. overtrer pålegg fastsatt med hjemmel i § 1-5 (Plikt til å utlevere kundeinformasjon)."
+     ],
+     "endringer": [
+      "Endret ved forskrift 22 juni 2026 nr. 1320 (i kraft 1 juli 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 3-3",
+     "tittel": "Utmåling av overtredelsesgebyr",
+     "ledd": [
+      "Ved utmålingen av overtredelsesgebyr skal det legges særlig vekt på overtredelsens grovhet, overtredelsens varighet, utvist skyld og foretakets omsetning.",
+      "I vurdering av overtredelsens grovhet skal det særlig tas hensyn til\n1. overtredelsens art\n2. foretakets gevinst\n3. overtredelsens faktiske innvirkning på markedet\n4. størrelsen på det berørte markedet\n5. om overtrederen har hatt en ledende eller passiv rolle i overtredelsen.",
+      "Andre momenter som kan påvirke utmålingen av overtredelsesgebyret er blant annet\n1. om avtaler eller tiltak er gjennomført\n2. om foretaket ved interne føringer, opplæring, kontroll eller andre tiltak kunne ha forebygget overtredelsen\n3. økonomien til det konsern foretaket er en del av\n4. om foretaket har bistått departementet eller Nasjonal kommunikasjonsmyndighet i forbindelse med klarleggingen av overtredelsen.",
+      "Departementet og Nasjonal kommunikasjonsmyndighet kan ilegge overtredelsesgebyr på inntil 5 prosent av foretakets omsetning dersom foretaket eller noen som handler på vegne av foretaket, begår overtredelser etter ekomloven § 15-12. Omsetning er foretakets samlede salgsinntekt for siste regnskapsår.",
+      "Departementet og Nasjonal kommunikasjonsmyndighet kan ilegge overtredelsesgebyr på inntil 30 rettsgebyrer for fysiske personer ved forsettlige eller uaktsomme overtredelser etter ekomloven § 15-12."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 3-4",
+     "tittel": "Klageinstans",
+     "ledd": [
+      "Klage over enkeltvedtak fattet av Nasjonal kommunikasjonsmyndighet etter denne forskriften, avgjøres av departementet, jf. ekomloven § 16-7."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 3-5",
+     "tittel": "Dispensasjon",
+     "ledd": [
+      "Nasjonal kommunikasjonsmyndighet kan i særlige tilfeller eller når anvendelse virker urimelig, gjøre unntak fra §§ 1-3, 2-1, 2-2, 2-3, 2-4, 2-5 og 2-7. Nasjonal kommunikasjonsmyndighet kan sette vilkår for dispensasjonen."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Avsluttende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 4-1",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Forskriften trer i kraft 1. januar 2025."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 4-2",
+     "tittel": "Overgangsbestemmelse for registreringsplikten",
+     "ledd": [
+      "Følgende overgangsordning skal gjelde:\nDatasenteroperatør, som ved lovens ikrafttredelse tilbyr datasentertjeneste eller driver datasenter, skal oppfylle registreringsplikten i § 1-3 senest 1. juli 2025."
+     ]
+    }
+   ]
+  }
+ ]
+}

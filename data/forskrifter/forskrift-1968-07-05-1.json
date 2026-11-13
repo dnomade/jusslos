@@ -1,0 +1,65 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-1968-07-05-1",
+ "dokumentid": "SF/forskrift/1968-07-05-1",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "etat": [
+  "Ressurs- og utredningsavd."
+ ],
+ "kunngjort_i": "I 1968 s 955, II 1968 s 433",
+ "ikraft": "1968-07-05",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1951-12-14-1/§3",
+   "tekst": "lov/1951-12-14-1/§3"
+  }
+ ],
+ "korttittel": "Forskrift om fangstforbud av Ross-sel",
+ "tittel": "Forskrift om forbud mot fangst av Ross-sel.",
+ "annet": "Fastsatt ved kgl.res. av 5. juli 1968 i medhold av § 3 i lov av 14. desember 1951 om fangst av sel.",
+ "refid": "forskrift/1968-07-05-1",
+ "eli": "/eli/forskrift/1968/07/05/01",
+ "url": "https://lovdata.no/dokument/SF/forskrift/1968-07-05-1",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Det er forbudt å fange eller avlive Ross-sel (Ommathophoca rossi) på landområdene eller på fastisen i Antarktis sør for 60° sørlig bredde."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "I havområdene sør for 60° sørlig bredde er det forbudt å fange eller avlive sel som oppholder seg i sjøen."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kapIII",
+   "overskrift": "III",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Denne resolusjon trer i kraft straks."
+    }
+   ]
+  }
+ ]
+}

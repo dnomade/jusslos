@@ -1,0 +1,60 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-2026-06-19-1234",
+ "dokumentid": "DEL/forskrift/2026-06-19-1234",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "etat": [
+  "Forsyningssikkerhets-, administrasjons- og budsjettavdelingen"
+ ],
+ "ikraft": "2026-06-19",
+ "endrer": "forskrift/2026-03-27-513",
+ "hjemmel": [
+  {
+   "ref": "lov/2011-12-16-65/§6",
+   "tekst": "lov/2011-12-16-65/§6"
+  },
+  {
+   "ref": "lov/2011-12-16-65/§8",
+   "tekst": "lov/2011-12-16-65/§8"
+  },
+  {
+   "ref": "lov/2011-12-16-65/§17",
+   "tekst": "lov/2011-12-16-65/§17"
+  }
+ ],
+ "kunngjort": "2026-06-23 14:10",
+ "tittel": "Delegering etter lov 16. desember 2011 nr. 65 om næringsberedskap",
+ "annet": "Hjemmel: Fastsatt ved kgl.res. 19. juni 2026 med hjemmel i lov 16. desember 2011 nr. 65 om næringsberedskap (næringsberedskapsloven) § 6, § 8 og § 17. Fremmet av Nærings- og fiskeridepartementet.",
+ "refid": "forskrift/2026-06-19-1234",
+ "eli": "/eli/forskrift/2026/06/19/1234",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/2026-06-19-1234",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "1.",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Kongens myndighet etter lov 16. desember 2011 nr. 65 om næringsberedskap §§ 6, 8 og 17 delegeres til Energidepartementet og Samferdselsdepartementet på de områder departementene har fagansvar for en næring. Denne delegeringen utfyller kongelig resolusjon av 16. juni 2017 nr. 820 om delegering etter lov 16. desember om næringsberedskap (næringsberedskapsloven)."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "2.",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Kongelig resolusjon 27. mars 2026 nr. 513 om delegering etter lov 16. desember 2011 nr. 65 om næringsberedskap, oppheves."
+    }
+   ]
+  }
+ ]
+}

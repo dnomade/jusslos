@@ -1,0 +1,151 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-1999-06-30-1499",
+ "dokumentid": "SF/forskrift/1999-06-30-1499",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "etat": [
+  "Fiskeridir."
+ ],
+ "kunngjort_i": "I 1999 3379",
+ "ikraft": "1999-07-01",
+ "siste_endring_ikraft": "2016-12-12",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2016-12-12-1555",
+   "tekst": "forskrift/2016-12-12-1555"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "forskrift/1998-03-04-173/§2",
+   "tekst": "forskrift/1998-03-04-173/§2"
+  },
+  {
+   "ref": "forskrift/1998-03-04-173/§5",
+   "tekst": "forskrift/1998-03-04-173/§5"
+  },
+  {
+   "ref": "lov/1972-06-16-57/§6",
+   "tekst": "lov/1972-06-16-57/§6"
+  },
+  {
+   "ref": "forskrift/1993-10-29-955",
+   "tekst": "forskrift/1993-10-29-955"
+  },
+  {
+   "ref": "lov/2008-06-06-37",
+   "tekst": "lov/2008-06-06-37"
+  }
+ ],
+ "korttittel": "Forskrift om fiske i statsløse områder",
+ "tittel": "Forskrift om registrering og rapportering ved fiske i farvann utenfor noen stats fiskerijurisdiksjon",
+ "annet": "Hjemmel: Fastsatt av Fiskeridirektoratet 30. juni 1999 med hjemmel i forskrift av 4. mars 1998 nr. 173 om regulering av fiske i farvann utenfor noen stats fiskerijurisdiksjon § 2 og § 5.\nEndret ved forskrifter 22 des 1999 nr. 1526, 29 juni 2001 nr. 1062, 26 jan 2005 nr. 142, 11 mai 2007 nr. 505, 4 jan 2011 nr. 3, 18 april 2013 nr. 392, 3 mars 2014 nr. 247, 12 des 2016 nr. 1555.",
+ "refid": "forskrift/1999-06-30-1499",
+ "eli": "/eli/forskrift/1999/06/30/1499",
+ "url": "https://lovdata.no/dokument/SF/forskrift/1999-06-30-1499",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Virkeområde",
+   "ledd": [
+    "Denne forskriften gjelder for norske statsborgere og personer bosatt i Norge som driver fiske med norske fartøy i farvann utenfor noen stats fiskerijurisdiksjon som ikke er regulert av regionale eller subregionale fiskeriforvaltningsorganisasjoner eller arrangementer med egne rapporteringsbestemmelser. Forskriften gjelder også i NEAFCs reguleringsområde."
+   ],
+   "endringer": [
+    "Endret ved forskrift 18 april 2013 nr. 392."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Registrering",
+   "ledd": [
+    "Fartøy som skal fiske i farvann som nevnt i § 1 må på forhånd være registrert gjennom melding til Fiskeridirektoratet:\na. før 1. januar hvert år hvis mulig eller\nb. i god tid før avgang fra hjemstedshavn eller\nc. innen 3 dager fra endringstidspunktet dersom det er endringer i opplysninger gitt i registreringsmeldingen.",
+    "Meldingen skal sendes på fastsatt skjema på e-post eller via Altinn og skal inneholde følgende opplysninger:\nÅret som registreringsmeldingen gjelder for\nFartøyets navn\nFartøyets radiokallesignal\nFartøyets registreringsnummer i Fiskeridirektoratets Merkeregister\nFartøyets IMO-nummer\nFartøyeiers navn og adresse\nHavområde/r det skal fiskes i\nFiskeslag som er hovedmål for fisket\nFartøytype\nFartøyets tonnasje\nFartøyets lengde\nFartøyets maskinkraft."
+   ],
+   "endringer": [
+    "Endret ved forskrifter 26 jan 2005 nr. 142, 11 mai 2007 nr. 505, 4 jan 2011 nr. 3, 12 des 2016 nr. 1555."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Rapportering",
+   "ledd": [
+    "Fartøy som fisker i farvann som nevnt i § 1, skal sende de meldingene som fremgår av denne bestemmelsen. Meldingene skal sendes elektronisk til Fiskeridirektoratet.",
+    "Ansvarshavende om bord på fartøyet skal forvisse seg om at rapporteringssystemet fungerer tilfredsstillende.",
+    "Meldinger sendt i henhold til denne forskriften anses som ikke mottatt av Fiskeridirektoratet dersom avsender ikke mottar returmelding eller returmeldingen viser meldingsstatus NAK.",
+    "1. Melding om fiskestart",
+    "Melding om fiskestart skal sendes tidligst 12 timer og senest 2 timer før inngang i området.",
+    "Meldingen skal inneholde følgende opplysninger:\n| Dataelement: | Kode: | Påkrevd/Valgfritt: | Innhold:\n| Meldingstype | TM | P | COE, Melding om fiskestart\n| Meldingsnummer | RN | P | Serienummer for meldingen i inneværende år\n| Autentisering | AU | P | Avtalt autentiseringskode\n| Radiokallesignal | RC | P | Fartøyets radiokallesignal\n| Fartøynavn | NA | V | Fartøyets navn\n| Registreringsmerke | XR | V | Fartøyets registreringsnummer i Merkeregisteret eller IMO-nummer dersom fartøyet ikke har registreringsnummer\n| Posisjon bredde | LA | P | Posisjon bredde ved sending av melding, NDDMM\n| Posisjon lengde | LO | P | Posisjon lengde ved sending av melding, E/WDDDMM\n| Kvantum om bord | OB | P | Fangst om bord fordelt på fiskesort i kilo rund vekt. Parvis angitt\n| Planlagt fiskeri | DS | P | Art det skal fiskes etter\n| Fangstområde | RA | V | ICES-område der fisket skal starte\n| Dato | PD | V | Dato for fiskestart i UTC (ÅÅÅÅMMDD)\n| Meldingsdato | DA | P | Dato meldingen er sendt i UTC (ÅÅÅÅMMDD)\n| Meldingstid | TI | P | Tidspunkt når meldingen er sendt i UTC (TTMM)",
+    "2. Daglig fangstmelding",
+    "Fangstmelding skal sendes daglig og senest kl. 1200 UTC neste dag. På dager det ikke er tatt fangst skal det rapporteres 0 i den daglige fangstmeldingen.",
+    "Meldingen skal inneholde følgende opplysninger:\n| Dataelement: | Kode: | Påkrevd/Valgfritt: | Innhold:\n| Meldingstype | TM | P | CAT, Daglig fangstmelding\n| Meldingsnummer | RN | P | Serienummer for meldingen i inneværende år\n| Autentisering | AU | P | Avtalt autentiseringskode\n| Radiokallesignal | RC | P | Fartøyets radiokallesignal\n| Fartøynavn | NA | V | Fartøyets navn\n| Registreringsmerke | XR | V | Fartøyets registreringsnummer i Merkeregisteret eller IMO-nummer dersom fartøyet ikke har registreringsnummer\n| Daglig fangst | CA | P | Fangst siden forrige COE eller CAT-melding fordelt på fiskesort i kilo rund vekt. Parvis angitt.\n| Antall fiskedager | DF | P | Antall fiskedager i området siden fiskestart eller siste daglige fangstmelding\n| Fangstområde | RA | P[1] | Kode for område der fangsten er tatt\n| Meldingsdato | DA | P | Dato meldingen er sendt i UTC (ÅÅÅÅMMDD)\n| Meldingstid | TI | P | Tidspunkt når meldingen er sendt i UTC (TTMM)",
+    "3. Omlastingsmelding",
+    "Det er tillatt å foreta omlasting til fartøy fra medlemsstater i EU, Russland, Færøyene, Grønland, Island og Norge, samt fartøy fra NEAFC-samarbeidsland.",
+    "Fartøy som skal avgi fangst skal senest 24 timer før omlastingen påbegynnes sende melding om omlasting. Fartøy som har mottatt fangst fra annet fartøy skal senest en time etter at den enkelte omlasting er avsluttet sende melding om omlasting.",
+    "Meldingen skal inneholde følgende opplysninger:\n| Dataelement: | Kode: | Påkrevd/Valgfritt: | Forklaring:\n| Meldingstype | TM | P | TRA, Melding om omlasting\n| Meldingsnummer | RN | P | Serienummer for meldingen i inneværende år\n| Autentisering | AU | P | Avtalt autentiseringskode\n| Radiokallesignal | RC | P | Fartøyets radiokallesignal\n| Fartøynavn | NA | V | Fartøyets navn\n| Registreringsmerke | XR | V | Fartøyets registreringsnummer i Merkeregisteret eller IMO-nummer dersom fartøyet ikke har registreringsnummer\n| Kvantum som skal overføres | KG | P | Kvantum som skal overføres fordelt på fiskesort i kilo rund vekt. Parvis angitt\n| Overført fra | TF | P[1] | Radiokallesignal på fartøyet det overføres fra\n| Overført til | TT | P[1] | Radiokallesignal på fartøyet det overføres til\n| Posisjon bredde | LA | P[2] | Antatt posisjon bredde for omlasting\n| Posisjon lengde | LO | P[2] | Antatt posisjon lengde for omlasting\n| Dato | PD | P[2] | Antatt dato for omlasting i UTC (ÅÅÅÅMMDD)\n| Tid | PT | P[2] | Antatt tidspunkt for omlasting i UTC (TTMM)\n| Meldingsdato | DA | P | Dato meldingen er sendt i UTC (ÅÅÅÅMMDD)\n| Meldingstid | TI | P | Tidspunkt når meldingen er sendt i UTC (TTMM)",
+    "4. Melding om havneanløp",
+    "Fartøy som har mottatt fangst fra annet fartøy skal senest 24 timer før landing finner sted sende melding om havneanløp.",
+    "Meldingen skal inneholde følgende opplysninger:\n| Dataelement: | Kode: | Påkrevd/Valgfritt: | Forklaring:\n| Meldingstype | TM | P | POR, Melding om havneanløp\n| Meldingsnummer | RN | P | Serienummer for meldingen i inneværende år\n| Autentisering | AU | P | Avtalt autentiseringskode\n| Radiokallesignal | RC | P | Fartøyets radiokallesignal\n| Fartøynavn | NA | V | Fartøyets navn\n| Registreringsmerke | XR | V | Fartøyets registreringsnummer i Merkeregisteret eller IMO-nummer dersom fartøyet ikke har registreringsnummer\n| Kyststat | CS | P | Landingshavnens kyststat\n| Havn | PO | P | Navnet på havnen der det skal landes\n| Dato | PD | P | Antatt dato for havneanløp i UTC (ÅÅÅÅMMDD)\n| Tid | PT | P | Antatt tidspunkt for havneanløp i UTC (TTMM)\n| Kvantum som skal landes | KG | P | Kvantum som skal leveres fordelt på fiskesort i kilo rund vekt. Parvis angitt\n| Kvantum om bord | OB | P | Fangst om bord fordelt på kilo rund vekt. Parvis angitt\n| Meldingsdato | DA | P | Dato meldingen er sendt i UTC (ÅÅÅÅMMDD)\n| Meldingstid | TI | P | Tidspunkt når meldingen er sendt i UTC (TTMM)",
+    "5. Melding om avslutning av fiske",
+    "Melding om avslutning av fiske skal sendes tidligst 8 timer og senest 2 timer før fartøyet går ut av området.",
+    "Meldingen skal inneholde følgende opplysninger:\n| Dataelement: | Kode: | Påkrevd/Valgfritt: | Forklaring:\n| Meldingstype | TM | P | COX, Melding om avslutning av fiske\n| Meldingsnummer | RN | P | Serienummer for meldingen i inneværende år\n| Autentisering | AU | P | Avtalt autentiseringskode\n| Radiokallesignal | RC | P | Fartøyets radiokallesignal\n| Fartøynavn | NA | V | Fartøyets navn\n| Registreringsmerke | XR | V | Fartøyets registreringsnummer i Merkeregisteret eller IMO-nummer dersom fartøyet ikke har registreringsnummer\n| Fangst | CA | P[1] | Fangst siden forrige COE eller CAT-melding fordelt på fiskesort i kilo rund vekt. Parvis angitt.\n| Antall fiskedager | DF | P[1] | Antall fiskedager i området siden fiskestart eller siste daglige fangstmelding\n| Fangstområde | RA | P[2] | Kode for område der fangsten er tatt\n| Meldingsdato | DA | P | Dato meldingen er sendt i UTC (ÅÅÅÅMMDD)\n| Meldingstid | TI | P | Tidspunkt når meldingen er sendt i UTC (TTMM)"
+   ],
+   "endringer": [
+    "Endret ved forskrifter 22 des 1999 nr. 1526, 29 juni 2001 nr. 1062 (i kraft 1 juli 2001), 26 jan 2005 nr. 142, 11 mai 2007 nr. 505, 4 jan 2011 nr. 3, 3 mars 2014 nr. 247."
+   ],
+   "fotnoter": [
+    {
+     "nr": "1",
+     "tekst": "Meldingen skal inneholde fangst og antall fiskedager siden forrige daglige fangstmelding."
+    },
+    {
+     "nr": "2",
+     "tekst": "Påkrevd i fiskerier der forvaltningstiltak krever det."
+    }
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Straff",
+   "ledd": [
+    "Forsettelig eller uaktsom overtredelse av denne forskrift straffes i henhold til § 11 i lov av 16. juni 1972 nr. 57 om regulering av deltagelsen i fisket og § 53 i lov av 3. juni 1983 nr. 40 om saltvannsfiske m.v."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Denne forskrift trer i kraft 1. juli 1999."
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": null,
+   "overskrift": "Vedlegg til forskrift om registrering og rapportering ved fiske i farvann utenfor noen stats fiskerijurisdiksjon",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "REGISTRERINGSMELDING (eget skjema) skal sendes til Fiskeridirektoratet enten på e-postadresse postmottak@fiskeridir.no eller via Altinn.\nMANUELL RAPPORTERING VED FEILSITUASJONER:\nDersom det oppstår feil i det elektroniske rapporteringssystemet mens fisket pågår skal meldingene sendes manuelt til Fiskeridirektoratet på:\nE-post: fmc@fiskeridir.no.\nMeldingene skal i disse tilfellene utformes som vist nedenfor:\nMelding om fiskestart:\n| TM | = COE\n| RC | = LLXX\n| NA | = KONTIKI\n| XR | = M-999-AA\n| LA | = N6530\n| LO | = W00732\n| OB | = KOLMULE 120 000 (eller 0 dersom ingenting om bord)\n| DS | = KOLMULE\n| RA | = 2A\n| PD | = 20050112\n| DA | = 20050112\n| TI | = 0835\nDaglig fangstmelding:\n| TM | = CAT\n| RC | = LLXX\n| NA | = KONTIKI\n| XR | = M-999-AA8\n| LA | = N6630\n| LO | = W00350\n| CA | = KOLMULE 400 000 (eller 0 dersom ingen fangst er tatt)\n| DF | = 1\n| DA | = 20050119\n| TI | = 0955\nOmlastingsmelding:\n| EKS 1: (Når fangst er omlastet fra et annet fartøy)\n| TM | = TRA\n| RC | = LLXX\n| NA | = KONTIKI\n| XR | = M-999-AA\n| KG | = HERRING 120 000\n| TF | = OXRP\n| LA | = N6823\n| LO | = E00124\n| DA | = 2005 0120\n| TI | = 2300\nEKS 2: (Når fangst skal omlastes til et annet fartøy)\n| TM | = TRA\n| RC | = LLXX\n| NA | = KONTIKI\n| XR | = M-999-AA\n| KG | = HERRING 120 000\n| TT | = OXRP\n| LA | = N6823\n| LO | = E00124\n| PD | = 20050120\n| PT | = 1800\n| DA | = 20050119\n| TI | = 1800\nMelding om havneanløp:\n| TM | = POR\n| RC | = LLXX\n| NA | = KONTIKI\n| XR | = M-999-AA\n| LA | = N5900\n| LO | = E00340\n| CS | = DANMARK\n| PO | = HANSTHOLM\n| PD | = 20050122\n| PT | = 1430\n| KG | = KOLMULE 300 000\n| OB | = KOLMULE 570 000\n| DA | = 20050121\n| TI | = 1430\nMelding om avslutning av fiske:\n| TM | = COX\n| RC | = LLXX\n| NA | = KONTIKI\n| XR | = M-999-AA\n| LA | = N6730\n| LO | = W00430\n| CA | = KOLMULE 50 000\n| DF | = 1\n| DA | = 20050120\n| TI | = 1700"
+    },
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrift 12 des 2016 nr. 1555."
+    }
+   ]
+  }
+ ]
+}

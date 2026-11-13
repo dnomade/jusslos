@@ -1,0 +1,102 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2021-12-17-3713",
+ "dokumentid": "SF/forskrift/2021-12-17-3713",
+ "departement": [
+  "Kunnskapsdepartementet"
+ ],
+ "etat": [
+  "Juridisk avdeling"
+ ],
+ "ikraft": "2022-01-01",
+ "endrer": "forskrift/2014-08-28-1123",
+ "hjemmel": [
+  {
+   "ref": "lov/2005-06-03-37/§20",
+   "tekst": "lov/2005-06-03-37/§20"
+  },
+  {
+   "ref": "lov/2005-06-03-37/§21",
+   "tekst": "lov/2005-06-03-37/§21"
+  }
+ ],
+ "kunngjort": "2021-12-21 12:15",
+ "korttittel": "Forskrift om behandling av personopplysninger i Lånekassen",
+ "tittel": "Forskrift om behandling av personopplysninger i Lånekassen",
+ "annet": "Hjemmel: Fastsatt av Kunnskapsdepartementet 17. desember 2021 med hjemmel i lov 3. juni 2005 nr. 37 om utdanningsstøtte (utdanningsstøtteloven) § 20 og § 21.",
+ "refid": "forskrift/2021-12-17-3713",
+ "eli": "/eli/forskrift/2021/12/17/3713",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2021-12-17-3713",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Innhenting av personopplysninger fra andre",
+   "ledd": [
+    "Dersom det er nødvendig for å forvalte søkerens eller låntakerens rettigheter eller plikter fastsatt i eller i medhold av utdanningsstøtteloven, kan Lånekassen uten hinder av lovbestemt taushetsplikt hente inn personopplysninger fra andre enn søkeren eller låntakeren etter denne bestemmelsen, se utdanningsstøtteloven § 21. Opplysningene kan innhentes elektronisk.",
+    "Lånekassen kan hente inn opplysninger om følgende personer:\na. søkeren og søkerens søsken, forsørgere, foreldre, fosterforeldre eller personer med foreldreansvar for søkeren, søkerens barn, ektefelle, samboer og barn av ektefelle eller samboer\nb. ektefelle eller samboer til noen av søkerens forsørgere eller foreldre\nc. referansepersoner eller familiemedlemmer som søkeren har familieinnvandring med etter utlendingsloven\nd. andre familiemedlemmer som etter EØS-avtalen kan gi en søker rett til utdanningsstøtte, eller som kan ha betydning for en søkers tilknytning til Norge ved utdanning i utlandet eller ved nettutdanning\ne. låntakere, låntakeres barn, ektefelle eller samboer og barn av ektefelle eller samboer.",
+    "Lånekassen kan i tillegg hente inn opplysninger om foreldreansvar, vergemål og representant etter utlendingsloven for søkere eller låntakere.",
+    "Adgangen til å hente inn personopplysninger som nevnt i personvernforordningen artikkel 9 er begrenset til helseopplysninger om søkere, låntakere og søkeres forsørgere, barn, samboer og ektefelle.",
+    "Opplysningene kan hentes inn fra offentlige myndigheter, offentlige registre og offentlige og private utdanningsinstitusjoner. Se også § 2.",
+    "Lånekassen kan innhente opplysninger om søkerens kontonummer fra Skatteetaten. Slike opplysninger kan bare benyttes i forbindelse med utbetaling av utdanningsstøtte og til refusjon."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Særlige regler om innhenting av personopplysninger om elever og studenter m.m.",
+   "ledd": [
+    "Fra utdanningsinstitusjoner der det ikke er lagt til rette for at opplysninger kan hentes inn elektronisk kun for personer som har søkt om lån og stipend, kan det for alle elever og studenter ved utdanningsinstitusjonen hentes inn opplysninger om de har opptak og rett til å gå opp til eksamen, og om endringer i utdanningen.",
+    "Det kan for alle elever, studenter, lærlinger, lærekandidater og andre som tar opplæring i bedrift etter opplæringslova, hentes inn opplysninger fra offentlige og private utdanningsinstitusjoner og fra fylkeskommunen om eksamen er bestått, og om utdanningen eller graden er fullført."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Innhenting av personopplysninger ved bruk av digitale søknadstjenester",
+   "ledd": [
+    "Med unntak for helseopplysninger, kan Lånekassen hente inn personopplysninger etter § 1 og § 2 når en person er logget inn og benytter Lånekassens digitale søknadstjenester. Lånekassen skal informere om at opplysninger hentes inn, og at de blir slettet dersom søknaden ikke blir sendt til Lånekassen."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Viderebehandling for evaluering og utredning",
+   "ledd": [
+    "Lånekassen kan viderebehandle personopplysninger, også personopplysninger som nevnt i personvernforordningen artikkel 9 og 10, når dette er nødvendig for å utrede mulige endringer i regelverket om studiestøtte eller for å evaluere eksisterende ordninger."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Viderebehandling for utvikling og testing",
+   "ledd": [
+    "Lånekassen kan viderebehandle personopplysninger, også personopplysninger som nevnt i personvernforordningen artikkel 9 og 10, når dette er nødvendig for å utvikle og teste IT-systemer, og det er umulig eller uforholdsmessig vanskelig å oppnå formålet ved å bruke anonyme eller fiktive opplysninger."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "Viderebehandling for tilpasset informasjon",
+   "ledd": [
+    "Lånekassen kan behandle personopplysninger, også personopplysninger som nevnt i personvernforordningen artikkel 9, for å gi søkere og låntakere tilpasset informasjon om rettigheter eller plikter fastsatt i eller i medhold av utdanningsstøtteloven."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 7",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Forskriften trer i kraft 1. januar 2022. Fra samme dato oppheves forskrift 28. august 2014 nr. 1123 om Lånekassens adgang til innhenting av opplysninger."
+   ]
+  }
+ ]
+}

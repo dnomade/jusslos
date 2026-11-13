@@ -1,0 +1,149 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2026-01-07-15",
+ "dokumentid": "SF/forskrift/2026-01-07-15",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "etat": [
+  "Fiskeridirektoratet"
+ ],
+ "ikraft": "2026-01-07 – 2026-12-31",
+ "hjemmel": [
+  {
+   "ref": "lov/1976-12-17-91/§4",
+   "tekst": "lov/1976-12-17-91/§4"
+  },
+  {
+   "ref": "forskrift/1977-05-13-2/§14",
+   "tekst": "forskrift/1977-05-13-2/§14"
+  },
+  {
+   "ref": "forskrift/2000-10-16-1670",
+   "tekst": "forskrift/2000-10-16-1670"
+  }
+ ],
+ "kunngjort": "2026-01-09 13:50",
+ "tittel": "Forskrift om regulering av fisket med fartøy som fører britisk flagg i Norges økonomiske sone i 2026",
+ "annet": "Hjemmel: Fastsatt av Fiskeridirektoratet 7. januar 2026 med hjemmel i lov 17. desember 1976 nr. 91 om Norges økonomiske sone § 4, forskrift 13. mai 1977 nr. 2 om utlendingers fiske og fangst mv. i Norges økonomiske sone og landinger til eller annen bruk av norsk havn § 14 og delegeringsvedtak 16. oktober 2000 nr. 1670",
+ "refid": "forskrift/2026-01-07-15",
+ "eli": "/eli/forskrift/2026/01/07/15",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2026-01-07-15",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Generelle bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Generelt forbud",
+     "ledd": [
+      "Det er forbudt å drive fiske og fangst med fartøy som fører britisk flagg i Norges økonomiske sone mellom 12 og 200 nautiske mil fra grunnlinjene."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Fisket i Norges økonomiske sone nord for 62° N",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 2",
+     "tittel": "Kvoter nord for 62° N",
+     "ledd": [
+      "Uten hinder av forbudet i § 1 har fartøy som fører britisk flagg adgang til å fiske følgende kvanta i Norges økonomiske sone nord for 62° N mellom 12 og 200 nautiske mil fra grunnlinjene:\na. 850 tonn torsk\nb. 200 tonn andre arter som bifangst, herunder bifangst av uer og blåkveite jf. §§ 4 og 5. Denne kvoten kan bare fiskes som bifangst i fisket etter torsk."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 3",
+     "tittel": "Soneadgang ved fisket etter norsk vårgytende sild",
+     "ledd": [
+      "Uten hinder av forbudet i § 1 har fartøy som fører britisk flagg adgang til å fiske 20 000 tonn av Storbritannias kvote av norsk vårgytende sild i Norges økonomiske sone nord for 62° N mellom 12 og 200 nautiske mil fra grunnlinjene."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 4",
+     "tittel": "Bifangst av uer",
+     "ledd": [
+      "Ved fiske etter andre arter er det adgang til å ha inntil 20 % bifangst av uer i vekt i de enkelte fangster og av landet fangst."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 5",
+     "tittel": "Bifangst av blåkveite",
+     "ledd": [
+      "Ved fiske etter andre fiskeslag er det tillatt å ha inntil 7 % bifangst av blåkveite om bord ved avslutning av fisket og av landet fangst. Det er likevel tillatt å ha inntil 12 % blåkveite som bifangst i de enkelte fangster."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Fisket i Norges økonomiske sone sør for 62° N",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 6",
+     "tittel": "Soneadgang ved fiske etter bunnfisk",
+     "ledd": [
+      "Uten hinder av forbudet i § 1 har fartøy som fører britisk flagg adgang til å fiske 30 000 tonn av Storbritannias bunnfiskkvoter i Norges økonomiske sone sør for 62° N mellom 12 og 200 nautiske mil fra grunnlinjene, utenom Skagerrak.",
+      "Adgangen nevnt i første ledd inkluderer uunngåelig bifangst av sjøkreps i et direktefiske etter bunnfisk med stormasket trål med en minste maskevidde på 120 mm."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Fellesbestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 7",
+     "tittel": "Beregning av fangstkvanta",
+     "ledd": [
+      "Alle fangstkvanta skal beregnes i rund vekt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 8",
+     "tittel": "Straff og inndragning",
+     "ledd": [
+      "Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i forskriften straffes i henhold til lov 17. desember 1976 nr. 91 om Norges økonomiske sone §§ 8 og 9. På samme måte straffes medvirkning og forsøk."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 9",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Forskriften trer i kraft straks og gjelder til og med 31. desember 2026."
+     ]
+    }
+   ]
+  }
+ ]
+}

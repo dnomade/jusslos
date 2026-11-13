@@ -1,0 +1,56 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2026-09-30-2228",
+ "dokumentid": "SF/forskrift/2026-09-30-2228",
+ "departement": [
+  "Landbruks- og matdepartementet"
+ ],
+ "etat": [
+  "Matpolitisk avdeling"
+ ],
+ "ikraft": "2027-01-01",
+ "endrer": "forskrift/2015-04-30-426",
+ "hjemmel": [
+  {
+   "ref": "forskrift/1995-05-12-413",
+   "tekst": "forskrift/1995-05-12-413"
+  },
+  {
+   "ref": "lov/1995-05-12-23/§18",
+   "tekst": "lov/1995-05-12-23/§18"
+  }
+ ],
+ "kunngjort": "2026-11-03 14:45",
+ "tittel": "Forskrift om endring i forskrift om tilskudd til veterinærreiser",
+ "annet": "Hjemmel: Fastsatt av Landbruks- og matdepartementet 30. september 2026 med hjemmel i lov 12. mai 1995 nr. 23 om jord (jordlova) § 18, jf. delegeringsvedtak 12. mai 1995 nr. 413.",
+ "refid": "forskrift/2026-09-30-2228",
+ "eli": "/eli/forskrift/2026/09/30/2228",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2026-09-30-2228",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "I forskrift 30. april 2015 nr. 426 om tilskudd til veterinærreiser gjøres følgende endring:\n§ 2 Grunnvilkår skal lyde:\nReisetilskudd etter denne forskriften kan gis til foretak som tilbyr veterinærtjenester og som er registrert i Enhetsregisteret, til dekning av nødvendige reiseutgifter i forbindelse med veterinærtjenester på husdyr. Som husdyr regnes dyr som kan danne grunnlag for jordbruksforetakets avløsertilskudd etter jordbruksavtalen, i tillegg omfattes alpakka av ordningen."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Endringen trer i kraft 1. januar 2027."
+    }
+   ]
+  }
+ ]
+}

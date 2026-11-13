@@ -1,0 +1,58 @@
+{
+ "skjema": "1.0",
+ "type": "stortingsvedtak",
+ "datokode": "FOR-2025-12-18-2779",
+ "dokumentid": "STV/forskrift/2025-12-18-2779",
+ "departement": [
+  "Stortinget"
+ ],
+ "ikraft": "Budsjettåret 2026",
+ "hjemmel": [
+  {
+   "ref": "lov/1814-05-17/§75",
+   "tekst": "lov/1814-05-17/§75"
+  },
+  {
+   "ref": "lov/2022-03-11-8",
+   "tekst": "lov/2022-03-11-8"
+  }
+ ],
+ "kunngjort": "2025-12-22 11:30",
+ "tittel": "Stortingsvedtak om tollavgift for 2026",
+ "annet": "Hjemmel: Vedtatt av Stortinget 18. desember 2025 med hjemmel i Kongeriket Norges Grunnlov 17. mai 1814 § 75 bokstav a, jf. lov 11. mars 2022 nr. 8 om tollavgift (tollavgiftsloven).",
+ "refid": "forskrift/2025-12-18-2779",
+ "eli": "/eli/forskrift/2025/12/18/2779",
+ "url": "https://lovdata.no/dokument/STV/forskrift/2025-12-18-2779",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Plikten til å betale tollavgift",
+   "ledd": [
+    "Fra 1. januar 2026 skal det betales tollavgift ved innførsel av varer etter bestemmelsene i lov 11. mars 2022 nr. 8 om tollavgift og de satser som følger av dette vedtaket.",
+    "De ordinære tollavgiftssatsene for 2025 skal fortsatt gjelde fra 1. januar 2026."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Preferansetollavgiftssatser",
+   "ledd": [
+    "Varer som er omfattet av Norges frihandelsavtaler, skal gis preferansetollavgiftssats. Det samme gjelder for varer som er omfattet av det generelle preferansesystemet for utviklingsland (Generalized System of Preferences, GSP).",
+    "Kvoter og tollavgiftssatser som er omfattet av det generelle preferansesystemet for utviklingsland videreføres for 2026.",
+    "Departementet kan gi forskrift om reduserte tollavgiftssatser og andre tiltak om tollavgift som følge av frihandelsavtale med annen stat."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Tolltariffen",
+   "ledd": [
+    "Departementet kan gi forskrift om nye eller endrede varenumre i tolltariffen dersom endringene ikke har provenymessige, næringsmessige eller handelspolitiske konsekvenser av betydning."
+   ]
+  }
+ ]
+}

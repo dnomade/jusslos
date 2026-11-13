@@ -1,0 +1,300 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-1991-11-29-763",
+ "dokumentid": "SF/forskrift/1991-11-29-763",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Økonomiavd."
+ ],
+ "kunngjort_i": "I 1991 793",
+ "ikraft": "1991-11-29",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1991-03-15-2/§4",
+   "tekst": "lov/1991-03-15-2/§4"
+  },
+  {
+   "ref": "lov/1991-03-15-2/§11",
+   "tekst": "lov/1991-03-15-2/§11"
+  },
+  {
+   "ref": "forskrift/1991-03-15-142",
+   "tekst": "forskrift/1991-03-15-142"
+  },
+  {
+   "ref": "forskrift/1991-11-29-759",
+   "tekst": "forskrift/1991-11-29-759"
+  }
+ ],
+ "korttittel": "Forskrift for Statens Banksikringsfond",
+ "tittel": "Forskrift for virksomheten til Statens Banksikringsfond.",
+ "annet": "Fastsatt av Finans- og tolldepartementet 29. november 1991 med hjemmel i lov 15. mars 1991 nr. 2 om Statens Banksikringsfond §§ 4 og 11, jf. kgl.res. 15. mars 1991 nr. 142 og kgl.res. 29. november 1991 nr. 759.",
+ "refid": "forskrift/1991-11-29-763",
+ "eli": "/eli/forskrift/1991/11/29/763",
+ "url": "https://lovdata.no/dokument/SF/forskrift/1991-11-29-763",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "Kapittel I. Innledende bestemmelser.",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1-1",
+     "tittel": null,
+     "ledd": [
+      "Statens Banksikringsfonds (Fondets) oppgave er å yte lån på særlige vilkår (støttelån) til Forretningsbankenes sikringsfond og til Sparebankenes sikringsfond, samt i særlige tilfelle å erverve aksjer, grunnfondsbevis eller andre egenkapitalinstrumenter i norske banker."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 1-2",
+     "tittel": null,
+     "ledd": [
+      "Sikringsfondene skal bruke støttelån fra Fondet til å yte støtte til sine respektive medlemsbanker innen rammen av lovgivningen og bestemmelser gitt i medhold av denne, samt etter vedtektene for sikringsfondene.",
+      "Fondet kan beslutte at støtte til medlemsbank finansiert av støttelån skal gis i form av preferansekapital fra de respektive sikringsfond. Preferansekapitalen skal etter beslutning av Fondet kunne konverteres til ordinær aksjekapital eller grunnfondsbevis med sikte på snarlig salg i markedet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 1-3",
+     "tittel": null,
+     "ledd": [
+      "Med preferansekapital menes i disse forskriftene kapital med prioritet foran aksjekapital/grunnfondsbeviskapital, men etter ansvarlig lånekapital.",
+      "For preferansekapital gjelder følgende:\na. kapitalen gir ikke stemmerett,\nb. kapitalen gir avkastning i samme forhold som utbytte på aksjer/grunnfondsbevis\nc. kapitalen kan etter beslutning av Fondet konverteres til ordinære aksjer/grunnfondsbevis,\nd. preferansekapitalen må godkjennes som kjernekapital etter Finans- og tolldepartementets forskrift av 1. juni 1990 nr. 435 om beregning av ansvarlig kapital for finansinstitusjoner § 3 pkt. 12."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 1-4",
+     "tittel": null,
+     "ledd": [
+      "Støttelån som ytes av Fondet skal betales tilbake dersom ikke annet fastsettes av Fondet og godkjennes av Stortinget. Det skal påløpe en rente tilsvarende den rente staten oppnår på ordinær foliokonto i Norges Bank. Med Stortingets samtykke kan det, i særlige tilfelle, ytes rentefrie støttelån. Lånet skal nedbetales i takt med innbetalinger til sikringsfondet. Fondet kan pålegge vedkommende sikringsfond å realisere aktiva. Den delen av påløpte renter som ved forfall ikke kan betales av premieinntekter og andre innbetalinger til sikringsfondene, konverteres til lån fra Fondet og rentebelastes som støttelån for øvrig."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-5",
+     "nummer": "§ 1-5",
+     "tittel": null,
+     "ledd": [
+      "Støttelån ytes etter søknad fra sikringsfondene, jf. kap. 2.",
+      "Søknad om støttelån avgjøres etter en konkret vurdering i det enkelte tilfelle, jf. kap. 3.",
+      "I forbindelse med beslutning om å yte støttelån til et sikringsfond, skal det i det enkelte tilfelle opprettes avtale mellom Fondet og vedkommende sikringsfond. I avtalen skal Fondet stille vilkår for støttelånet, jf. kap. 4 og § 5-2."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-6",
+     "nummer": "§ 1-6",
+     "tittel": null,
+     "ledd": [
+      "Erverv av aksjer, grunnfondsbevis eller plassering i andre egenkapitalinstrumenter avgjøres etter søknad fra den enkelte bank, jf. kap. 6.",
+      "Det skal i tilfelle opprettes en avtale mellom Fondet og banken. Fondet kan i avtalen stille vilkår for plasseringen."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Søknad om støttelån.",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 2-1",
+     "tittel": null,
+     "ledd": [
+      "Støttelån kan bare ytes etter særskilt søknad i det enkelte tilfelle. Bare Forretningsbankenes sikringsfond og Sparebankenes sikringsfond kan søke om støttelån.",
+      "Støttelån kan bare ytes dersom vedkommende fond ikke har tilstrekkelige midler til rådighet for sin virksomhet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 2-2",
+     "tittel": null,
+     "ledd": [
+      "Søknad om støttelån skal inneholde utførlig angivelse av sikringsfondets anvendelse av lånet, herunder om støtte til en medlemsbank skal gis i form av preferansekapital.",
+      "Sikringsfond som fremmer søknad om støttelån skal legge ved en fullstendig dokumentasjon av sikringsfondets og den aktuelle medlemsbanks økonomiske stilling, herunder så vidt mulig følgende dokumentasjon:\na. sikringsfondets regnskap for siste kvartal, revidert og godkjent av ekstern revisor,\nb. medlemsbankens siste kvartals regnskap, revidert og godkjent av ekstern revisor,\nc. vedtatt budsjett for inneværende år, behandlet av medlemsbankens organer,\nd. plan for medlemsbankens drift på mellomlang sikt (12-24 mnd.) med angivelse av tiltak som vil kunne få særlig betydning for bankens økonomiske tilpasning."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 2-3",
+     "tittel": null,
+     "ledd": [
+      "Fondet kan kreve supplerende informasjon fra sikringsfondet og den enkelte bank i den grad dette anses nødvendig for en forsvarlig saksbehandling."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Kriterier for behandlingen av søknader.",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 3-1",
+     "tittel": null,
+     "ledd": [
+      "Fondet plikter ikke å begrunne sine vedtak.",
+      "Avslag på søknad om støttelån kan ikke overprøves."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 3-2",
+     "tittel": null,
+     "ledd": [
+      "Dersom det er fare for at en bank settes under offentlig administrasjon skal Fondet særlig vektlegge:\na. innskyternes interesse,\nb. virkningen som offentlig administrasjon i det konkrete tilfelle kan få for tilliten til det norske banksystemets funksjonsdyktighet og virkningen for bankenes muligheter for finansiering i det norske og internasjonale kapitalmarked,\nc. øvrig samfunnsøkonomiske konsekvenser av at banken settes under administrasjon,\nd. muligheten for at den aktuelle bank senere kan fortsette sin drift på et forsvarlig grunnlag,\ne. evne og vilje til omstilling og kostnadsreduksjoner i den enkelte bank,\nf. eventuelle alternativer til støttelån/administrasjon, herunder om tiltak kan unngås ved f.eks. sammenslutning/overdragelse til ny(e) eier(e),\ng. mulige negative virkninger for konkurransen i finansmarkedet ved å yte støttelån."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Vilkår for støttelån.",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 4-1",
+     "tittel": null,
+     "ledd": [
+      "Fondet skal stille vilkår for å yte støttelån.",
+      "Vilkårene kan gjelde både vedkommende sikringsfond som mottar støttelån og dets virksomhet og den medlemsbank som midlene skal brukes til å støtte og dennes virksomhet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 4-2",
+     "tittel": null,
+     "ledd": [
+      "De aktuelle vilkår stilles overfor sikringsfondet, som plikter å sørge for at de vilkår som er fastsatt for støttelån, blir gjort gjeldende overfor medlemsbank som mottar støtte."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 4-3",
+     "tittel": null,
+     "ledd": [
+      "Vilkårene som stilles skal være av en slik art at de eksisterende aksjonærer/grunnfondsbeviseiere ikke skal kunne oppnå direkte økonomiske fordeler av støttelånet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 4-4",
+     "tittel": null,
+     "ledd": [
+      "Ved vurderingen av aktuelle vilkår, bør Fondet så langt som mulig søke å ivareta hensynet til vedkommende banks mulighet for å reise kapital i fremtiden. Vilkår som berører stillingen til eierne av aksjer/grunnfondsbevis som emitteres etter at støtten er gitt, skal søkes unngått."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-5",
+     "nummer": "§ 4-5",
+     "tittel": null,
+     "ledd": [
+      "Fondet skal stille vilkår som gjelder:\na. Bruken av støttelånet,\nb. dersom støtte til medlemsbank gis i form av preferansekapital, skal fondet sette vilkår som er egnet til å sikre preferansekapitalen, herunder tiltak med hensyn til bankens fonds, reserver og aksjekapital og til å sikre forvaltnings- og økonomiske rettigheter knyttet til preferansekapitalen,\nc. tiltak som skal gjennomføres av medlemsbank som mottar støtte, herunder tiltak med henblikk på å styrke driftsøkonomien samt krav til nødvendige strukturendringer,\nd. retningslinjer for medlemsbankens virksomhet,\ne. tilbakebetalingen av støttelånet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-6",
+     "nummer": "§ 4-6",
+     "tittel": null,
+     "ledd": [
+      "Fondet kan videre stille vilkår som gjelder:\na. Krav om at Fondet før utbetaling, etter godkjenning av Finans- og tolldepartementet, kan oppnevne to medlemmer i vedkommende sikringsfond, jf. lov om Statens Banksikringsfond § 6. De styremedlemmer som oppnevnes av Fondet, skal tre i stedet for to av de fem medlemmene som er valgt av sikringsfondets generalforsamling,\nb. nedskrivning av aksje- eller grunnfondsbeviskapital eller annen ansvarlig kapital i medlemsbank som mottar støtte,\nc. begrensning av medlemsbankens adgang til å gi avkastning på ansvarlig kapital,\nd. tilførsel av ny egenkapital eller annen ansvarlig kapital i tillegg til den støtte en medlemsbank mottar. Dette kan f.eks. gjøres ved at det stilles krav om nyemisjon av aksjekapital eller grunnfondsbevis i forbindelse med at det ytes støttelån,\ne. endringer i de styrende organer og/eller i bankens ledelse,\nf. lønninger og annen godtgjørelse til bankens ledende ansatte, og godtgjørelse for styreverv,\ng. filialer, datterselskaper, utenlandsetableringer, fusjon med annen bank,\nh. andre vilkår i samsvar med formålene til støttelånsordningen."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Mislighold mv.",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 5-1",
+     "tittel": null,
+     "ledd": [
+      "Fondet skal påse at vilkårene for støttelånet blir overholdt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 5-2",
+     "tittel": null,
+     "ledd": [
+      "Dersom det aktuelle sikringsfond eller medlemsbank ikke overholder ett eller flere vilkår stilt av Fondet, anses dette som kontraktsbrudd. Ethvert kontraktsbrudd betraktes som vesentlig mislighold.",
+      "Fondet skal i slike tilfeller beslutte nødvendig misligholdsbeføyelser som er egnet til å sikre støttelånet, Fondet kan herunder bringe hele – eller deler av låneavtalen til opphør og/eller kreve renter i henhold til lov av 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 5-3",
+     "tittel": null,
+     "ledd": [
+      "Dersom det er grunn til å tro at vilkår ikke vil bli oppfylt, kan Fondet før konstatering av kontraktsbrudd beslutte tiltak for å sikre gjennomføringen av avtalen."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Erverv av egenkapitalinstrumenter.",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 6-1",
+     "tittel": null,
+     "ledd": [
+      "Reglene om støttelån i kap. 2 og 3 får så langt de passer tilsvarende anvendelse for søknad og behandling av søknad om erverv av egenkapitalinstrumenter i banker."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kap7",
+   "overskrift": "Kapittel 7. Ikrafttredelse.",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Denne forskrift trer i kraft 29. november 1991. Forskrift av 29. april 1991 nr. 289 oppheves."
+    }
+   ]
+  }
+ ]
+}

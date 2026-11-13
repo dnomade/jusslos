@@ -1,0 +1,53 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-1990-08-10-638",
+ "dokumentid": "DEL/forskrift/1990-08-10-638",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Økonomiavd."
+ ],
+ "kunngjort_i": "I 1990 706",
+ "ikraft": "1990-09-29",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1988-06-10-40/§4-2",
+   "tekst": "lov/1988-06-10-40/§4-2"
+  }
+ ],
+ "korttittel": "Delegering etter finansieringsloven",
+ "tittel": "Delegering av myndighet til Finans- og tolldepartementet om finansieringsvirksomhet og finansinstitusjoner § 4-2 annet ledd.",
+ "annet": "Fastsatt ved Kronprinsreg.res. av 10. august 1990. Fremmet av Finans- og tolldepartementet.",
+ "refid": "forskrift/1990-08-10-638",
+ "eli": "/eli/forskrift/1990/08/10/638",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/1990-08-10-638",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Kongens myndighet etter lov 10. juni 1988 nr. 40 om finansieringsvirksomhet og finansinstitusjoner § 4-2 annet ledd delegeres til Finans- og tolldepartementet."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Kongens myndighet til å endre forskrift om sikkerhetsstillelse for lån- og garantiformidlere av 23. oktober 1987 nr. 836 delegeres til Finans- og tolldepartementet."
+    }
+   ]
+  }
+ ]
+}

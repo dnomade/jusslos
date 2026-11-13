@@ -1,0 +1,245 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2019-06-12-721",
+ "dokumentid": "SF/forskrift/2019-06-12-721",
+ "departement": [
+  "Samferdselsdepartementet"
+ ],
+ "etat": [
+  "Statens jernbanetilsyn"
+ ],
+ "ikraft": "2019-06-16",
+ "siste_endring_ikraft": "2022-06-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2021-09-08-2714",
+   "tekst": "forskrift/2021-09-08-2714 fra 2022-06-01"
+  }
+ ],
+ "endrer": "forskrift/2008-02-29-240\nforskrift/2012-01-12-63",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1993-06-11-100/§3d",
+   "tekst": "lov/1993-06-11-100/§3d"
+  },
+  {
+   "ref": "lov/1993-06-11-100/§4",
+   "tekst": "lov/1993-06-11-100/§4"
+  },
+  {
+   "ref": "lov/1993-06-11-100/§6",
+   "tekst": "lov/1993-06-11-100/§6"
+  },
+  {
+   "ref": "forskrift/2021-09-03-2675/§5",
+   "tekst": "forskrift/2021-09-03-2675/§5"
+  }
+ ],
+ "kunngjort": "2019-06-13 15:45",
+ "siste_rettelse": "2023-01-11 (hjemmel oppdatert)",
+ "tittel": "Forskrift om helsekrav for operativt personell på jernbane og signaler på tog",
+ "annet": "Hjemmel: Fastsatt av Statens jernbanetilsyn 12. juni 2019 med hjemmel i lov 11. juni 1993 nr. 100 om anlegg og drift av jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. (jernbaneloven) § 3d, § 4 og § 6, jf. forskrift 20. desember 2016 nr. 1747 om lisens, sikkerhetssertifikat, sikkerhetsgodkjenning og andre forhold relatert til sikkerheten på jernbanen (lisensforskriften) § 3.\nTilføyd hjemmel: Forskrift 3. september 2021 nr. 2675 om sikkerhet og tekniske forhold ved jernbanen § 5.\nEndret ved forskrift 8 sep 2021 nr. 2714 (i kraft 1 juni 2022 jf. meddelelse 6 mai 2022 nr. 770).\nRettet 11.01.2023 (hjemmel oppdatert).",
+ "refid": "forskrift/2019-06-12-721",
+ "eli": "/eli/forskrift/2019/06/12/721",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2019-06-12-721",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1-1",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "1. Forskriften gjelder for jernbanevirksomheter på jernbanenettet.",
+      "2. Forskriften kapittel 2 gjelder operativt personell som utfører arbeidsoppgaver av betydning for trafikksikkerheten, for eksempel skiftepersonell, trafikkstyrer, sikkerhetsvakt mv. Dette gjelder likevel ikke ombordpersonell eller førere som har førerbevis etter forskrift 27. november 2009 nr. 1414 om sertifisering av førere av trekkraftkjøretøy på det nasjonale jernbanenettet.",
+      "3. Forskriften kapittel 3 gjelder for godstog som kun trafikkerer jernbanenettet og ikke passerer en landegrense."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 1-2",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "I forskriften her menes med:\na. jernbaneinfrastruktur: trasé, over- og underbygning, banestrømforsyning, kontaktledningsanlegg, signalanlegg og telekommunikasjonsanlegg,\nb. trafikkstyring: togledelse og andre funksjoner som koordinerer og bidrar til å ivareta sikkerheten for kjøring av tog og skifting,\nc. jernbanevirksomhet: virksomhet som driver gods- og persontransport, jernbaneinfrastruktur og/eller trafikkstyring."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Krav til helse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 2-1",
+     "tittel": "Arbeidsoppgaver av betydning for trafikksikkerheten",
+     "ledd": [
+      "1. Bestemmelsene i dette kapitlet omfatter operativt personell som utfører arbeidsoppgaver av betydning for trafikksikkerheten jf. § 1-1 nr. 3. Slikt personell må ha gjennomført helseundersøkelse og oppfylle kravene til helse i dette kapitlet.",
+      "2. Personell som nevnt i første ledd skal informere jernbanevirksomheten om sin egen helsetilstand dersom vedkommende er kjent med eller mistenker at helsetilstanden er endret slik at kravene ikke lenger er oppfylt.",
+      "3. Dersom det er tvil om arbeidsoppgavene fortsatt kan utføres uten fare for trafikksikkerheten vises det til § 2-6."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 2-2",
+     "tittel": "Helseundersøkelse",
+     "ledd": [
+      "Den som skal utføre eller opplæres til å utføre arbeidsoppgaver som nevnt i § 1-1 nr. 2 skal gjennomgå en helseundersøkelse. Helseundersøkelsen skal utføres av en lege."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 2-3",
+     "tittel": "Første gangs helseundersøkelse",
+     "ledd": [
+      "1. Den som skal utføre eller opplæres til å utføre arbeidsoppgaver som nevnt i § 1-1 nr. 2 skal gjennomgå en helseundersøkelse som minst skal omfatte:\na. en generell undersøkelse,\nb. undersøkelser av sansefunksjoner (syn, hørsel, fargesans),\nc. en analyse av urin- eller blodprøve for eventuelt å avdekke diabetes og eventuelle andre forhold som måtte følge av den kliniske undersøkelsen, herunder bruk av narkotiske stoffer.",
+      "2. Det skal også gjennomføres en psykologisk undersøkelse som skal omfatte:\na. kognitive egenskaper,\nb. psykomotoriske egenskaper,\nc. atferdsmessige og personlige egenskaper."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 2-4",
+     "tittel": "Periodiske undersøkelser",
+     "ledd": [
+      "1. Det skal gjennomføres minst en helseundersøkelse:\na. hvert femte år for personale opp til 40 år,\nb. hvert tredje år for personale mellom 41 og 62 år,\nc. hvert år for personale over 62 år.",
+      "2. Legen skal gjennomføre hyppigere helseundersøkelser dersom helsetilstanden til den ansatte krever det."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 2-5",
+     "tittel": "Minstekrav til den periodiske helseundersøkelsen",
+     "ledd": [
+      "Periodisk helseundersøkelse skal minst inneholde:\na. en generell undersøkelse,\nb. undersøkelser av sansefunksjoner (syn, hørsel og fargesans),\nc. en analyse av urin- eller blodprøve for eventuelt å avdekke diabetes og eventuelle andre forhold som måtte følge av den kliniske undersøkelsen, herunder bruk av narkotiske stoffer."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-6",
+     "nummer": "§ 2-6",
+     "tittel": "Supplerende helseundersøkelser og/eller psykologiske vurderinger",
+     "ledd": [
+      "1. I tillegg til den regelmessige helseundersøkelsen skal det gjennomføres en særskilt supplerende helseundersøkelse og/eller psykologisk vurdering dersom det foreligger grunn til å tvile på den ansattes fysiske eller psykiske skikkethet, eller dersom det foreligger rimelig grunn til å mistenke misbruk av legemidler, bruk av narkotiske stoffer eller alkohol over de tillatte grensene. Det vil særlig være tilfelle etter en hendelse eller en ulykke.",
+      "2. Jernbanevirksomheten skal ha systemer for å sikre at slike supplerende undersøkelser og vurderinger blir gjennomført."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-7",
+     "nummer": "§ 2-7",
+     "tittel": "Allmenne krav",
+     "ledd": [
+      "1. Det skal foreligge fysisk og psykisk skikkethet til å utføre arbeidsoppgavene på en slik måte at det ikke innebærer en fare for trafikksikkerheten.",
+      "2. Det skal ikke foreligge sykdom, helseplager eller andre forhold som kan føre til:\na. plutselig bevisstløshet,\nb. nedsatt oppmerksomhet eller konsentrasjon,\nc. plutselig arbeidsudyktighet,\nd. nedsatt balanse- eller koordineringsevne,\ne. betydelig begrenset bevegelsesevne."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-8",
+     "nummer": "§ 2-8",
+     "tittel": "Synskrav",
+     "ledd": [
+      "1. Synsfunksjonen skal være så god at trafikksikkerhetsmessig informasjon kan oppfattes uten vanskelighet.",
+      "2. Følgende krav gjelder:\na. synsstyrke på avstand med eller uten korreksjon: 0,8 (høyre øye + venstre øye – målt hver for seg), minst 0,3 for det svakeste øyet,\nb. største tillatte korreksjon: langsynthet +5/nærsynthet -8,\nc. syn på kort og mellomlang avstand: tilstrekkelig med eller uten korreksjon,\nd. kontaktlinser er tillatt,\ne. normalt fargesyn: påvist gjennom bruk av en godkjent prøve, som f.eks. Ishihara, supplert ved en annen godkjent prøve dersom det er nødvendig,\nf. synsfelt: normalt (ikke noe avvik som påvirker den oppgaven som skal utføres),\ng. syn på begge øyne: effektivt,\nh. binokulært syn: effektivt,\ni. kontrastfølsomhet: god,\nj. ingen progressiv øyensykdom,\nk. øyeimplantater, keratotomi og keratektomi er bare tillatt dersom de kontrolleres årlig eller med en hyppighet som legen fastsetter.",
+      "3. Legen kan i særlige tilfeller tillate verdier som ligger utenfor ovennevnte krav etter å ha innhentet uttalelse fra en øyelege."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-9",
+     "nummer": "§ 2-9",
+     "tittel": "Hørselskrav",
+     "ledd": [
+      "1. Hørselsfunksjonen skal være så god at trafikksikkerhetsmessig informasjon kan oppfattes uten vanskelighet.",
+      "2. Tilfredsstillende hørsel som bekreftes av et toneaudiogram, det vil si tilstrekkelig god hørsel til å kunne føre en telefonsamtale og høre varsellyder og radiomeldinger.",
+      "3. Bruk av høreapparat er tillatt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-10",
+     "nummer": "§ 2-10",
+     "tittel": "Rusmidler mv.",
+     "ledd": [
+      "1. Det skal ikke foreligge misbruk av legemidler, bruk av narkotika eller avhengighet av eller misbruk av alkohol.",
+      "2. Legemidler som kan påvirke reaksjonsevne, konsentrasjonsevne eller vurderingsevne kan bare benyttes etter særskilt vurdering og anvisning av lege."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-11",
+     "nummer": "§ 2-11",
+     "tittel": "Overgangsordninger",
+     "ledd": [
+      "1. For personell som omfattes av dette kapitlet og som ved ikrafttredelse oppfyller krav til helse etter forskrift 18. desember 2002 nr. 1678 om krav til helse for personell med arbeidsoppgaver av betydning for trafikksikkerheten ved jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. (helsekravforskriften), gjelder denne forskriftens krav fra og med neste periodiske helseundersøkelse, men senest fra 1. januar 2022.",
+      "2. Unntak fra krav til helse gitt i medhold av forskrift 18. desember 2002 nr. 1678 om krav til helse for personell med arbeidsoppgaver av betydning for trafikksikkerheten ved jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. (helsekravforskriften) før ikrafttredelse av denne forskriften, gjelder til de utløper, men ikke utover 1. januar 2022."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. (Opphevet)",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Kapitlet opphevet ved forskrift 8 sep 2021 nr. 2714 (i kraft 1 juni 2022 jf. meddelelse 6 mai 2022 nr. 770)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 3-1",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Opphevet ved forskrift 8 sep 2021 nr. 2714 (i kraft 1 juni 2022 jf. meddelelse 6 mai 2022 nr. 770)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Avsluttende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 4-1",
+     "tittel": "Unntak",
+     "ledd": [
+      "Statens jernbanetilsyn kan i det enkelte tilfellet gjøre unntak fra denne forskriften dersom særlige forhold tilsier det."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 4-2",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "1. Forskriften trer i kraft 16. juni 2019.",
+      "2. Fra samme tidspunkt oppheves forskrift 29. februar 2008 nr. 240 om togframføring på det nasjonale jernbanenettet (togframføringsforskriften) og forskrift 12. januar 2012 nr. 63 om togframføring på ERTMS-strekninger (ERTMS-togframføringsforskriften)."
+     ]
+    }
+   ]
+  }
+ ]
+}

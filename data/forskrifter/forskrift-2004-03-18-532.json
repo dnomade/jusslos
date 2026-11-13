@@ -1,0 +1,62 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2004-03-18-532",
+ "dokumentid": "SF/forskrift/2004-03-18-532",
+ "departement": [
+  "Kultur- og likestillingsdepartementet"
+ ],
+ "etat": [
+  "Kulturavd."
+ ],
+ "kunngjort_i": "I 2004 hefte 5",
+ "ikraft": "2004-03-18",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1980-04-11-5/§3",
+   "tekst": "lov/1980-04-11-5/§3"
+  },
+  {
+   "ref": "forskrift/1980-12-05-4938",
+   "tekst": "forskrift/1980-12-05-4938"
+  },
+  {
+   "ref": "lov/2021-05-21-42/§21",
+   "tekst": "lov/2021-05-21-42/§21"
+  }
+ ],
+ "kunngjort": "2004-03-19",
+ "korttittel": "Forskrift om målbruk i helseføretak",
+ "tittel": "Forskrift om helseføretak som statsorgan etter lov om målbruk i offentleg teneste.",
+ "annet": "Fastsett av Kultur- og kyrkjedepartementet 18. mars 2004 med heimel i lov 11. april 1980 nr. 5 om målbruk i offentleg teneste § 3 andre ledd, jf. forskrift 5. desember 1980 nr. 4938 om målbruk i offentleg teneste.",
+ "refid": "forskrift/2004-03-18-532",
+ "eli": "/eli/forskrift/2004/03/18/532",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2004-03-18-532",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Helseføretak og regionale helseføretak etter lov 15. juni 2001 nr. 93 om helseføretak m.m. § 2 er å rekna som «organ for stat» etter lov 11. april 1980 nr. 5 om målbruk i offentleg teneste § 1 og dermed som ein del av «statstenesta» etter § 2 første ledd i sistnemnde lov."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Forskrifta trer i kraft straks."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,222 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-1999-05-28-655",
+ "dokumentid": "SF/forskrift/1999-05-28-655",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Finansmarkedsavd."
+ ],
+ "kunngjort_i": "I 1999 1457",
+ "ikraft": "1999-07-01",
+ "siste_endring_ikraft": "2006-02-21",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2006-02-21-234",
+   "tekst": "forskrift/2006-02-21-234"
+  }
+ ],
+ "endrer": "forskrift/1994-11-04-997",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1998-07-17-56/§10-1",
+   "tekst": "lov/1998-07-17-56/§10-1"
+  }
+ ],
+ "korttittel": "Forskrift om årsregnskap for inkassovirksomhet",
+ "tittel": "Forskrift om årsregnskap m.m. for inkassovirksomhet.",
+ "annet": "Fastsatt av Finans- og tolldepartementet 28. mai 1999 med hjemmel i lov av 17. juli 1998 nr. 56 om årsregnskap m.v. (regnskapsloven) § 9-1 (nå § 10-1) tredje ledd. Endret ved forskrift 21 feb 2006 nr. 234.",
+ "refid": "forskrift/1999-05-28-655",
+ "eli": "/eli/forskrift/1999/05/28/655",
+ "url": "https://lovdata.no/dokument/SF/forskrift/1999-05-28-655",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Alminnelige bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1-1",
+     "tittel": "Forskriftens virkeområde",
+     "ledd": [
+      "Forskriften gjelder for personer og foretak som driver inkassovirksomhet etter inkassoloven § 4 første ledd, jf. § 2 første ledd.",
+      "Regnskapsloven § 4-1 annet ledd kommer ikke til anvendelse for inkassosaker."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 1-2",
+     "tittel": "Definisjon av inkassosaker",
+     "ledd": [
+      "Med inkassosaker menes oppdrag om inndrivning av forfalte pengekrav for andre."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 1-3",
+     "tittel": "Regnskap utarbeidet etter regnskapsloven § 3-9",
+     "ledd": [
+      "For konsernregnskap eller selskapsregnskap utarbeidet i samsvar med regnskapsloven § 3-9, gjelder kun § 4-3 i denne forskrift."
+     ],
+     "endringer": [
+      "Endret ved forskrift 21 feb 2006 nr. 234 (fom regnskapsår påbegynt 1 jan 2005 eller senere)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Vurderingsregler",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 2-1",
+     "tittel": "Prinsipper for resultatføring av inntekter fra inkassosaker",
+     "ledd": [
+      "Inntekter fra inkassosaker skal resultatføres ved løpende avregning (i takt med fremdriften). Dersom utfallet av inkassosaken ikke kan fastslås med rimelig grad av sikkerhet, skal inntektsføringen være løpende avregning uten fortjeneste.",
+      "Opptjent fortjeneste tas til inntekt når det foreligger:\na. Pålitelig estimat for de totale inntektene fra inkassosaken.\nb. Pålitelig estimat for de kostnader som gjenstår for å fullføre inkassosaken og fullføringsgraden som er oppnådd på balansedagen.",
+      "Vurdering av inntekter fra inkassosaker kan foretas på gruppebasis for grupper av ensartede saker."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 2-2",
+     "tittel": "Kostnadsføring av tap",
+     "ledd": [
+      "Dersom inkassosaker forventes å gi tap, skal hele det forventede tapet kostnadsføres."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 2-3",
+     "tittel": "Beregning av opptjent inntekt fra inkassosak",
+     "ledd": [
+      "Opptjent inntekt fra inkassosak beregnes som estimert total inntekt fra inkassosaken multiplisert med fullføringsgraden. Opptjent inntekt i regnskapsperioden skal utgjøre opptjent inntekt på balansedagen fratrukket opptjent inntekt rapportert i tidligere perioder.",
+      "Ved gruppevurdering av opptjent inntekt på inkassosaker, skal det tas hensyn til risikoen for at saker ikke løses."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Resultatregnskap og balanse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 3-1",
+     "tittel": "Inntekter fra inkassosaker",
+     "ledd": [
+      "Inntekter fra inkassosaker i regnskapsperioden skal i resultatregnskapet presenteres på egen linje under salgsinntekter."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 3-2",
+     "tittel": "Opptjente, ikke fakturerte inntekter",
+     "ledd": [
+      "Opptjente, ikke fakturerte inntekter fra inkassosaker, skal i balansen presenteres på egen linje under kundefordringer som opptjente, ikke fakturerte inkassoinntekter."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 3-3",
+     "tittel": "Mottatte, ikke opptjente inntekter",
+     "ledd": [
+      "Dersom mottatt betaling fra inkassosaken overstiger opptjent inntekt fra inkassosaken, skal det overskytende presenteres i balansen på egen linje som mottatte, ikke opptjente inkassoinntekter under kortsiktig gjeld."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 3-4",
+     "tittel": "Klientmidler",
+     "ledd": [
+      "Midler som oppbevares av inkassoforetaket, men som tilhører klientene (klientmidler) skal ikke regnskapsføres i inkassoforetakets balanse.",
+      "Dersom midler innestående på konto for klientmidler overstiger klientansvaret (klientgjelden) er det overskytende foretakets eiendel og skal regnskapsføres i inkassoforetakets balanse.",
+      "Dersom klientmidlene ikke fullt ut dekker klientansvaret er underdekningen foretakets gjeld til klienten og skal regnskapsføres som kortsiktig gjeld i inkassoforetakets balanse."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 3-5",
+     "tittel": "Utlegg",
+     "ledd": [
+      "Utlegg som inkassovirksomheten har på vegne av oppdragsgiver, skal presenteres på egen linje under andre fordringer."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Noteopplysninger",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 4-1",
+     "tittel": "Regnskapsprinsipper",
+     "ledd": [
+      "Det skal opplyses om hovedprinsipper for inntektsføring av inkassosaker, herunder prinsippene for beregning av opptjent fortjeneste, fullføringsgraden og grunnlaget for gruppevurdering."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 4-2",
+     "tittel": "Avsetninger til tap",
+     "ledd": [
+      "Det skal opplyses om avsetninger til tap fordelt på de enkelte poster i balansen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 4-3",
+     "tittel": "Klientmidler",
+     "ledd": [
+      "Det skal opplyses om hvor mye foretaket oppbevarer av midler som tilhører klientene (klientmidler), samt om størrelsen på foretakets klientansvar (klientgjeld).",
+      "Dersom klientmidlene ikke fullt ut dekker klientansvaret skal underdekningen forklares. Tilsvarende gjelder dersom midler innestående på konto for klientmidler overstiger klientansvaret."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Ikrafttredelse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 5-1",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Denne forskrift trer i kraft 1. juli 1999. Fra samme tidspunkt oppheves forskrift 4. november 1994 nr. 997 om inkassovirksomheters inntektsføring av inkassosaker under utførelse m.v."
+     ]
+    }
+   ]
+  }
+ ]
+}

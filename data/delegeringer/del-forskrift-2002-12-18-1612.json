@@ -1,0 +1,72 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-2002-12-18-1612",
+ "dokumentid": "DEL/forskrift/2002-12-18-1612",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Finansmarkedsavd."
+ ],
+ "kunngjort_i": "I 2002 hefte 18",
+ "ikraft": "2002-12-18",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2002-07-05-64",
+   "tekst": "lov/2002-07-05-64"
+  },
+  {
+   "ref": "forskrift/2002-07-05-720",
+   "tekst": "forskrift/2002-07-05-720"
+  }
+ ],
+ "kunngjort": "2002-12-20",
+ "korttittel": "Delv. ikrafttr. lov 2002:64 (verdipapirregister)",
+ "tittel": "Delvis ikrafttredelse og overgangsregler til lov av 5. juli 2002 nr. 64 om registrering av finansielle instrumenter (verdipapirregisterloven) og endringer i enkelte andre lover.",
+ "annet": "Fastsatt av Finansdepartementet 18. desember 2002 med hjemmel i lov av 5. juli 2002 nr. 64 om registrering av finansielle instrumenter (verdipapirregisterloven) og endringer i enkelte andre lover del IV, jf. Kronprinsreg.res. av 5. juli 2002 nr. 720.",
+ "refid": "forskrift/2002-12-18-1612",
+ "eli": "/eli/forskrift/2002/12/18/1612",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/2002-12-18-1612",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": null,
+     "ledd": [
+      "Endring som fastsatt i lov av 5. juli 2002 nr. 64 om registrering av finansielle instrumenter (verdipapirregisterloven) og endringer i enkelte andre lover del II; lov av 19. juni 1997 nr. 79 om verdipapirhandel § 3-2 første ledd, trer i kraft 1. januar 2003."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": null,
+     "ledd": [
+      "Innehaver av aksjer og/eller rettigheter til aksjer som ved lovens ikrafttredelse utgjør mellom 1/20 og 1/10 av aksjekapitalen eller en tilsvarende andel av stemmene i selskapet, plikter å meddele at vedkommende har eierposisjoner og/eller rettigheter i dette intervallet til børsen snarest og senest innen utløpet av 31. januar 2003."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Vedtaket trer i kraft straks."
+    }
+   ]
+  }
+ ]
+}

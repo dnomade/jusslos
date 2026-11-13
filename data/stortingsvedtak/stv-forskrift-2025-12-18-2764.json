@@ -1,0 +1,104 @@
+{
+ "skjema": "1.0",
+ "type": "stortingsvedtak",
+ "datokode": "FOR-2025-12-18-2764",
+ "dokumentid": "STV/forskrift/2025-12-18-2764",
+ "departement": [
+  "Stortinget"
+ ],
+ "ikraft": "Budsjettåret 2026, departementet bestemmer",
+ "siste_endring_ikraft": "2026-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2025-12-19-2782",
+   "tekst": "forskrift/2025-12-19-2782 fra 2026-01-01"
+  }
+ ],
+ "hjemmel": [
+  {
+   "ref": "lov/1814-05-17/§75",
+   "tekst": "lov/1814-05-17/§75"
+  },
+  {
+   "ref": "lov/1933-05-19-11",
+   "tekst": "lov/1933-05-19-11"
+  }
+ ],
+ "kunngjort": "2025-12-22 11:30",
+ "tittel": "Stortingsvedtak om avgift på avfallsforbrenning for 2026",
+ "annet": "Hjemmel: Vedtatt av Stortinget 18. desember 2025 med hjemmel i Kongeriket Norges Grunnlov 17. mai 1814 § 75 bokstav a, jf. lov 19. mai 1933 nr. 11 om særavgifter (særavgiftsloven).\nEndret ved vedtak 19 des 2025 nr. 2782 (i kraft 1 jan 2026, ikrafttredelse av endringene i romertall II).",
+ "refid": "forskrift/2025-12-18-2764",
+ "eli": "/eli/forskrift/2025/12/18/2764",
+ "url": "https://lovdata.no/dokument/STV/forskrift/2025-12-18-2764",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": null,
+     "ledd": [
+      "I henhold til lov 19. mai 1933 nr. 11 om særavgifter skal det betales avgift til statskassen ved forbrenning av avfall med kr 848 per tonn CO2.",
+      "Avgiften omfatter ikke utslipp ved forbrenning av avfall som ikke inneholder fossilt materiale.",
+      "Departementet kan gi forskrift om hva som omfattes av avgiftsplikten og om grunnlaget for avgiften."
+     ],
+     "endringer": [
+      "Endret ved vedtak 19 des 2025 nr. 2782 (i kraft 1 jan 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": null,
+     "ledd": [
+      "Det gis fritak for avgift ved forbrenning av\na. farlig avfall\nb. avfall dersom CO2 fanges og lagres\nc. avfall som gir kvotepliktig utslipp.",
+      "Departementet kan gi forskrift om gjennomføring, avgrensing av og vilkår for fritak."
+     ],
+     "endringer": [
+      "Endret ved vedtak 19 des 2025 nr. 2782 (i kraft 1 jan 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": null,
+     "ledd": [
+      "Oppstår det tvil om omfanget av avgiftsplikten, avgjøres spørsmålet av departementet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 4",
+     "tittel": null,
+     "ledd": [
+      "Departementet kan frita for eller sette ned avgiften når det oppstår enkelttilfeller eller situasjoner som ikke var overveid da avgiftsvedtaket ble truffet, og når avgiften i det spesielle enkelttilfellet får en utilsiktet virkning."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Fra den tid departementet bestemmer, gjøres følgende endringer: – – –"
+    },
+    {
+     "type": "endring",
+     "tekst": "Endret ved vedtak 19 des 2025 nr. 2782 (i kraft 1 jan 2026)."
+    }
+   ]
+  }
+ ]
+}

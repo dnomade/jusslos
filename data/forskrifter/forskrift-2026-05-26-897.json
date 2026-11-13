@@ -1,0 +1,459 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2026-05-26-897",
+ "dokumentid": "SF/forskrift/2026-05-26-897",
+ "departement": [
+  "Kultur- og likestillingsdepartementet"
+ ],
+ "etat": [
+  "Medie- og kunstavdelingen"
+ ],
+ "ikraft": "2026-07-01",
+ "hjemmel": [],
+ "kunngjort": "2026-05-27 14:25",
+ "tittel": "Forskrift om Statens kunstnarstipend",
+ "annet": "Heimel: Fastsett av Kultur- og likestillingsdepartementet 26. mai 2026 til gjennomføring av Stortingets budsjettvedtak.",
+ "refid": "forskrift/2026-05-26-897",
+ "eli": "/eli/forskrift/2026/05/26/897",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2026-05-26-897",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Innleiande føresegner",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Formål",
+     "ledd": [
+      "Statens kunstnarstipend skal bidra i den statlege kunstnarpolitikken ved å leggje til rette for at enkeltkunstnarar, gjennom direkte tilskot frå staten, kan bidra til eit mangfaldig og nyskapande kunstliv av høg kvalitet.",
+      "Stipenda skal gi kunstnarar høve til å utvikle sitt kunstnarlege virke og ha kunstnarleg aktivitet som hovudvirke."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Verkeområde",
+     "ledd": [
+      "Forskrifta gjeld òg for Svalbard og Jan Mayen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Definisjonar",
+     "ledd": [
+      "Som yrkesaktive kunstnarar etter denne forskrifta blir rekna personar som har det aktuelle kunstområdet som profesjonelt virke."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Fellesføresegner",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 4",
+     "tittel": "Saksbehandling",
+     "ledd": [
+      "Vedtak om tildeling av stipend etter denne forskrifta blir fatta av utvalet for Statens kunstnarstipend på bakgrunn av innstilling frå sakkunnige stipendkomitéar. Utvalet er ikkje bunde av innstillinga.",
+      "Utvalet for Statens kunstnarstipend kan gi instruks som er bindande for stipendkomitéane."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 5",
+     "tittel": "Kven kan få stipend",
+     "ledd": [
+      "Kunstnarar som i hovudsak bur og arbeider i Noreg, kan få stipend.",
+      "Det kan gjerast unntak frå første ledd dersom søkjaren si verksemd har innverknad på kunst- og kulturlivet i Noreg."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 6",
+     "tittel": "Kriterium for tildeling",
+     "ledd": [
+      "Ved vurdering av søknader som oppfyller vilkåra i § 5 og kapittel 3, skal det berre leggjast vekt på kunstnarleg aktivitet og kvalitet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 7",
+     "tittel": "Utdanning og andre arbeidsforhold",
+     "ledd": [
+      "Kunstnarar som tar utdanning som svarer til meir enn 15 studiepoeng per semester, kan ikkje få stipend.",
+      "Den som får stipend etter §§ 18–21, kan ikkje vere tilsett i stilling over 50 prosent i løpet av kalenderåret ein får stipend."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 8",
+     "tittel": "Fleire stipend",
+     "ledd": [
+      "Ingen kan få meir enn eitt stipend nemnt i §§ 18–21 samtidig.",
+      "Mottakarar av stipend etter §§ 18–21 kan i tillegg få stipend nemnt i §§ 22–23.",
+      "Mottakarar av statsstipend kan ikkje få stipend frå Statens kunstnarstipend."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-6",
+     "nummer": "§ 9",
+     "tittel": "Storleiken på stipenda",
+     "ledd": [
+      "Storleiken på stipenda i §§ 18–21 blir fastsett av Stortinget.",
+      "Storleiken på andre stipend blir fastsett av utvalet for Statens kunstnarstipend."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-7",
+     "nummer": "§ 10",
+     "tittel": "Søknad",
+     "ledd": [
+      "Utvalet for Statens kunstnarstipend fastset og kunngjer søknadsfristar og krav til søknaden."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-8",
+     "nummer": "§ 11",
+     "tittel": "Utbetaling",
+     "ledd": [
+      "Stipenda i §§ 18–21 blir utbetalt månadleg og blir rekna som skattepliktig arbeidsinntekt. Staten skal betale arbeidsgivaravgift til folketrygda for slike stipend.",
+      "Stipenda i §§ 22–23 blir utbetalt som eitt tilskot. Det blir ikkje trekt skatt av stipenda, men dei er oppgåvepliktige."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-9",
+     "nummer": "§ 12",
+     "tittel": "Bruken av stipendet",
+     "ledd": [
+      "Stipendet skal brukast i samsvar med vedtaket om tildeling.",
+      "Mottakarar av stipend skal varsle utvalet dersom føresetnadene for å få stipendet har endra seg vesentleg."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-10",
+     "nummer": "§ 13",
+     "tittel": "Rapportering",
+     "ledd": [
+      "Mottakarar av stipend skal levere ein årleg rapport.",
+      "Rapport om stipend nemnt i §§ 18–21 skal beskrive den kunstnarlege aktiviteten og korleis stipendet er brukt.",
+      "Rapport om stipend nemnt i § 22–23 skal innehalde ei økonomisk oversikt over korleis stipendet er brukt.",
+      "Utvalet kan fastsetje nærmare krav til rapportering som er nødvendig for å føre kontroll etter § 14."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-11",
+     "nummer": "§ 14",
+     "tittel": "Kontroll",
+     "ledd": [
+      "Utvalet fører kontroll med at stipendet er brukt i tråd med føresetnadene, basert på ei vurdering av risiko og kva som elles er vesentleg å kontrollere.",
+      "Mottakarar av stipend skal på førespurnad gi alle opplysningar som er nødvendige for at utvalet kan føre slik kontroll som er nemnt i første ledd."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-12",
+     "nummer": "§ 15",
+     "tittel": "Bortfall av stipend og tilbakebetaling",
+     "ledd": [
+      "Om det er utbetalt stipend i strid med forskrifta eller vedtaket, eller stipendet er nytta i strid med føresetnadene, kan utvalet bestemme at retten til stipend fell bort og krevje tilbake heile eller delar av stipendet.",
+      "Dersom mottakarar av stipend ikkje har levert rapport etter § 13, kan utvalet bestemme at retten til stipend fell bort og krevje tilbake heile eller delar av stipendet det ikkje er rapportert for."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-13",
+     "nummer": "§ 16",
+     "tittel": "Permisjonar",
+     "ledd": [
+      "Mottakar av stipend omtalt i §§ 18–21 kan få permisjon ved svangerskap, fødsel, adopsjon og sjukdom, og ved mottak av pleiepengar gradert til over 50 prosent.",
+      "Permisjon ved svangerskap, fødsel og adopsjon skal vere samanhengande og kan ikkje vare lenger enn 12 månader utover perioden stipendmottakar har rett til stønad etter folketrygdeloven kapittel 14.",
+      "Permisjon ved sjukdom skal ikkje vare lenger enn perioden for erklæring om sjukdom frå lege, og kan ikkje vare lenger enn to år til saman.",
+      "Permisjon ved mottak av pleiepengar kan ikkje vare lenger enn to år til saman.",
+      "Ved innvilga permisjon blir stipendperioden forskyvd tilsvarande permisjonstida."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-14",
+     "nummer": "§ 17",
+     "tittel": "Klage",
+     "ledd": [
+      "Kultur- og likestillingsdepartementet er klageinstans for enkeltvedtaka utvalet for Statens kunstnarstipend fattar etter denne forskrifta.",
+      "Departementet kan ikkje overprøve vedtak fatta av utvalet når det kjem til det kunst- og kulturfaglege skjønnet, jf. forskrift 20. november 1987 nr. 924 om unntak fra adgangen til å klage over vedtak i Norsk kulturråd, Norsk kassettavgiftsfond og Utvalget for statens stipend og garantiinntekter for kunstnere.",
+      "Klager skal sendast til utvalet innan tre veker etter at melding om vedtaket har kome fram til søkjaren."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Føresegner om dei enkelte stipenda",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 18",
+     "tittel": "Arbeidsstipend",
+     "ledd": [
+      "Alle yrkesaktive kunstnarar kan få arbeidsstipend.",
+      "Stipendet kan bli tildelt for eitt til fem år."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 19",
+     "tittel": "Arbeidsstipend for nyetablerte kunstnarar",
+     "ledd": [
+      "Yrkesaktive kunstnarar i ein etableringsfase kan få arbeidsstipend for nyetablerte kunstnarar.",
+      "Stipendet kan bli tildelt for eitt til tre år."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 20",
+     "tittel": "Stipend for etablerte kunstnarar",
+     "ledd": [
+      "Yrkesaktive kunstnarar under 60 år som har hatt kunstnarleg aktivitet som profesjonelt virke over mange år, kan få stipend for etablerte kunstnarar.",
+      "Stipendet skal bli tildelt for ti år.",
+      "I år fem av stipendperioden skal det gjerast ei vurdering av inntekta til stipendmottakaren. Dersom medianverdien av alminneleg inntekt med fråtrekk av stipendet i dei fire første åra er høgare enn 6 G, fell retten til stipendet bort frå og med den fjerde månaden etter at vedtak er fatta."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 21",
+     "tittel": "Stipend for seniorkunstnarar",
+     "ledd": [
+      "Yrkesaktive kunstnarar over 60 år som har hatt kunstnarleg aktivitet som profesjonelt virke over mange år, kan få stipend for seniorkunstnarar.",
+      "Stipendet blir tildelt fram til mottakaren er 70 år. Stipendet fell bort frå månaden etter at mottakaren har fylt 70 år.",
+      "§ 20 tredje ledd gjeld tilsvarande."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 22",
+     "tittel": "Diversestipend",
+     "ledd": [
+      "Alle yrkesaktive kunstnarar kan få diversestipend.",
+      "Diversestipend kan dekkje konkrete kostnader knytt til den kunstnarlege verksemda.",
+      "Ved tildeling og utmåling kan utvalet leggje vekt på om og i kva grad kostnadene det er søkt om stipend til, har betydning for den kunstnarlege verksemda."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-6",
+     "nummer": "§ 23",
+     "tittel": "Etableringsstipend for unge kunstnarar",
+     "ledd": [
+      "Kunstnarar under 35 år som er tidleg i ein etableringsfase, kan få etableringsstipend for unge kunstnarar.",
+      "Ved vurdering av kunstnarleg aktivitet og kvalitet, jf. § 6, kan det for etableringsstipenda leggjast vekt på aktivitet under studietida frå relevante studium.",
+      "Ein kunstnar kan berre få etableringsstipend ein gong.",
+      "§ 22 andre og tredje ledd gjeld tilsvarande."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Forvaltning og organisering",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 24",
+     "tittel": "Utvalet for Statens kunstnarstipend",
+     "ledd": [
+      "Utvalet for Statens kunstnarstipend forvaltar Statens kunstnarstipend.",
+      "Utvalet består av leiar, nestleiar, tre medlemmer og fire varamedlemmer.",
+      "Kultur- og likestillingsdepartementet oppnemner utvalet. Leiar, nestleiar, éin medlem og to numeriske varamedlemmer blir oppnemnde på fritt grunnlag. To av medlemmene med to personlege varamedlemmer blir oppnemnde etter felles innstilling frå organisasjonane som etter § 27 har rett til å oppnemne medlemmer av stipendkomitéane.",
+      "Departementet set fristar for når organisasjonane må gi innstilling etter tredje ledd. Blir det ikkje gitt innstilling innan fristen, vil departementet oppnemne medlemmer til utvalet på fritt grunnlag.",
+      "Utvalet blir oppnemnt for inntil fire år om gongen. Éi gjenoppnemning kan skje."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 25",
+     "tittel": "Når utvalet er vedtaksført",
+     "ledd": [
+      "Utvalet er vedtaksført når minst tre personar, inkludert minst ein kunstnarrepresentant og leiar eller nestleiar, er til stades.",
+      "Leiaren har dobbeltstemme ved stemmelikskap. Dersom leiaren ikkje er til stades, har nestleiar dobbeltstemme."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 26",
+     "tittel": "Sakkunnige stipendkomitéar",
+     "ledd": [
+      "Det skal vere sakkunnige stipendkomitéar i samsvar med inndelinga i kunstnargrupper etter § 32 andre ledd.",
+      "Utvalet for Statens kunstnarstipend fastset storleiken på stipendkomitéane. Storleiken skal vere tilpassa søknadsmengda og ta omsyn til særlege trekk ved kunstnargruppa."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 27",
+     "tittel": "Rett til å oppnemne medlemmer av stipendkomitéane",
+     "ledd": [
+      "Medlemmer av stipendkomitéane blir oppnemnde av organisasjonar som representerer ein betydeleg del av dei yrkesaktive kunstnarane i den aktuelle kunstnargruppa, jf. § 32 andre ledd. Utvalet for Statens kunstnarstipend oppnemner medlemmer av stipendkomitéen for andre kunstnarar.",
+      "Kunstnarar under grunnutdanning skal ikkje reknast blant dei yrkesaktive kunstnarane etter første ledd.",
+      "Kulturdirektoratet avgjer om ein organisasjon er representativ etter første ledd, basert på søknad frå organisasjonen. Søknaden skal innehalde opplysningar om kor mange kunstnarar i den aktuelle gruppa organisasjonen representerer og gjere greie for dei kriteria organisasjonen har brukt for å definere den aktuelle kunstnargruppa.",
+      "Dersom fleire organisasjonar har rett til å oppnemne etter første ledd, skal organisasjonane bli einige om kor mange medlemmer kvar organisasjon skal oppnemne.",
+      "Kulturdirektoratet set fristen for semje etter fjerde ledd. Dersom organisasjonane ikkje blir samde, bestemmer Kulturdirektoratet kor mange medlemmer kvar organisasjon kan oppnemne. Ved vurderinga kan Kulturdirektoratet leggje vekt på kor stor del av dei yrkesaktive kunstnarane i kunstnargruppa kvar organisasjon representerer. Dersom fleire kunstnargrupper høyrer til same stipendkomité, kan Kulturdirektoratet òg leggje vekt på omsyn som sikrar at dei ulike kunstnargruppene blir forholdsmessig representerte i komitéen.",
+      "Kulturdirektoratet sine avgjerder etter denne føresegna kan påklagast til Kultur- og likestillingsdepartementet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-5",
+     "nummer": "§ 28",
+     "tittel": "Samansetning av stipendkomitéane",
+     "ledd": [
+      "Medlemmer av stipendkomitéane skal ha sakkunnig kompetanse på det aktuelle kunstområdet.",
+      "Ved oppnemning skal det ikkje leggjast vekt på medlemskap i organisasjonar som er omtalt i § 27. Desse organisasjonane skal sikre system for at uorganiserte kan bli oppnemnt og foreslå medlemmer.",
+      "Organisasjonar med rett til oppnemning etter § 27 vel kor lang tid komitémedlemmene skal bli oppnemnt for. Ingen kan sitje lenger enn fire år til saman.",
+      "Stipendkomitéane vel elles si eiga organisering, innanfor rammene av forskrifta og instruksar frå utvalet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-6",
+     "nummer": "§ 29",
+     "tittel": "Kjønnsbalanse",
+     "ledd": [
+      "Likestillings- og diskrimineringsloven § 28 gjeld tilsvarande for oppnemning til både utvalet og stipendkomitéane."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-7",
+     "nummer": "§ 30",
+     "tittel": "Sekretariat",
+     "ledd": [
+      "Kulturdirektoratet er sekretariat for utvalet for Statens kunstnarstipend.",
+      "Kvar stipendkomité skal ha sekretariat anten i den organisasjonen som oppnemnde medlemmene, eller i Kulturdirektoratet. Dersom meir enn éin organisasjon har rett til å oppnemne medlemmer til ein stipendkomité og organisasjonane ikkje blir einige om kven av dei som skal vere sekretariat, skal sekretariatet vere i Kulturdirektoratet.",
+      "I stipendkomitéar der Kulturdirektoratet ikkje er sekretariat, har Kulturdirektoratet møte-, tale- og referatrett i komitémøta."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-8",
+     "nummer": "§ 31",
+     "tittel": "Delegering",
+     "ledd": [
+      "Utvalet for Statens kunstnarstipend kan delegere myndigheit til Kulturdirektoratet i saker som klart ikkje inneber vurdering av kunst- og kulturfagleg skjønn.",
+      "Utvalet kan òg delegere til Kulturdirektoratet å godkjenne rapportar."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-9",
+     "nummer": "§ 32",
+     "tittel": "Kvotefordeling",
+     "ledd": [
+      "Den årlege fordelinga av midlane mellom dei ulike kunstnargruppene som er lista opp i andre ledd, blir fastsett av Kultur- og likestillingsdepartementet etter innstilling frå utvalet for Statens kunstnarstipend.",
+      "Følgjande kunstnargrupper kan få tildelt stipendkvote etter første ledd:\na. Andre kunstnargrupper\nb. Barne- og ungdomslitterære forfattarar\nc. Biletkunstnarar\nd. Dansekunstnarar\ne. Dramatikarar\nf. Faglitterære forfattarar og omsetjarar\ng. Filmkunstnarar\nh. Folkekunstnarar\ni. Fotografar\nj. Komponistar\nk. Kritikarar\nl. Kunsthandverkarar\nm. Musikarar, songarar og dirigentar\nn. Populærkomponistar\no. Sceneinstruktørar\np. Scenografar og kostymedesignarar\nq. Skjønlitterære forfattarar\nr. Skjønlitterære omsetjarar\ns. Skodespelarar og dukkespelarar."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-10",
+     "nummer": "§ 33",
+     "tittel": "Høyring av kvotefordelinga",
+     "ledd": [
+      "Utvalet for Statens kunstnarstipend lagar årleg forslag til kvotefordeling. Kultur- og likestillingsdepartementet sender forslaget på høyring. Høyringsfristen skal vere seks veker om ikkje spesielle forhold gjer det nødvendig med ein annan frist.",
+      "Forslaget som blir sendt på høyring etter første ledd, skal baserast på den økonomiske ramma som følgjer av Kultur- og likestillingsdepartementets årlege budsjettproposisjon.",
+      "Dersom Stortinget vedtar ei anna økonomisk ramme for kvotefordelinga enn den som følgjer av Kultur- og likestillingsdepartementets budsjettproposisjon, fastset departementet den endelege kvotefordelinga utan ny høyring."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Overgangsføresegner og sluttføresegner",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 34",
+     "tittel": "Ikraftsetjing",
+     "ledd": [
+      "Denne forskrifta trer i kraft 1. juli 2026."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 35",
+     "tittel": "Oppnemning av utvalet i 2027",
+     "ledd": [
+      "Det kan gjerast unntak frå § 24 femte ledd andre punktum fram til 1. januar 2028."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 36",
+     "tittel": "Stipend som blei tildelt før forskrifta tredde i kraft",
+     "ledd": [
+      "Denne forskrifta gjeld òg for behandling av saker knytt til stipend som blei tildelt før forskrifta tredde i kraft.",
+      "Stipend som er tildelt før forskrifta tredde i kraft, har den varigheita som følgjer av vedtaket om tildeling."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-4",
+     "nummer": "§ 37",
+     "tittel": "Garantiinntekt og stipend for eldre fortente kunstnarar",
+     "ledd": [
+      "Denne forskrifta §§ 4, 7 første ledd, 12, 14, 15 første ledd og 17 gjeld for mottakarar av garantiinntekt og stipend for eldre fortente kunstnarar så langt dei passar. Dei andre fellesføresegnene gjeld ikkje.",
+      "Forskrifta kapittel 1 og 4 gjeld så langt dei passar."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-5",
+     "nummer": "§ 38",
+     "tittel": "Frå garantiinntekt til langvarig stipend",
+     "ledd": [
+      "Mottakarar av garantiinntekt under 60 år som seier frå seg garantiinntekta, har rett til å få eit stipend for etablerte kunstnarar etter § 20.",
+      "I året dei fyller 60 år, har mottakarar av garantiinntekt rett til å få stipend for seniorkunstnarar etter § 21, dersom dei seier frå seg garantiinntekta.",
+      "Frå og med året etter fylte 60 år, har mottakarar av garantiinntekt ikkje rett til andre stipend, men dei kan søkje på vanleg måte."
+     ]
+    }
+   ]
+  }
+ ]
+}

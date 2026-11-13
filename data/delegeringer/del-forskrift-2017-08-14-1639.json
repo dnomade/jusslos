@@ -1,0 +1,54 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-2017-08-14-1639",
+ "dokumentid": "DEL/forskrift/2017-08-14-1639",
+ "departement": [
+  "Samferdselsdepartementet"
+ ],
+ "ikraft": "2017-08-14",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1993-06-11-101/§4-11",
+   "tekst": "lov/1993-06-11-101/§4-11"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§9-1a",
+   "tekst": "lov/1993-06-11-101/§9-1a"
+  }
+ ],
+ "kunngjort": "2017-10-23 13:05",
+ "korttittel": "Deleg. av myndighet til Luftfartstilsynet etter luftfartsloven",
+ "tittel": "Delegering av myndighet til Luftfartstilsynet etter luftfartsloven",
+ "annet": "Hjemmel: Fastsatt av Samferdselsdepartementet 14. august 2017 med hjemmel i lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven) § 4-11 og § 9-1a.",
+ "refid": "forskrift/2017-08-14-1639",
+ "eli": "/eli/forskrift/2017/08/14/1639",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/2017-08-14-1639",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Samferdselsdepartementet delegerer sin myndighet etter lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven) til Luftfartstilsynet for så vidt gjelder:\nKapittel IV Luftdyktighet og miljødyktighet\n- § 4-11 Alkoholpåvirkning mv.\nKapittel IX Bestemmelser om lufttrafikk m.m.\n- § 9-1a Restriksjonsområder"
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Vedtaket trer i kraft straks."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2012-06-08-499",
+ "dokumentid": "SF/forskrift/2012-06-08-499",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "etat": [
+  "Konkurransepolitisk avd."
+ ],
+ "kunngjort_i": "I 2012 hefte 7",
+ "ikraft": "2012-07-01",
+ "endrer": "lov/1999-07-16-69\nlov/1992-09-25-107",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2012-05-11-25",
+   "tekst": "lov/2012-05-11-25"
+  },
+  {
+   "ref": "lov/1999-07-16-69",
+   "tekst": "lov/1999-07-16-69"
+  },
+  {
+   "ref": "lov/1992-09-25-107",
+   "tekst": "lov/1992-09-25-107"
+  },
+  {
+   "ref": "lov/2018-06-22-83/§31-5",
+   "tekst": "lov/2018-06-22-83/§31-5"
+  }
+ ],
+ "kunngjort": "2012-06-12 14:20",
+ "korttittel": "Forskrift om overgangsregler til endr i offanskl. m.m.",
+ "tittel": "Forskrift om overgangsregler for lov 11. mai 2012 nr. 25 om endringer i lov om offentlige anskaffelser og i kommuneloven (gjennomføring av EUs håndhevelsesdirektiv i norsk rett)",
+ "annet": "Hjemmel: Fastsatt ved kgl.res. 8. juni 2012 med hjemmel i lov 11. mai 2012 nr. 25 om endringer i lov om offentlige anskaffelser og i kommuneloven (gjennomføring av EUs håndhevelsesdirektiv i norsk rett) del III. Fremmet av Fornyings-, administrasjons- og kirkedepartementet.\nEØS-henvisninger: EØS-avtalen vedlegg XVI nr. 5 (direktiv 2007/66/EF).",
+ "refid": "forskrift/2012-06-08-499",
+ "eli": "/eli/forskrift/2012/06/08/499",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2012-06-08-499",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": null,
+     "ledd": [
+      "Endringer i lov 16. juli 1999 nr. 69 om offentlige anskaffelser får anvendelse på anskaffelser der konkurransen kunngjøres etter lovens ikrafttredelse. For anskaffelser der konkurransen ikke kunngjøres får endringene anvendelse på anskaffelser der kontrakt inngås etter lovens ikrafttredelse."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": null,
+     "ledd": [
+      "Endringer i lov 25. september 1992 nr. 107 om kommuner og fylkeskommuner får ikke anvendelse på avgjørelser truffet av folkevalgt organ eller den kommunale eller fylkeskommunale administrasjon som er brakt inn for lovlighetskontroll før lovens ikrafttredelse."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Denne forskrift trer i kraft 1. juli 2012."
+    }
+   ]
+  }
+ ]
+}

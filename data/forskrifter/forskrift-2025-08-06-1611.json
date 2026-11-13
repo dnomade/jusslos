@@ -1,0 +1,298 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2025-08-06-1611",
+ "dokumentid": "SF/forskrift/2025-08-06-1611",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "etat": [
+  "Næringspolitisk avdeling"
+ ],
+ "ikraft": "2026-01-01",
+ "endrer": "forskrift/1987-12-18-984",
+ "hjemmel": [
+  {
+   "ref": "lov/2025-06-20-106/§1-2",
+   "tekst": "lov/2025-06-20-106/§1-2"
+  },
+  {
+   "ref": "lov/2025-06-20-106/§4-4",
+   "tekst": "lov/2025-06-20-106/§4-4"
+  },
+  {
+   "ref": "lov/2025-06-20-106/§4-7",
+   "tekst": "lov/2025-06-20-106/§4-7"
+  },
+  {
+   "ref": "lov/2025-06-20-106/§5-4",
+   "tekst": "lov/2025-06-20-106/§5-4"
+  },
+  {
+   "ref": "lov/2025-06-20-106/§9-1",
+   "tekst": "lov/2025-06-20-106/§9-1"
+  },
+  {
+   "ref": "lov/2025-06-20-106/§9-2",
+   "tekst": "lov/2025-06-20-106/§9-2"
+  },
+  {
+   "ref": "lov/2025-06-20-106/§11-2",
+   "tekst": "lov/2025-06-20-106/§11-2"
+  }
+ ],
+ "kunngjort": "2025-08-11 14:50",
+ "korttittel": "Foretaksregisterforskriften",
+ "tittel": "Forskrift til lov om Foretaksregisteret (foretaksregisterforskriften)",
+ "annet": "Hjemmel: Fastsatt av Nærings- og fiskeridepartementet 6. august 2025 med hjemmel i lov 20. juni 2025 nr. 106 om Foretaksregisteret (foretaksregisterloven) § 1-2, § 4-4, § 4-7, § 5-4, § 9-1, § 9-2 og § 11-2.",
+ "refid": "forskrift/2025-08-06-1611",
+ "eli": "/eli/forskrift/2025/08/06/1611",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2025-08-06-1611",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1-1",
+     "tittel": "Organisering og lokalisering",
+     "ledd": [
+      "Foretaksregisteret legges til Registerenheten i Brønnøysund (Brønnøysundregistrene)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 1-2",
+     "tittel": "Delegering av registerførerens myndighet",
+     "ledd": [
+      "(1) Registerføreren kan delegere sin myndighet etter foretaksregisterloven eller forskrift gitt i medhold av foretaksregisterloven til andre ansatte ved registeret.",
+      "(2) Delegeringsbeslutningen skal være skriftlig. Beslutningen skal angi navnet til den som er delegert myndighet, hvilken myndighet som er delegert og om utøvelsen av den delegerte myndigheten er begrenset."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 1-3",
+     "tittel": "Datasikkerhet",
+     "ledd": [
+      "Registerføreren skal sørge for at det regelmessig tas sikkerhetskopi av det som er registrert i Foretaksregisterets databaser. Data skal håndteres på en slik måte at kvaliteten av lagrede og avgitte opplysninger er tilstrekkelig god og slik at den blir best mulig beskyttet mot uønskede hendelser. Uhell, misbruk, feil og øvrige trusler mot datasikkerheten skal søkes avdekket og avverget så effektivt som mulig."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Krav til meldinger mv.",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 2-1",
+     "tittel": "Fremgangsmåten ved innsending av melding",
+     "ledd": [
+      "Ved innsending av melding til Foretaksregisteret etter foretaksregisterloven kapittel 4, skal det benyttes skjema eller løsning som er godkjent av registerføreren. Registerføreren kan godta at melding sendes inn på annen måte, dersom registerføreren finner det ubetenkelig."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 2-2",
+     "tittel": "Format på dokumentasjon som inngår i melding",
+     "ledd": [
+      "Dokumentasjon som inngår i melding til Foretaksregisteret, jf. foretaksregisterloven § 4-4, skal ha det dataformat og filformat som registerføreren bestemmer."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 2-3",
+     "tittel": "Type dokumentasjon som inngår i melding",
+     "ledd": [
+      "Registerføreren bestemmer hvilken type dokumentasjon som oppfyller dokumentasjonskravene i foretaksregisterloven § 4-4 første ledd bokstav a andre og tredje punktum og bokstav d og g. Dokumentasjonskravene som registerføreren stiller etter første punktum, må ha saklig sammenheng med kontrollen etter foretaksregisterloven § 5-1 første ledd og ikke være uforholdsmessig tyngende for innsenderen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 2-4",
+     "tittel": "Krav til språk i melding",
+     "ledd": [
+      "(1) Dokumentasjon av opplysninger som meldes til registrering skal være skrevet på norsk, samiske språk, kvensk, romani eller romanes. Hvis dokumentasjonen ikke er på norsk, skal det oppgis hvilke deler av dokumentasjonen som dokumenterer de opplysningene som meldes, og hvilket språk dokumentasjonen er skrevet på.",
+      "(2) Hvis dokumentasjonen er skrevet på romani eller romanes, skal det legges ved en norsk oversettelse av de delene av dokumentasjonen som dokumenterer de opplysningene som meldes. Oversettelsen behøver ikke være bekreftet av translatør autorisert av norsk myndighet.",
+      "(3) Registerføreren kan godta dokumenter på andre språk enn de som er nevnt i første ledd, dersom registerføreren finner det ubetenkelig. Registerføreren kan kreve fremlagt oversettelse bekreftet av translatør som er autorisert av norsk myndighet.",
+      "(4) Dokumenter som skal registreres i sin helhet skal være skrevet på norsk, samiske språk, kvensk, romani eller romanes. Det kan vedlegges en versjon av dokumentet på et annet språk. Hvis den tospråklige versjonen er norsk sammen med et samisk språk eller kvensk, kan det angis at den versjonen som er på et samisk språk eller kvensk har forrang ved motstrid.",
+      "(5) Hvis dokument som nevnt i fjerde ledd er skrevet på romani eller romanes, skal det legges ved en norsk versjon. Oversettelsen behøver ikke være bekreftet av translatør autorisert av norsk myndighet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 2-5",
+     "tittel": "Signering av melding",
+     "ledd": [
+      "(1) Melding til Foretaksregisteret etter foretaksregisterloven § 4-1 og § 4-2 skal signeres av en fysisk eller juridisk person som har en av følgende roller i foretaket:\na. meldepliktig, jf. foretaksregisterloven § 4-3\nb. signaturberettiget\nc. daglig leder\nd. forretningsfører som er registrert i Enhetsregisteret for borettslag og eierseksjonssameie\ne. representant for norskregistrert utenlandsk foretak som er registrert i Enhetsregisteret, jf. merverdiavgiftsloven § 2-1 sjette ledd.",
+      "(2) Melding som nevnt i første ledd kan også signeres av en fysisk person som styreleder eller daglig leder i foretaket har delegert retten til å signere meldingen til. For enkeltpersonforetak kan retten til å signere meldingen også delegeres av innehaver. Tildeling av rett til å signere meldingen som nevnt i første og andre punktum skal skje ved bruk av løsning som er godkjent av registerføreren.",
+      "(3) Melding til Foretaksregisteret etter foretaksregisterloven § 4-1 og § 4-2 som er sendt inn på papir, skal være signert av samtlige meldepliktige eller av signaturberettiget."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-6",
+     "nummer": "§ 2-6",
+     "tittel": "Særlige regler om meldeplikt og om signering av melding i foreninger og andre juridiske personer uten styre",
+     "ledd": [
+      "(1) Den som har plikt til å sende melding etter foretaksregisterloven § 4-1 og § 4-2 for forening som nevnt i foretaksregisterloven § 2-1 første ledd bokstav p, men som ikke har styre, er:\na. daglig leder for foreningen\nb. den som er registrert i Enhetsregisteret som forretningsfører for foreningen, dersom foreningen verken har styre eller daglig leder\nc. den som er registrert i Enhetsregisteret som kontaktperson for foreningen, dersom foreningen verken har styre, daglig leder eller forretningsfører som nevnt i bokstav b.",
+      "(2) Første ledd gjelder tilsvarende for andre juridiske personer som nevnt i foretaksregisterloven § 2-1 første ledd bokstav w, men som ikke har styre.",
+      "(3) Melding til Foretaksregisteret etter foretaksregisterloven § 4-1 og § 4-2 for forening som nevnt i foretaksregisterloven § 2-1 første ledd bokstav p, som ikke har registrert person i rolle som nevnt i denne forskriften § 2-5 første ledd, kan signeres av den som er registrert i Enhetsregisteret som kontaktperson for foreningen.",
+      "(4) Tredje ledd gjelder tilsvarende for annen juridisk person som nevnt i foretaksregisterloven § 2-1 første ledd bokstav w, som ikke har registrert person i rolle som nevnt i denne forskriften § 2-5 første ledd."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Stengning for mottak og registrering av meldinger",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 3-1",
+     "tittel": "Stengning for mottak og registrering av meldinger ved større vedlikeholdsarbeider eller systemomlegginger",
+     "ledd": [
+      "(1) I forbindelse med større vedlikeholdsarbeider eller systemomlegginger kan registerføreren stenge for mottak og registrering av meldinger i den perioden som anses nødvendig av hensyn til det arbeidet som skal utføres. Papirdokumenter som har kommet inn under stengningen, vil anses mottatt på det tidspunkt stengningen opphører.",
+      "(2) Registerføreren skal på egnet måte varsle brukerne om planlagt stengning i god tid før stengningen skjer."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Innhenting og registrering av opplysninger",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 4-1",
+     "tittel": "Innhenting og registrering av opplysninger fra registre som ikke føres av offentlig myndighet",
+     "ledd": [
+      "Dersom det er ubetenkelig, kan registerføreren innhente og registrere opplysninger fra følgende registre:\na. Posten Bring AS sitt Adresseregister, Gateregister og Postnummerregister."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Firmaattest",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 5-1",
+     "tittel": "Firmaattest",
+     "ledd": [
+      "(1) Firmaattesten skal minst inneholde følgende opplysninger dersom disse er registrert i Foretaksregisteret:\na. firmaattestens utstedelsesdato\nb. organisasjonsform\nc. organisasjonsnummer\nd. foretaksnavn\ne. forretningsadresse\nf. navn på foretakets styremedlemmer, varamedlemmer og daglig leder\ng. navn på deltakerne i ansvarlig selskap\nh. navn på komplementar i kommandittselskap\ni. navn på innehaver av enkeltpersonforetak\nj. opplysninger om signatur og prokura\nk. opplysning om foretakets revisor\nl. for aksjeselskap, opplysning om at selskapets årsregnskap ikke skal revideres\nm. hva slags næringsvirksomhet som enkeltpersonforetak driver\nn. opplysning om at foretaket er under konkursbehandling, rekonstruksjonsforhandling eller oppløsning\no. navn på bostyrer, dersom det er oppnevnt bostyrer for foretaket etter konkursloven § 77.",
+      "(2) For utenlandsk foretak med forretnings- eller driftssted her i landet, utstedes firmaattesten for den norske virksomheten. Opplysninger om det utenlandske foretakets (hovedforetaket) foretaksnavn, adresse og organisasjonsnummer skal også fremgå.",
+      "(3) Firmaattesten for utenlandske foretak, jf. foretaksregisterloven § 3-8, skal i tillegg inneholde følgende opplysninger:\na. hvis foretaket er registrert i et offentlig foretaksregister i sin hjemstat, dette registerets navn og adresse samt foretakets registreringsnummer\nb. hvis foretaket ikke er registrert i et offentlig foretaksregister i sin hjemstat, hvilken stats lovgivning foretaket er underlagt",
+      "(4) Firmaattesten for europeiske økonomiske foretaksgrupper skal i tillegg inneholde følgende opplysninger:\na. navn på deltakerne\nb. hva slags næringsvirksomhet som foretaksgruppen driver\nc. registreringsdato og eventuelt gruppens varighet\nd. forslag om å flytte foretakets adresse til annen medlemsstat\ne. navn på den eller de personer som skal forestå gruppens avvikling."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Utlevering av opplysninger",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 6-1",
+     "tittel": "Utstedelse, bekreftelse og autentisering av kopier",
+     "ledd": [
+      "Kopier som utstedes fra Foretaksregisteret skal bekreftes å være «rett kopi», med mindre rekvirenten gir avkall på bekreftelsen. Elektronisk kopi som utstedes fra Foretaksregisteret skal autentiseres ved bruk av tillitstjenester som nevnt i forordning (EU) nr. 910/2014, jf. lov 15. juni 2018 nr. 44 om gjennomføring av EUs forordning om elektronisk identifikasjon og tillitstjenester for elektroniske transaksjoner i det indre marked § 1, for å sikre at kopien er fra Foretaksregisteret og at innholdet er en rett kopi av dokumentet i registeret eller samsvarer med opplysninger i registeret."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kap7",
+   "overskrift": "Kapittel 7. Tvangsmulkt",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 7-1",
+     "tittel": "Ileggelse av tvangsmulkt",
+     "ledd": [
+      "(1) Tvangsmulkt etter foretaksregisterloven § 11-2 kan ilegges foretaket i inntil 26 uker etter følgende satser:\n1. kr 500 per uke de første åtte uker\n2. kr 1 000 per uke de neste ti uker\n3. kr 1 500 per uke de siste åtte uker.",
+      "(2) Dersom grunnlaget for tvangsmulkt ikke er bortfalt innen utløpet av perioden som nevnt i første ledd, kan registerføreren ilegge meldepliktige etter foretaksregisterloven § 4-3 tvangsmulkt etter bestemmelsen i første ledd. De meldepliktige er solidarisk ansvarlige for tvangsmulkten.",
+      "(3) Tvangsmulkt ilegges for hele uker slik at del av en uke regnes som full uke.",
+      "(4) Tvangsmulkt kan ikke ilegges uten at registerføreren har varslet foretaket/den meldepliktige om manglende overholdelse av meldeplikten eller dokumentopplysningsplikten, og gitt denne en rimelig frist til å rette forholdet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-2",
+     "nummer": "§ 7-2",
+     "tittel": "Forbud mot å ilegge tvangsmulkt etter både foretaksregisterloven og enhetsregisterloven for samme forhold",
+     "ledd": [
+      "Det kan ikke ilegges tvangsmulkt etter både foretaksregisterloven og enhetsregisterloven for samme forhold."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-3",
+     "nummer": "§ 7-3",
+     "tittel": "Klage på vedtak om tvangsmulkt",
+     "ledd": [
+      "Vedtak om tvangsmulkt kan påklages etter reglene i forvaltningsloven."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-4",
+     "nummer": "§ 7-4",
+     "tittel": "Ettergivelse av ilagt tvangsmulkt",
+     "ledd": [
+      "(1) Registerføreren kan etter søknad helt eller delvis ettergi ilagt tvangsmulkt dersom\na. det blir gjort sannsynlig at meldeplikten eller dokumentopplysningsplikten ikke er overholdt som følge av forhold utenfor foretakets kontroll.\nb. særlige rimelighetsgrunner tilsier det.",
+      "(2) Søknad om ettergivelse må fremsettes for Foretaksregisteret innen ett år etter at vedtaket om ileggelse av tvangsmulkt ble fattet.",
+      "(3) Registerførerens vedtak i sak om ettergivelse av ilagt tvangsmulkt kan påklages etter reglene i forvaltningsloven."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-8",
+   "navn": "kap8",
+   "overskrift": "Kapittel 8. Ikrafttredelse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-1",
+     "nummer": "§ 8-1",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Forskriften trer i kraft 1. januar 2026. Fra samme tidspunkt oppheves forskrift 18. desember 1987 nr. 984 om registrering av foretak."
+     ]
+    }
+   ]
+  }
+ ]
+}

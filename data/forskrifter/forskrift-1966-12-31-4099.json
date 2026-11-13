@@ -1,0 +1,63 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-1966-12-31-4099",
+ "dokumentid": "SF/forskrift/1966-12-31-4099",
+ "departement": [
+  "Arbeids- og inkluderingsdepartementet"
+ ],
+ "etat": [
+  "Trygdeavd."
+ ],
+ "ikraft": "1967-01-01",
+ "siste_endring_ikraft": "2024-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2023-12-21-2283",
+   "tekst": "forskrift/2023-12-21-2283 fra 2024-01-01"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1957-07-06-26/§27",
+   "tekst": "lov/1957-07-06-26/§27"
+  }
+ ],
+ "korttittel": "Forskrift om flere tjenestepensjoner",
+ "tittel": "Forskrift om flere tjenestepensjoner og grunnpensjon og omstillingsstønad fra folketrygden (samordningsforskrift 24)",
+ "annet": "Hjemmel: Fastsatt av Sosialdepartementet 31. desember 1966 med hjemmel i lov av 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser § 27.\nEndret ved forskrift 21 des 2023 nr. 2283 (i kraft 1 jan 2024, bl.a. tittel).",
+ "refid": "forskrift/1966-12-31-4099",
+ "eli": "/eli/forskrift/1966/12/31/4099",
+ "url": "https://lovdata.no/dokument/SF/forskrift/1966-12-31-4099",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "1. Dersom to tjenestepensjoner helt eller delvis er opptjent samtidig skal fradrag for folketrygdens grunnpensjon etter samordningsloven §§ 19, 21 og 22 skje etter følgende regler:\na. Hver pensjonsordning foretar isolert samordning med folketrygdens grunnpensjon etter reglene i samordningslovens §§ 19, 21 og 22, dog slik at hver ordning bare skal rekne med halvparten av den pensjonsgivende tjenestetid i den periode hvori vedkommende har vært samtidig medlem i begge ordninger.\nb. Hvis det samlede fradrag som er bereknet etter bokstav a) blir større enn fullt fradrag etter reglene i §§ 19, 21 og 22, skal fradraget i siste pensjonsordning avkortes slik at det samlede fradrag ikke blir større enn nevnt.\nc. Hvis den første pensjonsordning ikke nytter hele sitt fradrag øker siste pensjonsordning sitt fradrag med den unyttede del. Fradrag i slik pensjonsordning må likevel ikke være større enn fradraget ville blitt etter den der opptjente pensjonsgivende tid.\n2. Hvis ikke annet følger av reglene under nr. 1, skal fradrag etter samordningsloven §§ 19, 21 og 22 gjennomføres – så langt det er noe å trekke – etter følgende prioritetsorden:\na. Hvis tjenestepensjonene er av forskjellig art: i alderspensjon, uførepensjon, enkepensjon og barnepensjon.\nb. Hvis tjenestepensjonene er av samme art: i den rekkefølge tjenestepensjonene er opptjent, men forholdsmessig fordelt hvis pensjonene er samtidig opptjent.\n3. Nr. 1 og nr. 2 gjelder tilsvarende ved samordning av omstillingsstønad fra folketrygden."
+    },
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrift 21 des 2023 nr. 2283 (i kraft 1 jan 2024)."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Forskriften trer i kraft 1. januar 1967."
+    }
+   ]
+  }
+ ]
+}

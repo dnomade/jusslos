@@ -1,0 +1,96 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2017-01-06-10",
+ "dokumentid": "SF/forskrift/2017-01-06-10",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Finanstilsynet"
+ ],
+ "ikraft": "2017-01-01",
+ "siste_endring_ikraft": "2024-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2023-12-20-2228",
+   "tekst": "forskrift/2023-12-20-2228 fra 2024-01-01"
+  }
+ ],
+ "endrer": "forskrift/2009-05-26-575",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "forskrift/2015-12-18-1824/§5-13",
+   "tekst": "forskrift/2015-12-18-1824/§5-13"
+  },
+  {
+   "ref": "forskrift/2011-12-20-1457/§5-11",
+   "tekst": "forskrift/2011-12-20-1457/§5-11"
+  },
+  {
+   "ref": "lov/1998-07-17-56/§8-1",
+   "tekst": "lov/1998-07-17-56/§8-1"
+  },
+  {
+   "ref": "lov/1998-07-17-56/§10-1",
+   "tekst": "lov/1998-07-17-56/§10-1"
+  }
+ ],
+ "kunngjort": "2017-01-06 14:40",
+ "siste_rettelse": "2022-03-29 (matematiske formler tilpasset universell utforming)",
+ "tittel": "Forskrift om beregning av kapitalavkastning i livsforsikrings- og pensjonsforetak",
+ "annet": "Hjemmel: Fastsatt av Finanstilsynet 6. januar 2017 med hjemmel i forskrift 18. desember 2015 nr. 1824 om årsregnskap for livsforsikringsforetak § 5-13 tredje ledd og forskrift 20. desember 2011 nr. 1457 om årsregnskap for pensjonsforetak § 5-11 tredje ledd.\nEndret ved forskrift 20 des 2023 nr. 2228 (i kraft 1 jan 2024).\nRettelser: 15.03.2017 (§ 3 tredje ledd, formel), 29.03.2022 (matematiske formler tilpasset universell utforming).",
+ "refid": "forskrift/2017-01-06-10",
+ "eli": "/eli/forskrift/2017/01/06/10",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2017-01-06-10",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Virkeområde",
+   "ledd": [
+    "Forskriften gjelder for livsforsikringsforetak som har sitt hovedsete og er underlagt tilsyn i Norge.",
+    "Forskriften gjelder også norske pensjonsforetak, likevel slik at pensjonsforetak som ved inngangen til regnskapsåret har en forvaltningskapital mindre enn to milliarder kroner kan foreta kvartalsvise beregninger."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Beregning av kapitalavkastningsrente for kollektivportefølje og delporteføljer",
+   "ledd": [
+    "Foretaket skal beregne kapitalavkastning for kollektivporteføljen samlet og for hver underportefølje i kollektivporteføljen. For hver portefølje skal det beregnes avkastning etter reglene i § 3. Avkastningsberegningene skal legge verdivurderingsprinsippene i årsregnskapsforskriftene til grunn.",
+    "Med kollektivporteføljen menes her eiendeler som angitt i forskrift om årsregnskap for livsforsikringsforetak § 4-5 balansepost 6 og forskrift om årsregnskap for pensjonsforetak § 4-7 balansepost 6. Eiendeler i kollektivporteføljen inkluderer også markedsverdien av derivater i kollektivporteføljen ført som forpliktelse i regnskapet og andre poster som det er naturlig å medregne i kollektivporteføljen. Forfalte, ikke betalte premier inngår ikke."
+   ],
+   "endringer": [
+    "Endret ved forskrift 20 des 2023 nr. 2228 (i kraft 1 jan 2024)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Mål for kapitalavkastning",
+   "ledd": [
+    "Kapitalavkastningen skal beregnes månedlig.",
+    "For hver periode beregnes kapitalavkastningsrenten ved å se på endringer i porteføljens markedsverdi justert for inn- og utbetalinger i hver periode ved bruk av Modifisert Dietz-metode som følger:\nAvkastning \\(\\left({r_{p}}\\right)=\\left({\\frac{P_{1}-P_{0}-\\displaystyle\\sum\\limits_{i} d_{i}}{P_{0}+{\\frac{\\displaystyle\\sum\\limits_{i} \\left(T-i\\right)\\cdot{d_{i}}}{T}}}}\\right)\\)\nder\nP0 = verdien av eiendelene i porteføljen ved periodens start\nP1 = verdien av eiendelene i porteføljen ved periodens slutt\nT = antall dager i perioden\ni = dag-nummer i perioden\ndi = total netto inn-/utbetaling (kontantstrøm eksklusive netto inntekter fra investeringer) på dag nr. i.",
+    "Kvartalsvis, halvårlig og årlig beregning av avkastning fremkommer ved geometrisk sammenkobling av beregnet avkastning for delperiodene:\n\\(R_{P}=\\left(1+r_{p1}\\right)\\times\\left(1+r_{p2}\\right)\\times\\left(1+r_{p3}\\right)\\times....\\times\\left(1+r_{pn}\\right)-1\\)\nder\nRP = avkastning for en periode bestående av flere delperioder\nrpn = avkastning for delperiode n."
+   ],
+   "endringer": [
+    "Endret ved forskrift 20 des 2023 nr. 2228 (i kraft 1 jan 2024)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Ikrafttreden",
+   "ledd": [
+    "Forskriften trer i kraft 1. januar 2017.",
+    "Fra samme tidspunkt oppheves forskrift 26. mai 2009 nr. 575 om beregning av kapitalavkastning i livsforsikringsselskaper mv."
+   ]
+  }
+ ]
+}

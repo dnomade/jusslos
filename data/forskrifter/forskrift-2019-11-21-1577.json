@@ -1,0 +1,115 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2019-11-21-1577",
+ "dokumentid": "SF/forskrift/2019-11-21-1577",
+ "departement": [
+  "Digitaliserings- og forvaltningsdepartementet"
+ ],
+ "etat": [
+  "Avdeling for digitaliseringspolitikk"
+ ],
+ "ikraft": "2019-11-21",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2018-06-15-44/§1",
+   "tekst": "lov/2018-06-15-44/§1"
+  },
+  {
+   "ref": "forskrift/2019-11-08-1491",
+   "tekst": "forskrift/2019-11-08-1491"
+  }
+ ],
+ "kunngjort": "2019-11-27 15:30",
+ "siste_rettelse": "2024-01-02 (departementstilhørighet)",
+ "korttittel": "Forskrift om tillitstjenester for elektroniske transaksjoner",
+ "tittel": "Forskrift om tillitstjenester for elektroniske transaksjoner",
+ "annet": "Hjemmel: Fastsatt av Kommunal- og moderniseringsdepartementet 21. november 2019 med hjemmel i lov 15. juni 2018 nr. 44 om gjennomføring av EUs forordning om elektronisk identifikasjon og tillitstjenester for elektroniske transaksjoner i det indre marked (lov om elektroniske tillitstjenester) § 1 annet ledd, jf. delegeringsvedtak 8. november 2019 nr. 1491.\nEØS-henvisninger: EØS-avtalen vedlegg XI (forordning (EU) 2015/806, beslutning (EU) 2015/1505, beslutning (EU) 2016/650, beslutning (EU) 2015/296, beslutning (EU) 2015/1506, forordning (EU) 2015/1502, forordning (EU) 2015/1501 og beslutning (EU) 2015/1984).\nRettet 02.01.2024 (departementstilhørighet).",
+ "refid": "forskrift/2019-11-21-1577",
+ "eli": "/eli/forskrift/2019/11/21/1577",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2019-11-21-1577",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Krav til tillitsmerke for kvalifiserte tillitstjenester",
+   "ledd": [
+    "EØS-avtalen vedlegg XI (forordning (EU) 2015/806) om fastsettelse av spesifikasjoner for utformingen av EØS-tillitsmerke for kvalifiserte tillitstjenester, gjelder som forskrift med de tilpasninger som følger av vedlegg XI, protokoll 1 til avtalen og avtalen for øvrig."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Krav til standarder for sikkerhetsvurdering av kvalifiserte elektroniske signatur- og seglfremstillingssystemer",
+   "ledd": [
+    "EØS-avtalen vedlegg XI (beslutning (EU) 2016/650) om fastsetting av standarder for sikkerhetsvurderinger av kvalifiserte signatur- og seglfremstillingssystemer, gjelder som forskrift med de tilpasninger som følger av vedlegg XI, protokoll 1 til avtalen og avtalen for øvrig."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Krav til tekniske spesifikasjoner og formater vedrørende tillitslister",
+   "ledd": [
+    "EØS-avtalen vedlegg XI (beslutning (EU) 2015/1505) om fastsettelse av tekniske spesifikasjoner og formater vedrørende tillitslister, gjelder som forskrift med de tilpasninger som følger av vedlegg XI, protokoll 1 til avtalen og avtalen for øvrig."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Krav til samarbeid mellom medlemsstatene om elektronisk identifikasjon",
+   "ledd": [
+    "EØS-avtalen vedlegg XI (beslutning (EU) 2015/296) om fastsettelse av saksbehandlingsregler for samarbeid mellom medlemsstatene om elektronisk identifikasjon, gjelder som forskrift med de tilpasninger som følger av vedlegg XI, protokoll 1 og avtalen for øvrig."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Krav til formater for avanserte elektroniske signaturer og avanserte segl, som skal anerkjennes av offentlige organer",
+   "ledd": [
+    "EØS-avtalen vedlegg XI (beslutning (EU) 2015/1506) om fastsettelse av spesifikasjoner for formater for avanserte elektroniske signaturer og avanserte segl, som skal anerkjennes av offentlige organer, gjelder som forskrift med de tilpasninger som følger av vedlegg XI, protokoll 1 til avtalen og avtalen for øvrig."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "Krav til tekniske minstespesifikasjoner og minstekrav til framgangsmåter for sikkerhetsnivåene for elektroniske identifikasjonsmidler (identifikasjonsnivåforskriften)",
+   "ledd": [
+    "EØS-avtalen vedlegg XI (forordning (EU) 2015/1502) om fastsettelse av tekniske minstespesifikasjoner og minstekrav til framgangsmåter for sikkerhetsnivåene for elektroniske identifikasjonsmidler, gjelder som forskrift med de tilpasninger som følger av vedlegg XI, protokoll 1 til avtalen og avtalen for øvrig."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 7",
+   "tittel": "Krav til samvirkeevne",
+   "ledd": [
+    "EØS-avtalen vedlegg XI (forordning (EU) 2015/1501) om rammen for samvirkeevne, gjelder som forskrift med de tilpasninger som følger av vedlegg XI, protokoll 1 til avtalen og avtalen for øvrig."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-8",
+   "nummer": "§ 8",
+   "tittel": "Krav til vilkår, prosedyrer og formater for melding av eID-ordninger",
+   "ledd": [
+    "EØS-avtalen vedlegg XI (beslutning (EU) 2015/1984) om fastsettelse av vilkår, prosedyrer og formater for melding av eID-ordninger, gjelder som forskrift med de tilpasninger som følger av vedlegg XI, protokoll 1 til avtalen og avtalen for øvrig."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-9",
+   "nummer": "§ 9",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Forskriften trer i kraft straks."
+   ]
+  }
+ ]
+}

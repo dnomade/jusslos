@@ -1,0 +1,69 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-1990-07-13-551",
+ "dokumentid": "DEL/forskrift/1990-07-13-551",
+ "departement": [
+  "Landbruks- og matdepartementet"
+ ],
+ "etat": [
+  "Veterinæravd."
+ ],
+ "kunngjort_i": "I 1990 612",
+ "ikraft": "1990-07-16",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1997-06-13-54/§33",
+   "tekst": "lov/1997-06-13-54/§33"
+  },
+  {
+   "ref": "lov/1990-06-22-44",
+   "tekst": "lov/1990-06-22-44"
+  }
+ ],
+ "korttittel": "Ikrafttr. av fiskesjukdomslova 1990:44",
+ "tittel": "Ikrafttredelse av lov 22. juni 1990 nr. 44 om tiltak mot sjukdom hos akvatiske organismer. Delegering av myndighet.",
+ "annet": "Fastsatt ved Kronprinsreg.res. 13. juli 1990. Fremmet av Landbruksdepartementet.",
+ "refid": "forskrift/1990-07-13-551",
+ "eli": "/eli/forskrift/1990/07/13/551",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/1990-07-13-551",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Midlertidig lov av 22. juni 1990 om tiltak mot sjukdom hos akvatiske organismer skal gjelde for de sjukdommer som gjaldt for lov av 6. desember 1968 nr. 2 om tiltak mot sjukdommer hos ferskvannsfisk.\nLandbruksdepartementet gis fullmakt til å endre denne sjukdomsfortegnelse."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Den myndighet som i loven er tillagt «departementet», skal utøves av Landbruksdepartementet."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kapIII",
+   "overskrift": "III",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Loven trer i kraft 16. juli 1990."
+    }
+   ]
+  }
+ ]
+}

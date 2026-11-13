@@ -1,0 +1,85 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-1982-10-15-1515",
+ "dokumentid": "SF/forskrift/1982-10-15-1515",
+ "departement": [
+  "Arbeids- og inkluderingsdepartementet"
+ ],
+ "etat": [
+  "Trygdeavd."
+ ],
+ "kunngjort_i": "I 1982 s 554",
+ "ikraft": "1982-10-15",
+ "siste_endring_ikraft": "2024-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2023-12-21-2283",
+   "tekst": "forskrift/2023-12-21-2283 fra 2024-01-01"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1957-07-06-26/§27",
+   "tekst": "lov/1957-07-06-26/§27"
+  }
+ ],
+ "siste_rettelse": "2019-09-13 (struktur)",
+ "korttittel": "Forskrift om samordningsfradrag",
+ "tittel": "Forskrift om avkorting av samordningsfradrag for grunnpensjon og omstillingsstønad etter deltid når det forekommer flere pensjoner",
+ "annet": "Hjemmel: Fastsatt av Sosialdepartementet 15. oktober 1982 i medhold av lov av 6. juli 1957 om samordning av pensjons- og trygdeytelser § 27.\nEndret ved forskrift 21 des 2023 nr. 2283 (i kraft 1 jan 2024, bl.a. tittel).",
+ "refid": "forskrift/1982-10-15-1515",
+ "eli": "/eli/forskrift/1982/10/15/1515",
+ "url": "https://lovdata.no/dokument/SF/forskrift/1982-10-15-1515",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": null,
+   "overskrift": "Avkorting av samordningsfradrag for grunnpensjon etter deltid når det forekommer flere pensjoner.",
+   "innhold": [
+    {
+     "type": "seksjon",
+     "id": "kapittel-1-kapittel-1",
+     "navn": "kap1",
+     "overskrift": "1. Pensjoner av forskjellig art (egen- og etterlattepensjon).",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Ved pensjon av forskjellig art skal hver pensjonsordning foreta isolert samordning med grunnpensjon og redusere for sin deltid. Det endelige fradrag i etterlattepensjonen skal reduseres slik:\na. Fradraget i etterlattepensjonen er beregnet uten deltid.\nI samsvar med forskriftene i samordningsrundskriv nr. 11 kap. V bokstav E skal den pensjonsordning som utbetaler etterlattepensjon, redusere sitt fradrag hvis summen av dette fradrag og fradraget i egenpensjonen utgjør et høyere beløp enn det maksimale fradrag.\nb. Fradraget i etterlattepensjonen er beregnet etter deltid.\nDen pensjonsordning som utbetaler etterlattepensjon, skal avkorte sitt fradrag forholdsmessig."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-1-kapittel-2",
+     "navn": "kap2",
+     "overskrift": "2. Pensjoner av samme art.",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Ved pensjoner av samme art skal det beregnes et samlet fradrag for grunnpensjon lik fradraget for den pensjonsordning som har høyeste deltidsprosent tillagt fradraget for den pensjonsordning som har lavere deltidsprosent, men med tjenestetid begrenset til full tjenestetid med fradrag av den tjenestetid den førstnevnte ordning har beregnet fradrag på grunnlag av.\nFørste ordning beregner fradraget etter ordinære regler. Fradraget i siste ordning blir å fastsette lik differansen mellom samlet fradrag og det fradrag første ordning har gjort.\nDet samme gjelder ved samordning av omstillingsstønad fra folketrygden."
+      },
+      {
+       "type": "endring",
+       "tekst": "Endret ved forskrift 21 des 2023 nr. 2283 (i kraft 1 jan 2024)."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-1-kapittel-3",
+     "navn": "kap3",
+     "overskrift": "3. Ikrafttreden.",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Disse forskrifter trer i kraft straks."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

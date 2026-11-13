@@ -1,0 +1,82 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-2003-09-29-1196",
+ "dokumentid": "DEL/forskrift/2003-09-29-1196",
+ "departement": [
+  "Samferdselsdepartementet"
+ ],
+ "etat": [
+  "Veg- og baneavd."
+ ],
+ "kunngjort_i": "I 2003 hefte 14",
+ "ikraft": "2003-09-29",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1965-06-18-4/§24",
+   "tekst": "lov/1965-06-18-4/§24"
+  },
+  {
+   "ref": "lov/1965-06-18-4/§26",
+   "tekst": "lov/1965-06-18-4/§26"
+  },
+  {
+   "ref": "lov/1965-06-18-4/§27",
+   "tekst": "lov/1965-06-18-4/§27"
+  },
+  {
+   "ref": "lov/1965-06-18-4/§28",
+   "tekst": "lov/1965-06-18-4/§28"
+  },
+  {
+   "ref": "lov/1965-06-18-4/§30",
+   "tekst": "lov/1965-06-18-4/§30"
+  },
+  {
+   "ref": "lov/1965-06-18-4/§42",
+   "tekst": "lov/1965-06-18-4/§42"
+  },
+  {
+   "ref": "lov/1965-06-18-4/§43",
+   "tekst": "lov/1965-06-18-4/§43"
+  },
+  {
+   "ref": "forskrift/1967-03-17-3462",
+   "tekst": "forskrift/1967-03-17-3462"
+  }
+ ],
+ "kunngjort": "2003-10-03",
+ "korttittel": "Deleg. av myndighet til Vegdirektoratet",
+ "tittel": "Delegering av myndighet til Vegdirektoratet etter vegtrafikkloven",
+ "annet": "Fastsatt av Samferdselsdepartementet 29. september 2003 med hjemmel i vegtrafikklov av 18. juni 1965 nr. 4 § 24, § 26, § 27, § 28, § 30, § 42 og § 43, jf. delegeringsvedtak av 17. mars 1967 nr. 3462 del II nr. 6 og 7.",
+ "refid": "forskrift/2003-09-29-1196",
+ "eli": "/eli/forskrift/2003/09/29/1196",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/2003-09-29-1196",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Myndighet etter vegtrafikklov av 18. juni 1965 nr. 4 § 24, § 26, § 27, § 28, § 30, § 42 og § 43, jf. delegeringsvedtak av 17. mars 1967 nr. 3462 del II nr. 6 og 7, delegeres til Vegdirektoratet."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Vedtaket trer i kraft straks."
+    }
+   ]
+  }
+ ]
+}

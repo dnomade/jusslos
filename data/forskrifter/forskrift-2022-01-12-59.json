@@ -1,0 +1,108 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2022-01-12-59",
+ "dokumentid": "SF/forskrift/2022-01-12-59",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Finanstilsynet"
+ ],
+ "ikraft": "2022-01-12",
+ "hjemmel": [
+  {
+   "ref": "forskrift/2014-08-22-1097/§3",
+   "tekst": "forskrift/2014-08-22-1097/§3"
+  },
+  {
+   "ref": "lov/2007-06-29-75/§9-15",
+   "tekst": "lov/2007-06-29-75/§9-15"
+  },
+  {
+   "ref": "lov/2007-06-29-75/§9-15a",
+   "tekst": "lov/2007-06-29-75/§9-15a"
+  },
+  {
+   "ref": "lov/2007-06-29-75/§9-16",
+   "tekst": "lov/2007-06-29-75/§9-16"
+  },
+  {
+   "ref": "lov/2007-06-29-75/§9-17",
+   "tekst": "lov/2007-06-29-75/§9-17"
+  },
+  {
+   "ref": "lov/2015-04-10-17/§1-7",
+   "tekst": "lov/2015-04-10-17/§1-7"
+  },
+  {
+   "ref": "lov/2015-04-10-17/§13-7",
+   "tekst": "lov/2015-04-10-17/§13-7"
+  },
+  {
+   "ref": "lov/2015-04-10-17/§14-2",
+   "tekst": "lov/2015-04-10-17/§14-2"
+  },
+  {
+   "ref": "lov/2015-04-10-17/§14-3",
+   "tekst": "lov/2015-04-10-17/§14-3"
+  },
+  {
+   "ref": "lov/2015-04-10-17/§14-4",
+   "tekst": "lov/2015-04-10-17/§14-4"
+  },
+  {
+   "ref": "lov/2015-04-10-17/§18-2",
+   "tekst": "lov/2015-04-10-17/§18-2"
+  },
+  {
+   "ref": "lov/2015-04-10-17/§18-7",
+   "tekst": "lov/2015-04-10-17/§18-7"
+  },
+  {
+   "ref": "forskrift/2019-10-31-1447",
+   "tekst": "forskrift/2019-10-31-1447"
+  }
+ ],
+ "kunngjort": "2022-01-14 14:10",
+ "korttittel": "Forskrift om beregning av foretaksspesifikke satser for kapitalbufferkrav",
+ "tittel": "Forskrift om beregning av foretaksspesifikke satser for kapitalbufferkrav",
+ "annet": "Hjemmel: Fastsatt av Finanstilsynet 12. januar 2022 med hjemmel i forskrift 22. august 2014 nr. 1097 om kapitalkrav og nasjonal tilpasning av CRR/CRD IV (CRR/CRD IV-forskriften) § 3 femte ledd.",
+ "refid": "forskrift/2022-01-12-59",
+ "eli": "/eli/forskrift/2022/01/12/59",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2022-01-12-59",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Foretaksspesifikk motsyklisk kapitalbuffer",
+   "ledd": [
+    "Foretaket skal beregne foretaksspesifikk motsyklisk kapitalbuffer som vektet gjennomsnitt av buffersatsene som gjelder i de statene der relevante eksponeringer er lokalisert. Buffersatsen skal anvendes på beregningsgrunnlaget i den enkelte stat.",
+    "Med relevante eksponeringer menes alle eksponeringer, unntatt engasjementer med stater og sentralbanker, lokale og regionale myndigheter, offentlige foretak, multilaterale utviklingsbanker, internasjonale organisasjoner og institusjoner som nevnt i Europaparlaments- og rådsforordning (EU) nr. 575/2013 (CRR) artikkel 112 a) til f), som er:\n• omfattet av kapitalkravene for kredittrisiko etter CRR tredje del, avdeling II,\n• i handelsporteføljen og gjenstand for beregning av kapitalkrav for spesifikk risiko etter CRR tredje del, avdeling IV, kapittel 2 og misligholds- og migrasjonsrisiko etter CRR tredje del, avdeling IV, kapittel 5, eller\n• verdipapiriseringsengasjementer som det beregnes kapitalkrav for etter CRR tredje del, avdeling II, kapittel 5.",
+    "Foretaket skal offentliggjøre grunnlaget for den foretaksspesifikke motsykliske kapitalbufferen i tråd med kravene i delegert kommisjonsforordning (EU) 2015/1555."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Foretaksspesifikk systemrisikobuffer",
+   "ledd": [
+    "Foretaket skal beregne foretaksspesifikk systemrisikobuffer som vektet gjennomsnitt av satsene for systemrisikobuffer som gjelder for foretakets relevante eksponeringer. Vektingen skal baseres på risikovektet beregningsgrunnlag.",
+    "Med relevante eksponeringer menes engasjement som nevnt i § 1 andre ledd, og engasjement som nevnt i CRR artikkel 112 a) til f).",
+    "For eksponeringer i alle stater skal foretaket bruke systemrisikobuffersatsen som er fastsatt av myndighetene i vedkommende stat for de aktuelle eksponeringene. Eksponeringenes geografiske tilhørighet skal fastsettes i samsvar med delegert kommisjonsforordning (EU) nr. 1152/2014.",
+    "Foretaket skal offentliggjøre grunnlaget for den foretaksspesifikke systemrisikobufferen sammen med offentliggjøring av den motsykliske kapitalbufferen."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Forskriften trer i kraft straks."
+   ]
+  }
+ ]
+}

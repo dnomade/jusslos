@@ -1,0 +1,187 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-2026-06-19-1153",
+ "dokumentid": "DEL/forskrift/2026-06-19-1153",
+ "departement": [
+  "Landbruks- og matdepartementet"
+ ],
+ "etat": [
+  "Avdeling for areal-, nærings- og skogpolitikk"
+ ],
+ "ikraft": "2026-06-19",
+ "hjemmel": [
+  {
+   "ref": "lov/2025-06-20-102/§6",
+   "tekst": "lov/2025-06-20-102/§6"
+  },
+  {
+   "ref": "lov/2025-06-20-102/§7",
+   "tekst": "lov/2025-06-20-102/§7"
+  },
+  {
+   "ref": "lov/2025-06-20-102/§8",
+   "tekst": "lov/2025-06-20-102/§8"
+  },
+  {
+   "ref": "lov/2025-06-20-102/§9",
+   "tekst": "lov/2025-06-20-102/§9"
+  },
+  {
+   "ref": "lov/2025-06-20-102/§10",
+   "tekst": "lov/2025-06-20-102/§10"
+  },
+  {
+   "ref": "lov/2025-06-20-102/§11",
+   "tekst": "lov/2025-06-20-102/§11"
+  },
+  {
+   "ref": "lov/2025-06-20-102/§12",
+   "tekst": "lov/2025-06-20-102/§12"
+  },
+  {
+   "ref": "lov/2025-06-20-102/§14",
+   "tekst": "lov/2025-06-20-102/§14"
+  },
+  {
+   "ref": "lov/2025-06-20-102/§16",
+   "tekst": "lov/2025-06-20-102/§16"
+  },
+  {
+   "ref": "lov/2025-06-20-102/§17",
+   "tekst": "lov/2025-06-20-102/§17"
+  },
+  {
+   "ref": "lov/2025-06-20-102/§19",
+   "tekst": "lov/2025-06-20-102/§19"
+  },
+  {
+   "ref": "lov/2025-06-20-102/§20",
+   "tekst": "lov/2025-06-20-102/§20"
+  },
+  {
+   "ref": "lov/2025-06-20-102/§22",
+   "tekst": "lov/2025-06-20-102/§22"
+  },
+  {
+   "ref": "lov/2025-06-20-102/§24",
+   "tekst": "lov/2025-06-20-102/§24"
+  },
+  {
+   "ref": "lov/2025-06-20-102/§25",
+   "tekst": "lov/2025-06-20-102/§25"
+  },
+  {
+   "ref": "lov/2025-06-20-102/§26",
+   "tekst": "lov/2025-06-20-102/§26"
+  },
+  {
+   "ref": "lov/2025-06-20-102/§27",
+   "tekst": "lov/2025-06-20-102/§27"
+  },
+  {
+   "ref": "lov/2025-06-20-102/§28",
+   "tekst": "lov/2025-06-20-102/§28"
+  },
+  {
+   "ref": "lov/2025-06-20-102/§30",
+   "tekst": "lov/2025-06-20-102/§30"
+  },
+  {
+   "ref": "lov/2025-06-20-102/§31",
+   "tekst": "lov/2025-06-20-102/§31"
+  },
+  {
+   "ref": "lov/2025-06-20-102/§32",
+   "tekst": "lov/2025-06-20-102/§32"
+  },
+  {
+   "ref": "lov/2025-06-20-102/§37",
+   "tekst": "lov/2025-06-20-102/§37"
+  },
+  {
+   "ref": "lov/2025-06-20-102/§39",
+   "tekst": "lov/2025-06-20-102/§39"
+  },
+  {
+   "ref": "lov/2025-06-20-102/§42",
+   "tekst": "lov/2025-06-20-102/§42"
+  },
+  {
+   "ref": "lov/2025-06-20-102/§44",
+   "tekst": "lov/2025-06-20-102/§44"
+  },
+  {
+   "ref": "lov/2025-06-20-102/§45",
+   "tekst": "lov/2025-06-20-102/§45"
+  },
+  {
+   "ref": "lov/2025-06-20-102/§46",
+   "tekst": "lov/2025-06-20-102/§46"
+  },
+  {
+   "ref": "lov/2025-06-20-102/§47",
+   "tekst": "lov/2025-06-20-102/§47"
+  },
+  {
+   "ref": "lov/2025-06-20-102/§48",
+   "tekst": "lov/2025-06-20-102/§48"
+  },
+  {
+   "ref": "lov/2025-06-20-102/§49",
+   "tekst": "lov/2025-06-20-102/§49"
+  },
+  {
+   "ref": "lov/2025-06-20-102/§50",
+   "tekst": "lov/2025-06-20-102/§50"
+  },
+  {
+   "ref": "lov/2025-06-20-102/§51",
+   "tekst": "lov/2025-06-20-102/§51"
+  },
+  {
+   "ref": "lov/2025-06-20-102/§52",
+   "tekst": "lov/2025-06-20-102/§52"
+  },
+  {
+   "ref": "lov/2025-06-20-102/§53",
+   "tekst": "lov/2025-06-20-102/§53"
+  },
+  {
+   "ref": "lov/2025-06-20-102/§54",
+   "tekst": "lov/2025-06-20-102/§54"
+  },
+  {
+   "ref": "lov/2025-06-20-102/§55",
+   "tekst": "lov/2025-06-20-102/§55"
+  },
+  {
+   "ref": "lov/2025-06-20-102/§56",
+   "tekst": "lov/2025-06-20-102/§56"
+  },
+  {
+   "ref": "lov/2025-06-20-102/§57",
+   "tekst": "lov/2025-06-20-102/§57"
+  },
+  {
+   "ref": "lov/2025-06-20-102/§58",
+   "tekst": "lov/2025-06-20-102/§58"
+  },
+  {
+   "ref": "lov/2025-06-20-102/§59",
+   "tekst": "lov/2025-06-20-102/§59"
+  }
+ ],
+ "kunngjort": "2026-06-22 13:20",
+ "tittel": "Delegering av Kongens myndighet etter lov 20. juni 2025 nr. 102 om jakt, fangst og felling av vilt mv. (viltressursloven)",
+ "annet": "Hjemmel: Fastsatt ved kgl.res. 19. juni 2026 med hjemmel i lov 20. juni 2025 nr. 102 om jakt, fangst og felling av vilt mv. (viltressursloven) § 6 andre ledd, § 7 tredje og fjerde ledd, § 8, § 9 første, andre og femte ledd, § 10 andre og fjerde ledd, § 11 andre og tredje ledd, § 12 første ledd, § 14 andre ledd, § 16 tredje ledd, § 17, § 19 første ledd, § 20, § 22 første ledd tredje punktum og syvende ledd, § 24 tredje ledd, § 25 andre og tredje ledd, § 26 andre ledd, § 27 tredje ledd, § 28 andre punktum, § 30, § 31 andre ledd, § 32 andre og tredje ledd, § 37 andre ledd, § 39 andre ledd, § 42 fjerde og femte ledd, § 44 andre ledd, § 45 tredje og fjerde ledd, § 46 andre og tredje ledd, § 47 andre og tredje ledd, § 48 første og andre ledd, § 49 andre og tredje ledd, § 50 andre ledd, § 51 femte ledd, § 52 første ledd tredje punktum, § 53 første ledd, § 54 første ledd, § 55 femte ledd, § 56, § 57, § 58 første, andre, tredje og femte ledd, § 59 første og fjerde ledd. Fremmet av Landbruks- og matdepartementet.",
+ "refid": "forskrift/2026-06-19-1153",
+ "eli": "/eli/forskrift/2026/06/19/1153",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/2026-06-19-1153",
+ "innhold": [
+  {
+   "type": "tekst",
+   "tekst": "Kongens myndighet etter lov om jakt, fangst og felling av vilt mv. (viltressursloven) delegeres til Landbruks- og matdepartementet for følgende bestemmelser:\n§ 6 andre ledd med unntak av opprettelse av regionale rovviltnemnder og særlige samarbeidsorganer knyttet til forvaltning av viltarter som ikke er høstbare og gaupe.\n§ 7 tredje og fjerde ledd for viltarter som er høstbare, unntatt gaupe.\n§ 8 for viltarter som er høstbare, unntatt gaupe.\n§ 9 første, andre og femte ledd.\n§ 14 andre ledd for viltarter som er høstbare, unntatt gaupe.\n§ 16 tredje ledd for viltarter som er høstbare, unntatt gaupe.\n§ 17 for viltarter som er høstbare, unntatt gaupe.\n§ 19 første ledd for viltarter som er høstbare, unntatt gaupe.\n§ 20 med unntak av kompetansekrav knyttet til sanking av fugleegg og dun, samt for viltarter som ikke er høstbare og gaupe.\n§ 22 første ledd tredje punktum og syvende ledd for viltarter som er høstbare, unntatt gaupe.\n§ 24 tredje ledd for viltarter som er høstbare, unntatt gaupe.\n§ 25 andre og tredje ledd for viltarter som er høstbare, unntatt gaupe.\n§ 26 andre ledd for viltarter som er høstbare, unntatt gaupe.\n§ 27 tredje ledd for viltarter som er høstbare, unntatt gaupe.\n§ 28 andre punktum for viltarter som er høstbare, unntatt gaupe.\n§ 30 for viltarter som er høstbare, unntatt gaupe.\n§ 32 andre og tredje ledd for viltarter som er høstbare, unntatt gaupe.\n§ 37 andre ledd for viltarter som er høstbare, unntatt gaupe.\n§ 39 andre ledd for viltarter som er høstbare, unntatt gaupe.\n§ 42 fjerde og femte ledd.\n§ 44 andre ledd.\n§ 49 andre ledd for hold av viltarter som er høstbare, unntatt gaupe. Myndigheten gjelder ikke for regler om ansvar og plikter i forbindelse med rømming.\n§ 51 femte ledd for eiendomsretten til og inndragning av høstbare viltarter som ulovlig holdes fanget, unntatt gaupe, og for verdien av alt vilt som nevnt i § 51 første ledd, samt inndragning etter § 51 tredje ledd.\n§ 52 første ledd tredje punktum.\n§ 55 femte ledd for viltarter som er høstbare, unntatt gaupe.\n§ 58 første og andre ledd for viltarter som er høstbare, unntatt gaupe.\n§ 58 femte ledd for viltarter som er høstbare, unntatt gaupe.\n§ 59 første ledd når det gjelder overtredelse av § 14 andre ledd.\n§ 59 fjerde ledd når det gjelder § 14 andre ledd.\nKongens myndighet etter lov om jakt, fangst og felling av vilt mv. (viltressursloven) delegeres til Klima- og miljødepartementet for følgende bestemmelser:\n§ 6 andre ledd når det gjelder opprettelse av regionale rovviltnemnder og særlige samarbeidsorganer knyttet til forvaltning av viltarter som ikke er høstbare og gaupe.\n§ 7 tredje og fjerde ledd for viltarter som ikke er høstbare og gaupe.\n§ 8 for viltarter som ikke er høstbare og gaupe.\n§ 10 andre og fjerde ledd.\n§ 11 andre og tredje ledd.\n§ 12 første ledd.\n§ 14 andre ledd for viltarter som ikke er høstbare og gaupe.\n§ 16 tredje ledd for viltarter som ikke er høstbare og gaupe.\n§ 17 for viltarter som ikke er høstbare og gaupe.\n§ 19 første ledd for viltarter som ikke er høstbare og gaupe.\n§ 20 for sanking av fugleegg og dun, samt for viltarter som ikke er høstbare og gaupe.\n§ 22 første ledd tredje punktum og syvende ledd for viltarter som ikke er høstbare og gaupe.\n§ 24 tredje ledd for viltarter som ikke er høstbare og gaupe.\n§ 25 andre og tredje ledd for viltarter som ikke er høstbare og gaupe.\n§ 26 andre ledd for viltarter som ikke er høstbare og gaupe.\n§ 27 tredje ledd for viltarter som ikke er høstbare og gaupe.\n§ 28 andre punktum for viltarter som ikke er høstbare og gaupe.\n§ 30 for viltarter som ikke er høstbare og gaupe.\n§ 31 andre ledd.\n§ 32 andre og tredje ledd for viltarter som ikke er høstbare og gaupe.\n§ 37 andre ledd for viltarter som ikke er høstbare og gaupe.\n§ 39 andre ledd for viltarter som ikke er høstbare og gaupe.\n§ 45 tredje og fjerde ledd.\n§ 46 andre og tredje ledd.\n§ 47 andre og tredje ledd.\n§ 48 første og andre ledd.\n§ 49 andre ledd for viltarter som ikke er høstbare og gaupe. Myndigheten gjelder også for regler om ansvar og plikter i forbindelse med rømming.\n§ 49 tredje ledd.\n§ 50 andre ledd.\n§ 51 femte ledd for eiendomsretten til og inndragning av alle viltarter som er ulovlig felt, ulovlig innført til Norge, fallvilt, vilt som er avlivet med hjemmel i naturmangfoldloven §§ 17, 17a og 18, forlatte egg og egg som er oppbevart, omsatt, ervervet eller overdratt i strid med § 50 og viltarter som ikke er høstbare og gaupe som ulovlig holdes fanget.\n§ 53 første ledd.\n§ 54 første ledd.\n§ 55 femte ledd for viltarter som ikke er høstbare og gaupe.\n§ 56.\n§ 57.\n§ 58 første og andre ledd for viltarter som ikke er høstbare og gaupe.\n§ 58 tredje ledd.\n§ 58 femte ledd for viltarter som ikke er høstbare og gaupe.\n§ 59 første ledd når det gjelder § 50 andre ledd, § 54 første ledd, § 56 og § 57.\n§ 59 fjerde ledd når det gjelder § 50 andre ledd, § 54 første ledd, § 56 og § 57."
+  }
+ ]
+}

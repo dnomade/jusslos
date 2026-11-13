@@ -1,0 +1,317 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2025-12-16-2962",
+ "dokumentid": "SF/forskrift/2025-12-16-2962",
+ "departement": [
+  "Kunnskapsdepartementet"
+ ],
+ "etat": [
+  "Lovisenberg diakonale høgskole"
+ ],
+ "ikraft": "2026-01-01",
+ "endrer": "forskrift/2020-03-10-1636",
+ "hjemmel": [
+  {
+   "ref": "lov/2024-03-08-9/§8-1",
+   "tekst": "lov/2024-03-08-9/§8-1"
+  },
+  {
+   "ref": "lov/2024-03-08-9/§8-2",
+   "tekst": "lov/2024-03-08-9/§8-2"
+  },
+  {
+   "ref": "lov/2024-03-08-9/§8-3",
+   "tekst": "lov/2024-03-08-9/§8-3"
+  },
+  {
+   "ref": "lov/2024-03-08-9/§8-4",
+   "tekst": "lov/2024-03-08-9/§8-4"
+  },
+  {
+   "ref": "lov/2024-03-08-9/§8-5",
+   "tekst": "lov/2024-03-08-9/§8-5"
+  },
+  {
+   "ref": "forskrift/2024-06-28-1392",
+   "tekst": "forskrift/2024-06-28-1392"
+  },
+  {
+   "ref": "forskrift/2017-01-06-13",
+   "tekst": "forskrift/2017-01-06-13"
+  }
+ ],
+ "kunngjort": "2026-01-12 14:45",
+ "korttittel": "Forskrift om opptak ved LDH",
+ "tittel": "Forskrift om opptak ved Lovisenberg diakonale høgskole",
+ "annet": "Hjemmel: Fastsatt av styret for Lovisenberg diakonale høgskole 16. desember 2025 med hjemmel i lov 8. mars 2024 nr. 9 om universiteter og høyskoler (universitets- og høyskoleloven) § 8-1, § 8-2, § 8-3, § 8-4 og § 8-5, forskrift 28. juni 2024 nr. 1392 til universitets- og høyskoleloven (universitets- og høyskoleforskriften) og forskrift 6. januar 2017 nr. 13 om opptak til høgare utdanning.",
+ "refid": "forskrift/2025-12-16-2962",
+ "eli": "/eli/forskrift/2025/12/16/2962",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2025-12-16-2962",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Generelle bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1-1",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Forskriften gjelder opptak til studier ved Lovisenberg diakonale høgskole (LDH).",
+      "For opptak til grunnutdanning, gjelder forskrift om opptak til høgare utdanning.",
+      "Forskriften gir regler om opptak til studier.",
+      "Strider forskriften mot nasjonale lover eller forskrifter, gjelder lovens eller nasjonale forskrifters bestemmelser."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 1-2",
+     "tittel": "Opptaksrammer",
+     "ledd": [
+      "Høgskolestyret fastsetter opptaksrammer for studiene."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 1-3",
+     "tittel": "Søknadsfrister og svarfrister",
+     "ledd": [
+      "For studier med opptak gjennom Samordna opptak, gjelder de fastsatte nasjonale søknadsfristene.",
+      "Søknadsfrister for øvrige studier fastsettes av LDH og blir kunngjort på LDHs nettsider senest en måned før fristens utløp.",
+      "En søker som har fått tilbud om studieplass eller ventelisteplass må svare innen angitt svarfrist for å beholde plassen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 1-4",
+     "tittel": "Dokumentasjon",
+     "ledd": [
+      "For at søknaden skal behandles, må all utdanning, praksis og andre forhold som skal gi grunnlag for opptak, dokumenteres med elektronisk deling eller skannet kopi av originale dokumenter. Skannet dokumentasjon skal lastes opp i søknaden.",
+      "Godkjente dokumenter det ikke har vært mulig å fremskaffe innen søknadsfristen, skal ettersendes snarest mulig etter at de er søkeren i hende.",
+      "Studenter må på forespørsel fra LDH, fremvise originaldokumenter som er grunnlaget for opptak til studier, eller for utstedelse av vitnemål/karakterutskrift fra LDH. Studenter som ikke fremviser de forespurte originaldokumentene for kontroll, mister studieretten, jf. forskrift om studier og eksamen ved LDH § 4-2 bokstav h. Vitnemål/karakterutskrift vil bli holdt tilbake til de forespurte originaldokumentene er fremvist og kontrollert."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-5",
+     "nummer": "§ 1-5",
+     "tittel": "Betinget opptak",
+     "ledd": [
+      "LDH kan etter nærmere vurdering gi betinget tilbud om opptak dersom søker mangler del(er) av opptaksgrunnlaget. Forutsetningen er at søker kvalifiserer seg før oppstart av studiet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-6",
+     "nummer": "§ 1-6",
+     "tittel": "Reservert studieplass",
+     "ledd": [
+      "Søker som blir tatt opp som student ved LDH kan søke om å reservere studieplassen i inntil to år. Søknad om reservasjon av studieplass kan innvilges på bakgrunn av graviditet, militærtjeneste eller annen tungtveiende grunn. Reservert studieplass er med forbehold om at studiet blir igangsatt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-7",
+     "nummer": "§ 1-7",
+     "tittel": "Oppmøte første studiedag",
+     "ledd": [
+      "Søkere må møte til registrering første studiedag for å beholde studieplassen, jf. forskrift om studier og eksamen ved LDH § 4-2 bokstav a."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-8",
+     "nummer": "§ 1-8",
+     "tittel": "Politiattest",
+     "ledd": [
+      "Studenter som er tatt opp til studier som inkluderer praksisstudier må levere politiattest ved studiestart. Attesten kan ikke være eldre enn 3 måneder."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-9",
+     "nummer": "§ 1-9",
+     "tittel": "Trekk av studier",
+     "ledd": [
+      "Et studium kan trekkes etter utlysning dersom LDH vurderer at det ikke vil være forsvarlig å gjennomføre studiet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-10",
+     "nummer": "§ 1-10",
+     "tittel": "Klage",
+     "ledd": [
+      "Enkeltvedtak som er fattet med hjemmel i denne forskriften kan påklages, jf. forvaltningsloven § 28. Klagefristen er tre uker fra søker mottok vedtaksbrev eller fra begrunnelse ble gitt.",
+      "Nasjonal klagenemnd er klageinstans for vedtak om opptak gjennom Samordna opptak.",
+      "Høyskolens nemnd for studentsaker er klageinstans for vedtak om lokale opptak og vedtak på bakgrunn av realkompetanse og dispensasjon."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Opptakskrav",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 2-1",
+     "tittel": "Krav om generell studiekompetanse",
+     "ledd": [
+      "Opptak til alle studier ved LDH som omfattes av denne forskrift krever generell studiekompetanse eller tilsvarende, fastsatt i de til enhver tid gjeldende lover og forskrifter."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 2-2",
+     "tittel": "Opptak til bachelor i sykepleie",
+     "ledd": [
+      "Bachelor i sykepleie ved LDH har opptak via Samordna opptak. For å få opptak til bachelorstudiet kreves enten generell studiekompetanse, jf. forskrift om opptak til høgare utdanning kapittel 2, eller realkompetanse."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 2-3",
+     "tittel": "Overflyttingsopptak",
+     "ledd": [
+      "LDH kan åpne for søknader om overflytting til bachelor i sykepleie fra og med 2. studieår for søkere som har bestått tilsvarende emner ved et annet lærested. Søkere må dekke alle opptakskrav som gjelder ved ordinært opptak. LDH kan sette ytterligere opptakskrav for overflyttingssøkere."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 2-4",
+     "tittel": "Opptak til masterstudier og videreutdanninger",
+     "ledd": [
+      "For opptak til masterstudier og videreutdanninger kreves det fullført bachelorgrad eller tilsvarende utdanning. På masterstudier er det krav til karaktersnitt C eller bedre fra fullført bachelorgrad.",
+      "For søkere som ikke har oppnådd karaktersnitt C kan LDH gjøre en individuell vurdering av relevant utdanning gjennomført etter bachelorgrad som kan kompensere for minstekravet.",
+      "Søkere til masterstudier eller videreutdanninger som bygger på definerte yrkesutdanninger må ha norsk autorisasjon innenfor yrket.",
+      "Opptakskrav skal fremgå av studieplanen for det enkelte studium.",
+      "Ved opptak til felles mastergrad (joint degree) med andre høyskoler/universiteter, gjelder opptakskravene ved den institusjonen som foretar opptaket."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 2-5",
+     "tittel": "Påbyggsopptak",
+     "ledd": [
+      "LDH kan åpne for søknader om påbygg til mastergrad for søkere som har bestått deler av masterprogrammet eller videreutdanning som dekker deler av studiet. LDH fastsetter opptakskrav for påbyggingssøkere som sikrer tilsvarende nivå som for studenter med ordinært masteropptak."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-6",
+     "nummer": "§ 2-6",
+     "tittel": "Krav til norsk- og engelskkunnskaper",
+     "ledd": [
+      "Søkere med utenlandsk utdanning må dokumentere norsk- og engelskkunnskaper på nivå med kravet til generell studiekompetanse i forskrift om opptak til høgare utdanning."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Realkompetanse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 3-1",
+     "tittel": "Opptak til bachelor i sykepleie på bakgrunn av realkompetanse",
+     "ledd": [
+      "Søkere som er 25 år eller eldre i opptaksåret og ikke har generell studiekompetanse, kan bli vurdert ut fra realkompetanse.",
+      "Utfyllende kriterier for vurdering av realkompetansesøknader fastsettes i retningslinjer for opptak ved LDH.",
+      "Søkere rangeres i forhold til poengberegnede søkere ved hjelp av en skjønnsmessig vurdering, jf. forskrift om opptak til høgare utdanning §§ 7-12 og 7-13. For å få tilbud om studieplass kreves likeverdige ferdigheter og kunnskaper med søkere som får tilbud om opptak etter rangering på grunnlag av poengberegning. I denne rangeringen legges det vekt på en helhetsvurdering av søkerens samlede kompetanse. Selv om søkeren er kvalifisert etter bestemmelsene om realkompetanse, gir ikke dette i seg selv rett til studieplass."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 3-2",
+     "tittel": "Opptak til masterstudier og videreutdanninger på bakgrunn av realkompetanse",
+     "ledd": [
+      "Søkere kan søke om opptak på bakgrunn av realkompetanse. LDH avgjør hva som gir realkompetanse til studiene. For å være kvalifisert for opptak til masterstudier og videreutdanninger med krav om bestått bachelorgrad, må søkerens realkompetanse være på nivå med 3-årig bachelorutdanning eller tilsvarende."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Rangering og kvoter",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 4-1",
+     "tittel": "Rangert opptak til masterstudier og videreutdanninger",
+     "ledd": [
+      "Ved rangert opptak rangeres søkere etter konkurransepoeng. Konkurransepoeng beregnes på bakgrunn av karakterer fra bachelorutdanning, tilleggsutdanning og relevant praksis utover minstekravet. Utregning av konkurransepoeng gjøres på følgende måte:\na. Det regnes ut en vektet gjennomsnittskarakter for bachelorutdanning / tilsvarende utdanning som inngår i opptaksgrunnlaget for det aktuelle masterprogrammet.\nOmregningsskala:\n| Bokstavkarakter | Tallkarakter | Poeng\n| A | 1,0–2,1 | 5\n| B | 2,2–2,5 | 4\n| C | 2,6–2,7 | 3\n| D | 2,8–3,0 | 2\n| E | 3,1–4,0 | 1\nEmner med vurderingsuttrykket «Bestått» blir ikke inkludert i poengberegningen.\nb. For studier med tilleggspoeng for praksis, gis det 0,5 tilleggspoeng per halvår for relevant praksis etter avsluttet utdanning som utgjør søkerens opptaksgrunnlag, maksimalt 2 poeng. Det gis ikke tilleggspoeng for praksis som inngår i opptakskravet.\nc. For studier med tilleggspoeng for utdanning, gis det 0,5 tilleggspoeng per 30 studiepoeng for høyere utdanning tatt etter opptaksgrunnlaget, maksimalt 2 poeng.",
+      "Søkere som er vurdert som kvalifiserte etter realkompetansevurdering, rangeres skjønnsmessig i forhold til øvrige søkere etter en helhetsvurdering av søkerens samlede kompetanse."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 4-2",
+     "tittel": "Løpende opptak",
+     "ledd": [
+      "Ved løpende opptak rangeres søkere på bakgrunn av søknadstidspunkt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 4-3",
+     "tittel": "Kvoter",
+     "ledd": [
+      "LDH kan fastsette egne kvoter for enkelte søkergrupper.",
+      "En andel av studieplassene kan forbeholdes studenter med praksisplass på eget arbeidssted."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Utfyllende bestemmelser og ikrafttredelse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 5-1",
+     "tittel": "Utfyllende bestemmelser",
+     "ledd": [
+      "Høgskolestyret kan gi utfyllende regler innenfor rammen av denne forskriften."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 5-2",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Forskriften trer i kraft fra 1. januar 2026. Fra samme tid oppheves forskrift 10. mars 2020 nr. 1636 om opptak ved Lovisenberg diakonale høgskole AS (LDH)."
+     ]
+    }
+   ]
+  }
+ ]
+}

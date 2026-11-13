@@ -1,0 +1,308 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2025-06-24-1296",
+ "dokumentid": "SF/forskrift/2025-06-24-1296",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Finansmarkedsavdelingen, Finanstilsynet"
+ ],
+ "ikraft": "2025-07-01",
+ "siste_endring_ikraft": "2026-09-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2026-08-20-1657",
+   "tekst": "forskrift/2026-08-20-1657 fra 2026-09-01"
+  }
+ ],
+ "hjemmel": [
+  {
+   "ref": "lov/2025-05-27-18/§1",
+   "tekst": "lov/2025-05-27-18/§1"
+  },
+  {
+   "ref": "lov/2025-05-27-18/§2",
+   "tekst": "lov/2025-05-27-18/§2"
+  },
+  {
+   "ref": "lov/2025-05-27-18/§3",
+   "tekst": "lov/2025-05-27-18/§3"
+  },
+  {
+   "ref": "lov/2025-05-27-18/§4",
+   "tekst": "lov/2025-05-27-18/§4"
+  },
+  {
+   "ref": "forskrift/2022-03-29-484/§2",
+   "tekst": "forskrift/2022-03-29-484/§2"
+  }
+ ],
+ "kunngjort": "2025-06-25 15:20",
+ "korttittel": "DORA-forskriften",
+ "tittel": "Forskrift om digital operasjonell motstandsdyktighet i finanssektoren (DORA-forskriften)",
+ "annet": "Hjemmel: Fastsatt av Finansdepartementet 24. juni 2025 med hjemmel i lov 27. mai 2025 nr. 18 om digital operasjonell motstandsdyktighet i finanssektoren (DORA-loven) § 1.\nTilføyd hjemmel: delegeringsvedtak 29. mars 2022 nr. 484 § 2 første ledd nr. 16.\nEØS-henvisninger: EØS-avtalen vedlegg IX nr. 31q (forordning (EU) 2022/2554), nr. 31qa (forordning (EU) 2024/1772), nr. 31qb (forordning (EU) 2024/1773), nr. 31qc (forordning (EU) 2024/1774), nr. 31qg (forordning (EU) 2025/295), nr. 31qh (forordning (EU) 2025/301), nr. 31qi (forordning (EU) 2025/420), nr. 31qj (forordning (EU) 2025/532), nr. 31qk (forordning (EU) 2025/1190) og nr. 31ql (forordning (EU) 2025/302).\nEndret ved forskrifter 26 jan 2026 nr. 87, 12 feb 2026 nr. 196, 20 aug 2026 nr. 1657 (i kraft 1 sep 2026).",
+ "refid": "forskrift/2025-06-24-1296",
+ "eli": "/eli/forskrift/2025/06/24/1296",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2025-06-24-1296",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Formål, virkeområde og utfyllende regelverk",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Overskrift tilføyd ved forskrift 20 aug 2026 nr. 1657 (i kraft 1 sep 2026)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Formål",
+     "ledd": [
+      "Denne forskriften gir utfyllende bestemmelser til lov 27. mai 2025 nr. 18 om digital operasjonell motstandsdyktighet i finanssektoren (DORA-loven)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Virkeområde og definisjoner",
+     "ledd": [
+      "Det utfyllende regelverket nevnt i § 3 gjelder for foretak som er omfattet av DORA-forordningen, jf. DORA-loven § 1. Regelverket gjelder tilsvarende for finansieringsforetak, eiendomsmeglingsforetak, inkassoforetak og Norsk naturskadepool ved anvendelsen av bestemmelsene i kapittel 2 med de unntakene og tilpasningene som er nevnt der.",
+      "Når det i forskriften her vises til DORA-forordningen, menes EØS-avtalen vedlegg IX nr. 31q (forordning (EU) 2022/2554) om digital operasjonell motstandsdyktighet i finanssektoren slik den til enhver tid er gjennomført og endret etter DORA-loven § 1 første eller fjerde ledd."
+     ],
+     "endringer": [
+      "Endret ved forskrift 20 aug 2026 nr. 1657 (i kraft 1 sep 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Utfyllende regelverk etter DORA-forordningen",
+     "ledd": [
+      "Følgende utfyllende forordninger gjelder som norsk forskrift med de tilpasningene som eventuelt følger av EØS-avtalen vedlegg IX protokoll 1 til avtalen og avtalen for øvrig:\na. EØS-avtalen vedlegg IX nr. 31qa (delegert kommisjonsforordning (EU) 2024/1772 om utfylling av europaparlaments- og rådsforordning (EU) 2022/2554 med hensyn til tekniske reguleringsstandarder som spesifiserer kriteriene for klassifisering av IKT-relaterte hendelser og cybertrusler, fastsetter vesentlighetsterskler og spesifiserer detaljene i rapporter om alvorlige hendelser),\nb. EØS-avtalen vedlegg IX nr. 31qb (delegert kommisjonsforordning (EU) 2024/1773 om utfylling av europaparlaments- og rådsforordning (EU) 2022/2554 med hensyn til tekniske reguleringsstandarder som spesifiserer det detaljerte innholdet i retningslinjene for kontraktsregulerte ordninger om bruk av IKT-tjenester som støtter kritiske eller viktige funksjoner, og som leveres av tredjepartsleverandører av IKT-tjenester),\nc. EØS-avtalen vedlegg IX nr. 31qc (delegert kommisjonsforordning (EU) 2024/1774 om utfylling av europaparlaments- og rådsforordning (EU) 2022/2554 med hensyn til tekniske reguleringsstandarder som spesifiserer verktøyer, metoder, framgangsmåter og retningslinjer for IKT-risikostyring og det forenklede rammeverket for IKT-risikostyring),\nd. EØS-avtalen vedlegg IX nr. 31qh (delegert kommisjonsforordning (EU) 2025/301 om utfylling av europaparlaments- og rådsforordning (EU) 2022/2554 med hensyn til tekniske reguleringsstandarder som spesifiserer innholdet i og fristene for den første underretningen, den foreløpige rapporten og sluttrapporten om alvorlige IKT-relaterte hendelser og innholdet i den frivillige underretningen om betydelige cybertrusler),\ne. kommisjonens gjennomføringsforordning (EU) 2024/2956 om fastsettelse av gjennomføringstekniske standarder for anvendelsen av europaparlaments- og rådsforordning (EU) 2022/2554 om digital operasjonell motstandsdyktighet i finanssektoren, og\nf. EØS-avtalen vedlegg IX nr. 31ql (Kommisjonens gjennomføringsforordning (EU) 2025/302 om fastsettelse av tekniske gjennomføringsstandarder for anvendelsen av europaparlaments- og rådsforordning (EU) 2022/2554 med hensyn til standardskjemaer, standardmaler og standardprosedyrer som de finansielle enhetene skal benytte for å rapportere en alvorlig IKT-relatert hendelse og underrette om en vesentlig cybertrussel),\ng. EØS-avtalen vedlegg IX nr. 31qg (delegert kommisjonsforordning (EU) 2025/295 om utfylling av europaparlaments- og rådsforordning (EU) 2022/2554 med hensyn til tekniske reguleringsstandarder for harmonisering av vilkår som muliggjør utøvelse av tilsynsvirksomhet),\nh. EØS-avtalen vedlegg IX nr. 31qi (delegert kommisjonsforordning (EU) 2025/420 om utfylling av europaparlaments- og rådsforordning (EU) 2022/2554 med hensyn til tekniske reguleringsstandarder for å presisere kriteriene for å fastsette sammensetningen av den felles granskningsgruppen som sikrer en balansert deltakelse av ansatte fra de europeiske tilsynsmyndighetene og fra de berørte vedkommende myndighetene, deres utpeking, oppgaver og arbeidsordninger),\ni. EØS-avtalen vedlegg IX nr. 31qj (delegert kommisjonsforordning (EU) 2025/532 om utfylling av europaparlaments- og rådsforordning (EU) 2022/2554 med hensyn til tekniske reguleringsstandarder som spesifiserer elementene som en finansiell enhet må fastsette og vurdere når den gir IKT-tjenester som støtter kritiske eller viktige funksjoner, i underentreprise), og\nj. EØS-avtalen vedlegg IX nr. 31qk (delegert kommisjonsforordning (EU) 2025/1190 om utfylling av europaparlaments- og rådsforordning (EU) 2022/2554 med hensyn til tekniske reguleringsstandarder som spesifiserer kriteriene som brukes for å identifisere finansielle enheter som er pålagt å utføre trusselbasert penetrasjonstesting (TLPT), kravene og standardene for anvendelse av interne testere, kravene med hensyn til omfanget, testmetoden og tilnærmingen for hver fase av testingen, resultatene og avslutnings- og utbedringsfasene, og den typen av tilsynssamarbeid og annet relevant samarbeid som er nødvendig for gjennomføringen av TLPT og for å lette gjensidig anerkjennelse)."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 26 jan 2026 nr. 87, 12 feb 2026 nr. 196."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. DORA-forordningens anvendelse på finansieringsforetak, eiendomsmeglingsforetak, inkassoforetak og Norsk naturskadepool",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Overskrift tilføyd ved forskrift 20 aug 2026 nr. 1657 (i kraft 1 sep 2026)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 4",
+     "tittel": "Generelt om DORA-forordningens anvendelse",
+     "ledd": [
+      "DORA-forordningen gjelder tilsvarende for finansieringsforetak, eiendomsmeglingsforetak, inkassoforetak og Norsk naturskadepool så langt det følger av bestemmelsene i dette kapittelet, og med tilpasningene som her er nevnt."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 20 aug 2026 nr. 1657 (i kraft 1 sep 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 5",
+     "tittel": "Definisjoner og proporsjonalitet",
+     "ledd": [
+      "DORA-forordningen artikkel 3 om definisjoner og artikkel 4 om proporsjonalitet gjelder tilsvarende så langt de passer ved anvendelsen av bestemmelsene i dette kapittelet."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 20 aug 2026 nr. 1657 (i kraft 1 sep 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 6",
+     "tittel": "Virksomhetsstyring og rammeverk for risikostyring",
+     "ledd": [
+      "DORA-forordningen artikkel 5 til 15 om virksomhetsstyring og rammeverk for risikostyring gjelder tilsvarende så langt de passer for finansieringsforetak.",
+      "DORA-forordningen artikkel 16 om forenklet rammeverk for risikostyring gjelder tilsvarende så langt den passer for eiendomsmeglingsforetak, inkassoforetak og Norsk naturskadepool."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 20 aug 2026 nr. 1657 (i kraft 1 sep 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 7",
+     "tittel": "Håndtering og rapportering av IKT-hendelser",
+     "ledd": [
+      "DORA-forordningen artikkel 17 om håndtering av IKT-hendelser gjelder tilsvarende så langt den passer.",
+      "DORA-forordningen artikkel 18 om klassifisering og artikkel 19 om rapportering av IKT-hendelser gjelder tilsvarende så langt de passer. For eiendomsmeglingsforetak gjelder disse kravene bare for hendelser relatert til oppgjørsfunksjonen."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 20 aug 2026 nr. 1657 (i kraft 1 sep 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 8",
+     "tittel": "Testing av digital operasjonell motstandsdyktighet",
+     "ledd": [
+      "DORA-forordningen artiklene 24 og 25 om testing av digital operasjonell motstandsdyktighet gjelder tilsvarende så langt de passer."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 20 aug 2026 nr. 1657 (i kraft 1 sep 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-6",
+     "nummer": "§ 9",
+     "tittel": "IKT-tjenesteavtaler og håndtering av IKT-tredjepartsrisiko",
+     "ledd": [
+      "DORA-forordningen kapittel V, del I (artiklene 28–30) om håndtering av IKT-tredjepartsrisiko gjelder tilsvarende så langt den passer, med tilpasningene som følger av andre og tredje ledd.",
+      "DORA-forordningen artikkel 28 nr. 3 første avsnitt om register for IKT-tjenesteavtaler gjelder tilsvarende, men foretaket skal kun ha register på foretaksnivå («entity level»). Kommisjonens gjennomføringsforordning (EU) 2024/2956 gjelder ikke. Registeret over IKT-tjenesteavtaler skal minst inneholde følgende opplysninger:\n1. leverandørens navn, organisasjonsnummer, LEI-nummer og EUID\n2. en beskrivelse av typen IKT-tjenesteavtale\n3. landet leverandøren har hovedkontor i\n4. underleverandørers navn og organisasjonsnummer, samt landet underleverandøren har hovedkontor i\n5. avtalens oppstarts- og opphørsdato eller opplysninger om at avtalen er rullerende\n6. dato for siste risikovurdering av IKT-tjenesteavtalen.",
+      "DORA-forordningen artikkel 28 nr. 3 femte avsnitt om melding om IKT-tjenesteavtaler gjelder tilsvarende så langt det passer. For eiendomsmeglingsforetak gjelder kravet bare når tjenesteleveransen skal benyttes for oppgjørsfunksjonen. For inkassoforetak gjelder kravet bare for foretak som er mellomstore, jf. DORA-forordningen artikkel 3 nr. 64, eller større.",
+      "DORA-forordningen artikkel 42 om oppfølging av anbefalinger vedrørende kritiske IKT-tredjepartstilbydere gjelder tilsvarende så langt den passer."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 20 aug 2026 nr. 1657 (i kraft 1 sep 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-7",
+     "nummer": "§ 10",
+     "tittel": "Informasjonsdeling",
+     "ledd": [
+      "DORA-forordningen artikkel 45 om informasjonsdeling gjelder tilsvarende så langt den passer."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 20 aug 2026 nr. 1657 (i kraft 1 sep 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-8",
+     "nummer": "§ 11",
+     "tittel": "Overtredelsesgebyr",
+     "ledd": [
+      "DORA-loven § 4 gjelder tilsvarende så langt den passer ved ileggelse av overtredelsesgebyr for brudd på bestemmelser i DORA-forordningen nevnt i kapittelet her. Det kan bare ilegges gebyr for overtredelse av bestemmelser som også er nevnt i DORA-loven § 4 første ledd."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 20 aug 2026 nr. 1657 (i kraft 1 sep 2026)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Trusselbasert penetrasjonstesting (TLPT)",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Overskrift tilføyd ved forskrift 20 aug 2026 nr. 1657 (i kraft 1 sep 2026)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 12",
+     "tittel": "Utpeking av foretak som skal gjennomføre TLPT",
+     "ledd": [
+      "Finanstilsynet skal beslutte hvilke foretak som skal gjennomføre trusselbasert penetrasjonstesting (TLPT) i henhold til DORA-forordningen artikkel 26, og hvor ofte et foretak skal gjennomføre slike tester. Før Finanstilsynet treffer en beslutning om utpeking av foretak eller testfrekvens, skal Norges Bank gis anledning til å uttale seg."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 20 aug 2026 nr. 1657 (i kraft 1 sep 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 13",
+     "tittel": "Godkjenning av funksjoner som skal testes",
+     "ledd": [
+      "Norges Bank skal godkjenne det utpekte foretakets forslag til hvilke funksjoner som skal omfattes av en TLPT-test. Før Norges Bank godkjenner forslag til testing av funksjoner, skal Finanstilsynet gis anledning til å uttale seg."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 20 aug 2026 nr. 1657 (i kraft 1 sep 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 14",
+     "tittel": "TLPT-cyberteam og koordinering av TLPT",
+     "ledd": [
+      "Norges Bank skal ha rollen som TLPT-cyberteam (TCT) ved gjennomføring av TLPT-tester og være ansvarlig for å koordinere testgjennomføringen."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 20 aug 2026 nr. 1657 (i kraft 1 sep 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 15",
+     "tittel": "Attest og oppfølging etter gjennomført TLPT",
+     "ledd": [
+      "Norges Bank skal utstede attest som bekrefter gjennomføring av en TLPT-test, jf. DORA-forordningen artikkel 26 nr. 7.",
+      "Finanstilsynet er ansvarlig for å følge opp testfunnene og tiltaksplanen."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 20 aug 2026 nr. 1657 (i kraft 1 sep 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 16",
+     "tittel": "Fordeling av Norges Banks utgifter til TLPT",
+     "ledd": [
+      "Norges Banks utgifter ved gjennomføring av myndighetsoppgavene som er pålagt banken i denne forskriften, skal fordeles på foretakene som pålegges å gjennomføre TLPT-testing. Utgiftene skal fordeles basert på Norges Banks relative ressursbruk etter nærmere regler fastsatt i forskrift. Norges Bank treffer vedtak om slik utgiftsfordeling.",
+      "Norges Bank gir forskrift med nærmere regler om utgiftsfordelingen."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 20 aug 2026 nr. 1657 (i kraft 1 sep 2026)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Ikrafttredelse",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Overskrift tilføyd ved forskrift 20 aug 2026 nr. 1657 (i kraft 1 sep 2026)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 17",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Forskriften trer i kraft 1. juli 2025."
+     ],
+     "endringer": [
+      "Endret ved forskrift 20 aug 2026 nr. 1657 (i kraft 1 sep 2026, tidligere § 4)."
+     ]
+    }
+   ]
+  }
+ ]
+}

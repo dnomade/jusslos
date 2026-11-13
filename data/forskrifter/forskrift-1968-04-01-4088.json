@@ -1,0 +1,56 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-1968-04-01-4088",
+ "dokumentid": "SF/forskrift/1968-04-01-4088",
+ "departement": [
+  "Arbeids- og inkluderingsdepartementet"
+ ],
+ "etat": [
+  "Pensjonsavd."
+ ],
+ "ikraft": "1968-04-01",
+ "siste_endring_ikraft": "2020-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2019-12-20-2150",
+   "tekst": "forskrift/2019-12-20-2150 fra 2020-01-01"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1957-07-06-26/§30",
+   "tekst": "lov/1957-07-06-26/§30"
+  }
+ ],
+ "korttittel": "Samordningsforskrift 12",
+ "tittel": "Forskrift om samordning av enke- eller enkemannspensjon og uførepensjon fra forskjellige personskadetrygder (samordningsforskrift 12)",
+ "annet": "Hjemmel: Fastsatt av Sosialdepartementet 1. april 1968 med hjemmel i lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser (samordningsloven) § 30.\nEndret ved forskrift 20 des 2019 nr. 2150 (i kraft 1 jan 2020 (bl.a. tittel)).",
+ "refid": "forskrift/1968-04-01-4088",
+ "eli": "/eli/forskrift/1968/04/01/4088",
+ "url": "https://lovdata.no/dokument/SF/forskrift/1968-04-01-4088",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": null,
+   "ledd": [
+    "Ved samordning av enke- eller enkemannspensjon fra krigspensjoneringen og uførepensjon fra yrkesskadetrygden etter samordningsloven § 14 skal det ved beregning av pensjonsmaksimum regnes med full krigsenkepensjon eller krigsenkemannspensjon, dersom denne er høyere enn uførepensjon regnet etter hel uførhet."
+   ],
+   "endringer": [
+    "Endret ved forskrift 20 des 2019 nr. 2150 (i kraft 1 jan 2020)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": null,
+   "ledd": [
+    "Forskriften trer i kraft 1. april 1968."
+   ]
+  }
+ ]
+}

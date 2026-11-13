@@ -1,0 +1,53 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-1994-12-23-1122",
+ "dokumentid": "DEL/forskrift/1994-12-23-1122",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Finansavd."
+ ],
+ "kunngjort_i": "Avd I 1994 2013",
+ "ikraft": "1995-01-01",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1994-12-23-75",
+   "tekst": "lov/1994-12-23-75"
+  }
+ ],
+ "korttittel": "Ikrafttr. av lov 1994:75. Deleger. av myndighet",
+ "tittel": "Ikrafttredelse av lov av 23. desember 1994 nr. 75 om endringer i finanslovgivningens regler om særskilte eierbegrensninger m.v. Delegering av myndighet.",
+ "annet": "Fastsatt ved kgl.res. 23. desember 1994. Fremmet av Finans- og tolldepartementet.",
+ "refid": "forskrift/1994-12-23-1122",
+ "eli": "/eli/forskrift/1994/12/23/1122",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/1994-12-23-1122",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Lov av 23. desember 1994 nr. 75 om endringer i finanslovgivningens regler om særskilte eierbegrensninger m.v. settes i kraft fra 1. januar 1995."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Kongens myndighet til å gi overgangsregler etter lov av 23. desember 1994 nr. 75 om endringer i finanslovgivningens regler om særskilte eierbegrensninger m.v. kapittel VI tredje punktum, delegeres til Finansdepartementet."
+    }
+   ]
+  }
+ ]
+}

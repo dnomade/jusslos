@@ -1,0 +1,57 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-2018-01-04-12",
+ "dokumentid": "DEL/forskrift/2018-01-04-12",
+ "departement": [
+  "Samferdselsdepartementet"
+ ],
+ "etat": [
+  "Veg-, by og trafikksikkerhetsavd."
+ ],
+ "ikraft": "2018-01-04",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1961-02-03/§17a",
+   "tekst": "lov/1961-02-03/§17a"
+  },
+  {
+   "ref": "forskrift/2017-12-19-2153",
+   "tekst": "forskrift/2017-12-19-2153"
+  }
+ ],
+ "kunngjort": "2018-01-05 14:10",
+ "korttittel": "Deleg. av myndighet etter bilansvarslova § 17a",
+ "tittel": "Delegering av myndighet etter bilansvarslova § 17a",
+ "annet": "Hjemmel: Fastsatt av Samferdselsdepartementet 4. januar 2018 med hjemmel i lov 3. februar 1961 om ansvar for skade som motorvogner gjer (bilansvarslova) § 17a og delegeringsvedtak 19. desember 2017 nr. 2153.",
+ "refid": "forskrift/2018-01-04-12",
+ "eli": "/eli/forskrift/2018/01/04/12",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/2018-01-04-12",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Samferdselsdepartementets myndighet til å fastsette forskrifter etter bilansvarslova § 17a delegeres til Vegdirektoratet."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Vedtaket trer i kraft straks."
+    }
+   ]
+  }
+ ]
+}

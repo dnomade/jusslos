@@ -1,0 +1,99 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-1963-03-08-8",
+ "dokumentid": "SF/forskrift/1963-03-08-8",
+ "departement": [
+  "Forsvarsdepartementet"
+ ],
+ "etat": [
+  "Sikkerhetspolitisk avd."
+ ],
+ "kunngjort_i": "II 1963 s 107",
+ "siste_endring_ikraft": "1975-09-19",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/1975-09-19-2",
+   "tekst": "forskrift/1975-09-19-2"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1814-05-17/§28",
+   "tekst": "lov/1814-05-17/§28"
+  },
+  {
+   "ref": "lov/1814-05-17/§31",
+   "tekst": "lov/1814-05-17/§31"
+  }
+ ],
+ "siste_rettelse": "2022-02-08 (struktur)",
+ "korttittel": "Forskrift om militære kommandosaker",
+ "tittel": "Forskrifter vedr. egentlige militære kommandosaker (jfr. Grunnlovens §§ 28 og 31).",
+ "refid": "forskrift/1963-03-08-8",
+ "eli": "/eli/forskrift/1963/03/08/08",
+ "url": "https://lovdata.no/dokument/SF/forskrift/1963-03-08-8",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Egentlige militære kommandosaker (jfr. Grunnlovens §§ 28 og 31) omfatter:\na. Mobiliseringsplaner,\nb. Sammendragnings- og oppmarsplaner (tilsvarende planer for Sjøforsvaret),\nc. Forsvarsplaner,\nd. Krigsoppsetningsplaner for Kystartilleriet."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Saker under punkt I som fremmes ved kgl.res. på kommandovei, sendes av Forsvarssjefen til Forsvarsministeren."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kapIII",
+   "overskrift": "III",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Forsvarsministeren kan pålegge Forsvarssjefen å være tilstede når han foredrar saken for kongen.\nHvis Forsvarsministerens foredrag avviker fra forslag som er lagt frem fra den øverste fagmilitære ledelse, plikter han å referere den fagmilitære ledelses standpunkt."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kapIV",
+   "overskrift": "IV",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Når Forsvarsministeren foredrar saken for kongen, skal også Statsministeren og Utenriksministeren være til stede."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kapV",
+   "overskrift": "V",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Utkast til kongelig resolusjon på kommandovei skal leveres Forsvarsministeren personlig og direkte og arkiveres ved Forsvarsministerens forsorg."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,395 @@
+{
+ "skjema": "1.0",
+ "type": "instruks",
+ "datokode": "FOR-2023-01-02-24",
+ "dokumentid": "INS/forskrift/2023-01-02-24",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Avdeling for formuesforvaltning"
+ ],
+ "ikraft": "2023-01-02",
+ "endrer": "forskrift/2019-12-19-2057\nforskrift/2019-12-19-2058\nforskrift/2019-12-19-2059",
+ "hjemmel": [
+  {
+   "ref": "lov/2019-06-21-31/§3-7",
+   "tekst": "lov/2019-06-21-31/§3-7"
+  }
+ ],
+ "kunngjort": "2023-01-10 14:05",
+ "siste_rettelse": "2024-04-19 (hjemmel)",
+ "tittel": "Mandat for forvaltningen av statsgjeld",
+ "annet": "Hjemmel: Fastsatt av Finansdepartementet 2. januar 2023 med hjemmel i lov 21. juni 2019 nr. 31 om Norges Bank og pengevesenet mv. (sentralbankloven) § 3-7 første punktum og Stortingets årlige lånefullmakt.\nRettet 19.04.2024 (hjemmel).",
+ "refid": "forskrift/2023-01-02-24",
+ "eli": "/eli/forskrift/2023/01/02/24",
+ "url": "https://lovdata.no/dokument/INS/forskrift/2023-01-02-24",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1: Alminnelige bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1-1",
+     "tittel": "Norges Banks forvaltningsoppdrag",
+     "ledd": [
+      "(1) Norges Bank (banken) skal forvalte porteføljen av alle utestående gjeldsinstrumenter og inngåtte finansielle kontrakter (låneporteføljen) for Finansdepartementets (departements) regning og risiko etter bestemmelsene i dette mandatet.",
+      "(2) Banken kan gjennomføre opptak av statsgjeld og inngå finansielle kontrakter innenfor statsgjeldforvaltningen på vegne av departementet innenfor rammene for forvaltningen beskrevet i kap. 3.",
+      "(3) Banken bestemmer om låneopptaket skal gjennomføres ved at det utstedes statsobligasjoner eller statskasseveksler.",
+      "(4) Banken kan på vegne av staten inngå rentebytteavtaler og tilsvarende derivatavtaler som ikke inneholder opsjonselementer i forvaltningen av låneporteføljen, jf. § 3-4."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 1-2",
+     "tittel": "Målsetting",
+     "ledd": [
+      "Målsettingen for forvaltningen av låneporteføljen er å dekke statens lånebehov til lavest mulige kostnader innenfor rammene som følger av dette mandatet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 1-3",
+     "tittel": "Bankens rådgivningsplikt og uttalelsesrett",
+     "ledd": [
+      "(1) Banken skal gi departementet råd om behov for endringer i mandatet. Slike råd kan gis av eget tiltak eller etter anmodning fra departementet.",
+      "(2) Banken skal ha anledning til å uttale seg før det foretas vesentlige endringer i mandatet og skal ha varsel i rimelig tid forut for fastsettelse av endringene."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 1-4",
+     "tittel": "Interessekonflikter",
+     "ledd": [
+      "Banken skal søke å unngå interessekonflikter mellom forvaltningen av låneporteføljen og bankens øvrige virksomhet. Eventuelle interessekonflikter mellom forvaltningen av låneporteføljen og bankens øvrige virksomhet skal identifiseres og håndteres på en forsvarlig måte."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-5",
+     "nummer": "§ 1-5",
+     "tittel": "Eksterne tjenesteytere (utkontraktering)",
+     "ledd": [
+      "(1) Banken kan utkontraktere operasjonelle funksjoner, i henhold til instruks 28. juni 2022 om risikostyring og internkontroll i Norges Bank § 5.",
+      "(2) Banken skal ha retningslinjer for når slik utkontraktering kan finne sted."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-6",
+     "nummer": "§ 1-6",
+     "tittel": "Eksterne relasjoner",
+     "ledd": [
+      "(1) Banken har et generelt ansvar for eksterne relasjoner i forbindelse med forvaltning av låneporteføljen, herunder deltakelse i internasjonale fora.",
+      "(2) Banken har ansvaret for å inngå avtale med kredittvurderingsbyråer om kredittvurdering av staten dersom banken anser det som hensiktsmessig å inngå slik avtale. Departementet bidrar i kredittvurderingsprosessen ved behov.",
+      "(3) Banken har ansvaret for kontakt med banker, meglere og investorer."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2: Gjennomføring av den operasjonelle forvaltningen",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 2-1",
+     "tittel": "Lånestrategi",
+     "ledd": [
+      "Banken skal utarbeide en lånestrategi som beskriver hvordan banken vil oppnå målsettingen gitt i § 1-2."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 2-2",
+     "tittel": "Låneprogram",
+     "ledd": [
+      "(1) Banken skal dekke statens finansieringsbehov innenfor rammene for Stortingets vedtak om fullmakter i statsbudsjettet. Statens finansieringsbehov blir definert av departementet i statsbudsjettet.",
+      "(2) Innen budsjettårets start skal banken legge fram et låneprogram for departementet. Programmet skal beskrive planlagt opplåning og inneholde en kalender for utstedelser.",
+      "(3) Banken skal fordele opplåningen gjennom året slik at departementet har et minstebeløp fastsatt av departementet innestående på sin konto i banken."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 2-3",
+     "tittel": "Salg av statspapirer",
+     "ledd": [
+      "Banken kan velge metode for salg av statsobligasjoner og statskasseveksler."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 2-4",
+     "tittel": "Tilbakekjøp av statsobligasjoner",
+     "ledd": [
+      "Banken kan kjøpe tilbake statsobligasjoner på vegne av departementet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 2-5",
+     "tittel": "Statens egenbeholdning av statspapirer og markedspleie",
+     "ledd": [
+      "(1) Banken kan inngå gjenkjøpsavtaler med statens egenbeholdning av statspapirer.",
+      "(2) Banken kan forhandle, inngå eller endre, inkludert avslutte rammeavtaler om gjenkjøpsavtaler, for departementets regning og risiko.",
+      "(3) Banken skal sørge for at statens egenbeholdning av statspapirer er tilstrekkelig for markedspleie."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3: Rammer for forvaltningen og krav til risikostyring",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 3-1",
+     "tittel": "Årlige rammer fastsatt av departementet",
+     "ledd": [
+      "Departementet skal innen en uke etter at Stortinget har fattet vedtak om fullmakter for låneopptak for budsjettåret og inngåelse av rentebytteavtaler og tilsvarende derivatavtaler fastsette årlige rammer for forvaltningen, herunder en øvre grense for brutto opplåningsvolum og minstekrav til rentebindingstid på låneporteføljen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 3-2",
+     "tittel": "Referansekurve i statspapirer",
+     "ledd": [
+      "Banken skal søke å vedlikeholde en rentekurve for statspapirer med løpetid opptil 10 år som kan tjene som referanse for prising i obligasjonsmarkedet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 3-3",
+     "tittel": "Refinansieringsrisiko",
+     "ledd": [
+      "Banken skal søke å begrense refinansieringsrisikoen i låneporteføljen. Lånestrategien skal utformes med sikte på at mindre enn 25 pst. av utestående statsobligasjoner kan forfalle hvert år."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 3-4",
+     "tittel": "Bruk av rentebytteavtaler",
+     "ledd": [
+      "(1) Banken kan inngå rentebytteavtaler for å styre rentebindingstiden til låneporteføljen, innenfor rammer satt av departementet.",
+      "(2) Banken avgjør når, hvordan og med hvilke motparter slike transaksjoner skal gjennomføres. Banken kan kun inngå rentebytteavtaler og tilsvarende derivatavtaler med motparter som staten («Kongeriket Norge»/«Kingdom of Norway») har rammeavtale («ISDA Master Agreement») med.",
+      "(3) Utestående volum av rentebytteavtaler skal ikke overstige utestående volum av statsobligasjoner. Utestående volum av statsobligasjoner omfatter i denne sammenheng også statens egenbeholdning.",
+      "(4) Banken kan forhandle, inngå, endre eller avslutte ISDA-avtaler, herunder tilleggsavtaler og protokoller om rentebytteavtaler og tilsvarende derivatavtaler, på vegne av staten for departementets regning og risiko.",
+      "(5) Banken kan gjøre innskudd som sikkerhet hos motparter i rentebytteavtaler og tilsvarende derivatavtaler.",
+      "(6) Kontanter som banken mottar som sikkerhet i forbindelse med rentebytteavtaler eller tilsvarende derivatavtaler, skal plasseres som kontolån til staten under departementet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 3-5",
+     "tittel": "Motpartseksponering",
+     "ledd": [
+      "(1) Banken skal fastsette prinsipper for måling og styring av motpartseksponering.",
+      "(2) Banken skal ha betryggende rutiner og systemer for utvelgelse og evaluering av motparter. Banken skal fastsette maksimumsrammer for eksponering, minstekrav til kredittvurdering og standarder for sikkerhetsstillelse, håndtering av sikkerheter og ordninger for motregning. Samlet motpartseksponering skal beregnes i henhold til internasjonalt anerkjente metoder."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-6",
+     "nummer": "§ 3-6",
+     "tittel": "Måling og styring av operasjonell risiko",
+     "ledd": [
+      "(1) Banken skal nærmere definere og avgrense innholdet i begrepet operasjonell risiko.",
+      "(2) Operasjonelle risikofaktorer skal identifiseres, vurderes etter sannsynlighet og konsekvens, overvåkes og håndteres."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-7",
+     "nummer": "§ 3-7",
+     "tittel": "Godkjennelse av salgsmetoder og instrumenter",
+     "ledd": [
+      "(1) Banken skal godkjenne alle metoder som benyttes for salg av statspapirer, jf. § 2-3.",
+      "(2) Banken skal godkjenne alle finansielle instrumenter som benyttes i forvaltningen av låneporteføljen. Banken kan kun godkjenne instrumenter som er tillatt etter § 1-1.",
+      "(3) Bankens godkjenning skal avhenge av at salgsmetoden eller instrumentet bidrar til en effektiv gjennomføring av forvaltningsoppdraget, og at banken kan sikre styring, kontroll og oppfølging av all relevant markeds- og kredittrisiko samt operasjonell risiko.",
+      "(4) Godkjenningen skal dokumenteres."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4: Innføring av statspapirene i verdipapirsentral",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 4",
+     "tittel": "Verdipapirsentralen",
+     "ledd": [
+      "(1) Banken er kontoførerutsteder i Verdipapirsentralen ASA (VPS) for statens obligasjons- og veksellån. Som kontoførerutsteder skal banken blant annet påse at registreringen i VPS av statens obligasjons- og veksellån er korrekt med hensyn til utestående beløp og framtidige rente- og avdragsbetalinger for staten.",
+      "(2) Banken er kontoførerinvestor i Verdipapirsentralen ASA (VPS) for statens obligasjons- og veksellån."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5: Reglement for økonomistyring og bokføring",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 5-1",
+     "tittel": "Reglementet for økonomistyring i staten",
+     "ledd": [
+      "(1) Banken skal følge reglement for økonomistyring i staten ved forvaltning av låneporteføljen. Departementet skal varsle banken om relevante endringer i reglementet med tilhørende bestemmelser.",
+      "(2) Transaksjoner gjennomført innenfor statsgjeldforvaltningen skal bokføres i statsregnskapet.",
+      "(3) Banken kan ta imot betalinger og foreta utbetalinger på vegne av departementet i forbindelse med utstedelse eller tilbakekjøp av statspapirer, markedspleie i annenhåndsmarkedet, rentebytteavtaler og tilsvarende derivatavtaler samt tilleggssikkerheter.",
+      "(4) Banken kan forlenge foreldelsesfrister og frafalle foreldelse for statspapirer som er omfattet av statsgjeldsforvaltningen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 5-2",
+     "tittel": "Bankens medvirkning til bokføring",
+     "ledd": [
+      "(1) Banken skal i rimelig tid levere avstemte regnskapsfiler fra sitt porteføljeforvaltningssystem til departementets regnskapssystem slik at departementet kan avstemme i tide i henhold til frister for slikt arbeid.",
+      "(2) Departementet skal påse at kontoplan og øvrige begrepsverdier for registrerings- og rapporteringsformål er registrert i regnskapssystemet. Banken må i god tid før regnskapsfil oversendes varsle om nye lån og avtaler som er inngått.",
+      "(3) Banken skal levere regnskapsfiler på følgende områder:\na. Nye statslån og utvidelser i disse, både utestående gjeld og egenbeholdning og ev. tilbakekjøp av statspapirer.\nb. Terminbetalinger og forfall i norske statspapirer, herunder avskriving av over-/underkurs og håndtering av ev. returer, både på gjeld og egenbeholdning.\nc. Kvartalsvis rapportering av avdrag på statsobligasjoner mot kapitalregnskapet, både på gjeld og egenbeholdning.\nd. Handel med statens egenbeholdning av statspapirer for pleie av markedet.\ne. Ordinære renteterminer knyttet til inngåtte rentebytteavtaler.\nf. Inn- og utbetaling av sikkerhetsbeløp knyttet til inngåtte rentebytteavtaler.\ng. Utbetaling av opptjent rente til motparter under ordningen med sikkerhetsbeløp knyttet til inngåtte rentebytteavtaler.\nh. Mottatt opptjent rente til staten under ordningen med sikkerhetsbeløp knyttet til inngåtte rentebytteavtaler.",
+      "(4) For handel med statens egenbeholdning av statspapirer (gjenkjøpsavtaler) skal banken halvårlig sende departementet en rapport som viser regnskapsstørrelser pr. statspapir for:\na. Beholdningen av statspapirer (nominell verdi, kostpris inkl. transaksjonskostnader og markedsverdi).\nb. Beholdningen av gjenkjøpsavtaler (nominell verdi og avtalepris/markedsverdi).\nc. Renteinntekter etter kontantprinsippet (rentekupong innbetalt via gjenkjøpsavtaler).\nd. Rentekostnad etter kontantprinsippet (rente på mottatt likviditet under gjenkjøpsavtaler)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6: Rapportering",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 6-1",
+     "tittel": "Periodiske rapporter",
+     "ledd": [
+      "(1) Banken skal utarbeide offentlige kvartals- og årsrapporter om forvaltningen av statsgjelden. Ved utarbeidelsen skal det legges til grunn at det skal være størst mulig åpenhet om forvaltningen innenfor de rammer som settes av en forsvarlig gjennomføring av forvaltningsoppdraget.",
+      "(2) Rapportene skal beskrive utnyttelsen av rammene gitt i § 3-1, § 3-3, § 3-4, samt beskrive håndteringen av risikoene beskrevet i § 3-5 og § 3-6. Rapportene skal inneholde en oversikt over utestående statsgjeld, en utfyllende oversikt over gjennomførte utstedelser og tilbakekjøp med oppnådde betingelser og en oversikt over inngåtte rentederivatavtaler (med betingelser) samt durasjon, rentebindingstid og løpetid for porteføljen av statspapirer, rentederivater og samlet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 6-2",
+     "tittel": "Offentliggjøring",
+     "ledd": [
+      "(1) Lånestrategi, jf. § 2-1, skal publiseres av banken.",
+      "(2) Låneprogrammet, jf. § 2-2, skal publiseres av banken.",
+      "(3) Analyser og rapporter som utarbeides av banken til bruk i statsgjeldforvaltningen skal være offentlige med mindre de inneholder taushetsbelagte opplysninger eller publisering vil gjøre det vanskeligere for banken å gjennomføre forvaltningen eller oppnå de gitte målene."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kap7",
+   "overskrift": "Kapittel 7: Forvaltningskostnader",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 7",
+     "tittel": "Kostnadsdekning",
+     "ledd": [
+      "Kostnadene ved forvaltningen av statsgjelden dekkes av banken."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-8",
+   "navn": "kap8",
+   "overskrift": "Kapittel 8: Forholdet mellom departementet og banken",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-1",
+     "nummer": "§ 8-1",
+     "tittel": "Orienteringsplikt",
+     "ledd": [
+      "(1) Banken skal orientere departementet om vesentlige forhold i forvaltningen av statsgjelden. Orientering skal skje uten ugrunnet opphold etter at forholdet som utløser orienteringsplikten, har oppstått.",
+      "(2) Banken skal gi departementet de opplysninger departementet ber om, herunder opplysninger til selskap som bistår departementet i vurderingen av bankens forvaltning av låneporteføljen. Data skal kunne leveres i maskinlesbar form."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-2",
+     "nummer": "§ 8-2",
+     "tittel": "Bankens plikter ved overskridelse av rammer for forvaltningen",
+     "ledd": [
+      "(1) Dersom rammene som følger av dette mandatet blir overskredet, skal banken uten ugrunnet opphold foreta en vurdering av hvordan forvaltningen av statsgjelden kan bringes innenfor rammene på en hensiktsmessig og kostnadseffektiv måte.",
+      "(2) Departementet skal orienteres ved vesentlige brudd på rammene som følger av dette mandatet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-3",
+     "nummer": "§ 8-3",
+     "tittel": "Regelmessige møter",
+     "ledd": [
+      "Det skal regelmessig avholdes møter mellom departementet og banken. Som grunnlag for departementets forberedelse til møtene skal banken oversende utkast til rapporter nevnt i § 6-1. Banken skal også regelmessig fremlegge analyser av lønnsomhet og risiko i inngåtte transaksjoner samt vurderinger av måloppnåelse."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-9",
+   "navn": "kap9",
+   "overskrift": "Kapittel 9: Adgang til å fravike bestemmelser samt ikrafttredelse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-1",
+     "nummer": "§ 9-1",
+     "tittel": "Adgang til å fravike bestemmelsene",
+     "ledd": [
+      "Departementet kan i særlige tilfeller tillate banken å fravike bestemmelsene i dette mandatet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-2",
+     "nummer": "§ 9-2",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Bestemmelsene trer i kraft 2. januar 2023. Mandat 19. desember 2019 nr. 2057 for forvaltningen av statsgjeld, utfyllende bestemmelser 19. desember 2019 nr. 2058 til mandat for forvaltningen av statsgjeld og fullmakter 19. desember 2019 nr. 2059 til Norges Bank for forvaltningen av statsgjeld oppheves fra samme tidspunkt."
+     ]
+    }
+   ]
+  }
+ ]
+}

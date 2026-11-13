@@ -1,0 +1,474 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2001-12-21-1477",
+ "dokumentid": "SF/forskrift/2001-12-21-1477",
+ "departement": [
+  "Helse- og omsorgsdepartementet"
+ ],
+ "etat": [
+  "Helserettsavd."
+ ],
+ "kunngjort_i": "I 2001 hefte 16",
+ "ikraft": "2002-01-01",
+ "siste_endring_ikraft": "2024-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2023-12-20-2165",
+   "tekst": "forskrift/2023-12-20-2165 fra 2024-01-01"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2014-06-20-42/§33",
+   "tekst": "lov/2014-06-20-42/§33"
+  },
+  {
+   "ref": "lov/2014-06-20-43/§8",
+   "tekst": "lov/2014-06-20-43/§8"
+  },
+  {
+   "ref": "lov/2014-06-20-43/§9",
+   "tekst": "lov/2014-06-20-43/§9"
+  },
+  {
+   "ref": "lov/2014-06-20-43/§10",
+   "tekst": "lov/2014-06-20-43/§10"
+  },
+  {
+   "ref": "lov/2014-06-20-43/§11",
+   "tekst": "lov/2014-06-20-43/§11"
+  },
+  {
+   "ref": "lov/2014-06-20-43/§12",
+   "tekst": "lov/2014-06-20-43/§12"
+  },
+  {
+   "ref": "lov/2014-06-20-43/§13",
+   "tekst": "lov/2014-06-20-43/§13"
+  },
+  {
+   "ref": "lov/2014-06-20-43/§33",
+   "tekst": "lov/2014-06-20-43/§33"
+  },
+  {
+   "ref": "lov/1999-07-02-64/§37",
+   "tekst": "lov/1999-07-02-64/§37"
+  },
+  {
+   "ref": "lov/1967-02-10/§13d",
+   "tekst": "lov/1967-02-10/§13d"
+  }
+ ],
+ "kunngjort": "2001-12-21",
+ "korttittel": "Kreftregisterforskriften",
+ "tittel": "Forskrift om innsamling og behandling av helseopplysninger i Kreftregisteret (Kreftregisterforskriften)",
+ "annet": "Hjemmel: Fastsatt ved kgl.res. 21. desember 2001 med hjemmel i lov av 18. mai 2001 nr. 24 om helseregistre og behandling av helseopplysninger (helseregisterloven) § 8 fjerde ledd, jf. tredje ledd, § 9 annet ledd, § 16 fjerde ledd, § 17 tredje ledd, § 22 femte ledd, § 27 annet ledd og lov av 2. juli 1999 nr. 64 om helsepersonell m.v. (helsepersonelloven) § 37. Fremmet av Sosial- og helsedepartementet.\nTilføyd hjemmel: Lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven) § 13d tredje ledd. Lov 20. juni 2014 nr. 43 om helseregistre og behandling av helseopplysninger (helseregisterloven) § 8 jf. § 9, § 10, § 11, § 12 og § 13.\nEndret ved forskrifter 20 juni 2003 nr. 741, 2 sep 2005 nr. 1010, 7 des 2007 nr. 1389, 26 juni 2009 nr. 868, 16 des 2011 nr. 1250, 16 des 2011 nr. 1396, 17 jan 2013 nr. 61, 19 des 2014 nr. 1734, 15 mai 2018 nr. 725, 15 juni 2018 nr. 876, 1 mars 2019 nr. 169, 23 april 2021 nr. 1269 som endret ved vedtak 12 mai 2021 nr. 1902 (i kraft 1 juni 2021), 8 okt 2021 nr. 2958 (i kraft 1 nov 2021), 19 nov 2021 nr. 3235, 10 des 2021 nr. 3464 som endret ved forskrift 2 april 2022 nr. 529 (i kraft 1 mai 2022), 20 des 2023 nr. 2165 (i kraft 1 jan 2024).",
+ "refid": "forskrift/2001-12-21-1477",
+ "eli": "/eli/forskrift/2001/12/21/1477",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2001-12-21-1477",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Generelle bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1-1",
+     "tittel": "(Etablering av Kreftregisteret)",
+     "ledd": [
+      "Denne forskriften etablerer et landsomfattende Kreftregister. Forskriften gir regler for innsamling og behandling av helseopplysninger i registeret.",
+      "Innsamling og behandling av helseopplysninger i Kreftregisteret kan skje manuelt og ved hjelp av elektroniske hjelpemidler."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 1-2",
+     "tittel": "(Kreftregisterets innhold)",
+     "ledd": [
+      "Kreftregisteret skal inneholde helseopplysninger om alle personer i Norge som har eller har hatt kreft. Kreftregisteret skal inneholde helseopplysninger om forstadier til kreft, og godartede svulster i sentralnervesystemet.",
+      "Kreftregisteret kan også inneholde helseopplysninger om berørte slektninger til personer i Norge som dokumentert er disponert for eller har en arvelig kreftsykdom som kan gjøres til gjenstand for oppsøkende virksomhet, dersom den berørte slektningen, etter å ha fått informasjon om hvordan slike opplysninger behandles i Kreftregisteret, ikke motsetter seg det.",
+      "Kreftregisteret kan videre inneholde helseopplysninger om personer som har deltatt i undersøkelsesprogram for tidlig diagnose, herunder nødvendige oppfølgende undersøkelser. Ved negativt funn kan direkte personidentifiserende opplysninger registreres permanent med mindre den registrerte motsetter seg det. For personer som har motsatt seg slik registrering kan direkte personidentifiserende opplysninger oppbevares midlertidig slik at opplysningene kan kvalitetssikres."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 19 des 2014 nr. 1734 (i kraft 1 jan 2015), 10 des 2021 nr. 3464 som endret ved forskrift 2 april 2022 nr. 529 (i kraft 1 mai 2022)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 1-2a",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Tilføyd ved forskrift 15 juni 2018 nr. 876 (i kraft 20 juli 2018), opphevet ved forskrift 23 april 2021 nr. 1269 som endret ved vedtak 12 mai 2021 nr. 1902 (i kraft 1 juni 2021)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 1-3",
+     "tittel": "(Kreftregisterets formål)",
+     "ledd": [
+      "Formålet med Kreftregisteret er å:\n1. innsamle og innenfor forskriftens rammer behandle data om krefttilfeller og kreftundersøkelser i Norge for å kartlegge kreftsykdommers utbredning i landet og belyse endringer over tid,\n2. drive, fremme og gi grunnlag for forskning for å utvikle ny viten om kreftsykdommenes årsaker, diagnose, naturlige forløp og behandlingseffekter for å fremme og utvikle kvaliteten på forebyggende tiltak og helsehjelp som tilbys eller ytes mot kreftsykdom, herunder følge opp enkeltpasienter og pasientgrupper,\n3. gi råd og veiledning om helsehjelp mot kreftsykdommer,\n4. gi råd og informasjon til øvrig forvaltning og befolkningen om tiltak som kan forebygge utvikling av kreftsykdom.",
+      "Opplysninger i Kreftregisteret kan foruten til formål som nevnt i første ledd, behandles til styring, planlegging og kvalitetssikring av helse- og omsorgstjenesten og helse- og omsorgsforvaltningen, utarbeiding av statistikk og til forskning."
+     ],
+     "endringer": [
+      "Endret ved forskrift 17 jan 2013 nr. 61."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-5",
+     "nummer": "§ 1-4",
+     "tittel": "(Forbud mot bruk)",
+     "ledd": [
+      "Opplysningene i Kreftregisteret kan ikke anvendes til formål som er uforenelig med formål som nevnt i § 1-3."
+     ],
+     "endringer": [
+      "Endret ved forskrift 23 april 2021 nr. 1269 som endret ved vedtak 12 mai 2021 nr. 1902 (i kraft 1 juni 2021)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-6",
+     "nummer": "§ 1-5",
+     "tittel": "(Dataansvarlig)",
+     "ledd": [
+      "Folkehelseinstituttet er dataansvarlig for innsamling og behandling av helseopplysninger i Kreftregisteret."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 15 juni 2018 nr. 876 (i kraft 20 juli 2018), 20 des 2023 nr. 2165 (i kraft 1 jan 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-7",
+     "nummer": "§ 1-6",
+     "tittel": "(Databehandler)",
+     "ledd": [
+      "Folkehelseinstituttet kan inngå skriftlig avtale med en databehandler om innsamling og behandling av helseopplysninger i Kreftregisteret, herunder om overvåking og forskning, jf. § 1-3, drift og kvalitetssikring av registeret, samt tilgjengeliggjøring av data til brukere."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 15 juni 2018 nr. 876 (i kraft 20 juli 2018), 20 des 2023 nr. 2165 (i kraft 1 jan 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-8",
+     "nummer": "§ 1-7",
+     "tittel": "(Opplysninger om krefttilfeller i Kreftregisteret)",
+     "ledd": [
+      "Kreftregisteret kan uten samtykke inneholde følgende opplysninger om personer som har eller har hatt kreft, forstadier til kreft, eller godartede svulster i sentralnervesystemet i den utstrekning det er nødvendig for å nå formålet med registeret:\n1. personopplysninger:\n1.1. navn og fødselsnummer,\n1.2. adresse og bostedskommune,\n1.3. sivilstand,\n1.4. fødekommune/fødeland,\n2. administrative opplysninger:\n2.1. institusjon/virksomhet/avdeling der helsehjelpen tilbys og ytes,\n2.2. behandlingsansvarlig lege, navn og adresse, eventuelt pasientansvarlig lege,\n2.3. institusjonsopphold, innleggelsesdato, utskrivingsdato, eventuelt poliklinikk,\n3. medisinske opplysninger:\n3.1. om årsak til at helse- og omsorgstjenesten er oppsøkt, tidspunkt og tidsforløp for symptomer, diagnose, behandling, kontroller og eventuelt tilbakefall,\n3.2. om kreftsykdommen:\n3.2.1. kreftsykdommens utgangspunkt eller utspring,\n3.2.2. sykdomskategori,\n3.2.3. morfologisk diagnose,\n3.2.4. utbredelse på diagnosetidspunktet,\n3.2.5. metastaser,\n3.2.6. tilbakefall,\n3.3. om diagnosegrunnlag:\n3.3.1. klinikk,\n3.3.2. bildediagnostikk,\n3.3.3. histologisk undersøkelse,\n3.3.4. cytologisk materiale,\n3.3.5. annen type undersøkelse,\n3.4. kreftbehandling den registrerte har mottatt, indikasjoner og kontraindikasjoner for behandlingen, behandlingsmetode, samt eventuelle komplikasjoner eller bivirkninger,\n3.5. om eventuell resttumor etter behandling.",
+      "Kreftregisteret kan, hvis den registrerte ikke motsetter seg det, etter å ha fått informasjon om hvordan slike opplysninger behandles i Kreftregisteret, inneholde opplysninger om den registrertes\n1. yrkesmessige forhold,\n2. røykevaner,\n3. eventuelt andre kjente risikofaktorer for kreft."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 17 jan 2013 nr. 61, 15 mai 2018 nr. 725."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-9",
+     "nummer": "§ 1-8",
+     "tittel": "(Opplysninger om berørte slektninger til personer som har arvelig kreft)",
+     "ledd": [
+      "Kreftregisteret kan på vilkår som nevnt i § 1-2 annet ledd inneholde følgende opplysninger om berørte slektninger til personer i Norge som dokumentert er disponert for eller har en arvelig kreftsykdom, som kan gjøres til gjenstand for oppsøkende virksomhet:\n1. personopplysninger:\n1.1. navn og fødselsnummer,\n1.2. adresse og bostedskommune,\n1.3. sivilstand,\n1.4. fødekommune/fødeland,\n2. administrative opplysninger:\n2.1. virksomhet/avdeling, eventuelt institusjonsopphold,\n2.2. tidspunkt for kontrollen (dato og år),\n2.3. tidspunkt for planlagt oppfølging,\n3. relevante medisinske opplysninger:\n3.1. diagnosegrunnlag,\n3.2. diagnose,\n4. bakgrunn for undersøkelsen."
+     ],
+     "endringer": [
+      "Endret ved forskrift 15 mai 2018 nr. 725."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-10",
+     "nummer": "§ 1-9",
+     "tittel": "(Opplysninger om personer som har deltatt i program for tidlig diagnose)",
+     "ledd": [
+      "Kreftregisteret kan med de unntak som følger av annet og tredje ledd, inneholde følgende opplysninger om personer som har deltatt i undersøkelsesprogram for tidlig diagnose, herunder nødvendige oppfølgende undersøkelser:\n1. personopplysninger:\n1.1. navn og fødselsnummer,\n1.2. adresse og bostedskommune,\n1.3. sivilstand,\n1.4. fødekommune/fødeland,\n2. administrative opplysninger:\n2.1. virksomhet/avdeling, eventuelt institusjonsopphold,\n2.2. tidspunkt for kontrollen (dato og år),\n2.3. tidspunkt for planlagt oppfølging,\n3. relevante medisinske opplysninger:\n3.1. diagnosegrunnlag,\n3.2. diagnose,\n3.3. type undersøkelse,\n3.4. bruk av medikamenter og andre forhold ved den registrertes helse som kan ha betydning for gjennomføring av undersøkelsen,\n3.5. gjennomføring av undersøkelsen,\n3.6. eventuelle komplikasjoner,\n4. opplysninger om legen eller annet helsepersonell som utfører undersøkelsen eller stiller diagnosen:\n4.1. helsepersonellnummer eller annen personidentifikator,\n4.2. hvorvidt spesifikke kompetansekrav er oppfylt,\n5. bakgrunn for undersøkelsen:\n5.1. undersøkelsesprogram,\n5.2. annen bakgrunn.",
+      "Ved negativt funn skal personopplysninger som nevnt i første ledd nr. 1, slettes etter at opplysningene er kvalitetssikret og senest seks måneder etter innsamlingen av opplysningene dersom den registrerte har motsatt seg at opplysningene registreres permanent. Dette gjelder også tidligere innsamlede data. Dersom den registrerte ber om det, skal Folkehelseinstituttet registrere opplysninger om navn, fødselsnummer og adresse i et eget reservasjonsregister.",
+      "Opplysninger som nevnt i første ledd nr. 4.1 skal slettes seks måneder etter at opplysningene er samlet inn dersom den registrerte har motsatt seg at opplysningene registreres permanent."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 19 des 2014 nr. 1734 (i kraft 1 jan 2015), 15 mai 2018 nr. 725, 10 des 2021 nr. 3464 som endret ved forskrift 2 april 2022 nr. 529 (i kraft 1 mai 2022), 20 des 2023 nr. 2165 (i kraft 1 jan 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-11",
+     "nummer": "§ 1-10",
+     "tittel": "(Opplysninger om dødsårsak)",
+     "ledd": [
+      "Kreftregisteret kan inneholde helseopplysninger om dødsårsak, obduksjon, dødsdag, klokkeslett, måned og år om alle som er registrert i registeret."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-12",
+     "nummer": "§ 1-11",
+     "tittel": "(Koding og klassifisering av opplysningene i Kreftregisteret, krav til dokumentasjon)",
+     "ledd": [
+      "Den dataansvarlige skal ved enhver registrering i registeret kunne dokumentere hvilke klassifikasjoner eller kodeverk som er benyttet.",
+      "Departementet kan gi nærmere bestemmelser om hvilke nasjonale eller internasjonale kodeverk og klassifikasjoner som skal benyttes ved registrering av opplysninger i Kreftregisteret."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 15 juni 2018 nr. 876 (i kraft 20 juli 2018), 20 des 2023 nr. 2165 (i kraft 1 jan 2024)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Melding av helseopplysninger til Kreftregisteret, kvalitetskontroll mv.",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 2-1",
+     "tittel": "(Helsepersonells dokumentasjons- og meldeplikt)",
+     "ledd": [
+      "Klinikere, patologer, radiologer og andre laboratorieleger som gir helsehjelp ved kreftsykdom, skal uten hensyn til taushetsplikt melde opplysninger som nevnt i § 1-7 første ledd til Kreftregisteret. Opplysninger om yrkesmessige forhold, røykevaner mv. som nevnt i § 1-7 annet ledd skal meldes dersom den registrerte ikke motsetter seg det.",
+      "Klinikere, patologer, radiologer og andre laboratorieleger som undersøker for eventuell kreftsykdom, jf. § 1-2 tredje ledd, skal ved negativt funn melde opplysninger som nevnt i § 1-9 første ledd til Kreftregisteret uten hensyn til taushetsplikt. Det skal fremgå av meldingen om opplysninger om personens identitet skal registreres permanent eller slettes etter at opplysningene er kvalitetssikret.",
+      "Melding som nevnt i første og annet ledd, skal sendes fortløpende og senest to måneder etter at opplysningene er dokumentert i henhold til helsepersonelloven § 39 og § 40."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 2-2",
+     "tittel": "(Meldingsskjema, formkrav mv.)",
+     "ledd": [
+      "Melding av opplysninger som nevnt i § 2-1 første og annet ledd, skal skje på skjema eller på annen måte fastsatt av departementet.",
+      "Departementet kan gi pålegg om bruk av bestemte klassifikasjonssystemer og kodeverk ved registrering av opplysningene, og gi pålegg om bruk av standardiserte meldingsformater ved forsendelsen av opplysningene."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 2-3",
+     "tittel": "(Virksomhetens plikter)",
+     "ledd": [
+      "Helseinstitusjon, poliklinikk, helsesenter, patologilaboratorium, røntgenlaboratorium, klinisk kjemisk laboratorium eller annen virksomhet som er ansvarlig for registrering av opplysninger som skal meldes til Kreftregisteret, jf. § 1-7 og § 1-9, har ansvar for at pliktene som nevnt i § 2-1 og § 2-2 oppfylles, og skal sørge for at det finnes rutiner som sikrer dette, jf. forskriften § 4-2 og § 4-3."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 2-4",
+     "tittel": "(Mottakers ansvar for kvalitetskontroll)",
+     "ledd": [
+      "Den dataansvarlige skal sørge for at helseopplysninger som innsamles og behandles i Kreftregisteret, er korrekte, relevante og nødvendige for de formål de innsamles for, jf. § 1-3.",
+      "Dersom meldingsskjema er mangelfullt utfylt, skal avsenderen av skjema varsles, jf. helseregisterloven § 13 annet ledd annet punktum. Ved fortsatt mangelfull utfylling av skjema skal statsforvalteren varsles."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 20 juni 2003 nr. 741 (i kraft 1 juli 2003), 7 des 2007 nr. 1389 (i kraft 15 april 2009), 16 des 2011 nr. 1396 (i kraft 1 jan 2012), 15 juni 2018 nr. 876 (i kraft 20 juli 2018), 8 okt 2021 nr. 2958 (i kraft 1 nov 2021), 19 nov 2021 nr. 3235, 20 des 2023 nr. 2165 (i kraft 1 jan 2024)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Behandling av helseopplysninger i Kreftregisteret",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 3-1",
+     "tittel": "Tilgjengeliggjøring og annen behandling av helseopplysninger",
+     "ledd": [
+      "Helseopplysninger i Kreftregisteret skal behandles i samsvar med personvernforordningen, personopplysningsloven og de alminnelige vilkårene i helseregisterloven § 6 og reglene om taushetsplikt i helseregisterloven § 17, jf. helsepersonelloven §§ 21 flg.",
+      "Ved tilgjengeliggjøring og sammenstilling av opplysninger i registeret gjelder i tillegg helseregisterloven § 19 til § 19h."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 20 juni 2003 nr. 741 (i kraft 1 juli 2003), 2 sep 2005 nr. 1010 (i kraft 24 april 2006), 7 des 2007 nr. 1389 (i kraft 15 april 2009), 16 des 2011 nr. 1250 (i kraft 1 jan 2012), 15 juni 2018 nr. 876 (i kraft 20 juli 2018), 23 april 2021 nr. 1269 som endret ved vedtak 12 mai 2021 nr. 1902 (i kraft 1 juni 2021)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 3-2",
+     "tittel": "(Informasjonsstrategi rettet mot brukergrupper)",
+     "ledd": [
+      "For å fremme bruken av data fra Kreftregisteret og for å bygge opp informasjon og kunnskap, jf. forskriften § 1-3, skal den dataansvarlige ha en aktiv informasjonsstrategi og -plan rettet mot så vel helseforvaltningen, helse- og omsorgstjenesten og øvrig forvaltning, som mot forskere innen medisinsk forskning, helse- og omsorgstjenesteforskning og samfunnsforskning."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 17 jan 2013 nr. 61, 15 juni 2018 nr. 876 (i kraft 20 juli 2018), 23 april 2021 nr. 1269 som endret ved vedtak 12 mai 2021 nr. 1902 (i kraft 1 juni 2021, tidligere § 3-6), 20 des 2023 nr. 2165 (i kraft 1 jan 2024)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Taushetsplikt, informasjonssikkerhet, internkontroll",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 4-1",
+     "tittel": "(Taushetsplikt)",
+     "ledd": [
+      "Enhver som behandler helseopplysninger etter denne forskriften har taushetsplikt etter helsepersonelloven.",
+      "Taushetsplikten etter første ledd gjelder også pasientens fødested, fødselsdato, personnummer, pseudonym, statsborgerforhold, sivilstand, yrke, bopel og arbeidssted."
+     ],
+     "endringer": [
+      "Endret ved forskrift 15 juni 2018 nr. 876 (i kraft 20 juli 2018)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 4-2",
+     "tittel": "(Informasjonssikkerhet)",
+     "ledd": [
+      "Den dataansvarlige og databehandleren skal gjennomføre tekniske og organisatoriske tiltak for å oppnå et sikkerhetsnivå som er egnet med hensyn til risikoen, jf. personvernforordningen artikkel 32 og helseregisterloven § 21."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 15 juni 2018 nr. 876 (i kraft 20 juli 2018), 20 des 2023 nr. 2165 (i kraft 1 jan 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 4-3",
+     "tittel": "(Plikt til internkontroll)",
+     "ledd": [
+      "Den dataansvarlige for Kreftregisteret skal gjennomføre tekniske og organisatoriske tiltak for å sikre og påvise at behandling av opplysninger utføres i samsvar med personvernforordningen, personopplysingsloven og helseregisterloven, jf. helseregisterloven § 22.",
+      "Databehandlere som behandler helseopplysninger på vegne av den dataansvarlige, skal behandle opplysninger i samsvar med rutiner dataansvarlig har oppstilt."
+     ],
+     "endringer": [
+      "Endret ved forskrift 15 juni 2018 nr. 876 (i kraft 20 juli 2018)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 4-4",
+     "tittel": "(Internkontrollens innhold)",
+     "ledd": [
+      "Internkontroll innebærer at den dataansvarlige skal ha kunnskap om gjeldende regler om behandling av helseopplysninger, tilstrekkelig og oppdatert dokumentasjon for gjennomføring av rutiner, samt ha denne dokumentasjonen tilgjengelig for dem den måtte angå. Internkontrollen skal blant annet inneholde:\n1. oversikt over hvordan virksomheten er organisert,\n2. oversikt over ansvars- og myndighetsforhold,\n3. oversikt over de krav i og i medhold av personvernforordningen, personopplysningsloven og helseregisterloven som gjelder for virksomheten,\n4. rutiner virksomheten følger for å sikre overholdelse av kravene, herunder rutiner for:\n4.1. oppfyllelse av krav om at personidentifiserende opplysninger bare behandles når dette er nødvendig for å fremme formålet med behandlingen av opplysningene, og i tråd med gjeldende bestemmelser om taushetsplikt, jf. helseregisterloven § 6 og § 17,\n4.2. dokumentasjon og kvalitetskontroll av helseopplysningene, jf. forskriften § 1-11 og § 2-4,\n4.3. oppfyllelse av begjæringer om informasjon og innsyn, jf. helseregisterloven § 24, samt forskriften § 5-1,\n4.4. hvordan virksomhetene oppfyller bestemmelsene om tilgjengeliggjøring av opplysninger fra helseregistre, jf. forskriften § 3-1,\n5. rutiner virksomheten følger dersom avvik oppstår og opplysninger om hvem som er ansvarlig,\n6. rutiner virksomheten følger for å hindre gjentakelse av avvik og opplysninger om hvem som er ansvarlig,\n7. rutiner for hvordan virksomheten systematisk og regelmessig gjennomgår sin internkontroll for å kontrollere at aktivitetene og resultatene av dem stemmer overens med det system virksomheten har fastlagt, og om det medfører oppfyllelse av personvernforordningen, personopplysningsloven og helseregisterloven,\n8. rutiner for hvordan virksomheten sikrer seg at alle aktuelle og kun gjeldende rutiner blir benyttet, og\n9. rutiner for hvordan virksomheten sikrer at de ansatte har tilstrekkelig kompetanse til å overholde forskriftens krav.",
+      "Skriftlig dokumentasjon skal minst omfatte dokumentasjon av rutiner som nevnt i første ledd nr. 1 til 8. Tilsynsmyndighetene kan gi pålegg om skriftlig dokumentasjon ut over dette dersom det anses påkrevet. Tilsynsmyndighetene kan dispensere fra hele eller deler av dette kapittel når særlige forhold foreligger."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 15 juni 2018 nr. 876 (i kraft 20 juli 2018), 19 nov 2021 nr. 3235."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Den registrertes rett til informasjon og innsyn",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 5-1",
+     "tittel": "(Den registrertes rett til informasjon og innsyn)",
+     "ledd": [
+      "Registrerte har rett til informasjon om Kreftregisteret og innsyn i behandling av helseopplysninger om seg selv i samsvar med personvernforordningen artikkel 13 til 15, jf. helseregisterloven § 24.",
+      "Innsyn i helseopplysninger om en selv skal fortrinnsvis gis gjennom den registrertes sist behandlende lege og helseinstitusjon. Informasjonen skal gis i en forståelig form."
+     ],
+     "endringer": [
+      "Endret ved forskrift 15 juni 2018 nr. 876 (i kraft 20 juli 2018)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 5-2",
+     "tittel": "(Informasjon og innsyn når den registrerte er mindreårig)",
+     "ledd": [
+      "Foreldrene eller andre med foreldreansvar har rett til innsyn etter regler tilsvarende dem i pasient- og brukerrettighetsloven § 3-4."
+     ],
+     "endringer": [
+      "Endret ved forskrift 17 jan 2013 nr. 61."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 5-3",
+     "tittel": "(Frist for å svare på henvendelser om innsyn)",
+     "ledd": [
+      "Begjæringer om innsyn etter § 5-1 skal besvares uten ugrunnet opphold og senest én måned etter henvendelsen kom inn, jf. personvernforordningen artikkel 12 nr. 3.",
+      "Dersom særlige forhold gjør det umulig å svare på henvendelsen innen én måned, kan gjennomføringen utsettes med ytterligere to måneder. Den dataansvarlige skal i så fall gi et foreløpig svar med opplysninger om grunnen til forsinkelsen og sannsynlig tidspunkt for når svar kan gis."
+     ],
+     "endringer": [
+      "Endret ved forskrift 15 juni 2018 nr. 876 (i kraft 20 juli 2018)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Bevaring av helseopplysninger i Kreftregisteret",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 6-1",
+     "tittel": "(Bevaring av helseopplysninger)",
+     "ledd": [
+      "Opplysninger i Kreftregisteret skal oppbevares i ubegrenset tid, med mindre annet følger av denne forskriften eller helseregisterloven § 25."
+     ],
+     "endringer": [
+      "Endret ved forskrift 15 juni 2018 nr. 876 (i kraft 20 juli 2018)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kap7",
+   "overskrift": "Kapittel 7. (Opphevet)",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Opphevet ved forskrift 15 juni 2018 nr. 876 (i kraft 20 juli 2018)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 7-1",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Opphevet ved forskrift 15 juni 2018 nr. 876 (i kraft 20 juli 2018)."
+     ],
+     "opphevet": "2018-07-20"
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-8",
+   "navn": "kap8",
+   "overskrift": "Kapittel 8. Avsluttende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-1",
+     "nummer": "§ 8-1",
+     "tittel": "(Ikraftsetting)",
+     "ledd": [
+      "Forskriften trer i kraft 1. januar 2002."
+     ]
+    }
+   ]
+  }
+ ]
+}

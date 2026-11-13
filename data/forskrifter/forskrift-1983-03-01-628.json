@@ -1,0 +1,157 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-1983-03-01-628",
+ "dokumentid": "SF/forskrift/1983-03-01-628",
+ "departement": [
+  "Helse- og omsorgsdepartementet"
+ ],
+ "etat": [
+  "Helseavd."
+ ],
+ "kunngjort_i": "I 1983 195",
+ "ikraft": "1983-03-01",
+ "siste_endring_ikraft": "2024-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2023-12-21-2281",
+   "tekst": "forskrift/2023-12-21-2281 fra 2024-01-01"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1992-12-04-132/§2d",
+   "tekst": "lov/1992-12-04-132/§2d"
+  },
+  {
+   "ref": "lov/1992-12-04-132/§16",
+   "tekst": "lov/1992-12-04-132/§16"
+  },
+  {
+   "ref": "lov/1992-12-04-132/§22",
+   "tekst": "lov/1992-12-04-132/§22"
+  },
+  {
+   "ref": "lov/1992-12-04-132/§23",
+   "tekst": "lov/1992-12-04-132/§23"
+  }
+ ],
+ "korttittel": "Forskrift om salg av legemidler til ikke-medisinsk bruk",
+ "tittel": "Forskrift om salg av legemidler til ikke-medisinsk bruk",
+ "annet": "Hjemmel: Fastsatt av Sosialdepartementet 1. mars 1983 med hjemmel i lov av 20. juni 1964 nr. 5 om legemidler med videre med endringer ved lov av 3. juni 1977 nr. 53, § 6 annet ledd, jfr. kgl.res. av 5. august 1977 og 26. november 1982, og §§ 20 og 21, jfr. kgl.res. av 16. desember 1977.\nTilføyd hjemmel: Lov 4. desember 1992 nr. 132 om legemidler mv § 16, § 22 og § 23 (tilføyd som følge av dep.gjennomgangen 97/98).\nLov 4. desember 1992 nr. 132 om legemidler m.v. (legemiddelloven) § 2d.\nEndret ved forskrifter 27 des 2000 nr. 1577, 14 feb 2013 nr. 199, 20 sep 2021 nr. 2838, 23 aug 2022 nr. 1572 (i kraft 16 sep 2022), 21 des 2023 nr. 2281 (i kraft 1 jan 2024).",
+ "refid": "forskrift/1983-03-01-628",
+ "eli": "/eli/forskrift/1983/03/01/628",
+ "url": "https://lovdata.no/dokument/SF/forskrift/1983-03-01-628",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Definisjon. Virkeområde",
+   "ledd": [
+    "Med legemidler til ikke-medisinsk bruk forstås i denne forskrift legemidler, herunder narkotika, til teknisk, vitenskapelig og annen ikke-medisinsk bruk. Forskriften omfatter ikke narkotika som er forbudt, jf. § 4 i forskrift 14. februar 2013 nr. 199 om narkotika (narkotikaforskriften)."
+   ],
+   "endringer": [
+    "Endret ved forskrifter 14 feb 2013 nr. 199, 20 sep 2021 nr. 2838."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Salg av legemidler til ikke-medisinsk bruk",
+   "ledd": [
+    "Rett til å selge legemidler til ikke-medisinsk bruk har Norsk Medisinaldepot, apotek og andre som har fått Direktoratet for medisinske produkters tillatelse."
+   ],
+   "endringer": [
+    "Endret ved forskrift 27 des 2000 nr. 1577 (i kraft 1 jan 2001), 21 des 2023 nr. 2281 (i kraft 1 jan 2024)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Kjøp av legemidler til ikke-medisinsk bruk",
+   "ledd": [
+    "Rett til kjøp av legemidler til ikke-medisinsk bruk har\na. de som har rett til å selge samme legemiddel, jf. § 2;\nb. bestyrer av offentlige og offentlig godkjente laboratorier, vitenskapelige institusjoner og undervisningsinstitusjoner. Ved kjøp av narkotika må Direktoratet for medisinske produkters tillatelse foreligge;\nc. leger, tannleger og veterinærer til laboratoriebruk;\nd. bedrifter, institusjoner eller personer over 18 år som har fått særskilt tillatelse fra Direktoratet for medisinske produkter.",
+    "For ikke-reseptpliktige legemidler kreves ikke særskilt kjøpetillatelse."
+   ],
+   "endringer": [
+    "Endret ved forskrifter 27 des 2000 nr. 1577 (i kraft 1 jan 2001), 14 feb 2013 nr. 199, 23 aug 2022 nr. 1572 (i kraft 16 sep 2022), 21 des 2023 nr. 2281 (i kraft 1 jan 2024)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Legitimasjon, rekvisisjon m.v.",
+   "ledd": [
+    "Selger skal påse at kjøper har rett til å kjøpe legemidler til ikke-medisinsk bruk. Bud må være over 16 år og vise fullmakt. Er kjøperen ukjent for selger, skal kjøper vise legitimajson.",
+    "Ved kjøp av reseptpliktige legemidler, herunder narkotika skal kjøpetillatelsen innleveres til selger. Kjøpere som ikke trenger særlig tillatelse fra Direktoratet for medisinske produkter skal i stedet levere skriftlig rekvisisjon undertegnet av den som har rett til kjøp. Rekvisisjonen skal inneholde opplysninger om hva legemidlet skal brukes til.",
+    "Rekvisisjon eller kjøpestillatelse skal oppbevares hos selger i 1 år. Gjelder dokumentet narkotika, skal det oppbevares hos selger i 3 år. Om narkotikaregnskap vises til § 13 og § 14 i forskrift 14. februar 2013 nr. 199 om narkotika (narkotikaforskriften)."
+   ],
+   "endringer": [
+    "Endret ved forskrifter 27 des 2000 nr. 1577 (i kraft 1 jan 2001), 14 feb 2013 nr. 199, 20 sep 2021 nr. 2838, 21 des 2023 nr. 2281 (i kraft 1 jan 2024)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Emballasje",
+   "ledd": [
+    "Legemidler til ikke-medisinsk bruk må bare leveres i sterk, hel og lukket emballasje. Det må ikke brukes flasker eller andre beholdere som p.g.a. sin vanlige bruk kan føre til farlige forvekslinger."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "Merking",
+   "ledd": [
+    "Legemidler til ikke-medisinsk bruk skal ved utlevering ha følgende merking, eventuelt både på ytre og indre emballasje:\n1. Legemidlets handelsnavn og INN-navn. Hvis INN-navn ikke er fastsatt brukes BAN-navn e.l. eller stoffets betegnelse etter vanlig kjemisk nomenklatur. Ved salg av sammensatt preparat skal art og mengde av legemidlene angis.\n2. Navn og adresse til den som har tilvirket eller pakket varen eller innført varen i pakket stand.\n3. Generell advarselstekst:\n«Til ikke-medisinsk bruk. Oppbevares utilgjengelig for barn, adskilt fra nærings- og nytelselsmidler og dyrefor.»\n4. Tilleggsadvarsel:\na. Legemidler som er oppført i Stofflisten, jfr. § 5 i forskrift om merking, omsetning m.v. av kjemiske stoffer og produkter som kan medføre helsefare av 26. november 1982, skal merkes i henhold til bestemmelsene der.\nb. Narkotika skal ha giftmerke og merkes: «Giftig ved svelging».\nAndre reseptpliktige legemidler skal merkes: «Kan medføre forgiftning ved svelging.»\nVed merking av legemidler (herunder narkotika) som kan tas opp gjennom huden eller ved innånding skal tilleggsadvarselen tilføyes «....(ved svelging), innånding eller hudkontakt».\n5. Andre advarsler.\nLegemidler med spesielle egenskaper som kan medføre helsefare skal påføres særskilt advarselstekst, f.eks. «Kan fremkalle allergi», «Kan fremkalle kreft», «Irriterende», «Etsende». Dette gjelder ikke for legemidler som merkes etter pkt. 4 a).",
+    "Advarselsmerkingen skal være tydelig og skille seg ut fra annen tekst m.v. på pakningen."
+   ],
+   "endringer": [
+    "Endret ved forskrift 14 feb 2013 nr. 199."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 7",
+   "tittel": "Oppbevaring. Bruk",
+   "ledd": [
+    "Legemidler til ikke-medisinsk bruk skal oppbevares forsvarlig, jfr. § 6 nr. 3 a).",
+    "Narkotika og andre reseptpliktige legemidler skal oppbevares i låst skap e.l.",
+    "Legemidler til ikke-medisinsk bruk skal oppbevares i den emballasje de er utlevert i fra selger.",
+    "Legemidler til ikke-medisinsk bruk må bare brukes til det formål de er utlevert til og må ikke overlates til uvedkommende."
+   ],
+   "endringer": [
+    "Endret ved forskrift 14 feb 2013 nr. 199."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-8",
+   "nummer": "§ 8",
+   "tittel": "Unntak",
+   "ledd": [
+    "Direktoratet for medisinske produkter kan gjøre unntak fra denne forskrift."
+   ],
+   "endringer": [
+    "Endret ved forskrifter 27 des 2000 nr. 1577 (i kraft 1 jan 2001), 21 des 2023 nr. 2281 (i kraft 1 jan 2024)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-9",
+   "nummer": "§ 9",
+   "tittel": "Ikrafttredelse. Overgangsbestemmelse",
+   "ledd": [
+    "Denne forskrift trer i kraft straks. Bestemmelsene om merking i § 6 skal være gjennomført innen 1. mars 1984."
+   ]
+  }
+ ]
+}

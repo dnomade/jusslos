@@ -1,0 +1,410 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2025-04-05-619",
+ "dokumentid": "SF/forskrift/2025-04-05-619",
+ "departement": [
+  "Justis- og beredskapsdepartementet"
+ ],
+ "etat": [
+  "Kriminalomsorgsdirektoratet"
+ ],
+ "ikraft": "2025-05-01",
+ "endrer": "forskrift/2018-04-26-635",
+ "hjemmel": [
+  {
+   "ref": "forskrift/2002-02-22-183/§2-2",
+   "tekst": "forskrift/2002-02-22-183/§2-2"
+  },
+  {
+   "ref": "lov/2001-05-18-21/§5",
+   "tekst": "lov/2001-05-18-21/§5"
+  },
+  {
+   "ref": "lov/2001-05-18-21/§10a",
+   "tekst": "lov/2001-05-18-21/§10a"
+  },
+  {
+   "ref": "lov/2001-05-18-21/§31",
+   "tekst": "lov/2001-05-18-21/§31"
+  },
+  {
+   "ref": "lov/2001-05-18-21/§37",
+   "tekst": "lov/2001-05-18-21/§37"
+  }
+ ],
+ "kunngjort": "2025-04-07 14:35",
+ "tittel": "Forskrift om aspiranter i kriminalomsorgen",
+ "annet": "Hjemmel: Fastsatt av Kriminalomsorgsdirektoratet 5. april 2025 med hjemmel i lov 18. mai 2001 nr. 21 om gjennomføring av straff mv. (straffegjennomføringsloven) § 5, § 10a, § 31 og § 37, og forskrift 22. februar 2002 nr. 183 om straffegjennomføring § 2-2.",
+ "refid": "forskrift/2025-04-05-619",
+ "eli": "/eli/forskrift/2025/04/05/619",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2025-04-05-619",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Virkeområde og definisjoner",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Forskriften gjelder for aspiranter som er ansatt for å gjennomgå utdanning som kvalifiserer for ansettelse som fengselsbetjent i kriminalomsorgen, jf. forskrift om straffegjennomføring § 2-2."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Definisjoner og presiseringer",
+     "ledd": [
+      "Kriminalomsorgens høgskole og utdanningssenter (KRUS) har ansvar for å utdanne aspirantene til fengselsbetjenter.",
+      "Fengselsbetjentutdanningen består av praktisk og teoretisk innhold. Fullført og bestått utdanning gir 120 studiepoeng og graden høgskolekandidat i straffegjennomføring. Fengselsbetjentutdanningen tilbys som heltids- og deltidsutdanning.",
+      "Fengselsbetjentutdanningen er en lønnet praksisutdanning, jf. statsansatteloven § 9 første ledd bokstav c. Under utdanningen betegnes den ansatte som aspirant. For å være aspirant i kriminalomsorgen må man ha aktiv studierett ved fengselsbetjentutdanningen og ha et ansettelsesforhold som deltidsaspirant ved en lokal opplæringsenhet, eller som heltidsaspirant ved KRUS.",
+      "Med plikttjeneste menes den tjenesten aspiranten pålegges å utføre for kriminalomsorgen som følge av at utdanningen er lønnet. Heltidsaspiranter gjennomfører et toårig studium med påfølgende pliktår, jf. kapittel 6. Deltidsaspiranter gjennomfører et treårig deltidsstudium der pliktåret inngår som en del av studieforløpet, jf. kapittel 7.",
+      "Tjenestested er kriminalomsorgen. Arbeidssted er en enhet i kriminalomsorgen.",
+      "Aspirantnemnda er et av ansettelsesorganene i kriminalomsorgen. Aspirantnemnda har ansettelsesmyndighet for heltidsaspiranter. Lokalt ansettelsesråd har ansettelsesmyndighet for deltidsaspiranter. Sammensetningen av ansettelsesorganene, oppnevning av ansattrepresentanter og saksbehandling fremgår av personalreglement for kriminalomsorgen. Medlemmer av ansettelsesorganer har taushetsplikt etter forvaltningsloven § 13 og straffegjennomføringsloven § 7."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Om fengselsbetjentutdanningen",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 3",
+     "tittel": "Om Kriminalomsorgens høgskole og utdanningssenter KRUS",
+     "ledd": [
+      "KRUS har ansvar for den akkrediterte fengselsbetjentutdanningen. Høgskolen er delvis innlemmet under lov om universiteter og høyskoler."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 4",
+     "tittel": "Formål og innhold",
+     "ledd": [
+      "Fengselsbetjentutdanningen skal utvikle aspirantenes kompetanse om fengselsbetjentens rolle og oppgaver i samfunnet og i kriminalomsorgen. Aspirantene skal tilegne seg nødvendige kunnskaper, ferdigheter og gode yrkesetiske holdninger, slik at de blir skikket til tjeneste i kriminalomsorgen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 5",
+     "tittel": "Rammeplan og studieplan",
+     "ledd": [
+      "Kriminalomsorgsdirektoratet (KDI) har ansvar for å utarbeide en rammeplan for fengselsbetjentutdanningen. Rammeplanen beskriver det overordnete læringsutbyttet kandidaten skal tilegne seg gjennom utdanningen. KRUS har ansvar for å utarbeide studie- og emneplaner for heltids- og deltidsutdanningen. Studieplanene skal beskrive organiseringen, lengden og innholdet i utdanningene. Studieplanene skal godkjennes av KDI. Emneplanene beskriver innholdet og læringsutbyttet i de enkelte emnene."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Opptak til fengselsbetjentutdanningen",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 6",
+     "tittel": "Rekruttering til utdanningen",
+     "ledd": [
+      "KRUS har ansvar for å kunngjøre og gjennomføre opptak til fengselsbetjentutdanningen. KRUS kan utarbeide retningslinjer for opptaksprosessen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 7",
+     "tittel": "Opptakskrav til fengselsbetjentutdanningen",
+     "ledd": [
+      "Søkeren må ha generell studiekompetanse i samsvar med forskrift om opptak til høgare utdanning kapittel 2.",
+      "Søkere som ikke har generell studiekompetanse, har krav på å bli vurdert etter unntaksbestemmelsene i forskrift om høgare utdanning kapittel 3.",
+      "Søkeren må oppfylle følgende spesielle opptakskrav i tillegg til generell studiekompetanse:\na. Vandel det ikke er noe å utsette på, jf. straffegjennomføringsloven § 8\nb. Fylt 20 år i opptaksåret\nc. Førerkort klasse B\nd. Oppfylle medisinske krav fastsatt av KRUS\ne. Tilfredsstillende fysikk, herunder bestå en fysisk funksjonstest fastsatt av KRUS\nf. Personlige egenskaper som gjør søkeren kvalifisert for tjeneste i kriminalomsorgen.",
+      "Kravene a til d må dokumenteres av søkeren. Kravene e og f blir vurdert gjennom opptaksprøver. Reelle søkere for opptak må levere uttømmende politiattest og legeerklæring.",
+      "Dersom en søker unnlater å oppgi opplysninger eller oppgir falsk dokumentasjon, og dermed får opptak på feilaktig grunnlag, kan det få konsekvenser for retten til å fullføre utdanningen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 8",
+     "tittel": "Vurdering av søkerne",
+     "ledd": [
+      "De søkerne som er best kvalifisert i henhold til høgskolens retningslinjer for poengberegning, kan innkalles til opptaksdag der de gjennomgår fastsatte prøver. Prøvene gir grunnlag for å vurdere om søkeren har nødvendige egenskaper og holdninger som gjør vedkommende egnet til stilling som aspirant i kriminalomsorgen. Det skal gjøres en totalvurdering av søkernes kvalifikasjoner ut fra kvalifikasjonskravene i kunngjøringen."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Ansettelse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 9",
+     "tittel": "Kunngjøringens innhold",
+     "ledd": [
+      "Kunngjøringen skal inneholde opplysninger om opptakskrav, midlertidighet og prøvetid, plikttjeneste og krav til legeerklæring og politiattest.",
+      "For heltidsutdanningen skal det presiseres at ansettelsen medfører plikttjeneste som gjennomføres umiddelbart etter at utdanningen er fullført. Det skal opplyses om plikttjenestens varighet. Videre skal det informeres om at lønns- og utdanningsutgifter kan kreves refundert hvis plikttjenesten ikke fullføres, samt andre særvilkår som gjelder ansettelsen.",
+      "For deltidsutdanningen skal det presiseres at ansettelsen medfører plikttjeneste som gjennomføres i løpet av utdanningsperioden. Det skal opplyses om plikttjenestens omfang, samt andre særvilkår som gjelder ansettelsen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 10",
+     "tittel": "Ansettelsesmyndighet",
+     "ledd": [
+      "På bakgrunn av krav til stillingen og opptaksprosessen vurderer aspirantnemnda forslag til ansettelse av heltidsaspiranter utarbeidet av KRUS.",
+      "Når det gjelder deltidsaspiranter, vurderer aspirantnemnda på bakgrunn av krav til stillingen og opptaksprosessen hvilke kandidater som er kvalifisert til utdanningen. Lokalt ansettelsesråd beslutter deretter rangering av de kvalifiserte kandidatene og fatter vedtak om ansettelse av deltidsaspiranter ved sin enhet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 11",
+     "tittel": "Arbeidsgiveransvar",
+     "ledd": [
+      "Under utdanningen ansettes aspirantene i en midlertidig stilling, jf. statsansatteloven § 9 første ledd bokstav c.",
+      "KRUS har arbeidsgiveransvar for heltidsaspirantene. Under utdanningens praksisperiode delegeres personaloppfølgingen til opplæringsenheten.",
+      "Lokal enhet i kriminalomsorgen har arbeidsgiveransvar for deltidsaspirantene under hele utdannings- og ansettelsesperioden."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 12",
+     "tittel": "Permisjon og utsettelse",
+     "ledd": [
+      "KRUS utarbeider retningslinjer for permisjon og utsettelse i aspirantperioden."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-5",
+     "nummer": "§ 13",
+     "tittel": "Krav til opplæringsenheter",
+     "ledd": [
+      "KRUS fastsetter de krav som stilles for å være opplæringsenhet i fengselsbetjentutdanningene.",
+      "KRUS avgjør, etter drøfting med tjenestemannsorganisasjonene, hvilke enheter som skal være opplæringsenheter."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-6",
+     "nummer": "§ 14",
+     "tittel": "Prøvetid",
+     "ledd": [
+      "Under hele utdanningen er aspiranten ansatt på prøve og underlagt skikkethetsvurdering, jf. statsansatteloven § 15 sjette ledd. Aspiranten skal få nødvendig veiledning, oppfølging og vurdering av arbeidet i prøvetiden, jf. statsansatteloven § 15 tredje ledd.",
+      "Aspiranten må tilpasse seg teoretisk og praktisk arbeid på en tilfredsstillende måte og utvise holdninger og atferd som er forenlig med kriminalomsorgens verdier og retningslinjer. Dersom aspiranten ikke tilfredsstiller rimelige krav til dyktighet eller pålitelighet, vil aspirantens skikkethet vurderes og aspiranten kan bli sagt opp fra sin stilling jf. statsansatteloven § 15 fjerde ledd.",
+      "Dersom aspiranten ikke oppnår de faglige eller praktiske kravene i utdanningen, eller på annen måte ikke er skikket for yrket, vil aspiranten miste sin studierett på fengselsbetjentutdanningen og aspiranten vil ikke kunne fullføre opplæringen på en tilfredsstillende måte. Aspiranten kan da sies opp fra sin stilling jf. statsansatteloven § 15 sjette ledd.",
+      "Under prøvetiden er det én måned gjensidig oppsigelsesfrist jf. statsansatteloven § 15 sjette ledd."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Disiplinærbehandling under utdanningen",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 15",
+     "tittel": "Oppsigelse, avskjed, suspensjon og ordenstraff",
+     "ledd": [
+      "Oppsigelse, avskjed, suspensjon og ordenstraff som følge av andre forhold enn omtalt i statsansatteloven § 15 (prøvetid for statsansatte) følger av bestemmelsene i statsansatteloven og personalreglement for kriminalomsorgen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 16",
+     "tittel": "Beslutningsmyndighet, saksbehandling og klage",
+     "ledd": [
+      "Aspirantnemnda skal behandle saker som angår skikkethetsvurdering. Nemnda har fullmakt til å treffe vedtak om ordensstraff, oppsigelse, suspensjon og avskjed av heltidsaspiranter og til å avslutte studieretten på fengselsbetjentutdanningen for deltidsaspiranter.",
+      "Lokal ansettelsesmyndighet skal behandle saker som angår deltidsstudenter og har fullmakt til å treffe vedtak om ordensstraff, oppsigelse, suspensjon og avskjed.",
+      "Dersom saken krever særlig rask avgjørelse, kan arbeidsgiver treffe vedtak om å suspendere en aspirant eller overføre aspiranten til annen tjeneste, jf. statsansatteloven §§ 29 og 30.",
+      "Dersom en aspirant i medhold av forvaltningsloven påklager et vedtak om ordensstraff, oppsigelse, suspensjon eller avskjed, er klageinstansen sentralt ansettelsesråd jf. statsansatteloven § 33 og personalreglement for kriminalomsorgen."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Plikttjeneste etter heltidsutdanning",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 17",
+     "tittel": "Organisering av plikttjenesten",
+     "ledd": [
+      "En heltidsaspirant som har fullført og bestått fengselsbetjentutdanningen, har rett og plikt til å tjenestegjøre i full stilling i kriminalomsorgen i ett år etter avsluttet utdanning.",
+      "Plikttjenesten forlenges tilsvarende hvis søknad om redusert stilling innvilges.",
+      "Ved fravær som følge av foreldrepermisjon utover lovbestemt kvote forlenges plikttjenesten tilsvarende lengden av permisjonen.",
+      "De ferdig utdannede fengselsbetjentene er midlertidig ansatt i plikttjenesten, jf. forskrift til statsansatteloven § 5 første ledd jf. statsansatteloven § 9, første ledd bokstav c.",
+      "Etter drøfting med tjenestemannsorganisasjonene på sentralt nivå fastsetter KDI hvilke enheter som skal motta de ferdig utdannede fengselsbetjentene for plikttjeneste.",
+      "KRUS fastsetter retningslinjer for søknad og utvelgelse til plikttjeneste på enhetene. De ferdig utdannede fengselsbetjentene er underlagt straffegjennomføringslovens bestemmelser om plikt til forflytning."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 18",
+     "tittel": "Arbeidsavtale for plikttjenesten",
+     "ledd": [
+      "Enheten som skal motta en ferdig utdannet fengselsbetjent til plikttjeneste inngår arbeidsavtale med vedkommende. Avtalen skal omfatte plikten til refusjon av lønn og andre utdanningsutgifter hvis den ferdig utdannede fengselsbetjenten unnlater å gjennomføre plikttjeneste."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-3",
+     "nummer": "§ 19",
+     "tittel": "Regler om refusjon av lønn og utdanningsutgifter",
+     "ledd": [
+      "KRUS fastsetter nærmere retningslinjer om refusjon av lønn og andre utdanningsutgifter for ferdig utdannede fengselsbetjenter som unnlater å oppfylle avtalen om plikttjeneste."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-4",
+     "nummer": "§ 20",
+     "tittel": "Endring av tjenestested etter søknad",
+     "ledd": [
+      "Søknad om å endre arbeidssted i pliktåret sendes tjenestevei til ledelsen på nytt arbeidssted med godkjenning fra enhetsleder på nåværende arbeidssted. Søknaden kan innvilges hvis arbeidsstedet som skal motta den ferdig utdannede fengselsbetjenten samtykker. Bare tungtveiende grunner kan gi grunnlag for å endre arbeidssted."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-5",
+     "nummer": "§ 21",
+     "tittel": "Fritak og utsettelse av plikttjenesten",
+     "ledd": [
+      "KRUS avgjør alle søknader om utsettelse eller fritak av plikttjenesten.",
+      "En kommende pliktårsbetjent tillates ikke å tiltre pliktåret før utdanningen er fullført og bestått i sin helhet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-6",
+     "nummer": "§ 22",
+     "tittel": "Overgang fra plikttjeneste til ordinær tjeneste",
+     "ledd": [
+      "En fengselsbetjent i plikttjeneste kan søke ledige stillinger i kriminalomsorgen.",
+      "Enheter som mottar pliktårsbetjenter skal lyse ut sine ledige faste stillinger innen rimelig tid før pliktårets utløp.",
+      "Hvis fengselsbetjenten får tilbud om en fast eller midlertidig stilling ved enheten der vedkommende utfører plikttjeneste, kan resterende plikttjeneste gjennomføres i denne stillingen.",
+      "Hvis en fengselsbetjent i plikttjeneste får tilbud om fast eller midlertidig stilling ved en annen enhet, kan vedkommende først tiltre ny stilling etter gjennomført plikttjeneste. Tiltredelsen kan skje tidligere hvis avgivende enhet samtykker. Plikttjeneste som gjenstår blir overført til ny enhet."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kap7",
+   "overskrift": "Kapittel 7. Plikttjeneste for deltidsaspiranter",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 23",
+     "tittel": "Organisering av plikttjenesten for deltidsaspiranter",
+     "ledd": [
+      "Deltidsaspirantene gjennomfører plikttjenesten samtidig som de tar fengselsbetjentutdanningen. Deltidsaspiranter har plikttjeneste i 40 prosent av stillingen og gjennomfører utdanningen i 60 prosent av stillingen. Utdanningen og plikttjenesten fullføres over en periode på tre år.",
+      "Plikttjenesten forlenges tilsvarende hvis søknad om redusert stilling innvilges."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-2",
+     "nummer": "§ 24",
+     "tittel": "Endring av tjenestested etter søknad for deltidsaspiranter",
+     "ledd": [
+      "Søknad om å endre arbeidssted sendes tjenestevei til KRUS med godkjenning fra enhetsleder på nåværende arbeidssted. KRUS behandler søknaden i dialog med involverte enheter. Søknaden kan innvilges hvis mottagende enhet er godkjent som opplæringsenhet for fengselsbetjentutdanningen og de to enhetene blir enige om en overgangsordning. Bare tungtveiende grunner kan gi grunnlag for å endre arbeidssted."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-3",
+     "nummer": "§ 25",
+     "tittel": "Fritak og utsettelse av plikttjeneste for deltidsaspiranter",
+     "ledd": [
+      "KRUS mottar alle søknader om utsettelse av plikttjeneste fra deltidsaspiranter. KRUS involverer enheten der deltidsaspiranten er ansatt før vedtak fattes. En deltidsaspirant som søker om utsettelse, må utsette både utdanningen og plikttjenesten."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-8",
+   "navn": "kap8",
+   "overskrift": "Kapittel 8. Øvrige bestemmelser og ikrafttredelse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-1",
+     "nummer": "§ 26",
+     "tittel": "Opphør av tjeneste",
+     "ledd": [
+      "En fengselsbetjent som har gjennomført utdanning og plikttjeneste fratrer sin stilling uten oppsigelse ved endt plikttjeneste, men har krav på minst en måneds varsel, jf. statsansatteloven § 17."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-2",
+     "nummer": "§ 27",
+     "tittel": "Beregning av tjenestetid",
+     "ledd": [
+      "Beregning av tjenestetid foretas i henhold til reglene i statsansatteloven § 23 og forskrift til statsansatteloven § 9."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-3",
+     "nummer": "§ 28",
+     "tittel": "Arbeid utenfor tjenesten",
+     "ledd": [
+      "Aspiranter plikter å følge arbeidsgivers retningslinjer for bierverv."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-4",
+     "nummer": "§ 29",
+     "tittel": "Utfyllende bestemmelser",
+     "ledd": [
+      "KDI kan fastsette utfyllende bestemmelser til denne forskriften."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-5",
+     "nummer": "§ 30",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Forskriften trer i kraft 1. mai 2025.",
+      "Samtidig oppheves forskrift 26. april 2018 nr. 635 om aspiranter i kriminalomsorgen."
+     ]
+    }
+   ]
+  }
+ ]
+}

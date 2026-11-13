@@ -1,0 +1,85 @@
+{
+ "skjema": "1.0",
+ "type": "lov",
+ "datokode": "LOV-1965-06-25-2",
+ "dokumentid": "NL/lov/1965-06-25-2",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "ikraft": "1965-07-01",
+ "siste_endring_ikraft": "2020-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "lov/2019-03-15-6",
+   "tekst": "lov/2019-03-15-6 fra 2020-01-01"
+  }
+ ],
+ "rettsomrade": [
+  "Bank, finans og regnskapsrett > Banker",
+  "Bank, finans og regnskapsrett > Obligasjoner"
+ ],
+ "siste_rettelse": "2021-09-27 (faglige fotnoter fjernet)",
+ "korttittel": "Kredittloven – pkrregll",
+ "tittel": "Lov om adgang til regulering av penge- og kredittforholdene [kredittloven]",
+ "annet": "Loven er opphevet av lov 20 juni 2003 nr. 44, med unntak av § 15, § 16 og § 18 (ikr. 1 jan 2004 iflg. vedtak 19 des 2003 nr. 1600).",
+ "refid": "lov/1965-06-25-2",
+ "eli": "/eli/lov/1965/06/25/02",
+ "url": "https://lovdata.no/dokument/NL/lov/1965-06-25-2",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Om renteregulering og emisjonskontroll.",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 15",
+     "tittel": null,
+     "ledd": [
+      "Kongen kan ved forskrift bestemme at lån mot utstedelse av ihendehaverobligasjoner eller obligasjoner registrert i en verdipapirsentral eller lån som ellers gis av flere långivere sammen, ikke skal kunne tas opp uten etter samtykke fra Kongen."
+     ],
+     "endringer": [
+      "Endret ved lover 18 juni 1971 nr. 75, 14 juni 1985 nr. 70, 5 juli 2002 nr. 64 (ikr. 1 jan 2003 iflg. forskr. 20 des 2002 nr. 1627), 15 mars 2019 nr. 6 (ikr. 1 jan 2020 iflg. res. 6 des 2019 nr. 1656)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Om tilsyn, strafferenter og straffebestemmelser.",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 16",
+     "tittel": null,
+     "ledd": [
+      "Kongen gir bestemmelser om tilsyn med at de forskrifter som er gitt i medhold av loven overholdes.",
+      "Institusjonene som omfattes av loven plikter etter anmodning i det enkelte tilfelle eller etter generelle bestemmelser som gis om utøvingen av tilsynet å gi tilsynsmyndigheten de opplysninger som er nødvendige for kontrollen.",
+      "Tilsynsmyndigheten skal ha adgang til institusjonenes regnskaper.",
+      "Tilsynsmyndighetens tjenestemenn har taushetsplikt overfor uvedkommende om de opplysninger som de blir kjent med i sin virksomhet. Taushetsplikten skal likevel ikke være til hinder for utveksling av informasjon (samordning) som forutsatt i lov om Oppgaveregisteret."
+     ],
+     "endringer": [
+      "Endret ved lov 6 juni 1997 nr. 35 (ikr. 1 nov 1997 iflg. res. 10 okt 1997 nr. 1088)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 18",
+     "tittel": null,
+     "ledd": [
+      "Den som forsettlig eller aktløst overtrer bestemmelser som er gitt i medhold av §§ 11 og 13-15, straffes med bøter."
+     ],
+     "endringer": [
+      "Endret ved lover 20 juli 1991 nr. 66, 19 juni 2015 nr. 65 (ikr. 1 okt 2015)."
+     ]
+    }
+   ]
+  }
+ ]
+}

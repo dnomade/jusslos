@@ -1,0 +1,139 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2025-10-23-2080",
+ "dokumentid": "SF/forskrift/2025-10-23-2080",
+ "departement": [
+  "Arbeids- og inkluderingsdepartementet"
+ ],
+ "etat": [
+  "Pensjonsavdelingen"
+ ],
+ "ikraft": "2026-01-01",
+ "hjemmel": [
+  {
+   "ref": "lov/1949-07-28-26/§26q",
+   "tekst": "lov/1949-07-28-26/§26q"
+  },
+  {
+   "ref": "lov/1949-07-28-26/§26s",
+   "tekst": "lov/1949-07-28-26/§26s"
+  },
+  {
+   "ref": "lov/1962-06-22-12/§11q",
+   "tekst": "lov/1962-06-22-12/§11q"
+  }
+ ],
+ "kunngjort": "2025-10-24 13:40",
+ "tittel": "Forskrift om reduksjon av tidligpensjon og livsvarig reduksjon av særalderspåslag på grunn av inntekt",
+ "annet": "Hjemmel: Fastsatt av Arbeids- og inkluderingsdepartementet 23. oktober 2025 med hjemmel i lov 28. juli 1949 nr. 26 om Statens pensjonskasse § 26q og § 26s og lov 22. juni 1962 nr. 12 om pensjonsordning for sykepleiere § 11q.",
+ "refid": "forskrift/2025-10-23-2080",
+ "eli": "/eli/forskrift/2025/10/23/2080",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2025-10-23-2080",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Hva forskriften gjelder",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Forskriften gir utfyllende regler om reduksjon av tidligpensjon etter lov om Statens pensjonskasse § 26q og livsvarig reduksjon av særalderspåslag etter lov om Statens pensjonskasse § 26s og lov om pensjonsordning for sykepleiere § 11q.",
+      "Med inntekt i denne forskriften menes pensjonsgivende inntekt etter folketrygdloven § 3-15 og inntekt av samme art fra utlandet."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Reduksjon av tidligpensjon etter lov om Statens pensjonskasse § 26q",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 2",
+     "tittel": "Inntekt som ikke skal føre til reduksjon av tidligpensjon",
+     "ledd": [
+      "Følgende inntekter skal ikke føre til reduksjon i pensjonen, selv om de defineres som pensjonsgivende inntekt i folketrygden:\na. Erstatning for inntektstap ved erstatningsoppgjør etter skadeserstatningsloven § 3-1, yrkesskadeforsikringsloven § 13 eller pasientskadeloven § 4 første ledd.\nb. Inntekt, herunder feriepenger, som stammer fra avsluttet arbeid eller virksomhet før det enkelte uttaket av tidligpensjon startet (etterslepsinntekt).\nc. Etterbetaling av trygdeytelser som gjelder for tidsrom før det enkelte uttaket av tidligpensjon startet.",
+      "Medlemmet må selv opplyse om og dokumentere slike inntekter."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 3",
+     "tittel": "Utfyllende bestemmelser om reduksjon av tidligpensjon",
+     "ledd": [
+      "Tidligpensjonen reduseres når inntekten i et kalenderår overstiger inntektsgrensen fastsatt etter lov om Statens pensjonskasse § 26q. Inntektsgrensen per kalenderår vektes forholdsmessig ut fra pensjonsgrunnlaget i medlemspliktig stilling per måned etter uttak av tidligpensjon og grunnbeløpet i den aktuelle måneden. Dersom pensjonisten har meldt fra om forventet inntekt gjennom et kalenderår, kan Statens pensjonskasse gjennomføre en jevn reduksjon av tidligpensjon gjennom kalenderåret, selv om inntekten varierer gjennom året."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 4",
+     "tittel": "Utfyllende bestemmelser om etteroppgjør av tidligpensjon",
+     "ledd": [
+      "Dersom medlemmet i et kalenderår har fått utbetalt for lite eller for mye tidligpensjon, skal det foretas et etteroppgjør. Etteroppgjøret skal foretas når skatteoppgjøret foreligger.",
+      "Etteroppgjøret skal baseres på hele kalenderår. I uttaksår eller opphørsår skal likevel etteroppgjøret avgrenses til perioden for mottak av tidligpensjon og inntekten i samme periode.",
+      "Etterbetaling av for lite utbetalt tidligpensjon kan unnlates hvis beløpet er mindre enn 25 prosent av rettsgebyret, jf. rettsgebyrloven. Tilbakekreving av for mye utbetalt tidligpensjon kan unnlates hvis beløpet er mindre enn ett rettsgebyr.",
+      "Avregning av for mye utbetalt tidligpensjon mot framtidige utbetalinger av uførepensjon og alderspensjon fra en tjenestepensjonsordning kan foretas med et beløp opp til 25 prosent av samlet månedlig utbetaling av ytelser fra tjenestepensjonsordningen.",
+      "Dersom medlemmet døde i samme år som etteroppgjøret gjelder for, skal det unnlates å gjennomføre etteroppgjør. Dersom dødsfallet er senere enn det året etteroppgjøret gjelder for, skal tilbakekreving unnlates, mens etterbetaling gjennomføres etter de vanlige reglene.",
+      "Etteroppgjør utsettes ikke som følge av klage over skattefastsettingen."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Livsvarig reduksjon av særalderspåslag etter lov om Statens pensjonskasse § 26s og lov om pensjonsordning for sykepleiere § 11q",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 5",
+     "tittel": "Inntekt som ikke skal føre til reduksjon av særalderspåslag",
+     "ledd": [
+      "Følgende inntekter skal ikke føre til reduksjon i særalderspåslaget, selv om de defineres som pensjonsgivende inntekt i folketrygden:\na. Erstatning for inntektstap ved erstatningsoppgjør etter skadeserstatningsloven § 3-1, yrkesskadeforsikringsloven § 13 eller pasientskadeloven § 4 første ledd.\nb. Inntekt, herunder feriepenger, som stammer fra avsluttet arbeid eller virksomhet før det enkelte uttaket av særalderspåslaget startet (etterslepsinntekt).\nc. Etterbetaling av trygdeytelser som gjelder for tidsrom før det enkelte uttaket av særalderspåslaget startet.",
+      "Medlemmet må selv opplyse om og dokumentere slike inntekter."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 6",
+     "tittel": "Utfyllende bestemmelser om livsvarig reduksjon av særalderspåslag som følge av inntekt over inntektsgrensen",
+     "ledd": [
+      "Ved hver reduksjon av særalderspåslaget, skal det til enhver tid gjeldende nivået på særalderspåslaget benyttes som beregningsgrunnlag.",
+      "Livsvarig reduksjon utsettes ikke som følge av klage over skattefastsettingen."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Ikrafttredelse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 7",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Forskriften trer i kraft 1. januar 2026."
+     ]
+    }
+   ]
+  }
+ ]
+}

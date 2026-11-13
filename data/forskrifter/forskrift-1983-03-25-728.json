@@ -1,0 +1,91 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-1983-03-25-728",
+ "dokumentid": "SF/forskrift/1983-03-25-728",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Økonomiavd."
+ ],
+ "kunngjort_i": "I 1983 259",
+ "ikraft": "1983-03-25",
+ "siste_endring_ikraft": "1983-11-25",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/1983-11-25-1700",
+   "tekst": "forskrift/1983-11-25-1700"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1962-12-14-1/§4",
+   "tekst": "lov/1962-12-14-1/§4"
+  },
+  {
+   "ref": "lov/1962-12-14-1/§6",
+   "tekst": "lov/1962-12-14-1/§6"
+  },
+  {
+   "ref": "lov/1962-12-14-1/§10",
+   "tekst": "lov/1962-12-14-1/§10"
+  },
+  {
+   "ref": "lov/1962-12-14-1/§12",
+   "tekst": "lov/1962-12-14-1/§12"
+  }
+ ],
+ "korttittel": "Forskrift om rentesats, fondsavsetninger",
+ "tittel": "Forskrift om skattefrie fondsavsetninger. Delegering av myndighet.",
+ "annet": "Fastsatt ved kgl.res. av 25. mars 1983. Fremmet av Finans- og tolldepartementet.",
+ "refid": "forskrift/1983-03-25-728",
+ "eli": "/eli/forskrift/1983/03/25/728",
+ "url": "https://lovdata.no/dokument/SF/forskrift/1983-03-25-728",
+ "innhold": [
+  {
+   "type": "tekst",
+   "tekst": "Med hjemmel i lov av 14. desember 1962 om skattefrie fondsavsetninger §§ 4, 6, 10 og 12 fastsettes følgende forskrifter om rentegodtgjørelse av avsatte beløp, rente ved etterligning og delegasjon av fullmakt:"
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": null,
+     "ledd": [
+      "Avsatte midler som er innsatt på særskilt konto i Norges Bank forrentes med 3 1/2 prosent pro anno.",
+      "Det ytes likevel ikke renter for avsetninger dersom de disponeres slik at de skal skattlegges ved etterligning."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": null,
+     "ledd": [
+      "Når avsatte midler skal skattlegges ved etterligning, jfr. lovens §§ 6 og 10, skal skattyteren svare rente av skattebeløpet med 6 prosent pro anno, regnet fra utløpet av det kalenderår som følger etter avsetningsåret."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "For avsetninger etter lovens kapittel II skal bestemmelsene i § 1 annet ledd og § 2 ovenfor første gang gjelde for avsetninger som etter 1. januar 1984 disponeres slik at de skal skattlegges ved etterligning.\nDe øvrige bestemmelser i I gjelder første gang for avsetninger for inntektsåret 1982."
+    }
+   ]
+  }
+ ]
+}

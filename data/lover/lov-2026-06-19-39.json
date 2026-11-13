@@ -1,0 +1,55 @@
+{
+ "skjema": "1.0",
+ "type": "lov",
+ "datokode": "LOV-2026-06-19-39",
+ "dokumentid": "NL/lov/2026-06-19-39",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "ikraft": "2026-07-01, 2027-01-01, 2030-01-01",
+ "endrer": "lov/2004-11-19-73\nlov/2007-06-29-75\nlov/2022-12-16-90\nlov/2024-06-21-41\nlov/2025-05-27-18\nlov/2026-02-06-2",
+ "rettsomrade": [
+  "Bank, finans og regnskapsrett",
+  "EU/EØS-rett > Finansielle tjenester",
+  "Selskaper, fond og foreninger"
+ ],
+ "kunngjort": "2026-06-19 12:05",
+ "korttittel": "Endringslov til bokføringsloven mv.",
+ "tittel": "Lov om endringer i bokføringsloven og enkelte andre lover på finansmarkedsområdet (pliktig digital bokføring og e-fakturering mv.)",
+ "annet": "Prop. 44 L (2025–2026), Innst. 262 L (2025–2026), Lovvedtak 52 (2025–2026). Stortingets første og andre gangs behandling hhv. 1. og 8. juni 2026. Fremmet av Finansdepartementet.",
+ "refid": "lov/2026-06-19-39",
+ "eli": "/eli/lov/2026/06/19/39",
+ "url": "https://lovdata.no/dokument/NL/lov/2026-06-19-39",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "I lov 19. november 2004 nr. 73 om bokføring gjøres følgende endringer:\n§ 3 skal lyde:\n§ 3. Definisjoner\nI denne lov menes med\n1. pliktig regnskapsrapportering: årsregnskap og annen rapportering av historiske regnskapsopplysninger til eksterne parter, gitt i skriftlig form til fastsatt tidspunkt og med et forhåndsdefinert innhold, og som er fastsatt i eller med hjemmel i lov. Departementet fastsetter i forskrift hva som er pliktig regnskapsrapportering etter denne loven.\n2. elektronisk regnskapssystem: programvare eller digitale tjenester som muliggjør produksjon av pliktig regnskapsrapportering, spesifikasjoner og automatisert behandling av elektronisk faktura, og som er innrettet slik at opplysningsplikten kan ivaretas.\n3. elektronisk faktura: et salgsdokument som kan utstedes, sendes og mottas i et strukturert, elektronisk format, som er egnet for automatisert behandling i regnskapssystemet.\n§ 7 nytt fjerde ledd skal lyde:\nBokføring skal skje i et elektronisk regnskapssystem, med mindre departementet i forskrift eller enkeltvedtak har bestemt noe annet. Departementet kan i forskrift fastsette nærmere krav til elektroniske regnskapssystemer.\n§ 10 annet ledd skal lyde:\nDokumentasjon for salg av varer og tjenester til andre bokføringspliktige skal utstedes i elektronisk fakturaformat, jf. § 3 nr. 3. Dokumentasjon for kjøp av varer og tjenester fra andre bokføringspliktige skal tilsvarende mottas i elektronisk fakturaformat.\n§ 10 annet og tredje ledd blir tredje og nytt fjerde ledd.\n§ 10 fjerde ledd skal lyde:\nDepartementet kan i forskrift fastsette ytterligere krav til dokumentasjonens format og kan i forskrift eller enkeltvedtak gjøre unntak fra kravene i annet ledd om elektronisk fakturaformat.\n§ 11 første ledd første punktum skal lyde:\nVed utarbeidelse av årsregnskap og næringsspesifikasjon skal det foreligge dokumentasjon for alle balanseposter med mindre de er ubetydelige.\n§ 13 annet ledd skal lyde:\nRegnskapsmateriale som nevnt i første ledd nr. 1 til 4 skal oppbevares i Norge i fem år etter regnskapsårets slutt. Regnskapsmateriale som nevnt i første ledd nr. 5 til 8 skal oppbevares i Norge i tre år og seks måneder etter regnskapsårets slutt. Originalt regnskapsmateriale kan erstattes ved overføring av regnskapsinformasjon til andre media hvis muligheten til å etterprøve pliktig regnskapsrapportering i regnskapsmaterialets oppbevaringstid ikke svekkes. Elektronisk faktura, jf. § 3 nr. 3, skal likevel oppbevares i sitt opprinnelige format. Departementet kan i forskrift fastsette nærmere krav til oppbevaringsmedier.\n– – –"
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapVII",
+   "overskrift": "VII",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "1. Loven gjelder fra den tid[1] Kongen bestemmer. Kongen kan sette i kraft de enkelte bestemmelsene til ulik tid.\n2. Departementet kan gi overgangsregler."
+    }
+   ]
+  }
+ ],
+ "fotnoter": [
+  {
+   "nr": "1",
+   "tekst": "Fra 1. juli 2026 for endringsloven del II–VI,\nfra 1. januar 2027 for endringsloven del I § 3, § 10, § 11 og § 13 og\nfra 1. januar 2030 for endringsloven del I § 7 fjerde ledd\niflg. res. 19 juni 2026 nr. 1154."
+  }
+ ]
+}

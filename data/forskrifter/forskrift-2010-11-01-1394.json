@@ -1,0 +1,194 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2010-11-01-1394",
+ "dokumentid": "SF/forskrift/2010-11-01-1394",
+ "departement": [
+  "Klima- og miljødepartementet"
+ ],
+ "etat": [
+  "Avd. for internasjonalt samarbeid"
+ ],
+ "kunngjort_i": "I 2010 hefte 12",
+ "ikraft": "2011-01-01",
+ "siste_endring_ikraft": "2025-12-05",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2025-12-05-2428",
+   "tekst": "forskrift/2025-12-05-2428"
+  }
+ ],
+ "endrer": "forskrift/2004-06-01-930\nforskrift/2004-06-01-931",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1981-03-13-6/§6",
+   "tekst": "lov/1981-03-13-6/§6"
+  },
+  {
+   "ref": "lov/1981-03-13-6/§9",
+   "tekst": "lov/1981-03-13-6/§9"
+  },
+  {
+   "ref": "lov/1981-03-13-6/§31",
+   "tekst": "lov/1981-03-13-6/§31"
+  },
+  {
+   "ref": "lov/1981-03-13-6/§81",
+   "tekst": "lov/1981-03-13-6/§81"
+  },
+  {
+   "ref": "forskrift/1983-07-08-1245",
+   "tekst": "forskrift/1983-07-08-1245"
+  }
+ ],
+ "kunngjort": "2010-11-05 15:30",
+ "siste_rettelse": "2023-08-11 (matematiske formler tilpasset universell utforming)",
+ "korttittel": "Forskrift om radioaktiv forurensning og avfall",
+ "tittel": "Forskrift om forurensningslovens anvendelse på radioaktiv forurensning og radioaktivt avfall",
+ "annet": "Hjemmel: Fastsatt av Miljøverndepartementet 1. november 2010 med hjemmel i lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (Forurensningsloven) § 6 nr. 3, § 9, § 31 og § 81 jf. delegeringsvedtak 8. juli 1983 nr. 1245.\nEndret ved forskrifter 20 des 2018 nr. 2092, 5 des 2025 nr. 2428.\nRettet 01.01.2011 (Vedlegg II første ledd), 11.08.2023 (matematiske formler tilpasset universell utforming).",
+ "refid": "forskrift/2010-11-01-1394",
+ "eli": "/eli/forskrift/2010/11/01/1394",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2010-11-01-1394",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Saklig virkeområde",
+   "ledd": [
+    "Forskriften gjelder forurensningslovens anvendelse på stråling fra radioaktive stoffer som er eller kan være til skade eller ulempe for miljøet.",
+    "Forskriften gjelder også radioaktivt avfall jf. § 2."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Definisjoner",
+   "ledd": [
+    "I denne forskriften menes med\na. radioaktivt stoff: stoff som sender ut alfa-, beta- eller gammastråling,\nb. radioaktiv forurensning: stråling fra radioaktive stoffer som er eller kan være til skade eller ulempe for miljøet. Dette omfatter også stråling fra naturlig forekommende radioaktive stoffer når menneskelig aktivitet fører til økt stråleeksponering av mennesker eller miljø,\nc. radioaktivt avfall: løsøregjenstander eller stoffer som regnes som avfall etter forurensingsloven § 27 første ledd, og inneholder eller er forurenset med radioaktive stoffer med spesifikk aktivitet som er større eller lik verdiene angitt i vedlegg I bokstav a,\nd. deponeringspliktig radioaktivt avfall: radioaktivt avfall med større eller lik verdier for total aktivitet og spesifikk aktivitet enn angitt i vedlegg I bokstav b.",
+    "Direktoratet for strålevern og atomsikkerhet bestemmer i tvilstilfeller hva som anses som radioaktivt avfall, herunder deponeringspliktig radioaktivt avfall."
+   ],
+   "endringer": [
+    "Endret ved forskrift 20 des 2018 nr. 2092 (i kraft 1 jan 2019)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Forurensningslovens anvendelse på radioaktiv forurensning og radioaktivt avfall",
+   "ledd": [
+    "Forurensningsloven gjelder for radioaktiv forurensning og radioaktivt avfall med unntak av §§ 21 til 26, § 30, § 32a, §§ 34 til 37 og §§ 43 til 47.",
+    "Forskrift 1. juni 2004 nr. 930 om gjenvinning og behandling av avfall (avfallsforskriften) kapittel 16, §§ 18B-2, 18B-3 og kapittel 19 og forskrift 1. juni 2004 nr. 931 om begrensning av forurensning (forurensningsforskriften) § 36-1, § 36-2, §§ 36-5 til 36-9, §§ 36-17 til 36-19, kapittel 39, kapittel 41 og § 41A-1a, §§ 41A-3 og 41A-4 gjelder for radioaktiv forurensning og radioaktivt avfall."
+   ],
+   "endringer": [
+    "Endret ved forskrift 5 des 2025 nr. 2428."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Tillatelse til radioaktiv forurensning",
+   "ledd": [
+    "Direktoratet for strålevern og atomsikkerhet kan gi tillatelse etter forurensningsloven § 11 til virksomhet som medfører eller kan medføre radioaktiv forurensning, og fastsette nærmere vilkår etter forurensningsloven § 16 for å motvirke at radioaktiv forurensning fører til skader eller ulemper.",
+    "Virksomhet som medfører eller kan medføre tilførsel av radioaktive stoffer med total aktivitet eller spesifikk aktivitet som er større eller lik verdiene angitt i vedlegg II, skal i relasjon til forurensningsloven § 8 siste ledd alltid anses å medføre nevneverdige skader eller ulemper og kan ikke finne sted uten tillatelse etter forurensningsloven § 11."
+   ],
+   "endringer": [
+    "Endret ved forskrift 20 des 2018 nr. 2092 (i kraft 1 jan 2019)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Håndtering av radioaktivt avfall",
+   "ledd": [
+    "Radioaktivt avfall skal håndteres i samsvar med forskrift 1. juni 2004 nr. 930 om gjenvinning og behandling av avfall (avfallsforskriften) kapittel 16."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "Unntak",
+   "ledd": [
+    "Departementet, eller den departementet bemyndiger, kan i særskilte tilfeller gjøre unntak fra bestemmelsene i denne forskriften."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 7",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Forskriften trer i kraft 1. januar 2011."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-8",
+   "nummer": "§ 8",
+   "tittel": "Overgangsbestemmelser for krav om tillatelse",
+   "ledd": [
+    "Virksomhet som krever tillatelse etter forurensningsloven § 11 jf. § 4 i denne forskriften, skal søke Direktoratet for strålevern og atomsikkerhet om tillatelse så snart som mulig og senest innen 1. januar 2013.",
+    "Vedtak og godkjenninger gitt i medhold av forskrift 21. november 2003 nr. 1326 om strålevern og bruk av stråling § 5 bokstavene o, p eller q og kapittel V gjelder til de er erstattet av tillatelse etter forurensningsloven, men er ikke i noe tilfelle gyldige etter 1. januar 2014.",
+    "Virksomhet som krever tillatelse etter forurensningsloven § 11 jf. § 4 i denne forskriften og som er igangsatt før forskriften trer i kraft, men som ikke har hatt godkjenning etter forskrift 21. november 2003 nr. 1326 om strålevern og bruk av stråling § 5 bokstavene o, p eller q og kapittel V, kan fortsette til de får tillatelse, men ikke i noe tilfelle etter 1. januar 2014.",
+    "Direktoratet for strålevern og atomsikkerhet kan gi pålegg om at virksomhet som nevnt i første ledd likevel må søke om tillatelse innen en kortere frist og bestemme at virksomheten er ulovlig etter en fastsatt dato, dersom pålegget ikke etterkommes."
+   ],
+   "endringer": [
+    "Endret ved forskrift 20 des 2018 nr. 2092 (i kraft 1 jan 2019)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-9",
+   "nummer": "§ 9",
+   "tittel": "Samtidige endringer i andre forskrifter",
+   "ledd": [
+    "I forskrift 1. juni 2004 nr. 930 om gjenvinning og behandling av avfall (avfallsforskriften) gjøres følgende endringer: ---",
+    "I forskrift 1. juni 2004 nr. 931 om begrensning av forurensning (forurensningsforskriften) gjøres følgende endringer: --"
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "vedleggI",
+   "overskrift": "Vedlegg I. Radioaktivt avfall jf. § 2",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Vedlegg 1 bokstav a fastsetter nedre grenser for hva som er radioaktivt avfall. Vedlegg 1 bokstav b fastsetter hva som er deponeringspliktig radioaktivt avfall.\na) Spesifikk aktivitet for radioaktivt avfall\nVerdiene i tabellen nedenfor viser spesifikk aktivitet (Bq/g) for radioaktivt avfall. Avfall med spesifikk aktivitet større eller lik verdiene i tabellen skal regnes som radioaktivt avfall.\nDersom avfallet inneholder ulike radionuklider, er avfallet å betrakte som radioaktivt dersom summen av forholdet mellom spesifikk aktivitet for hver radionuklide og den tilsvarende verdien i tabellen, er større eller lik 1:\n$$\\sum\\limits_k \\frac{C_k}{C_{e,k}} \\ge 1$$\nder\nCk = spesifikk aktivitet for radionuklide k\nCe, k = grenseverdi for spesifikk aktivitet til radionuklide k fra tabell.\n| Radionuklide | Spesifikk aktivitet (Bq/g)\n| H-3 | 102\n| Be-7 | 101\n| C-14 | 101\n| O-15 | 102\n| F-18 | 101\n| Na-22 | 10-1\n| Na-24 | 100\n| Si-31 | 103\n| P-32 | 103\n| P-33 | 103\n| S-35 | 102\n| Cl-36 | 100\n| Cl-38 | 101\n| Ar-37 | 106\n| Ar-41 | 102\n| K-40 | 101\n| K-42 | 102\n| K-43 | 101\n| Ca-45 | 102\n| Ca-47 | 101\n| Sc-46 | 10-1\n| Sc-47 | 102\n| Sc-48 | 100\n| V-48 | 100\n| Cr-51 | 102\n| Mn-51 | 101\n| Mn-52 | 100\n| Mn-52m | 101\n| Mn-53 | 103\n| Mn-54 | 10-1\n| Mn-56 | 101\n| Fe-52 | 101\n| Fe-55 | 103\n| Fe-59 | 100\n| Co-55 | 101\n| Co-56 | 10-1\n| Co-57 | 100\n| Co-58 | 100\n| Co-58m | 104\n| Co-60 | 10-1\n| Co-60m | 103\n| Co-61 | 102\n| Co-62m | 101\n| Ni-59 | 102\n| Ni-63 | 102\n| Ni-65 | 101\n| Cu-64 | 102\n| Zn-65 | 100\n| Zn-69 | 103\n| Zn-69m | 101\n| Ga-72 | 101\n| Ge-71 | 104\n| As-73 | 103\n| As-74 | 101\n| As-76 | 101\n| As-77 | 103\n| Se-75 | 100\n| Br-82 | 100\n| Kr-74 | 102\n| Kr-76 | 102\n| Kr-77 | 102\n| Kr-79 | 103\n| Kr-81 | 104\n| Kr-83m | 105\n| Kr-85 | 105\n| Kr-85m | 103\n| Kr-87 | 102\n| Kr-88 | 102\n| Rb-86 | 102\n| Sr-85 | 100\n| Sr-85m | 102\n| Sr-87m | 102\n| Sr-89 | 103\n| Sr-90[a] | 100\n| Sr-91 | 101\n| Sr-92 | 101\n| Y-90 | 103\n| Y-91 | 102\n| Y-91m | 102\n| Y-92 | 102\n| Y-93 | 102\n| Zr-93[a] | 101\n| Zr-95 | 100\n| Zr-97 | 101\n| Nb-93m | 102\n| Nb-94 | 10-1\n| Nb-95 | 100\n| Nb-97 | 101\n| Nb-98 | 101\n| Mo-90 | 101\n| Mo-93 | 101\n| Mo-99 | 101\n| Mo-101 | 101\n| Tc-96 | 100\n| Tc-96m | 103\n| Tc-97 | 101\n| Tc-97m | 102\n| Tc-99 | 100\n| Tc-99m | 102\n| Ru-97 | 101\n| Ru-103 | 100\n| Ru-105 | 101\n| Ru-106[a] | 10-1\n| Rh-103m | 104\n| Rh-105 | 102\n| Pd-103 | 103\n| Pd-109 | 102\n| Ag-105 | 100\n| Ag-110m | 10-1\n| Ag-111 | 102\n| Cd-109 | 101\n| Cd-115 | 101\n| Cd-115m | 102\n| In-111 | 101\n| In-113m | 102\n| In-114m | 101\n| In-115m | 102\n| Sn-113 | 100\n| Sn-125 | 101\n| Sb-122 | 101\n| Sb-124 | 100\n| Sb-125 | 100\n| Te-123m | 100\n| Te-125m | 103\n| Te-127 | 103\n| Te-127m | 101\n| Te-129 | 102\n| Te-129m | 101\n| Te-131 | 102\n| Te-131m | 101\n| Te-132 | 100\n| Te-133 | 101\n| Te-133m | 101\n| Te-134 | 101\n| I-123 | 102\n| I-125 | 102\n| I-126 | 101\n| I-129 | 10-1\n| I-130 | 101\n| I-131 | 101\n| I-132 | 101\n| I-133 | 101\n| I-134 | 101\n| I-135 | 101\n| Xe-131m | 104\n| Xe-133 | 103\n| Xe-135 | 103\n| Cs-129 | 101\n| Cs-131 | 103\n| Cs-132 | 101\n| Cs-134[a] | 10-1\n| Cs-134m | 103\n| Cs-135 | 102\n| Cs-136 | 100\n| Cs-137[a] | 100\n| Cs-138 | 101\n| Ba-131 | 101\n| Ba-140[a] | 100\n| La-140 | 100\n| Ce-139 | 100\n| Ce-141 | 102\n| Ce-143 | 101\n| Ce-144[a] | 101\n| Pr-142 | 102\n| Pr-143 | 103\n| Nd-147 | 102\n| Nd-149 | 102\n| Pm-147 | 103\n| Pm-149 | 103\n| Sm-151 | 103\n| Sm-153 | 102\n| Eu-152 | 10-1\n| Eu-152m | 102\n| Eu-154 | 10-1\n| Eu-155 | 101\n| Gd-153 | 101\n| Gd-159 | 102\n| Tb-160 | 100\n| Dy-165 | 103\n| Dy-166 | 102\n| Ho-166 | 102\n| Er-169 | 103\n| Er-171 | 102\n| Tm-170 | 102\n| Tm-171 | 103\n| Yb-175 | 102\n| Lu-177 | 102\n| Hf-181 | 100\n| Ta-182 | 10-1\n| W-181 | 101\n| W-185 | 103\n| W-187 | 101\n| Re-186 | 103\n| Re-188 | 102\n| Os-185 | 100\n| Os-191 | 102\n| Os-191m | 103\n| Os-193 | 102\n| Ir-190 | 100\n| Ir-192 | 100\n| Ir-194 | 102\n| Pt-191 | 101\n| Pt-193m | 103\n| Pt-197 | 103\n| Pt-197m | 102\n| Au-198 | 101\n| Au-199 | 102\n| Hg-197 | 102\n| Hg-197m | 102\n| Hg-203 | 101\n| Tl-200 | 101\n| Tl-201 | 102\n| Tl-202 | 101\n| Tl-204 | 101\n| Pb-203 | 101\n| Bi-206 | 100\n| Bi-207 | 10-1\n| Po-203 | 101\n| Po-205 | 101\n| Po-207 | 101\n| Pb-210a | 100\n| At-211 | 103\n| Pb-212[a] | 100\n| Bi-210 | 101\n| Bi-212[a] | 100\n| Po-210 | 100\n| Rn-220[a] | 100\n| Rn-222[a] | 100\n| Ra-223[a] | 100\n| Ra-224[a] | 100\n| Ra-225 | 101\n| Ra-226[a] | 100\n| Th-226[a] | 103\n| Ra-227 | 102\n| Ra-228[a] | 100\n| Ac-228 | 100\n| Th-227 | 100\n| Th-228[a] | 100\n| Th-229[a] | 10-1\n| Pa-230 | 101\n| Th-230 | 100\n| Th-231 | 102\n| Th-nat (inkl. Th-232)[a] | 100\n| Pa-233 | 101\n| Th-234[a] | 101\n| Pa-231 | 100\n| U-230[a] | 101\n| U-234 | 100\n| U-235[a] | 100\n| U-238[a] | 100\n| U-nat[a] | 100\n| U-231 | 102\n| U-232[a] | 10-1\n| U-233 | 100\n| U-236 | 101\n| U-237 | 102\n| U-239 | 102\n| U-240 | 102\n| U-240[a] | 100\n| Np-237[a] | 100\n| Np-239 | 102\n| Np-240 | 101\n| Pu-234 | 102\n| Pu-235 | 102\n| Pu-236 | 100\n| Pu-237 | 102\n| Pu-238 | 10-1\n| Pu-239 | 10-1\n| Pu-240 | 10-1\n| Pu-241 | 101\n| Pu-242 | 10-1\n| Pu-243 | 103\n| Pu-244 | 10-1\n| Am-241 | 10-1\n| Am-242 | 103\n| Am-242m[a] | 10-1\n| Am-243[a] | 10-1\n| Cm-242 | 101\n| Cm-243 | 100\n| Cm-244 | 100\n| Cm-245 | 10-1\n| Cm-246 | 10-1\n| Cm-247 | 10-1\n| Cm-248 | 10-1\n| Bk-249 | 102\n| Cf-246 | 103\n| Cf-248 | 100\n| Cf-249 | 10-1\n| Cf-250 | 100\n| Cf-251 | 10-1\n| Cf-252 | 100\n| Cf-253 | 102\n| Cf-254 | 100\n| Es-253 | 102\n| Es-254 | 10-1\n| Es-254m | 101\n| Fm-254 | 104\n| Fm-255 | 102\nb) Total aktivitet og spesifikk aktivitet for deponeringspliktig radioaktivt avfall\nVerdiene i tabellen viser spesifikk aktivitet (Bq/g), og den totale aktivitet (Bq) pr. år, for hva som anses som deponeringspliktig avfall, jf. § 2 bokstav d. Deponeringsplikten fordrer at både total aktivitet og spesifikk aktivitet er større eller lik verdiene. Det er virksomhetens forventede, totale avfall i løpet av et år som skal legges til grunn ved virksomhetens vurdering av deponeringsplikten. Dersom avfallet inneholder flere radionuklider, er avfallet deponeringspliktig dersom summen av forholdet mellom spesifikk aktivitet for hver radionuklide og den tilsvarende verdien i tabellen, og summen av forholdet mellom aktivitet for hver radionuklide og den tilsvarende verdien i tabellen er større eller lik 1:\n$$\\sum\\limits_k \\frac{C_k}{C_{e,k}} \\ge 1 \\quad \\text{og} \\quad \\sum\\limits_k \\frac{A_k}{A_{e,k}} \\ge 1$$\nder\nCk = spesifikk aktivitet for radionuklide k\nCe, k = grenseverdi for spesifikk aktivitet til radionuklide k\nAk = aktivitet for radionuklide k\nAe, k = grenseverdi for aktivitet til radionuklide k.\n| Radionuklide | Total aktivitet\n(Bq) pr. år | Spesifikk aktivitet (Bq/g)\n| H-3 | 109 | 106\n| Be-7 | 107 | 103\n| C-14 | 107 | 104\n| O-15 | 109 | 102\n| F-18 | 106 | 101\n| Na-22 | 106 | 101\n| Na-24 | 105 | 101\n| Si-31 | 106 | 103\n| P-32 | 105 | 103\n| P-33 | 108 | 105\n| S-35 | 108 | 105\n| Cl-36 | 106 | 104\n| Cl-38 | 105 | 101\n| Ar-37 | 108 | 106\n| Ar-41 | 109 | 102\n| K-40 | 106 | 102\n| K-42 | 106 | 102\n| K-43 | 106 | 101\n| Ca-45 | 107 | 104\n| Ca-47 | 106 | 101\n| Sc-46 | 106 | 101\n| Sc-47 | 106 | 102\n| Sc-48 | 105 | 101\n| V-48 | 105 | 101\n| Cr-51 | 107 | 103\n| Mn-51 | 105 | 101\n| Mn-52 | 105 | 101\n| Mn-52m | 105 | 101\n| Mn-53 | 109 | 104\n| Mn-54 | 106 | 101\n| Mn-56 | 105 | 101\n| Fe-52 | 106 | 101\n| Fe-55 | 106 | 104\n| Fe-59 | 106 | 101\n| Co-55 | 106 | 101\n| Co-56 | 105 | 101\n| Co-57 | 106 | 102\n| Co-58 | 106 | 101\n| Co-58m | 107 | 104\n| Co-60 | 105 | 101\n| Co-60m | 106 | 103\n| Co-61 | 106 | 102\n| Co-62m | 105 | 101\n| Ni-59 | 108 | 104\n| Ni-63 | 108 | 105\n| Ni-65 | 106 | 101\n| Cu-64 | 106 | 102\n| Zn-65 | 106 | 101\n| Zn-69 | 106 | 104\n| Zn-69m | 106 | 102\n| Ga-72 | 105 | 101\n| Ge-71 | 108 | 104\n| As-73 | 107 | 103\n| As-74 | 106 | 101\n| As-76 | 105 | 102\n| As-77 | 106 | 103\n| Se-75 | 106 | 102\n| Br-82 | 106 | 101\n| Kr-74 | 109 | 102\n| Kr-76 | 109 | 102\n| Kr-77 | 109 | 102\n| Kr-79 | 105 | 103\n| Kr-81 | 107 | 104\n| Kr-83m | 1012 | 105\n| Kr-85 | 104 | 105\n| Kr-85m | 1010 | 103\n| Kr-87 | 109 | 102\n| Kr-88 | 109 | 102\n| Rb-86 | 105 | 102\n| Sr-85 | 106 | 102\n| Sr-85m | 107 | 102\n| Sr-87m | 106 | 102\n| Sr-89 | 106 | 103\n| Sr-90[a] | 104 | 102\n| Sr-91 | 105 | 101\n| Sr-92 | 106 | 101\n| Y-90 | 105 | 103\n| Y-91 | 106 | 103\n| Y-91m | 106 | 102\n| Y-92 | 105 | 102\n| Y-93 | 105 | 102\n| Zr-93[a] | 107 | 103\n| Zr-95 | 106 | 101\n| Zr-97[a] | 105 | 101\n| Nb-93m | 107 | 104\n| Nb-94 | 106 | 101\n| Nb-95 | 106 | 101\n| Nb-97 | 106 | 101\n| Nb-98 | 105 | 101\n| Mo-90 | 106 | 101\n| Mo-93 | 108 | 103\n| Mo-99 | 106 | 102\n| Mo-101 | 106 | 101\n| Tc-96 | 106 | 101\n| Tc-96m | 107 | 103\n| Tc-97 | 108 | 103\n| Tc-97m | 107 | 103\n| Tc-99 | 107 | 104\n| Tc-99m | 107 | 102\n| Ru-97 | 107 | 102\n| Ru-103 | 106 | 102\n| Ru-105 | 106 | 101\n| Ru-106[a] | 105 | 102\n| Rh-103m | 108 | 104\n| Rh-105 | 107 | 102\n| Pd-103 | 108 | 103\n| Pd-109 | 106 | 103\n| Ag-105 | 106 | 102\n| Ag-110m | 106 | 101\n| Ag-111 | 106 | 103\n| Cd-109 | 106 | 104\n| Cd-115 | 106 | 102\n| Cd-115m | 106 | 103\n| In-111 | 106 | 102\n| In-113m | 106 | 102\n| In-114m | 106 | 102\n| In-115m | 106 | 102\n| Sn-113 | 107 | 103\n| Sn-125 | 105 | 102\n| Sb-122 | 104 | 102\n| Sb-124 | 106 | 101\n| Sb-125 | 106 | 102\n| Te-123m | 107 | 102\n| Te-125m | 107 | 103\n| Te-127 | 106 | 103\n| Te-127m | 107 | 103\n| Te-129 | 106 | 102\n| Te-129m | 106 | 103\n| Te-131 | 105 | 102\n| Te-131m | 106 | 101\n| Te-132 | 107 | 102\n| Te-133 | 105 | 101\n| Te-133m | 105 | 101\n| Te-134 | 106 | 101\n| I-123 | 107 | 102\n| I-125 | 106 | 103\n| I-126 | 106 | 102\n| I-129 | 105 | 102\n| I-130 | 106 | 101\n| I-131 | 106 | 102\n| I-132 | 105 | 101\n| I-133 | 106 | 101\n| I-134 | 105 | 101\n| I-135 | 106 | 101\n| Xe-131m | 104 | 104\n| Xe-133 | 104 | 103\n| Xe-135 | 1010 | 103\n| Cs-129 | 105 | 102\n| Cs-131 | 106 | 103\n| Cs-132 | 105 | 101\n| Cs-134m | 105 | 103\n| Cs-134[a] | 104 | 101\n| Cs-135 | 107 | 104\n| Cs-136 | 105 | 101\n| Cs-137[a] | 104 | 101\n| Cs-138 | 104 | 101\n| Ba-131 | 106 | 102\n| Ba-140[a] | 105 | 101\n| La-140 | 105 | 101\n| Ce-139 | 106 | 102\n| Ce-141 | 107 | 102\n| Ce-143 | 106 | 102\n| Ce-144[a] | 105 | 102\n| Pr-142 | 105 | 102\n| Pr-143 | 106 | 104\n| Nd-147 | 106 | 102\n| Nd-149 | 106 | 102\n| Pm-147 | 107 | 104\n| Pm-149 | 106 | 103\n| Sm-151 | 108 | 104\n| Sm-153 | 106 | 102\n| Eu-152 | 106 | 101\n| Eu-152m | 106 | 102\n| Eu-154 | 106 | 101\n| Eu-155 | 107 | 102\n| Gd-153 | 107 | 102\n| Gd-159 | 106 | 103\n| Tb-160 | 106 | 101\n| Dy-165 | 106 | 103\n| Dy-166 | 106 | 103\n| Ho-166 | 105 | 103\n| Er-169 | 107 | 104\n| Er-171 | 106 | 102\n| Tm-170 | 106 | 103\n| Tm-171 | 108 | 104\n| Yb-175 | 107 | 103\n| Lu-177 | 107 | 103\n| Hf-181 | 106 | 101\n| Ta-182 | 104 | 101\n| W-181 | 107 | 103\n| W-185 | 107 | 104\n| W-187 | 106 | 102\n| Re-186 | 106 | 103\n| Re-188 | 105 | 102\n| Os-185 | 106 | 101\n| Os-191 | 107 | 102\n| Os-191m | 107 | 103\n| Os-193 | 106 | 102\n| Ir-190 | 106 | 101\n| Ir-192 | 104 | 101\n| Ir-194 | 105 | 102\n| Pt-191 | 106 | 102\n| Pt-193m | 107 | 103\n| Pt-197 | 106 | 103\n| Pt-197m | 106 | 102\n| Au-198 | 106 | 102\n| Au-199 | 106 | 102\n| Hg-197 | 107 | 102\n| Hg-197m | 106 | 102\n| Hg-203 | 105 | 102\n| Tl-200 | 106 | 101\n| Tl-201 | 106 | 102\n| Tl-202 | 106 | 102\n| Tl-204 | 104 | 104\n| Pb-203 | 106 | 102\n| Pb-210[a] | 104 | 101\n| Pb-212[a] | 105 | 101\n| Bi-206 | 105 | 101\n| Bi-207 | 106 | 101\n| Bi-210 | 106 | 103\n| Bi-212[a] | 105 | 101\n| Po-203 | 106 | 101\n| Po-205 | 106 | 101\n| Po-207 | 106 | 101\n| Po-210 | 104 | 101\n| At-211 | 107 | 103\n| Rn-220[a] | 107 | 104\n| Rn-222[a] | 108 | 101\n| Ra-223[a] | 105 | 102\n| Ra-224[a] | 105 | 101\n| Ra-225 | 105 | 102\n| Ra-226[a] | 104 | 101\n| Ra-227 | 106 | 102\n| Ra-228[a] | 105 | 101\n| Ac-228 | 106 | 101\n| Th-226[a] | 107 | 103\n| Th-227 | 104 | 101\n| Th-228[a] | 104 | 100\n| Th-229[a] | 103 | 100\n| Th-230 | 104 | 100\n| Th-231 | 107 | 103\n| Th-nat (inkl. Th-232)[a] | 103 | 100\n| Th-234[a] | 105 | 103\n| Pa-230 | 106 | 101\n| Pa-231 | 103 | 100\n| Pa-233 | 107 | 102\n| U-230[a] | 105 | 101\n| U-231 | 107 | 102\n| U-232[a] | 103 | 100\n| U-233 | 104 | 101\n| U-234 | 104 | 101\n| U-235[a] | 104 | 101\n| U-236 | 104 | 101\n| U-237 | 106 | 102\n| U-238[a] | 104 | 101\n| U-nat[a] | 103 | 100\n| U-239 | 106 | 102\n| U-240 | 107 | 103\n| U-240[a] | 106 | 101\n| Np-237[a] | 103 | 100\n| Np-239 | 107 | 102\n| Np-240 | 106 | 101\n| Pu-234 | 107 | 102\n| Pu-235 | 107 | 102\n| Pu-236 | 104 | 101\n| Pu-237 | 107 | 103\n| Pu-238 | 104 | 100\n| Pu-239 | 104 | 100\n| Pu-240 | 103 | 100\n| Pu-241 | 105 | 102\n| Pu-242 | 104 | 100\n| Pu-243 | 107 | 103\n| Pu-244 | 104 | 100\n| Am-241 | 104 | 100\n| Am-242 | 106 | 103\n| Am-242m[a] | 104 | 100\n| Am-243[a] | 103 | 100\n| Cm-242 | 105 | 102\n| Cm-243 | 104 | 100\n| Cm-244 | 104 | 101\n| Cm-245 | 103 | 100\n| Cm-246 | 103 | 100\n| Cm-247 | 104 | 100\n| Cm-248 | 103 | 100\n| Bk-249 | 106 | 103\n| Cf-246 | 106 | 103\n| Cf-248 | 104 | 101\n| Cf-249 | 103 | 100\n| Cf-250 | 104 | 101\n| Cf-251 | 103 | 100\n| Cf-252 | 104 | 101\n| Cf-253 | 105 | 102\n| Cf-254 | 103 | 100\n| Es-253 | 105 | 102\n| Es-254 | 104 | 101\n| Es-254m | 106 | 102\n| Fm-254 | 107 | 104\n| Fm-255 | 106 | 103"
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "vedleggII",
+   "overskrift": "Vedlegg II. Tilførsel av radioaktive stoffer som alltid trenger tillatelse, jf. § 4 annet ledd",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Virksomhet som medfører tilførsel av radioaktive stoffer med en total aktivitet (Bq) pr. år, eller spesifikk aktivitet (Bq/g) som er større eller lik verdiene i dette vedlegget, må alltid ha tillatelse jf. § 4 annet ledd.\nDersom tilførselen består av flere ulike radionuklider, kreves tillatelse dersom summen av forholdet mellom spesifikk aktivitet for hver radionuklide og den tilsvarende verdien i tabellen, eller summen av forholdet mellom aktivitet for hver radionuklide og den tilsvarende grenseverdien, er større eller lik 1:\n$$\\sum\\limits_k \\frac{C_k}{C_{e,k}} \\ge 1 \\quad \\text{eller} \\quad \\sum\\limits_k \\frac{A_k}{A_{e,k}} \\ge 1$$\nder\nCk = spesifikk aktivitet for radionuklide k\nCe, k = grenseverdi for spesifikk aktivitet til radionuklide k\nAk = aktivitet for radionuklide k\nAe, k = grenseverdi for aktivitet til radionuklide k.\n| Radionuklide | Total aktivitet\n(Bq) pr. år | Spesifikk aktivitet (Bq/g)\n| H-3 | 108 | 105\n| Be-7 | 106 | 102\n| C-14 | 106 | 103\n| O-15 | 108 | 101\n| F-18 | 105 | 100\n| Na-22 | 105 | 100\n| Na-24 | 104 | 100\n| Si-31 | 105 | 102\n| P-32 | 104 | 102\n| P-33 | 107 | 104\n| S-35 | 107 | 104\n| Cl-36 | 105 | 103\n| Cl-38 | 104 | 100\n| Ar-37 | 107 | 105\n| Ar-41 | 108 | 101\n| K-40 | 105 | 101\n| K-42 | 105 | 101\n| K-43 | 105 | 100\n| Ca-45 | 106 | 103\n| Ca-47 | 105 | 100\n| Sc-46 | 105 | 100\n| Sc-47 | 105 | 101\n| Sc-48 | 104 | 100\n| V-48 | 104 | 100\n| Cr-51 | 106 | 102\n| Mn-51 | 104 | 100\n| Mn-52 | 104 | 100\n| Mn-52m | 104 | 100\n| Mn-53 | 108 | 103\n| Mn-54 | 105 | 100\n| Mn-56 | 104 | 100\n| Fe-52 | 105 | 100\n| Fe-55 | 105 | 103\n| Fe-59 | 105 | 100\n| Co-55 | 105 | 100\n| Co-56 | 104 | 100\n| Co-57 | 105 | 101\n| Co-58 | 105 | 100\n| Co-58m | 106 | 103\n| Co-60 | 104 | 100\n| Co-60m | 105 | 102\n| Co-61 | 105 | 101\n| Co-62m | 104 | 100\n| Ni-59 | 107 | 103\n| Ni-63 | 107 | 104\n| Ni-65 | 105 | 100\n| Cu-64 | 105 | 101\n| Zn-65 | 105 | 100\n| Zn-69 | 105 | 103\n| Zn-69m | 105 | 101\n| Ga-72 | 104 | 100\n| Ge-71 | 107 | 103\n| As-73 | 106 | 102\n| As-74 | 105 | 100\n| As-76 | 104 | 101\n| As-77 | 105 | 102\n| Se-75 | 105 | 101\n| Br-82 | 105 | 100\n| Kr-74 | 108 | 101\n| Kr-76 | 108 | 101\n| Kr-77 | 108 | 101\n| Kr-79 | 104 | 102\n| Kr-81 | 106 | 103\n| Kr-83m | 1011 | 104\n| Kr-85 | 103 | 104\n| Kr-85m | 109 | 102\n| Kr-87 | 108 | 101\n| Kr-88 | 108 | 101\n| Rb-86 | 104 | 101\n| Sr-85 | 105 | 101\n| Sr-85m | 106 | 101\n| Sr-87m | 105 | 101\n| Sr-89 | 105 | 102\n| Sr-90[a] | 103 | 101\n| Sr-91 | 104 | 100\n| Sr-92 | 105 | 100\n| Y-90 | 104 | 102\n| Y-91 | 105 | 102\n| Y-91m | 105 | 101\n| Y-92 | 104 | 101\n| Y-93 | 104 | 101\n| Zr-93[a] | 106 | 102\n| Zr-95 | 105 | 100\n| Zr-97[a] | 104 | 100\n| Nb-93m | 106 | 103\n| Nb-94 | 105 | 100\n| Nb-95 | 105 | 100\n| Nb-97 | 105 | 100\n| Nb-98 | 104 | 100\n| Mo-90 | 105 | 100\n| Mo-93 | 107 | 102\n| Mo-99 | 105 | 101\n| Mo-101 | 105 | 100\n| Tc-96 | 105 | 100\n| Tc-96m | 106 | 102\n| Tc-97 | 107 | 102\n| Tc-97m | 106 | 102\n| Tc-99 | 106 | 103\n| Tc-99m | 106 | 101\n| Ru-97 | 106 | 101\n| Ru-103 | 105 | 101\n| Ru-105 | 105 | 100\n| Ru-106[a] | 104 | 101\n| Rh-103m | 107 | 103\n| Rh-105 | 106 | 101\n| Pd-103 | 107 | 102\n| Pd-109 | 105 | 102\n| Ag-105 | 105 | 101\n| Ag-110m | 105 | 100\n| Ag-111 | 105 | 102\n| Cd-109 | 105 | 103\n| Cd-115 | 105 | 101\n| Cd-115m | 105 | 102\n| In-111 | 105 | 101\n| In-113m | 105 | 101\n| In-114m | 105 | 101\n| In-115m | 105 | 101\n| Sn-113 | 106 | 102\n| Sn-125 | 104 | 101\n| Sb-122 | 103 | 101\n| Sb-124 | 105 | 100\n| Sb-125 | 105 | 101\n| Te-123m | 106 | 101\n| Te-125m | 106 | 102\n| Te-127 | 105 | 102\n| Te-127m | 106 | 102\n| Te-129 | 105 | 101\n| Te-129m | 105 | 102\n| Te-131 | 104 | 101\n| Te-131m | 105 | 100\n| Te-132 | 106 | 101\n| Te-133 | 104 | 100\n| Te-133m | 104 | 100\n| Te-134 | 105 | 100\n| I-123 | 106 | 101\n| I-125 | 105 | 102\n| I-126 | 105 | 101\n| I-129 | 104 | 101\n| I-130 | 105 | 100\n| I-131 | 105 | 101\n| I-132 | 104 | 100\n| I-133 | 105 | 100\n| I-134 | 104 | 100\n| I-135 | 105 | 100\n| Xe-131m | 103 | 103\n| Xe-133 | 103 | 102\n| Xe-135 | 109 | 102\n| Cs-129 | 104 | 101\n| Cs-131 | 105 | 102\n| Cs-132 | 104 | 100\n| Cs-134m | 104 | 102\n| Cs-134[a] | 103 | 100\n| Cs-135 | 106 | 103\n| Cs-136 | 104 | 100\n| Cs-137[a] | 103 | 100\n| Cs-138 | 103 | 100\n| Ba-131 | 105 | 101\n| Ba-140[a] | 104 | 100\n| La-140 | 104 | 100\n| Ce-139 | 105 | 101\n| Ce-141 | 106 | 101\n| Ce-143 | 105 | 101\n| Ce-144[a] | 104 | 101\n| Pr-142 | 104 | 101\n| Pr-143 | 105 | 103\n| Nd-147 | 105 | 101\n| Nd-149 | 105 | 101\n| Pm-147 | 106 | 103\n| Pm-149 | 105 | 102\n| Sm-151 | 107 | 103\n| Sm-153 | 105 | 101\n| Eu-152 | 105 | 100\n| Eu-152m | 105 | 101\n| Eu-154 | 105 | 100\n| Eu-155 | 106 | 101\n| Gd-153 | 106 | 101\n| Gd-159 | 105 | 102\n| Tb-160 | 105 | 100\n| Dy-165 | 105 | 102\n| Dy-166 | 105 | 102\n| Ho-166 | 104 | 102\n| Er-169 | 106 | 103\n| Er-171 | 105 | 101\n| Tm-170 | 105 | 102\n| Tm-171 | 107 | 103\n| Yb-175 | 106 | 102\n| Lu-177 | 106 | 102\n| Hf-181 | 105 | 100\n| Ta-182 | 103 | 100\n| W-181 | 106 | 102\n| W-185 | 106 | 103\n| W-187 | 105 | 101\n| Re-186 | 105 | 102\n| Re-188 | 104 | 101\n| Os-185 | 105 | 100\n| Os-191 | 106 | 101\n| Os-191m | 106 | 102\n| Os-193 | 105 | 101\n| Ir-190 | 105 | 100\n| Ir-192 | 103 | 100\n| Ir-194 | 104 | 101\n| Pt-191 | 105 | 101\n| Pt-193m | 106 | 102\n| Pt-197 | 105 | 102\n| Pt-197m | 105 | 101\n| Au-198 | 105 | 101\n| Au-199 | 105 | 101\n| Hg-197 | 106 | 101\n| Hg-197m | 105 | 101\n| Hg-203 | 104 | 101\n| Tl-200 | 105 | 100\n| Tl-201 | 105 | 101\n| Tl-202 | 105 | 101\n| Tl-204 | 103 | 103\n| Pb-203 | 105 | 101\n| Pb-210[a] | 103 | 100\n| Pb-212[a] | 104 | 100\n| Bi-206 | 104 | 100\n| Bi-207 | 105 | 100\n| Bi-210 | 105 | 102\n| Bi-212[a] | 104 | 100\n| Po-203 | 105 | 100\n| Po-205 | 105 | 100\n| Po-207 | 105 | 100\n| Po-210 | 103 | 100\n| At-211 | 106 | 102\n| Rn-220[a] | 106 | 103\n| Rn-222[a] | 107 | 100\n| Ra-223[a] | 104 | 101\n| Ra-224[a] | 104 | 100\n| Ra-225 | 104 | 101\n| Ra-226[a] | 103 | 100\n| Ra-227 | 105 | 101\n| Ra-228[a] | 104 | 100\n| Ac-228 | 105 | 100\n| Th-226[a] | 106 | 102\n| Th-227 | 103 | 100\n| Th-228[a] | 103 | 10-1\n| Th-229[a] | 102 | 10-1\n| Th-230 | 103 | 10-1\n| Th-231 | 106 | 102\n| Th-nat (inkl. Th-232)[a] | 102 | 10-1\n| Th-234[a] | 104 | 102\n| Pa-230 | 105 | 100\n| Pa-231 | 102 | 10-1\n| Pa-233 | 106 | 101\n| U-230[a] | 104 | 100\n| U-231 | 106 | 101\n| U-232[a] | 102 | 10-1\n| U-233 | 103 | 100\n| U-234 | 103 | 100\n| U-235[a] | 103 | 100\n| U-236 | 103 | 100\n| U-237 | 105 | 101\n| U-238[a] | 103 | 100\n| U-nat[a] | 102 | 10-1\n| U-239 | 105 | 101\n| U-240 | 106 | 102\n| U-240[a] | 105 | 100\n| Np-237[a] | 102 | 10-1\n| Np-239 | 106 | 101\n| Np-240 | 105 | 100\n| Pu-234 | 106 | 101\n| Pu-235 | 106 | 101\n| Pu-236 | 103 | 100\n| Pu-237 | 106 | 102\n| Pu-238 | 103 | 10-1\n| Pu-239 | 103 | 10-1\n| Pu-240 | 102 | 10-1\n| Pu-241 | 104 | 101\n| Pu-242 | 103 | 10-1\n| Pu-243 | 106 | 102\n| Pu-244 | 103 | 10-1\n| Am-241 | 103 | 10-1\n| Am-242 | 105 | 102\n| Am-242m[a] | 103 | 10-1\n| Am-243[a] | 102 | 10-1\n| Cm-242 | 104 | 101\n| Cm-243 | 103 | 10-1\n| Cm-244 | 103 | 100\n| Cm-245 | 102 | 10-1\n| Cm-246 | 102 | 10-1\n| Cm-247 | 103 | 10-1\n| Cm-248 | 102 | 10-1\n| Bk-249 | 105 | 102\n| Cf-246 | 105 | 102\n| Cf-248 | 103 | 100\n| Cf-249 | 102 | 10-1\n| Cf-250 | 103 | 100\n| Cf-251 | 102 | 10-1\n| Cf-252 | 103 | 100\n| Cf-253 | 104 | 101\n| Cf-254 | 102 | 10-1\n| Es-253 | 104 | 101\n| Es-254 | 103 | 100\n| Es-254m | 105 | 101\n| Fm-254 | 106 | 103\n| Fm-255 | 105 | 102"
+    }
+   ]
+  }
+ ],
+ "fotnoter": [
+  {
+   "nr": "a",
+   "tekst": "Radionuklider i likevekt med datterprodukter som nevnt i tabell etter vedlegg II. Aktivitetsgrensene i tabellen refererer seg til modernukliden alene, men strålebidraget fra datterproduktene er tatt hensyn til i fastsettelsen av aktivitetsgrensen for modernukliden."
+  },
+  {
+   "nr": "a",
+   "tekst": "Radionuklider i likevekt med datterprodukter som nevnt i tabell etter vedlegg II. Aktivitetsgrensene i tabellen refererer seg til modernukliden alene, men strålebidraget fra datterproduktene er tatt hensyn til i fastsettelsen av aktivitetsgrensen for modernukliden."
+  },
+  {
+   "nr": "a",
+   "tekst": "Radionuklider i likevekt med datterprodukter som nevnt nedenfor. Aktivitetsgrensene i tabellen refererer seg til modernukliden alene, men strålebidraget fra datterproduktene er tatt hensyn til i fastsettelsen av aktivitetsgrensen for modernukliden.\n| Sr-90 | Y-90\n| Zr-93 | Nb-93m\n| Zr-97 | Nb-97\n| Ru-106 | Rh-106\n| Cs-137 | Ba-137m\n| Ce-134 | La-134\n| Ce-144 | Pr-144\n| Ba-140 | La-140\n| Bi-212 | Tl-208 (0.36), Po-212 (0.64)\n| Pb-210 | Bi-210, Po-210\n| Pb-212 | Bi-212, Tl-208 (0.36), Po-212 (0.64)\n| Rn-220 | Po-216\n| Rn-222 | Po-218, Pb-214, Bi-214, Po-214\n| Ra-223 | Rn-219, Po-215, Pb-211, Bi-211, Tl-207\n| Ra-224 | Rn-220, Po-216, Pb-212, Bi-212, Tl-208 (0.36), Po-212 (0.64)\n| Ra-226 | Rn-222, Po-218, Pb 214, Bi-214, Po-214, Pb-210, Bi-210, Po-210\n| Ra-228 | Ac-228\n| Th-226 | Ra-222, Rn-218, Po-214\n| Th-228 | Ra-224, Rn-220, Po-216, Bi-210, Pb-212, Tl-208 (0.36), Po-212 (0.64)\n| Th-229 | Ra-225, Ac-225, Fr-221, At-217, Bi-213, Po-213, Pb-209\n| Th-nat | Ra-228, Ac-228, Th-228, Ra-224, Rn-220, Po-216, Pb-212, Bi-212, Tl-208 (0.36), Po-212 (0.64)\n| Th-234 | Pa-234m\n| U-230 | Th-226, Ra-222, Rn-218, Po-214\n| U-232 | Th-228, Ra-224, Rn-220, Po-216, Pb-212, Bi-212, Tl-208 (0.36), Po-212 (0.64)\n| U-235 | Th-231\n| U-238 | Th-234, Pa-234m\n| U-nat | Th-234, Pa-234m, U-234, Th-230, Ra-226, Rn-222, Po-218, Pb-214, Bi-214, Po-214, Pb-210, Bi-210, Po-210\n| U-240 | Np-240m\n| Np-237 | Pa-233\n| Am-242m | Am-242\n| Am-243 | Np-239."
+  }
+ ]
+}

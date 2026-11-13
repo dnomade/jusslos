@@ -1,0 +1,86 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2015-01-22-50",
+ "dokumentid": "SF/forskrift/2015-01-22-50",
+ "departement": [
+  "Arbeids- og inkluderingsdepartementet"
+ ],
+ "etat": [
+  "Pensjonsavd."
+ ],
+ "kunngjort_i": "I 2015 hefte 1",
+ "ikraft": "2015-01-01",
+ "siste_endring_ikraft": "2024-01-11",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2024-01-11-56",
+   "tekst": "forskrift/2024-01-11-56"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1957-07-06-26/§30",
+   "tekst": "lov/1957-07-06-26/§30"
+  }
+ ],
+ "kunngjort": "2015-01-23 15:00",
+ "korttittel": "Forskrift om samordning av enke- og enkemannspensjon",
+ "tittel": "Forskrift om samordning av enke- og enkemannspensjon fra tjenestepensjonsordning med uføretrygd fra folketrygden når det også ytes uførepensjon eller alderspensjon fra tjenestepensjonsordningen",
+ "annet": "Hjemmel: Fastsatt av Arbeids- og sosialdepartementet 22. januar 2015 med hjemmel i lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser (samordningsloven) § 30.\nEndret ved forskrifter 21 des 2023 nr. 2283 (i kraft 1 jan 2024), 11 jan 2024 nr. 56.",
+ "refid": "forskrift/2015-01-22-50",
+ "eli": "/eli/forskrift/2015/01/22/50",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2015-01-22-50",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Virkeområde",
+   "ledd": [
+    "Forskriften gir regler om begrensning av samordningsfradrag etter samordningsloven § 23a for uføretrygd fra folketrygden når det ytes enke- og enkemannspensjon fra tjenestepensjonsordning som omfattes av samordningsloven § 3 andre ledd første punktum samtidig med uførepensjon eller alderspensjon fra tjenestepensjonsordning."
+   ],
+   "endringer": [
+    "Endret ved forskrift 11 jan 2024 nr. 56."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Enke- og enkemannspensjonen som skal avkortes med arbeidsinntekt",
+   "ledd": [
+    "Når uførepensjonen eller alderspensjonen er beregnet etter full tjenestetid begrenses samordningsfradraget for folketrygden i enke- eller enkemannspensjonen til gjenlevendetillegget etter folketrygdloven § 12-18 første ledd.",
+    "Når uførepensjonen eller alderspensjonen er beregnet etter mindre enn full tjenestetid, skal samordningsfradraget fastsettes med utgangspunkt i gjenlevendetillegget etter folketrygdloven § 12-18 første ledd, 50 prosent av avdødes uføretrygd og den høyeste tjenestetidsbrøken i uføre- eller alderspensjonen. Fradraget skal begrenses til summen av\na. gjenlevendetillegget etter folketrygdloven § 12-18 første ledd multiplisert med tjenestetiden i uførepensjonen eller alderspensjonen og dividert med full tjenestetid og\nb. 50 prosent av avdødes uføretrygd multiplisert med en faktor hvor telleren utgjør differansen mellom full tjenestetid og tjenestetiden i uførepensjonen eller alderspensjon og nevneren utgjør full tjenestetid.",
+    "Fradraget etter første og andre ledd skal settes ned forholdsmessig dersom enke- eller enkemannspensjonen ikke er beregnet for full pensjonsgivende tjenestetid. Er uføretrygden fra folketrygden gradert, skal fradraget settes ned forholdsmessig. Det samme gjelder hvis enke- eller enkemannspensjonen er redusert for inntekt. Er begge ytelsene gradert eller redusert for inntekt, benyttes den laveste graden."
+   ],
+   "endringer": [
+    "Endret ved forskrifter 21 des 2023 nr. 2283 (i kraft 1 jan 2024), 11 jan 2024 nr. 56."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Enke- og enkemannspensjonen som ikke skal avkortes med arbeidsinntekt",
+   "ledd": [
+    "Når uførepensjonen eller alderspensjonen er beregnet etter full tjenestetid skal det ikke gjøres fradrag etter samordningsloven § 19.",
+    "Når uførepensjonen eller alderspensjonen er beregnet etter mindre enn full tjenestetid, skal samordningsfradraget etter samordningsloven § 19 multipliseres med en faktor hvor telleren utgjør differansen mellom full tjenestetid og tjenestetiden i uførepensjonen eller alderspensjonen og nevneren utgjør full tjenestetid. Det er den høyeste tjenestetidsbrøken i uføre- eller alderspensjonen som anvendes.",
+    "Fradraget etter første og andre ledd skal settes ned forholdsmessig dersom enke- eller enkemannspensjonen ikke er beregnet for full pensjonsgivende tjenestetid."
+   ],
+   "endringer": [
+    "Endret ved forskrift 11 jan 2024 nr. 56."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Forskriften trer i kraft straks og gis virkning fra 1. januar 2015."
+   ]
+  }
+ ]
+}

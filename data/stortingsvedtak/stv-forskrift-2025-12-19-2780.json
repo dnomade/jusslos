@@ -1,0 +1,93 @@
+{
+ "skjema": "1.0",
+ "type": "stortingsvedtak",
+ "datokode": "FOR-2025-12-19-2780",
+ "dokumentid": "STV/forskrift/2025-12-19-2780",
+ "departement": [
+  "Stortinget"
+ ],
+ "ikraft": "Inntektsåret 2026",
+ "hjemmel": [
+  {
+   "ref": "lov/1814-05-17/§75",
+   "tekst": "lov/1814-05-17/§75"
+  },
+  {
+   "ref": "lov/1996-11-29-68",
+   "tekst": "lov/1996-11-29-68"
+  }
+ ],
+ "kunngjort": "2025-12-22 11:30",
+ "korttittel": "Vedtak om Svalbardskatt, 2026",
+ "tittel": "Stortingsvedtak om formues- og inntektsskatt til Svalbard for inntektsåret 2026",
+ "annet": "Heimel: Vedteken av Stortinget 19. desember 2025 med heimel i Kongeriket Noregs grunnlov 17. mai 1814 § 75 bokstav a, jf. lov 29. november 1996 nr. 68 om skatt til Svalbard (Svalbardskatteloven).",
+ "refid": "forskrift/2025-12-19-2780",
+ "eli": "/eli/forskrift/2025/12/19/2780",
+ "url": "https://lovdata.no/dokument/STV/forskrift/2025-12-19-2780",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Bruksområde for vedtaket",
+   "ledd": [
+    "Dette vedtaket gjeld utskriving av skatt på formue og inntekt for inntektsåret 2026 etter føresegnene i lov 29. november 1996 nr. 68 om skatt til Svalbard. Vedtaket gjeld òg som grunnlag for utskriving av forskot på skatt for inntektsåret 2026, jf. svalbardskattelova § 5-1."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Skatt på formue",
+   "ledd": [
+    "Skatt på formue blir utrekna etter desse satsane:\na. Personleg skattepliktig og dødsbu:\nDet blir nytta same satsar og grensebeløp som Stortinget har vedteke skal gjelde på det norske fastlandet for formuesskatt til staten og kommunane (maksimumssats).\nb. Selskap og samanslutningar som nemnde i skattelova § 2-36 andre ledd, og som ikkje er fritekne etter skattelova kap. 2:\nDet blir nytta same satsar og grensebeløp som Stortinget har vedteke skal gjelde på det norske fastlandet for formuesskatt til staten."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Skatt på inntekt",
+   "ledd": [
+    "Skatt på inntekt blir utrekna etter desse satsane:\na. Inntekt som blir skattlagd ved lønnstrekk etter svalbardskattelova § 3-1:\nLåg sats: 8 pst.\nHøg sats: 22 pst.\nb. 22 pst. av den delen av selskapsoverskot som er høgare enn 15 mill. kroner, og som overstig summen av\n- 10 gonger kostnadene til lønn som blir skattlagd ved lønnstrekk\n- 0,20 gonger skattemessig verdi av anlegg, fast eigedom og annan realkapital som er på Svalbard ved utgangen av inntektsåret\nc. Anna inntekt: 16 pst.",
+    "Personlege skattytarar skal ha eit frådrag i alminneleg inntekt som er omfatta av bokstav c, på 20 000 kroner."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Avrundingsreglar",
+   "ledd": [
+    "Ved utrekning av skatt skal formue og inntekt rundast nedover til nærmaste heile krone."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Normalrentesatsen for rimeleg lån i arbeidsforhold",
+   "ledd": [
+    "Normalrentesatsen som nemnd i skattelova § 5-12 fjerde ledd, jf. svalbardskattelova §§ 3-1 og 3-2, skal vere den same som Stortinget har vedteke skal gjelde på det norske fastlandet."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "Aksjonær i utlandet",
+   "ledd": [
+    "Skatt på utbytte m.m. etter skattelova § 10-13, jf. svalbardskattelova § 3-2, er fastsett til 20 pst."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 7",
+   "tittel": "Inntekt etter svalbardskattelova § 6-3",
+   "ledd": [
+    "For inntekt som blir skattlagd etter svalbardskattelova § 6-3, skal satsen vere 8 pst."
+   ]
+  }
+ ]
+}

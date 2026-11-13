@@ -1,0 +1,314 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2020-04-23-853",
+ "dokumentid": "SF/forskrift/2020-04-23-853",
+ "departement": [
+  "Kunnskapsdepartementet"
+ ],
+ "etat": [
+  "Nasjonalt organ for kvalitet i utdanningen (NOKUT)"
+ ],
+ "ikraft": "2020-08-01",
+ "siste_endring_ikraft": "2025-02-13",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2025-02-13-214",
+   "tekst": "forskrift/2025-02-13-214"
+  }
+ ],
+ "endrer": "forskrift/2018-10-25-2254",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2018-06-08-28/§5",
+   "tekst": "lov/2018-06-08-28/§5"
+  },
+  {
+   "ref": "lov/2018-06-08-28/§19",
+   "tekst": "lov/2018-06-08-28/§19"
+  },
+  {
+   "ref": "forskrift/2019-07-11-1005/§46",
+   "tekst": "forskrift/2019-07-11-1005/§46"
+  },
+  {
+   "ref": "forskrift/2019-07-11-1005/§54",
+   "tekst": "forskrift/2019-07-11-1005/§54"
+  }
+ ],
+ "kunngjort": "2020-04-24 16:40",
+ "siste_rettelse": "2025-04-02 (§ 2-2 overskrift)",
+ "korttittel": "Fagskoletilsynsforskriften",
+ "tittel": "Forskrift om akkreditering av og tilsyn med høyere yrkesfaglig utdanning (fagskoletilsynsforskriften)",
+ "annet": "Hjemmel: Fastsatt av NOKUT 23. april 2020 med hjemmel i lov 8. juni 2018 nr. 28 om høyere yrkesfaglig utdanning (fagskoleloven) § 5 og § 19, jf. forskrift 11. juli 2019 nr. 1005 om høyere yrkesfaglig utdanning (fagskoleforskriften) § 46 og § 54.\nEndret ved forskrift 13 feb 2025 nr. 214.\nOppheves ved forskrift 26 okt 2026 nr. 2162 (i kraft 1 aug 2027).\nRettet 02.04.2025 (§ 2-2 overskrift).",
+ "refid": "forskrift/2020-04-23-853",
+ "eli": "/eli/forskrift/2020/04/23/853",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2020-04-23-853",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Virkeområde og definisjoner",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1-1",
+     "tittel": "Hva forskriften gjelder",
+     "ledd": [
+      "Forskriften gjelder krav til akkreditering, drift og tilsyn i høyere yrkesfaglig utdanning (fagskoleutdanning)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 1-2",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "I denne forskriften menes med\na. fagmiljø: de som regelmessig og direkte bidrar til å gjennomføre, organisere eller utvikle utdanningen eller fagområdet\nb. utdanningsfaglig kompetanse: kompetanse i å fremme studenters læring, kan bestå av pedagogisk, didaktisk, digital eller annen relevant kompetanse."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Krav til fagskoleutdanning",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 2-1",
+     "tittel": "Utdanningens innhold og form",
+     "ledd": [
+      "Fagskolen skal samarbeide med aktører i arbeidslivet for å sikre at utdanningens læringsutbytte er relevant for ett eller flere yrkesfelt.",
+      "Utdanningens læringsutbytte skal være utformet i tråd med Nasjonalt kvalifikasjonsrammeverk for livslang læring (NKR), og kvalifikasjonen skal være tilstrekkelig for å utøve yrket.",
+      "Utdanningen skal ha\na. et dekkende navn\nb. et faginnhold og en struktur som er egnet til at studentene kan oppnå læringsutbyttet\nc. undervisnings-, lærings- og vurderingsformer som er egnet til at studentene kan oppnå læringsutbyttet.",
+      "For utdanninger med praksis skal det finnes en skriftlig praksisavtale mellom fagskolen og praksisstedet om hvordan praksisen skal gjennomføres.",
+      "Utdanningen skal ha en studieplan som informerer om utdanningens opptakskrav, faginnhold, struktur og undervisnings-, lærings- og vurderingsformer, inkludert praksis."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 2-2",
+     "tittel": "Studiepoeng og arbeidsomfang",
+     "ledd": [
+      "Utdanningen skal ha et omfang på inntil 120 studiepoeng, hvis det ikke er gitt unntak etter fagskoleloven § 4a første ledd. For utdanninger på mindre enn 30 studiepoeng gjelder fagskoleloven § 4a annet ledd.",
+      "Arbeidsomfanget for studentene skal være på 1500–1800 timer per år for heltidsstudier."
+     ],
+     "endringer": [
+      "Endret ved forskrift 13 feb 2025 nr. 214."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 2-3",
+     "tittel": "Fagmiljøet som er tilknyttet utdanningen",
+     "ledd": [
+      "Fagmiljøets størrelse og kompetanse skal stå i forhold til antallet studenter og utdanningens innhold og egenart. I fagmiljøet skal det finnes personer med utdanning minst på fagskolenivå, utdanningsfaglig kompetanse og oppdatert yrkeserfaring.",
+      "Utdanningen skal ha en\na. faglig ansvarlig som har ansvar for utviklingen og gjennomføringen av utdanningen. Den faglig ansvarlige skal ha utdanning som er relevant for utdanningens innhold og egenart, og være ansatt i minst 50 prosent stilling ved fagskolen.\nb. utdanningsfaglig ansvarlig med utdanningsfaglig utdanning som har ansvar for å legge til rette for studentenes læring.",
+      "Fagskolen skal fastsette egne krav til fagmiljøets størrelse, kompetanse og sammensetning.",
+      "Fagskolen skal sikre at fagmiljøet får nødvendig kompetanseutvikling."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 2-4",
+     "tittel": "Eksterne praksisveiledere",
+     "ledd": [
+      "Eksterne praksisveiledere skal ha kompetanse til å veilede og vurdere studentene i praksis."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 2-5",
+     "tittel": "Sensorer",
+     "ledd": [
+      "Sensorene skal ha kompetanse til å vurdere om studenten har oppnådd læringsutbyttet for emnet eller utdanningen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-6",
+     "nummer": "§ 2-6",
+     "tittel": "Utdanningens administrasjon og infrastruktur",
+     "ledd": [
+      "Fagskolen skal ha\na. administrative ressurser som er tilpasset utdanningen\nb. lokaler, utstyr, tilgang til informasjons- og bibliotekstjenester og annen infrastruktur som er tilpasset utdanningen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-7",
+     "nummer": "§ 2-7",
+     "tittel": "Vitnemål for utdanningen",
+     "ledd": [
+      "Fullført utdanning skal dokumenteres med vitnemål, jf. fagskoleforskriften § 19. Vitnemålet skal vise\na. fagskolens og utdanningens navn\nb. kandidatens navn og fødselsnummer\nc. en beskrivelse av karaktersystemet\nd. kandidatens karakterer\ne. det overordnede læringsutbyttet for utdanningen\nf. utdanningens emner og eventuell praksis\ng. nivå i Nasjonalt kvalifikasjonsrammeverk for livslang læring\nh. antall studiepoeng og eventuell gradsbetegnelse\ni. datoen for når vitnemålet er utstedt.",
+      "Dersom utdanningen har krav om skikkethetsvurdering, skal vitnemålet vise dette."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-8",
+     "nummer": "§ 2-8",
+     "tittel": "Dispensasjon fra akkreditert fagskoleutdanning på grunn av tiltak knyttet til covid-19 (koronaviruset)",
+     "ledd": [
+      "Fagskoler kan gjøre nødvendige endringer i forutsetningene for akkreditert fagskoleutdanning for å etterkomme pålegg fra myndighetene knyttet til å hindre spredning av covid-19 (koronaviruset). Dette gjelder blant annet nødvendige endringer i krav til undervisningsform, vurdering, eksamen og praksis. Fagskolen kan ikke gjøre endringer i det samlede læringsutbyttet for utdanningen.",
+      "Første ledd gjelder ikke for krav regulert av nasjonale eller internasjonale standarder, konvensjoner og avtaler som skal tilfredsstille kravene i disse.",
+      "NOKUT kan kreve at fagskolen rapporterer om endringer tillatt etter første ledd."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Krav til et akkreditert fagområde",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 3-1",
+     "tittel": "Avgrensning av fagområdet",
+     "ledd": [
+      "Fagområdet skal være relatert til ett eller flere yrkesfelt. Fagområdet skal være tydelig definert og avgrenset, men ha tilstrekkelig faglig bredde til å inkludere flere utdanninger.",
+      "Fagskolen skal ha en strategi med mål og tiltak for å utvikle fagområdet, og kunne gjennomføre denne."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 3-2",
+     "tittel": "Fagmiljøet som er tilknyttet fagområdet",
+     "ledd": [
+      "I fagmiljøet tilknyttet fagområdet skal det finnes personer med utdanning og yrkeserfaring innenfor de viktigste delene av fagområdet. I fagmiljøet skal det være personer med utdanning på nivå over fagskoleutdanning innenfor fagområdet eller et beslektet fagområde som er ansatt i minst 50 prosent stilling ved fagskolen.",
+      "I fagmiljøet skal det være mange nok fast ansatte til å bidra til å utvikle nye og eksisterende utdanninger innenfor fagområdet. Det skal være mange nok fast ansatte ved fagskolen med utdanningsfaglig utdanning til å utvikle pedagogiske metoder og verktøy innenfor fagområdet.",
+      "Fagmiljøet skal delta i relevante regionale, nasjonale eller internasjonale samarbeid og nettverk.",
+      "Minst halvparten av antallet lærere eller antallet lærerårsverk som er tilknyttet utdanningene i fagområdet, skal være fast ansatte ved fagskolen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 3-3",
+     "tittel": "Samarbeid med yrkesfeltet",
+     "ledd": [
+      "Fagskolen skal samarbeide med aktører i relevante yrkesfelt om å utvikle og gjennomføre utdanninger innenfor fagområdet."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Krav til fagskolens kvalitetsarbeid",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 4-1",
+     "tittel": "Fagskolens systematiske kvalitetsarbeid",
+     "ledd": [
+      "Fagskolens kvalitetsarbeid skal være forankret i fagskolens styre og ledelse. Fagskolen skal involvere ansatte og studenter, inkludert eventuelle studentorganer, i kvalitetsarbeidet.",
+      "Fagskolen skal fastsette mål for kvaliteten i utdanningene.",
+      "For å vurdere om hver enkelt utdanning når målet for kvalitet, skal fagskolen systematisk innhente\na. informasjon fra studenter, ansatte, representanter fra yrkesfeltet og eventuelle andre relevante kilder\nb. resultater fra fagskolens internkontroll, jf. fagskoleloven § 9 tredje ledd bokstav f.",
+      "Fagskolen skal bruke sin vurdering av kvaliteten til å rette opp sviktende kvalitet og videreutvikle kvaliteten i utdanningene."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 4-2",
+     "tittel": "Fagskolens system for kvalitetssikring",
+     "ledd": [
+      "Systemet for kvalitetssikring er fagskolens verktøy for å gjennomføre kvalitetsarbeidet, jf. fagskoleforskriften § 49. Fagskolens beskrivelse av systemet for kvalitetssikring skal vise målene for kvalitetsarbeidet, hvordan arbeidet skal gjennomføres, ansvarsforholdene og rapporteringslinjene.",
+      "For fagskoler med fagområdeakkreditering skal systemet for kvalitetssikring også vise prosedyrer for hvordan fagskolen\na. oppretter utdanninger den selv har fullmakt til å akkreditere\nb. gjennomfører vesentlige endringer av utdanninger som hører inn under fagområdet."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Fagskolens meldeplikt og NOKUTs akkreditering og tilsyn",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 5-1",
+     "tittel": "Meldeplikt for endringer ved fagskoleutdanninger",
+     "ledd": [
+      "Fagskolen skal melde fra til NOKUT om\na. nye utdanninger innenfor et akkreditert fagområde\nb. nye studiesteder for en utdanning\nc. endring av studiested for en utdanning\nd. endring av navnet på en utdanning\ne. endring av det samlede læringsutbyttet for en utdanning\nf. endring av utdanningsform for en utdanning.",
+      "Meldeplikten gjelder alle fagskoleutdanninger, og meldingen skal sendes før endringen gjennomføres. For endringer som gjelder utdanninger som ikke inngår i et akkreditert fagområde, vurderer NOKUT om endringene gjør det nødvendig å søke om ny akkreditering."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 5-2",
+     "tittel": "Søknadsfrister og søknadsskjema ved akkreditering",
+     "ledd": [
+      "NOKUT kan fastsette søknadsfrister for akkreditering av fagskoleutdanninger og fagområder, og at søknadene skal leveres på et bestemt skjema eller i et bestemt format."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 5-3",
+     "tittel": "Sakkyndige ved akkreditering av og tilsyn med fagskoleutdanninger",
+     "ledd": [
+      "Når NOKUT oppnevner sakkyndige til faglige vurderinger ved akkreditering av og tilsyn med fagskoleutdanninger, skal de sakkyndige til sammen ha\na. utdanning minst på nivå med toårig fagskoleutdanning innenfor fagområdet eller et beslektet fagområde\nb. utdanningsfaglig utdanning eller relevant undervisningserfaring\nc. relevant kunnskap om og erfaring fra et aktuelt yrkesfelt.",
+      "For akkreditering av utdanninger der en annen myndighet gir sertifisering eller autorisasjon, skal de sakkyndige ha kunnskap om sertifiserings- eller autorisasjonskravene.",
+      "Ved tilsyn skal én sakkyndig være fagskolestudent eller ha vært det i løpet av de fem siste årene.",
+      "NOKUT skal gi søkere og fagskoler det skal føres tilsyn med, mulighet til å kommentere forslag om sakkyndige før de oppnevnes."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-4",
+     "nummer": "§ 5-4",
+     "tittel": "Sakkyndige ved akkreditering av og tilsyn med fagområder",
+     "ledd": [
+      "Når NOKUT oppnevner sakkyndige til faglige vurderinger ved akkreditering av og tilsyn med fagområder, skal de sakkyndige til sammen ha\na. erfaring fra relevant, anerkjent yrkesfelt og oppdatert kunnskap om aktuell faglig utvikling innenfor yrkesfeltet\nb. utdanning minst på nivå med toårig fagskoleutdanning innenfor relevant fagområde\nc. utdanningsfaglig utdanning og relevant undervisningserfaring\nd. erfaring fra ledelse ved fagskole, høyskole eller universitet\ne. kjennskap til både videregående opplæring, fagskoleutdanning og høyere utdanning\nf. erfaring fra sentrale fagskolestudenttillitsverv fra de fem siste årene.",
+      "NOKUT skal gi søkere og fagskoler som NOKUT skal føre tilsyn med, mulighet til å kommentere forslag om sakkyndige før de oppnevnes."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Sluttbestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 6-1",
+     "tittel": "Når forskriften trer i kraft",
+     "ledd": [
+      "Forskriften trer i kraft 1. august 2020. Samtidig oppheves forskrift 25. oktober 2018 nr. 2254 om tilsyn med kvaliteten i fagskoleutdanning (fagskoletilsynsforskriften)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 6-2",
+     "tittel": "Overgangsregler",
+     "ledd": [
+      "Søknader om akkreditering som er mottatt av NOKUT før denne forskriften trer i kraft, behandles etter reglene som gjaldt da NOKUT mottok søknaden."
+     ]
+    }
+   ]
+  }
+ ]
+}

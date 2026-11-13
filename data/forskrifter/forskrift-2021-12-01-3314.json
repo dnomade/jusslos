@@ -1,0 +1,118 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2021-12-01-3314",
+ "dokumentid": "SF/forskrift/2021-12-01-3314",
+ "departement": [
+  "Justis- og beredskapsdepartementet"
+ ],
+ "etat": [
+  "Sivilavdelingen"
+ ],
+ "ikraft": "2021-12-01",
+ "siste_endring_ikraft": "2026-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2025-12-14-2558",
+   "tekst": "forskrift/2025-12-14-2558 fra 2026-01-01"
+  }
+ ],
+ "hjemmel": [
+  {
+   "ref": "lov/1915-08-13-5/§197a",
+   "tekst": "lov/1915-08-13-5/§197a"
+  },
+  {
+   "ref": "forskrift/2012-02-03-119",
+   "tekst": "forskrift/2012-02-03-119"
+  }
+ ],
+ "kunngjort": "2021-12-01 14:25",
+ "korttittel": "Forskrift om signatur i domstolene mv.",
+ "tittel": "Forskrift om signatur i domstolene mv.",
+ "annet": "Hjemmel: Fastsatt av Justis- og beredskapsdepartementet 1. desember 2021 med hjemmel i lov 13. august 1915 nr. 5 om domstolene (domstolloven) § 197a, jf. delegeringsvedtak 3. februar 2012 nr. 119 punkt 2.\nEndret ved forskrift 14 des 2025 nr. 2558 (i kraft 1 jan 2026).",
+ "refid": "forskrift/2021-12-01-3314",
+ "eli": "/eli/forskrift/2021/12/01/3314",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2021-12-01-3314",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Formål og anvendelsesområde",
+   "ledd": [
+    "Forskriften skal gi effektive og fleksible signaturløsninger i domstolene, samtidig som hensynet til rettssikkerhet ivaretas.",
+    "Forskriften gjelder ved krav om undertegning i prosesslovene."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Elektronisk signatur",
+   "ledd": [
+    "Ved krav om undertegning av rettslige avgjørelser i prosesslovene kan undertegningen skje ved bruk av en betryggende løsning for elektronisk signatur.",
+    "Avgjørelsen anses undertegnet når den er signert ved bruk av en løsning som nevnt i første ledd og er sendt til registrering i domstolenes saksbehandlingssystem."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Alternativ signeringsmetode",
+   "ledd": [
+    "Undertegning av rettslige avgjørelser som nevnt i § 2 kan også skje ved at et bilde av avgjørelsens slutning med underskrift sendes til registrering i domstolenes saksbehandlingssystem, eller ved at avgjørelsens slutning med underskrift skannes og sendes til slik registrering.",
+    "Signeringsmetoden i første ledd kan bare benyttes når andre signeringsmetoder ikke er tilgjengelige eller hensiktsmessige å bruke."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Avsigelse av rettslige avgjørelser i saker med flere dommere",
+   "ledd": [
+    "I saker med flere dommere kan rettslige avgjørelser etter prosesslovene avsies ved at alle rettens medlemmer underskriver på likelydende dokumenter med avgjørelsens slutning ved bruk av signaturløsning som nevnt i § 2 eller § 3. Rettens leder, eller en fagdommer denne utpeker, skal underskrive til slutt. Avgjørelsen anses avsagt når rettens leder eller den utpekte fagdommeren har underskrevet og sendt avgjørelsen til registrering i domstolenes saksbehandlingssystem.",
+    "Rettslige avgjørelser kan også avsies ved at avgjørelsen undertegnes i samsvar med § 2 eller § 3 av rettens leder eller en fagdommer denne utpeker, og som bekrefter skriftlig at rettens øvrige medlemmer har godkjent avgjørelsens innhold, tidspunktet for godkjennelsen og hvordan godkjennelsen ble gitt. Bekreftelsen skal undertegnes av rettens leder eller den utpekte fagdommeren, og fremgå av samme dokument som avgjørelsen. Avgjørelsen anses som avsagt når rettens leder eller den utpekte fagdommeren har underskrevet og sendt avgjørelsen med bekreftelsen til registrering i domstolenes saksbehandlingssystem.",
+    "Signeringsmetoden i andre ledd kan bare benyttes når andre signeringsmetoder ikke er tilgjengelige eller hensiktsmessige å bruke."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Undertegning av rettsboken",
+   "ledd": [
+    "Rettsboken kan undertegnes etter reglene i § 2 og § 3.",
+    "Rettsbok over forhandlinger i saker etter straffeprosessloven anses undertegnet når den er underskrevet av rettens leder eller en fagdommer som denne utpeker. Dommeren skal sammen med sin underskrift skriftlig bekrefte at rettens øvrige medlemmer har godkjent rettsbokens innhold, tidspunktet for godkjennelsen og hvordan godkjennelsen ble gitt. Kravet i § 4 tredje ledd gjelder tilsvarende."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "Undertegning av rettsforlik",
+   "ledd": [
+    "Rettsforlik kan undertegnes ved at partene eller partenes prosessfullmektiger og rettens medlemmer underskriver på likelydende dokumenter med rettsforliket etter fremgangsmåten i § 2 eller § 3. Rettens leder underskriver til slutt."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 7",
+   "tittel": "(Opphevet)",
+   "ledd": [],
+   "endringer": [
+    "Opphevet ved forskrift 14 des 2025 nr. 2558 (i kraft 1 jan 2026)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-8",
+   "nummer": "§ 8",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Forskriften trer i kraft 1. desember 2021."
+   ]
+  }
+ ]
+}

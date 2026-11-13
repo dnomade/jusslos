@@ -1,0 +1,57 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-1974-12-20-3",
+ "dokumentid": "DEL/forskrift/1974-12-20-3",
+ "departement": [
+  "Justis- og beredskapsdepartementet"
+ ],
+ "etat": [
+  "Politiavd."
+ ],
+ "kunngjort_i": "I 1974 1093",
+ "ikraft": "1975-01-01",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1971-06-11-52/§10",
+   "tekst": "lov/1971-06-11-52/§10"
+  },
+  {
+   "ref": "lov/1971-06-11-52/§11",
+   "tekst": "lov/1971-06-11-52/§11"
+  }
+ ],
+ "korttittel": "Ikrafttr. av strafferegistreringsl. Delegering.",
+ "tittel": "Ikrafttredelse av lov 11. juni 1971 nr. 52 om strafferegistrering.",
+ "annet": "Fastsatt ved kgl.res. 20. desember 1974 med hjemmel i lov av 11. juni 1971 nr. 52 om strafferegistrering § 10. Fremmet av Justis- og politidepartementet.",
+ "refid": "forskrift/1974-12-20-3",
+ "eli": "/eli/forskrift/1974/12/20/03",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/1974-12-20-3",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Loven trer i kraft 1. januar 1975."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Justisdepartementet gis i medhold av lov av 11. juni 1971 nr. 52 om strafferegistrering § 10 myndighet til å fastsette nærmere forskrifter til gjennomføring av loven."
+    }
+   ]
+  }
+ ]
+}

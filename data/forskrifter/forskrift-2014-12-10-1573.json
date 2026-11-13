@@ -1,0 +1,668 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2014-12-10-1573",
+ "dokumentid": "SF/forskrift/2014-12-10-1573",
+ "departement": [
+  "Samferdselsdepartementet"
+ ],
+ "etat": [
+  "Statens jernbanetilsyn"
+ ],
+ "kunngjort_i": "I 2014 hefte 16",
+ "ikraft": "2015-01-01",
+ "siste_endring_ikraft": "2017-09-08",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2017-09-08-1365",
+   "tekst": "forskrift/2017-09-08-1365"
+  }
+ ],
+ "endrer": "forskrift/2006-12-06-1356",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1993-06-11-100/§3d",
+   "tekst": "lov/1993-06-11-100/§3d"
+  },
+  {
+   "ref": "lov/1993-06-11-100/§4",
+   "tekst": "lov/1993-06-11-100/§4"
+  },
+  {
+   "ref": "lov/1993-06-11-100/§5",
+   "tekst": "lov/1993-06-11-100/§5"
+  },
+  {
+   "ref": "lov/1993-06-11-100/§6",
+   "tekst": "lov/1993-06-11-100/§6"
+  },
+  {
+   "ref": "forskrift/2010-12-10-1569/§1-6",
+   "tekst": "forskrift/2010-12-10-1569/§1-6"
+  }
+ ],
+ "kunngjort": "2014-12-12 15:00",
+ "korttittel": "Sidesporforskriften",
+ "tittel": "Forskrift om krav til privat sidespor og godsbane (sidesporforskriften)",
+ "annet": "Hjemmel: Fastsatt av Statens jernbanetilsyn 10. desember 2014 med hjemmel i lov 11. juni 1993 nr. 100 om anlegg og drift av jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. (jernbaneloven) § 3d, § 4, § 5 og § 6, jf. forskrift 10. desember 2010 nr. 1569 om tillatelse til å drive trafikkvirksomhet og infrastruktur for sporvei, tunnelbane, forstadsbane og godsbane, samt sidespor, havnespor m.m. (tillatelsesforskriften) § 1-6.\nEØS-henvisninger: Meldt til EFTAs overvåkingsorgan om tekniske regler 14. oktober 2016, jf. lov 17. desember 2004 nr. 101 om europeisk meldeplikt for tekniske regler m.m. (EØS-høringsloven) § 11, jf. § 10, jf. EØS-avtalen vedlegg II kap. XIX nr. 1 (direktiv 98/34/EF, som endret ved direktiv 98/48/EF). Stadfestet 8. september 2017.\nEndret ved forskrifter 19 des 2016 nr. 1735, 8 sep 2017 nr. 1364 (EØS-høring), 8 sep 2017 nr. 1365 (stadfestelse etter gjennomført EØS-høring).",
+ "refid": "forskrift/2014-12-10-1573",
+ "eli": "/eli/forskrift/2014/12/10/1573",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2014-12-10-1573",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Formål",
+     "ledd": [
+      "Formålet med denne forskriften er å fastsette minimumskrav for å sikre at virksomhetene arbeider systematisk og proaktivt slik at det etablerte sikkerhetsnivået opprettholdes og i den grad det er nødvendig forbedres, samt at jernbaneulykker, alvorlige jernbanehendelser og jernbanehendelser unngås."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Forskriften gjelder for drift av privat sidespor og godsbane."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "I forskriften her forstås med:\na. alvorlig jernbanehendelse: en uønsket hendelse som under litt andre omstendigheter kunne ha ført til en jernbaneulykke,\nb. godsbane: jernbanevirksomhet på privateid infrastruktur som brukes bare av eierne til egen godstransport,\nc. infrastruktur: trasé, over- og underbygning, strømforsyningsanlegg, signalanlegg og kommunikasjonssystem,\nd. jernbanehendelse: enhver annen hendelse enn en jernbaneulykke, som har sammenheng med jernbanedriften, og som innvirker på sikkerheten,\ne. jernbaneulykke: en uønsket eller utilsiktet plutselig hendelse eller en bestemt rekke slike hendelser som har skadelige følger, herunder som medfører at noen dør eller blir alvorlig skadet, som medfører betydelig skade på jernbanemateriell, på infrastruktur, på eiendom utenfor jernbanen eller på miljø, og alle andre lignende ulykker,\nf. jernbanevirksomhet: drift av infrastruktur, trafikkstyring og/eller trafikkvirksomhet eller den som driver infrastruktur, trafikkstyring og/eller trafikkvirksomhet,\ng. kjøretøy: et kjøretøy som kjører på egne hjul på jernbane med eller uten egen trekkraft,\nh. sidespor: spor som ikke brukes til kjøring av tog, men til hensetting, opp- og avlasting av vogner m.m., herunder terminalspor og havnespor,\ni. sikkerhetsstyring: systematiske tiltak en organisasjon iverksetter for å oppnå, opprettholde og videreutvikle sikkerhetsnivå i overensstemmelse med fastlagte mål,\nj. sikkerhetsstyringssystem: organisasjon og systemer opprettet av en jernbanevirksomhet med henblikk på sikker forvaltning av deres virksomhet,\nk. skift: kjøretøy som flyttes under skifting,\nl. skifting: flytting av kjøretøy som ikke er tog,\nm. tog: trekkraftkjøretøy med eller uten vogner som skal framføres fra et bestemt utgangssted til et bestemt ankomststed,\nn. trafikkstyring: togledelse og andre funksjoner som koordinerer og ivaretar sikkerheten for togframføringen."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Sikkerhetsstyringssystem",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 4",
+     "tittel": "Krav om sikkerhetsstyringssystem",
+     "ledd": [
+      "Jernbanevirksomheten skal ha et sikkerhetsstyringssystem. Formålet med sikkerhetsstyringssystemet skal være å etablere en helhetlig styring av virksomheten for å kunne drive sikkert.",
+      "Sikkerhetsstyringssystemet skal være tilpasset arten og omfanget av virksomheten og skal inneholde bestemmelser som er nødvendige for å ha kontroll med alle vesentlige risikoer forbundet med virksomheten.",
+      "Sikkerhetsstyringssystemet skal være dokumentert, og tilstrekkelig kjent av alle som har oppgaver som kan påvirke sikkerheten."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 5",
+     "tittel": "Krav til sikkerhetsstyringssystem",
+     "ledd": [
+      "Sikkerhetsstyringssystemet skal minst omfatte:\na. bestemmelser om hvordan sikkerhetsmessig risiko forbundet med driften av virksomheten skal identifiseres og følges opp,\nb. bestemmelser om drift og vedlikehold som ivaretar tilfredsstillende sikkerhet,\nc. krav til kompetanse for personell som har oppgaver som kan påvirke sikkerheten,\nd. beskrivelse av hvordan ansvar og myndighet er fordelt i virksomhetens organisasjon, herunder instrukser for personell som har oppgaver som kan påvirke sikkerheten,\ne. beredskapsplan og beredskapsøvelser,\nf. rutiner for oppfølging av jernbaneulykke, alvorlig jernbanehendelse, jernbanehendelse og avvik fra jernbanelovgivningen og interne bestemmelser. Rutinene skal omfatte umiddelbare tiltak for å redusere virkningene av ulykken, hendelsen eller avviket, undersøkelse av årsak og fastsettelse av tiltak for å hindre gjentagelse og\ng. årlig oppsummering av foregående års sikkerhetsarbeid,\nh. bestemmelser som sikrer at de medisinske, psykologiske og helsemessige kravene i kapittel 7 oppfylles."
+     ],
+     "endringer": [
+      "Endret ved forskrift 19 des 2016 nr. 1735 (i kraft 1 jan 2017)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Krav til forvaltning av infrastruktur",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 6",
+     "tittel": "Generelle krav til forvaltning av infrastruktur",
+     "ledd": [
+      "Jernbanevirksomheten skal sikre at infrastrukturen til enhver tid er utformet og i en slik tilstand at det legges til rette for sikker drift. Det skal kun gis adgang til kjøretøy som er kompatibelt med infrastrukturen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 7",
+     "tittel": "Prinsipper for trafikkavvikling (romblokkprinsippet)",
+     "ledd": [
+      "Jernbanevirksomheten skal utforme og drifte infrastrukturen samt drive trafikkstyring, slik at kjøring av tog på en strekning eller på et spor kontrolleres på en måte som sikrer at et tog ikke kjører inn på en strekning eller et spor der det befinner seg kjøretøy (romblokkprinsippet)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 8",
+     "tittel": "Signalprinsipper",
+     "ledd": [
+      "Jernbanevirksomheten skal ha prinsipper for tillatte signaler og deres plassering."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 9",
+     "tittel": "Kontroll og vedlikehold av infrastruktur",
+     "ledd": [
+      "Jernbanevirksomheten skal føre kontroll med infrastrukturen, og utføre nødvendig vedlikehold. Jernbanevirksomheten skal ha sikkerhetsmessige minimumskrav til systemer, deler og komponenter.",
+      "Jernbanevirksomheten skal ha kontroll på utført vedlikehold."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 10",
+     "tittel": "Teknisk dokumentasjon",
+     "ledd": [
+      "Jernbanevirksomheten skal ha teknisk dokumentasjon for alle systemer, deler og komponenter. Dokumentasjonen skal beskrive de forutsetninger og begrensninger som er knyttet til infrastrukturens utforming."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-6",
+     "nummer": "§ 11",
+     "tittel": "Oversikt over infrastrukturen",
+     "ledd": [
+      "Jernbanevirksomheten skal ha en dokumentert oversikt over systemer, deler og komponenter som inngår i infrastrukturen. Oversikten skal identifisere systemer, deler og komponenter ved hjelp av en stedsangivelse."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-7",
+     "nummer": "§ 12",
+     "tittel": "Kjøring i forbindelse med drift av infrastruktur",
+     "ledd": [
+      "Ved kjøring i forbindelse med kontroll, arbeid, rydding av snø eller vegetasjon mv. på infrastrukturen stilles samme sikkerhetsmessige krav som til øvrig trafikkutøvelse."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-8",
+     "nummer": "§ 13",
+     "tittel": "Trafikkstyring",
+     "ledd": [
+      "All trafikk på infrastrukturen skal overvåkes og ledes slik at virksomheten drives sikkert.",
+      "Når framføring skjer etter romblokkprinsippet, skal trafikkstyringen bl.a. sikre at det til enhver tid er oversikt over de enkelte togs retning, posisjon og rekkefølge. På spor som ikke er bekreftet fri for tog, kan framføring skje på sikt dersom hastigheten begrenses slik at toget kan stoppe på halvparten av synlig strekning.",
+      "Den som driver trafikkstyring skal ha velegnet utstyr for å drive trafikkstyring, herunder for å kunne kommunisere med togbetjening."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-9",
+     "nummer": "§ 14",
+     "tittel": "Bestemmelser for sikker trafikkavvikling for godsbane",
+     "ledd": [
+      "Jernbanevirksomheter som driver godsbane skal ha bestemmelser for trafikkavvikling tilpasset banens sikringsstandard. Bestemmelsene skal ivareta en sikker trafikkavvikling under alle driftssituasjoner.",
+      "Jernbanevirksomheten skal ha bestemmelser om skifting.",
+      "Bestemmelsene skal gjenspeile systemet for trafikkavvikling og skal minst inneholde bestemmelser om signaler og deres betydning i trafikkavviklingen, ansvarsforhold, ordrelinjer og kommunikasjonsprosedyrer."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Krav til trafikkvirksomhet",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 15",
+     "tittel": "Generelle krav til trafikkvirksomhet",
+     "ledd": [
+      "Jernbanevirksomheten skal sørge for at trafikken foregår sikkert.",
+      "Forutsetninger og begrensninger knyttet til kjøretøyets utforming skal legges til grunn for prosedyrer for drift og vedlikehold av kjøretøy."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 16",
+     "tittel": "Kontroll og vedlikehold av kjøretøy",
+     "ledd": [
+      "Jernbanevirksomheten skal føre kontroll med kjøretøyet. Jernbanevirksomheten skal ha sikkerhetsmessige minimumskrav til systemer, deler og komponenter.",
+      "Kjøretøy skal vedlikeholdes i henhold til nasjonale og internasjonale standarder. Jernbanevirksomheten skal dokumentere utført vedlikehold."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 17",
+     "tittel": "Teknisk dokumentasjon",
+     "ledd": [
+      "Jernbanevirksomheten skal ha oppdatert teknisk dokumentasjon for kjøretøy, herunder alle systemer, deler, komponenter og krav til vedlikehold. Dokumentasjonen skal kunne bekrefte at systemer, deler og komponenter er i samsvar med de nasjonale og internasjonale standarder som er lagt til grunn for prosjektering og bygging. Dokumentasjonen skal beskrive de forutsetninger og begrensninger som er knyttet til kjøretøyets utforming."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 18",
+     "tittel": "Oversikt over kjøretøy",
+     "ledd": [
+      "Jernbanevirksomheten skal ha en dokumentert oversikt over alle kjøretøy som virksomheten bruker. Oversikten skal som et minimum identifisere kjøretøy individuelt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-5",
+     "nummer": "§ 19",
+     "tittel": "Kommunikasjonssystem",
+     "ledd": [
+      "Kjøretøy skal ha utstyr for nødkommunikasjon tilpasset infrastrukturens system for kommunikasjon, slik at det til enhver tid er gjensidig mulighet for rask kontakt mellom fører og den som driver trafikkstyring."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-6",
+     "nummer": "§ 20",
+     "tittel": "Bestemmelser for togframføring for godsbane",
+     "ledd": [
+      "Jernbanevirksomheter som driver godsbane skal ha utarbeidet nødvendige bestemmelser for togframføring. Bestemmelsene skal være avstemt med gjeldende regler for den aktuelle infrastruktur og skal minst inneholde bestemmelser om sammensetting av tog, bremsekraft, aksellast, lasteprofil, metervekter, tillatte hastigheter, sikring av last m.m."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-7",
+     "nummer": "§ 21",
+     "tittel": "Kontrollrutiner for godsbane",
+     "ledd": [
+      "Jernbanevirksomheter som driver godsbane skal ha bestemmelser for prøving av togenes bremser samt kontrollrutiner som sikrer at kjøretøy til enhver tid er i full driftssikker stand."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Krav til infrastruktur",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 22",
+     "tittel": "Generelle krav til infrastruktur",
+     "ledd": [
+      "Infrastrukturen skal utformes slik at virksomheten drives sikkert.",
+      "Infrastrukturen skal prosjekteres, bygges og testes i henhold til nasjonale og internasjonale standarder. Jernbanevirksomheten skal gjøre en sikkerhetsmessig vurdering av avvik fra valgte standarder. Vurderingen skal dokumenteres.",
+      "Jernbanevirksomheten skal benytte prosesstandarden EN 50126 ved bygging av ny infrastruktur og ved endring av programmerbare tekniske systemer. Ved andre endringer av infrastruktur skal jernbanevirksomheten vurdere om endringen er av en slik karakter at bruk av EN 50126 er hensiktsmessig. Vurderingen skal dokumenteres."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 23",
+     "tittel": "Trasé m.m.",
+     "ledd": [
+      "Trasé, under- og overbygning samt sporgeometri skal utformes og vedlikeholdes slik at muligheten for avsporinger minimaliseres. Sikkerhetsmessige grenseverdier for sporfeil, herunder vindskjevhet, sporutvidelser, høyde- og sidefeil skal fastsettes i forhold til kjøretøy som tillates brukt på strekningen og strekningens tillatte kjørehastigheter.",
+      "Spor for hensetting skal sikres slik at kjøretøy ikke utilsiktet kommer ut i spor der det kjøres tog."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 24",
+     "tittel": "Tunneler, broer m.m.",
+     "ledd": [
+      "Tunneler og broer skal utformes og utstyres slik at det gir muligheter for evakuering og selvberging i tilfelle av brann og andre ulykker.",
+      "Gangbaner på broer skal være skjermet med rekkverk. Gangbaner skal være fri for hindringer i høyden og bredden slik at evakuering kan foregå på en sikker måte."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-4",
+     "nummer": "§ 25",
+     "tittel": "Planoverganger",
+     "ledd": [
+      "Planoverganger skal være tilrettelagt for sikker passering for veifarende.",
+      "Det skal ikke bygges nye planoverganger. Det kan likevel bygges planoverganger på områder som er stengt for alminnelig ferdsel, samt midlertidige planoverganger på anleggsområder."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-5",
+     "nummer": "§ 26",
+     "tittel": "Signalanlegg",
+     "ledd": [
+      "Signalanlegg skal være konstruert slik at de feiler til sikker tilstand.",
+      "Signaler skal plasseres slik at det klart går fram hvilke spor signalene gjelder for, og signalbildet skal være synlig for togets fører i god tid før signalpassering."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-6",
+     "nummer": "§ 27",
+     "tittel": "Kommunikasjonssystem",
+     "ledd": [
+      "På all infrastruktur skal det være system for nødkommunikasjon, slik at det til enhver tid er gjensidig mulighet for rask kontakt mellom fører og den som driver trafikkstyring."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-7",
+     "nummer": "§ 28",
+     "tittel": "Tillatelse til å ta i bruk infrastruktur",
+     "ledd": [
+      "Før infrastruktur settes i drift skal Statens jernbanetilsyn gi tillatelse til å ta infrastrukturen i bruk. Dersom det senere foretas endring av infrastrukturen, herunder signalprinsipper, skal dette meldes til Statens jernbanetilsyn som vil vurdere om endringen er av en slik art at ny tillatelse til å ta i bruk infrastrukturen, eventuelt tillatelse til å ta i bruk endringen, er nødvendig."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-8",
+     "nummer": "§ 29",
+     "tittel": "Melding om ny eller endret infrastruktur",
+     "ledd": [
+      "Det skal sendes melding til Statens jernbanetilsyn om ny eller endret infrastruktur så tidlig som mulig.",
+      "Meldingen skal minst inneholde:\na. navn på og kontaktopplysninger til kontaktperson,\nb. planlagt fremdrift i prosjektet,\nc. systembeskrivelse,\nd. sikkerhetsplan,\ne. oversikt over planlagt anvendte standarder og\nf. risikovurdering."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-9",
+     "nummer": "§ 30",
+     "tittel": "Søknad om tillatelse til å ta infrastruktur i bruk",
+     "ledd": [
+      "Søknad om tillatelse til å ta infrastruktur i bruk skal minst inneholde:\na. beskrivelse av ferdig infrastruktur,\nb. oversikt over verifikasjoner,\nc. sikkerhetsrapport,\nd. oppdatert liste over anvendte standarder med oversikt over avvik fra standarder og de sikkerhetsmessige vurderingene som ligger til grunn for virksomhetens aksept av avvikene,\ne. oversikt over utførte risikovurderinger med samlet oversikt over forutsetninger og anbefalinger fra risikovurderingene samt beskrivelse av hvordan forutsetningene og anbefalingene er fulgt opp og\nf. sikkerhetsoppfølgingsplan (SOP).",
+      "Er assessor eller andre uavhengige parter benyttet, skal rapporter og oppfølging av disse vedlegges.",
+      "Statens jernbanetilsyn kan kreve at det benyttes assessor, og at Statens jernbanetilsyn har direkte kontakt med vedkommende. Assessoren skal aksepteres av Statens jernbanetilsyn. Statens jernbanetilsyn kan også kreve at det benyttes uavhengige parter til andre typer aktiviteter."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Krav til kjøretøy",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 31",
+     "tittel": "Generelle krav til kjøretøy",
+     "ledd": [
+      "Kjøretøy skal ha en teknisk utforming og driftsmessig tilstand som gjør at virksomheten drives sikkert.",
+      "Kjøretøy skal være identitetsmerket samt teknisk og bruksmessig merket."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 32",
+     "tittel": "Kompatibilitet med infrastrukturen",
+     "ledd": [
+      "Kjøretøy skal være dokumentert kompatibelt med infrastrukturen det skal brukes på, herunder profil, over- og underbygning, strømforsyningsanlegg, signalanlegg og kommunikasjonssystem."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-3",
+     "nummer": "§ 33",
+     "tittel": "Bremser",
+     "ledd": [
+      "Alle kjøretøy skal ha bremser. Bremsene skal under alle forhold kunne stanse kjøretøyet innenfor en maksimal bremseveilengde definert av jernbanevirksomheten. Bremsesystemene skal være konstruert slik at de feiler til sikker tilstand.",
+      "Kjøretøy skal ha parkeringsbrems eller annet utstyr for sikker parkering av kjøretøyet.",
+      "Førerrom skal være utstyrt med et system for årvåkenhetskontroll som aktiverer bremsene om føreren faller i søvn eller mister bevisstheten."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-4",
+     "nummer": "§ 34",
+     "tittel": "Evakuering",
+     "ledd": [
+      "Kjøretøy skal være tilrettelagt slik at evakuering og selvberging kan skje i tilfelle brann og andre ulykker.",
+      "Kjøretøy skal ha nødutstyr om bord tilpasset kjøretøyets bruk. Nødutstyr og plassering av dette skal være merket.",
+      "Kjøretøy skal ha nødlys."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-5",
+     "nummer": "§ 35",
+     "tittel": "Krav til nye eller endrede kjøretøy",
+     "ledd": [
+      "Kjøretøy skal prosjekteres, konstrueres, testes, oppgraderes og fornyes i henhold til nasjonale og internasjonale standarder. Valgte standarder skal opprettholde eller forbedre sikkerheten for det aktuelle kjøretøyet. Jernbanevirksomheten skal gjøre en sikkerhetsmessig vurdering av avvik fra valgte standarder. Vurderingen skal dokumenteres.",
+      "For alle nye kjøretøy eller ved vesentlige oppgraderinger skal prosesstandard EN 50126 følges.",
+      "Kjøretøy skal være konstruert slik at det tåler de driftsmessige og klimamessige belastninger det utsettes for under drift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-6",
+     "nummer": "§ 36",
+     "tittel": "Tillatelse til å ta i bruk kjøretøy",
+     "ledd": [
+      "Før kjøretøy tas i bruk på infrastrukturen, skal Statens jernbanetilsyn gi tillatelse til å ta kjøretøyet i bruk. Dersom det senere foretas endring av kjøretøyet, skal dette meldes til Statens jernbanetilsyn som vil vurdere om endringen er av en slik art at ny tillatelse til å ta i bruk kjøretøyet, eventuelt tillatelse til å ta i bruk endringen, er nødvendig."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-7",
+     "nummer": "§ 37",
+     "tittel": "Melding om nytt eller endret kjøretøy",
+     "ledd": [
+      "Det skal sendes melding til Statens jernbanetilsyn om nytt eller endret kjøretøy så tidlig som mulig.",
+      "Meldingen skal minst inneholde:\na. navn på og kontaktopplysninger til kontaktperson,\nb. planlagt fremdrift i prosjektet,\nc. systembeskrivelse,\nd. sikkerhetsplan,\ne. oversikt over planlagt anvendte standarder og\nf. risikovurdering."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-8",
+     "nummer": "§ 38",
+     "tittel": "Søknad om tillatelse til å ta i bruk kjøretøy",
+     "ledd": [
+      "Søknad om tillatelse til å ta i bruk kjøretøy skal minst inneholde:\na. oversiktstegninger og beskrivelser av kjøretøytypen,\nb. oversikt over verifikasjoner,\nc. sikkerhetsrapport,\nd. oppdatert liste over anvendte standarder med oversikt over avvik og de sikkerhetsmessige vurderingene som ligger til grunn for virksomhetens aksept av avvikene,\ne. oversikt over utførte risikovurderinger med samlet oversikt over forutsetninger og anbefalinger fra risikovurderingene, samt beskrivelse av hvordan forutsetningene og anbefalingene er fulgt opp og\nf. sikkerhetsoppfølgingsplan (SOP).",
+      "Er assessor eller andre uavhengige parter benyttet, skal rapporter vedlegges.",
+      "Statens jernbanetilsyn kan kreve at det benyttes assessor, og at Statens jernbanetilsyn har direkte kontakt med vedkommende. Assessoren skal aksepteres av Statens jernbanetilsyn. Statens jernbanetilsyn kan også kreve at det benyttes uavhengige parter til andre typer aktiviteter."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kap7",
+   "overskrift": "Kapittel 7. Krav til helse",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Tilføyd ved forskrift 19 des 2016 nr. 1735 (i kraft 1 jan 2017)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 39",
+     "tittel": "Arbeidsoppgaver av betydning for trafikksikkerheten",
+     "ledd": [
+      "Bestemmelsene i dette kapitlet omfatter operativt personell som utfører arbeidsoppgaver av betydning for trafikksikkerheten, for eksempel fører, trafikkstyrer, sikkerhetsvakt mv. Slikt personell må ha gjennomført helseundersøkelse og oppfylle kravene til helse i dette kapitlet.",
+      "Personell som nevnt i første ledd skal informere jernbanevirksomheten om sin egen helsetilstand dersom vedkommende er kjent med eller mistenker at helsetilstanden er endret slik at kravene ikke lenger er oppfylt.",
+      "Dersom det er tvil om arbeidsoppgavene fortsatt kan utføres uten fare for trafikksikkerheten vises det til § 44."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 19 des 2016 nr. 1735 (i kraft 1 jan 2017)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-2",
+     "nummer": "§ 40",
+     "tittel": "Helseundersøkelse",
+     "ledd": [
+      "Den som skal utføre eller opplæres til å utføre arbeidsoppgaver som nevnt i § 39 skal gjennomgå en helseundersøkelse. Helseundersøkelsen skal utføres av en lege."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 19 des 2016 nr. 1735 (i kraft 1 jan 2017)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-3",
+     "nummer": "§ 41",
+     "tittel": "Første gangs helseundersøkelse",
+     "ledd": [
+      "Den som skal utføre eller opplæres til arbeidsoppgaver som nevnt i § 39 skal gjennomgå en helseundersøkelse som minst skal omfatte:\na. en generell undersøkelse,\nb. undersøkelser av sansefunksjoner (syn, hørsel, fargesans),\nc. en analyse av urin- eller blodprøve for eventuelt å avdekke diabetes og eventuelle andre forhold som måtte følge av den kliniske undersøkelsen, herunder bruk av narkotiske stoffer.",
+      "Det skal også gjennomføres en psykologisk undersøkelse som skal omfatte:\na. kognitive egenskaper,\nb. psykomotoriske egenskaper,\nc. atferdsmessige og personlige egenskaper."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 19 des 2016 nr. 1735 (i kraft 1 jan 2017)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-4",
+     "nummer": "§ 42",
+     "tittel": "Periodiske undersøkelser",
+     "ledd": [
+      "Det skal gjennomføres minst en helseundersøkelse:\na. hvert femte år for personale opp til 40 år,\nb. hvert tredje år for personale mellom 41 og 62 år,\nc. hvert år for personale over 62 år.",
+      "Legen skal gjennomføre hyppigere helseundersøkelser dersom helsetilstanden til den ansatte krever det."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 19 des 2016 nr. 1735 (i kraft 1 jan 2017)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-5",
+     "nummer": "§ 43",
+     "tittel": "Minstekrav til den periodiske helseundersøkelsen",
+     "ledd": [
+      "Periodisk helseundersøkelse skal minst inneholde:\na. en generell undersøkelse,\nb. undersøkelser av sansefunksjoner (syn, hørsel og fargesans),\nc. en analyse av urin- eller blodprøve for eventuelt å avdekke diabetes og eventuelle andre forhold som måtte følge av den kliniske undersøkelsen, herunder bruk av narkotiske stoffer."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 19 des 2016 nr. 1735 (i kraft 1 jan 2017)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-6",
+     "nummer": "§ 44",
+     "tittel": "Supplerende helseundersøkelser og/eller psykologiske vurderinger",
+     "ledd": [
+      "I tillegg til den regelmessige helseundersøkelsen skal det gjennomføres en særskilt supplerende helseundersøkelse og/eller psykologisk vurdering dersom det foreligger grunn til å tvile på den ansattes fysiske eller psykiske skikkethet, eller dersom det foreligger rimelig grunn til å mistenke misbruk av legemidler, bruk av narkotiske stoffer eller alkohol over de tillatte grensene. Det vil særlig være tilfelle etter en hendelse eller en ulykke.",
+      "Jernbanevirksomhetene skal ha systemer for å sikre at slike supplerende undersøkelser og vurderinger blir gjennomført."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 19 des 2016 nr. 1735 (i kraft 1 jan 2017)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-7",
+     "nummer": "§ 45",
+     "tittel": "Allmenne krav",
+     "ledd": [
+      "Det skal foreligge fysisk og psykisk skikkethet til å utføre arbeidsoppgavene på en slik måte at det ikke innebærer en fare for trafikksikkerheten.",
+      "Det skal ikke foreligge sykdom, helseplager eller andre forhold som kan føre til:\na. plutselig bevisstløshet,\nb. nedsatt oppmerksomhet eller konsentrasjon,\nc. plutselig arbeidsudyktighet,\nd. nedsatt balanse- eller koordineringsevne,\ne. betydelig begrenset bevegelsesevne."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 19 des 2016 nr. 1735 (i kraft 1 jan 2017)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-8",
+     "nummer": "§ 46",
+     "tittel": "Synskrav",
+     "ledd": [
+      "Synsfunksjonen skal være så god at trafikksikkerhetsmessig informasjon kan oppfattes uten vanskelighet.",
+      "Følgende krav gjelder:\na. synsstyrke på avstand med eller uten korreksjon: 0,8 (høyre øye + venstre øye – målt hver for seg), minst 0,3 for det svakeste øyet,\nb. største tillatte korreksjon: langsynthet +5/nærsynthet -8,\nc. syn på kort og mellomlang avstand: tilstrekkelig med eller uten korreksjon,\nd. kontaktlinser er tillatt,\ne. normalt fargesyn: påvist gjennom bruk av en godkjent prøve, som f.eks. Ishihara, supplert ved en annen godkjent prøve dersom det er nødvendig,\nf. synsfelt: normalt (ikke noe avvik som påvirker den oppgaven som skal utføres),\ng. syn på begge øyne: effektivt,\nh. binokulært syn: effektivt,\ni. kontrastfølsomhet: god,\nj. ingen progressiv øyensykdom,\nk. øyeimplantater, keratotomi og keratektomi er bare tillatt dersom de kontrolleres årlig eller med en hyppighet som legen fastsetter.",
+      "Legen kan i særlige tilfeller tillate verdier som ligger utenfor ovennevnte krav etter å ha innhentet uttalelse fra en øyelege."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 19 des 2016 nr. 1735 (i kraft 1 jan 2017)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-9",
+     "nummer": "§ 47",
+     "tittel": "Hørselskrav",
+     "ledd": [
+      "Hørselsfunksjonen skal være så god at trafikksikkerhetsmessig informasjon kan oppfattes uten vanskelighet.",
+      "Tilfredsstillende hørsel som bekreftes av et toneaudiogram, det vil si tilstrekkelig god hørsel til å kunne føre en telefonsamtale og høre varsellyder og radiomeldinger.",
+      "Bruk av høreapparat er tillatt."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 19 des 2016 nr. 1735 (i kraft 1 jan 2017)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-10",
+     "nummer": "§ 48",
+     "tittel": "Rusmidler mv.",
+     "ledd": [
+      "Det skal ikke foreligge misbruk av legemidler, bruk av narkotika eller avhengighet av eller misbruk av alkohol.",
+      "Legemidler som kan påvirke reaksjonsevne, konsentrasjonsevne eller vurderingsevne kan bare benyttes etter særskilt vurdering og anvisning av lege."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 19 des 2016 nr. 1735 (i kraft 1 jan 2017)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-11",
+     "nummer": "§ 49",
+     "tittel": "Overgangsordninger",
+     "ledd": [
+      "For personell som omfattes av dette kapitlet og som ved ikrafttredelse oppfyller krav til helse etter forskrift 18. desember 2002 nr. 1678 om krav til helse for personell med arbeidsoppgaver av betydning for trafikksikkerheten ved jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. (helsekravforskriften) , gjelder denne forskriftens krav fra og med neste periodiske helseundersøkelse, men senest fra 1. januar 2022.",
+      "Unntak fra krav til helse gitt i medhold av forskrift 18. desember 2002 nr. 1678 om krav til helse for personell med arbeidsoppgaver av betydning for trafikksikkerheten ved jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. (helsekravforskriften) før ikrafttredelse av denne forskriften, gjelder til de utløper, men ikke utover 1. januar 2022.",
+      "Kravet i § 5 h må være oppfylt innen 1. april 2017."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 19 des 2016 nr. 1735 (i kraft 1 jan 2017)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-8",
+   "navn": "kap8",
+   "overskrift": "Kapittel 8. Avsluttende bestemmelser",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrift 19 des 2016 nr. 1735 (i kraft 1 jan 2017, tidligere kapittel 7)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-1",
+     "nummer": "§ 50",
+     "tittel": "Unntak",
+     "ledd": [
+      "Statens jernbanetilsyn kan i det enkelte tilfellet gjøre unntak fra denne forskriften dersom særlige grunner tilsier det."
+     ],
+     "endringer": [
+      "Endret ved forskrift 19 des 2016 nr. 1735 (i kraft 1 jan 2017, tidligere § 39)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-2",
+     "nummer": "§ 51",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Forskriften trer i kraft 1. januar 2015. Fra samme tidspunkt oppheves forskrift 6. desember 2006 nr. 1356 om krav til sporvei, tunnelbane og forstadsbane, og sidespor m.m. (kravforskriften)."
+     ],
+     "endringer": [
+      "Endret ved forskrift 19 des 2016 nr. 1735 (i kraft 1 jan 2017, tidligere § 40)."
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,132 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2004-07-06-1101",
+ "dokumentid": "SF/forskrift/2004-07-06-1101",
+ "departement": [
+  "Samferdselsdepartementet"
+ ],
+ "etat": [
+  "Luft-, post- og teleavd."
+ ],
+ "kunngjort_i": "I 2004 hefte 11",
+ "ikraft": "2004-09-01",
+ "siste_endring_ikraft": "2021-04-26",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2021-04-26-1255",
+   "tekst": "forskrift/2021-04-26-1255"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1993-06-11-101/§10-38a",
+   "tekst": "lov/1993-06-11-101/§10-38a"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§11-2",
+   "tekst": "lov/1993-06-11-101/§11-2"
+  },
+  {
+   "ref": "forskrift/2004-06-25-989",
+   "tekst": "forskrift/2004-06-25-989"
+  }
+ ],
+ "kunngjort": "2004-07-09",
+ "korttittel": "Forskrift om minstestørrelse, forsikringssummer",
+ "tittel": "Forskrift om minstestørrelser på forsikringssummer for passasjer- og tredjemannsansvaret",
+ "annet": "Hjemmel: Fastsatt av Samferdselsdepartementet 6. juli 2004 med hjemmel i lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven) § 10-38a tredje ledd og § 11-2, jf. delegeringsvedtak 25. juni 2004 nr. 989.\nEØS-henvisninger: EØS-avtalen vedlegg XIII nr. 66l (forordning (EF) nr. 785/2004, som endret ved forordning (EU) nr. 285/2010 og forordning (EU) 2020/1118).\nEndret ved forskrifter 1 des 2004 nr. 1537, 10 juni 2005 nr. 535, 11 april 2013 nr. 354, 26 april 2021 nr. 1255.",
+ "refid": "forskrift/2004-07-06-1101",
+ "eli": "/eli/forskrift/2004/07/06/1101",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2004-07-06-1101",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Formål og forskriftens virkeområde",
+   "ledd": [
+    "Formålet med denne forskriften er å sikre at alle luftfartøy som brukes til luftfart innenfor norsk område til enhver tid innehar de nødvendige forsikringer for passasjer- og tredjemannsansvaret.",
+    "Med unntak av § 7 gjelder denne forskrift ikke innenfor virkeområdet til europaparlaments- og rådsforordning (EF) nr. 785/2004, som endret ved kommisjonsforordning (EU) nr. 285/2010, om forsikringskrav for luftfartsselskaper og luftfartøyoperatører."
+   ],
+   "endringer": [
+    "Endret ved forskrifter 10 juni 2005 nr. 535 (i kraft 1 juli 2005), 11 april 2013 nr. 354."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Forsikringsplikt",
+   "ledd": [
+    "For luftfartøy som brukes til luftfart innenfor norsk område skal det foreligge forsikring eller annen sikkerhetsstillelse til dekning av erstatningsplikt som omhandlet i lov 11. juni 1993 nr. 101 om luftfart.",
+    "Bevis for gyldig forsikring for tredjemannsansvaret og passasjeransvaret må til enhver tid kunne fremlegges ved forespørsel."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Passasjeransvaret",
+   "ledd": [
+    "Enhver som benytter luftfartøy, ervervsmessig eller privat, må ha tegnet forsikring eller ha annen sikkerhetsstillelse dekkende minimum 250.000 SDR for hver passasjer i det tilfelle at passasjer(er) blir drept eller skadd på legeme eller helbred."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Tredjemannsansvaret",
+   "ledd": [
+    "Forsikring eller annen sikkerhetsstillelse skal minst være av en slik størrelse som angitt nedenfor:\n| Luftfartøyets maksimale startvekt i kilo (MTOM): | Minimumsforsikring (mill. SDR)\n| < 500 kg | 0,75\n| < 1.000 kg | 1,5\n| < 2.700 kg | 3\n| < 6.000 kg | 7\n| < 12.000 kg | 18\n| < 25.000 kg | 80\n| < 50.000 kg | 150\n| < 200.000 kg | 300\n| < 500.000 kg | 500\n| > 500.000 kg | 700"
+   ],
+   "endringer": [
+    "Endret ved forskrift 1 des 2004 nr. 1537 (i kraft 1 jan 2005)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Garantierklæring",
+   "ledd": [
+    "I tilslutning til forsikring for tredjemann må det for norskregistrerte luftfartøyer være deponert i Luftfartstilsynet en garantierklæring fra forsikringsselskap på 500.000 NOK. Slik garantierklæring står ved lag inntil 2 måneder etter at skriftlig oppsigelse er mottatt i Luftfartstilsynet. Luftfartstilsynet kan etter søknad frita fra plikten til å innlevere slik erklæring."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "Tilbakekall",
+   "ledd": [
+    "Dersom et norskregistrert luftfartøy ikke er forsikret i henhold til denne forskrift kan Luftfartstilsynet trekke tilbake luftfartøyets luftdyktighetsbevis."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 7",
+   "tittel": "Gjennomføring av forordning (EF) nr. 785/2004 i norsk rett",
+   "ledd": [
+    "EØS-avtalen vedlegg XIII nr. 66l (europaparlaments- og rådsforordning (EF) nr. 785/2004, som endret ved kommisjonsforordning (EU) nr. 285/2010 og (EU) 2020/1118 om forsikringskrav for luftfartsselskaper og luftfartøyoperatører) gjelder som forskrift, med den EØS-tilpasning som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig. Forordningen nevnt i første punktum gjelder også for befordring uten vederlag."
+   ],
+   "endringer": [
+    "Tilføyd ved forskrift 11 april 2013 nr. 354, endret ved forskrift 26 april 2021 nr. 1255."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-8",
+   "nummer": "§ 8",
+   "tittel": "Ikrafttredelse – Gjennomføringsbestemmelser",
+   "ledd": [
+    "Forskriften trer i kraft 1. september 2004.",
+    "Fra samme tidspunkt oppheves:\n- Forskrift 11. juli 1973 om minstestørrelsen på forsikringssummene i forbindelse med forsikringsplikten vedrørende tredjemannsansvaret.\n- Bestemmelse 18. november 1961 om forsikringsplikt vedrørende tredjemannsansvaret."
+   ],
+   "endringer": [
+    "Endret ved forskrift 11 april 2013 nr. 354 (tidligere § 7)."
+   ]
+  }
+ ]
+}

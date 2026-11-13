@@ -1,0 +1,277 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2017-04-21-493",
+ "dokumentid": "SF/forskrift/2017-04-21-493",
+ "departement": [
+  "Digitaliserings- og forvaltningsdepartementet"
+ ],
+ "etat": [
+  "Avdeling for digitaliseringspolitikk"
+ ],
+ "ikraft": "2017-05-01",
+ "siste_endring_ikraft": "2021-12-03",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2021-12-03-3395",
+   "tekst": "forskrift/2021-12-03-3395"
+  }
+ ],
+ "endrer": "forskrift/1999-06-11-664",
+ "gjelder_for": "Norge, Svalbard",
+ "hjemmel": [
+  {
+   "ref": "lov/1925-07-17-11/§3",
+   "tekst": "lov/1925-07-17-11/§3"
+  },
+  {
+   "ref": "lov/1925-07-17-11/§4",
+   "tekst": "lov/1925-07-17-11/§4"
+  },
+  {
+   "ref": "lov/1969-06-13-38/§2",
+   "tekst": "lov/1969-06-13-38/§2"
+  },
+  {
+   "ref": "lov/2003-07-04-83/§2-10",
+   "tekst": "lov/2003-07-04-83/§2-10"
+  },
+  {
+   "ref": "lov/2003-07-04-83/§6-2",
+   "tekst": "lov/2003-07-04-83/§6-2"
+  },
+  {
+   "ref": "lov/2003-07-04-83/§10-1",
+   "tekst": "lov/2003-07-04-83/§10-1"
+  },
+  {
+   "ref": "lov/2003-07-04-83/§10-3",
+   "tekst": "lov/2003-07-04-83/§10-3"
+  },
+  {
+   "ref": "lov/2003-07-04-83/§10-7",
+   "tekst": "lov/2003-07-04-83/§10-7"
+  },
+  {
+   "ref": "lov/2003-07-04-83/§12-1",
+   "tekst": "lov/2003-07-04-83/§12-1"
+  },
+  {
+   "ref": "lov/2006-05-19-16/§29",
+   "tekst": "lov/2006-05-19-16/§29"
+  },
+  {
+   "ref": "lov/2024-12-13-76/§18-2",
+   "tekst": "lov/2024-12-13-76/§18-2"
+  }
+ ],
+ "kunngjort": "2017-04-25 13:40",
+ "siste_rettelse": "2025-05-20 (hjemmel)",
+ "korttittel": "Forskrift om jordstasjon for satellitt på Svalbard",
+ "tittel": "Forskrift om etablering, drift og bruk av jordstasjon for satellitt på Svalbard",
+ "annet": "Hjemmel: Fastsatt ved kgl.res. 21. april 2017 med hjemmel i lov 17. juli 1925 nr. 11 om Svalbard § 3 og § 4, lov 13. juni 1969 nr. 38 om oppskyting av gjenstander fra norsk territorium m.m. ut i verdensrommet § 2, lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon (ekomloven) § 2-10, § 6-2, § 10-1, § 10-3, § 10-7 og § 12-1 og lov 19. mai 2006 nr. 16 om rett til innsyn i dokument i offentleg verksemd (offentleglova) § 29 andre ledd. Fremmet av Samferdselsdepartementet.\nTilføyd hjemmel: Lov 13. desember 2024 nr. 76 om elektronisk kommunikasjon (ekomloven) § 18-2.\nEndret ved forskrifter 3 mai 2019 nr. 560 (departementsendring), 3 des 2021 nr. 3395.\nRettet 04.01.2024 (departementstilhørighet), 20.05.2025 (hjemmel).",
+ "refid": "forskrift/2017-04-21-493",
+ "eli": "/eli/forskrift/2017/04/21/493",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2017-04-21-493",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Formål",
+   "ledd": [
+    "Forskriften skal sikre at jordstasjoner på Svalbard etableres, driftes og brukes i samsvar med lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon, lov 17. juli 1925 nr. 11 om Svalbard og innenfor folkerettens rammer."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Virkeområdet",
+   "ledd": [
+    "Forskriften gjelder etablering, drift og bruk av jordstasjoner på Svalbard. Forskriften gjelder også loggføring av virksomheten ved jordstasjoner. Forskriften gjelder ikke for jordstasjoner som bare mottar kringkastingsprogram. Forskriften gjelder heller ikke for jordstasjoner som opererer i frekvensbånd regulert i gjeldende forskrift om generelle tillatelser til bruk av frekvenser (fribruksforskriften), men gjelder likevel for jordstasjoner som kommuniserer med satellitt ved bruk av frekvenser over 3000 GHz.",
+    "Nasjonal kommunikasjonsmyndighet avgjør i tvilstilfeller om en jordstasjon reguleres av forskriften."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Definisjoner",
+   "ledd": [
+    "I denne forskriften menes med:\na. jordstasjon: utstyr for overføring av data til eller mottak av data fra satellitt eller annet rombasert system, utstyr for elektronisk kommunikasjon ment for alminnelig kommersiell bruk er ikke en jordstasjon etter denne forskriften\nb. satellitt: ubemannet kunstig objekt som befinner seg minst 100 km over jordoverflaten\nc. nyttelast: passive og aktive instrumenter om bord i en satellitt; instrumentering knyttet til styring og kontroll av satellitten inngår ikke i definisjonen\nd. oppskytingsfase: fra og med oppskyting og frem til nyttelast tas i bruk\ne. nødsituasjon: situasjon hvor en satellitt har tekniske problemer og satellittoperatør har behov for å kommunisere gjennom jordstasjon på Svalbard; det foreligger ikke en nødsituasjon dersom det utelukkende foreligger tekniske problemer med nyttelast."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Krav om tillatelse",
+   "ledd": [
+    "Etablering, drift og bruk av en jordstasjon som sender data til eller mottar data fra en satellitt krever tillatelse fra Nasjonal kommunikasjonsmyndighet. Skal en jordstasjon driftes av en annen enn den som søker om tillatelse, skal det opplyses om hvem som er driftsansvarlig.",
+    "Det kreves en særskilt kommunikasjonstillatelse fra Nasjonal kommunikasjonsmyndighet for hver satellitt en jordstasjon sender data til eller mottar data fra.",
+    "Innehaver av tillatelse etter første ledd trenger ikke en egen kommunikasjonstillatelse for å assistere en satellitt som skal brukes til sivile formål og som er i oppskytingsfase. Det er ikke tillatt å gi tilsvarende assistanse til en satellitt som skal ivareta funksjoner spesielt for militære formål, jf. § 7. I en nødsituasjon kan innehaver av tillatelse assistere alle satellitter jf. § 7.",
+    "Nasjonal kommunikasjonsmyndighet kan fastsette vilkår i tillatelse etter første og andre ledd.",
+    "Søknad om tillatelse sendes Nasjonal kommunikasjonsmyndighet."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Informasjon om eierforholdet og overdragelse",
+   "ledd": [
+    "Endringer i jordstasjonens eierforhold eller vesentlige endringer i eierselskapets organisering skal meldes Nasjonal kommunikasjonsmyndighet uten ugrunnet opphold.",
+    "Overdragelse eller utleie av en tillatelse krever samtykke fra Nasjonal kommunikasjonsmyndighet. Dette gjelder også indirekte overdragelse."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "Krav til drift og sikring av jordstasjoner",
+   "ledd": [
+    "En jordstasjon skal holdes i slik driftsteknisk stand at alle krav som følger av forskriften og tillatelsen blir oppfylt.",
+    "En jordstasjon skal sikres slik at uvedkommende ikke får adgang til stasjonen eller kjennskap til innholdet i data som sendes til eller mottas fra en satellitt."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 7",
+   "tittel": "Krav til bruk av jordstasjoner",
+   "ledd": [
+    "Det er ikke tillatt å bruke en jordstasjon til å sende data til eller lese data ned fra en satellitt som ivaretar funksjoner spesielt for militære formål, med unntak for assistanse til en satellitt i nødsituasjon som nevnt i § 4 tredje ledd.",
+    "Det er ikke tillatt å sende data til eller lese data ned fra en satellitt dersom nedleste data kun gjøres tilgjengelig for militære formål, eller når formålet i all hovedsak er å bruke dataene militært.",
+    "Dersom en jordstasjon brukes til å assistere en satellitt i en nødsituasjon, jf. § 4 tredje ledd skal krav i § 8 overholdes og data fra nyttelast skal ikke leses ned.",
+    "Brukes en jordstasjon til å assistere en satellitt som er i en nødsituasjon eller i oppskytingsfasen, skal innehaver av tillatelse straks underrette Nasjonal kommunikasjonsmyndighet om assistansen som er gitt."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-8",
+   "nummer": "§ 8",
+   "tittel": "Plikt til loggføring og lagring",
+   "ledd": [
+    "Innehaver av tillatelse til å etablere, drifte og bruke en jordstasjon med bevegelig antenne plikter fortløpende å\na. loggføre alle satellittpasseringer der en jordstasjon sender data til eller leser ned data fra en satellitt og\nb. lagre alle relevante data om antennestyringsordrene på samme nivå som loggføringen foretas.\nLoggen og dataene skal lagres ved jordstasjonen i minimum to år.",
+    "Nasjonal kommunikasjonsmyndighet kan gi pålegg om annen loggføring og lagring.",
+    "Nasjonal kommunikasjonsmyndighet kan kreve at innehaver av tillatelse umiddelbart skal oversende kopi av loggførte og lagrede data til Nasjonal kommunikasjonsmyndighet."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-9",
+   "nummer": "§ 9",
+   "tittel": "Tilsyn mv.",
+   "ledd": [
+    "Nasjonal kommunikasjonsmyndighet fører tilsyn med at forskriften og tillatelser etter § 4 blir oppfylt.",
+    "Nasjonal kommunikasjonsmyndighet kan uten hinder av lovbestemt taushetsplikt kreve bistand fra Sysselmesteren på Svalbard samt andre myndigheter og forvaltningsorgan ved utstedelse av tillatelse og ved tilsynet.",
+    "Innehaver av tillatelse plikter årlig og på forespørsel å dokumentere for Nasjonal kommunikasjonsmyndighet at bruken av jordstasjonen er i samsvar med kravene i § 7 første og andre ledd og vilkår gitt i tillatelsen etter § 4.",
+    "Innehaver av tillatelse skal på forespørsel utlevere logg og lagrede data etter § 8 første og andre ledd og andre opplysninger som er nødvendig for gjennomføring av tilsyn. Opplysningene kan kreves utlevert elektronisk.",
+    "Nasjonal kommunikasjonsmyndighet kan bestemme at dokumentasjon skal sendes direkte til den som bistår etter andre ledd. Dersom et organ som bistår Nasjonal kommunikasjonsmyndighet etter andre ledd har mottatt opplysninger som kan unntas offentlighet etter lov 19. mai 2006 nr. 16 om rett til innsyn i dokument i offentleg verksemd (offentleglova) § 14, § 15, § 20 til § 24 eller § 26, skal alle krav om innsyn i opplysningene behandles av Nasjonal kommunikasjonsmyndighet."
+   ],
+   "endringer": [
+    "Endret ved forskrift 3 des 2021 nr. 3395."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-10",
+   "nummer": "§ 10",
+   "tittel": "Medvirkning ved tilsyn",
+   "ledd": [
+    "Den som er gjenstand for tilsyn har plikt til å sørge for at Nasjonal kommunikasjonsmyndighet og den som bistår ved tilsynet har uhindret adgang til jordstasjonen. Nødvendig dokumentasjon, alle data og loggføringer skal gjøres tilgjengelig for tilsynsmyndigheten. Innehaver av tillatelse eller dennes representant eller den driftsansvarlige kan pålegges å være til stede ved tilsynet.",
+    "Tillatelser og dokumentasjon om etableringen, driften og bruken av en jordstasjon skal være tilgjengelige ved jordstasjonen."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-11",
+   "nummer": "§ 11",
+   "tittel": "Besøksadgang",
+   "ledd": [
+    "Nasjonal kommunikasjonsmyndighet kan gi representanter for forskningsinstitusjoner som har nødvendige faglige kvalifikasjoner rett til å besøke en jordstasjon.",
+    "Innehaver av tillatelse etter § 4 første ledd skal varsles i rimelig tid før besøket.",
+    "Den som får rett til å besøke en jordstasjon, skal følges av Nasjonal kommunikasjonsmyndighet eller Sysselmesteren på Svalbard. Sysselmesteren på Svalbard kan følge et besøk uten at Nasjonal kommunikasjonsmyndighet deltar.",
+    "Det kan stilles særlige vilkår for gjennomføringen av besøket.",
+    "Innehaver av tillatelsen plikter å legge forholdene til rette for at godkjent besøk kan gjennomføres."
+   ],
+   "endringer": [
+    "Endret ved forskrift 3 des 2021 nr. 3395."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-12",
+   "nummer": "§ 12",
+   "tittel": "Pålegg, sanksjoner og straff",
+   "ledd": [
+    "Nasjonal kommunikasjonsmyndighet kan gi pålegg om endring eller opphør av ulovlige forhold som er i strid med kravene i denne forskrift eller vilkår i tillatelse etter § 4, jf. ekomloven § 10-6.",
+    "Nasjonal kommunikasjonsmyndighet kan ved brudd på kravene i eller i medhold av forskriften fatte vedtak om tvangsmulkt etter ekomloven § 10-7, tilbakekall etter ekomloven § 10-8, stenging etter ekomloven § 10-9, overtredelsesgebyr etter ekomloven § 10-13 første ledd nr. 2 eller inndragning etter ekomloven § 10-14.",
+    "Brudd på krav i forskriften § 4 til § 6 og § 8 straffes etter ekomloven § 12-4 første ledd nr. 2.",
+    "Brudd på § 7 straffes etter Svalbardloven § 4 andre ledd."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-13",
+   "nummer": "§ 13",
+   "tittel": "Opphør",
+   "ledd": [
+    "Tillatelse etter § 4 første og andre ledd sies opp skriftlig.",
+    "Blir tillatelsen etter § 4 første ledd sagt opp eller trukket tilbake skal jordstasjonen tas ut av drift. Antenne og strømforsyning skal kobles fra der dette er mulig. Det skal gis skriftlig melding til Nasjonal kommunikasjonsmyndighet om at kravene er oppfylt og at jordstasjonen ikke vil bli brukt med mindre det gis en ny tillatelse.",
+    "Opphører retten til å bruke en jordstasjon, kan Nasjonal kommunikasjonsmyndighet be Sysselmesteren om å forsegle jordstasjonen. Dette kan gjøres uten at Nasjonal kommunikasjonsmyndighet deltar."
+   ],
+   "endringer": [
+    "Endret ved forskrift 3 des 2021 nr. 3395."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-14",
+   "nummer": "§ 14",
+   "tittel": "Sektoravgift og gebyr",
+   "ledd": [
+    "Det skal betales årlig sektoravgift og gebyr til Nasjonal kommunikasjonsmyndighet for tillatelser etter gjeldende forskrift om gebyr mv. til Nasjonal kommunikasjonsmyndighet."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-15",
+   "nummer": "§ 15",
+   "tittel": "Unntak",
+   "ledd": [
+    "Nasjonal kommunikasjonsmyndighet kan i særlige tilfeller og innenfor folkerettens rammer gjøre unntak fra bestemmelser i forskriften."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-16",
+   "nummer": "§ 16",
+   "tittel": "Klagemyndighet",
+   "ledd": [
+    "Samferdselsdepartementet avgjør klage over enkeltvedtak fattet av Nasjonal kommunikasjonsmyndighet."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-17",
+   "nummer": "§ 17",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Forskriften trer i kraft fra 1. mai 2017.",
+    "Fra samme tidspunkt oppheves forskrift 11. juni 1999 nr. 664 om etablering, drift og bruk av jordstasjon for satellitt."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-18",
+   "nummer": "§ 18",
+   "tittel": "Overgangsbestemmelse",
+   "ledd": [
+    "En tillatelse gitt med hjemmel i forskrift 11. juni 1999 nr. 664 om etablering, drift og bruk av jordstasjon for satellitt skal gjelde inntil tillatelsen løper ut eller opphører på annen måte.",
+    "Til slike tillatelser kan Nasjonal kommunikasjonsmyndighet stille de tilleggsvilkårene som forskriften her gir adgang til."
+   ]
+  }
+ ]
+}

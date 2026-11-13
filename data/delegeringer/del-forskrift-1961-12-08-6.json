@@ -1,0 +1,65 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-1961-12-08-6",
+ "dokumentid": "DEL/forskrift/1961-12-08-6",
+ "departement": [
+  "Landbruks- og matdepartementet"
+ ],
+ "etat": [
+  "Avd. for skog- og ressurspolitikk"
+ ],
+ "kunngjort_i": "II 1961 600",
+ "ikraft": "1962-01-01",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1961-05-05/§18",
+   "tekst": "lov/1961-05-05/§18"
+  },
+  {
+   "ref": "lov/1961-05-05/§19",
+   "tekst": "lov/1961-05-05/§19"
+  },
+  {
+   "ref": "lov/1961-06-16-12/§4",
+   "tekst": "lov/1961-06-16-12/§4"
+  },
+  {
+   "ref": "lov/1961-06-16-12/§17",
+   "tekst": "lov/1961-06-16-12/§17"
+  }
+ ],
+ "korttittel": "Ikrafts. grannegjerdelova og beitelova. Deleg.",
+ "tittel": "Res. om ikraftsetting av lov om grannegjerde og lov om ymse beitespørsmål.",
+ "annet": "Fastsatt ved kgl.res. 8. desember 1961. Fremmet av Landbruksdepartementet.",
+ "refid": "forskrift/1961-12-08-6",
+ "eli": "/eli/forskrift/1961/12/08/06",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/1961-12-08-6",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I.",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Lov av 5. mai 1961 om grannegjerde og lov av 16. juni 1961 om ymse beitespørsmål trer i kraft 1. januar 1962."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II.",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "a. Den fullmakt som er lagt til Kongen i § 18 i lov av 5. mai 1961 om grannegjerde og i § 4 i lov av 16. juni 1961 om ymse beitespørsmål, vert ført over til Landbruksdepartementet.\nb. Den fullmakt som er gitt departementet i lov av 16. juni 1961 om ymse beitespørsmål vert lagt til Landbruksdepartementet."
+    }
+   ]
+  }
+ ]
+}

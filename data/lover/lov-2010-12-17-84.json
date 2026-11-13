@@ -1,0 +1,89 @@
+{
+ "skjema": "1.0",
+ "type": "lov",
+ "datokode": "LOV-2010-12-17-84",
+ "dokumentid": "NL/lov/2010-12-17-84",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "ikraft": "Kongen bestemmer, 2011-01-01",
+ "siste_endring_ikraft": "2016-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "lov/2015-04-10-17",
+   "tekst": "lov/2015-04-10-17 fra 2016-01-01"
+  }
+ ],
+ "endrer": "lov/2005-06-10-44",
+ "rettsomrade": [
+  "Bank, finans og regnskapsrett > Forsikring",
+  "Erstatnings- og forsikringsrett > Skadeforsikring"
+ ],
+ "kunngjort": "2010-12-17 15:10",
+ "korttittel": "Endringslov til forsikringsvirksomhetsloven",
+ "tittel": "Lov om endringer i forsikringsvirksomhetsloven (skadeforsikring)",
+ "refid": "lov/2010-12-17-84",
+ "eli": "/eli/lov/2010/12/17/84",
+ "url": "https://lovdata.no/dokument/NL/lov/2010-12-17-84",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "I lov 10. juni 2005 nr. 44 om forsikringsselskaper, pensjonsforetak og deres virksomhet mv. (forsikringsvirksomhetsloven) gjøres følgende endringer: – – –\nKapittel 12[1] skal lyde: – – –"
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-foreslåttparagraf-1",
+     "nummer": null,
+     "tittel": null,
+     "ledd": [
+      "§ 12-17.[1] Utlikningsordning",
+      "Det skal opprettes en eller flere gjensidige utlikningsordninger for nærmere angitte forsikringer (nødvendighetsforsikringer) for privatkunder. Kongen kan fastsette at skadeforsikringsselskaper som tilbyr slike forsikringer her i riket, skal være medlem av en utlikningsordning.",
+      "Kongen kan i forskrift gi nærmere regler om utlikningsordninger som angitt i første ledd, herunder om medlemskap, hvilke forsikringer som skal omfattes, om utlikning mellom selskapene og om organiseringen av ordningen."
+     ],
+     "endringer": [
+      "Endret ved lov 10 apr 2015 nr. 17 (ikr. 1 jan 2016 iflg. res. 10 apr 2015 nr. 350)."
+     ],
+     "fremtidig": true,
+     "fotnoter": [
+      {
+       "nr": "1",
+       "tekst": "Inkurie: Etter lov 10 apr 2015 nr. 17 tilsiktet som § 7-8."
+      }
+     ]
+    },
+    {
+     "type": "tekst",
+     "tekst": "– – –"
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Loven trer i kraft fra den tid Kongen bestemmer.[1] Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.\nKongen kan fastsette overgangsregler."
+    }
+   ]
+  }
+ ],
+ "fotnoter": [
+  {
+   "nr": "1",
+   "tekst": "Inkurie: Nå kapittel 7 (endret ved lov 10 apr 2015 nr. 17 (ikr. 1 jan 2016))."
+  },
+  {
+   "nr": "1",
+   "tekst": "Fra 1 jan 2011 iflg. res. 17 des 2010 nr. 1664, med unntak av § 12-17."
+  }
+ ]
+}

@@ -1,0 +1,91 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-2026-06-01-962",
+ "dokumentid": "DEL/forskrift/2026-06-01-962",
+ "departement": [
+  "Helse- og omsorgsdepartementet"
+ ],
+ "etat": [
+  "Helserettsavdelingen"
+ ],
+ "ikraft": "2026-06-01",
+ "siste_endring_ikraft": "2026-07-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2026-06-08-1046",
+   "tekst": "forskrift/2026-06-08-1046 fra 2026-07-01"
+  }
+ ],
+ "endrer": "forskrift/2021-05-27-1725",
+ "hjemmel": [
+  {
+   "ref": "lov/1967-02-10/§13d",
+   "tekst": "lov/1967-02-10/§13d"
+  },
+  {
+   "ref": "lov/1999-07-02-64/§29e",
+   "tekst": "lov/1999-07-02-64/§29e"
+  },
+  {
+   "ref": "lov/1999-07-02-64/§29f",
+   "tekst": "lov/1999-07-02-64/§29f"
+  },
+  {
+   "ref": "lov/2014-06-20-43/§19e",
+   "tekst": "lov/2014-06-20-43/§19e"
+  },
+  {
+   "ref": "forskrift/2006-12-15-1456/§8",
+   "tekst": "forskrift/2006-12-15-1456/§8"
+  }
+ ],
+ "kunngjort": "2026-06-02 14:25",
+ "tittel": "Forskrift om overføring av myndighet fra Helse- og omsorgsdepartementet til den regionale komiteen for medisinsk og helsefaglig forskningsetikk",
+ "annet": "Hjemmel: Fastsatt av Helse- og omsorgsdepartementet 1. juni 2026 med hjemmel i lov 2. juli 1999 nr. 64 om helsepersonell m.v. (helsepersonelloven) § 29e femte ledd og § 29f andre ledd, lov 20. juni 2014 nr. 43 om helseregistre og behandling av helseopplysninger (helseregisterloven) § 19e femte ledd og forskrift 15. desember 2006 nr. 1456 til forvaltningsloven (forvaltningslovforskriften) § 8 første ledd bokstav c.\nEndret ved forskrift 8 juni 2026 nr. 1046 (i kraft 1 juli 2026).",
+ "refid": "forskrift/2026-06-01-962",
+ "eli": "/eli/forskrift/2026/06/01/962",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/2026-06-01-962",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Myndighet til å treffe vedtak som nevnt i lov 2. juli 1999 nr. 64 om helsepersonell m.v. (helsepersonelloven) § 29e første ledd som gjelder tilgjengeliggjøring av opplysninger til formål knyttet til forskning eller til utvikling og bruk av beslutningsstøtteverktøy som inngår i et forskningsprosjekt, og vedtak som nevnt i § 29f første ledd når det gjelder deltakende observasjon til forskningsformål, overføres til den regionale komiteen for medisinsk og helsefaglig forskningsetikk.\nMyndighet til å treffe vedtak som nevnt i lov 20. juni 2014 nr. 43 om helseregistre og behandling av helseopplysninger (helseregisterloven) § 19e første ledd overføres til den regionale komiteen for medisinsk og helsefaglig forskningsetikk, når det gjelder tilgjengeliggjøring av opplysninger til formål knyttet til forskning.\nMyndighet etter forvaltningsloven § 13d første ledd overføres til den regionale komiteen for medisinsk og helsefaglig forskningsetikk når det gjelder opplysninger som er underlagt taushetsplikt etter helseregisterloven § 17, jf. forvaltningsloven § 13."
+    },
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrift 8 juni 2026 nr. 1046 (i kraft 1 juli 2026)."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Forskrift 27. mai 2021 nr. 1725 om overføring av myndighet til den regionale komiteen for medisinsk og helsefaglig forskningsetikk etter helsepersonelloven § 29, helseregisterloven § 19e femte ledd og forvaltningsloven § 13d første ledd oppheves."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kapIII",
+   "overskrift": "III",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Denne forskriften trer i kraft straks."
+    }
+   ]
+  }
+ ]
+}

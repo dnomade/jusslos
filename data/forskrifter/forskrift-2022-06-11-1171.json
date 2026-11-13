@@ -1,0 +1,939 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2022-06-11-1171",
+ "dokumentid": "SF/forskrift/2022-06-11-1171",
+ "departement": [
+  "Landbruks- og matdepartementet",
+  "Nærings- og fiskeridepartementet"
+ ],
+ "etat": [
+  "Avdeling for matpolitikk, Fiskeri- og havbruksavdelingen, Mattilsynet"
+ ],
+ "ikraft": "2022-06-25",
+ "siste_endring_ikraft": "2026-07-23",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2026-07-23-1581",
+   "tekst": "forskrift/2026-07-23-1581"
+  }
+ ],
+ "endrer": "forskrift/2017-03-18-355",
+ "hjemmel": [
+  {
+   "ref": "lov/2003-12-19-124/§10",
+   "tekst": "lov/2003-12-19-124/§10"
+  },
+  {
+   "ref": "lov/2003-12-19-124/§15",
+   "tekst": "lov/2003-12-19-124/§15"
+  },
+  {
+   "ref": "lov/2003-12-19-124/§21",
+   "tekst": "lov/2003-12-19-124/§21"
+  },
+  {
+   "ref": "lov/2003-12-19-124/§23",
+   "tekst": "lov/2003-12-19-124/§23"
+  },
+  {
+   "ref": "forskrift/2003-12-19-1790",
+   "tekst": "forskrift/2003-12-19-1790"
+  },
+  {
+   "ref": "forskrift/2004-05-05-884",
+   "tekst": "forskrift/2004-05-05-884"
+  }
+ ],
+ "kunngjort": "2022-06-27 15:00",
+ "korttittel": "Økologiforskriften",
+ "tittel": "Forskrift om økologisk produksjon og merking av økologiske landbruksprodukter, akvakulturprodukter, næringsmidler og fôr m.m. (økologiforskriften)",
+ "annet": "Hjemmel: Fastsatt av Landbruks- og matdepartementet og Nærings- og fiskeridepartementet 11. juni 2022 med hjemmel i lov 19.desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) § 10, § 15, § 21 og § 23, jf. delegeringsvedtak 19. desember 2003 nr. 1790 og delegeringsvedtak 5. mai 2004 nr. 884.\nEØS-henvisninger: EØS-avtalen vedlegg I kap. II nr. 49 (forordning (EU) 2023/2419) og vedlegg II kap. XII nr. 54b (forordning (EU) 2018/848 som endret ved forordning (EU) 2020/427 (som endret ved forordning (EU) 2021/269), forordning (EU) 2020/1693, forordning (EU) 2020/1794, forordning (EU) 2021/642 (som endret ved forordning (EU) 2025/452), forordning (EU) 2021/715, forordning (EU) 2021/716, forordning (EU) 2021/1006, forordning (EU) 2021/1691, forordning (EU) 2021/1697, forordning (EU) 2022/474, forordning (EU) 2023/207 og forordning (EU) 2024/2867), nr. 54bb (forordning (EU) 2021/2306 som endret ved forordning (EU) 2022/760, forordning (EU) 2022/2238 og forordning (EU) 2024/2975), nr. 54bd (forordning (EU) 2020/2146), nr. 54be (forordning (EU) 2020/464 som endret ved forordning (EU) 2020/2042), nr. 54bf (forordning (EU) 2021/771), nr. 54bg (forordning (EU) 2021/1342 som endret ved forordning (EU) 2024/230), nr. 54bh (forordning (EU) 2021/1378 som endret ved forordning (EU) 2021/2119, forordning (EU) 2022/2240, forordning (EU) 2024/1748, forordning (EU) 2024/2140, forordning (EU)2024/2794, forordning (EU) 2024/3121, forordning (EU) 2025/882 og forordning (EU) 2025/2138), nr. 54bi (forordning (EU) 2021/1189), nr. 54bj (forordning (EU) 2021/279), nr. 54bk (forordning (EU) 2021/1165 som endret ved forordning (EU) 2023/121, forordning (EU) 2023/2229, forordning (EU) 2025/973 og forordning (EU) 2025/2501), nr. 54bl (forordning (EU) 2021/1698, som endret ved forordning (EU) 2023/1686, forordning (EU) 2024/2975, forordning (EU) 2024/3095 og forordning (EU) 2025/2651), nr. 54bm (forordning (EU) 2021/2119 som endret ved forordning (EU) 2022/2240), nr. 54bn (forordning (EU) 2021/2307 som endret ved forordning (EU) 2022/2240), nr. 54bo (forordning (EU) 2021/2325 som endret ved forordning (EU) 2022/2047, forordning (EU) 2022/2049, forordning (EU) 2022/2468, forordning (EU) 2023/186, forordning (EU) 2023/1202, forordning (EU) 2023/2785 og forordning (EU) 2025/883), nr. 54bp (forordning (EU) 2022/1450), nr. 54bq (forordning (EU) 2023/1195) og nr. 54br (forordning (EU) 2025/1470).\nEndret ved forskrifter 11 juli 2022 nr. 1336, 26 sep 2022 nr. 1654, 12 des 2022 nr. 2157, 20 des 2022 nr. 2372 (i kraft 1 jan 2023), 25 sep 2023 nr. 1513, 30 okt 2023 nr. 1742, 11 des 2023 nr. 2001, 18 des 2023 nr. 2174 (i kraft 1 jan 2024), 18 mars 2024 nr. 474, 24 juni 2024 nr. 1310, 8 juli 2024 nr. 1647, 9 des 2024 nr. 2996, 19 des 2024 nr. 3318 (i kraft 1 jan 2025), 12 feb 2025 nr. 212, 17 mars 2025 nr. 473, 12 mai 2025 nr. 786, 22 sep 2025 nr. 1943, 8 des 2025 nr. 2451, 19 des 2025 nr. 2824 (i kraft 1 jan 2026), 26 feb 2026 nr. 332 (i kraft 4 mars 2026), 23 mars 2026 nr. 457, 4 mai 2026 nr. 714, 27 april 2026 nr. 745 (i kraft 15 mai 2026), 13 juli 2026 nr. 1576, 23 juli 2026 nr. 1581.",
+ "refid": "forskrift/2022-06-11-1171",
+ "eli": "/eli/forskrift/2022/06/11/1171",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2022-06-11-1171",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Virkeområde",
+   "ledd": [
+    "Forskriften gjelder landbruks- og akvakulturprodukter dersom det i merking av eller reklame for produktene brukes opplysninger som viser til økologisk produksjon. Forskriften gjelder enhver fase av produksjon, bearbeiding, distribusjon, omsetning, og import fra land utenfor EØS-området av slike produkter.",
+    "Forskriften gjelder\na. levende og ubearbeidede landbruks- og akvakulturprodukter\nb. bearbeidede produkter til næringsmidler eller fôr\nc. vegetativt formeringsmateriale\nd. frø til dyrking\ne. gjær til næringsmidler eller fôr\nf. salt til næringsmidler eller fôr\ng. visse produkter med nær tilknytning til landbruksprodukter, blant annet ubehandlet bomull og ull, rå hud, ubehandlet skinn og bivoks.",
+    "Produkter som stammer fra jakt og fiske av viltlevende arter er ikke omfattet av forskriften. Forskriften gjelder heller ikke storkjøkkenvirksomhet.",
+    "Ved konflikt mellom denne forskriften og forordningene angitt i § 2, § 3 og § 4, gjelder forordningene."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Forordning (EU) 2018/848 om økologisk produksjon og merking av økologiske produkter",
+   "ledd": [
+    "EØS-avtalen vedlegg II kapittel XII nr. 54b (forordning (EU) 2018/848 som endret ved forordning (EU) 2020/427 (som endret ved forordning (EU) 2021/269), forordning (EU) 2020/1693, forordning (EU) 2020/1794, forordning (EU) 2021/642 som endret ved forordning (EU) 2025/452), forordning (EU) 2021/715, forordning (EU) 2021/716, forordning (EU) 2021/1006, forordning (EU) 2021/1691, forordning (EU) 2021/1697, forordning (EU) 2022/474, forordning (EU) 2023/207), og forordning (EU) 2024/2867) om økologisk produksjon og merking av økologiske produkter og om oppheving av rådsforordning (EF) nr. 834/2007) gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig"
+   ],
+   "endringer": [
+    "Endret ved forskrifter 12 des 2022 nr. 2157, 25 sep 2023 nr. 1513, 12 mai 2025 nr. 786, 22 sep 2025 nr. 1943."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Forordninger om økologisk produksjon, merking og kontroll",
+   "ledd": [
+    "EØS-avtalens vedlegg II kapittel XII nr. 54bd, be, bf, bi, bj, bk, bm, bq og br med følgende forordninger gjelder som forskrift med de tilpasninger som følger av vedlegg II kapittel XII, protokoll 1 til avtalen og avtalen for øvrig\na. (forordning (EU) 2020/2146) om unntaksregler med begrunnelse i uforutsette særlige hendelser,\nb. (forordning (EU) 2020/464, som endret ved forordning (EU) 2020/2042) om produksjonsregler for husdyr, akvakulturproduksjon, foredling av mat og fôr og krav til rapportering,\nc. (forordning (EU) 2021/771) om offentlig dokumentkontroll i økologisk virksomheter og grupper av virksomheter,\nd. (forordning (EU) 2021/1189) om produksjon og markedsføring av økologisk heterogent planteformeringsmateriale,\ne. (forordning (EU) 2021/279) om kontroll av økologiske virksomheter, oppfølgning av avvik og funn av ikke-tillatte stoffer i økologiske produkter,\nf. forordning (EU) 2021/1165, som er endret ved forordning (EU) 2023/121, forordning (EU) 2023/2229, forordning (EU) 2025/973) og forordning (EU) 2025/2501 om lister over tillatte produkter og stoffer i økologisk produksjon,\ng. (forordning (EU) 2021/2119, som endret ved forordning (EU) 2022/2240) om krav til virksomheter om oppbevaring av dokumentasjon og krav til at økologisertifikat skal være elektronisk tilgjengelig i Traces.\nh. (forordning (EU) 2023/1195), om utforming av et rapporteringsskjema for å dokumentere resultatene av undersøkelse av overtredelsessaker.\ni. (forordning (EU) 2025/1470) om offentlig informasjon i økologisertifikater og krav til informasjonsutveksling."
+   ],
+   "endringer": [
+    "Endret ved forskrifter 25 sep 2023 nr. 1513, 11 des 2023 nr. 2001, 24 juni 2024 nr. 1310. 8 des 2025 nr. 2451, 23 mars 2026 nr. 457, 4 mai 2026 nr. 714, 13 juli 2026 nr. 1576."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 3a",
+   "tittel": "Forordning (EU) 2023/2419 om merking av økologisk fôr til kjæledyr",
+   "ledd": [
+    "EØS-avtalens vedlegg I kapittel II nr. 49 med følgende forordning gjelder som forskrift med de tilpasninger som følger av vedlegg I kapittel II, protokoll 1 til avtalen og avtalen for øvrig."
+   ],
+   "endringer": [
+    "Tilføyd ved forskrift 24 juni 2024 nr. 1310."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 4",
+   "tittel": "Forordninger om import av økologiske produkter fra tredjeland",
+   "ledd": [
+    "EØS-avtalens vedlegg II kapittel XII nr. 54bb, bg, bh, bl, bn, bo og bp med følgende forordninger gjelder som forskrift med de tilpasninger som følger av vedlegg II kapittel XII, protokoll 1 til avtalen og avtalen for øvrig:\na. (forordning (EU) 2021/2306, som er endret ved forordning (EU) 2022/760, forordning (EU) 2022/2238 og forordning (EU) 2024/2975) om kontroll og utstedelse av sertifikat for økologiske varepartier i tredjeland,\nb. (forordning (EU) 2021/1342, som er endret ved forordning (EU) 2024/230) rapportering fra godkjente tredjeland og kontrollmyndigheter i tredjeland,\nc. (forordning (EU) 2021/1378, som er endret ved forordning (EU) 2021/2119, forordning (EU) 2022/2240, forordning (EU) 2024/1748, forordning (EU) 2024/2140, forordning (EU) 2024/2794, forordning (EU) 2024/3121, forordning (EU) 2025/882 og forordning (EU) 2025/2138) om utstedelse av sertifikater og om lister over godkjente kontrollmyndigheter som kan utstede sertifikater i tredjeland,\nd. (forordning (EU) 2021/1698, som er endret ved forordning (EU) 2023/1686, forordning (EU) 2024/2975, forordning (EU) 2024/3095 og forordning (EU) 2025/2651) om godkjenning av kontrollmyndigheter og regler for tilsyn i tredjeland,\ne. (forordning (EU) 2021/2307, som endret ved forordning (EU) 2022/2240) om importkontroll med økologiske varepartier,\nf. (forordning (EU) 2021/2325, som er endret ved forordning (EU) 2022/2047, forordning (EU) 2022/2049, forordning (EU) 2022/2468, forordning (EU) 2023/186, forordning (EU) 2023/1202, forordning (EU) 2023/2785 og forordning (EU) 2025/883) om lister over godkjente tredjeland og kontrollmyndigheter,\ng. (forordning (EU) 2022/1450), om bruk av ikke-økologiske protein fôrmidler til produksjon av økologiske husdyr i forbindelse med Russlands invasjon av Ukraina."
+   ],
+   "endringer": [
+    "Endret ved forskrifter 11 juli 2022 nr. 1336, 26 sep 2022 nr. 1654, 12 des 2022 nr. 2157, 25 sep 2023 nr. 1513, 30 okt 2023 nr. 1742, 11 des 2023 nr. 2001, 18 mars 2024 nr. 474, 8 juli 2024 nr. 1647, 9 des 2024 nr. 2996, 12 feb 2025 nr. 212, 17 mars 2025 nr. 473, 22 sep 2025 nr. 1943, 8 des 2025 nr. 2451, 4 mai 2026 nr. 714, 23 juli 2026 nr. 1581."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 5",
+   "tittel": "Deltakelse i registrerings- og kontrollordningen for økologisk produksjon",
+   "ledd": [
+    "Driftsansvarlig ved virksomheter eller virksomhetsgrupper som vil drive aktiviteter omfattet av denne forskriften skal søke Mattilsynet om godkjenning før oppstart av aktiviteten, jf. § 2 jf. forordning (EU) 2018/848 artikkel 34 (1).",
+    "Det blir utstedt et økologisertifikat til virksomheter eller virksomhetsgrupper som oppfyller kravene i regelverket og som er omfattet av kontrollordningen for økologisk produksjon, jf. § 2 jf. forordning (EU) 2018/848 artikkel 35 (1).",
+    "Kravene etter første og andre ledd gjelder også for tredjemenn, når driftsansvarlig for virksomhetene har satt bort ansvaret for aktivitetene i tillegg til selve aktiviteten."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 6",
+   "tittel": "Unntak for salg direkte til sluttbruker",
+   "ledd": [
+    "Virksomheter som selger ferdigpakkede produkter direkte til endelige bruker eller forbruker, er unntatt fra kravet om å søke godkjenning etter § 5, jf. forordning (EU) 2018/848 artikkel 34 (2).",
+    "Virksomheter som selger uemballerte produkter annet enn fôrvarer direkte til bruker eller forbruker, skal likevel melde aktiviteten til Mattilsynet, men er unntatt fra kravet om å inneha et økologisertifikat hvis vilkårene for mindre omsetning er oppfylt, jf. § 2 jf. forordning (EU) 2018/848 artikkel 35 (8).",
+    "Unntakene etter første og andre ledd gjelder likevel ikke for virksomheter som\na. produserer eller bearbeider produkter\nb. lagrer produkter på et annet sted enn direkte på salgsstedet\nc. importerer produkter fra land utenfor EØS-området\nd. setter bort aktiviteter som nevnt i bokstavene a til c til tredjemenn."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-8",
+   "nummer": "§ 7",
+   "tittel": "Register for økologisk produksjon",
+   "ledd": [
+    "Mattilsynet skal føre et register over virksomheter og virksomhetsgrupper med økologisertifikat, som skal være offentlig tilgjengelig, jf. § 2 jf. forordning (EU) 2018/848 artikkel 34 (6).",
+    "Registeret skal minst inneholde følgende opplysninger om den enkelte virksomhet eller virksomhetsgruppe:\na. navn og adresse til virksomheten eller virksomhetsgruppen\nb. datoen for utstedelse av økologisertifikatet og gyldighetsperioden\nc. beskrivelse av aktivitetene som er omfattet av økologisertifikatet\nd. for virksomhetsgrupper: opplysninger om alle virksomhetene som inngår."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-9",
+   "nummer": "§ 8",
+   "tittel": "Melding av endringer",
+   "ledd": [
+    "Driftsansvarlig ved virksomheter og virksomhetsgrupper med økologisertifikat skal melde fra til Mattilsynet ved\na. endringer i driftsbeskrivelsen og omfanget av de økologiske aktivitetene, jf. § 2 jf. forordning (EU) 2018/848 artikkel 39 1 d) i)\nb. opphør av godkjenningspliktig aktivitet etter § 5, jf. § 2 jf. forordning (EU) 2018/848 artikkel 39 1 d) iii)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-10",
+   "nummer": "§ 9",
+   "tittel": "Register over planteformeringsmateriale og dyr",
+   "ledd": [
+    "Mattilsynet skal føre et elektronisk register over økologiske dyr, fiskeyngel og planteformeringsmateriale og planteformeringsmateriale under omlegging som er tilgjengelig her i landet, jf. § 2 jf. forordning (EU) 2018/848 artikkel 26 (1) og (2). Planteformeringsmateriale omfatter økologisk heterogent materiale, arter eller sorter av frø, settepoteter og annet vegetativt formeringsmateriale, med unntak av småplanter fra frø.",
+    "Registeret skal også gi en oversikt over slikt materiale som er nevnt i første ledd som er tilgjengelig i tilstrekkelige mengder, og hvor det derfor ikke kan søkes om tillatelse til bruk av ikke-økologisk planteformeringsmateriale, jf. § 2 jf. forordning (EU) 2018/848 vedlegg II del I punkt 1.8.5.6 første ledd.",
+    "Driftsansvarlig ved virksomheter som omsetter økologiske dyr, fiskeyngel og planteformeringsmateriale etter første ledd kan registrere opplysninger i registeret i samsvar med § 2, jf. forordning (EU) 2018/848 artikkel 26 (2), (3) og (4)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-11",
+   "nummer": "§ 10",
+   "tittel": "Bruk av ikke-økologisk planteformeringsmateriale og dyr",
+   "ledd": [
+    "Driftsansvarlig ved virksomhetene kan søke Mattilsynet om bruk av følgende ikke-økologisk materiale\na. Tillatelse til å bruke ikke-økologisk planteformeringsmateriale\nb. Tillatelse til å sette inn ikke-økologiske dyr i en produksjonsenhet.",
+    "Tillatelser til bruk av ikke-økologisk planteformeringsmateriale kan bare gis dersom kriteriene i forskriften § 2 jf. forordning (EU) 2018/848, som endret ved forordning (EU) 2020/1794, vedlegg II del I punkt 1.8.5.1 til 1.8.5.5 er oppfylt.",
+    "Tillatelser til bruk av ikke-økologiske dyr i en produksjonsenhet kan bare gis i samsvar med kriteriene i forordning (EU) 2018/848 vedlegg II del II punkt 1.3.4.4. Virksomheten skal, før den søker om slik tillatelse, undersøke registeret omtalt i § 9 første ledd for å verifisere at det relevante økologiske materialet ikke er tilgjengelig, jf. § 2 jf. forordning (EU) 2018/848 vedlegg II del II punkt 1.3.4.4 annet ledd.",
+    "Det er ikke krav om særskilt tillatelse til å sette inn ikke-økologiske bevaringsverdige dyrearter til avlsformål, ikke-økologiske bier og fjørfe under 3 dagers alder etter henholdsvis § 2 jf. forordning (EU) 2018/848 vedlegg II del II punkt 1.3.4.1, 1.3.4.2 og 1.3.4.3."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-12",
+   "nummer": "§ 11",
+   "tittel": "Veksthusproduksjon",
+   "ledd": [
+    "Driftsansvarlig ved veksthusproduksjon etter denne forskriften skal sikre at\na. alt organisk materiale fra produksjonen resirkuleres\nb. produksjonen hovedsakelig baseres på naturlig lys, og at bruk av kunstig lys dokumenteres og kun benyttes alene i deler av dyrkingsperioden\nc. tilsatt CO2 i produksjonen kun er et biprodukt fra annen produksjon eller CO2 fra ikke-fossile kilder\nd. maksimum dybde på jorda ikke overstiger 10 cm dersom jorda behandles termisk\ne. behovet for tilført gjødsel er dokumentert jf. § 2 jf. forordning (EU) 2018/848 vedlegg II del I punkt 1.9.3.",
+    "Oppvarming er tillatt.",
+    "Dyrking av planter skal foregå i jord. Dyrking i avgrenset medium for planter er kun tillatt for virksomheter og arealer som var tilknyttet den økologiske kontrollordningen jf. § 5 innen 14. juni 2018 og i en overgangsperiode som utløper den 31. desember 2031, jf. § 2 jf. forordning (EU) 2018/848 vedlegg II del I punkt 1.5.",
+    "For visse planter som selges sammen med potter til sluttforbruker eller til bruker for videre utplanting er dyrking i avgrenset medium tillatt jf. § 2 jf. forordning (EU) 2018/848 vedlegg II del I punkt 1.4."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-13",
+   "nummer": "§ 12",
+   "tittel": "Antall dyreenheter som tilsvarer grensen for tillatt nitrogentilførsel på landbruksareal",
+   "ledd": [
+    "Maksimalt antall dyreenheter på virksomhetens landbruksareal eller for samarbeidende virksomheters landbruksareal som tilsvarer grensen på 17 kg nitrogen per år og dekar for ulike typer husdyrproduksjon, jf. § 2 jf. forordning (EU) 2018/848 vedlegg II del II punkt 1.6.7, fremgår av følgende:\n| Husdyrproduksjon | Maksimalt antall dyreenheter per dekar\n| Storfe: |\n| Ungdyr opp til 18 måneder | 0,46\n| Melkekyr | 0,14\n| Ammekyr | 0,30\n| Småfe: |\n| Sauer | 1,75\n| Geiter | 1,31\n| Gris: |\n| Slaktegriser | 6,40\n| Avlsgriser (inkl. årsproduksjon av 30 smågriser opp til 30 kg) | 0,55\n| Unggris til avl, 30 kg fram til bedekning | 5,41\n| Fjørfe: |\n| Verpehøns | 28\n| Avlsdyr av fjørfe | 24\n| Livkyllinger | 383\n| Slaktekyllinger | 196\n| Ender og gjess | 194\n| Kalkun | 45\n| Andre dyrearter: |\n| Hest | 0,41\n| Hjort, lama, alpakka | 1,67"
+   ],
+   "endringer": [
+    "Endret ved forskrift 26 feb 2026 nr. 332 (i kraft 4 mars 2026)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-14",
+   "nummer": "§ 13",
+   "tittel": "Hvileperiode for uteareal for fjørfe",
+   "ledd": [
+    "Utearealet for slaktekylling skal være ubenyttet minst en måned etter hvert innsett, jf. § 2 jf. forordning (EU) 2018/848 vedlegg II del II punkt 1.9.4.4 c). For annet fjørfe skal utearealet være ubenyttet i minst tre måneder etter hvert innsett."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-15",
+   "nummer": "§ 14",
+   "tittel": "Saktevoksende fjørferaser",
+   "ledd": [
+    "Følgende slaktekyllingraser er å anse som saktevoksende raser jf. § 2 jf. forordning (EU) 2018/848 vedlegg II del II punkt 1.9.4.1.:\na. Ross Rowan\nb. Rowan Ranger\nc. Hubbard JA57 Colour yield\nd. SASSO SA31\ne. Ranger Classic\nf. Ranger Gold.",
+    "Følgende kalkunraser er å anse som saktevoksende raser jf. § 2 jf. forordning (EU) 2018/848 vedlegg II del II punkt 1.9.4.1.:\na. Black Roly Poly\nb. Bronze 708\nc. Wrolsted Bronze.",
+    "Driftsansvarlige for virksomheter som ønsker at det skal tilføyes en ny rase, kan sende dokumentasjon til Mattilsynet som viser at rasen er saktevoksende."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-16",
+   "nummer": "§ 15",
+   "tittel": "Syntetiske vitaminer",
+   "ledd": [
+    "Dersom det ikke er tilgang på fôr til drøvtyggere med et tilstrekkelig innhold av naturlige vitaminer, er det tillatt å benytte syntetiske A-, D- og E-vitaminer jf. § 3 jf. forordning (EU) 2021/1165 vedlegg III del B nr. 3 (a). De syntetiske vitaminene skal være identiske med naturlige vitaminer."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-17",
+   "nummer": "§ 16",
+   "tittel": "Fôring med tilbakeholdt melk",
+   "ledd": [
+    "Melk som holdes tilbake som følge av behandling med legemidler kan ikke brukes som fôr til økologiske dyr før etter utløpet av tilbakeholdelsestiden for legemidlet. Fôring med tilbakeholdt melk etter denne tid, regnes som økologisk fôrandel.",
+    "All fôring med tilbakeholdt melk i økologisk besetning må opphøre senest en måned før slakting."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-18",
+   "nummer": "§ 17",
+   "tittel": "Krav om minimum dieperiode for kalv",
+   "ledd": [
+    "Kalver skal kunne die i minst tre dager etter fødselen. Dette gjelder likevel ikke hvis mordyret er under behandling med antimikrobielle legemidler og inntil tilbakeholdelsestiden for melk er utløpt. Ved kortere dieperiode enn en måned skal kalver kunne drikke av smokk frem til de er en måned gamle."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-19",
+   "nummer": "§ 18",
+   "tittel": "Bruk av konvensjonell fjørfegjødsel",
+   "ledd": [
+    "I økologisk produksjon er det ikke tillatt å bruke konvensjonell gjødsel fra fjørfe som har blitt fôret med fôr som inneholder koksidiostatika."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-20",
+   "nummer": "§ 19",
+   "tittel": "Import",
+   "ledd": [
+    "Importøren skal melde fra til Mattilsynet om import av produkter omfattet av denne forskriften fra land utenfor EØS-området senest en arbeidsdag før ankomst, jf. § 4 jf. forordning (EU) 2021/2307 artikkel 3.3.",
+    "Import av produkter omfattet av denne forskriften fra land utenfor EØS-området skal skje i samsvar med § 4 jf. forordning (EU) 2021/2325, forordning (EU) 2021/1378 og med de bestemmelsene som følger av vedlegg 1 til forskriften."
+   ],
+   "endringer": [
+    "Endret ved forskrift 13 juli 2026 nr. 1576."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-21",
+   "nummer": "§ 20",
+   "tittel": "Gebyr",
+   "ledd": [
+    "Virksomheter og virksomhetsgrupper som er omfattet av registrerings- og kontrollordningen skal betale årlig gebyr for tilsyn og kontroll, jf. forskrift 27. april 2026 nr. 745 om gebyr til Mattilsynet, kapittel III.",
+    "Det skal betales et gebyr for behandling av søknad etter § 5 om innmelding i registrerings- og kontrollordningen for økologisk produksjon, jf. forskrift 27. april 2026 nr. 745 om gebyr til Mattilsynet kapittel II, vedlegg 1 del D."
+   ],
+   "endringer": [
+    "Endret ved forskrift 27 april 2026 nr. 745 (i kraft 15 mai 2026)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-22",
+   "nummer": "§ 21",
+   "tittel": "(Opphevet)",
+   "ledd": [],
+   "endringer": [
+    "Endret ved forskrifter 20 des 2022 nr. 2372 (i kraft 1 jan 2023), 18 des 2023 nr. 2174 (i kraft 1 jan 2024), 19 des 2024 nr. 3318 (i kraft 1 jan 2025), 19 des 2025 nr. 2824 (i kraft 1 jan 2026), opphevet ved forskrift 27 april 2026 nr. 745 (i kraft 15 mai 2026)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-23",
+   "nummer": "§ 22",
+   "tittel": "(Opphevet)",
+   "ledd": [],
+   "endringer": [
+    "Endret ved forskrifter 20 des 2022 nr. 2372 (i kraft 1 jan 2023), 18 des 2023 nr. 2174 (i kraft 1 jan 2024), 19 des 2024 nr. 3318 (i kraft 1 jan 2025), 19 des 2025 nr. 2824 (i kraft 1 jan 2026), opphevet ved forskrift 27 april 2026 nr. 745 (i kraft 15 mai 2026)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-24",
+   "nummer": "§ 23",
+   "tittel": "(Opphevet)",
+   "ledd": [],
+   "endringer": [
+    "Endret ved forskrifter 20 des 2022 nr. 2372 (i kraft 1 jan 2023), 18 des 2023 nr. 2174 (i kraft 1 jan 2024), 19 des 2024 nr. 3318 (i kraft 1 jan 2025), 19 des 2025 nr. 2824 (i kraft 1 jan 2026), opphevet ved forskrift 27 april 2026 nr. 745 (i kraft 15 mai 2026)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-25",
+   "nummer": "§ 24",
+   "tittel": "(Opphevet)",
+   "ledd": [],
+   "endringer": [
+    "Endret ved forskrifter 20 des 2022 nr. 2372 (i kraft 1 jan 2023), 18 des 2023 nr. 2174 (i kraft 1 jan 2024), 19 des 2024 nr. 3318 (i kraft 1 jan 2025), 19 des 2025 nr. 2824 (i kraft 1 jan 2026), opphevet ved forskrift 27 april 2026 nr. 745 (i kraft 15 mai 2026)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-26",
+   "nummer": "§ 25",
+   "tittel": "Tilsyn og vedtak",
+   "ledd": [
+    "Mattilsynet fører tilsyn og fatter vedtak for å gjennomføre bestemmelsene gitt i og i medhold av denne forskriften.",
+    "Mattilsynet kan delegere utøvende tilsyns- og registreringsarbeid og vedtaksmyndighet til andre organer i samsvar med § 2, jf. forordning (EU) 2018/848 artikkel 34 (4), artikkel 34 (6) og artikkel 40 . Mattilsynet fører tilsyn med slike kontrollorganer som er nevnt i forordning (EU) 2018/848 artikkel 40 .",
+    "Mattilsynet er klageinstans i tilfeller der myndighet er delegert til andre organer i samsvar med andre ledd."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-27",
+   "nummer": "§ 26",
+   "tittel": "Dispensasjon",
+   "ledd": [
+    "Mattilsynet kan i særlige tilfeller dispensere fra bestemmelsene i denne forskriften, forutsatt at det ikke vil stride mot Norges internasjonale forpliktelser, herunder EØS-avtalen."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-28",
+   "nummer": "§ 27",
+   "tittel": "Straff",
+   "ledd": [
+    "Forsettlig eller uaktsom overtredelse av denne forskriften eller enkeltvedtak gitt i medhold av den, er straffbart i henhold til lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) § 28."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-29",
+   "nummer": "§ 28",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Forskriften trer i kraft 25. juni 2022. Fra samme tidspunkt oppheves forskrift 18. mars 2017 nr. 355 om økologisk produksjon og merking av økologiske landbruksprodukter, akvakulturprodukter, næringsmidler og fôr (økologiforskriften)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-30",
+   "nummer": "§ 29",
+   "tittel": "Overgangsbestemmelser",
+   "ledd": [
+    "a. Virksomheter som før denne forskriften trådte i kraft har vært omfattet av registrerings- og kontrollordningen i henhold til forskrift 18. mars 2017 nr. 355 § 5, jf. § 2, jf. forordning (EF) nr. 834/2007 artikkel 17 og artikkel 28 og § 3, jf. forordning (EF) nr. 889/2008 artikkel 38a nr. 2, vil være å anse som omfattet av registrerings- og kontrollordningen etter forskriften her, jf. § 5 og § 6 jf. forordning (EU) 2018/848 artikkel 34(1) og 35(8).\nb. Inntil det fastsettes nærmere bestemmelser om rengjørings- og desinfiseringsmidler som kan brukes i økologisk planteproduksjon, på lagre og i foredlingsvirksomheter, jf. § 3 jf. forordning (EU) 2021/1165 vedlegg IV, gjelder det ikke særskilte forbud mot bruk av slike midler etter denne forskriften."
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "vedleggI",
+   "overskrift": "Vedlegg I\nListe over tredjestater og relevante spesifikasjoner nevnt i § 19",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrift 9 des 2024 nr. 2996."
+    },
+    {
+     "type": "tekst",
+     "tekst": "I dette vedlegg har produktkategoriene følgende koder:\n| A: | Ubearbeidede planteprodukter\n| B: | Levende dyr eller ubearbeidede animalske produkter\n| C: | Uforedlede akvakulturprodukter og alger\n| D: | Bearbeidede landbruksprodukter til bruk som næringsmidler\n| E: | Bearbeidede landbruksprodukter til bruk som fôr\n| F: | Vegetativt formeringsmateriale og frø til dyrking"
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-1-kapittel-1",
+     "navn": null,
+     "overskrift": "CHILE:",
+     "innhold": [
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-1-kapittel-1",
+       "navn": "kap1",
+       "overskrift": "1. Produktkategorier:",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "| Produktkategorier | Kategoribeskrivelse | Beskrivelse av produkter og begrensninger\n| Uforedlede planteprodukter | A | (pdf)\n| Honning | – |\n| Foredlede landbruksprodukter til bruk som næringsmidler | D |\n| Vegetative formeringsmateriale og frø til kultivering | F |"
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-1-kapittel-2",
+       "navn": "kap2",
+       "overskrift": "2. Opprinnelse:",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Økologisk dyrkede ingredienser i produkter i kategori A og D, som er dyrket i Chile eller importert til Chile:\n- enten fra Unionen\n- eller fra en tredjestat der Unionen har godkjent som ekvivalent i henhold til i artikkel 48 i forordningen (EU) 2018/848."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-1-kapittel-3",
+       "navn": "kap3",
+       "overskrift": "3. Produksjonsstandard:",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Lov 20.089 av 17. januar 2006 om innføring av en nasjonal sertifiseringsordning for økologiske landbruksprodukter."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-1-kapittel-4",
+       "navn": "kap4",
+       "overskrift": "4. Vedkommende myndighet:",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Servicio Agricola y Ganadero (SAG), Ministry of Agriculture. http://www.sag.cl/ambitos-de-accion/certificacion-de-productos-organicos"
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-1-kapittel-5",
+       "navn": "kap5",
+       "overskrift": "5. Kontrollorganer:",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "| Kodenummer | Navn | Internettadresse\n| CL-BIO-001 | Ecocert Chile S.A. | http://www.ecocert.cl\n| CL-BIO-005 | CERES- Certification of Environmental Standards GmbH | https://www.ceres-cert.com/\n| CL-BIO-010 | BIO CERTIFICADORA SERVICIOS LIMITADA O BIOAUDITA | http://www.bioaudita.cl\n| CL-BIO-028 | Control Union Peru SAC | www.cuperu.com/portal/"
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-1-kapittel-6",
+       "navn": "kap6",
+       "overskrift": "6. Organer som utsteder sertifikater:",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Som i nr. 5."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-1-kapittel-7",
+       "navn": "kap7",
+       "overskrift": "7. Oppføringens varighet:",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "ikke fastsatt"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-1-kapittel-2",
+     "navn": null,
+     "overskrift": "SVEITS",
+     "innhold": [
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-2-kapittel-1",
+       "navn": "kap1",
+       "overskrift": "1. Produktkategorier:",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "| Produktkategorier | Kategoribeskrivelse | Begrensninger\n| Uforedlede planteprodukter | A | Med unntak av produkter som er produsert i omleggingsperioden.\n| Levende dyr eller uforedlede animalske produkter | B |\n| Foredlede landbruksprodukter til bruk som næringsmidler | D | Med unntak av produkter som inneholder en ingrediens av landbruksopprinnelse som er produsert i omleggingsperioden.\n| Foredlede landbruksprodukter til bruk som fôr | E | Med unntak av produkter som inneholder en ingrediens av landbruksopprinnelse som er produsert i omleggingsperioden.\n| Vegetativt formeringsmateriale og frø til dyrking | F |"
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-2-kapittel-2",
+       "navn": "kap2",
+       "overskrift": "2. Opprinnelse:",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Produkter i kategori A og F som er dyrket i Sveits, og produkter i kategori D og E som er foredlet i Sveits med økologisk dyrkede ingredienser som er dyrket i Sveits eller er importert til Sveits\n- enten fra Unionen\n- eller fra en tredjestat der Sveits har anerkjent at produktene er produsert og kontrollert i samsvar med regler som er likeverdige med dem som er fastsatt i sveitsisk lovgivning."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-2-kapittel-3",
+       "navn": "kap3",
+       "overskrift": "3. Produksjonsstandard:",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Ordinance on organic farming and the labelling of organically produced plant products and foodstuffs."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-2-kapittel-4",
+       "navn": "kap4",
+       "overskrift": "4. Vedkommende myndighet:",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Federal Office for Agriculture FOAG, Federal Office for Agriculture FOAG, http://www.blw.admin.ch/themen/00013/00085/00092/index.html?lang=en"
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-2-kapittel-5",
+       "navn": "kap5",
+       "overskrift": "5. Kontrollorganer:",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "| Kodenummer | Navn | Internettadresse\n| CH-BIO-004 | Ecocert IMOswiss AG | https://www.ecocert-imo.ch\n| CH-BIO-006 | bio.inspecta AG | https://www.bio-inspecta.ch\n| CH-BIO-038 | ProCert AG | https://www.procert.ch\n| CH-BIO-086 | Bio Test Agro (BTA) | https://www.bio-test-agro.ch"
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-2-kapittel-6",
+       "navn": "kap6",
+       "overskrift": "6. Organer som utsteder sertifikater:",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Som i nr. 5."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-2-kapittel-7",
+       "navn": "kap7",
+       "overskrift": "7. Oppføringens varighet:",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Ikke fastsatt."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-1-kapittel-3",
+     "navn": null,
+     "overskrift": "STORBRITANNIA",
+     "innhold": [
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-3-kapittel-1",
+       "navn": "kap1",
+       "overskrift": "1. Produktkategorier:",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "| Produktkategorier | Kategoribeskrivelse | Begrensninger\n| Uforedlede planteprodukter | A |\n| Levende dyr eller uforedlede animalske produkter inkludert honning | B |\n| Akvakulturprodukter og tang | C |\n| Foredlede planteprodukter til bruk som mat | D |\n| Foredlede landbruksprodukter til bruk som fòr | E |\n| Vegetative formeringsmateriale og frø til dyrking | F |"
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-3-kapittel-2",
+       "navn": "kap2",
+       "overskrift": "2. Opprinnelse:",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "De økologiske produktene skal være uforedlede landbruks- eller akvakulturprodukter produsert i Storbritannia eller foredlede landbruksprodukter for bruk som mat eller fôr som har blitt foredlet i Storbritannia med ingredienser som er dyrket i Storbritannia eller som er importert til Storbritannia i samsvar med Storbritannias lover og forskrifter."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-3-kapittel-3",
+       "navn": "kap3",
+       "overskrift": "3. Produksjonsstandard:",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Lovene og forskriftene som gjelder i Storbritannia angående produksjonsstandarder er følgende:\n- beholdt EF-forordning 834/2007\n- beholdt EF-forordning 889/2008\n- beholdt EF-forordning 1235/2008\n- the Organic Products Regulations 2009 (SI 2009/842)\nHenvisninger i denne listen til beholdt unionslovgivning anses å være referanser til slik lovgivning som endret av Storbritannia for at lovgivningen skal gjelde for Storbritannia."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-3-kapittel-4",
+       "navn": "kap4",
+       "overskrift": "4. Vedkommende myndighet:",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Kompetent myndighet: Department for Environment, Food and Rural Affairs ( www.gov.uk/government/organisations/department-for-environment-food-rural-affairs) (DEFRA)"
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-3-kapittel-5",
+       "navn": "kap5",
+       "overskrift": "5. Kontrollorganer:",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "| Kodenummer | Navn | Internettadresse\n| GB-ORG-02 | Organic Farmers & Growers CIC | https://ofgorganic.org\n| GB-ORG-04 | Organic Food Federation | http://www.orgfoodfed.com\n| GB-ORG-05 | Soil Association Certification Ltd | https://www.soilassociation.org/certification\n| GB-ORG-06 | Bio-Dynamic Association Certification | https://bdcertification.org.uk\n| GB-ORG-07 | Irish Organic Association | https://www.irishorganicassociation.ie\n| GB-ORG-09 | Organic Trust CLG | https://organictrust.ie\n| GB-ORG-13 | Quality Welsh Food Certification Ltd | https://www.wlbp.co.uk\n| GB-ORG-17 | O F & G (Scotland) Ltd | https://ofgorganic.org"
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-3-kapittel-6",
+       "navn": "kap6",
+       "overskrift": "6. Organer som utsteder sertifikater:",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Som i nr. 5."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-3-kapittel-7",
+       "navn": "kap7",
+       "overskrift": "7. Oppføringens varighet:",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Ikke fastsatt."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": null,
+   "overskrift": "Forordninger",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "For å gjøre det lett å finne frem til ordlyden i de forordningene som blir gjennomført, gjengir vi dem nedenfor i samme rekkefølge som økologiforskriftens § 2, § 3, § 3a og § 4. Teksten er kun til informasjon, og ikke en del av forskriften."
+    },
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrift 24 juni 2024 nr. 1310."
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-2-kapittel-1",
+     "navn": null,
+     "overskrift": "Forordninger gjennomført i forskriftens § 2",
+     "innhold": [
+      {
+       "type": "endring",
+       "tekst": "Endret ved forskrifter 12 des 2022 nr. 2157, 25 sep 2023 nr. 1513, 12 mai 2025 nr. 786, 22 sep 2025 nr. 1943."
+      },
+      {
+       "type": "tekst",
+       "tekst": "Nedenfor gjengis til informasjon uoffisiell norsk oversettelse av forordning (EU) 2018/848 om økologisk produksjon og merking av økologiske produkter. Dette er grunnrettsakten. Grunnrettsakten er endret ved forordning (EU) 2020/427, forordning (EU) 2021/269, forordning (EU) 2020/1693, forordning (EU) 2020/1794, forordning (EU) 2021/642, forordning (EU) 2025/452, forordning (EU) 2021/715, forordning (EU) nr. 2021/716, forordning (EU) 2021/1006, forordning (EU) 2021/1691, forordning (EU) 2021/1697, forordning (EU) 2022/474 forordning (EU) 2023/207 og forordning (EU) 2024/2867. Alle endringer av grunnrettsakten samt de endringer og tillegg som følger av EØS- tilpasningen av grunnrettsakten i samsvar med EØS-avtalen vedlegg II kapittel XII, er innarbeidet. I tillegg gjelder følgende generelle EØS-tilpasninger:\n«For EFTA-landene gjelder ikke bestemmelser i økologiregelverket for området plantehelse.»\n«For EFTA landene skal referanser til kriterier som fremkommer i Råds- og Parlamentsforordning (EU) nr. 1305/2013 og Råds- og Parlamentsforordning (EU) nr. 1380/2013 bli forstått som referanse til kriterier som fremkommer i nasjonalt regelverk.»\n«EFTAs overvåkningsorgan (ESA) skal ha tilgang til systemer beskrevet i artikkel 43.1 og artikkel 51.2.»."
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-2-kapittel-1-kapittel-1",
+       "navn": null,
+       "overskrift": "Konsolidert forordning (EU) 2018/848",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "►B Forordning (EU) 2018/848 av 3. mai 2018\nsom er endret ved\n►M1 Forordning (EU) 2020/427 av 13. januar 2020, endret ved ►M2 Forordning (EU) 2021/269 av 4. desember 2020\n►M3 Forordning (EU) 2020/1693 av 11. november 2020\n►M4 Forordning (EU) 2020/1794 av 16. september 2020\n►M5 Forordning (EU) 2021/642 av 30. oktober 2020, endret ved ►M6 Forordning (EU) 2025/452 av 19. desember 2024\n►M7 Forordning (EU) 2021/715 av 20. januar 2021\n►M8 Forordning (EU) 2021/716 av 9. februar 2021\n►M9 Forordning (EU) 2021/1006 av 12. april 2021\n►M10 Forordning (EU) 2021/1691 av 12. juli 2021\n►M11 Forordning (EU) 2021/1697 av 13. juli 2021\n►M12 Forordning (EU) 2022/474 av 17. januar 2022\n►M13 Forordning (EU) 2023/207 av 24. november 2022\n►M14 Forordning (EU) 2024/2867 av 2. september 2024\n►EØS-tilpasning som følge av EØS-avtalen vedlegg II kapittel XII\npdf-fil"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-2-kapittel-2",
+     "navn": null,
+     "overskrift": "Forordninger gjennomført i forskriftens § 3",
+     "innhold": [
+      {
+       "type": "endring",
+       "tekst": "Endret ved forskrifter 25 sep 2023 nr. 1513, 11 des 2023 nr. 2001, 24 juni 2024 nr. 1310, 8 des 2025 nr. 2451, 13 juli 2026 nr. 1576."
+      },
+      {
+       "type": "tekst",
+       "tekst": "Nedenfor gjengis til informasjon uoffisielle norske oversettelser av forordninger om økologisk produksjon, merking og kontroll. Dette omfatter følgende forordninger som gir utfyllende regler til grunnrettsakten: Forordning (EU) 2020/2146, forordning (EU) 2020/464 som er endret ved forordning (EU) 2020/2042, forordning (EU) 2021/771, forordning (EU) 2021/1189, forordning (EU) 2021/279, forordning (EU) 2021/1165 som er endret ved forordning (EU) 2023/121, forordning (EU) 2023/2229, forordning (EU) 2025/973 og forordning (EU) 2025/2501, forordning (EU) 2021/2119 som er endret forordning (EU) 2022/2240, og forordning (EU) 2023/1195. Alle endringer i rettsaktene, samt de endringer og tillegg som følger av EØS- tilpasninger i samsvar med EØS-avtalen vedlegg II kapittel XII, er innarbeidet."
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-2-kapittel-2-kapittel-1",
+       "navn": null,
+       "overskrift": "Forordning (EU) 2020/2146",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "pdf-fil"
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-2-kapittel-2-kapittel-2",
+       "navn": null,
+       "overskrift": "Konsolidert forordning (EU) 2020/464",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Nedenfor gjengis til informasjon norsk uoffisiell oversettelse av forordning (EU) 2020/464. Den er endret ved forordning (EU) 2020/2042. Alle endringer av rettsakten er innarbeidet\n►B Forordning (EU) 2020/464\nsom er endret ved\n►M1 Forordning (EU) 2020/2042\npdf-fil"
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-2-kapittel-2-kapittel-3",
+       "navn": null,
+       "overskrift": "Forordning (EU) 2021/771",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "pdf-fil"
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-2-kapittel-2-kapittel-4",
+       "navn": null,
+       "overskrift": "Forordning (EU) 2021/1189",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "pdf-fil"
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-2-kapittel-2-kapittel-5",
+       "navn": null,
+       "overskrift": "Forordning (EU) 2021/279",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "pdf-fil"
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-2-kapittel-2-kapittel-6",
+       "navn": null,
+       "overskrift": "Konsolidert forordning (EU) 2021/1165",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Nedenfor gjengis til informasjon norsk uoffisiell oversettelse av forordning (EU) 2021/1165. Den er endret ved forordning (EU) 2023/121, forordning (EU) 2023/2229, forordning (EU) 2025/973 og forordning (EU) 2025/2501. Alle endringer av rettsakten er innarbeidet.\n►B Forordning (EU) 2021/1165 av 15. juli 2021\nsom er endret ved\n►M1 Forordning (EU) 2023/121 av 17. januar 2023\n►M2 Forordning (EU) 2023/2229 av 25. oktober 2023\n►M3 Forordning (EU) 2025/973 av 23. mai 2025\n►M4 Forordning (EU) 2025/2501 av 11. desember 2025\npdf-fil."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-2-kapittel-2-kapittel-7",
+       "navn": null,
+       "overskrift": "Konsolidert forordning (EU) 2021/2119",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Nedenfor gjengis til informasjon norsk uoffisiell oversettelse av forordning (EU) 2021/2119. Den er endret ved forordning (EU) 2022/2240. Alle endringer av rettsakten er innarbeidet\n►B Forordning (EU) 2021/2119 av 1. desember 2021\nsom er endret ved\n►M1 Forordning (EU) 2022/2240 av 20. oktober 2022\npdf-fil"
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-2-kapittel-2-kapittel-8",
+       "navn": null,
+       "overskrift": "Forordning (EU) 2023/1195",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "pdf-fil"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-2-kapittel-3",
+     "navn": null,
+     "overskrift": "Forordning om merking av økologisk fôr til kjæledyr gjennomført i forskriftens § 3a",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Nedenfor gjengis til informasjon uoffisielle norske oversettelser av forordninger om merking av økologisk fôr til kjæledyr.\npdf-fil"
+      },
+      {
+       "type": "endring",
+       "tekst": "Tilføyd ved forskrift 24 juni 2024 nr. 1310."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-2-kapittel-4",
+     "navn": null,
+     "overskrift": "Forordninger gjennomført i forskriftens § 4",
+     "innhold": [
+      {
+       "type": "endring",
+       "tekst": "Endret ved forskrifter 11 juli 2022 nr. 1336, 26 sep 2022 nr. 1654, 12 des 2022 nr. 2157, 25 sep 2023 nr. 1513, 30 okt 2023 nr. 1742, 11 des 2023 nr. 2001, 18 mars 2024 nr. 474, 8 juli 2024 nr. 1647, 9 des 2024 nr. 2996, 12 feb 2025 nr. 212, 17 mars 2025 nr. 473, 22 sep 2025 nr. 1943, 8 des 2025 nr. 2451, 4 mai 2026 nr. 714, 23 juli 2026 nr. 1581."
+      },
+      {
+       "type": "tekst",
+       "tekst": "Nedenfor gjengis til informasjon uoffisielle norske oversettelser av forordninger om import av økologiske produkter fra tredjeland. Dette omfatter følgende forordninger som gir utfyllende regler til grunnrettsakten: Forordning (EU) 2021/2306 som er endret ved forordning (EU) 2022/760, forordning (EU) 2022/2238 og forordning (EU) 2024/2975, forordning (EU) 2021/1342 som er endret ved forordning (EU) 2024/230, forordning (EU) 2021/1378 som er endret ved forordning (EU) 2021/2119 forordning (EU) 2022/2240, forordning (EU) 2024/1748, forordning (EU) 2024/2140, forordning (EU) 2024/2794 forordning (EU) 2024/3121 og forordning (EU) 2025/2138, forordning (EU) 2021/1698 som er endret ved forordning (EU) 2023/1686, forordning (EU) 2024/2975, forordning (EU) 2024/3095 og forordning (EU) 2025/2651, forordning (EU) 2021/2307 som er endret ved forordning (EU) 2022/2240, forordning (EU) 2021/2325 som er endret ved forordning (EU) 2022/2047 forordning (EU) 2022/2049 forordning (EU) 2022/2468 forordning (EU) 2023/186 forordning (EU) 2023/1202 og forordning (EU) 2023/2785, og forordning (EU) 2022/1450. Alle endringer i rettsaktene, samt de endringer og tillegg som følger av EØS-tilpasninger i samsvar med EØS-avtalen vedlegg II kapittel XII, er innarbeidet."
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-2-kapittel-4-kapittel-1",
+       "navn": null,
+       "overskrift": "Konsolidert forordning (EU) 2021/2306",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Nedenfor gjengis til informasjon norsk uoffisiell oversettelse av forordning (EU) 2021/2306. Her er det innarbeidet tillegg som følger av EØS-tilpasningen av rettsakten i samsvar med EØS-avtalen vedlegg II kapittel XII, og endringer som følger av forordning (EU) 2022/760, forordning (EU) 2022/2238 og forordning (EU) 2024/2975. Alle endringer av rettsakten er innarbeidet.\n►B Forordning (EU) 2021/2306 av 21. oktober 2021\nsom er endret ved\n►M1 Forordning (EU) 2022/760 av 8. april 2022\n►M2 Forordning (EU) 2022/2238 av 22. april 2022\n►M3 Forordning (EU) 2024/2975 av 25. september 2024\n►EØS-tilpasning som følge av EØS-avtalen vedlegg II kapittel XII\npdf-fil"
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-2-kapittel-4-kapittel-2",
+       "navn": null,
+       "overskrift": "Konsolidert forordning (EU) 2021/1342",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Nedenfor gjengis til informasjon norsk uoffisiell oversettelse av forordning (EU) 2021/1342. Den er endret ved forordning (EU) 2024/230. Alle endringer av rettsakten er innarbeidet.\n►B Forordning (EU) 2021/1342 av 27. mai 2021\nsom er endret ved\n►M1 Forordning (EU) 2024/230 av 25. oktober 2023\npdf-fil"
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-2-kapittel-4-kapittel-3",
+       "navn": null,
+       "overskrift": "Konsolidert forordning (EU) 2021/1378",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Nedenfor gjengis til informasjon norsk uoffisiell oversettelse av forordning (EU) 2021/1378. Den er endret ved forordning (EU) 2021/2119, forordning (EU) 2022/2240, forordning (EU) 2024/1748, forordning (EU) 2024/2140, forordning (EU) 2024/2794 forordning (EU) 2024/3121, forordning (EU) 2025/882, og forordning (EU) 2025/2138. Alle endringer av rettsakten er innarbeidet.\n►B Forordning (EU) 2021/1378 av 19. august 2021\nsom er endret ved\n►M1 Forordning (EU) 2021/2119 av 1. desember 2021\n►M2 Forordning (EU) 2022/2240 av 20. oktober 2022\n►M3 Forordning (EU) 2024/1748 av 21. juni 2024\n►M4 Forordning (EU) 2024/2140 av 6. august 2024\n►M5 Forordning (EU) 2024/2794 av 31. oktober 2024\n►M6 Forordning (EU) 2024/3121 av 16. desember 2024\n►M7 Forordning (EU) 2025/882 av 14. mai 2025\n►M8 Forordning (EU) 2025/2138 av 21. oktober 2025\npdf-fil"
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-2-kapittel-4-kapittel-4",
+       "navn": null,
+       "overskrift": "Konsolidert forordning (EU) 2021/1698",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Nedenfor gjengis til informasjon norsk uoffisiell oversettelse av forordning (EU) 2021/1698. Den er endret ved forordning (EU) 2023/1686, forordning (EU) 2024/2975, forordning (EU) 2024/3095 og forordning (EU) 2025/2651. Alle endringer av rettsakten er innarbeidet.\n►B Forordning (EU) 2021/1698 av 13. juli 2021\nsom er endret ved\n►M1 Forordning (EU) 2023/1686 av 30. juni 2023\n►M2 Forordning (EU) 2024/2975 av 25. september 2024\n►M3 Forordning (EU) 2024/3095 av 29. juli 2024\n►M4 Forordning (EU) 2025/2651 av 16. oktober 2025\npdf-fil"
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-2-kapittel-4-kapittel-5",
+       "navn": null,
+       "overskrift": "Konsolidert forordning (EU) 2021/2307",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Nedenfor gjengis til informasjon norsk uoffisiell oversettelse av forordning (EU) 2021/2307. Den er endret ved forordning (EU) 2022/2240. Alle endringer av rettsakten er innarbeidet.\n►B Forordning (EU) 2021/2307 av 21. oktober av 2021\nsom er endret ved\n►M1 Forordning (EU) 2022/2240 av 20. oktober 2022\npdf-fil"
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-2-kapittel-4-kapittel-6",
+       "navn": null,
+       "overskrift": "Konsolidert forordning (EU) 2021/2325",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Nedenfor gjengis til informasjon norsk uoffisiell oversettelse av forordning (EU) 2021/2325. Den er endret ved forordning (EU) 2022/2047, forordning (EU) 2022/2049, forordning (EU) 2022/2468, forordning (EU) 2023/186, forordning (EU) 2023/1202, forordning (EU) 2023/2785 og forordning (EU) 2025/883. Alle endringer av rettsakten er innarbeidet.\n►B Forordning (EU) 2021/2325 av 16. desember 2021 2021\nsom er endret ved\n►M1 Forordning (EU) 2022/2047 av 24. oktober 2022\n►M2 Forordning (EU) 2022/2049 av 24. oktober 2022\n►M3 Forordning (EU) 2022/2468 av 15. desember 2022\n►M4 Forordning (EU) 2023/186 av 27. januar 2023\n►M5 Forordning (EU) 2023/1202 av 21. juni 2023\n►M6 Forordning (EU) 2023/2785 av 14. desember 2023\n►M7 Forordning (EU) 2025/883 av 14. mai 2025\npdf-fil"
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-2-kapittel-4-kapittel-7",
+       "navn": null,
+       "overskrift": "Forordning (EU) 2022/1450",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "pdf-fil"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

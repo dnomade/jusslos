@@ -1,0 +1,301 @@
+{
+ "skjema": "1.0",
+ "type": "lov",
+ "datokode": "LOV-2020-04-17-29",
+ "dokumentid": "NL/lov/2020-04-17-29",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "ikraft": "2021-01-01",
+ "siste_endring_ikraft": "2026-04-30",
+ "sist_endret_ved": [
+  {
+   "ref": "lov/2025-12-22-129",
+   "tekst": "lov/2025-12-22-129 fra 2026-04-30"
+  }
+ ],
+ "rettsomrade": [
+  "Anskaffelser, avtaler, bygg og entrepriser > Avtaler"
+ ],
+ "kunngjort": "2020-04-17 12:10",
+ "korttittel": "Lov om god handelsskikk i dagligvarekjeden",
+ "tittel": "Lov om god handelsskikk i dagligvarekjeden",
+ "refid": "lov/2020-04-17-29",
+ "eli": "/eli/lov/2020/04/17/29",
+ "url": "https://lovdata.no/dokument/NL/lov/2020-04-17-29",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1 Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Formål",
+     "ledd": [
+      "Loven skal bidra til effektiv bruk av samfunnets ressurser og ivareta forbrukernes interesser ved å fremme redelighet, forutberegnelighet og lojalitet i kontraktsforhold mellom næringsdrivende i dagligvarebransjen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Loven gjelder for forhandlinger og avtaler om leveranser av dagligvarer\na. som er ment for videresalg til forbrukere gjennom utsalgssteder som har salg av dagligvarer som en vesentlig del av sin virksomhet, eller\nb. for salg til storhusholdning gjennom en part som også leverer dagligvarer til utsalgssteder som nevnt i bokstav a.",
+      "Loven gjelder ikke salg til forbrukere. Loven gjelder heller ikke forhandlinger og avtaler mellom primærprodusenter og industriaktører.",
+      "Loven gjelder for forhandlinger og avtaler som foretas, har virkning eller er egnet til å ha virkning her i riket."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2 God handelsskikk",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 3",
+     "tittel": "God handelsskikk",
+     "ledd": [
+      "I forretningsforhold mellom næringsdrivende i dagligvarebransjen skal det ikke foretas handlinger som strider mot god handelsskikk. God handelsskikk skal være basert på redelighet, forutberegnelighet og lojalitet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 4",
+     "tittel": "Krav på opplysninger",
+     "ledd": [
+      "Ved forhandlinger og gjennomføring av avtaler om leveranser av dagligvarer skal hver av partene legge frem opplysninger som de kjenner til, og som de har grunn til å tro er av betydning for den annen part. Dette gjelder ikke informasjon som partene har berettiget grunn til å holde hemmelig."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 5",
+     "tittel": "Beskyttelse av partenes investeringer",
+     "ledd": [
+      "Dersom den ene parten i god tro har foretatt investeringer eller andre tiltak i forståelse med den andre parten, må sistnevnte ikke opptre på en måte som er i strid med de berettigede forventningene som har oppstått."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 6",
+     "tittel": "Skriftlighet og klarhet",
+     "ledd": [
+      "Avtaler skal inngås skriftlig og klart beskrive hvilke ytelser partene er forpliktet til å levere. En part kan ikke ensidig endre avtalen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 7",
+     "tittel": "Ansvar for svinn og kundereklamasjoner",
+     "ledd": [
+      "Avtalen skal regulere ansvar for svinn og kundereklamasjoner."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-6",
+     "nummer": "§ 8",
+     "tittel": "Delisting og oppsigelse",
+     "ledd": [
+      "Avtalen skal inneholde frister for varsling av delisting av produkter og for oppsigelse av avtaleforholdet. Delisting skal varsles selv om avtalen ellers fastsetter tidsrom for når delisting kan finne sted. Delisting krever saklig grunn. Delisting skal begrunnes skriftlig når en avtalepart krever det."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-7",
+     "nummer": "§ 9",
+     "tittel": "Vern mot etterligninger",
+     "ledd": [
+      "Næringsdrivende i dagligvarebransjen må ikke anvende etterlignende kjennetegn, produkter, kataloger, reklamemidler eller andre frambringelser på slik måte og under slike omstendigheter at det må anses som en urimelig utnyttelse av en annens innsats eller resultater og fører med seg fare for forveksling."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-8",
+     "nummer": "§ 10",
+     "tittel": "Trusler",
+     "ledd": [
+      "Næringsdrivende i dagligvarebransjen må ikke benytte ord og handlinger som er egnet til å fremkalle alvorlig frykt, for eksempel trusler om utilbørlige represalier eller spredning av usann informasjon."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3 Tilsyn, håndheving og overprøving",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 11",
+     "tittel": "Konkurransetilsynets oppgaver etter loven",
+     "ledd": [
+      "Konkurransetilsynet fører tilsyn med at bestemmelsene i denne loven overholdes. Det gir veiledning og informasjon om loven og kontrollerer at lovens påbud og forbud overholdes.",
+      "Konkurransetilsynet kan gi pålegg etter § 12 og treffe vedtak etter §§ 15 til 17, som kan påklages til Konkurranseklagenemnda etter § 18.",
+      "Konkurransetilsynet skal legge vekt på hensynet til forbrukerne ved håndhevingen av loven.",
+      "Konkurransetilsynet kan ikke instrueres om behandlingen av enkeltsaker eller gis generelle instrukser om hvordan myndighet etter loven skal utøves.",
+      "Kongen eller departementet kan ikke omgjøre Konkurransetilsynets vedtak etter loven her."
+     ],
+     "endringer": [
+      "Endret ved lov 22 des 2025 nr. 129 (i kraft 30 april 2026 iflg. res. 17 april 2026 nr. 601)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 12",
+     "tittel": "Opplysningsplikt",
+     "ledd": [
+      "Enhver har plikt til å gi Konkurransetilsynet og Konkurranseklagenemnda de opplysninger som disse myndigheter krever for å kunne utføre sine gjøremål etter loven. Opplysningene kan kreves gitt skriftlig eller muntlig innen en fastsatt frist, og kan nedtegnes og lagres som lydopptak. Konkurransetilsynet og Konkurranseklagenemnda kan også kreve utlevert alle typer informasjon og bærere av slik informasjon for gransking.",
+      "Taushetsplikten som følger av lov, pålegg eller avtale, er ikke til hinder for opplysningsplikten eller retten til å foreta gransking etter første ledd. Dette gjelder likevel ikke opplysninger, informasjon eller bærere av informasjon som er omfattet av taushetsplikten som nevnt i straffeprosessloven §§ 117 til 120."
+     ],
+     "endringer": [
+      "Endret ved lov 22 des 2025 nr. 129 (i kraft 30 april 2026 iflg. res. 17 april 2026 nr. 601)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 13",
+     "tittel": "Taushetsplikt og beskyttelse av kilder",
+     "ledd": [
+      "Enhver som utfører tjeneste eller arbeid for Konkurransetilsynet eller Konkurranseklagenemnda, plikter å hindre at andre får adgang eller kjennskap til det vedkommende i forbindelse med tjenesten eller arbeidet får vite om identiteten til den som gir tips om overtredelse av §§ 3 til 10 og tilhørende forskrifter.",
+      "Taushetsplikten gjelder også overfor sakens parter og deres representanter."
+     ],
+     "endringer": [
+      "Endret ved lov 22 des 2025 nr. 129 (i kraft 30 april 2026 iflg. res. 17 april 2026 nr. 601)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 14",
+     "tittel": "Veiledning og dialog",
+     "ledd": [
+      "Konkurransetilsynet skal gi informasjon om loven og veiledning i enkeltsaker.",
+      "Tilsynet skal av eget tiltak, eller etter henvendelse, søke å påvirke næringsdrivende til å innrette seg etter loven.",
+      "Hvis Konkurransetilsynet finner at en eller flere av bestemmelsene i §§ 3 til 10 eller tilhørende forskrifter er overtrådt, kan det kreve en skriftlig bekreftelse på at det ulovlige forholdet skal opphøre eller treffe vedtak etter § 15."
+     ],
+     "endringer": [
+      "Endret ved lov 22 des 2025 nr. 129 (i kraft 30 april 2026 iflg. res. 17 april 2026 nr. 601)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 15",
+     "tittel": "Vedtak om overtredelse av §§ 3 til 10",
+     "ledd": [
+      "Dersom tiltak etter § 14 annet ledd ikke er tilstrekkelig for å sikre at en eller flere av bestemmelsene i §§ 3 til 10 overholdes, kan Konkurransetilsynet treffe vedtak om påbud og forbud som er nødvendige for å sikre overholdelse.",
+      "Konkurransetilsynet kan også treffe vedtak som stadfester at det har skjedd en overtredelse av en eller flere av bestemmelsene i §§ 3 til 10."
+     ],
+     "endringer": [
+      "Endret ved lov 22 des 2025 nr. 129 (i kraft 30 april 2026 iflg. res. 17 april 2026 nr. 601)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-6",
+     "nummer": "§ 16",
+     "tittel": "Tvangsmulkt",
+     "ledd": [
+      "For å sikre at pålegg etter § 12 eller vedtak etter § 15 første ledd overholdes, kan det fastsettes tvangsmulkt til staten inntil forholdet er rettet.",
+      "Endelig vedtak om betaling av tvangsmulkt er tvangsgrunnlag for utlegg."
+     ],
+     "endringer": [
+      "Endret ved lov 4 mars 2022 nr. 7 (i kraft 22 juni 2022 iflg. res. 22 juni 2022 nr. 1143)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-7",
+     "nummer": "§ 17",
+     "tittel": "Vedtak om overtredelsesgebyr",
+     "ledd": [
+      "Konkurransetilsynet kan ilegge overtredelsesgebyr ved overtredelse av vedtak etter § 15 første ledd.",
+      "Ved avgjørelsen av om det skal ilegges overtredelsesgebyr og ved utmålingen av dette, gjelder forvaltningsloven § 46. I tillegg skal tilsynet legge vekt på mulige skadevirkninger for forbrukerne.",
+      "Endelig vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg."
+     ],
+     "endringer": [
+      "Endret ved lover 4 mars 2022 nr. 7 (i kraft 22 juni 2022 iflg. res. 22 juni 2022 nr. 1143), 22 des 2025 nr. 129 (i kraft 30 april 2026 iflg. res. 17 april 2026 nr. 601)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-8",
+     "nummer": "§ 18",
+     "tittel": "Konkurranseklagenemndas kompetanse etter loven",
+     "ledd": [
+      "Klager over vedtak etter §§ 15, 16 og 17 samt andre avgjørelser som kan påklages etter forvaltningsloven og offentleglova, behandles av Konkurranseklagenemnda.",
+      "Konkurranseklagenemnda kan ikke av eget tiltak omgjøre Konkurransetilsynets vedtak. Konkurranseklagenemnda kan kun omgjøre egne vedtak som må anses ugyldige."
+     ],
+     "endringer": [
+      "Endret ved lov 22 des 2025 nr. 129 (i kraft 30 april 2026 iflg. res. 17 april 2026 nr. 601)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-9",
+     "nummer": "§ 19",
+     "tittel": "Domstolsprøving",
+     "ledd": [
+      "Søksmål om Konkurransetilsynets eller Konkurranseklagenemndas vedtak etter loven her skal rettes mot staten ved Konkurransetilsynet. Søksmålet må reises innen tre måneder etter at underretning om vedtaket er mottatt eller fra vedkommende fikk eller burde ha fått kunnskap om vedtaket."
+     ],
+     "endringer": [
+      "Endret ved lov 22 des 2025 nr. 129 (i kraft 30 april 2026 iflg. res. 17 april 2026 nr. 601)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4 Avsluttende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 20",
+     "tittel": "Forskrifter",
+     "ledd": [
+      "Kongen kan gi forskrifter om\na. lovens anvendelse på Svalbard, og fastsette særlige regler av hensyn til de stedlige forholdene,\nb. avgrensning av virkeområdet og presisering av adferdsnormene i §§ 4 til 9,\nc. dagligvaremyndighetenes organisering og saksbehandling,\nd. nærmere regler om opplysningsplikt og gransking,\ne. nærmere regler om ileggelse av tvangsmulkt,\nf. utmåling av overtredelsesgebyr, og\ng. innføring av EØS-regelverk om forretningspraksis for dagligvarebransjen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 21",
+     "tittel": "Ikrafttredelse og overgangsregler",
+     "ledd": [
+      "Loven gjelder fra den tid[1] Kongen bestemmer.",
+      "Konkurransetilsynet kan bare treffe vedtak om avtaler eller handlinger som har funnet sted etter at loven har trådt i kraft."
+     ],
+     "endringer": [
+      "Endret ved lov 22 des 2025 nr. 129 (i kraft 30 april 2026 iflg. res. 17 april 2026 nr. 601)."
+     ],
+     "fotnoter": [
+      {
+       "nr": "1",
+       "tekst": "Loven trer i kraft 1. januar 2021 iflg. res. 21 des 2020 nr. 2887."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

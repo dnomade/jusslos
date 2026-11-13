@@ -1,0 +1,664 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2005-08-24-1037",
+ "dokumentid": "SF/forskrift/2005-08-24-1037",
+ "departement": [
+  "Kunnskapsdepartementet"
+ ],
+ "etat": [
+  "Norges dansehøyskole (NDH)"
+ ],
+ "kunngjort_i": "I 2005 hefte 11",
+ "ikraft": "2005-08-01",
+ "siste_endring_ikraft": "2011-01-10",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2010-06-10-1912",
+   "tekst": "forskrift/2010-06-10-1912 fra 2011-01-10"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2005-04-01-15/§3-9",
+   "tekst": "lov/2005-04-01-15/§3-9"
+  },
+  {
+   "ref": "lov/2005-04-01-15/§4-7",
+   "tekst": "lov/2005-04-01-15/§4-7"
+  },
+  {
+   "ref": "lov/2005-04-01-15/§4-8",
+   "tekst": "lov/2005-04-01-15/§4-8"
+  },
+  {
+   "ref": "lov/2005-04-01-15/§4-10",
+   "tekst": "lov/2005-04-01-15/§4-10"
+  },
+  {
+   "ref": "lov/2005-04-01-15/§5-1",
+   "tekst": "lov/2005-04-01-15/§5-1"
+  },
+  {
+   "ref": "forskrift/2005-10-10-1191/§3-3",
+   "tekst": "forskrift/2005-10-10-1191/§3-3"
+  },
+  {
+   "ref": "lov/2007-12-14-116/§4",
+   "tekst": "lov/2007-12-14-116/§4"
+  },
+  {
+   "ref": "lov/2007-12-14-116/§5",
+   "tekst": "lov/2007-12-14-116/§5"
+  },
+  {
+   "ref": "lov/2007-12-14-116/§10",
+   "tekst": "lov/2007-12-14-116/§10"
+  },
+  {
+   "ref": "forskrift/2008-07-22-828/§8",
+   "tekst": "forskrift/2008-07-22-828/§8"
+  },
+  {
+   "ref": "forskrift/2008-07-22-828/§14",
+   "tekst": "forskrift/2008-07-22-828/§14"
+  },
+  {
+   "ref": "forskrift/2008-07-22-828/§15",
+   "tekst": "forskrift/2008-07-22-828/§15"
+  },
+  {
+   "ref": "forskrift/2008-07-22-828/§16",
+   "tekst": "forskrift/2008-07-22-828/§16"
+  },
+  {
+   "ref": "forskrift/2008-07-22-828/§17",
+   "tekst": "forskrift/2008-07-22-828/§17"
+  },
+  {
+   "ref": "forskrift/2008-07-22-828/§18",
+   "tekst": "forskrift/2008-07-22-828/§18"
+  },
+  {
+   "ref": "forskrift/2008-07-22-828/§19",
+   "tekst": "forskrift/2008-07-22-828/§19"
+  },
+  {
+   "ref": "forskrift/2008-07-22-828/§20",
+   "tekst": "forskrift/2008-07-22-828/§20"
+  },
+  {
+   "ref": "forskrift/2008-07-22-828/§21",
+   "tekst": "forskrift/2008-07-22-828/§21"
+  },
+  {
+   "ref": "forskrift/2008-07-22-828/§22",
+   "tekst": "forskrift/2008-07-22-828/§22"
+  },
+  {
+   "ref": "lov/2024-03-08-9/§17-3",
+   "tekst": "lov/2024-03-08-9/§17-3"
+  }
+ ],
+ "kunngjort": "2005-09-16",
+ "korttittel": "Forskrift om opptak, studier og eksamen, NDH",
+ "tittel": "Forskrift om opptak, studier og eksamen ved Norges Dansehøyskole, NDH (tidligere Den norske balletthøyskole, DNBH)",
+ "annet": "Hjemmel: Fastsatt av styret ved Den Norske Balletthøyskole (nå Norges dansehøyskole) 24. august 2005 med hjemmel i lov 1. april 2005 nr. 15 om universiteter og høyskoler § 3-9, § 4-7, § 4-8, § 4-10 og § 5-1, lov 28. juni 1996 nr. 54 om studentsamskipnader § 2 og forskrift 10. oktober 2005 nr. 1191 om opptak til universiteter og høyskoler § 3-3 bokstav c.\nTilføyd hjemmel: Lov 14. desember 2007 nr. 116 om studentsamskipnader § 4, § 5, og § 10, jf. forskrift 22. juli 2008 nr. 828 om studentsamskipnader § 8, § 14, § 15, § 16, § 17, § 18, § 19, § 20, § 21 og § 22. Lov 8. mars 2024 nr. 9 om universiteter og høyskoler (universitets- og høyskoleloven) § 17-3.\nEndret ved forskrifter 10 nov 2005 nr. 1314, 24 sep 2008 nr. 1040, 10 juni 2010 nr. 1912.",
+ "refid": "forskrift/2005-08-24-1037",
+ "eli": "/eli/forskrift/2005/08/24/1037",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2005-08-24-1037",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "Kapittel I. Generelle bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "1. Forskriften gjelder for studiet ved NDH.\n2. Forskriften gir regler om opptak til studiet, organisering av studiet, eksamen, krav for tildeling av grad og bestemmelser om studentens og høyskolens plikter og rettigheter.\n3. For studier hvor nasjonal rammeplan fastsatt i medhold av lov om universiteter og høyskoler, § 3-2 nr. 2 har bestemmelser som avviker fra denne forskrift, gjelder rammeplanens bestemmelser."
+     ],
+     "endringer": [
+      "Endret ved forskrift 10 juni 2010 nr. 1912 (fra vårsemesteret 2011)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "| Studiepoeng | Mål på arbeidsomfang i studiet: 60 studiepoeng tilsvarer ett års studium på full tid.\n| Studieprogram | Et studieløp består av flere fagblokker. Studieprogram kan ha fra 60 til 180 studiepoengs omfang.\n| Studieplan | Beskriver studieprogrammet, hvordan det er bygget opp og hvordan fagblokkene som inngår hører sammen.\n| Fagblokk | En fagblokk er en samling av emner.\n| Semesterplan | Beskriver mål, organisering, arbeidsmåter, vurderingsordninger, anbefalt litteratur og pensum i fagblokkens emner.\n| Faglig fordypning | 2. og 3. studieår i bachelorprogrammet utgjør en faglig fordypning.\n| Eksamen/vurdering | Studentens arbeidsprosess vurderes kontinuerlig med utgangspunkt i studiets mål og innhold. Formell prøving av studentens kunnskaper og ferdigheter, skjer enten underveis og/eller ved slutten av en fagblokk.\n| Utsatt eksamen | For studenter som hadde gyldig fravær ved ordinær eksamen og for studenter som ikke besto ordinær eksamen."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 24 sep 2008 nr. 1040 (fra høstsemesteret 2008), 10 juni 2010 nr. 1912 (fra vårsemesteret 2011)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "Kapittel II. Opptak",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 3",
+     "tittel": "Opptaksrammer",
+     "ledd": [
+      "Styret fastsetter opptaksramme for studieprogrammet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 4",
+     "tittel": "Opptaksgrunnlag",
+     "ledd": [
+      "For opptak til studiet ved NDH som omfattes av denne forskriften kreves generell studiekompetanse eller søkere som kan dokumentere spesielle faglige krav og som blir tatt opp på grunnlag av opptaksprøver etter nærmere regler fastsatt av institusjonen, fastsatt i UH-loven § 3-6 punkt 3."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 10 nov 2005 nr. 1314, 24 sep 2008 nr. 1040 (fra høstsemesteret 2008), 10 juni 2010 nr. 1912 (fra vårsemesteret 2011)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 5",
+     "tittel": "Opptakskrav for studiet",
+     "ledd": [
+      "1. Opptakskrav til 3-årig bachelor i dans og pedagogikk. Bestått opptaksprøve.\n2. Opptakskrav til 2. studieår i bachelor i dans og pedagogikk: Bestått 1. år.\n3. Opptakskrav for 3. studieår i bachelor i dans og pedagogikk: Bestått 2. år."
+     ],
+     "endringer": [
+      "Endret ved forskrift 24 sep 2008 nr. 1040 (fra høstsemesteret 2008)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 6",
+     "tittel": "Rangeringsregler for studiet",
+     "ledd": [
+      "Når antall kvalifiserte søkere overstiger antall tilgjengelige studieplasser blir søkerne rangert på følgende måter til studieprogrammet:\n1. Søkere blir rangert på grunnlag av opptaksprøven med teknisk nivå, kreativitet og motivasjon.\n2. Karakter trekkes kun inn i de tilfeller hvor det er søkere som vektes likt i de tre ovennevnte punkter og hvor det er tvilstilfeller."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 7",
+     "tittel": "Kvoter",
+     "ledd": [
+      "Opptak til studieplasser som omfattes av kvoteringene, forutsetter at generelle og spesielle opptakskrav er oppfylt. Høyskolen har følgende kvoter:\n1. Inntil 10 studieplasser på 3-årig bachelor i dans med pedagogikk tildeles søkere fra Distrikts-Norge.\n2. Ved like gode søkere som tilfredsstiller generelle og spesielle opptakskrav prioriteres gutter ut i fra kjønnskvotering."
+     ],
+     "endringer": [
+      "Endret ved forskrift 10 juni 2010 nr. 1912 (fra vårsemesteret 2011)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-6",
+     "nummer": "§ 8",
+     "tittel": "Opptakskomité",
+     "ledd": [
+      "1. Høyskolen har opptakskomité for opptak til studiet på lavere grads nivå. Styret fastsetter mandat for opptakskomiteen. Ved stemmelikhet i opptakskomiteen er komitéleders stemme utslagsgivende.\n2. Det tas opp studenter i henhold til støtte fra departementet og i henhold til høyskolens økonomi.\n3. Klager i forbindelse med opptakskomiteens avgjørelse skal behandles i en særskilt nemnd oppnevnt av styret."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-7",
+     "nummer": "§ 9",
+     "tittel": "Søknadsfrister",
+     "ledd": [
+      "Søknadsfrist og datoen for opptaksprøven fastsettes av styret."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-8",
+     "nummer": "§ 10",
+     "tittel": "Politiattest",
+     "ledd": [
+      "I henhold til forskrift 23. mars 2001 nr. 282 om politiattest ved opptak til høgre utdanning er det krav om at studenter leverer politiattest ved opptak til høyskolens studie. Når søker får tilbud på et studieprogram som har slikt krav, skal høyskolen i tilbudsbrevet opplyse om dette kravet og om frist for å levere politiattest. Se utfyllende bestemmelser for spesifisering av hvilke studier kravet gjelder for."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-9",
+     "nummer": "§ 11",
+     "tittel": "Utestenging og bortvisning",
+     "ledd": [
+      "1. En student som tross skriftlig advarsel fra styret gjentatte ganger opptrer på en måte som virker grovt forstyrrende for medstudenters arbeid eller for virksomheten ved høyskolen ellers, kan etter vedtak av styret selv eller institusjonens klagenemnd, jf. § 5-1, bortvises fra nærmere bestemte områder ved høyskolen inntil ett år.\n2. Hvis studenten etter skriftlig advarsel fra styret fortsatt ikke respekterer slik bortvisning, kan styret selv eller institusjonens klagenemnd, jf. § 5-1, utestenge ham eller henne fra studiet i inntil ett år.\n3. En student som grovt klanderverdig har opptrådt på en slik måte at det er skapt fare for liv eller helse for klienter, barnehagebarn, elever eller andre som studenten har å gjøre med som del i undervisning eller praksisopplæring, eller gjør seg skyldig i grove brudd på taushetsplikt eller grovt usømmelig opptreden overfor disse, kan etter vedtak av styret selv eller institusjonens klagenemnd jf. § 5-1, utestenges fra studiet i 3 år, UH-lov § 4-8."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-10",
+     "nummer": "§ 12",
+     "tittel": "Skikkethetsvurdering",
+     "ledd": [
+      "1. Ved studiestart skal NDH sørge for at alle studentene får informasjon om skikkethetsvurdering og hva den innebærer. Skikkethetsvurdering skal foregå gjennom hele studiet.\n2. Vitnemål for fullført utdanning forutsetter at studenten er vurdert som skikket for yrket.\n3. Vedtak om at en student ikke er skikket og om utestengning, treffes med minst to tredels flertall jf. UH-lov § 4-10."
+     ],
+     "endringer": [
+      "Endret ved forskrift 10 juni 2010 nr. 1912 (fra vårsemesteret 2011)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-11",
+     "nummer": "§ 13",
+     "tittel": "Reservering av studieplass",
+     "ledd": [
+      "Søkere som er tatt opp som student ved NDH kan få reservert studieplassen til påfølgende studieår grunnet graviditet, for å avtjene verneplikt/siviltjeneste eller annen vektig grunn. Den som får innvilget søknad om utsatt studiestart, får reservert studieplassen til neste gang studieprogrammet har ordinær studiestart."
+     ],
+     "endringer": [
+      "Endret ved forskrift 10 juni 2010 nr. 1912 (fra vårsemesteret 2011)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-12",
+     "nummer": "§ 14",
+     "tittel": "Opptak som hospitant på fagblokk",
+     "ledd": [
+      "1. Personer uten studierett på høyskolens studieprogram kan få anledning til å følge undervisning og ta eksamen på fagblokk med ledig kapasitet, som hospitant. En hospitant må fylle opptakskrav og forkunnskapskrav som er fastsatt for fagblokken og for studieprogrammet som fagblokken inngår i. Hospitanter må betale semesteravgift for å følge undervisning og ta eksamen.\n2. Personer som kan få hospitantstatus er:\n- En som gjennom sitt arbeid eller utøvelse av sin dansekarriere har spesielt behov for kompetanse i et område som inngår i en fagblokk som tilbys ved høyskolen, og hvor det ikke forventes at vedkommende søker det ordinære studieprogrammet.\n- Studenter ved andre utdanningsinstitusjoner som søker å ta eksamen/følge undervisning i fagblokker som tilbys ved NDH.\n- Personer med utenlandsk utdanning som mangler et eller flere fag for å få godkjent sin utdanning som tilsvarende norsk utdanning.\n3. Hospitantstatus gir rett til å følge undervisning og ta eksamen i samme periode. Hospitanter har bare mulighet for å ta enkelte fagblokker ved høyskolen, ikke hele studieprogram.\n4. Hospitanter skal ha samme vurderingsform og vurderingsordning som ordinære studenter på fagblokken har, og kan ikke ta eksamen etter tidligere ordninger. Hospitanter omfattes av øvrige krav som ordinære studenter har."
+     ],
+     "endringer": [
+      "Endret ved forskrift 10 juni 2010 nr. 1912 (fra vårsemesteret 2011)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-13",
+     "nummer": "§ 15",
+     "tittel": "Søknaden og dokumentasjon",
+     "ledd": [
+      "Søknad om opptak skjer på fastsatt søknadsskjema. Alle dokumenter som skal gi grunnlag for opptak, må følge søknaden. Dokumentasjonen skal være attestert kopi av originaldokumentet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-14",
+     "nummer": "§ 16",
+     "tittel": "Studieavgift",
+     "ledd": [
+      "1. Studenter binder seg ved innmeldingen til å betale studieavgift for ett år av gangen, dette betales forskuddsvis for ett semester av gangen. Studieavgiften bestemmes av styret.\n2. Hvis høyskolen finner at studenten ikke er skikket for fortsatt studium, har høyskolen anledning til å anmode vedkommende om å avbryte studiet. Slik anmodning treffes med minst to tredels flertall, og betalingen for resterende tid opphører.\n3. Hvis studenten avbryter sitt studium etter eget ønske, er han/hun like fullt forpliktet til å betale den resterende del av studieavgiften.\n4. Dersom studenten avbryter sitt studium på grunn av alvorlig sykdom/ulykke eller andre tvingende grunner, bortfaller de økonomiske forpliktelsene for den resterende del av studieavgiften.\n4. Alle avgjørelser etter denne paragraf avgjøres av styret med alminnelig flertall. Grunner til avbrytelse må kunne dokumenteres."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kapIII",
+   "overskrift": "Kapittel III. Studieplan",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 17",
+     "tittel": "Innhold i studie- og semesterplaner",
+     "ledd": [
+      "Studiet ved NDH er organisert i studieprogram, som består av flere fagblokker. Studieprogrammet skal ha en studieplan. Studieplanen skal fastsette:\n- Studieprogrammets/fagområdets mål, innhold, organisering, arbeidsformer, eksamensordning og vurderingsform.\n- Eventuelle forkunnskapskrav, eller anbefalte forkunnskaper for studieprogrammet eller fagområder.\n- Hvilke fagblokker/emner som undervises og som det kan avlegges eksamen i.\n- Faglig beskrivelse av fagblokkene som inngår i studieprogrammet.\n- Hvilke grupper av fagblokkene som oppfyller kravet til fordypning.\n- Eventuelle krav til progresjon for fagblokkene/emnene i studieprogrammet.\n- Eventuelle særlige vilkår for å gå opp til eksamen.\n- Andre bestemmelser av betydning for gjennomføringen og kvalitetssikringen av studiet.\n- Fagblokkene skal ha et omfang på minimum 5 studiepoeng og normalt bygges opp etter en fagblokkstørrelse på 5, 10 eller 15 studiepoeng."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 24 sep 2008 nr. 1040 (fra høstsemesteret 2008), 10 juni 2010 nr. 1912 (fra vårsemesteret 2011)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 18",
+     "tittel": "Fastsetting av studie- og semesterplaner",
+     "ledd": [
+      "Fagseksjonene utarbeider forslag til studie- og semesterplaner. Styret vedtar studieplan for studieprogram i forbindelse med etablering av nytt studieprogram som deretter godkjennes av NOKUT. Rektor vedtar semesterplaner og endringer i studie- og semesterplaner så fremt disse ikke medfører betydelige endringer i studiets målsetting, innhold og ressursrammer."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 24 sep 2008 nr. 1040 (fra høstsemesteret 2008), 10 juni 2010 nr. 1912 (fra vårsemesteret 2011)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kapIV",
+   "overskrift": "Kapittel IV. Studierett, permisjon, utdanningsplan og undervisningsterminer",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 19",
+     "tittel": null,
+     "ledd": [
+      "Studierett og studieprogresjon\n1. Opptak til studieprogram gir studenten studierett til studieprogrammet og fagblokker som inngår i dette. En student som ikke fyller eventuelle betingelser som er knyttet til studieprogram ved studiestart, mister studieretten.\n2. Studieretten opphører når:\na. Studenten har fullført studieprogrammet eller\nb. NDH mottar melding fra studenten om at vedkommende trekker seg fra studieprogrammet før det er fullført eller\nc. studenten blir fratatt sin studierett.\n3. En student på lavere grads studie som ikke har inngått utdanningsplan med redusert progresjon, mister studieretten dersom studieprogresjonen er:\n- 30 studiepoeng eller mindre etter første studieår.\n- 60 studiepoeng eller mindre etter andre studieår.\n- 90 studiepoeng eller mindre etter tredje studieår."
+     ],
+     "endringer": [
+      "Endret ved forskrift 10 juni 2010 nr. 1912 (fra vårsemesteret 2011)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 20",
+     "tittel": "Permisjon",
+     "ledd": [
+      "Studenter kan søke permisjon fra studieprogrammet grunnet graviditet, for å avtjene verneplikt/siviltjeneste, eller når annen vektig grunn foreligger. Permisjon gis normalt bare for ett år."
+     ],
+     "endringer": [
+      "Endret ved forskrift 24 sep 2008 nr. 1040 (fra høstsemesteret 2008)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 21",
+     "tittel": "Utdanningsplan og veiledningskontrakt",
+     "ledd": [
+      "1. En student som er tatt opp til studier av 60 studiepoengs omfang eller mer skal ha en utdanningsplan for sitt studium i form av en avtale inngått mellom studenten og høyskolen. Utdanningsplanen skal angi partenes viktigste rettigheter og plikter. Utdanningsplanen skal være inngått i løpet av studentens første semester. Dersom utdanningsplanen skal ha vesentlige avvik fra studieplanen, skal seksjonen som har det faglige ansvaret for studiet, ha anledning til å uttale seg før planen blir utformet.\n2. Studentens rett til oppfølging og tilrettelegging underveis i utdanningen er betinget av studentens forpliktelser etter utdanningsplanen.\n3. En student må bekrefte sin utdanningsplan innen fastsatte frister for å beholde sin studie- og undervisningsrett.\n4. En student må ha betalt semesteravgift og eventuell annen fastsatt avgift for å kunne bekrefte sin utdanningsplan. En student som er fritatt for dette pga. utvekslingsordninger eller lignende skal bekrefte sin utdanningsplan på samme måte som øvrige studenter."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 22",
+     "tittel": "Taushetsplikt",
+     "ledd": [
+      "1. En student som i studiesammenheng får kjennskap til personlige forhold, har taushetsplikt etter de gitte regler som gjelder for yrkesutøvere på vedkommende livsområde.\n2. NDH skal utarbeide taushetsplikterklæring som må underskrives av studenten ved studiestart."
+     ],
+     "endringer": [
+      "Endret ved forskrift 10 juni 2010 nr. 1912 (fra vårsemesteret 2011)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-5",
+     "nummer": "§ 23",
+     "tittel": "Studieåret",
+     "ledd": [
+      "Høstsemesteret varer 16 uker, fra ca. 20. august til ca. 20. desember. Vårsemesteret varer i 24 uker, fra ca. 3. januar til ca. 20. juni. Påskeferie er fra og med mandag etter palmesøndag til og med tirsdag etter påske. Studiet er hvert semester inndelt i to perioder av åtte ukers omfang samt eksamensperiode på en til to uker."
+     ],
+     "endringer": [
+      "Endret ved forskrift 24 sep 2008 nr. 1040 (fra høstsemesteret 2008)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kapV",
+   "overskrift": "Kapittel V. Fritak, innpassing og reduksjon av studiepoeng",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 24",
+     "tittel": "Godskriving av grad, yrkesutdanning, fag fra institusjon under loven",
+     "ledd": [
+      "Rektor avgjør søknad om godskriving av grad, yrkesutdanning, fag eller emne fra en institusjon som går inn under UH-loven."
+     ],
+     "endringer": [
+      "Endret ved forskrift 24 sep 2008 nr. 1040 (fra høstsemesteret 2008)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 25",
+     "tittel": "Godkjenning av grad eller utdanning fra institusjon som går inn under loven",
+     "ledd": [
+      "Rektor avgjør søknad om å få godkjent grad eller utdanning fra utenlandsk eller norsk institusjon som ikke går inn under UH-loven som jevngod med grad, yrkesutdanning eller annet utdanningsprogram som gis ved høyskolen."
+     ],
+     "endringer": [
+      "Endret ved forskrift 24 sep 2008 nr. 1040 (fra høstsemesteret 2008)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kapVI",
+   "overskrift": "Kapittel VI. Eksamen",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 26",
+     "tittel": "Avvikling av eksamener",
+     "ledd": [
+      "Eksamen skal fremme læring, sikre kvalitet og ivareta studentens rettssikkerhet. Studentens kunnskaper og ferdigheter skal prøves på en upartisk og faglig betryggende måte. Det skal fremgå klart av studie- eller semesterplanen hvilke eksamener studenten skal ta underveis og framgangsmåten ved fastsetting av karakter, herunder innbyrdes vekting av delprøver mv. Studentens kunnskaper og ferdigheter skal prøves i hver fagblokk. Dette kan skje i form av avsluttende eksamen, vurderinger underveis, eller på annen måte i henhold til studieplanen. Det kan unntaksvis fastsettes at enkelte fagblokker ikke skal ha slik vurdering. Det skal da kreves at studenten har deltatt i undervisningen, etter nærmere bestemmelser i studieplanen."
+     ],
+     "endringer": [
+      "Endret ved forskrift 10 juni 2010 nr. 1912 (fra vårsemesteret 2011)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 27",
+     "tittel": "Vilkår for å gå opp til eksamen",
+     "ledd": [
+      "1. For å melde seg opp til eksamen må studenten fylle de generelle opptakskrav til studiet ved NDH.\n2. Dersom spesielle arbeids-/studiekrav, godkjente obligatoriske oppgaver, undervisning eller praksis er en forutsetning for at studenten kan gå opp til eksamen, skal slike vilkår være fastsatt i semester- eller studieplanen.\n3. For å få gå opp til eksamen må studenten ha betalt høyskolens studieavgift og semesteravgift etter lov 14. desember 2007 nr. 116 om studentsamskipnader § 4 og forskrift 22. juli 2008 nr. 828 om studentsamskipnader."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 24 sep 2008 nr. 1040 (fra høstsemesteret 2008), 10 juni 2010 nr. 1912 (fra vårsemesteret 2011)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-3",
+     "nummer": "§ 28",
+     "tittel": "Oppmelding til eksamen",
+     "ledd": [
+      "Studenter med utdanningsplan blir automatisk oppmeldt til eksamen i fagblokker de i henhold til studie- og utdanningsplanen skal ta de ulike semestre og perioder. Studenten har selv ansvar for å påse at oppmelding er i henhold til egen utdanningsplan."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-4",
+     "nummer": "§ 29",
+     "tittel": "Trekk fra eksamen",
+     "ledd": [
+      "Student som ønsker å trekke seg fra eksamen som de er meldt opp til må gjøre dette senest en måned før første vurderingsordning starter. Dette gjelder også studenter med utdanningsplan som automatisk blir oppmeldt. Den som trekker seg etter denne fristen, eventuelt i eksamenslokalet, og som ikke har gyldig grunn til det, får registrert «ikke møtt». Ikke møtt teller som et eksamensforsøk."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-5",
+     "nummer": "§ 30",
+     "tittel": "Eksamens- og vurderingsformer",
+     "ledd": [
+      "Aktuelle eksamens- og vurderingsformer kan være skriftlig eksamen under tilsyn, muntlig eksamen, skriftlig hjemmeeksamen, praktisk-metodisk eksamen, ferdighetsprøver, prosjektarbeid, praksis eller framføringer eller kombinasjon av disse eksamensformene. Eksamen kan være individuell eller gruppebasert."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-6",
+     "nummer": "§ 31",
+     "tittel": "Særordninger til eksamen",
+     "ledd": [
+      "1. Studenter som har permanent behov for spesielle ordninger i forbindelse med eksamen, må innen 15. september søke om dette for studieåret. Studenter som får akutt behov for særordning må søke om dette så snart som mulig etter at behovet oppstår. Særordning kan gis til kandidater som dokumenterer nedsatt funksjonsevne, gravide med behov for hvile, mødre som ammer etc.\n2. Studenter med norsk som fremmedspråk kan gis utvidet tid etter søknad. Slik tid gis normalt kun de to første studieår ved høyskolen.\n3. Studenter med norsk som fremmedspråk kan søke høyskolen om å besvare eksamensoppgaver på engelsk. Det er ikke mulig å besvare praktisk-pedagogiske eksamener/oppgaver på engelsk."
+     ],
+     "endringer": [
+      "Endret ved forskrift 24 sep 2008 nr. 1040 (fra høstsemesteret 2008)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-7",
+     "nummer": "§ 32",
+     "tittel": "Antall forsøk til eksamen",
+     "ledd": [
+      "1. Studenter har anledning til å fremstille seg til eksamen i samme fagblokk maksimalt tre ganger. I særlige tilfeller kan rektor gi dispensasjon fra tregangersregelen. Dersom en student unnlater å møte til eksamen uten gyldig grunn, regnes det som om studenten har gått opp til eksamen én gang. Studenter som har gyldig grunn for fravær under eksamen har ikke brukt et eksamensforsøk."
+     ],
+     "endringer": [
+      "Endret ved forskrift 24 sep 2008 nr. 1040 (fra høstsemesteret 2008)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-8",
+     "nummer": "§ 33",
+     "tittel": "Utsatt eksamen",
+     "ledd": [
+      "1. En student som ble vurdert til ikke bestått eller hadde gyldig fravær ved ordinær eksamen har rett til å gå opp til utsatt eksamen. Gyldig fravær er fravær på grunn av dokumentert sykdom eller annen dokumentert, tvingende fraværsgrunn.\n2. Dokumentasjon på fravær skal leveres til rektor innen to dager etter at eksamen ble påbegynt. Rektor avgjør om fravær fra eksamen kan godkjennes som gyldig fravær.\n3. Utsatt eksamen avholdes ved neste ordinære gjennomføring av den aktuelle eksamen. Rektor kan vurdere gjennomføring av utsatt eksamen ved påfølgende studiestart.\n4. Styret kan fastsette at eksamenskandidater skal betale et vederlag som dekker institusjonens merutgifter ved å holde eksamen for denne gruppen eller eventuell egenbetaling fastsatt for studiet eller faget jf. UH-loven § 3-10 punkt 4."
+     ],
+     "endringer": [
+      "Endret ved forskrift 24 sep 2008 nr. 1040 (fra høstsemesteret 2008)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-9",
+     "nummer": "§ 34",
+     "tittel": "Eksamen etter tidligere ordning",
+     "ledd": [
+      "1. For eksamen under bachelornivå gjelder det pensum og den eksamensform som til enhver tid er fastsatt for denne eksamen. Unntatt fra dette er utsatt eksamen, hvor det er samme pensum og eksamensform som ved den foregående ordinære eksamen. Dersom en eksamen/fagblokk opphører, kan studenten gå opp etter det pensum og den eksamensordning som gjaldt ved ordinær eksamen i inntil et år."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-10",
+     "nummer": "§ 35",
+     "tittel": "Fritak fra eksamen",
+     "ledd": [
+      "En student kan få fritak fra eksamen, prøve eller obligatorisk undervisning når det kan dokumenteres at tilsvarende eksamen/prøve er bestått ved høyskolen eller tilsvarende institusjon. Det kan også innvilges fritak på grunnlag av annen relevant eksamen/prøve på tilsvarende nivå. Søknad skal leveres til høyskolen og blir vurdert av rektor. Rektor er klageinstans i fritakssaker. Frist for å søke fritak for fagblokker er innen 3 måneder før eksamenstidspunktet. Med søknaden skal det vedlegges attestert kopi av vitnemål eller karakterutskrift og studie-/semesterplan eller tilsvarende inkludert pensumliste fra det kurs som er grunnlaget for søknad om fritak."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 24 sep 2008 nr. 1040 (fra høstsemesteret 2008), 10 juni 2010 nr. 1912 (fra vårsemesteret 2011)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-11",
+     "nummer": "§ 36",
+     "tittel": "Sensur",
+     "ledd": [
+      "1. Styret fastsetter retningslinjer for bruk av ekstern sensor. Ekstern sensor kan ikke være ansatt ved NDH eller ha hatt undervisning eller veiledning ved NDH inneværende studieår. Rektor oppnevner eksamenskommisjoner til eksamener knyttet til de respektive fordypningene.\n2. Dersom det er ekstern sensor ved eksamen, fastsettes karakteren i fellesskap av intern og ekstern sensor. Dersom eksamenskommisjonen ikke kommer til enighet om en karakter, skal den fastsettes ved å utregne gjennomsnittet av sensorenes vurdering.\n3. Sensuren skal foreligge innen tre uker etter eksamen. Styret selv skal fatte vedtak om lengre frist dersom det ikke er mulig å skaffe kvalifiserte sensorer innen denne fristen."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 24 sep 2008 nr. 1040 (fra høstsemesteret 2008), 10 juni 2010 nr. 1912 (fra vårsemesteret 2011)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-12",
+     "nummer": "§ 37",
+     "tittel": "Karaktersystem",
+     "ledd": [
+      "1. Ved eksamen skal det benyttes bestått/ikke bestått (C eller bedre), eller bokstavkarakter etter en skala fra A-F, hvor A er høyeste karakter, E er laveste karakter og F er ikke bestått.\nBokstavkarakterene har følgende betegnelse og generell beskrivelse:\n| Symbol | Betegnelse | Kvalitativ beskrivelse av vurderingskriterier\n| A | Fremragende | Fremragende prestasjon som klart utmerker seg. Viser svært god kompetanse i forhold til de læringsmål som er definert for fagnivået. Viser svært god vurderingsevne og stor grad av selvstendighet.\n| B | Meget god | Meget god prestasjon. Viser meget god kompetanse i forhold til de læringsmål som er definert for fagnivået. Viser meget god vurderingsevne og selvstendighet.\n| C | God | Jevnt god prestasjon. Viser god kompetanse i forhold til de læringsmål som er definert for fagnivået. Viser god vurderingsevne og selvstendighet på de viktigste områdene.\n| D | Nokså god | En akseptabel prestasjon med noen vesentlige mangler. Viser en viss grad av vurderingsevne og selvstendighet.\n| E | Tilstrekkelig | Prestasjonen tilfredsstiller minimumskravene men heller ikke mer. Viser liten vurderingsevne og selvstendighet.\n| F | Ikke bestått | Prestasjonen tilfredsstiller ikke de faglige minimumskravene. Viser både manglende vurderingsevne og selvstendighet.\n2. Dersom en student har bestått samme eksamen mer enn én gang, gjelder beste karakter.\n3. Ved fastsetting av sammenlagt karakter på bakgrunn av flere deleksamener, må alle deleksamener være bestått for at studenten kan få endelig karakter.\n4. Bokstavkarakterene er gitt tallverdier som benyttes ved fastsetting av sammenlagt karakter, til rangering av søkere ved opptak mv. Tallverdiene er følgende: A-5, B-4, C-3, D-2, E-1. Tallverdiene regnes ut med én desimal som forhøyes til nærmeste hele tall."
+     ],
+     "endringer": [
+      "Endret ved forskrift 24 sep 2008 nr. 1040 (fra høstsemesteret 2008)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-13",
+     "nummer": "§ 38",
+     "tittel": "Begrunnelse for og klage over karakterfastsetting",
+     "ledd": [
+      "1. Studenten har rett til å få en begrunnelse for karakterfastsetting av sine prestasjoner. Ved muntlig eksamen eller bedømmelse av praktiske ferdigheter må krav om slik begrunnelse framsettes umiddelbart etter at karakteren er meddelt. Ved annen bedømmelse må krav om begrunnelse framsettes innen én uke fra kandidaten fikk kjennskap til karakteren, dog aldri mer enn tre uker fra karakteren ble kunngjort.\n2. Begrunnelse gis skriftlig hvis studenten krever det.\n3. Hvis det er gitt skriftlige retningslinjer for bedømmelsen, skal disse være tilgjengelig for studentene etter at karakteren er fastsatt.\n4. En student kan klage skriftlig over karakteren senest tre uker etter at sensuren er kunngjort, eller tre uker etter at begrunnelse er gitt. Dersom studenten har bedt om begrunnelse eller klaget over formelle feil ved eksamen, løper klagefristen etter denne paragrafen fra studenten har fått begrunnelse, eller at endelig avgjørelse av klagen foreligger.\n5. Ved klage over karakterfastsetting vil eksamen bli sensurert av to nye sensorer. Ved ny karakterfastsetting kan endring skje både til gunst og ugunst for klager. Hvis den endelige karakter er fastsatt på grunnlag av både skriftlig og muntlig prøve, og klager får medhold i klage på sensuren over den skriftlige del av eksamen, holdes ny muntlig prøve til fastsetting av endelig karakter.\n6. Bedømmelse av muntlig presentasjon, bedømmelse av praktisk ferdighet eller annen bedømmelse som på grunn av prøvens art ikke lar seg etterprøve, kan ikke påklages."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-14",
+     "nummer": "§ 39",
+     "tittel": "Klage over formelle feil ved eksamen",
+     "ledd": [
+      "1. En student som har vært oppe til eksamen kan klage over formelle feil innen tre uker etter at han eller hun er eller burde være kjent med det forhold som begrunner klagen. Er krav om begrunnelse for, eller klage over karakterfastsettingen framsatt, løper klagefristen etter denne paragraf fra studenten har fått begrunnelsen, eller endelig avgjørelse av klagen foreligger. Klagen avgjøres av styrets klagenemnd.\n2. Hvis styrets klagenemnd finner at det er begått feil som kan ha hatt betydning for én eller flere studenters prestasjoner, eller bedømmelsen av disse, kan feilen rettes opp ved ny sensurering, eventuelt at det blir arrangert ny eksamen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-15",
+     "nummer": "§ 40",
+     "tittel": "Fusk",
+     "ledd": [
+      "Dersom det under eksamen oppstår mistanke om fusk, eller forsøk på fusk, skal studenten straks gjøres oppmerksom på at han/hun vil bli rapportert. Dette gjelder også for studenter som eventuelt yter hjelp. Studenten kan da velge om han/hun vil fortsette eller avbryte eksamen. Fusk eller forsøk på fusk ved hjemmeeksamen kan være kopiering eller avskrivning av litteratur uten henvisninger, eller kopiering av andre studenters arbeid, eller fordi den åpenbart er utført av andre enn studenten. Konsekvenser for studenten ved fusk/forsøk på fusk framgår av § 3-9 i UH-loven."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-16",
+     "nummer": "§ 41",
+     "tittel": "Annullering av eksamen eller annen vurdering",
+     "ledd": [
+      "Klagenemnda kan annullere eksamen eller annen vurdering, eller godkjenning av fagblokker i tilfeller som beskrevet i UH-lov, § 4-7."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kapVIII",
+   "overskrift": "Kapittel VIII. Grader, vitnemål og karakterutskrift",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 42",
+     "tittel": "Grader",
+     "ledd": [
+      "1. NDH tildeler bachelorgrad av 180 studiepoengs omfang.\n2. Graden deles ut av rektor."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 24 sep 2008 nr. 1040 (fra høstsemesteret 2008), 10 juni 2010 nr. 1912 (fra vårsemesteret 2011)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-2",
+     "nummer": "§ 43",
+     "tittel": "Krav til innhold og sammensetning av bachelorgrad",
+     "ledd": [
+      "1. For å få tildelt bachelorgrad må studenten ha bestått fagblokker som til sammen utgjør minst 180 studiepoeng. For å få utstedt vitnemål må minimum 60 studiepoeng, som skal inngå i graden, være bestått ved NDH."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 24 sep 2008 nr. 1040 (fra høstsemesteret 2008), 10 juni 2010 nr. 1912 (fra vårsemesteret 2011)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-3",
+     "nummer": "§ 44",
+     "tittel": "Karakterutskrift",
+     "ledd": [
+      "Studenter som har fullført og bestått en eller flere fagblokker kan få karakterutskrift. Karakterutskriften skal opplyse om fagblokkens navn og omfang, karakter på fagblokken, samt hvilket år og semester karakteren er oppnådd."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-4",
+     "nummer": "§ 45",
+     "tittel": "Øvrige bestemmelser",
+     "ledd": [
+      "1. Vitnemål utstedes på norsk for studieprogram hvor undervisningsspråket er norsk. For studieprogram hvor undervisningsspråket er engelsk kan vitnemålet utstedes på engelsk. Et eget vitnemålstillegg, Diploma Supplement, gir en nærmere beskrivelse på engelsk av kandidatens utdanning i det norske utdanningssystemet.\n2. Det utstedes bare ett vitnemål for oppnådd grad.\n3. Rektor fastsetter utformingen av vitnemål, karakterutskrift og Diploma Supplement."
+     ],
+     "endringer": [
+      "Endret ved forskrift 10 juni 2010 nr. 1912 (fra vårsemesteret 2011)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-5",
+     "nummer": "§ 46",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Forskriften trer i kraft 1. august 2005."
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,490 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2016-03-18-268",
+ "dokumentid": "SF/forskrift/2016-03-18-268",
+ "departement": [
+  "Helse- og omsorgsdepartementet"
+ ],
+ "etat": [
+  "Helserettsavd."
+ ],
+ "kunngjort_i": "I 2016 hefte 4",
+ "ikraft": "2016-03-18, 2018-01-01",
+ "siste_endring_ikraft": "2024-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2023-12-20-2165",
+   "tekst": "forskrift/2023-12-20-2165 fra 2024-01-01"
+  }
+ ],
+ "endrer": "forskrift/2001-12-21-1476\nforskrift/2007-12-07-1389",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2014-06-20-43/§8",
+   "tekst": "lov/2014-06-20-43/§8"
+  },
+  {
+   "ref": "lov/2014-06-20-43/§9",
+   "tekst": "lov/2014-06-20-43/§9"
+  },
+  {
+   "ref": "lov/2014-06-20-43/§10",
+   "tekst": "lov/2014-06-20-43/§10"
+  },
+  {
+   "ref": "lov/2014-06-20-43/§11",
+   "tekst": "lov/2014-06-20-43/§11"
+  },
+  {
+   "ref": "lov/2014-06-20-43/§12",
+   "tekst": "lov/2014-06-20-43/§12"
+  },
+  {
+   "ref": "lov/2014-06-20-43/§13",
+   "tekst": "lov/2014-06-20-43/§13"
+  },
+  {
+   "ref": "lov/1992-12-04-126/§12",
+   "tekst": "lov/1992-12-04-126/§12"
+  },
+  {
+   "ref": "lov/1999-07-02-61/§3-2a",
+   "tekst": "lov/1999-07-02-61/§3-2a"
+  },
+  {
+   "ref": "lov/2025-06-20-96/§24",
+   "tekst": "lov/2025-06-20-96/§24"
+  }
+ ],
+ "kunngjort": "2016-03-18 15:50",
+ "siste_rettelse": "2021-06-15 (tegnsetting i lister tilpasset universell utforming)",
+ "korttittel": "Helsearkivforskriften",
+ "tittel": "Forskrift om Norsk helsearkiv og Helsearkivregisteret (helsearkivforskriften)",
+ "annet": "Hjemmel: Fastsatt ved kgl.res. 18. mars 2016 med hjemmel i lov 20. juni 2014 nr. 43 om helseregistre og behandling av helseopplysninger (helseregisterloven) § 8, § 9, § 10, § 11, § 12 og § 13 andre ledd og lov 4. desember 1992 nr. 126 om arkiv § 12, jf. lov 2. juli 1999 nr. 61 om spesialisthelsetjenesten m.m. (spesialisthelsetjenesteloven) § 3-2a. Fremmet av Helse- og omsorgsdepartementet.\nTilføyd hjemmel: Lov 20 juni 2025 nr. 96 om dokumentasjon og arkiv (arkivlova) § 24.\nEndret ved vedtak 27 okt 2017 nr. 1703 (ikrafttredelse), forskrifter 15 des 2017 nr. 2105, 15 juni 2018 nr. 876, 23 april 2021 nr. 1269 som endret ved forskrift 12 mai 2021 nr. 1902 (i kraft 1 juni 2021), 20 des 2023 nr. 2165 (i kraft 1 jan 2024).\nRettet 15.06.2021 (tegnsetting i lister tilpasset universell utforming).",
+ "refid": "forskrift/2016-03-18-268",
+ "eli": "/eli/forskrift/2016/03/18/268",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2016-03-18-268",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Generelle bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Etablering av Helsearkivregisteret",
+     "ledd": [
+      "Forskriften etablerer Helsearkivregisteret i Norsk helsearkiv. Registeret består av materiale som er avlevert til Norsk helsearkiv og av bestandsopplysninger om dette."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Formål",
+     "ledd": [
+      "Formålet med Helsearkivregisteret er å\na. motta og sikre pasientarkiv fra spesialisthelsetjenesten og\nb. gjøre helseopplysninger i arkivet tilgjengelig for forskere og pårørende i samsvar med gjeldende bestemmelser om taushetsplikt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Opplysninger i Helsearkivregisteret",
+     "ledd": [
+      "Helsearkivregisteret inneholder opplysninger om avdøde pasienter som har mottatt helsehjelp fra spesialisthelsetjenesten, uavhengig av pasientens nasjonalitet på tidspunktet da helsehjelpen ble gitt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 4",
+     "tittel": "Grunnleggende bestandsopplysninger",
+     "ledd": [
+      "Norsk helsearkiv skal føre register over arkivbestand og tilvekst i Helsearkivregisteret. Følgende opplysninger om mottatt pasientarkivmateriale skal registreres:\na. navnet på virksomheten som har gitt helsehjelpen, og eventuell avdeling, post eller tilsvarende\nb. opplysninger om det avleverte arkivets omfang, inndeling i arkivstykker mv. og\nc. henvisning til hvor arkivet er oppstilt eller lagret.",
+      "Bestandsopplysninger som registreres etter første ledd skal ikke inneholde opplysninger eller beskrivelser som kan identifisere enkeltpersoner. Opplysningene kan sammenstilles med andre depotinstitusjoners bestandsregistre, og publiseres åpent."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-5",
+     "nummer": "§ 5",
+     "tittel": "Supplerende bestandsopplysninger",
+     "ledd": [
+      "Opplysninger som er relevante for fremfinning, sammenstilling på tvers av avleverte arkiver og kvalitetssikring av arkivmaterialet kan registreres og behandles som supplerende bestandsopplysninger. Slike bestandsopplysninger kan identifisere enkeltpasienter."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-6",
+     "nummer": "§ 6",
+     "tittel": "Bevaring av helseopplysninger",
+     "ledd": [
+      "Opplysninger i Helsearkivregisteret skal oppbevares i ubegrenset tid, hvis ikke annet følger av denne forskriften."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Spesialisthelsetjenestens plikt til å avlevere pasientarkiv til Norsk helsearkiv",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 7",
+     "tittel": "Avlevering av fysisk pasientarkivmateriale fra navngitte virksomheter",
+     "ledd": [
+      "Virksomheter i spesialisthelsetjenesten som er ansvarlig for det aktuelle pasientarkivet skal avlevere alt fysisk pasientarkivmateriale fra tidligere, og nåværende\na. Odda sjukehus\nb. Radiumhospitalet\nc. Kirkenes sykehus\nd. Aker sykehus\ne. Stavanger universitetssykehus\nf. Sentralsykehuset i Telemark\ng. Universitetssykehuset Nord-Norge\nh. Brøset sykehus, inkludert tidligere Reitgjerdet og Kriminalasylet\ni. Valen sjukehus\nj. De tidligere statsasylene (Gaustad, Rotvoll, Eg, Rønvik)\nk. De psykiatriske avdelingene ved Ullevål sykehus\nl. Sikkerhetsavdelingen ved Dikemark sykehus\nm. Sikkerhetsavdelingen ved Sandviken sykehus."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 8",
+     "tittel": "Avlevering av fysisk pasientarkivmateriale fra virksomheter som yter eller har ytet nasjonale eller flerregionale behandlingstjenester",
+     "ledd": [
+      "Virksomheter i spesialisthelsetjenesten som yter eller tidligere har ytet nasjonale eller flerregionale behandlingstjenester, skal avlevere alt materiale fra fysiske pasientarkiv som er skapt som ledd i denne tjenesten. Dersom tjenesten er integrert i en avdeling eller annen større del av virksomheten, kan virksomheten velge å avlevere alt materiale fra den arkivdelen som tjenesten inngår i."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 9",
+     "tittel": "Avlevering av alt fysisk pasientarkivmateriale fra eldre pasientjournaler",
+     "ledd": [
+      "Alle virksomheter i spesialisthelsetjenesten skal avlevere alle fysiske pasientjournaler for pasienter som døde før 1. januar 1950 i sin helhet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 10",
+     "tittel": "Avlevering av øvrig fysisk pasientarkivmateriale",
+     "ledd": [
+      "Alle virksomheter i spesialisthelsetjenesten skal fra fysisk pasientarkiv avlevere:\na. legejournaler og epikriser,\nb. korrespondanse som er lett tilgjengelig innenfor den enkelte journal og\nc. dokumentasjon av vedtak om bruk av tvang.",
+      "Arkivskaper og Norsk helsearkiv kan inngå avtale om at også øvrige deler av pasientarkivmaterialet skal avleveres, dersom dette har lite omfang eller vil være uforholdsmessig krevende å fjerne fra det materialet som skal avleveres.",
+      "Når fysisk pasientarkivmateriale etterdigitaliseres, jf. § 21, skal også histopatologiske remisser og histologiske og cytologiske prøvesvar avleveres.",
+      "Pasientarkivmateriale som ikke skal avleveres i medhold av første til tredje ledd, kan kasseres før avlevering."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 11",
+     "tittel": "Avlevering av informasjon fra elektroniske pasientjournaler",
+     "ledd": [
+      "Alle virksomheter i spesialisthelsetjenesten skal avlevere opplysninger fra elektroniske pasientjournaler, jf. helsepersonelloven § 39 og § 40. Opplysningene skal avleveres i form av digitale uttrekk etter format og struktur som fastsettes av Riksarkivaren i samråd med Helsedirektoratet.",
+      "Pasientidentifikasjon og all informasjon som kan representeres som tekst, inkludert koder, tall og målte verdier mv., skal inngå i avleveringen. Videre skal dokumenter som arkivskaper har digitalisert, som en del av den løpende journalføringen eller på et senere tidspunkt, inngå i avleveringen. Øvrig elektronisk arkivmateriale kan kasseres dersom det ikke er besluttet avlevert etter § 14.",
+      "Riksarkivaren kan bestemme at kodeverk og eventuelt annet materiale som er referert i et arkivuttrekk, skal medfølge uttrekket. Dersom dokumentasjon av kodeverket eller annet referert materiale ikke er tilgjengelig eller tilstrekkelig pålitelig, kan dokumentasjonen erstattes med den forklarende teksten som var tilgjengelig ved daglig bruk av journalen.",
+      "Der samme pasientopplysninger er lagret i mer enn ett av de systemer arkivskaper benytter, kan arkivskaper bestemme hvilket av systemene opplysningene skal avleveres fra."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-6",
+     "nummer": "§ 12",
+     "tittel": "Avleveringsplikt for private virksomheter i spesialisthelsetjenesten",
+     "ledd": [
+      "Private virksomheter i spesialisthelsetjenesten skal avlevere pasientarkivmateriale i samsvar med § 8 til § 11 og kapittel 4.",
+      "Avleveringsplikten etter første ledd gjelder ikke privatpraktiserende spesialister, som kan kassere pasientarkivmaterialet etter tidspunktet for avlevering eller kassasjon i § 17, jf. § 19. Dersom materialet anses som særskilt viktig å bevare for ettertiden, kan Riksarkivaren beslutte avlevering etter § 14."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-7",
+     "nummer": "§ 13",
+     "tittel": "Kartoteker og hjelpemidler for å finne frem i arkivmaterialet",
+     "ledd": [
+      "For pasientarkivmateriale som skal avleveres, skal også eventuelle kartoteker, registre og andre hjelpemidler til å finne frem i materialet avleveres."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-8",
+     "nummer": "§ 14",
+     "tittel": "Avlevering til Norsk helsearkiv etter vedtak av Riksarkivaren",
+     "ledd": [
+      "Riksarkivaren kan beslutte at arkivmateriale skal avleveres ut over det som følger av § 7 til § 13."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Bevarings- og kassasjonsplaner",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 15",
+     "tittel": "Plikt til å utarbeide bevarings- og kassasjonsplan",
+     "ledd": [
+      "Virksomheter i spesialisthelsetjenesten skal utarbeide bevarings- og kassasjonsplaner. Den enkelte bevarings- og kassasjonsplan kan omfatte hele eller deler av virksomheten. Planene skal holdes løpende oppdatert.",
+      "Bevarings- og kassasjonsplanen skal angi:\na. navn på arkivskaper, og eventuelle tidligere navn på arkivskaper dersom et arkiv er videreført fra en tidligere virksomhet,\nb. om arkivet eller deler av arkivet er digitalt, papirbasert, filmbasert eller lagret på andre fysiske medier,\nc. primært ordningsprinsipp, og hvordan pasienter, saker eller episoder mv. identifiseres og gjenfinnes og\nd. tidspunkt for når virksomheten antar at hvert arkiv eller hver del av arkiv kan være klart for avlevering eller kassasjon, jf. § 17 til § 19.",
+      "Tidspunkter angitt i bevarings- og kassasjonsplanen skal brukes til planleggingsformål. Bindende avleveringstidspunkter skal fremgå av avleveringsavtaler etter § 22."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 16",
+     "tittel": "Innsending av bevarings- og kassasjonsplan",
+     "ledd": [
+      "Virksomheter i spesialisthelsetjenesten skal sende inn bevarings- og kassasjonsplanene til Norsk helsearkiv. Oppdaterte bevarings- og kassasjonsplaner skal sendes inn senest ti år etter forrige innsending av plan."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Gjennomføring av avlevering og kassasjon",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 17",
+     "tittel": "Tidspunkt for avlevering av pasientarkivmateriale",
+     "ledd": [
+      "Avlevering av pasientarkivmateriale skal gjennomføres etter at arkivskaper ikke lenger har behov for pasientjournalene, tidligst ti år etter pasientens død. Tidligere avlevering kan likevel avtales etter § 18."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 18",
+     "tittel": "Tidligere avlevering av fysisk pasientarkivmateriale",
+     "ledd": [
+      "Dersom virksomhetens fysiske pasientjournalarkiver er ordnet slik at journalene for døde pasienter blir skilt ut fra de aktive journalene på et tidligere tidspunkt enn ti år etter pasientens død, kan det inngås avtale med Norsk helsearkiv om tidligere avlevering av dette materialet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 19",
+     "tittel": "Inaktive pasientjournaler der pasientens dødsår ikke er kjent",
+     "ledd": [
+      "Dersom det er uforholdsmessig krevende å skaffe informasjon om året en pasient døde, kan virksomheten skille ut inaktive pasientjournaler for avlevering eller kassasjon når:\na. pasienten er født for minst 110 år siden, og det ikke er ført noe inn i journalen i løpet av de siste 10 årene,\nb. pasientens fødselsår er ukjent, og det er ikke ført noe inn i journalen i løpet av de siste 60 årene eller\nc. særlige forhold tilsier svært høy sannsynlighet for at pasienten har vært død i minst 10 år."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 20",
+     "tittel": "Arkivbegrensning",
+     "ledd": [
+      "Før avlevering av pasientjournalarkiver skal det gjennomføres arkivbegrensning. Materiale som ikke er arkivverdig skal skilles ut og kan makuleres eller slettes, jf. forskrift 15. desember 2017 nr. 2105 om offentlege arkiv § 14."
+     ],
+     "endringer": [
+      "Endret ved forskrift 15 des 2017 nr. 2105 (i kraft 1 jan 2018)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-5",
+     "nummer": "§ 21",
+     "tittel": "Digitalisering og kassasjon",
+     "ledd": [
+      "Når dokumenter er digitalisert og arkivert i en elektronisk pasientjournal, jf. helsepersonelloven § 39 og § 40, kan de fysiske originaldokumentene kasseres.",
+      "Virksomheter som skal avlevere fysisk pasientarkivmateriale i sin helhet etter bestemmelsene i § 7 til § 9 kan ikke kassere originalmaterialet selv om dette er digitalisert, hvis ikke Riksarkivaren har fattet vedtak om kassasjon.",
+      "Virksomheten skal fastsette og følge egne retningslinjer som beskriver hva som skal digitaliseres og hvordan digitaliseringen skal gjennomføres. Før originalmaterialet kasseres, skal kvaliteten på resultatet av digitaliseringen kontrolleres. Minstekrav til kvalitetskontrollen er stikkprøver av materialets kompletthet og lesbarhet, og at det kan finnes frem i materialet ved bruk av et elektronisk pasientjournalsystem.",
+      "Etterdigitalisert pasientarkivmateriale skal tilfredsstille de krav til formater og kvalitet som Riksarkivaren fastsetter."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-6",
+     "nummer": "§ 22",
+     "tittel": "Avtale om avlevering",
+     "ledd": [
+      "Virksomheter som skal avlevere pasientarkivmateriale, skal inngå avtale med Norsk helsearkiv om levering av materialet. Avtalen skal inneholde opplysninger om avleveringstidspunkt, arkivmaterialets omfang og type, ordningsprinsipp og avleveringsmåte. For fysisk pasientarkiv skal materialets tilstand beskrives."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-7",
+     "nummer": "§ 23",
+     "tittel": "Avleveringsliste ved avlevering av fysisk pasientarkivmateriale",
+     "ledd": [
+      "Avleverende virksomhet skal utarbeide en avleveringsliste, som er en fullstendig fortegnelse over det fysiske arkivmaterialet som avleveringen omfatter. Avleveringslisten skal leveres i digital form og inneholde oversikt over hva som avleveres og hvordan dette er ordnet.",
+      "Avleveringslisten skal inneholde følgende opplysningstyper om hver enkelt pasientjournal:\na. pasientidentifiserende opplysninger; fødselsnummer eller annet entydig identifikasjonsnummer, navn, fødselsdato, eventuelle virksomhetsinterne pasientnummer eller hjelpenummer mv.,\nb. diagnoser som fremgår av journalens omslag eller av en diagnoseoversikt,\nc. dødsår, dersom dette fremgår av journalen og\nd. første og siste året for innleggelse eller konsultasjon.",
+      "Avleveringslisten skal inneholde følgende supplerende opplysninger om hver enkelt pasientjournal, dersom de kan hentes fra virksomhetens pasientadministrative systemer eller annen elektronisk registratur:\na. type helsehjelp eller prosedyre,\nb. alle innleggelsesperioder eller konsultasjonsdatoer,\nc. adresse eller bostedskommune ved hver innleggelse eller konsultasjon, og\nd. henvisninger mellom pasientarkiv og relevante administrative saker i sakarkiv."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-8",
+     "nummer": "§ 24",
+     "tittel": "Digital avlevering",
+     "ledd": [
+      "Ved avlevering av digitalt pasientarkivmateriale skal uttrekk av arkivdata i samsvar med § 11 benyttes. Som grunnlag for kvitteringer og avviksmeldinger, skal uttrekket inneholde strukturert elektronisk avleveringsliste, tilsvarende avleveringsliste for fysiske avleveringer etter § 23.",
+      "Overføring av data fra avleverende virksomhet til Norsk helsearkiv, og retur av kvitteringsmelding og eventuelle avviksmeldinger, skal foregå elektronisk og innenfor de rammer som er etablert for elektronisk kommunikasjon i helse- og omsorgstjenesten. Dersom avleverende virksomhet ikke er i stand til å overføre data elektronisk innenfor dette rammeverket, kan det avtales særskilt at det digitale uttrekket skal avleveres til Norsk helsearkiv på et fysisk lagringsmedium.",
+      "Elektronisk pasientarkivmateriale som er avlevert til Norsk helsearkiv kan kasseres etter at Norsk helsearkiv har kvittert for at avleveringen er mottatt og akseptert."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-9",
+     "nummer": "§ 25",
+     "tittel": "Avlevering av mangelfullt eller skadet materiale",
+     "ledd": [
+      "Dersom leveringen er ufullstendig, eller ikke er i den orden eller tilstand som er avtalt, kan Norsk helsearkiv kreve at mangelen utbedres. Norsk helsearkiv kan kreve at skadet pasientarkivmateriale repareres før avlevering."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-10",
+     "nummer": "§ 26",
+     "tittel": "Kvittering for mottatt materiale",
+     "ledd": [
+      "Norsk helsearkiv skal gi avleverende virksomhet kvittering når avleveringen er mottatt og akseptert."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Behandling av avlevert arkivmateriale i Norsk helsearkiv og Helsearkivregisteret",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 27",
+     "tittel": "Digitalisering av mottatt fysisk arkivmateriale",
+     "ledd": [
+      "Norsk helsearkiv skal så langt mulig digitalisere mottatt fysisk pasientarkivmateriale.",
+      "Pasientarkivmateriale som digitaliseres etter avlevering, skal være i overensstemmelse med format- og kvalitetskrav som Riksarkivaren fastsetter. Eldre pasientarkiv, jf. § 9, skal bevares i sin originale form etter en eventuell digitalisering. Riksarkivaren kan beslutte at eldre originalmateriale i konkrete tilfeller likevel skal kasseres etter digitalisering, dersom materialet er skadet og restaurering av materialet vil være uforholdsmessig kostbart.",
+      "Når annet pasientarkivmateriale digitaliseres etter avlevering, skal originalmaterialet normalt kasseres. Riksarkivaren kan likevel beslutte at originalmaterialet skal bevares etter digitalisering."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 28",
+     "tittel": "Langtidsbevaring",
+     "ledd": [
+      "Norsk helsearkiv skal sørge for pålitelig langtidsbevaring av avleverte arkiver.",
+      "Både digitalisert materiale og digitalt skapte arkiver kan overføres til og tilpasses nye lagringsmedier eller lagringsformater når det er hensiktsmessig ut fra formålet i § 2."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 29",
+     "tittel": "Kvalitetskontroll av bestandsopplysninger i Helsearkivregisteret",
+     "ledd": [
+      "Norsk helsearkiv skal arbeide systematisk med å forbedre og komplettere bestandsopplysningene i Helsearkivregisteret. Som ledd i kvalitetskontrollen, kan det gjøres rutinemessige samkjøringer mot Folkeregisteret, Dødsårsaksregisteret og Norsk pasientregister."
+     ],
+     "endringer": [
+      "Endret ved forskrift 15 juni 2018 nr. 876 (i kraft 20 juli 2018)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-4",
+     "nummer": "§ 30",
+     "tittel": "Taushetsplikt",
+     "ledd": [
+      "Enhver som behandler helseopplysninger etter denne forskriften, har taushetsplikt etter helsepersonelloven § 21 flg."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Tilgjengeliggjøring av opplysninger",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Overskriften endret ved forskrift 15 juni 2018 nr. 876 (i kraft 20 juli 2018)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 31",
+     "tittel": "Tilgjengeliggjøring og annen behandling av helseopplysninger",
+     "ledd": [
+      "Helseopplysninger i Helsearkivregisteret skal behandles i samsvar med personvernforordningen, personopplysningsloven og de alminnelige vilkårene i helseregisterloven § 6 og reglene om taushetsplikt i helseregisterloven § 17, jf. helsepersonelloven §§ 21 flg.",
+      "Søknad om tilgjengeliggjøring av helseopplysninger til pasientens pårørende avgjøres av Norsk helsearkiv.",
+      "Ved tilgjengeliggjøring og sammenstilling av opplysninger i registeret gjelder i tillegg helseregisterloven § 19 til § 19h. Det skal vurderes om pårørende først skal informeres og gis adgang til å motsette seg at opplysninger tilgjengeliggjøres med direkte personidentifiserende kjennetegn, jf. helseregisterloven § 19a andre ledd andre punktum. Norsk helsearkiv kan fastsette nærmere formkrav for søknad om tilgjengeliggjøring av opplysninger."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 15 juni 2018 nr. 876 (i kraft 20 juli 2018), 23 april 2021 nr. 1269 som endret ved forskrift 12 mai 2021 nr. 1902 (i kraft 1 juni 2021), 20 des 2023 nr. 2165 (i kraft 1 jan 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 32",
+     "tittel": "Sikkerhets- og forsvarlighetskrav ved tilgjengeliggjøring",
+     "ledd": [
+      "Norsk helsearkiv skal sikre at pasientarkivmateriale tilgjengeliggjøres på en slik måte at materialet ikke skades eller utsettes for uforsvarlig slitasje.",
+      "Norsk helsearkiv skal forvisse seg om at utlevering eller tilgjengeliggjøring på annen måte av kopier og digitale uttrekk skjer til rett mottaker."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 15 juni 2018 nr. 876 (i kraft 20 juli 2018), 23 april 2021 nr. 1269 som endret ved forskrift 12 mai 2021 nr. 1902 (i kraft 1 juni 2021)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-3",
+     "nummer": "§ 33",
+     "tittel": "Oversikt over tilgjengeliggjøring",
+     "ledd": [
+      "Norsk helsearkiv skal føre oversikt over tilgjengeliggjøring fra Helsearkivregisteret. Oversikten skal omfatte opplysninger om:\na. hvem som har fått opplysningene\nb. hva som er det rettslige grunnlaget for mottakerens bruk av opplysningene\nc. utvalgskriteriene eller referanser til det arkivmateriale de tilgjengeliggjorte opplysningene er hentet fra\nd. eventuelle vilkår fastsatt etter helseregisterloven § 19a fjerde ledd."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 15 juni 2018 nr. 876 (i kraft 20 juli 2018), 23 april 2021 nr. 1269 som endret ved forskrift 12 mai 2021 nr. 1902 (i kraft 1 juni 2021)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kap7",
+   "overskrift": "Kapittel 7. Avsluttende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 34",
+     "tittel": "Ikraftsetting",
+     "ledd": [
+      "Forskriftens kapitler 1, 3, 5 og 7 trer i kraft straks. Forskriftens kapitler 2, 4 og 6 trer i kraft fra den tid departementet bestemmer.[1] Departementet kan bestemme at de enkelte bestemmelsene skal tre i kraft til ulik tid."
+     ],
+     "fotnoter": [
+      {
+       "nr": "1",
+       "tekst": "Kapitlene 2, 4 og 6 trer i kraft 1 jan 2018 iflg. vedtak 27 okt 2017 nr. 1703."
+      }
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-2",
+     "nummer": "§ 35",
+     "tittel": "Endringer i andre forskrifter",
+     "ledd": [
+      "Fra den tid forskriften trer i kraft, gjøres følgende endringer i andre forskrifter: – – –"
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,71 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2026-05-04-697",
+ "dokumentid": "SF/forskrift/2026-05-04-697",
+ "departement": [
+  "Samferdselsdepartementet"
+ ],
+ "etat": [
+  "Statens jernbanetilsyn"
+ ],
+ "ikraft": "2026-05-04",
+ "endrer": "forskrift/2012-10-01-954\nforskrift/2021-09-08-2715",
+ "hjemmel": [
+  {
+   "ref": "lov/1993-06-11-100/§4",
+   "tekst": "lov/1993-06-11-100/§4"
+  },
+  {
+   "ref": "lov/1993-06-11-100/§5",
+   "tekst": "lov/1993-06-11-100/§5"
+  },
+  {
+   "ref": "lov/1993-06-11-100/§5b",
+   "tekst": "lov/1993-06-11-100/§5b"
+  },
+  {
+   "ref": "lov/1993-06-11-100/§6",
+   "tekst": "lov/1993-06-11-100/§6"
+  },
+  {
+   "ref": "lov/1993-06-11-100/§12",
+   "tekst": "lov/1993-06-11-100/§12"
+  },
+  {
+   "ref": "lov/1993-06-11-100/§16",
+   "tekst": "lov/1993-06-11-100/§16"
+  },
+  {
+   "ref": "forskrift/2021-09-03-2675/§5",
+   "tekst": "forskrift/2021-09-03-2675/§5"
+  }
+ ],
+ "kunngjort": "2026-05-04 14:35",
+ "korttittel": "TSI TEL-forskriften",
+ "tittel": "Forskrift om telematikkapplikasjoner for jernbanetransport i EØS (TSI TEL-forskriften)",
+ "annet": "Hjemmel: Fastsatt av Statens jernbanetilsyn 4. mai 2026 med hjemmel i lov 11. juni 1993 nr. 100 om anlegg og drift av jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. (jernbaneloven) § 4, § 5, § 5b, § 6, § 12 og § 16 og forskrift 3. september 2021 nr. 2675 om sikkerhet og tekniske forhold ved jernbanen § 5.\nEØS-henvisninger: EØS-avtalen vedlegg XIII nr. 37pg (forordning (EU) 2026/253).",
+ "refid": "forskrift/2026-05-04-697",
+ "eli": "/eli/forskrift/2026/05/04/697",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2026-05-04-697",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "TSI TEL-forordningen",
+   "ledd": [
+    "Forordning (EU) 2026/253 om en teknisk spesifikasjon for delsystemet «Telematikk» i Den europeiske unions jernbanesystem for interoperabilitet ved datadeling i forbindelse med jernbanetransport (TEL TSI), som inntatt i EØS-avtalen vedlegg XIII nr. 37pg, gjelder som forskrift. Forordningen gjelder med de tilpasningene som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Forskriften trer i kraft straks. Fra samme tid oppheves følgende forskrifter:\na. forskrift 1. oktober 2012 nr. 954 om gjennomføring av forordning om telematikkapplikasjoner for passasjertransport i det transeuropeiske jernbanesystemet (TSI TAP-forskriften)\nb. forskrift 8. september 2021 nr. 2715 om gjennomføring av forordning (EU) nr. 1305/2014 om den tekniske spesifikasjonen for samtrafikkevnen med hensyn til delsystemet «Telematikkprogrammer for godstrafikk» i Den europeiske unions jernbanesystem, og om oppheving av forordning (EF) nr. 62/2006, og gjennomføring av forordning (EU) 2018/278 og forordning (EU) 2019/778 (TSI TAF-forskriften)."
+   ]
+  }
+ ]
+}

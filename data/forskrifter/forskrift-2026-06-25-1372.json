@@ -1,0 +1,71 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2026-06-25-1372",
+ "dokumentid": "SF/forskrift/2026-06-25-1372",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Finanstilsynet"
+ ],
+ "ikraft": "2026-07-01",
+ "endrer": "forskrift/2025-12-18-2658",
+ "hjemmel": [
+  {
+   "ref": "lov/1976-12-17-100/§3",
+   "tekst": "lov/1976-12-17-100/§3"
+  },
+  {
+   "ref": "lov/1976-12-17-100/§3a",
+   "tekst": "lov/1976-12-17-100/§3a"
+  },
+  {
+   "ref": "forskrift/2003-12-12-1509",
+   "tekst": "forskrift/2003-12-12-1509"
+  },
+  {
+   "ref": "forskrift/2013-02-15-174",
+   "tekst": "forskrift/2013-02-15-174"
+  },
+  {
+   "ref": "forskrift/2025-06-18-1069",
+   "tekst": "forskrift/2025-06-18-1069"
+  }
+ ],
+ "kunngjort": "2026-06-26 15:30",
+ "tittel": "Forskrift om forsinkelsesrente og kompensasjon for inndrivelseskostnader",
+ "annet": "Hjemmel: Fastsatt av Finanstilsynet 25. juni 2026 med hjemmel i lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m. (forsinkelsesrenteloven) § 3 første ledd, jf. delegeringsvedtak 12. desember 2003 nr. 1509, og § 3a andre ledd, jf. delegeringsvedtak 15. februar 2013 nr. 174, jf. delegeringsvedtak 18. juni 2025 nr. 1069.",
+ "refid": "forskrift/2026-06-25-1372",
+ "eli": "/eli/forskrift/2026/06/25/1372",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2026-06-25-1372",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Forsinkelsesrenten",
+   "ledd": [
+    "Med hjemmel i lov om renter ved forsinket betaling m.m. § 3 første ledd fastsettes forsinkelsesrenten til 12,25 prosent p.a."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Standardkompensasjon",
+   "ledd": [
+    "Kompensasjon for inndrivelseskostnader i norske kroner etter forsinkelsesrenteloven § 3a første ledd fastsettes til 430 kroner."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Ikrafttredelse mv.",
+   "ledd": [
+    "Forskriften trer i kraft 1. juli 2026. Fra samme tidspunkt oppheves forskrift 18. desember 2025 nr. 2658 om forsinkelsesrente og kompensasjon for inndrivelseskostnader."
+   ]
+  }
+ ]
+}

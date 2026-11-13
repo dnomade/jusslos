@@ -1,0 +1,500 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2026-01-15-48",
+ "dokumentid": "SF/forskrift/2026-01-15-48",
+ "departement": [
+  "Samferdselsdepartementet"
+ ],
+ "etat": [
+  "Avdeling for luftfart, post og kjøp"
+ ],
+ "ikraft": "2026-07-15",
+ "endrer": "forskrift/2015-11-30-1404",
+ "hjemmel": [
+  {
+   "ref": "lov/1993-06-11-101/§4-1",
+   "tekst": "lov/1993-06-11-101/§4-1"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§5-1",
+   "tekst": "lov/1993-06-11-101/§5-1"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§5-3",
+   "tekst": "lov/1993-06-11-101/§5-3"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§5-4",
+   "tekst": "lov/1993-06-11-101/§5-4"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§9-1",
+   "tekst": "lov/1993-06-11-101/§9-1"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§11-2",
+   "tekst": "lov/1993-06-11-101/§11-2"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§13a-5",
+   "tekst": "lov/1993-06-11-101/§13a-5"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§15-1",
+   "tekst": "lov/1993-06-11-101/§15-1"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§15-3",
+   "tekst": "lov/1993-06-11-101/§15-3"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§15-4",
+   "tekst": "lov/1993-06-11-101/§15-4"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§18-1",
+   "tekst": "lov/1993-06-11-101/§18-1"
+  }
+ ],
+ "kunngjort": "2026-01-16 15:15",
+ "tittel": "Forskrift om sivil statsluftfart med ubemannet luftfartøy mv.",
+ "annet": "Hjemmel: Fastsatt av Samferdselsdepartementet 15. januar 2026 med hjemmel i lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven) § 4-1, § 5-1, § 5-3, § 5-4, § 9-1, § 11-2, § 13a-5, § 15-1, § 15-3, § 15-4 og § 18-1.",
+ "refid": "forskrift/2026-01-15-48",
+ "eli": "/eli/forskrift/2026/01/15/48",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2026-01-15-48",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "Kapittel I. Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Formål",
+     "ledd": [
+      "Formålet med forskriften er å fastsette drifts- og sikkerhetsregler for sivil luftfart med ubemannet luftfartøy som faller utenfor virkeområdet til de felleseuropeiske reglene slik dette er angitt i forordning (EU) 2018/1139 artikkel 2 nr. 3 bokstav a. I forskriften er slik virksomhet omtalt som sivil statsluftfart."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Forskriften gjelder for norsk sivil statsluftfart til offentligrettslig formål med ubemannet luftfartøy. Som sivil statsluftfart regnes luftfartsvirksomhet for utøvelse av toll-, politi- og søk og redningsvirksomhet, samt brannbekjemping, grensekontroll, kystvaktvirksomhet og lignende aktiviteter eller tjenester som er underlagt statlig kontroll og ansvar og som utføres i offentlig interesse av eller på vegne av et organ med offentlig myndighet.",
+      "Forskriften gjelder ikke Forsvarets midlertidige bruk av sivilt registrerte luftfartøy til militær luftfart, jf. luftfartsloven § 17-10.",
+      "Forskriften regulerer heller ikke norske myndigheters bruk av utenlandske operatører for å fly sivil statsluftfart.",
+      "Forskriften gjelder ikke innendørs bruk av ubemannet luftfartøy."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "I denne forskriften menes med:\na. Fjernpilot: en fysisk person som er ansvarlig for sikker flyging av et ubemannet luftfartøy ved å betjene dets styreinnretninger, enten manuelt eller, dersom det ubemannede luftfartøyet flyr automatisk, ved å overvåke kursen og fortsatt være i stand til å gripe inn og endre kursen til enhver tid.\nb. Fartøysjef: den fysiske personen som er utpekt av operatør til å ha det overordnede ansvaret for luftfartøyet og for sikkerheten under flygingen.\nc. Operatør: foretak eller myndighet som driver eller har til hensikt å drive luftfart etter denne forskriften\nd. VLOS (Visual Line Of Sight): En type operasjon der fjernpiloten kan opprettholde kontinuerlig visuell kontakt med det ubemannede luftfartøyet uten hjelpemidler, slik at fjernpiloten kan kontrollere det ubemannede luftfartøyets flygebane i forhold til andre luftfartøyer, mennesker og hindringer med sikte på å unngå kollisjoner.\ne. BVLOS (Beyond visual Line Of Sight): En type operasjon som ikke utføres innenfor synsvidde (VLOS).\nf. MTOM: Det ubemannede luftfartøyets største masse, herunder nyttelast og drivstoff, som definert av produsenten eller byggeren, som det ubemannede luftfartøyet kan brukes med.\ng. Innsatsområde: Område hvor en eller flere nødetater har pågående aktivitet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 4",
+     "tittel": "Luftfartsmyndighet",
+     "ledd": [
+      "Luftfartstilsynet er ansvarlig myndighet og skal føre tilsyn etter denne forskriften."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-5",
+     "nummer": "§ 5",
+     "tittel": "Delegering av forskriftsmyndighet",
+     "ledd": [
+      "Luftfartstilsynet gis myndighet til å vedta senere endringer av forskriften med unntak av § 4 og § 5."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "Kapittel II. Bestemmelser for alle operatører",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 6",
+     "tittel": "Grunnleggende krav til operatøren",
+     "ledd": [
+      "Sivil statsluftfart kan kun utføres av norske myndigheter og av foretak registrert i Norge som har avtale om virksomhet som faller inn under forskriftens virkeområde.",
+      "For deltakelse i søk- og redningsoperasjoner skal det foreligge avtale med Hovedredningssentralen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 7",
+     "tittel": "Registrering",
+     "ledd": [
+      "Operatøren skal være registrert i Luftfartstilsynets operatørregister.",
+      "Ubemannede luftfartøy skal merkes med operatørnummeret fra operatørregisteret.",
+      "Når operasjonelle hensyn tilsier det kan politiet og tolletaten benytte ubemannet luftfartøy uten slik merking."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 8",
+     "tittel": "Aldersgrenser",
+     "ledd": [
+      "Fartøysjef for ubemannet luftfartøy må ha fylt 18 år.",
+      "Personer som har fylt 16 år kan fly ubemannet fartøy under direkte tilsyn fra fartøysjef, eller uten slikt tilsyn dersom flygingen skjer som del av operatørens treningsprogram."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 9",
+     "tittel": "Forsikring",
+     "ledd": [
+      "Operatøren er ansvarlig for at det foreligger forsikring som dekker erstatningsplikt overfor tredjeperson, jf. luftfartsloven § 11-2.",
+      "Kravet til forsikring gjelder ikke for myndigheter hvor bruk av ubemannet luftfartøy er dekket av selvassuranse."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 10",
+     "tittel": "Operasjonell kontroll mv.",
+     "ledd": [
+      "Operatør skal ha et system for å sikre operasjonell kontroll med enhver flyging.",
+      "Med operasjonell kontroll menes ansvaret og myndigheten for å iverksette, gjennomføre og avslutte enhver flyging.",
+      "Dersom flygingen utføres av fjernpilot som ikke er ansatt hos operatøren skal dette skje etter en skriftlig avtale mellom operatøren og fjernpiloten som skal sikre operatørens operasjonelle kontroll. Fjernpiloten skal være godkjent i operatørens operasjonsmanual. Fjernpiloten skal gjennomføre all aktuell opplæring og trening som er fastsatt i operatørens opplærings- og treningssystem."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-6",
+     "nummer": "§ 11",
+     "tittel": "Vikeplikt for bemannet luftfartøy",
+     "ledd": [
+      "Fartøysjef har ansvaret for å unngå enhver risiko for sammenstøt med bemannet luftfartøy, herunder avslutte flygingen dersom det oppstår risiko for slikt sammenstøt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-7",
+     "nummer": "§ 12",
+     "tittel": "Områder hvor det ikke er tillatt å fly",
+     "ledd": [
+      "Uten tillatelse fra lokal lufttrafikktjenesteenhet er det ikke tillatt å fly ubemannet luftfartøy nærmere enn 5 km fra en lufthavn.",
+      "Kravet om tillatelse gjelder ikke utenfor lufthavnens åpningstid. Aktuell lufttrafikktjenesteenhet skal likevel varsles om når flygingen påbegynnes og avsluttes."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-8",
+     "nummer": "§ 13",
+     "tittel": "Flyging i innsatsområder, unntatt søk- og redning",
+     "ledd": [
+      "Flyging med ubemannet luftfartøy i innsatsområder krever tillatelse fra aktuell innsatsleder."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-9",
+     "nummer": "§ 14",
+     "tittel": "Flyging i innsatsområder for søk og redning",
+     "ledd": [
+      "Flyging med ubemannet luftfartøy i innsatsområder for søk- og redningsaksjoner, krever tillatelse fra Hovedredningssentralen. Dersom en funksjon med ansvar for ledelse eller koordinering av innsatsområdet er etablert, kan denne likevel gi slik tillatelse. Den som gir tillatelsen skal informere Hovedredningssentralen før flygingen igangsettes."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-10",
+     "nummer": "§ 15",
+     "tittel": "Flyging i restriksjonsområder mv.",
+     "ledd": [
+      "Flyging i restriksjonsområder og andre områder med forbud mot flyging fastsatt av Luftfartstilsynet, kan likevel skje når det er nødvendig for å gjennomføre aktuelle oppdrag og flygingen er koordinert med annen berørt aktivitet i området."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-11",
+     "nummer": "§ 16",
+     "tittel": "Elektronisk synlighet",
+     "ledd": [
+      "Ubemannet luftfartøy skal ha elektronisk synlighet i samme grad som etter forordning (EU) 2019/947 vedlegg (annex) del A som gjennomført i forskrift 1. november 2024 nr. 2777 om ubemannede luftfartøyer (BSL A 7-2).",
+      "Luftfartstilsynet kan godkjenne unntak fra kravet i første ledd dersom det er til hinder for effektiv gjennomføring av operasjonen og kravene til sikkerhet etter en konkret vurdering anses ivaretatt. Søknad om slik godkjenning må inneholde en risikovurdering og forslag til kompenserende tiltak."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-12",
+     "nummer": "§ 17",
+     "tittel": "Bruk av militære ubemannede luftfartøy",
+     "ledd": [
+      "Bruk av militære ubemannede luftfartøy etter denne forskriften kan ikke skje uten godkjenning fra Luftfartstilsynet."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kapIII",
+   "overskrift": "Kapittel III. Bestemmelser for deklarert kategori",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 18",
+     "tittel": "Virkeområdet for bestemmelsene om deklarert kategori",
+     "ledd": [
+      "Bestemmelsene om deklarert kategori gjelder operasjon med ubemannet luftfartøy med MTOM på mindre enn 25 kg inkludert nyttelast og Luftfartstilsynet vurderer at risikoen forbundet med operasjonen kan ivaretas uten operasjonstillatelse."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 19",
+     "tittel": "Deklarering",
+     "ledd": [
+      "Operatøren skal sende skriftlig melding til Luftfartstilsynet før flygevirksomheten påbegynnes. Meldingen skal minst inneholde:\na. kontaktinformasjon til operatør,\nb. informasjon om operasjonen,\nc. informasjon om hvilke ubemannende fartøy som brukes,\nd. en bekreftelse om at kravene som gjelder for operasjoner i deklarert kategori anses oppfylt,\ne. gjenpart av alle operasjonelle prosedyrer etter § 25,\nf. dato og underskrift av ansvarlig leder."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 20",
+     "tittel": "Driftsbestemmelser",
+     "ledd": [
+      "Med mindre noe annet følger av bestemmelsene i forskriften, gjelder reglene i forordning (EU) 2019/947 vedlegg del A som gjennomført i forskrift 1. november 2024 nr. 2777 om ubemannede luftfartøyer (BSL A 7-2) tilsvarende så langt de passer."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 21",
+     "tittel": "Krav til opplæring",
+     "ledd": [
+      "Ved flyging i deklarert kategori skal hver fjernpilot ha gjennomført opplæring fastsatt i forordning (EU) 2019/947, UAS.OPEN.020 (4) i vedlegg del A som gjennomført i forskrift 1. november 2024 nr. 2777 om ubemannede luftfartøyer (BSL A 7-2), og inneha slikt kompetansesertifikat.",
+      "Ved flyging med ubemannet fartøy over 4 kg MTOM, eller flyging etter bestemmelsene § 23, § 27 og § 30 annet ledd, skal fjernpiloten ha gjennomført tilleggsopplæring i samsvar med bestemmelsen UAS.OPEN.030 (2)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 22",
+     "tittel": "Forbud mot svermoperasjoner",
+     "ledd": [
+      "Ved flyging i deklarert kategori skal en enkelt fjernpilot ikke ha kontroll over mer enn ett ubemannet luftfartøy.",
+      "Dette gjelder likevel ikke flyging sammen med forankret luftfartøy etter § 28."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-6",
+     "nummer": "§ 23",
+     "tittel": "Flying over standard høydebegrensing",
+     "ledd": [
+      "Dersom høydebegrensningen som følger av reglene som er gjort gjeldende i § 20 er til hinder for effektiv utførelse av operasjonen kan den overskrides når:\na. det benyttes luftromsobservatør i tillegg til fjernpiloten, og\nb. fjernpiloten har gjort seg kjent med luftrommet det skal opereres i, og\nc. operasjonen så langt som mulig er koordinert med andre brukere av luftrommet i området, og\nd. tillatelse er mottatt fra lufttrafikktjenesten dersom flygingen eller deler av flygingen skal skje i kontrollert luftrom.",
+      "Flyging over høydebegrensningen skal skje med kortest mulig varighet. Dersom operatøren har flere ubemannede luftfartøy til rådighet, skal det letteste av de egnede fartøyene benyttes.",
+      "Før flyging over høydebegrensingen skal operatøren vurdere om annen flytrafikk bør varsles ved bruk av NOTAM eller annen godkjent meldingstjeneste."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-7",
+     "nummer": "§ 24",
+     "tittel": "Fravikelse av minsteavstander",
+     "ledd": [
+      "Minsteavstandene som følger av reglene som er gjort gjeldende i § 20 kan fravikes dersom flygingen gjennomføres i et område som operatøren til enhver tid har oversikt over og hvor operatøren kan begrense risikoen for personer som ikke tar del i operasjonen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-8",
+     "nummer": "§ 25",
+     "tittel": "Operasjonelle prosedyrer",
+     "ledd": [
+      "Operatøren er ansvarlig for at alle operasjoner utføres etter skriftlige prosedyrer som er tilpasset risikoen ved operasjonen.",
+      "Prosedyrene skal minst omfatte:\na. Rutine for aksept av oppdrag.\nb. Innhenting av informasjon som ansees som nødvendig for at flygingen kan gjennomføres trygt, herunder luftromsinformasjon, aktuell lufttrafikktjenesteenhet og informasjon om andre brukere av luftrommet.\nc. Beskrivelse av krav for utsjekk av fjernpilot til operasjonen.\nd. Beskrivelse av krav for opprettholdelse av fjernpilotkompetanse.\ne. Sjekklister som dekker normale beredskapsprosedyrer og nødprosedyrer.\nf. Beskrivelse av hvordan operatøren sørger for koordinering med andre berørte aktører i luften, eller på bakken.\ng. Rutine for loggføring av flyvetid for fjernpiloter og fartøyets tekniske flyvetid.\nh. Rutine for hendelsesrapportering."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-9",
+     "nummer": "§ 26",
+     "tittel": "Krav om VLOS",
+     "ledd": [
+      "Med unntak av flyging etter § 27, skal flyging i deklarert kategori kun skje VLOS."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-10",
+     "nummer": "§ 27",
+     "tittel": "BVLOS under 250 g",
+     "ledd": [
+      "Ubemannet luftfartøy som har en MTOM på mindre enn 250 gram inkludert nyttelast kan flys utenfor synsrekkevidde, men ikke høyere enn 50 meter over bakkenivå (AGL) eller med lengre avstand enn 50 meter unna nærmeste punkt på bakken.",
+      "Det ubemannede luftfartøyet skal være utrustet med et grønt blinkende lys ved BVLOS flyginger. Ved ettermontering av slikt lys tillates en økning i MTOM med 15 % selv om totalvekten da overstiger 250 gram."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-11",
+     "nummer": "§ 28",
+     "tittel": "Bruk av forankrede ubemannede luftfartøy",
+     "ledd": [
+      "Følgende regler gjelder for bruk av ett eller flere forankrede ubemannede luftfartøy:\na. Forankringen skal som hovedregel ikke være lengre enn 50 meter.\nb. Dersom det brukes observatør som følger med på at fartøyet ikke utgjør noen aktuell sikkerhetsrisiko, kan forankringen likevel ha lengde på inntil 100 meter.\nc. Ved bruk av forankrede ubemannede luftfartøy med MTOM fra 4 kg opp til 25 kg skal det brukes observatør som skal følge med på at luftfartøyet ikke utgjør noen aktuell sikkerhetsrisiko.\nd. Operatøren skal kunne avslutte flyingen på kort varsel.\ne. Forankringen skal ha en mekanisk styrke som ikke er mindre enn 10 ganger luftfartøyets vekt ved maksimal masse. For ubemannede luftfartøy som er lettere enn luft skal forankringen isteden ha en mekanisk styrke som ikke er mindre enn 4 ganger den kombinerte kraften av det statiske løftet til fartøyet og den aerodynamiske kraften av den maksimalt tillatte vindhastigheten.\nf. Kravet om opplæring i § 21 gjelder ikke ved flyging av forankret ubemannet luftfartøy.\ng. Bruk av forankret ubemannet luftfartøy innenfor kontrollert luftrom krever tillatelse fra Lufttrafikktjenesten.\nh. Dersom flygingen skal foregå lengre enn 24 timer skal operatøren vurdere om annen flytrafikk bør varsles ved bruk av NOTAM eller annen godkjent meldingstjeneste. Slikt varsel skal inneholde informasjon om at det benyttes forankret ubemannet luftfartøy, hvor dette er utplassert, samt kontaktinformasjon til den som kan avslutte flygingen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-12",
+     "nummer": "§ 29",
+     "tittel": "Nattflyging",
+     "ledd": [
+      "Ved nattflyging skal det ubemannede luftfartøyet være utrustet med et grønt blinkende lys som er synlig på avstand fra bakken og i luften."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-13",
+     "nummer": "§ 30",
+     "tittel": "Operasjoner sammen med bemannet luftfartøy",
+     "ledd": [
+      "Operasjoner sammen med bemannet luftfartøy er som hovedregel ikke tillatt etter reglene for deklarert kategori.",
+      "I innsatsområder hvor bruk av ubemannet luftfartøy kan skje med sikker avstand fra bemannet luftfartøy, kan slik operasjon likevel skje dersom flygingen skjer VLOS og det er etablert en omforent funksjon for å ivareta nødvendig informasjonsflyt for koordinering av flybevegelser i området. Før slik flyging kan skje skal operatøren også ha etablert prosedyre for hvordan separasjon til bemannet luftfartøy skal ivaretas."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kapIV",
+   "overskrift": "Kapittel IV. Bestemmelser for spesifikk kategori",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 31",
+     "tittel": "Virkeområdet til bestemmelsene for spesifikk kategori",
+     "ledd": [
+      "Når en operasjon med ubemannet luftfartøy ikke kan utføres etter reglene for deklarert kategori, skal reglene for spesifikk kategori gjelde."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 32",
+     "tittel": "Krav om operasjonstillatelse i spesifikk kategori",
+     "ledd": [
+      "Operasjoner med ubemannet luftfartøy skal kun skje etter operasjonstillatelse fra Luftfartstilsynet.",
+      "Luftfartstilsynet fastsetter vilkårene for operasjonen i operasjonstillatelsen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 33",
+     "tittel": "Driftsbestemmelser",
+     "ledd": [
+      "Med mindre noe annet følger av forskriften, gjelder reglene i forordning (EU) 2019/947 vedlegg (annex) del B som gjennomført i forskrift 1. november 2024 nr. 2777 om ubemannede luftfartøyer (BSL A 7-2) tilsvarende så langt de passer. Bestemmelsene UAS.SPEC.020 og UAS.SPEC.085 skal likevel ikke gjelde.",
+      "Luftfartstilsynet kan godkjenne unntak fra kravet i første ledd dersom det er til hinder for effektiv gjennomføring av operasjonen og kravene til sikkerhet etter en konkret vurdering anses ivaretatt. Søknad om slik godkjenning må inneholde en risikovurdering og forslag til kompenserende tiltak."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 34",
+     "tittel": "BVLOS flyging over 400 ft. AGL",
+     "ledd": [
+      "BVLOS flyging høyere enn 400 ft. over bakkenivå (AGL) skal kun skje i aktive fare- eller restriksjonsområder, eller etter klarering fra lufttrafikktjenesten."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-5",
+     "nummer": "§ 35",
+     "tittel": "Operasjoner i spesifikk kategori sammen med bemannet luftfartøy",
+     "ledd": [
+      "Operasjoner i spesifikk kategori sammen med bemannet luftfartøy kan kun skje når operatøren har operasjonstillatelse for slik operasjon, og det er etablert en omforent funksjon for å ivareta nødvendig informasjonsflyt for koordinering av flybevegelser i området."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kapV",
+   "overskrift": "Kapittel V. Avsluttende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 36",
+     "tittel": "Dispensasjon",
+     "ledd": [
+      "Luftfartstilsynet kan når det anses særlig samfunnsnyttig og sikkerheten etter en konkret vurdering anses ivaretatt, dispensere fra bestemmelsene i forskriften.",
+      "Søknad om dispensasjon må inneholde en risikovurdering og forslag til kompenserende tiltak.",
+      "Det kan settes vilkår for dispensasjonen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 37",
+     "tittel": "Overtredelsesgebyr",
+     "ledd": [
+      "Overtredelsesgebyr etter luftfartsloven § 13a-5 kan ilegges for brudd på reglene i § 6 til og med § 35."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 38",
+     "tittel": "Pålegg om driftsstans og tilbakekall av tillatelse",
+     "ledd": [
+      "Ved brudd på bestemmelser etter denne forskriften kan Luftfartstilsynet pålegge operatøren å stanse eller begrense sine flyginger, og begrense, midlertidig oppheve eller tilbakekalle tillatelse gitt etter forskriften."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-4",
+     "nummer": "§ 39",
+     "tittel": "Endring i annen forskrift",
+     "ledd": [
+      "I forskrift 30. november 2015 nr. 1404 om luftfartøy som ikke har fører om bord mv. gjøres følgende endringer: – – –"
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-5",
+     "nummer": "§ 40",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Forskriften trer i kraft 6 måneder etter vedtakelsen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-6",
+     "nummer": "§ 41",
+     "tittel": "Overgangsregel for spesifikk kategori",
+     "ledd": [
+      "For operatører i spesifikk kategori som ved forskriftens ikrafttredelse har operasjonstillatelse i henhold til forskrift 30. november 2015 nr. 1404 om luftfartøy som ikke har fører om bord mv., gjelder den tillatelsen fram til 15. juli 2027."
+     ]
+    }
+   ]
+  }
+ ]
+}

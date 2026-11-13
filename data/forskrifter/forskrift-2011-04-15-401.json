@@ -1,0 +1,80 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2011-04-15-401",
+ "dokumentid": "SF/forskrift/2011-04-15-401",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Finansmarkedsavd."
+ ],
+ "kunngjort_i": "I 2011 hefte 4",
+ "ikraft": "2011-05-01",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2011-04-15-10",
+   "tekst": "lov/2011-04-15-10"
+  },
+  {
+   "ref": "lov/1997-06-13-44/§7-2",
+   "tekst": "lov/1997-06-13-44/§7-2"
+  },
+  {
+   "ref": "lov/1997-06-13-44/§7-6",
+   "tekst": "lov/1997-06-13-44/§7-6"
+  },
+  {
+   "ref": "lov/1999-01-15-2/§2-1",
+   "tekst": "lov/1999-01-15-2/§2-1"
+  }
+ ],
+ "kunngjort": "2011-04-19 13:30",
+ "korttittel": "Forskrift om overgangsregler til lov 2011:10",
+ "tittel": "Forskrift om overgangsregler til lov om endringer i revisorloven og enkelte andre lover (unntak fra revisjonsplikt for små aksjeselskaper)",
+ "annet": "Hjemmel: Fastsatt ved kgl.res. 15. april 2011 med hjemmel i lov 15. april 2011 nr. 10 om endring i revisorloven og enkelte andre lover (unntak fra revisjonsplikt for små aksjeselskaper) del X annet punktum. Fremmet av Finansdepartementet.",
+ "refid": "forskrift/2011-04-15-401",
+ "eli": "/eli/forskrift/2011/04/15/401",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2011-04-15-401",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": null,
+     "ledd": [
+      "For aksjeselskaper som er stiftet etter 1. juli 2010, men før lovens ikrafttredelse, gjelder terskelverdiene etter aksjeloven § 7-6 første ledd først for regnskapsåret etter første avlagt årsregnskap, såfremt selskapets åpningsbalanse viser en balansesum på mindre enn 20 millioner kroner."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": null,
+     "ledd": [
+      "Revisjonsoppdrag som er avsluttet på grunnlag av at fullmakt til å fravelge revisjon er benyttet i samsvar med aksjeloven § 7-6, anses avsluttet etter utløpet av tjenestetiden, og plikten til å sende begrunnelse til Finanstilsynet etter revisorloven § 2-1 syvende ledd fjerde punktum og aksjeloven § 7-2 fjerde ledd annet punktum kommer derfor ikke til anvendelse."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Denne forskrift trer i kraft 1. mai 2011."
+    }
+   ]
+  }
+ ]
+}

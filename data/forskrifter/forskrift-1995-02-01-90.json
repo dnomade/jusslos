@@ -1,0 +1,68 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-1995-02-01-90",
+ "dokumentid": "SF/forskrift/1995-02-01-90",
+ "departement": [
+  "Justis- og beredskapsdepartementet"
+ ],
+ "etat": [
+  "Lovavdelingen"
+ ],
+ "kunngjort_i": "Avd I 1995 106",
+ "ikraft": "1995-02-12",
+ "siste_endring_ikraft": "2006-06-30",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2006-06-26-782",
+   "tekst": "forskrift/2006-06-26-782 fra 2006-06-30"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1991-07-20-67/§2",
+   "tekst": "lov/1991-07-20-67/§2"
+  },
+  {
+   "ref": "forskrift/1993-02-12-101",
+   "tekst": "forskrift/1993-02-12-101"
+  }
+ ],
+ "korttittel": "Forskr. om anvendelsesområde for lov om domfelte",
+ "tittel": "Forskrift om utvidelse av anvendelsesområdet for lov 20. juli 1991 nr 67 om overføring av domfelte.",
+ "annet": "Fastsatt av Justis- og politidepartementet 1. februar 1995 med hjemmel i lov 20. juli 1991 nr. 67 om overføring av domfelte § 2, jfr. kgl.res. 12. februar 1993 nr. 101. Endret ved forskrift 26 juni 2006 nr. 782.",
+ "refid": "forskrift/1995-02-01-90",
+ "eli": "/eli/forskrift/1995/02/01/90",
+ "url": "https://lovdata.no/dokument/SF/forskrift/1995-02-01-90",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Lov 20. juli 1991 nr. 67 om overføring av domfelte gjelder også i forholdet mellom Norge og de stater som har sluttet seg til FNs konvensjon om ulovlig håndtering av og handel med narkotika og psykotrope stoffer (1988), Europarådets konvensjon om hvitvasking, ransaking, beslag og inndragning av økonomisk utbytte fra straffbare handlinger (1990) og FN-konvensjonen mot korrupsjon (2003), for så vidt gjelder avgjørelser om inndragning som omfattes av konvensjonene."
+    },
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrift 26 juni 2006 nr. 782 (i kraft 30 juni 2006)."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Forskriften trer i kraft 12. februar 1995 for FNs konvensjon om ulovlig håndtering av og handel med narkotika og psykotrope stoffer og 1. mars 1995 for Europarådets konvensjon om hvitvasking, ransaking, beslag og inndragning av økonomisk utbytte fra straffbare handlinger, og gjelder bare anmodninger som er fremmet etter ikrafttredelsen."
+    }
+   ]
+  }
+ ]
+}

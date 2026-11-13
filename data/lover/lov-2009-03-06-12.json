@@ -1,0 +1,163 @@
+{
+ "skjema": "1.0",
+ "type": "lov",
+ "datokode": "LOV-2009-03-06-12",
+ "dokumentid": "NL/lov/2009-03-06-12",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "ikraft": "2009-03-06",
+ "siste_endring_ikraft": "2026-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "lov/2025-06-20-96",
+   "tekst": "lov/2025-06-20-96 fra 2026-01-01"
+  }
+ ],
+ "rettsomrade": [
+  "Selskaper, fond og foreninger > Fond"
+ ],
+ "kunngjort": "2009-03-06 13:45",
+ "siste_rettelse": "2021-09-09 (faglige fotnoter fjernet, UU-tilpasset)",
+ "korttittel": "Statens finansfond-loven",
+ "tittel": "Lov om Statens finansfond",
+ "refid": "lov/2009-03-06-12",
+ "eli": "/eli/lov/2009/03/06/12",
+ "url": "https://lovdata.no/dokument/NL/lov/2009-03-06-12",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Formål",
+   "ledd": [
+    "Statens finansfond (Finansfondet) har til formål å bidra midlertidig med kjernekapital til norske banker for å styrke bankene og sette bankene bedre i stand til å opprettholde normal utlånsvirksomhet."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Finansfondets kapital og statens ansvar",
+   "ledd": [
+    "Finansfondets kapital bevilges av Stortinget. Fondet tilhører staten. Departementet fastsetter den årlige avkastningen av kapitalen som betales til staten.",
+    "Statens ansvar for Finansfondet er begrenset til den kapital fondet har til enhver tid."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Organisasjon og ledelse",
+   "ledd": [
+    "Finansfondet er et eget rettssubjekt. Finansfondet skal registreres i Foretaksregisteret.",
+    "Finansfondet ledes av et styre med tre medlemmer. Kongen oppnevner medlemmene og utpeker styrets leder og nestleder for en periode av tre år. Kongen oppnevner også to varamedlemmer.",
+    "Styremedlemmer og varamedlemmer skal ha godtgjøring som fastsettes av departementet.",
+    "Styret skal sørge for forsvarlig organisering av virksomheten og påse at kontrollen med formuesforvaltning, regnskap og øvrig virksomhet er betryggende.",
+    "Aksjeloven § 6-17 gjelder tilsvarende for styret i Finansfondet.",
+    "Departementet fastsetter vedtekter for Finansfondet."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Forvaltning av Finansfondets midler, departementets instruksjonsmyndighet mv.",
+   "ledd": [
+    "Styret forestår forvaltningen av Finansfondets midler. Styret representerer Finansfondet utad og tegner dets firma. Styret kan gi fullmakt til å tegne fondets firma. Slik fullmakt kan også fastsettes i vedtektene.",
+    "Før styret treffer vedtak av særlig viktighet, skal saken skriftlig forelegges departementet.",
+    "Departementet kan i særlige tilfelle instruere styret skriftlig i enkeltsaker. Styret skal ha adgang til å uttale seg før departementet treffer slikt vedtak."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Finansfondets plasseringer",
+   "ledd": [
+    "Finansfondets midler kan plasseres på følgende måte:\na. Erverv av kjernekapitalinstrumenter utstedt av norske banker, og rettigheter til slike. Departementet kan i forskrift fastsette at Finansfondet kan erverve kjernekapitalinstrumenter utstedt av morselskap i finanskonsern.\nb. Kontolån til staten.\nc. Betaling av avkastning til staten.",
+    "Finansfondet kan ikke ta opp lån eller stille garanti for andres forpliktelser.",
+    "Finansfondet kan påta seg slike forpliktelser som er nødvendig i forbindelse med ledelse og administrasjon av fondets virksomhet.",
+    "Departementet kan i forskrift fastsette nærmere regler om hvilke kjernekapitalinstrumenter fondet kan investere i og om utforming av vilkår for statens kapitalinnskudd."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "Årsregnskap, årsberetning og meddelelse til Stortinget",
+   "ledd": [
+    "Finansfondet skal hvert år utarbeide årsregnskap og årsberetning som skal sendes departementet innen utgangen av mars måned.",
+    "Bestemmelsene i regnskapsloven og bokføringsloven skal følges. Departementet kan i forskrift utfylle eller fravike bestemmelsene om regnskapsloven og bokføringsloven for Statens finansfond.",
+    "Meddelelse fra departementet til Stortinget om virksomheten i Finansfondet skal finne sted minst én gang hver stortingsperiode, og oftere dersom særlige grunner tilsier det."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 7",
+   "tittel": "Revisjon",
+   "ledd": [
+    "Finansfondet skal ha en revisor som utpekes av departementet. Departementet kan i forskrift gi nærmere bestemmelser om revisjon.",
+    "Revisors godtgjøring fastsettes av departementet."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-8",
+   "nummer": "§ 8",
+   "tittel": "Forholdet til annen lovgivning",
+   "ledd": [
+    "Forvaltningsloven gjelder ikke for Finansfondet. Forvaltningslovens regler om inhabilitet og taushetsplikt gjelder likevel for enhver som utfører tjenester eller arbeid for fondet. Taushetsplikt gjelder ikke overfor departementet, Finanstilsynet og Norges Bank. Departementet kan gi nærmere regler om avgrensning av taushetsplikten.",
+    "Statens finansfond regnes som et organ etter arkivlova § 2 bokstav h."
+   ],
+   "endringer": [
+    "Endret ved lover 19 juni 2009 nr. 48 (ikr. 21 des 2009 iflg. res. 18 des 2009 nr. 1603), 20 juni 2025 nr. 96 (i kraft 1 jan 2026 iflg. res. 12 des 2025 nr. 2510)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-9",
+   "nummer": "§ 9",
+   "tittel": "Avvikling og omdanning",
+   "ledd": [
+    "Kongen kan beslutte at Finansfondet skal avvikles eller omdannes. Kongen kan i slike tilfeller beslutte at hele eller deler av Finansfondets kapital skal tilbakeføres til statskassen."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-10",
+   "nummer": "§ 10",
+   "tittel": "Utfyllende regler",
+   "ledd": [
+    "Departementet kan gi forskrift med nærmere regler for Finansfondet og dets virksomhet, og utfyllende bestemmelser til gjennomføring av loven."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-11",
+   "nummer": "§ 11",
+   "tittel": "Andre lovendringer",
+   "ledd": [
+    "– – –"
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-12",
+   "nummer": "§ 12",
+   "tittel": "Ikrafttredelse og overgangsbestemmelser",
+   "ledd": [
+    "Loven trer i kraft fra den tid Kongen bestemmer.[1]",
+    "Det er adgang til å sette i kraft forskjellige deler av loven til forskjellig tid.",
+    "Kongen kan gi overgangsregler."
+   ],
+   "fotnoter": [
+    {
+     "nr": "1",
+     "tekst": "Fra 6 mars 2009 iflg. res. 6 mars 2009 nr. 266."
+    }
+   ]
+  }
+ ]
+}

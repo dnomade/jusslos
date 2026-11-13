@@ -1,0 +1,115 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2023-01-27-105",
+ "dokumentid": "SF/forskrift/2023-01-27-105",
+ "departement": [
+  "Samferdselsdepartementet"
+ ],
+ "etat": [
+  "Veg-, by- og trafikksikkerhetsavdelingen"
+ ],
+ "ikraft": "2023-03-31",
+ "siste_endring_ikraft": "2025-02-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2024-12-19-3539",
+   "tekst": "forskrift/2024-12-19-3539 fra 2025-02-01"
+  }
+ ],
+ "endrer": "forskrift/2016-11-28-1418",
+ "hjemmel": [
+  {
+   "ref": "lov/1963-06-21-23/§27",
+   "tekst": "lov/1963-06-21-23/§27"
+  },
+  {
+   "ref": "lov/1965-06-18-4/§43b",
+   "tekst": "lov/1965-06-18-4/§43b"
+  }
+ ],
+ "kunngjort": "2023-01-30 15:00",
+ "tittel": "Forskrift om betaling av bompenger på offentlig veg",
+ "annet": "Hjemmel: Fastsatt av Samferdselsdepartementet 27. januar 2023 med hjemmel i lov 21. juni 1963 nr. 23 om vegar (veglova) § 27 sjette og syvende ledd og lov 18. juni 1965 nr. 4 om vegtrafikk (vegtrafikkloven) § 43b fjerde ledd.\nEndret ved forskrift 19 des 2024 nr. 3539 (i kraft 1 feb 2025).",
+ "refid": "forskrift/2023-01-27-105",
+ "eli": "/eli/forskrift/2023/01/27/105",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2023-01-27-105",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Formål og virkeområde",
+   "ledd": [
+    "Formålet med denne forskriften er å regulere hvem som har ansvaret for å betale bompenger og når betalingsansvar oppstår.",
+    "Denne forskriften gjelder for de tilfeller motorvogn passerer bomstasjon."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Definisjoner",
+   "ledd": [
+    "I denne forskrift menes med:\na. avtalepart: fysisk eller juridisk person, eller enhet i enhetsregisteret, som har gyldig AutoPASS-avtale, jf. forskrift 14. desember 2018 nr. 1917 om utstedervirksomhet for bompenger og ferjebilletter § 6, fra avtalen er registrert i AutoPASS Samvirke.\nb. eier: fysisk eller juridisk person, eller enhet i enhetsregisteret, som på datoen for motorvognens passering står oppført som eier av motorvognen i Kjøretøyregisteret, jf. forskrift av 25. januar 1990 nr. 92 om bruk av kjøretøy § 2-1, eller i andre motorvognregistre.\nc. fører: fysisk person som fører motorvognen ved passering i bomstasjon.\nd. bompengeselskapene er selskaper som har fullmakt til å kreve inn bompenger."
+   ],
+   "endringer": [
+    "Endret ved forskrift 19 des 2024 nr. 3539 (i kraft 1 feb 2025)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Bompengenes størrelse",
+   "ledd": [
+    "Bompengenes størrelse følger av gjeldende takstvedtak i medhold av veglova § 27 første, andre eller tredje ledd."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Ansvar for å betale bompenger",
+   "ledd": [
+    "Når en registrert motorvogn passerer bomstasjon, har følgende ansvar for å betale bompenger:\na. avtalepart, når motorvognen på tidspunktet for passering er omfattet av AutoPASS-avtale.\nb. eier, når motorvognen på tidspunktet for passering ikke er omfattet av AutoPASS-avtale.\nc. fører, når motorvogn, kjennemerke eller brikke er meldt stjålet til politiet, regnet fra tidspunktet tyveriet skjedde.",
+    "Når en uregistrert motorvogn passerer bomstasjon, er den som har anskaffet prøvekjennemerke ansvarlig for å betale bompenger."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Utlevering av personopplysninger til bompengeselskap",
+   "ledd": [
+    "Følgende personopplysninger knyttet til personer som nevnt i § 4, og som er innhentet i medhold av vegtrafikkloven § 15 og § 16, kan utleveres fra Statens vegvesen til bompengeselskap:\na. navn\nb. adresse\nc. fødselsdato\nd. organisasjonsnummer.",
+    "Personopplysningene kan behandles hos bompengeselskap i den utstrekning dette er nødvendig for bompengeselskapets innkreving av bompenger etter veglova § 27 femte ledd."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "Behandling av søknader om fritak fra å betale bompenger",
+   "ledd": [
+    "Søknad om fritak fra å betale bompenger behandles av bompengeselskapene. Bompengeselskapenes avgjørelse av søknaden er et enkeltvedtak etter forvaltningsloven.",
+    "Avslag kan påklages til bompengeselskapet innen tre uker. Dersom vedtaket opprettholdes, oversender bompengeselskapet klagen til Vegdirektoratet."
+   ],
+   "endringer": [
+    "Tilføyd ved forskrift 19 des 2024 nr. 3539 (i kraft 1 feb 2025)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 7",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Denne forskriften trer i kraft 31. mars 2023. Fra samme tidspunkt oppheves forskrift 28. november 2016 nr. 1418 om betaling av bompenger."
+   ],
+   "endringer": [
+    "Endret ved forskrift 19 des 2024 nr. 3539 (i kraft 1 feb 2025, tidligere § 6)."
+   ]
+  }
+ ]
+}

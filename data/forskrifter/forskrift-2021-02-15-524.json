@@ -1,0 +1,370 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2021-02-15-524",
+ "dokumentid": "SF/forskrift/2021-02-15-524",
+ "departement": [
+  "Samferdselsdepartementet"
+ ],
+ "etat": [
+  "Luftfartstilsynet"
+ ],
+ "ikraft": "2021-07-01",
+ "endrer": "forskrift/2016-08-30-1024\nforskrift/2016-08-30-1025",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1993-06-11-101/§5-1",
+   "tekst": "lov/1993-06-11-101/§5-1"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§9-1",
+   "tekst": "lov/1993-06-11-101/§9-1"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§15-4",
+   "tekst": "lov/1993-06-11-101/§15-4"
+  },
+  {
+   "ref": "forskrift/1999-12-10-1265",
+   "tekst": "forskrift/1999-12-10-1265"
+  },
+  {
+   "ref": "forskrift/1999-12-10-1273",
+   "tekst": "forskrift/1999-12-10-1273"
+  }
+ ],
+ "kunngjort": "2021-02-24 15:45",
+ "korttittel": "Forskrift om luftfartsoperasjoner med nasjonalt sertifiserte luftfartøy",
+ "tittel": "Forskrift om luftfartsoperasjoner med nasjonalt sertifiserte luftfartøy",
+ "annet": "Hjemmel: Fastsatt av Luftfartstilsynet 15. februar 2021 med hjemmel i lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven) § 5-1, § 9-1 og § 15-4, jf. delegeringsvedtak 10. desember 1999 nr. 1265 og delegeringsvedtak 10. desember 1999 nr. 1273.",
+ "refid": "forskrift/2021-02-15-524",
+ "eli": "/eli/forskrift/2021/02/15/524",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2021-02-15-524",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Formål",
+     "ledd": [
+      "Forskriften gjelder for bemannet luftfartøy med nasjonal sertifisering som brukes til privatflyging, opplevelsesflyging eller luftsport."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Felles operative regler",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 2",
+     "tittel": "Operative krav for alle luftfartøy",
+     "ledd": [
+      "Med mindre noe annet følger av denne forskriften, gjelder forordning (EU) nr. 965/2012 artikkel 2, 5 og 6, samt forordningens vedlegg I og VII (del-NCO) som gjennomført i forskrift 7. august 2013 nr. 956 om luftfartsoperasjoner, så langt det passer, med de unntak som følger av annet og tredje ledd.",
+      "For seilfly gjelder forordning (EU) 2018/1976 som gjennomført i forskrift 15. mai 2019 nr. 663 om luftfart med seilfly, så langt det passer.",
+      "For ballong gjelder forordning (EU) 2018/395 som gjennomført i forskrift 7. juni 2018 nr. 836 om luftfart med ballong, så langt det passer."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 3",
+     "tittel": "Sidevind under avgang og landing",
+     "ledd": [
+      "Hvis høyeste tillatte sidevindskomponent ikke fremgår av flygehåndboken, skal det anvendes en forsvarlig komponent for det aktuelle luftfartøyet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 4",
+     "tittel": "Vurdering av passasjerene",
+     "ledd": [
+      "Fartøysjefen skal før avgang vurdere om passasjerene er skikket til å være med på den planlagte flygingen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 5",
+     "tittel": "Informasjon til passasjerene",
+     "ledd": [
+      "Fartøysjefen skal informere passasjerene om de viktigste forskjellene mellom den planlagte flygingen og kommersielle flyginger, blant annet at luftfartøyet ikke oppfyller internasjonale krav til teknisk standard. Fartøysjefen skal informere om passasjerenes rettigheter etter § 6.",
+      "Informasjonen skal være egnet til å gi passasjerene et grunnlag for å vurdere om de ønsker å delta på flygingen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 6",
+     "tittel": "Rett til å avbryte",
+     "ledd": [
+      "En passasjer har rett til kostnadsfritt å avbryte flyturen frem til luftfartøyet er i bevegelse for avgang."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-6",
+     "nummer": "§ 7",
+     "tittel": "For passasjerer under 18 år",
+     "ledd": [
+      "For en mindreårig passasjer som ikke er i følge med en verge, skal det foreligge skriftlig samtykke fra en av vergene til passasjeren. Fartøysjefen skal dokumentere at samtykket er basert på informasjonen som skal gis etter § 5."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-7",
+     "nummer": "§ 8",
+     "tittel": "Forbud mot betaling",
+     "ledd": [
+      "Det er forbudt å ta betalt for en flygning, med unntak av flyginger omfattet av § 9, § 10 og § 18."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-8",
+     "nummer": "§ 9",
+     "tittel": "Kostnadsdeling",
+     "ledd": [
+      "Privatpersoner kan dele de direkte kostnadene for en flyging. Alle personer om bord skal dele kostnadene.",
+      "Antall personer per flyging er begrenset til maksimalt 6. Denne begrensingen gjelder ikke for luftfartøy som kan ta med inntil 19 passasjerer og som opereres av en operativ organisasjon, jf. § 19."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-9",
+     "nummer": "§ 10",
+     "tittel": "Introduksjonsflyging",
+     "ledd": [
+      "En treningsorganisasjon eller organisasjon som skal fremme luftsport eller flyging, kan tilby introduksjonsflyging. Organisasjonen må være registrert i Enhetsregisteret.",
+      "Luftfartøy brukt til introduksjonsflyging skal ha norsk registrering. Luftfartøyet må være eid av organisasjonen. Innleide luftfartøy kan benyttes når det foreligger en skriftlig avtale om leie som omfatter oppfølging av luftfartøyets luftdyktighet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-10",
+     "nummer": "§ 11",
+     "tittel": "Betaling for introduksjonsflyging",
+     "ledd": [
+      "Introduksjonsflyging skal utgjøre en marginal del av organisasjonens samlede aktivitet. Betaling for introduksjonsflyging må gå uavkortet til organisasjonen som tilbyr flygingen og holdes innenfor organisasjonen."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Operativ organisasjon",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 12",
+     "tittel": "Krav til operativ organisasjon",
+     "ledd": [
+      "Fly med maksimal avgangsvekt over 5700 kg, fly med turbojetmotor med maksimal avgangsvekt over 2730 kg, fly med stempelmotor med mer enn 800 hestekrefter og helikopter med maksimal avgangsvekt over 3175 kg, skal drives av en operativ organisasjon. Med operativ organisasjon menes en organisasjon med ansvar for at flygingen skjer i henhold til regelverket og godkjenninger som gjelder for luftfartøyet.",
+      "Luftfartstilsynet kan også stille krav om en operativ organisasjon for driften av andre luftfartøy, dersom tekniske eller operative egenskaper ved fartøyet tilsier det."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 13",
+     "tittel": "Erklæring",
+     "ledd": [
+      "Før luftfartøy omfattet av § 12 settes i drift, skal den operative organisasjonen sende en erklæring på skjema fastsatt av Luftfartstilsynet. Organisasjonen kan tidligst ta i bruk luftfartøyet 30 dager etter at Luftfartstilsynet har bekreftet mottak av erklæringen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 14",
+     "tittel": "Varsel om endringer",
+     "ledd": [
+      "Dersom organisasjonen gjør endringer på områder som er omfattet av erklæringen, skal den sende oppdatert erklæring til Luftfartstilsynet før endringene tas i bruk."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 15",
+     "tittel": "Sikkerhetssystem",
+     "ledd": [
+      "En operativ organisasjon skal ha et sikkerhetssystem utviklet etter en standard for kvalitetssystem som er akseptert av Luftfartstilsynet. Sikkerhetssystemet skal ta utgangspunkt i en risikoanalyse som identifiserer konkrete farer, risikoer og behov for kompenserende tiltak. Sikkerhetssystemet skal minst omfatte:\na. en beskrivelse av organisasjonen,\nb. mekanismer som sikrer at organisasjonen har operativ kontroll med at hver flyging gjennomføres i henhold til regelverket og sikkerhetssystemet,\nc. kravene til opplæring av personell, inkludert oppfølging av kompetanse og godkjenning av flygere,\nd. et system for rapportering av avvik,\ne. beskrivelse av metodene for etterlevelse og forbedring av sikkerhetssystemet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 16",
+     "tittel": "Dimensjonering av organisasjonen",
+     "ledd": [
+      "Den operative organisasjonen skal være oppbygd og dimensjonert på en måte som sikrer at den kan utføre sine oppgaver og oppfylle sitt ansvar. Det skal blant annet tas hensyn til luftfartøyenes egenskaper og kompleksitet, flygernes erfaring og kompetanse, samt driftsområde og forventet aktivitetsnivå."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-6",
+     "nummer": "§ 17",
+     "tittel": "Krav til dokumentasjon",
+     "ledd": [
+      "All dokumentasjon knyttet til driften av organisasjonen skal lagres i minst fem år. Dokumentasjon for forberedelse og gjennomføring av en flyging, og tilhørende rapporter, skal lagres i minst tre måneder."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Opplevelsesflyging",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 18",
+     "tittel": "Opplevelsesflyging",
+     "ledd": [
+      "En operativ organisasjon som har til formål å fremme bevaring og drift av luftfartøy, kan tilby opplevelsesflyging med landbaserte fly. Opplevelsesflyging er en flyging med avgang fra og landing på samme landingsplass, der hovedformålet med flygingen er å gi passasjerene en opplevelse av luftfartøyet.",
+      "Opplevelsesflyging kan kun utføres med\na. tidligere militære fly og kopier av slike,\nb. sivile fly der produksjonen ble stanset før 1975,\nc. sivile fly som har deltatt i spesielle hendelser eller som har spilt en viktig rolle i utviklingen av sivil luftfart, uavhengig av produksjonsår,\nd. restaurerte fly som nevnt over."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 19",
+     "tittel": "Krav om tillatelse",
+     "ledd": [
+      "En organisasjon som skal tilby opplevelsesflyging må ha tillatelse etter luftfartsloven § 8-8 første ledd. Søknad gjøres på skjema fastsatt av Luftfartstilsynet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 20",
+     "tittel": "Operativ organisasjon",
+     "ledd": [
+      "Opplevelsesflyging skal utføres av en operativ organisasjon som oppfyller kravene i kapittel 3, uavhengig av luftfartøyets vekt og egenskaper."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 21",
+     "tittel": "Vilkår for tillatelsen",
+     "ledd": [
+      "Tillatelse til opplevelsesflyging etter luftfartsloven § 8-8 kan gis når den operative organisasjonen anses egnet til å tilby opplevelsesflyging. Ved vurdering av om organisasjonen er egnet, skal det legges vekt på dimensjoneringen av den operative organisasjonen, sikkerhetssystemet, type fly og forventet aktivitetsnivå.",
+      "Tillatelse kan kun gis til organisasjoner som er registrert i Enhetsregisteret.",
+      "Luftfartøy brukt til opplevelsesflyging skal ha norsk registrering. Luftfartøyet må være eid av organisasjonen. Innleide luftfartøy kan benyttes når det foreligger en skriftlig avtale om leie som omfatter oppfølging av luftfartøyets luftdyktighet.",
+      "Det kan stilles ytterligere vilkår for tillatelsen for å kompensere for konkrete risikofaktorer."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-5",
+     "nummer": "§ 22",
+     "tittel": "Operative begrensninger",
+     "ledd": [
+      "Opplevelsesflyging skal gjennomføres fra en landingsplass og i et operasjonsområde som er omfattet av tillatelsen.",
+      "Opplevelsesflyging skal gjennomføres under visuelle flygeforhold. Organisasjonen skal sikre overvåkning av den enkelte flygningen, og ha et system som sikrer at avvik fra normal operasjon blir varslet.",
+      "Hvis en passasjer sitter i et sete som gir tilgang til styrekontrollene, er det ikke tillatt å ha med flere passasjerer."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-6",
+     "nummer": "§ 23",
+     "tittel": "Endringer",
+     "ledd": [
+      "Den operative organisasjonen skal søke om godkjenning av alle endringer som berører innholdet i tillatelsen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-7",
+     "nummer": "§ 24",
+     "tittel": "Flygesjef",
+     "ledd": [
+      "Den operative organisasjonen skal ha en flygesjef som er godkjent av Luftfartstilsynet. For å oppnå godkjenning må det dokumenteres at vedkommende har erfaring, ferdigheter og kunnskap som er nødvendig for å oppfylle ansvaret som ligger til funksjonen.",
+      "Flygesjefen skal autorisere hver flyging med betalende passasjerer, med mindre flygeren har oppnådd et erfaringsnivå bestemt av organisasjonen og fått tildelt rett til selvautorisering av flygingen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-8",
+     "nummer": "§ 25",
+     "tittel": "Informasjon til passasjerene og kontaktinformasjon",
+     "ledd": [
+      "Den operative organisasjonen skal i forkant av hver flyging innhente navn og kontaktinformasjon til passasjerene, og opplysninger om deres nærmeste pårørende.",
+      "Informasjonen skal være tilgjengelig på bakken."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Overtredelsesgebyr og dispensasjon",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 26",
+     "tittel": "Overtredelsesgebyr",
+     "ledd": [
+      "Luftfartstilsynet kan ilegge overtredelsesgebyr etter luftfartsloven § 13a-5 for brudd på bestemmelsene i forskriftens kapittel 2, 3 og 4."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 27",
+     "tittel": "Dispensasjon",
+     "ledd": [
+      "Luftfartstilsynet kan dispensere fra § 2, § 12, § 16, § 17 og § 24. Dispensasjon kan gis når det foreligger spesielle behov som er begrenset i tid og omfang, samt at risikovurderingen og de foreslåtte kompenserende tiltak anses egnet til å ivareta sikkerheten."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Overgangsregel og ikrafttredelse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 28",
+     "tittel": "Overgangsregel",
+     "ledd": [
+      "En operativ organisasjon som har ansvaret for luftfartøy som nevnt i § 12 og som ble registrert i Norges luftfartøyregister før 1. januar 2021, må sende erklæring, jf. § 13, innen 1. januar 2023."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 29",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Forskriften trer i kraft 1. juli 2021.",
+      "Fra samme tidspunkt oppheves driftsforskrifter 30. august 2016 nr. 1024 for ikke-ervervsmessig flyging med fly (privatflyging) og forskrift 30. august 2016 nr. 1025 om ikke-ervervsmessig luftfart med helikopter."
+     ]
+    }
+   ]
+  }
+ ]
+}

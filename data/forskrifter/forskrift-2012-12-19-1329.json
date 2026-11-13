@@ -1,0 +1,733 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2012-12-19-1329",
+ "dokumentid": "SF/forskrift/2012-12-19-1329",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "etat": [
+  "Avdeling for maritim politikk og kystutvikling"
+ ],
+ "kunngjort_i": "I 2012 hefte 15",
+ "ikraft": "2013-01-01",
+ "siste_endring_ikraft": "2015-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2014-12-19-1813",
+   "tekst": "forskrift/2014-12-19-1813 fra 2015-01-01"
+  }
+ ],
+ "endrer": "forskrift/1993-01-15-82",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2009-04-17-19/§20",
+   "tekst": "lov/2009-04-17-19/§20"
+  },
+  {
+   "ref": "lov/2009-04-17-19/§21",
+   "tekst": "lov/2009-04-17-19/§21"
+  },
+  {
+   "ref": "lov/2009-04-17-19/§52",
+   "tekst": "lov/2009-04-17-19/§52"
+  },
+  {
+   "ref": "lov/2019-06-21-70/§53",
+   "tekst": "lov/2019-06-21-70/§53"
+  }
+ ],
+ "kunngjort": "2012-12-21 15:10",
+ "siste_rettelse": "2021-03-22 (endring tilbakeført)",
+ "korttittel": "Forskrift om farvannsskilt m.m.",
+ "tittel": "Forskrift om farvannsskilt og navigasjonsinnretninger",
+ "annet": "Hjemmel: Fastsatt av Fiskeri- og kystdepartementet 19. desember 2012 med hjemmel i lov 17. april 2009 nr. 19 om havner og farvann (havne- og farvannsloven) § 20 og § 52.\nEndret ved forskrift 19 des 2014 nr. 1813.\nRettelser: 25.02.2013 (forbudsskilt ankring, nummerering av vedlegg), 22.03.2021 (endring tilbakeført).",
+ "refid": "forskrift/2012-12-19-1329",
+ "eli": "/eli/forskrift/2012/12/19/1329",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2012-12-19-1329",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "(saklig virkeområde)",
+   "ledd": [
+    "Forskriften gjelder tekniske krav til og bruk, utforming og lokalisering av farvannsskilt og navigasjonsinnretninger som skal regulere ferdselen eller gi navigasjonsveiledning."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "(definisjoner)",
+   "ledd": [
+    "I denne forskriften betyr:\na. farvannsskilt: tavler med symboler eller tekst om opplysninger eller bestemmelser om regulering av ferdselen\nb. navigasjonsinnretninger: innretning eller anlegg til veiledning for navigasjon, herunder fyrlys, sjømerker (varder, båker, staker, mv.), lykter, radarsvarere og AIS navigasjonsinnretning\nc. IALA: International Association of Marine Aids to Navigation and Lighthouse Authorities\nd. IALA-spesialmerke: gult merke i henhold til IALA Maritime Buoyage System and other Aids to Navigation."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "(register over farvannsskilt og navigasjonsinnretninger)",
+   "ledd": [
+    "Kystverket skal føre register over alle farvannsskilt og navigasjonsinnretninger.",
+    "Den som etablerer, flytter, fjerner eller endrer et farvannsskilt eller en navigasjonsinnretning, skal gi melding til Kystverket umiddelbart etter at arbeidet er utført."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "(søknad om etablering, fjerning, flytting eller endring av farvannsskilt eller navigasjonsinnretninger)",
+   "ledd": [
+    "Søknad om etablering, fjerning, flytting eller endring av farvannsskilt og navigasjonsinnretninger skal sendes til Kystverket.",
+    "Søknaden skal inneholde:\na. hvilket farvannsskilt eller navigasjonsinnretning søknaden gjelder\nb. stedsangivelse av farvannsskiltet eller navigasjonsinnretningen ved hjelp av kartutsnitt og geografiske koordinater (WGS 84 datum)\nc. en vurdering av hvilken betydning etablering, nedlegging eller flytting av vedkommende farvannsskilt eller navigasjonsinnretning vil ha for sjøverts ferdsel og andre opplysninger som er nødvendige for behandling av søknaden\nd. hvem som er eier og ev. andre som måtte ha ansvar for vedkommende farvannsskilt eller navigasjonsinnretning."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "(utforming og tekniske spesifikasjoner for farvannsskilt og navigasjonsinnretninger)",
+   "ledd": [
+    "For tekniske krav til og utforming av farvannsskilt gjelder bestemmelsene i vedlegg 1.",
+    "For merking av akvakulturanlegg i sjø gjelder bestemmelsene i vedlegg 2.",
+    "Nærmere retningslinjer for tekniske krav til og bruk, utforming og lokalisering av navigasjonsinnretninger fastsettes av Kystverkets hovedkontor.",
+    "Ved etablering av farvannsskilt og navigasjonsinnretning skal det tas hensyn til estetikk og miljø"
+   ],
+   "endringer": [
+    "Endret ved forskrift 19 des 2014 nr. 1813 (i kraft 1 jan 2015)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "(vedlikeholdsplikt)",
+   "ledd": [
+    "Den som eier eller er ansvarlig for farvannsskilt eller navigasjonsinnretninger, plikter å vedlikeholde disse slik at de til enhver tid er i forsvarlig stand."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 7",
+   "tittel": "(plikt til å utbedre eller melde om feil)",
+   "ledd": [
+    "Dersom et farvannsskilt eller en navigasjonsinnretning bringes ut av posisjon eller på annen måte ikke fungerer etter sin hensikt, plikter eieren eller den ansvarlige uten ugrunnet opphold å utbedre forholdet.",
+    "Dersom forhold som nevnt i første ledd ikke lar seg utbedre, skal dette straks meldes til Kystverket ved nasjonal koordinator for navigasjonsvarsler (NAVCO)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-8",
+   "nummer": "§ 8",
+   "tittel": "(tilsyn)",
+   "ledd": [
+    "Kystverket fører tilsyn med at bestemmelsene i forskriften blir overholdt."
+   ],
+   "endringer": [
+    "Endret ved forskrift 19 des 2014 nr. 1813 (i kraft 1 jan 2015, tidligere § 9)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-9",
+   "nummer": "§ 9",
+   "tittel": "(unntak)",
+   "ledd": [
+    "Kystverket kan i særlige tilfeller gjøre unntak fra denne forskriften."
+   ],
+   "endringer": [
+    "Endret ved forskrift 19 des 2014 nr. 1813 (i kraft 1 jan 2015, tidligere § 10)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-10",
+   "nummer": "§ 10",
+   "tittel": "(ikrafttredelse, overgangsbestemmelse)",
+   "ledd": [
+    "Forskriften trer i kraft 1. januar 2013.",
+    "Fra samme tidspunkt oppheves forskrift 15. januar 1993 nr. 82 om lokalisering, utforming og tekniske krav til fyrlys, sjømerker og farvannsskilt som skal regulere ferdselen.",
+    "Eksisterende godkjente farvannsskilt som ikke tilfredsstiller kravene etter denne forskriften, kan benyttes til og med 31. desember 2022. For akvakulturanlegg skal eksisterende og godkjente tillatelser til merking være i overensstemmelse med denne forskriften før 1. januar 2014. Kystverket kan gi pålegg om at utskiftning skal finne sted tidligere."
+   ],
+   "endringer": [
+    "Endret ved forskrift 19 des 2014 nr. 1813 (i kraft 1 jan 2015, tidligere § 11)."
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "vedlegg1",
+   "overskrift": "Vedlegg 1 – Farvannsskilt",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Vedlegg 1 endret ved forskrift 19 des 2014 nr. 1813 (i kraft 1 jan 2015)."
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-1-kapittel-1",
+     "navn": "kap1",
+     "overskrift": "1. Innledning",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Farvannsskilt skal utformes med standardiserte skiltelementer (symboler, tekst og border) og skal ha form og størrelse som følger av vedlegget. Andre skiltelementer, form eller størrelser skal ikke brukes uten tillatelse fra Kystverket."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-1-kapittel-2",
+     "navn": "kap2",
+     "overskrift": "2. Varsel-, forbuds- og opplysningsskilt",
+     "innhold": [
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-2-kapittel-1",
+       "navn": "kap2.1",
+       "overskrift": "2.1 Størrelse og utføring",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Varsel, forbuds og opplysningsskilt skal normalt utføres i fire ulike størrelser, liten størrelse 0 (LS 0), liten størrelse 1 (LS 1), middels størrelse (MS) og stor størrelse (SS).\nValg av skiltstørrelse skal gjøres ut fra vurderinger av farvannets beskaffenhet, bruk av farvannet mv., og slik at de er synlige på en avstand hvor sjøfarende kan tilpasse sin ferdsel etter forholdene i rett tid.\nTabell 1. Skiltstørrelse og leseavstand (veiledende)\n| Størrelse | Leseavstand\n| LS 0 | Kanaler og trange farvann\n| LS 1 | Opp til 200 meter\n| MS | Fra 200 til 500 meter\n| SS | Over 500 meter\nGrafisk utforming av skilt, herunder også tall og bokstaver, skal være i samsvar med det som fremgår under pkt. 5.8 (jf. datafiler for produksjon av skilt som utgis av Kystverket)."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-2-kapittel-2",
+       "navn": "kap2.2",
+       "overskrift": "2.2 Form",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Varsel, forbuds- og opplysningsskilt skal ha kvadratisk form.\nFigur 1. Skilt med kvadratisk form\nTabell 2. Mål for skilt med kvadratisk form\n| Størrelse | Sidelengde A (mm) | Bordbredde b (mm) | Hjørneradius r (mm)\n| LS 0 | 600 | 60 | b x 3/10\n| LS 1 | 1000 | 100 |\n| MS | 1500 | 150 |\n| SS | 2000 | 200 |\nForbudsskiltet «Fartsgrense opphører» og opplysningsskilt skal utføres uten bord."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-2-kapittel-3",
+       "navn": "kap2.3",
+       "overskrift": "2.3 Underskilt",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Underskilt til varsel-, forbuds- og opplysningsskilt gir utfyllende opplysninger til det skiltet det tilhører.\nUnderskilt skal ha samme bredde som det skiltet det tilhører.\nMellom hovedskilt og underskilt skal det være et felt på halve bordbredden av hovedskiltet med retrorefleks med lik bunnfarge som skiltene.\nHøyden på et underskilt med en linje tekst skal være 3/10 av bredden på skiltet det tilhører. Tekst skal utgjøre 1/4 og bord 3/20 av høyden på underskiltet.\nFor underskilt med flere linjer tekst gjelder at teksthøyde og bord skal utformes som for skilt med en linje. Høyden på slike underskilt vil følge av antall tekstlinjer og avstanden mellom disse. Avstanden mellom to tekstlinjer skal være 7/10 av teksthøyden.\nUnderskilt til opplysningsskilt skal utføres uten bord."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-1-kapittel-3",
+     "navn": "kap3",
+     "overskrift": "3. Markeringsskilt",
+     "innhold": [
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-3-kapittel-1",
+       "navn": "kap3.1",
+       "overskrift": "3.1 Trekant form",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Markeringsskilt med trekant form skal ha to like lange sider og høyde like lang som grunnlinjen.\nFigur 2. Skilt med trekantet form\nTabell 3. Mål for skilt med trekant form\n| Størrelse | Grunnlinje / høyde A (mm) | Hjørneradius r (mm)\n| LS 0 | 600 | A x 3/100\n| LS 1 | 1000 |\n| MS | 1500 |\n| SS | 2000 |"
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-3-kapittel-2",
+       "navn": "kap3.2",
+       "overskrift": "3.2 Sirkel form",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Markeringsskilt med sirkel form skal ha mål som i tabellen under.\nFigur 3. Skilt med sirkel form\nTabell 4. Mål for skilt med sirkel form\n| Størrelse | Diameter D (mm)\n| LS 0 | 600\n| LS 1 | 1000\n| MS | 1500\n| SS | 2000"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-1-kapittel-4",
+     "navn": "kap4",
+     "overskrift": "4. Utførelse av farvannsskilt",
+     "innhold": [
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-4-kapittel-1",
+       "navn": "kap4.1",
+       "overskrift": "4.1 Overflatemateriale og farger",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Farvannsskilt skal utføres med overflate av retroreflekterende skiltfolie. Skiltfolier er for praktiske formål inndelt i tre klasser, hvor klasse 3 har best reflekterende egenskaper.\nValg av skiltfolie vil avhenge av skilttype, krav til lesbarhet under forskjellige lysforhold, plassering i farvann eller terreng osv.\nKystverket kan sette vilkår om bruk av en bestemt klasse skiltfolie.\nRetrorefleksjonskoeffisient, luminansfaktorer og fargekoordinater for skiltfolier skal møte krav som fremgår av Håndbok R310 Trafikksikkerhetsutstyr Tekniske krav – Del 1 Trafikkskilt (Vegdirektoratet).\nVarselskilt og forbudsskilt skal ha hvit bunn, rød kant og svart tekst. Istedenfor hvit bunn kan det nyttes fluorescerende gul bunn når et skilt brukes i forbindelse med arbeid i sjø.\nOpplysningsskilt skal ha blå bunn med hvit tekst.\nUnderskilt skal ha samme fargesammensetning som hovedskiltet.\nMarkeringsskilt skal være enten grønne, røde eller med røde og hvite vertikale striper."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-4-kapittel-2",
+       "navn": "kap4.2",
+       "overskrift": "4.2 Belysning av farvannsskilt",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Farvannsskilt kan belyses, slik at de blir synlige i mørke uten bruk av lyskaster.\nKystverket kan sette krav om belysning av skilt.\nEt skilt som når det er belyst vil kunne oppfattes å gi navigasjonsveiledning som kan misforstås i mørke, skal ikke være belyst.\nLuminansnivå på indirekte belyst farvannsskilt skal være 10 cd/m2.\nLuminansnivå på farvannsskilt vist med direkte belysning skal være 5–10 cd/m2."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-4-kapittel-3",
+       "navn": "kap4.3",
+       "overskrift": "4.3 Skrifttype",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Trafikkalfabetet skal brukes som skrifttype på farvannsskilt.\nTrafikkalfabetet er en egen skrifttype for tekst på trafikkskilt (jf. Håndbok N300 Trafikkskilt Del 1 Fellesbestemmelser – Vedlegg 2 Trafikkalfabetet (Vegdirektoratet))."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-4-kapittel-4",
+       "navn": "kap4.4",
+       "overskrift": "4.4 Styrke",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Bære- og støttekonstruksjon til skilt skal tilfredsstille krav til oppsettingsutstyr etter Håndbok R310 Trafikksikkerhetsutstyr Tekniske krav – Del 5 Oppsettingsutstyr (Vegdirektoratet), så langt disse er anvendelige."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-4-kapittel-5",
+       "navn": "kap4.5",
+       "overskrift": "4.5 Annet",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Dersom det blir funnet formålstjenelig kan Kystverket gi tillatelse til å bruke skilttyper som ikke er beskrevet foran, som blant annet billedpunktskilt."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-1-kapittel-5",
+     "navn": "kap5",
+     "overskrift": "5. Type farvannsskilt",
+     "innhold": [
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-5-kapittel-1",
+       "navn": "kap5.1",
+       "overskrift": "5.1 Varselskilt",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Varselskilt skal anvendes for å varsle om forhold som kan medføre fare for sjøtrafikken."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-5-kapittel-2",
+       "navn": "kap5.2",
+       "overskrift": "5.2 Forbudsskilt",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Forbudsskilt angir at det gjelder et forbud mot for eksempel aktiviteter som dykking, handlinger som å ankre eller mot å ha fart over en fartsgrense som angitt.\nEt forbud gjelder fra det sted hvor skiltet er satt opp, så fremt ikke annet fremgår av underskilt."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-5-kapittel-3",
+       "navn": "kap5.3",
+       "overskrift": "5.3 Opplysningsskilt",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Opplysningsskilt angir hvor en aktivitet kan utføres, herunder som følge av unntak fra et forbud, eller andre forhold den som ferdes i farvannet bør være kjent med."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-5-kapittel-4",
+       "navn": "kap5.4",
+       "overskrift": "5.4 Underskilt",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Underskilt gir nærmere klargjøring, utviding eller begrensning av hovedskiltets betydning eller gyldighetsområde, og er kun gyldige når de brukes sammen med et hovedskilt.\nEt underskilt skal være vendt samme vei som det skiltet det tilhører, og plasseres under hovedskiltet."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-5-kapittel-5",
+       "navn": "kap5.5",
+       "overskrift": "5.5 Skiltkombinasjoner",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "I noen tilfeller kan det være praktisk, ønskelig eller nødvendig å samle flere skilt på samme skiltoppsett. Informasjonsmengden bør imidlertid ikke bli for stor, og ulike skiltkombinasjoner bør heller ikke være slik at misforståelser kan oppstå.\nSkiltkombinasjoner kan maksimalt omfatte:\n- to hovedskilt på samme skiltoppsett, og\n- ett underskilt per hovedskilt i kombinasjonen.\nTo hovedskilt kan settes sammen enten vertikalt eller horisontalt.\nMellom to hovedskilt skal det være et felt på halve bordbredden av et hovedskilt."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-5-kapittel-6",
+       "navn": "kap5.6",
+       "overskrift": "5.6 Tilleggsinformasjon",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Dersom varsel om fare, påbud eller opplysning gjelder en viss strekning, på en viss tid av døgnet, for en viss type farkost, eller med unntak for en viss type farkost, skal dette angis på underskilt.\nDersom varsel om fare, forbud, påbud eller opplysning kun gjelder for en del av året skal dette angis på underskilt, dersom skiltet ikke tas bort eller dekkes over den tiden det ikke gjelder."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-5-kapittel-7",
+       "navn": "kap5.7",
+       "overskrift": "5.7 Markeringsskilt",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Markeringsskilt gir opplysninger om en farleds videre forløp, eller om hindringer i eller nær en farled."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-5-kapittel-8",
+       "navn": "kap5.8",
+       "overskrift": "5.8 Farvannsskiltene",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Farvannsskiltene skal ha utforming som det fremgår under."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-5-kapittel-9",
+       "navn": "kap5.9",
+       "overskrift": "5.9 Varselskilt",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "| Kabelferge\nAnvendelse:\nAngir kabelstyrt eller kabeldrevet ferge. |\n| Livsfarlig ledning\nAnvendelse:\nAngir strømførende ledning med livsfarlig spenning. |\n| Vertikal klaring og sikker vertikal klaring\nAnvendelse:\nAngir vertikal klaring under bru eller lignende og sikker vertikal klaring under luftlinje med elektrisk energi eller elektronisk kommunikasjon.\nVed lave bruer kan skiltet «Annen fare» med underskilt «Lav bru» anvendes. |\n| Horisontal klaring\nAnvendelse:\nAngir horisontal klaring i en farledsinnsnevring, utdypet renne eller lignende. |\n| Bevegelig bru\nAnvendelse:\nAngir alle typer bevegelig bru, for eksempel klaffebru og svingbru. |\n| Annen fare\nAnvendelse:\nAngir en fare som det ikke finnes eget skilt for. Farens art skal angis på underskilt. |"
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-5-kapittel-10",
+       "navn": "kap5.10",
+       "overskrift": "5.10 Forbudsskilt",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "| Dykking forbudt\nAnvendelse:\nAngir at dykking er forbudt. Forbud kan være gitt ved ordensforskrift eller lignende. |\n| Ankring forbudt\nAnvendelse:\nAngir at ankring er forbudt. |\n| Sjøtrafikk forbudt\nAnvendelse:\nAngir at sjøtrafikk er forbudt innenfor et sjøområde. |\n| Fartsgrense\nAnvendelse:\nAngir høyeste tillatte fart (for eksempel 5 knop). |\n| Fartsgrense opphører\nAnvendelse:\nAngir at fartsgrense opphører. |"
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-5-kapittel-11",
+       "navn": "kap5.11",
+       "overskrift": "5.11 Opplysningsskilt",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "| Sakte fart\nAnvendelse:\nAngir at fartøyer skal utvise forsiktighet og avpasse farten. |\n| Anropskanal VHF\nAnvendelse:\nAngir anropskanal som skal brukes for å kontakte havn eller lignende. |"
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-5-kapittel-12",
+       "navn": "kap5.12",
+       "overskrift": "5.12 Underskilt",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "| Strekningens lengde fra skiltet i meter\nAnvendelse:\nAngir strekning fra hovedskiltet i meter (m). |\n| Strekningens lengde fra skiltet i nautiske mil\nAnvendelse:\nAngir strekning fra skiltet i nautiske mil (M). |\n| Strekningens lengde bortenfor skiltet i meter\nAnvendelse:\nAngir en strekning som begynner bortenfor hovedskiltet i meter (m). |\n| Strekningens lengde bortenfor skiltet i nautiske mil\nAnvendelse:\nAngir en strekning som begynner bortenfor hovedskiltet i nautiske mil (M). |\n| Tid\nAnvendelse:\nAngir tiden for når hovedskiltet gjelder. |\n| Dato\nAnvendelse:\nAngir dato for når hovedskiltet gjelder. |\n| Fartøy større enn ... BT\nAnvendelse:\nAngir størrelsen i bruttotonn (BT) på fartøy hovedskiltet gjelder for. |\n| Kabel, rørledning, vannledning, avløpsledning\nAnvendelse:\nAngir at hovedskiltet gjelder kabel, rørledning eller lignende sjøledning. |\n| Lav bru\nAnvendelse:\nAngir at hovedskiltet gjelder lav bru. |\n| Virkeområde\nAnvendelse:\nAngir hovedskiltets virkeområde en eller begge sider i meter (m). |"
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-1-kapittel-5-kapittel-13",
+       "navn": "kap5.13",
+       "overskrift": "5.13 Markeringsskilt",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "| Sidemarkering styrbord\nAnvendelse:\nAngir sidemarkering til styrbord i forhold til merkesystemets hovedretning for begrenset høyde under bru. |\n| Sidemarkering babord\nAnvendelse:\nAngir sidemarkering til babord i forhold til merkesystemets hovedretning for begrenset høyde under bru. |\n| Beste punkt for passering\nAnvendelse:\nAngir beste punkt for passering under bru. |\n| Overett\nAnvendelse:\nViser traseen på sjøbunnen for kabel, rørledning eller lignende sjøledning.\nMerknad:\nSom overettmerker bør likesidede trekanter anvendes.\nTrekantene skal ha rød bunnfarge og en vertikal gul stripe på midten.\nTrekanten nærmest sjøen monteres med spissen opp og trekanten lengst fra sjøen over dette og med spissen ned. |"
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "vedlegg2",
+   "overskrift": "Vedlegg 2 – Merking av akvakulturanlegg",
+   "innhold": [
+    {
+     "type": "seksjon",
+     "id": "kapittel-2-kapittel-1",
+     "navn": "kap1",
+     "overskrift": "1. Innledning",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "For å ivareta hensynet til en sikker ferdsel til sjøs skal akvakulturanlegg merkes slik at de til enhver tid er godt synlige for sjøfarende.\nVedlegget beskriver hvordan merking av akvakulturanlegg i sjø skal utføres.\nEieren eller den som er ansvarlig for et akvakulturanlegg skal sørge for at det til enhver tid er forskriftsmessig merket, og at merkingen ellers er i samsvar med eventuelle spesielle vilkår som fremgår av tillatelsen til å etablere dette.\nMerking av anlegg for havbeite, dvs. akvakultur av krepsdyr, bløtdyr og pigghuder i form av bunnkultur uten at akvakulturdyrene blir holdt i fangenskap, omfattes ikke av vedlegget. Det vises til at fylkeskommunen kan pålegge og godkjenne merking av anlegg for havbeite, jf. forskrift 28. august 2003 nr. 1110 om tildeling og drift ved havbeiteverksemd § 29."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-2-kapittel-2",
+     "navn": "kap2",
+     "overskrift": "2. Generelt",
+     "innhold": [
+      {
+       "type": "seksjon",
+       "id": "kapittel-2-kapittel-2-kapittel-1",
+       "navn": "kap2.1",
+       "overskrift": "2.1 Søknad og tillatelse",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Etablering av akvakulturanlegg krever tillatelse fra Kystverket etter havne- og farvannsloven § 27 og forskrift 3. desember 2009 nr. 1449 om tiltak som krever tillatelse fra Kystverket.\nMerking av akvakulturanlegg skal skje i samsvar med dette vedlegget til forskrift om farvannsskilt og navigasjonsinnretninger (jf. § 5). Det kreves ikke egen tillatelse for etablering av navigasjonsinnretninger (IALA spesialmerke) med unntak for radarsvarer (racon) og AIS navigasjonsinnretning."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-2-kapittel-2-kapittel-2",
+       "navn": "kap2.2",
+       "overskrift": "2.2 Forskrifter og standarder",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Merking av akvakulturanlegg i sjø etter dette vedlegget må sees i sammenheng med de til enhver tid gjeldende forskrifter og standarder på området, herunder også International Marine Aids to Navigation and Lighthouse Authorities Association (IALA) anbefalinger og veiledninger."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-2-kapittel-2-kapittel-3",
+       "navn": "kap2.3",
+       "overskrift": "2.3 Opphør av drift på lokalitet",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Ved opphør av drift på lokalitet enten ved flytting, nedlegging eller på annen måte skal anlegg eller gjenværende deler av anlegg være merket så lenge de fortsatt kan utgjøre en fare for sjøverts ferdsel."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-2-kapittel-3",
+     "navn": "kap3",
+     "overskrift": "3. Merking",
+     "innhold": [
+      {
+       "type": "seksjon",
+       "id": "kapittel-2-kapittel-3-kapittel-1",
+       "navn": "kap3.1",
+       "overskrift": "3.1 Merking av ytterpunkt",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Ytterpunkt på et akvakulturanlegg skal merkes med IALA spesialmerke med en utforming slik det går frem av pkt. 3.3 under.\nAvstanden mellom ytterpunkt som er merket skal være 200 meter eller mindre.\nSom ytterpunkter regnes de punkter der anleggets forankringer eller fortøyninger er festet, eller et punkt hvor tau, wire, kjetting eller lignende som del av anleggets forankring eller fortøyning har en slik dybde at det ikke er til hinder for sjøtrafikken og ikke kan skade eller skades av denne. Ytterpunkt er hjørnepunkt og punkter mellom hjørnepunktene."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-2-kapittel-3-kapittel-2",
+       "navn": "kap3.2",
+       "overskrift": "3.2 Bøyer til forankring eller fortøyning mv.",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Bøyer til forankring eller fortøyning av et akvakulturanlegg skal ha gul farge som for et IALA spesialmerke.\nBøyer til forankring eller fortøyning av et akvakulturanlegg kan benyttes til samtidig å merke ytterpunkt på anlegget."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-2-kapittel-3-kapittel-3",
+       "navn": "kap3.3",
+       "overskrift": "3.3 IALA-spesialmerke",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "For IALA-spesialmerke som anvendes til formål etter dette vedlegget gjelder krav til utrustning som følger:"
+        },
+        {
+         "type": "seksjon",
+         "id": "kapittel-2-kapittel-3-kapittel-3-kapittel-1",
+         "navn": "kap3.3.1",
+         "overskrift": "3.3.1 Overflatefarge",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "Gul overflatefarge skal være innenfor de verdier som er angitt med hjørnekoordinater i henhold til CIE (International Commission on Illumination) standard kromatiske diagram i tabellen under.\nTabell 5. Fargekoordinater for vanlig overflatefarge i dagslys\n| | 1 | 2 | 3 | 4\n| | x | Y | x | y | x | y | x | y\n| Gul | 0,522 | 0,477 | 0,470 | 0,440 | 0,427 | 0,483 | 0,465 | 0,534\nStandardfargene RAL 1023 TRAFIKKGUL og NCS S 1080-Y GUL møter kravet til gul overflatefarge."
+          }
+         ]
+        },
+        {
+         "type": "seksjon",
+         "id": "kapittel-2-kapittel-3-kapittel-3-kapittel-2",
+         "navn": "kap3.3.2",
+         "overskrift": "3.3.2 Dagslysfluoriserende gul refleks",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "Spesialmerket skal ha panel med dagslysfluoriserende gul skiltfolie.\nRetrorefleksjonskoeffisient, luminansfaktorer og fargekoordinater for dagslysfluoriserende gul skiltfolie skal møte krav som fremgår av Håndbok R310 Trafikksikkerhetsutstyr Tekniske krav – Del 1 Trafikkskilt (Vegdirektoratet)."
+          }
+         ]
+        },
+        {
+         "type": "seksjon",
+         "id": "kapittel-2-kapittel-3-kapittel-3-kapittel-3",
+         "navn": "kap3.3.3",
+         "overskrift": "3.3.3 Lyssignal",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "Spesialmerket skal gi et lyssignal med følgende egenskaper:\n- Farge: Gul\n- Karakter (benevnelse): Oc Y 2s\n- Periode: 2 sekunder med 1,25 sekund lys / 0,75 sekund mørke (arbeidssyklus 62,5 %)\n- Lysvidde: 3 nautiske mil\n- Tilgjengelighet: 99,8 % beregnet over en kontinuerlig periode på 3 år\n- Lyssignal skal være synkronisert.\nVed beregning av lysintensitet for å møte kravet til lysvidde skal IALA anbefalinger følges. Det skal forutsettes at atmosfærisk transmisjonsfaktor, TM = 0,74 (meteorologisk sikt 10 nautiske mil).\nKystverket kan i særlige tilfeller gi unntak fra kravet om lysvidde og kravet om synkronisering. Dette forutsetter en nærmere vurdering med hensyn til sikkerhet og fremkommelighet for sjøfarende, og andre relevante forhold.\nLyssignal skal normalt tennes og slukkes når det omgivende lysnivået er på henholdsvis 50–100 lux og 150–200 lux."
+          }
+         ]
+        },
+        {
+         "type": "seksjon",
+         "id": "kapittel-2-kapittel-3-kapittel-3-kapittel-4",
+         "navn": "kap3.3.4",
+         "overskrift": "3.3.4 Radarreflektor",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "Spesialmerket skal ha en radarreflektor med et radartverrsnitt på minst 7,5m2 i X-båndet og 0,5m2 i S-båndet.\nRadarreflektoren bør monteres så høyt som praktisk mulig på spesialmerket."
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-2-kapittel-3-kapittel-4",
+       "navn": "kap3.4",
+       "overskrift": "3.4 Annen merking",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "I tillegg kan akvakulturanlegget merkes med:"
+        },
+        {
+         "type": "seksjon",
+         "id": "kapittel-2-kapittel-3-kapittel-4-kapittel-1",
+         "navn": "kap3.4.1",
+         "overskrift": "3.4.1 Indirekte lys (flomlys)",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "Et akvakulturanlegg kan være lyssatt for arbeid i mørke eller annet formål, og slik at det samtidig er synlig for sjøfarende.\nIndirekte lys bør gi et midlere luminansnivå på akvakulturanlegget på 2 cd/m2 ved lyse omgivelser og 1 cd/m2 ved mørke omgivelser.\nNår et akvakulturanlegg er indirekte belyst bør dets lokalitetsnummer og navnet på den eller de som innehar tillatelse på lokaliteten belyses særskilt.\nLys på akvakulturanlegg skal ikke være til sjenanse for eller blende sjøfarende."
+          }
+         ]
+        },
+        {
+         "type": "seksjon",
+         "id": "kapittel-2-kapittel-3-kapittel-4-kapittel-2",
+         "navn": "kap3.4.2",
+         "overskrift": "3.4.2 Radarsvarer (racon)",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "Et akvakulturanlegg kan bli utrustet med radarsvarer (racon) for å sikre at dette kan oppdages eller er synlig der hvor lyssignal ikke anses å være tilstrekkelig, og det er hensiktsmessig å bruke radar for identifikasjon.\nRadarsvarer (racon) skal kunne svare marine radarer i 3- og 10-cm frekvensbåndene.\nI 10-cm frekvensbåndet gjelder dette kravet ikke for NT (New Technology) radar.\nEtablering av radarsvarer (racon) krever særskilt tillatelse fra Kystverket."
+          }
+         ]
+        },
+        {
+         "type": "seksjon",
+         "id": "kapittel-2-kapittel-3-kapittel-4-kapittel-3",
+         "navn": "kap3.4.3",
+         "overskrift": "3.4.3 AIS (Automatic Identification System) navigasjonsinnretning",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "Et akvakulturanlegg kan bli utrustet med AIS navigasjonsinnretning for å sikre at dette kan oppdages eller er synlig der hvor lyssignal ikke anses å være tilstrekkelig, og det er hensiktsmessig å bruke AIS for identifikasjon.\nEtablering av AIS navigasjonsinnretning krever særskilt tillatelse fra Kystverket. Det krever også radiolisens samt identitet utstedt av Telenor Maritim Radio."
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-2-kapittel-3-kapittel-5",
+       "navn": "kap3.5",
+       "overskrift": "3.5 Anvisning til utførelse av IALA spesialmerke mv.",
+       "innhold": [
+        {
+         "type": "seksjon",
+         "id": "kapittel-2-kapittel-3-kapittel-5-kapittel-1",
+         "navn": "kap3.5.1",
+         "overskrift": "3.5.1 Montering av utstyr",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "Utstyret bør monteres på en 1,75–2 meter høy mast eller lignende.\nMontasjen bør være i følgende rekkefølge ovenfra og ned:\n- lyssignal\n- radarreflektor\n- reflekspanel."
+          }
+         ]
+        },
+        {
+         "type": "seksjon",
+         "id": "kapittel-2-kapittel-3-kapittel-5-kapittel-2",
+         "navn": "kap3.5.2",
+         "overskrift": "3.5.2 Bære- og støttekonstruksjoner",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "Bære- og støttekonstruksjon bør tilfredsstille krav til oppsettingsutstyr etter Håndbok R310 Trafikksikkerhetsutstyr Tekniske krav – Del 5 Oppsettingsutstyr (Vegdirektoratet), så langt disse er anvendelige.\nEksempler på merking av akvakulturanlegg\nFigur 3. Flytende akvakulturanlegg i sjø – oversikt\nFigur 4. Flytende akvakulturanlegg i sjø – IALA spesialmerke"
+          },
+          {
+           "type": "endring",
+           "tekst": "Endret ved forskrift 19 des 2014 nr. 1813 (i kraft 1 jan 2015)."
+          }
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,82 @@
+{
+ "skjema": "1.0",
+ "type": "lov",
+ "datokode": "LOV-2011-04-15-12",
+ "dokumentid": "NL/lov/2011-04-15-12",
+ "departement": [
+  "Klima- og miljødepartementet"
+ ],
+ "ikraft": "Kongen bestemmer, 2011-04-15, 2012-01-01, 2013-01-01",
+ "endrer": "lov/2004-12-17-99",
+ "rettsomrade": [
+  "Forurensninger, klima og utslipp > Klimakvoter"
+ ],
+ "kunngjort": "2011-04-15 14:30",
+ "korttittel": "Endringslov til klimakvoteloven",
+ "tittel": "Lov om endringer i klimakvoteloven",
+ "refid": "lov/2011-04-15-12",
+ "eli": "/eli/lov/2011/04/15/12",
+ "url": "https://lovdata.no/dokument/NL/lov/2011-04-15-12",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "I lov 17. desember 2004 nr. 99 om kvoteplikt og handel med kvoter for utslipp av klimagasser gjøres følgende endringer:\n– – –\nNy § 21 a skal lyde:"
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-foreslåttparagraf-1",
+     "nummer": null,
+     "tittel": null,
+     "ledd": [
+      "§ 21 a. (driftsforbud for luftfartsaktiviteter)[1]",
+      "Kongen kan på begjæring av forurensningsmyndighetene fatte vedtak om driftsforbud innenfor EØS dersom en luftfartøysoperatør overtrer bestemmelsene om innlevering av kvoter i § 13,[2] om rapportering i § 16[3] eller om overvåkings- og rapporteringsplan fastsatt i forskrift i medhold av loven her.",
+      "Kongen kan i forskrift gi nærmere bestemmelser om vilkårene for å begjære driftsforbud og om krav til saksbehandlingen."
+     ],
+     "fremtidig": true,
+     "fotnoter": [
+      {
+       "nr": "1",
+       "tekst": "Inkurie: Ved endringslov 25 mai 2012 nr. 29 er paragrafnummeret i klimakvoteloven endret fra § 21 a til § 20."
+      },
+      {
+       "nr": "2",
+       "tekst": "Inkurie: Skal vel nå være § 12."
+      },
+      {
+       "nr": "3",
+       "tekst": "Inkurie: Skal vel nå være § 14."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Loven trer i kraft straks med følgende unntak:\nFor luftfartsaktiviteter gjelder § 4 fra 1. januar 2012 og § 13[1] første ledd fra 1. januar 2013.\n§ 21 a[2] gjelder fra den tid Kongen bestemmer."
+    }
+   ]
+  }
+ ],
+ "fotnoter": [
+  {
+   "nr": "1",
+   "tekst": "Inkurie: Ved endringslov 25 mai 2012 nr. 29 er bestemmelsene i § 13 flyttet til § 12 og endret slik at luftfartsaktiviteter ikke lenger er nevnt særskilt. Det er dermed uklart om denne ikrafttredelsesbestemmelsen har noen mening."
+  },
+  {
+   "nr": "2",
+   "tekst": "Inkurie: Ved endringslov 25 mai 2012 nr. 29 er paragrafnummeret i klimakvoteloven endret fra § 21 a til § 20."
+  }
+ ]
+}

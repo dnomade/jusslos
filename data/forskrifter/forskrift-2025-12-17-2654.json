@@ -1,0 +1,208 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2025-12-17-2654",
+ "dokumentid": "SF/forskrift/2025-12-17-2654",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "etat": [
+  "Sjøfartsdirektoratet"
+ ],
+ "ikraft": "2026-01-01",
+ "hjemmel": [
+  {
+   "ref": "lov/2007-02-16-9/§9",
+   "tekst": "lov/2007-02-16-9/§9"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§11",
+   "tekst": "lov/2007-02-16-9/§11"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§16",
+   "tekst": "lov/2007-02-16-9/§16"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§43",
+   "tekst": "lov/2007-02-16-9/§43"
+  },
+  {
+   "ref": "forskrift/2007-02-16-171",
+   "tekst": "forskrift/2007-02-16-171"
+  },
+  {
+   "ref": "forskrift/2007-05-31-590",
+   "tekst": "forskrift/2007-05-31-590"
+  },
+  {
+   "ref": "lov/1998-06-26-47/§23",
+   "tekst": "lov/1998-06-26-47/§23"
+  },
+  {
+   "ref": "lov/1998-06-26-47/§26",
+   "tekst": "lov/1998-06-26-47/§26"
+  },
+  {
+   "ref": "lov/1998-06-26-47/§26b",
+   "tekst": "lov/1998-06-26-47/§26b"
+  },
+  {
+   "ref": "forskrift/1998-11-27-1095",
+   "tekst": "forskrift/1998-11-27-1095"
+  },
+  {
+   "ref": "forskrift/1998-12-01-4532",
+   "tekst": "forskrift/1998-12-01-4532"
+  },
+  {
+   "ref": "forskrift/2007-05-31-591",
+   "tekst": "forskrift/2007-05-31-591"
+  }
+ ],
+ "kunngjort": "2025-12-18 13:50",
+ "tittel": "Forskrift om tillatelse til å opprette og drive radioutstyr om bord i norske skip og flyttbare innretninger",
+ "annet": "Hjemmel: Fastsatt av Sjøfartsdirektoratet 17. desember 2025 med hjemmel i lov 16. februar 2007 nr. 9 om skipssikkerhet (skipssikkerhetsloven) §§ 9, 11, 16 og 43, jf. delegeringsvedtak 16. februar 2007 nr. 171 og delegeringsvedtak 31. mai 2007 nr. 590, lov 26. juni 1998 nr. 47 om fritids- og småbåter (småbåtloven) §§ 23, 26 og 26b, jf. delegeringsvedtak 27. november 1998 nr. 1095, delegeringsvedtak 1. desember 1998 nr. 4532 og delegeringsvedtak 31. mai 2007 nr. 591.",
+ "refid": "forskrift/2025-12-17-2654",
+ "eli": "/eli/forskrift/2025/12/17/2654",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2025-12-17-2654",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Virkeområde",
+   "ledd": [
+    "Forskriften gjelder for radiooperatør og radioutstyr på norske skip, herunder fritidsfartøy og for flyttbare innretninger."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Lisens",
+   "ledd": [
+    "Ingen radiostasjon må opprettes eller drives av privatperson eller virksomhet uten lisens.",
+    "Sjøfartsdirektoratet utsteder og fører oversikt over lisenser til skip og flyttbare innretninger med kjenningssignal. Navn på skip eller flyttbar innretning og endring av eier eller driftsselskap skal meldes til Sjøfartsdirektoratet.",
+    "Lisens gir rett til drift av radioutstyr til bruk i den maritime mobile tjeneste. Dokumentasjon på lisens skal være tilgjengelig om bord i original form.",
+    "Dersom radioutstyr varig fjernes eller skipet eller den flyttbare innretningen avhendes til fremmed stat, skal innehaver av lisensen sørge for at identiteten blir slettet fra utstyret og straks informere Sjøfartsdirektoratet."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Navn",
+   "ledd": [
+    "For å få tildelt lisens, må skipet eller den flyttbare innretningen ha et navn som bestemmes av eieren.",
+    "Navn som vil være til ulempe for radiokommunikasjon, vil ikke bli godkjent."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Sertifikat",
+   "ledd": [
+    "Radiooperatør skal ha relevant kompetansesertifikat for radiooperatør utstedt av Sjøfartsdirektoratet eller den det bemyndiger.",
+    "Radiooperatør på fritidsfartøy skal som minimum ha Short Range Certificate (SRC) som viser at vedkommende har de kunnskaper og ferdigheter som radioreglementet krever.",
+    "For andre radiooperatører som omfattes av virkeområdet til forskriften, gjelder kravene i forskrift 22. desember 2011 nr. 1523 om kvalifikasjoner og sertifikater for sjøfolk.",
+    "Andre kan betjene radioutstyret, forutsatt at de er under kontroll av radiooperatør."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Bruk av radioutstyr",
+   "ledd": [
+    "Radiosendinger skal alltid kunne identifiseres gjennom skipets eller den flyttbare innretningens navn, kallesignal eller MMSI-nummer, og være i samsvar med identiteten som følger av lisensen.",
+    "Radiostasjonen har plikt til å ta imot alle nødkallinger og straks sette i verk nødvendige tiltak.",
+    "Det er forbudt å sende eller spre falsk eller misvisende nødkommunikasjon.",
+    "Lisensinnehaver skal sørge for at uvedkommende ikke får adgang til å bruke radiostasjonen eller kjennskap til radiokorrespondansen.",
+    "Et skip eller en flyttbar innretning som er i nød kan imidlertid bruke ethvert middel tilgjengelig til å vekke oppmerksomhet, oppgi sin posisjon og få hjelp."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "Diskresjon ved radiokorrespondanse",
+   "ledd": [
+    "Det er forbudt å avlytte og ta opp radiokorrespondanse som ikke er rettet til egen radiostasjon eller til allmennheten.",
+    "Dersom noen likevel skulle høre slik korrespondanse, må innholdet ikke gjengis, publiseres eller brukes på noen som helst måte."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 7",
+   "tittel": "Installasjon og utstyr",
+   "ledd": [
+    "Installasjon av komponenter som inngår i radioutstyret skal utføres i samsvar med kravene som gjelder for de ulike kategorier skip eller flyttbare innretninger.",
+    "Lisensinnehaver skal holde radioutstyret i god driftsmessig stand.",
+    "Endringer som gjelder radioutstyret skal meldes til Sjøfartsdirektoratet."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-8",
+   "nummer": "§ 8",
+   "tittel": "Dokumentasjon",
+   "ledd": [
+    "Dokumenter og publikasjoner som regelverket krever skal være tilgjengelig hos radiostasjonen."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-9",
+   "nummer": "§ 9",
+   "tittel": "Tilsyn",
+   "ledd": [
+    "Sjøfartsdirektoratet har rett til å kontrollere at radioutstyret tilfredsstiller lisensvilkårene.",
+    "Sjøfartsdirektoratet kan bemyndige andre til å foreta kontrollen.",
+    "Sjøfartsdirektoratet kan kreve at den som har ansvar for radiotjenesten om bord, er til stede under kontroll.",
+    "Lisensinnehaver skal forsikre seg om at montert utstyr er korrekt installert og programmert.",
+    "Lisensinnehaver skal følge pålegg som blir gitt, og sørge for at påviste feil og mangler blir rettet innenfor fastsatt tidsfrist."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-10",
+   "nummer": "§ 10",
+   "tittel": "Begrensning i bruk av radioutstyr og lisens",
+   "ledd": [
+    "Når hensynet til statens sikkerhet, beredskap eller andre allmenne hensyn krever det, kan bruk av radioutstyret innskrenkes eller nektes.",
+    "Lisensen kan endres, også til skade for innehaver, dersom endring er en nødvendig følge av Norges folkerettslige forpliktelser. Det samme gjelder dersom endringen er en nødvendig følge av internasjonalt harmoniseringssamarbeid som norske myndigheter slutter seg til, endret nasjonal lovgivning eller det er nødvendig som følge av andre viktige samfunnshensyn.",
+    "Endringer som nevnt i første eller andre ledd gir ikke innehaver eller andre rett til erstatning fra staten."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-11",
+   "nummer": "§ 11",
+   "tittel": "Dispensasjon",
+   "ledd": [
+    "Sjøfartsdirektoratet kan gi dispensasjon fra kravene i forskriften dersom ett av følgende krav er oppfylt:\na. Det godtgjøres at kravet ikke er vesentlig og at unntaket anses sikkerhetsmessig forsvarlig.\nb. Det godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-12",
+   "nummer": "§ 12",
+   "tittel": "Tilbaketrekking",
+   "ledd": [
+    "Lisensen kan trekkes tilbake ved alvorlige eller gjentatte brudd på forskriftens krav."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-13",
+   "nummer": "§ 13",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Forskriften trer i kraft 1. januar 2026."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,133 @@
+{
+ "skjema": "1.0",
+ "type": "lov",
+ "datokode": "LOV-1687-04-15",
+ "dokumentid": "NL/lov/1687-04-15",
+ "departement": [
+  "Justis- og beredskapsdepartementet"
+ ],
+ "siste_endring_ikraft": "2023-07-01",
+ "sist_endret_ved": [
+  {
+   "ref": "lov/2023-06-16-40",
+   "tekst": "lov/2023-06-16-40 fra 2023-07-01"
+  }
+ ],
+ "rettsomrade": [
+  "Anskaffelser, avtaler, bygg og entrepriser > Avtaler"
+ ],
+ "siste_rettelse": "2021-07-01 (faglige noter fjernet, struktur)",
+ "korttittel": "Norske Lov – NL",
+ "tittel": "Kong Christian Den Femtis Norske Lov",
+ "annet": "Ved forordning 14 apr 1688 ble loven satt i kraft fra Mikkelsdag (29 sep) 1688. Her er bare tatt med de bestemmelser som antas å være gjeldende fremdeles. Om opphevelse av forskjellige bestemmelser og om endel bestemmelser som antas bortfalt, henvises til eldre utgaver av Norges Lover.",
+ "refid": "lov/1687-04-15",
+ "eli": "/eli/lov/1687/04/15/0",
+ "url": "https://lovdata.no/dokument/NL/lov/1687-04-15",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "b1",
+   "overskrift": "Første Bog. Om Retten og Rettens Personer.",
+   "innhold": [
+    {
+     "type": "seksjon",
+     "id": "kapittel-1-kapittel-1",
+     "navn": "b1/k21",
+     "overskrift": "21 Cap. Om Borgen og Forløfter.",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-1-paragraf-1",
+       "nummer": "15 Art",
+       "tittel": null,
+       "ledd": [
+        "Forlover haver Magt til at søge Hovedmanden, som hand er Forlover for, for Gielden, naar hand til hannem lovligen sit Forløfte opsagt haver, og hand ikke betaler Creditoren; Dog kand hand ikke være fri for sit Forløfte til Creditoren, før end hand hannem fornøjet haver og sit Forløftnings Brev, indfriet."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "b2",
+   "overskrift": "Anden Bog. Om Religionen og Geistligheden.",
+   "innhold": [
+    {
+     "type": "seksjon",
+     "id": "kapittel-2-kapittel-1",
+     "navn": "b2/k1",
+     "overskrift": "1 Cap. Om Religionen.",
+     "innhold": [
+      {
+       "type": "endring",
+       "tekst": "Ved lov 16 juli 1845 ble NL 2-1 delvis opphevet, nemlig for så vidt angikk det i bestemmelsen «liggende Forbud mod fri Religionsøvelse for afvigende christelige Religioner».\nOpphevet ved lov 16 juni 2023 nr. 40 (i kraft 1 juli 2023 iflg. res. 16 juni 2023 nr. 898)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "b5",
+   "overskrift": "Femte Bog. Om Adkomst, Gods og Gield.",
+   "innhold": [
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-1",
+     "navn": "b5/k1",
+     "overskrift": "1 Cap. Om Contracter og Forpligter.",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-1",
+       "nummer": "1 Art",
+       "tittel": null,
+       "ledd": [
+        "En hver er pligtig at efterkomme hvis hand med Mund, Haand og Segl lovet og indgaaet haver."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-2",
+       "nummer": "2 Art",
+       "tittel": null,
+       "ledd": [
+        "Alle Contracter som frivilligen giøris af dennem, der ere Myndige, og komne til deris Lavalder, være sig Kiøb, Sal, Gave, Mageskifte, Pant, Laan, Leje, Forpligter, Forløfter og andet ved hvad Navn det nævnis kand, som ikke er imod Loven, eller Ærbarhed, skulle holdis i alle deris Ord og Puncter, saasom de indgangne ere."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-2",
+     "navn": "b5/k8",
+     "overskrift": "8 Cap. Om Laan, Leje og betroet Gods.",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-2-paragraf-1",
+       "nummer": "1 Art",
+       "tittel": null,
+       "ledd": [
+        "Laan maa ej fortabis men skal lydisløst hiemkomme og lige saa egot, som mand det annammede, være sig Fæ, Klæde, Vaaben, eller andet Gods. End forkommer det, saa at det ikke kand igienskaffis, da bør dets Værd nøjagtig at betalis."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-2-paragraf-2",
+       "nummer": "17 Art",
+       "tittel": null,
+       "ledd": [
+        "Annammer nogen anden Mands Gods i Forvaring og til at giemme, da bør hand det at giemme som sit eget Gods. End kommer der Ild i hans Huus og opbrænder det, eller Tyve bortstiæle det, eller det af anden Ulykke forkommer tillige med hans eget Gods, da være hand angerløs. End vorder hans eget Gods bevaret, og det bevisis, at hand hafde Tid og Lejlighed det betroede Gods med sit at frelse, da gielde hand igien det, som hand i Forvaring annammet hafde."
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,432 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2002-06-24-723",
+ "dokumentid": "SF/forskrift/2002-06-24-723",
+ "departement": [
+  "Klima- og miljødepartementet"
+ ],
+ "etat": [
+  "Hav- og forurensningsavd., Sysselmesteren på Svalbard"
+ ],
+ "kunngjort_i": "I 2002 hefte 8",
+ "ikraft": "2002-07-01",
+ "siste_endring_ikraft": "2025-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2024-02-06-225",
+   "tekst": "forskrift/2024-02-06-225 fra 2025-01-01,"
+  },
+  {
+   "ref": "forskrift/2024-03-01-360",
+   "tekst": "forskrift/2024-03-01-360 fra 2024-06-01"
+  }
+ ],
+ "gjelder_for": "Svalbard",
+ "hjemmel": [
+  {
+   "ref": "lov/2001-06-15-79/§80",
+   "tekst": "lov/2001-06-15-79/§80"
+  },
+  {
+   "ref": "lov/2001-06-15-79/§81",
+   "tekst": "lov/2001-06-15-79/§81"
+  },
+  {
+   "ref": "lov/2001-06-15-79/§82",
+   "tekst": "lov/2001-06-15-79/§82"
+  },
+  {
+   "ref": "lov/2001-06-15-79/§83",
+   "tekst": "lov/2001-06-15-79/§83"
+  }
+ ],
+ "kunngjort": "2002-07-12",
+ "siste_rettelse": "2024-11-22 (merknader fjernet fra forskriften)",
+ "tittel": "Forskrift om motorferdsel på Svalbard",
+ "annet": "Hjemmel: Fastsatt av Miljøverndepartementet 24. juni 2002 med hjemmel i lov av 15. juni 2001 nr. 79 om miljøvern på Svalbard (svalbardmiljøloven) § 80, § 81, § 82 og § 83.\nEndret ved forskrifter 24 juni 2002 nr. 1084, 12 mai 2013 nr. 469, 15 mars 2013 nr. 284, 20 des 2013 nr. 1689, 19 des 2013 nr. 1757, 10 april 2014 nr. 525, 6 des 2016 nr. 1465, 20 april 2018 nr. 599, 12 mars 2019 nr. 219 (i kraft 12 mars 2019), 12 mars 2019 nr. 219 (i kraft 1 juni 2019), 11 mars 2020 nr. 268, 11 mars 2020 nr. 268 (i kraft 1 juni 2020), 4 mars 2021 nr. 633 (i kraft 15 mars 2021), 4 mars 2021 nr. 633 (i kraft 1 juni 2021), 22 juni 2021 nr. 2122 (i kraft 1 juli 2021), 24 feb 2022 nr. 297 (i kraft 1 mars 2022), 24 feb 2022 nr. 297 (i kraft 1 juni 2022), 1 mars 2023 nr. 295 (i kraft 3 mars 2023), 1 mars 2023 nr. 295 (i kraft 1 juni 2023), 1 mars 2024 nr. 360, 1 mars 2024 nr. 360 (i kraft 1 juni 2024), 6 feb 2024 nr. 225 (i kraft 1 jan 2025).\nRettet 10.01.2013 (kommentarer), 14.01.2014 (grafikk), 01.05.2014 (merknader til § 2), 13.12.2016 (ledetekst kart B), 15.03.2021 (tegnsetting i lister tilpasset universell utforming), 22.11.2024 (merknader fjernet fra forskriften).",
+ "refid": "forskrift/2002-06-24-723",
+ "eli": "/eli/forskrift/2002/06/24/723",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2002-06-24-723",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "Kapittel I. Alminnelige bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "(formål)",
+     "ledd": [
+      "Denne forskrift har til formål å regulere bruk av motorkjøretøy og luftfartøy ut fra et samfunnsmessig helhetssyn, herunder allmennhetens opplevelse av Svalbards villmark, med sikte på å verne om Svalbards naturmiljø."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "(virkeområde)",
+     "ledd": [
+      "Forskriften gjelder for Svalbards landområder med sjøområdet ut til territorialgrensen.",
+      "Forskriften omfatter ferdsel med motorkjøretøy i terrenget og på islagte vassdrag og islagte sjøområder. For luftputefartøy og hydrokopter omfatter forskriften også ferdsel i åpen sjø. Forskriften omfatter videre bruk av luftfartøy til turistformål."
+     ],
+     "endringer": [
+      "Endret ved forskrift 20 des 2013 nr. 1689 (i kraft 1 jan 2014)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "(definisjoner)",
+     "ledd": [
+      "I denne forskrift forstås med\na. fastboende: det som er definert som fastboende i svalbardmiljøloven § 3 første ledd bokstav i);\nb. tilreisende: det som er definert som tilreisende i svalbardmiljøloven § 3 første ledd bokstav j);\nc. motorkjøretøy: fremkomstmiddel til bruk i terreng eller på vei med motor som drivkraft;\nd. beltekjøretøy: motorkjøretøy med belter;\ne. beltebil: motorvogn som hovedsakelig er innrettet for transport av personer eller gods og/eller til å trekke annet kjøretøy og som har belter og eventuelt styreski/styrehjul og som har egenvekt over 400 kg, og som har en konstruktiv hastighet på over 30 km/t;\nf. snøskuter: motorvogn som hovedsakelig er innrettet for transport av personer eller gods og/eller til å trekke annet kjøretøy og som har belter og eventuelt styreski/styrehjul og som har egenvekt ikke over 400 kg, og som har en konstruktiv hastighet på over 30 km/t;\ng. luftfartøy: fremkomstmiddel til bruk i luften med motor som drivkraft;\nh. turistvirksomhet: det som er definert som turistvirksomhet i forskrift 27. juni 2002 nr. 731 om leiropphold på Svalbard § 2a bokstav a);\ni. luftputefartøy og hydrokopter: Motorisert fartøy som er fremkommelig både på vann, snø, is og land;\nj. undervannsfartøy: bemannet motorisert fartøy til bruk under vann."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 20 des 2013 nr. 1689 (i kraft 1 jan 2014), 6 feb 2024 nr. 225 (i kraft 1 jan 2025)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 4",
+     "tittel": "(aktsomhet)",
+     "ledd": [
+      "Ferdsel på Svalbard med motorkjøretøy eller luftfartøy skal foregå på en måte som ikke skader, forsøpler eller på annen måte forringer naturmiljøet eller kulturminner eller fører til unødig forstyrrelse av mennesker eller dyreliv."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "Kapittel II. Ferdsel med motorkjøretøy i terrenget på bar eller tint mark",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 5",
+     "tittel": "(forbud mot ferdsel med motorkjøretøy)",
+     "ledd": [
+      "Ferdsel med motorkjøretøy i terrenget på bar eller tint mark er forbudt om ikke annet er fastsatt i eller i medhold av svalbardmiljøloven eller denne forskrift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 6",
+     "tittel": "(ferdsel med motorkjøretøy i planområdene)",
+     "ledd": [
+      "Det er tillatt med nødvendig motorferdsel i terrenget for virksomhet i samsvar med godkjent arealplan i tilknytning til\na. råstoffutvinning, herunder undersøkelsesvirksomhet, gruvedrift og massetak;\nb. bygge- og anleggsvirksomhet unntatt for hytter;\nc. drift og vedlikehold av bygninger og annen infrastruktur som inngår i drift av bosetningene."
+     ],
+     "endringer": [
+      "Endret ved forskrift 6 feb 2024 nr. 225 (i kraft 1 jan 2025)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kapIII",
+   "overskrift": "Kapittel III. Ferdsel med motorkjøretøy i terrenget på snødekt og frossen mark, islagte vassdrag og sjøområder",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 7",
+     "tittel": "(forbud mot ferdsel med motorkjøretøy)",
+     "ledd": [
+      "Ferdsel med motorkjøretøy i terrenget på snødekt og frossen mark samt på islagte vassdrag og sjøområder er forbudt, om ikke annet er fastsatt i eller i medhold av svalbardmiljøloven eller denne forskrift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 8",
+     "tittel": "(bruk av snøskuter, beltebil og elektrisk sykkel i terrenget på frossen og snødekt mark for fastboende)",
+     "ledd": [
+      "Fastboende kan bruke snøskuter, beltebil og elektrisk sykkel på snødekt og frossen mark i\na. områder markert med gult som vist på kart i vedlegg 1;\nb. kartfestet ferdselsåre mellom Kjellströmdalen og Agardhdalen markert med hel svart strek som vist på kart i vedlegg 1;\nc. områder markert med grønt fram til 1. mars hver sesong som vist på kart i vedlegg 1."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 15 mars 2013 nr. 284 (i kraft 1 juli 2013), 20 des 2013 nr. 1689 (i kraft 1 jan 2014), 19 des 2013 nr. 1757 (i kraft 1 jan 2014), 6 des 2016 nr. 1465 (i kraft 1 jan 2017), 20 april 2018 nr. 599, 20 april 2018 nr. 599 (i kraft 1 juni 2018), 12 mars 2019 nr. 219, 12 mars 2019 nr. 219 (i kraft 1 juni 2019), 11 mars 2020 nr. 268, 11 mars 2020 nr. 268 (i kraft 1 juni 2020), 4 mars 2021 nr. 633 (i kraft 15 mars 2021), 4 mars 2021 nr. 633 (i kraft 1 juni 2021), 22 juni 2021 nr. 2122 (i kraft 1 juli 2021), 24 feb 2022 nr. 297 (i kraft 1 mars 2022), 24 feb 2022 nr. 297 (i kraft 1 juni 2022), 1 mars 2023 nr. 295 (i kraft 3 mars 2023), 1 mars 2023 nr. 295 (i kraft 1 juni 2023), 1 mars 2024 nr. 360, 1 mars 2024 nr. 360 (i kraft 1 juni 2024), 6 feb 2024 nr. 225 (i kraft 1 jan 2025)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 8a",
+     "tittel": "(bruk av snøskuter, beltebil og elektrisk sykkel på sjøis for fastboende)",
+     "ledd": [
+      "Fastboende kan bruke snøskuter, beltebil og elektrisk sykkel på tilliggende islagte sjøområder til områder som nevnt i § 8 a) og c) unntatt i områder som nevnt i annet ledd. Mellom Agardhbukta og Wichebukta i Storfjorden skal motorferdselen legges til nærmeste farbare rute på sjøisen langsetter land.",
+      "Det er forbudt å bruke snøskuter, beltebil og elektrisk sykkel etter 1. mars på sjøisen mellom Agardhbukta og Richterfjellet i Storfjorden. Det er forbudt å bruke snøskuter, beltebil og elektrisk sykkel etter 1. mars på islagte sjøområder i Van Mijenfjorden, Van Keulenfjorden, Tempelfjorden og Billefjorden markert med rødt på kart i vedlegg 1.",
+      "Forbudet gjelder ikke for nødvendig motorferdsel på korteste farbare rute på sjøisen i område som vist på kart i vedlegg 1:\na. i Van Mijenfjorden, Tempelfjorden og Billefjorden for å krysse fjordene på tvers;\nb. langs land på nordsiden av Van Mijenfjorden.",
+      "Med farbar rute menes rute som er trygg, sikker og hvor dyrelivet ikke forstyrres unødig. Det er ikke tillatt med opphold og stans på sjøisen utover det som er nødvendig for sikker ferdsel."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 6 feb 2024 nr. 225 (i kraft 1 jan 2025)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 8b",
+     "tittel": "(bruk av snøskuter, beltebil og elektrisk sykkel i terrenget på frossen og snødekt mark for tilreisende)",
+     "ledd": [
+      "Tilreisende kan bruke snøskuter, beltebil og elektrisk sykkel på snødekt og frossen mark i:\na. områder markert med gult som vist på kart i vedlegg 2;\nb. områder markert med blått som vist på kart i vedlegg 2 dersom de er deltakere i turistvirksomhet eller er i følge med fastboende;\nc. i kartfestet ferdselsåre mellom Kjellströmdalen og Agardhdalen markert med hel svart strek som vist på kart i vedlegg 2 dersom de er deltakere i turistvirksomhet eller er i følge med fastboende;\nd. områder markert med oransje som vist på kart i vedlegg 2 dersom de er i følge med fastboende i Ny-Ålesund."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 6 feb 2024 nr. 225 (i kraft 1 jan 2025)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 8c",
+     "tittel": "(bruk av snøskuter, beltebil og elektrisk sykkel på islagte sjøområder for tilreisende)",
+     "ledd": [
+      "Tilreisende kan bruke snøskuter, beltebil og elektrisk sykkel på tilliggende islagte sjøområder til områder som nevnt i § 8b bokstav a), b) og d) unntatt i områder nevnt i annet ledd. Mellom Agardhbukta og Wichebukta i Storfjorden skal motorferdselen legges til nærmeste farbare rute på sjøisen langsetter land.",
+      "Det er forbudt å bruke snøskuter, beltebil og elektrisk sykkel etter 1. mars på islagte sjøområder i Van Mijenfjorden, Van Keulenfjorden, Tempelfjorden, Billefjorden og Dicksonfjorden markert med rødt som vist på kart i vedlegg 2.",
+      "Forbudet gjelder ikke nødvendig motorferdsel på korteste farbare rute på sjøisen i områder som vist på kart i vedlegg 2:\na. for kryssing av Tempelfjorden og Billefjorden;\nb. langs land på nordsiden av Van Mijenfjorden dersom de er deltakere i turistvirksomhet;\nc. på Van Mijenfjorden for adkomst til hytter.",
+      "Med farbar rute menes rute som er trygg, sikker og hvor dyrelivet ikke forstyrres unødig. Det er ikke tillatt med opphold og stans på sjøisen utover det som er nødvendig for sikker ferdsel."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 6 feb 2024 nr. 225 (i kraft 1 jan 2025)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-6",
+     "nummer": "§ 9",
+     "tittel": "(nyttetrafikk)",
+     "ledd": [
+      "Med nyttetrafikk forstås her trafikk som skjer i tilknytning til de formål som er nevnt i § 6.",
+      "For nødvendig nyttetrafikk kan beltekjøretøy benyttes\na. i områder som er markert med gult på vedlagte kart A og på tilliggende sjøområder;\nb. i en kartfestet ferdselsåre gjennom et område markert med grønt på vedlagte kart A.\nFerdselsåren er markert med stiplet rød strek på kart A, og går langs dalbunnen i Reindalen fra Sørhytta og opp til Reindalspasset, videre ned dalbunnen i Lundströmdalen til Kjellströmdalen.",
+      "Dersom vær- eller føreforhold gjør det vanskelig å bruke områder som omtalt i annet ledd bokstav a kan en alternativ ferdselsåre, som går langs dalbunnene i Bolterdalen og Tverrdalen benyttes."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-7",
+     "nummer": "§ 10",
+     "tittel": "(midlertidige endringer)",
+     "ledd": [
+      "Sysselmesteren kan gjøre midlertidige endringer i § 8 og § 9, når det anses nødvendig for å beskytte dyrelivet eller naturmiljøet for øvrig, eller dersom andre særlige grunner tilsier det."
+     ],
+     "endringer": [
+      "Endret ved forskrift 22 juni 2021 nr. 2122 (i kraft 1 juli 2021)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kapIV",
+   "overskrift": "Kapittel IV. Bruk av luftfartøy til turistformål",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 11",
+     "tittel": "(luftfartøy til turistformål)",
+     "ledd": [
+      "Bruk av luftfartøy til sightseeing er forbudt på Svalbard.",
+      "Bruk av luftfartøy for flyging til og fra Svalbard og mellom bosetningene på Svalbard er likevel tillatt når dette skjer som regulær rutetrafikk med turister som passasjerer, eller tilsvarende persontransport."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kapV",
+   "overskrift": "Kapittel V. Motorferdsel i sjø",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Tilføyd ved forskrift 20 des 2013 nr. 1689 (i kraft 1 jan 2014), endret ved forskrift 6 feb 2024 nr. 225 (i kraft 1 jan 2025)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 12",
+     "tittel": "(luftputefartøy og hydrokopter i åpen sjø)",
+     "ledd": [
+      "Bruk av luftputefartøy og hydrokopter er forbudt i ikke islagte sjøområder i et heldekkende belte på 1 nautisk mil ut fra land."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 20 des 2013 nr. 1689 (i kraft 1 jan 2014)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 12a",
+     "tittel": "(forbud mot isbryting)",
+     "ledd": [
+      "Det er forbudt å bryte fastis. Med fastis menes sammenhengende landfast sjøis.",
+      "Forbudet gjelder ikke motorferdsel\na. for å holde farleden inn til havnene i Longyearbyen og Barentsburg åpen\nb. for å sikre forsyninger til Ny-Ålesund\nc. for Kystvaktas utføring av nødvendige oppgaver der disse ikke kan løses på annen måte."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 6 feb 2024 nr. 225 (i kraft 1 jan 2025)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 12b",
+     "tittel": "(motorferdsel i sjø ved liggeplass for hvalross)",
+     "ledd": [
+      "Det er forbudt med motorferdsel i sjø nærmere enn 150 m fra liggeplass for hvalross. Forbudet gjelder ikke når det er til hinder for nødvendig adkomst til bygninger, brygger og lignende.",
+      "Det er forbudt med motorferdsel i sjø med høyere hastighet enn 5 knop nærmere enn 300 m fra liggeplass for hvalross.",
+      "Med liggeplass for hvalross menes plass på land hvor det ligger flere hvalross sammen."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 6 feb 2024 nr. 225 (i kraft 1 jan 2025)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-4",
+     "nummer": "§ 12c",
+     "tittel": "(fartsbegrensning i sjø ved fuglefjell)",
+     "ledd": [
+      "Det er forbudt med motorferdsel i sjø med høyere hastighet enn 5 knop nærmere enn 500 m fra land i tiden 1. april til 31. august ved fuglefjell som vist på kart i vedlegg 3."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 6 feb 2024 nr. 225 (i kraft 1 jan 2025)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-5",
+     "nummer": "§ 12d",
+     "tittel": "(forbud mot undervannsfartøy)",
+     "ledd": [
+      "Det er forbudt å bruke undervannsfartøy i næringsvirksomhet."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 6 feb 2024 nr. 225 (i kraft 1 jan 2025)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kapVI",
+   "overskrift": "Kapittel VI. Tillatelse etter søknad, klage, straff, endring og ikrafttreden",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrift 20 des 2013 nr. 1689 (i kraft 1 jan 2014, tidligere kapittel V)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 13",
+     "tittel": "(tillatelse etter søknad)",
+     "ledd": [
+      "Sysselmesteren kan etter søknad gi tillatelse til\na. motorferdsel for fastboende i Sør-Spitsbergen nasjonalpark, Forlandet nasjonalpark og Nordvest-Spitsbergen nasjonalpark og kryssing av sjøis på Van Keulenfjorden\nb. motorferdsel for fastboende på Ny Friesland i Nordaust-Svalbard naturreservat\nc. motorferdsel i planområdene i tilknytning til bygge- og anleggsvirksomhet for hytter.",
+      "Sysselmesteren kan i andre tilfeller gjøre unntak fra bestemmelsene når formålet med svalbardmiljøloven krever det, samt for vitenskapelige undersøkelser, arbeider av vesentlig samfunnsmessig betydning og i andre særlige tilfelle.",
+      "Ved behandling av søknader skal det blant annet legges vekt på formålet med søknaden, risiko for miljøulemper og målet om begrenset motorferdsel på Svalbard. Blir tillatelse gitt, skal det gis en begrunnelse som viser hvordan disse hensynene er vurdert.",
+      "Tillatelsen skal begrenses i tid og sted og kan begrenses til å gjelde bestemte tilfeller. Det kan settes vilkår for tillatelsen. Tillatelsen kan endres eller inndras dersom hensynet til miljøet tilsier det."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 20 des 2013 nr. 1689 (i kraft 1 jan 2014, tidligere § 12), 22 juni 2021 nr. 2122 (i kraft 1 juli 2021), 6 feb 2024 nr. 225 (i kraft 1 jan 2025)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 14",
+     "tittel": "(klage)",
+     "ledd": [
+      "Sysselmesterens enkeltvedtak etter denne forskrift kan påklages til Miljødirektoratet i samsvar med reglene i forvaltningsloven."
+     ],
+     "endringer": [
+      "Endret ved forskrift 15 mars 2013 nr. 284 (i kraft 1 juli 2013). 20 des 2013 nr. 1689 (i kraft 1 jan 2014, tidligere § 13), 22 juni 2021 nr. 2122 (i kraft 1 juli 2021)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-3",
+     "nummer": "§ 15",
+     "tittel": "(straff)",
+     "ledd": [
+      "Den som forsettlig eller uaktsomt overtrer bestemmelser fastsatt i denne forskrift, straffes med bøter eller fengsel inntil 1 år. Er det inntrådt eller voldt fare for betydelig miljøskade, eller det for øvrig foreligger særdeles skjerpende omstendigheter, kan fengsel inntil 3 år anvendes.",
+      "Medvirkning straffes på samme måte."
+     ],
+     "endringer": [
+      "Endret ved forskrift 20 des 2013 nr. 1689 (i kraft 1 jan 2014, tidligere § 14)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-4",
+     "nummer": "§ 16",
+     "tittel": "(ikrafttreden)",
+     "ledd": [
+      "Denne forskrift trer i kraft 1. juli 2002."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 12 mai 2013 nr. 469 (tidligere § 16), 20 des 2013 nr. 1689 (i kraft 1 jan 2014, tidligere § 15)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "vedlegg1",
+   "overskrift": "Vedlegg 1",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Pdf-fil"
+    },
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrifter 10 april 2014 nr. 525, 6 des 2016 nr. 1465 (i kraft 1 jan 2017), 6 feb 2024 nr. 225 (i kraft 1 jan 2025, tidligere kart A)."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-8",
+   "navn": "vedlegg2",
+   "overskrift": "Vedlegg 2",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Pdf-fil"
+    },
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrifter 20 des 2013 nr. 1689 (i kraft 1 jan 2014), 10 april 2014 nr. 525, 6 des 2016 nr. 1465 (i kraft 1 jan 2017), 6 feb 2024 nr. 225 (i kraft 1 jan 2025, tidligere kart B)."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-9",
+   "navn": "vedlegg3",
+   "overskrift": "Vedlegg 3",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Pdf-fil"
+    },
+    {
+     "type": "endring",
+     "tekst": "Tilføyd ved forskrift 6 feb 2024 nr. 225 (i kraft 1 jan 2025)."
+    }
+   ]
+  }
+ ]
+}

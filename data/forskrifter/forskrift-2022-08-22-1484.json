@@ -1,0 +1,649 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2022-08-22-1484",
+ "dokumentid": "SF/forskrift/2022-08-22-1484",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "etat": [
+  "Havbruksavdelingen"
+ ],
+ "ikraft": "2023-01-01",
+ "endrer": "forskrift/2011-08-16-849",
+ "hjemmel": [
+  {
+   "ref": "lov/2005-06-17-79/§10",
+   "tekst": "lov/2005-06-17-79/§10"
+  },
+  {
+   "ref": "lov/2005-06-17-79/§12",
+   "tekst": "lov/2005-06-17-79/§12"
+  },
+  {
+   "ref": "lov/2005-06-17-79/§22",
+   "tekst": "lov/2005-06-17-79/§22"
+  },
+  {
+   "ref": "lov/2005-06-17-79/§24",
+   "tekst": "lov/2005-06-17-79/§24"
+  }
+ ],
+ "kunngjort": "2022-08-26 15:25",
+ "korttittel": "NYTEK23",
+ "tittel": "Forskrift om krav til teknisk standard for akvakulturanlegg for fisk i sjø, innsjø og vassdrag (NYTEK23)",
+ "annet": "Hjemmel: Fastsatt av Nærings- og fiskeridepartementet 22. august 2022 med hjemmel i lov 17. juni 2005 nr. 79 om akvakultur (akvakulturloven) § 10, § 12, § 22 og § 24.",
+ "refid": "forskrift/2022-08-22-1484",
+ "eli": "/eli/forskrift/2022/08/22/1484",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2022-08-22-1484",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Formål, virkeområde og definisjoner",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Formål",
+     "ledd": [
+      "Forskriften skal bidra til å forebygge rømming av fisk fra akvakulturanlegg i sjø, innsjø og vassdrag gjennom å sikre forsvarlig teknisk standard på anleggene."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Forskriftens geografiske og personelle virkeområde",
+     "ledd": [
+      "Forskriften gjelder for norsk landterritorium og territorialfarvann, på kontinentalsokkelen og i Norges økonomiske sone.",
+      "Forskriften gjelder for enhver som har eller plikter å ha akvakulturtillatelse etter lov 17. juni 2005 nr. 79 om akvakultur (akvakulturloven) for akvakultur av fisk.",
+      "Forskriften gjelder for vare- og tjenesteprodusenter, herunder akkrediterte inspeksjons- og sertifiseringsorgan, til akvakulturnæringen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Forskriftens saklige virkeområde",
+     "ledd": [
+      "Forskriften gjelder for akvakulturanlegg i sjø, innsjø og vassdrag, og for komponenter til slike akvakulturanlegg.",
+      "Forskriften gjelder ikke for anlegg for oppbevaring av villfanget fisk i restitusjons- og mellomlagringsmerd eller fangstbasert akvakultur."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 4",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "I denne forskrift menes med:\na. akvakulturanlegg: installasjon for akvakultur av fisk,\nb. avvik: manglende oppfyllelse av et krav, som krever korrigerende tiltak,\nc. vesentlig avvik: avvik som utgjør en alvorlig risiko for rømming av fisk, og som krever umiddelbare korrigerende tiltak,\nd. duk: tettvevd tekstilmateriale eller kombinasjon av tekstil og annet materiale i en innhegning,\ne. dukpanel: duk i ramme som er en del av innhegning,\nf. dukpose: poseformet duk som utgjør en barriere mellom oppdrettsvolumet i en innhegning og omkringliggende vannvolum,\ng. dynamisk posisjoneringssystem: et system der kraftforsyning, trustersystem og kontrollsystem er bygget sammen og kan opereres slik at en automatisk opprettholder en fast posisjon,\nh. ekstrautstyr: utstyr som ikke er hovedkomponent, hvor påkjenninger fra utstyret, eller svikt eller mangler ved utstyret vil føre til økt risiko for rømming av fisk,\ni. flyter: konstruksjon med hovedfunksjon å gi oppdrift og/eller stivhet til innhegning,\nj. flåte: konstruksjon over 50 tonn totalvekt, frittliggende eller integrert, med teknisk utstyr for å utføre funksjoner knyttet til akvakultur,\nk. forankringssystem: system med liner og bunnfester med hovedfunksjon å holde akvakulturanlegg eller flåte i posisjon,\nl. hovedkomponent: del i akvakulturanlegget som innehar én eller flere av anleggets lastbærende hovedfunksjoner. Eksempelvis innhegning, flyter, forankringssystem, flåte eller integrert hovedkomponent,\nm. innehaver: enhver som har eller plikter å ha akvakulturtillatelse etter lov 17. juni 2005 nr. 79 om akvakultur (akvakulturloven) for akvakultur av fisk,\nn. innhegning: notpose eller annet system av lastbærende deler med hovedfunksjon å utgjøre barrieren mellom oppdrettsvolumet i en produksjonsenhet og omkringliggende vannvolum,\no. integrert hovedkomponent: hovedkomponent som kombinerer ulike lastbærende hovedfunksjoner i én integrert enhet,\np. komponent: hovedkomponent, konstruksjonsdel til forankring og ekstrautstyr,\nq. konfigurasjon: et akvakulturanleggs sammensetning av hovedkomponenter og ekstrautstyr,\nr. konstruksjonsdel til forankringssystem: kjetting, sjakkel, kause, tau, bøye, koblingselement, bunnfeste med mer i forankringssystem,\ns. leverandør: enhver som selger, leier ut eller på annen måte leverer komponenter eller tjenester til akvakulturnæringen,\nt. midlertidig ekstrautstyr: ekstrautstyr som er i bruk på akvakulturanlegget over en begrenset periode eller ved begrensede bruksforhold,\nu. notpanel: nett i en ramme som er en del av innhegning,\nv. notpose: poseformet nett som utgjør en barriere mellom oppdrettsvolumet i en innhegning og omkringliggende vannvolum,\nw. permanent ekstrautstyr: ekstrautstyr som er påmontert en hovedkomponent eller akvakulturanlegget uten begrensninger knyttet til bruksperiode eller bruksforhold,\nx. posisjoneringssystem: system for å holde akvakulturanlegg i posisjon,\ny. produsent: enhver som produserer komponenter eller tjenester til akvakulturnæringen,\nz. prosjektering: dokumentere grunnlag, utforming, analyser, dimensjonering, tegning og beskrivelse av utførelse av akvakulturanlegg og dets komponenter,\næ. sporbarhet: mulighet til å spore historien, anvendelsen eller lokaliseringen av et produkt. Sporbarhet vedrører eksempelvis opprinnelsen til materialer og deler, bearbeidingshistorikk, distribusjonen og lokaliseringen av produktet etter leveranse,\nø. verifikasjon: undersøkelse med formål å bekrefte samsvar med regelverkskrav."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Generelle bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 5",
+     "tittel": "Ansvar etter denne forskriften",
+     "ledd": [
+      "Innehaver skal sikre at forskriftens krav til akvakulturanlegget og dets komponenter, samt bruk og vedlikehold av disse er oppfylt.",
+      "Vare- og tjenesteprodusenter skal sikre at varer og tjenester de produserer eller leverer oppfyller kravene i denne forskriften."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 6",
+     "tittel": "Dokumentasjon for oppfyllelse av krav",
+     "ledd": [
+      "Det skal til enhver tid kunne dokumenteres at kravene i forskriften er oppfylt. Dokumentasjonen skal være skriftlig.",
+      "Krav i kapittel 3, 4 og 5, samt § 35 og § 46 i denne forskrift kan normalt oppfylles ved bruk av NS 9415:2021.",
+      "Ved bruk av andre løsninger enn de som er angitt i NS 9415:2021, eksempelvis europeiske standarder, nasjonale standarder i EØS-området eller andre internasjonale standarder, skal det dokumenteres at den valgte løsningen oppfyller forskriftens krav og at sikkerhet mot svikt eller ulykke som kan føre til rømming av fisk er tilsvarende eller bedre enn det man oppnår ved å følge NS 9415:2021."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 7",
+     "tittel": "Kompetanse",
+     "ledd": [
+      "Enhver som deltar i aktiviteter som omfattes av denne forskriften, skal ha nødvendig faglig kompetanse for slik aktivitet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 8",
+     "tittel": "Overordnet krav til prosjektering, utførelse, bruk og vedlikehold",
+     "ledd": [
+      "Akvakulturanlegg og dets komponenter skal prosjekteres, utføres, brukes og vedlikeholdes i samsvar med beste praksis og beste kunnskap, og med tilfredsstillende sikkerhet mot svikt eller ulykke som kan føre til rømming av fisk.",
+      "Prosjektering og utførelse skal sikre at relevante krav i kapittel 4 og 5 er oppfylt. Utførelse skal være i henhold til produksjonsunderlag.",
+      "Bruk og vedlikehold skal sikre at relevante i krav i kapittel 4, 5 og 9 er oppfylt."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Lokalitetsundersøkelse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 9",
+     "tittel": "Krav til lokalitetsundersøkelse",
+     "ledd": [
+      "For akvakulturanlegg skal det foretas en lokalitetsundersøkelse som minimum omfatter kartlegging og kvantifisering av følgende forhold:\na. fysiske forhold på lokaliteten, herunder bunntopografi og bunnforhold, og\nb. miljøforhold på lokaliteten for følgende parametere:\n1. tidevannsnivåer og høy- og lavvannstand,\n2. strøm,\n3. vind,\n4. bølger og\n5. is- og snøforhold, herunder nedising, drivis og innfrysing.",
+      "Lokalitetsundersøkelsen skal foretas og dokumenteres i samsvar med til enhver tid beste praksis og beste kunnskap om aktuelle fremgangsmåter og miljøforhold, herunder måle- og beregningsmetoder.",
+      "Lokalitetsundersøkelsen skal dokumenteres i en lokalitetsrapport. Lokalitetsrapporten skal kunne brukes som grunnlag for prosjektering av akvakulturanlegg på lokaliteten i samsvar med § 8 og § 11.",
+      "Fremgangsmåter og innsamling, behandling og bearbeiding av data og målinger skal dokumenteres i lokalitetsrapporten.",
+      "Lokalitetsrapporten skal inneholde topografisk kart over lokaliteten som minimum skal angi følgende:\na. målepunkt for strøm,\nb. rapporteringspunkt for bølgeforhold og\nc. området på lokaliteten hvor akvakulturanlegget kan ligge.",
+      "Lokalitetsundersøkelsen og lokalitetsrapporten skal til enhver tid være representativ for hele området på lokaliteten der akvakulturanlegget kan ligge.",
+      "Lokalitetsrapporten skal være tilgjengelig på det aktuelle akvakulturanlegget eller anleggets tilhørende landbase."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 10",
+     "tittel": "Krav til inspeksjonsorgan som foretar lokalitetsundersøkelse",
+     "ledd": [
+      "Lokalitetsundersøkelsen og oppdateringer av denne skal foretas og dokumenteres av inspeksjonsorgan som er akkreditert for å foreta lokalitetsundersøkelser, jf. § 26.",
+      "Akkreditert inspeksjonsorgan kan bruke underleverandører til å foreta enkelte tjenester som inngår i lokalitetsundersøkelsen i den utstrekning inspeksjonsorganets akkreditering tillater det."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Generelle krav til akvakulturanlegg og dets komponenter",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 11",
+     "tittel": "Krav til utforming, laster og kapasitet",
+     "ledd": [
+      "Akvakulturanlegg skal være utformet slik at det er tilpasset sitt bruk og slik at:\na. et rømmingssikkert samvirke mellom komponenter er ivaretatt,\nb. det ikke forekommer utilsiktet kontakt mellom komponenter,\nc. det har tilstrekkelig sikkerhet mot rømming av fisk som følge av overskylling og nedtrekk, og\nd. det er lagt til rette for ettersyn og vedlikehold.",
+      "Laster som kan virke på akvakulturanlegg og dets komponenter, inkludert ved ulykkessituasjoner, skal fastsettes. Der flere laster kan opptre samtidig, skal den mest ugunstige lastkombinasjonen legges til grunn. Miljølaster som benyttes i dimensjonering mot konstruksjonssvikt skal ha en returperiode på minst 50 år.",
+      "Miljølaster skal fastsettes på grunnlag av miljøforhold på lokaliteten, jf. § 9.",
+      "Akvakulturanlegg og dets komponenter skal til enhver tid ha tilstrekkelig kapasitet til å motstå laster og lastkombinasjoner som kan oppstå i løpet av den dimensjonerende brukstiden og levetidsforlengelsen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 12",
+     "tittel": "Kontroll av prosjektering og utførelse",
+     "ledd": [
+      "Den som foretar prosjektering eller utførelse av ekstrautstyr i pålitelighetsklasse 2 eller hovedkomponenter i pålitelighetsklasse 2 eller pålitelighetsklasse 3, skal foreta egenkontroll og sidemannskontroll av slike aktiviteter. Eksternt foretak skal foreta utvidet kontroll av prosjektering og utførelse av hovedkomponenter i pålitelighetsklasse 3.",
+      "Kravene til pålitelighetsklasse 3 gjelder for kontroll av prosjektering og utførelse av:\na. innhegning og flyter dersom antall fisk i en innhegning overstiger 200 000 individer,\nb. flyter dersom antall fisk i felles flyter overstiger 200 000 individer,\nc. posisjoneringssystem dersom antall fisk i felles posisjoneringssystem overstiger 1 500 000 individer og\nd. hovedkomponenter i akvakulturanlegg plassert på en lokalitet hvor signifikant bølgehøyde kan overstige 5 meter i en sjøtilstand med returperiode på 50 år eller mer, jf. § 9.",
+      "Kontroll av prosjektering og utførelse av hovedkomponenter og ekstrautstyr skal ellers oppfylle kravene til pålitelighetsklasse 2.",
+      "Ulike hovedkomponenter kan ha ulik pålitelighetsklasse. Deler av en hovedkomponent som ikke kan påvirke rømming av fisk kan ha annen pålitelighetsklasse enn resten av hovedkomponenten."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 13",
+     "tittel": "Krav til materialer",
+     "ledd": [
+      "Materialer som skal brukes i eller på akvakulturanlegg skal ha egenskaper som gir akvakulturanlegget og dets komponenter tilfredsstillende kapasitet og bestandighet gjennom hele den dimensjonerende brukstiden.",
+      "Materialer skal velges med hensyn til:\na. kravene til laster, jf. § 11,\nb. bruks- og driftsforhold som kan oppstå i løpet av den dimensjonerende brukstiden og\nc. planer for inspeksjon, vedlikehold, reparasjon og utskifting."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 14",
+     "tittel": "Krav til sporbarhet",
+     "ledd": [
+      "Produsent og leverandør av akvakulturanlegg og dets komponenter skal ha system for å sikre sporbarhet og avvikshåndtering, slik at plikten etter § 44 kan ivaretas."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-5",
+     "nummer": "§ 15",
+     "tittel": "Krav til merking",
+     "ledd": [
+      "Sertifiserte produkter og produkter med levetidsforlengelse etter kapittel 7 og ekstrautstyr skal være merket med et unikt produktnummer eller unikt serienummer, slik at hvert produkt kan identifiseres.",
+      "Fibertau er unntatt fra kravet i første ledd, og skal merkes med fibertauets produsent og standarden det er produsert i henhold til.",
+      "Merking etter første og andre ledd skal være leselig, permanent, bestandig og vanskelig å manipulere."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-6",
+     "nummer": "§ 16",
+     "tittel": "Krav til brukerhåndbok",
+     "ledd": [
+      "Produsent og leverandør av sertifiserte produkter etter kapittel 7 og av ekstrautstyr, skal sammen med produktet levere brukerhåndbok med klare anvisninger for transport, lagring, montering, bruk og vedlikehold av produktet. Brukerhåndboken skal minimum inneholde:\na. opplysninger om produsent og produktidentifikasjon,\nb. beskrivelse av komponenten og dens bestanddeler,\nc. beskrivelse av grensesnitt mot andre hovedkomponenter og ekstrautstyr,\nd. krav til montering,\ne. krav til bruk,\nf. krav til ettersyn og vedlikehold,\ng. krav til transport og lagring,\nh. versjonshistorikk for endringer i brukerhåndboken og\ni. brukerhåndbokens versjonsnummer.",
+      "Brukerhåndboken skal angi hvilke versjoner av produktet brukerhåndboken gjelder for.",
+      "Brukerhåndboken skal være tilgjengelig på det akvakulturanlegget der det sertifiserte produktet eller ekstrautstyret brukes, eller på anleggets tilhørende landbase."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Krav til spesifikke komponenter mv.",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 17",
+     "tittel": "Krav til integrert hovedkomponent",
+     "ledd": [
+      "Integrert hovedkomponent skal oppfylle kravene til alle hovedkomponenter som inngår i den integrerte hovedkomponenten."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 18",
+     "tittel": "Krav til innhegning",
+     "ledd": [
+      "Innhegning skal ha tilstrekkelig lastbærende kapasitet til å oppfylle dens hovedfunksjon, jf. § 4 bokstav n.",
+      "Maskeåpning i notpose og notpanel skal være tilpasset fiskens størrelse, slik at fisken ikke kan slippe gjennom notpose eller notpanel.",
+      "Inn- og utløp i lukket innhegning skal være sikret mot rømming av fisk. Lukket innhegning skal være sikret mot overfylling som kan føre til rømming av fisk. Lukket innhegning som er avhengig av innvendig overtrykk for å beholde sin form skal utstyres med redundante tiltak for å hindre tap av overtrykk."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 19",
+     "tittel": "Krav til flyter",
+     "ledd": [
+      "Flyter skal ha tilstrekkelig oppdrift, stabilitet og lastbærende kapasitet for å oppfylle dens hovedfunksjon, jf. § 4 bokstav i."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-4",
+     "nummer": "§ 20",
+     "tittel": "Krav til flåte",
+     "ledd": [
+      "Flåte skal ha tilstrekkelig oppdrift, stabilitet, fribord og lastbærende kapasitet for å oppfylle dens hovedfunksjon, jf. § 4 bokstav j."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-5",
+     "nummer": "§ 21",
+     "tittel": "Krav til forankring og posisjonering",
+     "ledd": [
+      "Forankring- og posisjoneringssystem skal ha tilstrekkelig kapasitet til å holde akvakulturanlegget i posisjon.",
+      "Dynamiske posisjoneringssystemer skal utformes slik at posisjonen kan opprettholdes ved definerte feil og skader i systemet og ved ulykkeshendelser."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-6",
+     "nummer": "§ 22",
+     "tittel": "Krav til forankringsanalyse",
+     "ledd": [
+      "For akvakulturanlegg med forankringssystem skal det foretas en forankringsanalyse.",
+      "Forankringsanalysen skal:\na. dokumentere at forankringssystemet gir sikker forankring på lokalitet,\nb. være basert på lokalitetsundersøkelsen jf. § 9 og\nc. være representativ for akvakulturanlegget på lokalitet.",
+      "Dokumentasjon av forankringsanalysen skal minimum inneholde følgende opplysninger:\na. hvilken lokalitet analysen gjelder,\nb. hvilke forutsetninger, beregningsmetoder og laster som er benyttet i forankringsanalysen,\nc. resultater fra beregningene,\nd. beskrivelse av analysert anleggskonfigurasjon og hvilke anleggskonfigurasjoner analysen er representativ for,\ne. en skisse eller et kart av hele forankringssystemet hvor alle hovedkomponenter i anlegget er tegnet inn,\nf. pålitelighetsklasse og\ng. erklæring av samsvar mellom utlagt og analysert forankringssystem.",
+      "Dokumentasjon av forankringsanalysen skal være tilgjengelig på akvakulturanlegget analysen gjelder for, eller på anleggets tilhørende landbase."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-7",
+     "nummer": "§ 23",
+     "tittel": "Krav til utlegg og inspeksjon av forankringssystem",
+     "ledd": [
+      "Utlegg av forankringssystem skal dokumenteres i en utleggsrapport. Utleggsrapporten skal dokumentere forankringssystemets utforming og egenskaper, samt resultater fra holdekrafttest av bunn-/landfester.",
+      "Inspeksjon av forankringssystem skal foretas etter holdekrafttest og før utstedelse av anleggssertifikat, og skal dokumenteres i en rapport for forankringsinspeksjon. Rapport for forankringsinspeksjon skal dokumentere forankringssystemets tilstand, om konstruksjonsdelene er montert i henhold til brukerhåndbok, samt bunn-/landfestenes posisjoner.",
+      "Det skal til enhver tid være samsvar mellom utlagt forankringssystem og forankringsanalyse, jf. § 22. Erklæring av samsvar skal inngå i dokumentasjon av forankringsanalyse etter utlegg og inspeksjon av forankringssystem. Ved endringer av forankringssystemet utover eventuelle toleranser i forankringsanalysen, skal det gjennomføres en ny forankringsanalyse for å dokumentere samsvar.",
+      "Utleggsrapport og rapport for forankringsinspeksjon skal være tilgjengelig på akvakulturanlegget rapporten gjelder for, eller på anleggets tilhørende landbase."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-8",
+     "nummer": "§ 24",
+     "tittel": "Krav til ekstrautstyr",
+     "ledd": [
+      "Ekstrautstyr skal være utformet på en måte som minimerer risiko for rømming av fisk.",
+      "Ekstrautstyr som kan komme i kontakt med innhegning skal være utformet spesielt for å unngå skade på innhegning.",
+      "Permanent ekstrautstyr skal være egnet for bruk ved de laster som akvakulturanlegget er dimensjonert for.",
+      "Begrensinger for bruk av midlertidig ekstrautstyr skal være definert."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Krav om akkreditering",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 25",
+     "tittel": "Krav til akkrediterte sertifiseringsorganer",
+     "ledd": [
+      "Sertifiseringsorganer som skal sertifisere produkter skal være akkreditert etter gjeldende norsk eller europeisk standard, nasjonal standard i EØS-området eller internasjonal akkrediteringsstandard for dette formål.",
+      "Akkrediterte sertifiseringsorganer skal være akkreditert innenfor områder som er relevante og tilstrekkelige for de aktiviteter som sertifiseringsorganer skal foreta.",
+      "Akkrediterte sertifiseringsorganer skal informere Norsk Akkreditering om ethvert avslag på søknad om produktsertifiseringsbevis og om enhver suspendering og tilbaketrekking av produktsertifiseringsbevis. Hvilket produkt det gjelder, samt begrunnelse for avslag, suspendering eller tilbaketrekking skal fremkomme av informasjonen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 26",
+     "tittel": "Krav til akkrediterte inspeksjonsorganer",
+     "ledd": [
+      "Inspeksjonsorganer som skal foreta lokalitetsundersøkelser, utstede anleggssertifikat eller utstede bevis for levetidsforlengelse, skal være akkreditert etter gjeldende norsk eller europeisk standard, nasjonal standard i EØS-området eller internasjonal akkrediteringsstandard for inspeksjonsorgan.",
+      "Akkrediterte inspeksjonsorganer skal oppfylle krav til uavhengighetstype A eller C etter gjeldende norsk eller internasjonal akkrediteringsstandard for inspeksjonsorgan.",
+      "Akkrediterte inspeksjonsorganer kan ikke utstede hverken anleggssertifikat for akvakulturanlegg eller bevis for levetidsforlengelse for hovedkomponenter hvis organet selv har levert hovedkomponenter til, eller deltatt i prosjektering eller utførelse av hele eller deler av anlegget. Akkrediterte inspeksjonsorganer som utsteder anleggssertifikat eller bevis for levetidsforlengelse skal heller ikke ha personlig eller økonomisk tilknytning til prosjekterende eller utførende foretak som kan påvirke evnen til uavhengige vurderinger. Akkrediterte inspeksjonsorganer kan likevel utarbeide forankringsanalyse, jf. § 22, og utstede anleggssertifikat for samme akvakulturanlegg dersom forankringsanalysen er utført som en akkreditert tjeneste og inspeksjonsorganet oppfyller krav til uavhengighetstype A. I slike tilfeller kan ikke anleggssertifikatet utstedes av samme person som utførte forankringsanalysen.",
+      "Akkrediterte inspeksjonsorganer skal være akkreditert innenfor områder som er relevante og tilstrekkelige for de aktiviteter som inspeksjonsorganer skal foreta.",
+      "Akkrediterte inspeksjonsorganer skal informere Norsk Akkreditering om ethvert avslag på søknad om bevis for levetidsforlengelse og anleggssertifikat og om enhver tilbaketrekking av anleggssertifikat. Hvilket produkt eller akvakulturanlegg det gjelder, samt begrunnelse for avslag eller tilbaketrekking skal fremkomme av informasjonen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-3",
+     "nummer": "§ 27",
+     "tittel": "Krav til akkreditering",
+     "ledd": [
+      "Akkreditering som nevnt i § 25 og § 26 skal foretas av Norsk Akkreditering eller annet akkrediteringsorgan som har undertegnet de relevante multilaterale avtaler for gjensidig internasjonal anerkjennelse, og som er etablert i et EU-/EØS-land."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kap7",
+   "overskrift": "Kapittel 7. Produktsertifisering og levetidsforlengelse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 28",
+     "tittel": "Krav om produktsertifisering",
+     "ledd": [
+      "Hovedkomponenter og konstruksjonsdeler i forankringssystem skal være produktsertifisert av akkreditert sertifiseringsorgan, jf. § 25."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-2",
+     "nummer": "§ 29",
+     "tittel": "Krav om produktsertifiseringsbevis",
+     "ledd": [
+      "Akkreditert sertifiseringsorgan skal ved å utstede et produktsertifiseringsbevis bekrefte at hovedkomponenter og konstruksjonsdeler i forankringssystem oppfyller relevante krav i kapittel 4 og 5.",
+      "Akkreditert sertifiseringsorgan skal gjennom produktsertifiseringsbeviset bekrefte at produsentens kvalitetssystem oppfyller kravene i § 33. Minst hvert andre år skal akkreditert sertifiseringsorgan revidere produsenten for å sikre at kvalitetssystemet opprettholdes og etterleves.",
+      "Det er et vilkår for produktsertifisering at det foreligger brukerhåndbok, jf. § 16.",
+      "Produktsertifiseringsbevis skal utstedes til produsent eller leverandør."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-3",
+     "nummer": "§ 30",
+     "tittel": "Krav til produktsertifiseringsbeviset",
+     "ledd": [
+      "Produktsertifiseringsbeviset skal inneholde følgende opplysninger:\na. sertifiseringsorganets navn, logo, adresse, akkrediteringsnummer og underskrift,\nb. produktnavn, produkttype og en entydig beskrivelse av produktet,\nc. et unikt nummer som identifiserer produktsertifiseringsbeviset,\nd. dato for utstedelse av produktsertifiseringsbeviset,\ne. dato og gyldighetsperiode for produktsertifiseringen,\nf. omfanget av produktsertifiseringen,\ng. hvilke normative dokumenter produktet er sertifisert i henhold til,\nh. pålitelighetsklasse og kriterier for gyldighet av produktsertifiseringen,\ni. navn og adresse til innehaveren av produktsertifiseringsbeviset,\nj. navn og adresse til produsenten,\nk. navn og adresse til leverandøren og\nl. akkrediteringsmerke til Norsk Akkreditering eller annet anerkjent akkrediteringsorgan.",
+      "En liste over underlagsdokumentasjon som ligger til grunn for produktsertifiseringen skal vedlegges produktsertifiseringsbeviset."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-4",
+     "nummer": "§ 31",
+     "tittel": "Krav om produktsertifikat",
+     "ledd": [
+      "Produktsertifikat skal utstedes for produkter som er produktsertifisert, jf. § 28, og som har korresponderende produktsertifiseringsbevis jf. § 29 og § 30. Produsent eller leverandør skal levere et produktsertifikat sammen med det sertifiserte produktet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-5",
+     "nummer": "§ 32",
+     "tittel": "Krav til produktsertifikatet",
+     "ledd": [
+      "Produktsertifikatet skal inneholde følgende opplysninger:\na. produsentens navn, logo, adresse og underskrift,\nb. navn og adresse til innehaveren av produktsertifiseringsbeviset,\nc. produktsertifiseringsbevisets unike nummer,\nd. hvilket sertifiseringsorgan som har utstedt produktsertifiseringsbeviset,\ne. produktnavn, produkttype og en entydig beskrivelse av produktet,\nf. dato for utstedelse av produktsertifikatet,\ng. kriterier for gyldighet, herunder dimensjonerende brukstid og produksjonsdato,\nh. unikt produktnummer eller serienummer til produktet,\ni. hvilke laster produktet skal ha kapasitet til å motstå i løpet av den dimensjonerende brukstiden,\nj. pålitelighetsklasse, jf. § 12 og\nk. hvilke normative dokumenter produktet er sertifisert i henhold til.",
+      "Produktsertifikatet skal være tilgjengelig på akvakulturanlegget produktet er i bruk på eller anleggets tilhørende landbase."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-6",
+     "nummer": "§ 33",
+     "tittel": "Krav til produsentens kvalitetssystem",
+     "ledd": [
+      "Produsent av produkt som er omfattet av krav om produktsertifisering, skal kunne framlegge dokumentasjon av sitt kvalitetssystem. Alle forhold, krav og bestemmelser som produsenten har tatt hensyn til, skal være dokumentert systematisk i form av skriftlige tiltak, rutiner og instruksjoner. Dokumentasjonen av kvalitetssystemet skal sikre en ensartet fortolkning av kvalitetsprogrammer, -planer, -håndbøker og -registre.",
+      "Dokumentasjonen skal særlig omfatte en beskrivelse av;\na. kvalitetsmål og organisasjonsstruktur, samt ledelsens ansvar og myndighet hva produktkvalitet angår,\nb. produksjonsprosessene, metodene for kvalitetskontroll og kvalitetssikring og de systematiske metoder og prosesser som vil bli anvendt,\nc. undersøkelsene og prøvingen som vil bli foretatt før, under og etter produksjonen, med angivelse av hvor ofte dette vil skje, og med angivelse av toleransegrenser og kriterier for hva som er et godkjent produkt,\nd. kvalitetsregistrene, f.eks. inspeksjonsrapporter, kontrolldata og kalibreringsdata, rapporter om vedkommende personells kvalifikasjoner osv.,\ne. mulighetene for å kontrollere at den påkrevde produktkvalitet blir oppnådd, og at kvalitetssystemet fungerer effektivt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-7",
+     "nummer": "§ 34",
+     "tittel": "Levetidsforlengelse",
+     "ledd": [
+      "Hovedkomponenter og konstruksjonsdeler i forankringssystem skal ha en levetidsforlengelse før bruk utover den dimensjonerende brukstiden som er lagt til grunn i produktsertifikat, gyldighetsperioden til hovedkomponentbevis eller gyldighetsperioden til tidligere levetidsforlengelse.",
+      "Notpose, notpanel, dukpose og dukpanel er unntatt fra krav i denne bestemmelsen.",
+      "Bevis for levetidsforlengelse kan kun utstedes av akkreditert inspeksjonsorgan og skal bekrefte at vilkårene i § 35 er oppfylt. Bevis for levetidsforlengelse skal i tillegg inneholde følgende opplysninger:\na. produktnavn, produkttype og en entydig beskrivelse av produktet,\nb. inspeksjonsorganets navn, logo, adresse, akkrediteringsnummer og underskrift,\nc. levetidsforlengelsens unike nummer, med referanse til nummer på alle tidligere produktsertifikat, hovedkomponentbevis og levetidsforlengelse,\nd. hvilke laster produktet skal ha kapasitet til å motstå i løpet av den forlengede levetiden,\ne. dato for verifikasjon av levetidsforlengelse og utløpsdato for forlenget levetid,\nf. pålitelighetsklasse, jf. § 12 og\ng. hvilke normative dokumenter produktet er verifisert i henhold til.",
+      "Bevis for levetidsforlengelse skal være tilgjengelig på det akvakulturanlegget produktet er i bruk på eller på anleggets tilhørende landbase."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-8",
+     "nummer": "§ 35",
+     "tittel": "Vilkår for levetidsforlengelse",
+     "ledd": [
+      "Før utstedelse av bevis for levetidsforlengelse skal det:\na. foretas nødvendige undersøkelser av hovedkomponenten eller representative konstruksjonsdeler i forankringssystemet,\nb. fastsettes hovedkomponentens eller konstruksjonsdelens tilstand på tidspunkt for verifikasjon med tilstrekkelig hensyn til usikkerhet og\nc. fastsettes forventet svekkelse av hovedkomponentens eller konstruksjonsdelens kapasitet og bestandighet med tilstrekkelig hensyn til usikkerhet.",
+      "Akkreditert inspeksjonsorgan kan bare utstede bevis for levetidsforlengelse for en gitt periode dersom det er verifisert at:\na. hovedkomponenten eller konstruksjonsdelen oppfyller krav i § 11, § 13 og kapittel 5 i den gitte perioden for levetidsforlengelse,\nb. hovedkomponenten eller konstruksjonsdelen oppfyller krav i § 15 og\nc. det foreligger brukerhåndbok med oppdaterte krav til vedlikehold og kassering.",
+      "Dersom det ikke er akkreditert inspeksjonsorgan som foretar aktivitetene etter første og andre ledd, skal inspeksjonsorganet verifisere at det foretatte arbeidet oppfyller kravene i første og andre ledd.",
+      "Bevis for levetidsforlengelse skal ha gyldighetsperiode på minimum to år, og kan ikke overstige fem år."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-8",
+   "navn": "kap8",
+   "overskrift": "Kapittel 8. Anleggssertifikat",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-1",
+     "nummer": "§ 36",
+     "tittel": "Krav om anleggssertifikat",
+     "ledd": [
+      "Alle akvakulturanlegg skal ha anleggssertifikat utstedt av inspeksjonsorgan akkreditert for å utstede anleggssertifikat, jf.§ 26. Anleggssertifikatet utstedes for ett akvakulturanlegg på én lokalitet.",
+      "Akvakulturanlegg som ikke har anleggssertifikat kan ikke brukes til akvakultur."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-2",
+     "nummer": "§ 37",
+     "tittel": "Vilkår for utstedelse av anleggssertifikatet",
+     "ledd": [
+      "Vilkår for utstedelse av anleggssertifikatet er at akkreditert inspeksjonsorgan har verifisert at:\na. akvakulturanlegget oppfyller kravene i § 11,\nb. akvakulturanleggets komponenter oppfyller kravene i § 12,\nc. forankrings- og posisjoneringssystemet oppfyller kravene i § 21,\nd. forankringsanalysen oppfyller kravene i § 22,\ne. utleggsrapporten og rapport etter forankringsinspeksjon oppfyller kravene i § 23,\nf. nødvendige produktsertifikat jf. § 31, levetidforlengelser jf. § 34 og hovedkomponentbevis foreligger,\ng. lokalitetsrapport foreligger jf. § 9,\nh. akvakulturanleggets komponenter er i teknisk forsvarlig stand og er montert i henhold til brukerhåndbok.",
+      "Dersom akvakulturanlegget ikke brukes til akvakultur på tidspunktet for utstedelse av anleggssertifikat, kan vilkåret i første ledd bokstav h fravikes. Da gjelder i stedet følgende krav:\n1. innehaver skal fremlegge prosedyrer til akkreditert inspeksjonsorgan som viser hvordan det skal sikres at akvakulturanleggets komponenter er i teknisk forsvarlig stand og blir montert i henhold til brukerhåndbok før bruk,\n2. akkreditert inspeksjonsorgan skal i rimelig utstrekning verifisere at fremlagte prosedyrer er tilstrekkelige for å ivareta sine formål før utstedelse av anleggssertifikat,\n3. innehaver skal senest samme dag som utsett av første fisk varsle akkreditert inspeksjonsorgan om tidspunkt for utsett,\n4. senest 30 dager etter utsett av første fisk skal akkreditert inspeksjonsorgan ha foretatt en verifikasjon av at akvakulturanleggets komponenter er i teknisk forsvarlig stand og er montert i henhold til brukerhåndbok, og\n5. dersom verifikasjon i henhold til nummer 4 ikke er foretatt innen 30 dager etter utsett av første fisk skal akkreditert inspeksjonsorgan trekke tilbake anleggssertifikatet og umiddelbart melde fra til Fiskeridirektoratet på den måte direktoratet bestemmer.",
+      "Dersom akkreditert inspeksjonsorgan avdekker avvik gjennom verifikasjon i henhold til første ledd bokstav h eller andre ledd, skal disse lukkes innen en rimelig frist satt av akkreditert inspeksjonsorgan. Denne type avvik er ikke til hinder for utstedelse av anleggssertifikat. Dersom påpekte avvik ikke lukkes før fastsatte frister, skal akkreditert inspeksjonsorgan trekke tilbake anleggssertifikatet og umiddelbart melde fra til Fiskeridirektoratet på den måte direktoratet bestemmer.",
+      "Dersom akkreditert inspeksjonsorgan avdekker vesentlige avvik gjennom verifikasjon etter første ledd bokstav h eller andre ledd nummer 2 skal anleggssertifikat ikke utstedes før disse er lukket. Dersom akkreditert inspeksjonsorgan avdekker vesentlige avvik gjennom verifikasjon etter andre ledd nummer 4 skal akkreditert inspeksjonsorgan påse at innehaver iverksetter umiddelbare korrigerende tiltak med påfølgende lukking av vesentlig avvik. Dersom dette ikke gjøres, skal akkreditert inspeksjonsorgan trekke tilbake anleggssertifikatet og umiddelbart melde fra til Fiskeridirektoratet på den måte direktoratet bestemmer."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-3",
+     "nummer": "§ 38",
+     "tittel": "Krav til anleggssertifikatet",
+     "ledd": [
+      "Anleggssertifikatet skal dokumentere at vilkårene i § 37 er oppfylt. Følgende skal også framgå av anleggssertifikatet:\na. inspeksjonsorganets navn, logo, adresse, akkrediteringsnummer og underskrift,\nb. akkrediteringsmerket til Norsk Akkreditering eller tilsvarende anerkjent akkrediteringsorgan,\nc. dato for utstedelse av sertifikatet og utløpsdato,\nd. unikt lokalitetsnummer for lokaliteten som akvakulturanlegget er utplassert på,\ne. dimensjonerende miljøforhold,\nf. eventuelle avvik som foreligger etter § 37 tredje ledd og frist for lukking,\ng. revisjonslogg."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-4",
+     "nummer": "§ 39",
+     "tittel": "Dokumentasjon av anleggskonfigurasjon",
+     "ledd": [
+      "Anleggssertifikatet skal beskrive akvakulturanleggets konfigurasjon på tidspunktet for verifikasjon etter § 37 bokstav h eller § 37 andre ledd punkt 4. Anleggssertifikatet skal også beskrive mulig fremtidig konfigurasjon. Det kan ikke foretas endringer av anleggets konfigurasjon utover det som er beskrevet i anleggssertifikatet uten at det innhentes nytt eller oppdatert anleggssertifikat.",
+      "Anleggets konfigurasjon skal beskrives i henhold til kravene i bokstav a–f:\na. for innhegning; utforming, dimensjoner, materiale, soliditet, utspilingssystem, antall innhegninger og plassering,\nb. for flyter; utforming, dimensjoner, materiale, antall flytere og plassering,\nc. for flåte; utforming, dimensjoner, materiale, plassering og om flåte har separat forankringssystem eller er forankret sammen med det øvrige anlegget,\nd. for forankringssystem; opplysninger om hele forankringssystemet og en skisse eller kart hvor alle hovedkomponenter i anlegget er tegnet inn,\ne. for integrert hovedkomponent; utforming, dimensjoner, materiale, antall og plassering av hovedkomponentene i anlegget,\nf. for permanent ekstrautstyr; opplysninger om bruk og plassering.",
+      "Innehaver av akvakulturtillatelse plikter å føre journal over samtlige hovedkomponenter og konstruksjonsdeler i forankringssystem som byttes inn og ut på lokaliteten.",
+      "Anleggssertifikat og journal over hovedkomponenter og konstruksjonsdeler i forankringssystem skal være tilgjengelig på akvakulturanlegget som anleggssertifikatet gjelder for eller på anleggets tilhørende landbase."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-5",
+     "nummer": "§ 40",
+     "tittel": "Oppdatering av eksisterende anleggssertifikat",
+     "ledd": [
+      "Akkreditert inspeksjonsorgan kan oppdatere eksisterende anleggssertifikat. Ved avdekking og lukking av avvik etter § 37 tredje ledd skal akkreditert inspeksjonsorgan oppdatere eksisterende anleggssertifikat.",
+      "Akkreditert inspeksjonsorgan skal ved oppdateringer:\na. gjennomføre en delrevisjon hvor det verifiseres at krav gitt i § 37 er oppfylt for de deler av anlegget som er påvirket av oppdateringen, og\nb. tilføre delrevisjonen i anleggssertifikatets revisjonslogg med revisjonsnummer, dato for oppdatering og beskrivelse av oppdateringens innhold."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-6",
+     "nummer": "§ 41",
+     "tittel": "Anleggssertifikatets gyldighet",
+     "ledd": [
+      "Anleggssertifikatet er gyldig i fem år fra utstedelsesdato. Ved oppdatering av eksisterende anleggssertifikat endres ikke opprinnelig utløpsdato.",
+      "Akvakulturanlegg skal til enhver tid være i samsvar med forutsetningene i anleggssertifikatet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-7",
+     "nummer": "§ 42",
+     "tittel": "Rapportering",
+     "ledd": [
+      "Inspeksjonsorgan som utsteder anleggssertifikat i henhold til dette kapittelet, skal senest to uker etter utstedelsen sende inn kopi av anleggssertifikatet og grunnlagsdata for utstedelse av sertifikatet til Fiskeridirektoratet på den måte direktoratet bestemmer."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-9",
+   "navn": "kap9",
+   "overskrift": "Kapittel 9. Krav til bruk, vedlikehold, tiltak ved avvik og varslingsplikt mv.",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-1",
+     "nummer": "§ 43",
+     "tittel": "Montering, tilpasning, bruk og vedlikehold",
+     "ledd": [
+      "Akvakulturanlegget skal til enhver tid være i forsvarlig teknisk stand. Komponenter som inngår i akvakulturanlegget skal:\na. til enhver tid være montert riktig sammen og tilpasset hverandre i samsvar med anleggssertifikatet, samt krav i denne forskriften og brukerhåndbøker, og\nb. brukes og vedlikeholdes i samsvar med krav oppstilt i brukerhåndbok, jf. § 16.",
+      "Ved nødvendige og midlertidige operasjoner på akvakulturanlegg kan det i kort tid, under tett overvåkning og kontrollerte forhold, avvikes fra kravet i første ledd bokstav a."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-2",
+     "nummer": "§ 44",
+     "tittel": "Plikt til å iverksette tiltak ved avvik, varslingsplikt mv.",
+     "ledd": [
+      "Dersom produsent eller leverandør av produkter eller tjenester til akvakulturnæringen har, eller burde ha, kjennskap til avvik ved egne produkter eller tjenester som kan føre til rømming av fisk, plikter produsenten eller leverandøren uten ugrunnet opphold å iverksette egnede tiltak for å lukke avvikene. Produsent eller leverandør skal straks varsle avviket til Fiskeridirektoratet og til mottakere av produktet eller tjenesten.",
+      "Dersom innehaver av akvakulturtillatelse har, eller burde ha, kjennskap til avvik ved produkter eller tjenester som kan føre til rømming av fisk, plikter vedkommende uten ugrunnet opphold å iverksette egnet tiltak for å hindre eller begrense rømming. Innehaveren skal straks varsle om avviket til Fiskeridirektoratet og til leverandøren av produktet eller tjenesten.",
+      "Varsling om avvik etter første og andre ledd skal sendes til Fiskeridirektoratet på den måten Fiskeridirektoratet bestemmer."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-3",
+     "nummer": "§ 45",
+     "tittel": "Krav om sertifisering for kontroll og reparasjon av notpose, notpanel, dukpose og dukpanel",
+     "ledd": [
+      "Tjenesteprodusent som skal foreta kontroll og reparasjon av notpose, notpanel, dukpose og dukpanel skal ha sertifiseringsdokument utstedt av akkreditert sertifiseringsorgan, jf. § 26.",
+      "Sertifiseringsdokumentet skal som minimum inneholde følgende opplysninger:\na. tjenesteprodusentens navn, adresse og organisasjonsnummer;\nb. sertifiseringsorganets navn, logo, adresse, akkrediteringsnummer og underskrift;\nc. et unikt nummer for sertifiseringsdokumentet;\nd. dato for utstedelse av sertifikatet;\ne. hvilke normative dokument virksomheten er sertifisert i henhold til og\nf. hvilke tjenester virksomheten er sertifisert for."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-4",
+     "nummer": "§ 46",
+     "tittel": "Krav til kontroll og reparasjon av notpose, notpanel, dukpose og dukpanel",
+     "ledd": [
+      "Notpose, notpanel, dukpose og dukpanel skal ha servicekort utstedt av sertifisert tjenesteprodusent, jf. § 45, senest 24 måneder etter oppstart av bruk og ved bruk utover den levetiden som er lagt til grunn i produktsertifikat.",
+      "Vilkår for å utstede servicekort er at sertifisert virksomhet har:\na. foretatt kontroll og nødvendig reparasjon av hele notposen, notpanelet, dukposen eller dukpanelet og\nb. godtgjort at notposen, notpanelet, dukposen eller dukpanelet oppfyller kravene i § 11 og § 18 og krav i brukerhåndbok, jf. § 16.",
+      "Servicekortet skal inneholde følgende opplysninger:\na. den sertifiserte tjenesteprodusentens navn, adresse og underskrift,\nb. sertifiseringsdokumentets identifikasjon for den sertifiserte virksomheten,\nc. identifikasjon av notposen, notpanelet, dukposen eller dukpanelet,\nd. akseptkriterier og resultater fra kontroll,\ne. beskrivelse av skaders plassering og omfang,\nf. beskrivelse av reparasjoner,\ng. gyldighetsperiode for servicekort.",
+      "Sertifisert tjenesteprodusent fastsetter gyldighetsperioden for servicekortet. Gyldighetsperioden for servicekortet kan være inntil 24 måneder.",
+      "Sertifisert tjenesteprodusent kan forlenge gyldighetsperioden for servicekortet eller for produktsertifikatet med inntil 4 måneder én gang dersom sertifisert tjenesteprodusent har foretatt kontroll som viser at notposen, notpanelet, dukposen eller dukpanelet er i tilfredsstillende stand. For notpose, notpanel, dukpose eller dukpanel som brukes til akvakultur av kveite kan gyldighetsperioden for servicekortet eller for produktsertifikatet forlenges med inntil 12 måneder én gang dersom sertifisert tjenesteprodusent har foretatt kontroll som viser at innhegningen er i tilfredsstillende stand.",
+      "Dersom innehaver har, eller burde ha, kjennskap til skade ved notpose, notpanel, dukpose eller dukpanel som kan medføre fare for rømming av fisk, skal innehaver sikre at sertifisert tjenesteprodusent snarest mulig foretar kontroll og eventuelt reparasjon av den aktuelle komponenten.",
+      "Lokale og midlertidige utbedringer som er nødvendige for å hindre rømming av fisk mens notposen, notpanelet, dukposen eller dukpanelet er i bruk, anses ikke som reparasjon etter bestemmelsen. Lokale og midlertidige utbedringer som er utført på en notpose, notpanel, dukpose eller dukpanel skal enten kontrolleres og godkjennes av, eller repareres av, sertifisert tjenesteprodusent.",
+      "Dokumentasjon av kontroll, reparasjon og godkjenning av utbedring skal følge den aktuelle notposen, notpanelet, dukposen eller dukpanelet. Sertifisert tjenesteprodusent skal vurdere om utbedring eller reparasjon påvirker gyldighetsperiode for servicekortet eller resterende dimensjonerende brukstid for produktsertifikat, og om nødvendig nedjustere denne."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-10",
+   "navn": "kap10",
+   "overskrift": "Kapittel 10. Sluttbestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-1",
+     "nummer": "§ 47",
+     "tittel": "Dispensasjonsadgang",
+     "ledd": [
+      "Fiskeridirektoratet kan i særlige tilfeller dispensere fra forskriften."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-2",
+     "nummer": "§ 48",
+     "tittel": "Straff og andre reaksjoner ved overtredelse",
+     "ledd": [
+      "Overtredelse av forskriften eller vedtak fattet i medhold av den, kan medføre straff og andre reaksjoner etter lov 17. juni 2005 nr. 79 om akvakultur."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-3",
+     "nummer": "§ 49",
+     "tittel": "Ikrafttredelse og oppheving av forskrift",
+     "ledd": [
+      "Forskriften trer i kraft 1. januar 2023. Fra samme tidspunkt oppheves forskrift 16. august 2011 nr. 849 om krav til teknisk standard for flytende akvakulturanlegg (NYTEK-forskriften)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-4",
+     "nummer": "§ 50",
+     "tittel": "Overgangsbestemmelser",
+     "ledd": [
+      "Innehavere og vare- og tjenesteprodusenter kan før 1. januar 2024 velge mellom å oppfylle kravene i denne forskrift eller kravene i forskrift 16. august 2011 nr. 849.",
+      "Produktsertifikat, hovedkomponentbevis og anleggssertifikat utstedt før 1. januar 2024 etter forskrift 16. august 2011 nr. 849 vil være gyldige med sine begrensninger også etter 1. januar 2024.",
+      "Anleggssertifikat utstedt i medhold av kravene i forskrift 16. august 2011 nr. 849 kan ikke oppdateres etter 31. desember 2023."
+     ]
+    }
+   ]
+  }
+ ]
+}

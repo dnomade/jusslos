@@ -1,0 +1,54 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-2015-12-15-1679",
+ "dokumentid": "DEL/forskrift/2015-12-15-1679",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Skattelovavd."
+ ],
+ "kunngjort_i": "I 2015 hefte 15",
+ "ikraft": "2016-01-01",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1975-12-12-59/§3",
+   "tekst": "lov/1975-12-12-59/§3"
+  }
+ ],
+ "kunngjort": "2015-12-23 15:30",
+ "korttittel": "Deleg. av myndighet til Skattedirektoratet etter dokumentavgiftsloven",
+ "tittel": "Delegering av myndighet etter Stortingets årlige avgiftsvedtak og dokumentavgiftsloven § 3",
+ "annet": "Hjemmel: Fastsatt av Finansdepartementet 15. desember 2015 med hjemmel i Stortingets årlige avgiftsvedtak og lov 12. desember 1975 nr. 59 om dokumentavgift § 3.",
+ "refid": "forskrift/2015-12-15-1679",
+ "eli": "/eli/forskrift/2015/12/15/1679",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/2015-12-15-1679",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Finansdepartementets myndighet til å fatte vedtak om fritak for eller nedsettelse av dokumentavgiftskrav, herunder tilleggsavgift og renter, etter Stortingets årlige avgiftsvedtak og lov 12. desember 1975 nr. 59 om dokumentavgift § 3 delegeres til Skattedirektoratet."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Delegeringen under I trer i kraft 1. januar 2016."
+    }
+   ]
+  }
+ ]
+}

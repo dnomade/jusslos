@@ -1,0 +1,385 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2006-10-30-1250",
+ "dokumentid": "SF/forskrift/2006-10-30-1250",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "etat": [
+  "Fiskeri- og havbruksavd."
+ ],
+ "kunngjort_i": "I 2006 hefte 14",
+ "ikraft": "2007-01-01, 2008-01-01, 2012-07-01",
+ "siste_endring_ikraft": "2015-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2014-12-15-1831",
+   "tekst": "forskrift/2014-12-15-1831 fra 2015-01-01"
+  }
+ ],
+ "endrer": "forskrift/2002-08-30-941\nforskrift/1996-06-14-667",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2003-12-19-124/§3",
+   "tekst": "lov/2003-12-19-124/§3"
+  },
+  {
+   "ref": "lov/2003-12-19-124/§5",
+   "tekst": "lov/2003-12-19-124/§5"
+  },
+  {
+   "ref": "lov/2003-12-19-124/§6",
+   "tekst": "lov/2003-12-19-124/§6"
+  },
+  {
+   "ref": "lov/2003-12-19-124/§7",
+   "tekst": "lov/2003-12-19-124/§7"
+  },
+  {
+   "ref": "lov/2003-12-19-124/§15",
+   "tekst": "lov/2003-12-19-124/§15"
+  },
+  {
+   "ref": "lov/2003-12-19-124/§19",
+   "tekst": "lov/2003-12-19-124/§19"
+  },
+  {
+   "ref": "forskrift/2004-05-05-884",
+   "tekst": "forskrift/2004-05-05-884"
+  },
+  {
+   "ref": "lov/2009-06-19-97/§6",
+   "tekst": "lov/2009-06-19-97/§6"
+  },
+  {
+   "ref": "lov/2009-06-19-97/§7",
+   "tekst": "lov/2009-06-19-97/§7"
+  },
+  {
+   "ref": "lov/2009-06-19-97/§8",
+   "tekst": "lov/2009-06-19-97/§8"
+  },
+  {
+   "ref": "lov/2009-06-19-97/§12",
+   "tekst": "lov/2009-06-19-97/§12"
+  },
+  {
+   "ref": "forskrift/2010-06-11-814",
+   "tekst": "forskrift/2010-06-11-814"
+  },
+  {
+   "ref": "forskrift/2003-12-19-1790",
+   "tekst": "forskrift/2003-12-19-1790"
+  }
+ ],
+ "kunngjort": "2006-11-17",
+ "korttittel": "Forskrift om slakterier mv. for akvakulturdyr",
+ "tittel": "Forskrift om slakterier og tilvirkingsanlegg for akvakulturdyr",
+ "annet": "Hjemmel: Fastsatt av Fiskeri- og kystdepartementet (nå Nærings- og fiskeridepartementet) 30. oktober 2006 med hjemmel i lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) § 3, § 5, § 6, § 7 annet ledd, § 15 og § 19 tredje ledd, jf. delegeringsvedtak 5. mai 2004 nr. 884 og lov 19. juni 2009 nr. 97 om dyrevelferd § 6, § 7, § 8 og § 12, jf. delegeringsvedtak 11. juni 2010 nr. 814.\nTilføyd hjemmel: Delegeringsvedtak 19. desember 2003 nr. 1790.\nEndret ved forskrifter 27 okt 2007 nr. 1267, 17 juni 2008 nr. 826, 9 des 2009 nr. 1487, 29 mars 2010 nr. 491, 6 aug 2010 nr. 1147, 19 jan 2011 nr. 57, 21 jan 2013 nr. 62, 15 des 2014 nr. 1831.",
+ "refid": "forskrift/2006-10-30-1250",
+ "eli": "/eli/forskrift/2006/10/30/1250",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2006-10-30-1250",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Formål, virkeområder og definisjoner",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Formål",
+     "ledd": [
+      "Formålet med denne forskriften er å fremme god helse hos akvakulturdyr og ivareta god velferd hos fisk."
+     ],
+     "endringer": [
+      "Endret ved forskrift 17 juni 2008 nr. 826 (i kraft 1 aug 2008)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Forskriften gjelder for norsk landterritorium og territorialfarvann, på kontinentalsokkelen og i Norges økonomiske sone.",
+      "Forskriften gjelder virksomheter hvor det foregår slakting eller tilvirkning av akvakulturdyr, inkludert ekspedisjonssentraler for bløtdyr som er akvakulturdyr.",
+      "Forskriften gjelder ikke for:\na. tilvirking hos detaljist for salg direkte til forbruker, herunder storhusholdning, kantine, serveringssted og lignende,\nb. slakting og tilvirking av sjøpattedyr,\nc. slaktemerder, og\nd. fangsbasert akvakultur.",
+      "Kapittel 4 gjelder i tillegg til artikkel 3 nummer 1 i forordning (EF) nr. 1099/2009 som er gjennomført i forskrift 13. januar 2013 nr. 60 om avliving av dyr."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 17 juni 2008 nr. 826 (i kraft 1 aug 2008), 21 jan 2013 nr. 62 (i kraft 1 feb 2013), 15 des 2014 nr. 1831 (i kraft 1 jan 2015)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "I denne forskrift mener en med:\na. Akvakulturdyr: alle livsstadier inklusive kjønnsprodukter og hvilestadier, av alle akvatiske dyr oppdrettet i et akvakulturanlegg eller et akvakulturområde for bløtdyr, inkludert alle akvatiske dyr som har vært viltlevende og som er ment for et akvakulturanlegg eller et akvakulturområde for bløtdyr.\nb. Akvatiske dyr:\n1. kjeveløse fisk (urfisk) som tilhører overklassen Agnatha, bruskfisk og beinfisk som tilhører klassene Chondrichthyes og Osteichthyes\n2. bløtdyr som tilhører rekken Mollusca\n3. skalldyr som tilhører underrekken Crustacea.\nc. Avløpsvann: væske fra slakte- og tilvirkingsprosessen – herunder vaskevann fra produksjonslokalene.\nd. Slakting: bedøving og avliving av fisk.\ne. Tilvirkning: tilvirkning av akvakulturdyr før konsum ved enhver type tiltak eller teknikk som endrer den anatomiske helheten, slik som bløgging, sløying, hodekapping, kutting, filetering, rensing og tining som genererer avfall eller biprodukter og som kan forårsake spredning av sykdom."
+     ],
+     "endringer": [
+      "Endret ved forskrift 17 juni 2008 nr. 826 (i kraft 1 aug 2008)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Krav til søknad og godkjenning",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Kapittel 2 endret ved forskrift 17 juni 2008 nr. 826 (i kraft 1 aug 2008)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 4",
+     "tittel": "Krav til godkjenning",
+     "ledd": [
+      "Etablering, drift, utvidelse, flytting og endring av drift ved slakteri og tilvirkningsanlegg skal godkjennes av Mattilsynet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 5",
+     "tittel": "Krav til søknad om godkjenning",
+     "ledd": [
+      "Søknad om godkjenning skal inneholde de opplysninger som er nødvendige for å vurdere om godkjenning kan gis og hvilke vilkår som eventuelt skal stilles.",
+      "Søknad om godkjenning skal minst inneholde opplysninger om følgende:\na. Navn på slakteri- eller tilvirkningsanlegg, driftsansvarlig, adresse, telefonnummer, telefaksnummer, eventuelt mobiltelefonnummer og e-postadresse.\nb. Kart og koordinatangivelse som beskriver plassering av virksomheten og plantegning av slakteri- eller tilvirkningsanlegget.\nc. System for behandling av avløpsvann.\nd. Arter av akvakulturdyr som skal slaktes eller tilvirkes ved slakteriet eller tilvirkningsanlegget, produksjon og driftsomfang.\ne. Internkontrollsystem som sannsynliggjør at krav til smittehygienisk og velferdsmessig forsvarlig drift, inkludert krav til journalføring, kan etterleves.\nf. Hvilke metoder og innretninger som er valgt for sedering, bedøving og avliving av fiskene og dokumentasjon på at disse er utprøvd og funnet egnede.",
+      "Det kan kreves ytterligere opplysninger dersom det er nødvendig for å vurdere om godkjenning kan gis."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 6",
+     "tittel": "Forhold som vurderes ved godkjenning",
+     "ledd": [
+      "Slakteri og tilvirkingsanlegg skal:\na. lokaliseres slik at nødvendige smitteforebyggende hensyn til nærliggende akvakulturanlegg og viltlevende bestander av akvatiske dyr blir ivaretatt,\nb. bygges slik at krav til behandling av avløpsvann og biprodukter kan oppfylles,\nc. ha drenering av avløpsvann til eget avløpssystem, om nødvendig skal drenering også omfatte avløpsvann fra losseplass og andre arealer som eksponeres for biprodukter,\nd. ha lager for biprodukter som er plassert atskilt fra produksjonslokalene, og med nødvendig kapasitet for mellomlagring,\ne. ha tekniske innretninger og utstyr som er egnet ut fra hensynet til fiskevelferd, og\nf. ha et internkontrollsystem som sannsynliggjør at krav til smittehygienisk og fiskevelferdsmessig forsvarlig drift, inkludert krav til journalføring, kan etterleves.",
+      "Det kan stilles vilkår til godkjenningen.",
+      "Bestemmelsen i første og andre ledd er ikke til hinder for at flytende mobile slakterier kan godkjennes på særskilte vilkår."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 7",
+     "tittel": "Endring og tilbaketrekking av godkjenning",
+     "ledd": [
+      "Godkjenning etter § 4 kan endres eller trekkes tilbake dersom det foreligger vesentlige brudd på vilkår i godkjenningen eller bestemmelser gitt i eller i medhold av matloven eller dyrevernloven."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Smittehygieniske krav til drift av slakterier og tilvirkningsanlegg",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Kapittel 3 endret ved forskrift 17 juni 2008 nr. 826 (i kraft 1 aug 2008)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 8",
+     "tittel": "Generelle smittehygieniske krav",
+     "ledd": [
+      "Driften skal være smittehygienisk forsvarlig. Det skal sikres at personell, arbeidstøy, utstyr, gjenstander, brukt emballasje med videre ikke sprer smitte.",
+      "Det skal opprettholdes et skille mellom biprodukter og avløpsvann.",
+      "Alt avløpsvann skal behandles i henhold til krav fastsatt i forskrift 20. februar 1997 nr. 192 om desinfeksjon av inntaksvann til og avløpsvann fra akvakulturrelatert virksomhet.",
+      "Akvakulturdyr skal ikke føres levende ut igjen fra slakteri og tilvirkningsanlegg, med mindre de er beregnet for direkte konsum."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 9",
+     "tittel": "Journalføring og varsling",
+     "ledd": [
+      "Mottak av akvakulturdyr eller akvakulturdyrprodukter inn til, og uttak av akvakulturdyrprodukter ut fra slakteri- eller tilvirkningsanlegg skal journalføres.",
+      "Mattilsynet skal varsles umiddelbart ved:\na. grunn til mistanke om sykdom på liste 1, 2 eller 3, med unntak av lakselus, eller\nb. teknisk svikt eller andre forhold som har medført vesentlige velferdsmessige konsekvenser for fisken."
+     ],
+     "endringer": [
+      "Endret ved forskrift 29 mars 2010 nr. 491."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Nasjonale tilleggsbestemmelser om fiskevelferd",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Overskriften endret ved forskrift 21 jan 2013 nr. 62 (i kraft 1 feb 2013)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 10",
+     "tittel": "Generelle velferdskrav",
+     "ledd": [
+      "Kravene i dette kapitlet gjelder i tillegg til forordning (EF) nr. 1099/2009 artikkel 3 nr. 1 om at også fisk skal vernes mot unngåelig smerte, lidelse og frykt ved avliving og aktiviteter i forbindelse med det.",
+      "Fisken skal avlives så raskt som mulig etter at den har ankommet slakteriet.",
+      "Det skal ikke avlives flere fisk per tidsenhet enn det som er forsvarlig ut fra hensynet til fiskevelferd. Tilsynsmyndigheten kan fastsette øvre grense for slaktehastigheten."
+     ],
+     "endringer": [
+      "Endret ved forskrift 17 juni 2008 nr. 826 (i kraft 1 aug 2008, tidligere § 8), 21 jan 2013 nr. 62 (i kraft 1 feb 2013)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 11",
+     "tittel": "Kompetanse",
+     "ledd": [
+      "Ansvarlig for slakteriet skal ha nødvendig kunnskap om fiskevelferd og skal sikre at det er tilstrekkelig personell med nødvendig kompetanse til å ivareta fiskenes velferd til enhver tid.",
+      "Nødvendig kompetanse skal sikres gjennom et teoretisk og praktisk opplæringsprogram og skal kunne dokumenteres. Ansvarlig for slakteriet har ansvar for at det etableres slike opplæringsprogram for det aktuelle personell."
+     ],
+     "endringer": [
+      "Endret ved forskrift 17 juni 2008 nr. 826 (i kraft 1 aug 2008, tidligere § 9)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 12",
+     "tittel": "Metoder og tekniske innretninger",
+     "ledd": [
+      "Metoder, tekniske innretninger og utstyr som brukes til fisk, skal være egnet ut fra hensynet til fiskevelferd.",
+      "Nye metoder og tekniske løsninger skal være utprøvd og funnet forsvarlige før de tas i bruk.",
+      "Feil og mangler ved installasjoner, tekniske innretninger og utstyr skal straks utbedres.",
+      "Dersom driften er avhengig av strøm for å ivareta fiskevelferden, skal det være tilgang på nok strøm, sikkerhet i strømforsyningen og/eller tilgang på nærliggende aggregat eller nødoksygen med nødvendig kapasitet."
+     ],
+     "endringer": [
+      "Endret ved forskrift 17 juni 2008 nr. 826 (i kraft 1 aug 2008, tidligere § 10)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 13",
+     "tittel": "Håndtering og sedering",
+     "ledd": [
+      "Fisk skal håndteres på en skånsom måte og føres gjennom anlegget frem til avliving uten unødig opphold.",
+      "Sedering skal utføres på forsvarlig måte, og fisken skal sikres forsvarlig vannkvalitet under trenging og sedering.",
+      "Levende kjøling skal utføres uten for raske temperaturendringer eller for lav temperatur. CO2 kan tilsettes under forutsetting av at god fiskevelferd kan dokumenteres gjennom hele prosessen."
+     ],
+     "endringer": [
+      "Endret ved forskrift 17 juni 2008 nr. 826 (i kraft 1 aug 2008, tidligere § 11)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-5",
+     "nummer": "§ 14",
+     "tittel": "Bedøving",
+     "ledd": [
+      "Fisk skal bedøves før eller samtidig med avliving og være bedøvd til døden inntrer. Bedøving skal skje ved egnet metode som ikke påfører fisken vesentlig stress eller smerte. Om nødvendig skal fisken sederes eller immobiliseres på forsvarlig måte før bedøving.",
+      "Det er forbudt å bedøve fisk ved hjelp av gass, herunder CO2 , eller annet som blokkerer oksygenopptaket, samt salt, salmiakk eller andre kjemikaler med lignende virkning."
+     ],
+     "endringer": [
+      "Endret ved forskrift 17 juni 2008 nr. 826 (i kraft 1 aug 2008, tidligere § 12)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-6",
+     "nummer": "§ 15",
+     "tittel": "Avliving",
+     "ledd": [
+      "Fisk skal avlives umiddelbart etter bedøving, og det skal sikres at den er død før videre behandling. Fisken skal dø som følge av blodtap fra hjernen. Annen avlivingsmetode kan brukes dersom det kan dokumenteres at den er forsvarlig."
+     ],
+     "endringer": [
+      "Endret ved forskrift 17 juni 2008 nr. 826 (i kraft 1 aug 2008, tidligere § 13)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Administrative bestemmelser og straff",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 16",
+     "tittel": "Tilsyn og vedtak",
+     "ledd": [
+      "Mattilsynet fører tilsyn og fatter nødvendige vedtak for å gjennomføre bestemmelsene gitt i og i medhold av denne forskriften."
+     ],
+     "endringer": [
+      "Endret ved forskrift 17 juni 2008 nr. 826 (i kraft 1 aug 2008, tidligere § 14)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 17",
+     "tittel": "Dispensasjon",
+     "ledd": [
+      "Mattilsynet kan i særlige tilfeller dispensere fra bestemmelsene i denne forskriften, forutsatt at det ikke vil stride mot Norges internasjonale forpliktelser, herunder EØS-avtalen."
+     ],
+     "endringer": [
+      "Endret ved forskrift 17 juni 2008 nr. 826 (i kraft 1 aug 2008, tidligere § 15)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 18",
+     "tittel": "Straff",
+     "ledd": [
+      "Overtredelse av bestemmelser gitt i denne forskriften eller enkeltvedtak gitt i medhold av forskriften, er straffbart i henhold til matloven § 28 og dyrevelferdsloven § 37."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 17 juni 2008 nr. 826 (i kraft 1 aug 2008, tidligere § 16), 6 aug 2010 nr. 1147."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-4",
+     "nummer": "§ 19",
+     "tittel": "Ikrafttredelse og overgangsordninger",
+     "ledd": [
+      "Forskriften trer i kraft 1. januar 2007.",
+      "Slakterier og tilvirkingsanlegg etablert før 30. august 2002 er unntatt fra kravet i § 6 bokstav a. Dette gjelder likevel ikke hvis slakteriet eller tilvirkingsanlegget vil utvide, flytte eller endre drift.",
+      "§ 11 annet ledd om dokumentasjon av kompetanse trer i kraft 1. januar 2008. § 14 annet ledd om forbud mot bruk av CO2 som bedøvningsmetode, trer i kraft 1. juli 2012."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 17 juni 2008 nr. 826 (i kraft 1 aug 2008, tidligere § 17), 9 des 2009 nr. 1487, 19 jan 2011 nr. 57."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-5",
+     "nummer": "§ 20",
+     "tittel": "Endringer i andre forskrifter",
+     "ledd": [
+      "1. Forskrift 30. august 2002 nr. 941 om slakterier og tilvirkingsanlegg for akvatiske dyr fra akvakulturanlegg og havbeite oppheves.\n2. I kvalitetsforskrift 14. juni 1996 nr. 667 for fisk og fiskevarer gjøres følgende endringer: ---"
+     ],
+     "endringer": [
+      "Endret ved forskrift 17 juni 2008 nr. 826 (i kraft 1 aug 2008, tidligere § 18)."
+     ]
+    }
+   ]
+  }
+ ]
+}

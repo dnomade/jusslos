@@ -1,0 +1,57 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-1985-07-12-1442",
+ "dokumentid": "DEL/forskrift/1985-07-12-1442",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "etat": [
+  "Adm.avd."
+ ],
+ "kunngjort_i": "I 1985 970",
+ "ikraft": "1985-07-12",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1893-07-20-1/§9",
+   "tekst": "lov/1893-07-20-1/§9"
+  },
+  {
+   "ref": "lov/1994-06-24-39/§512",
+   "tekst": "lov/1994-06-24-39/§512"
+  }
+ ],
+ "korttittel": "Endr. delegering etter sjøfartsloven",
+ "tittel": "Endring vedrørende delegering av myndighet etter sjøfartsloven (kjenningssignal – fiskerifartøyer).",
+ "annet": "Fastsatt ved kgl.res. av 12. juli 1985. Fremmet av Fiskeridepartementet.",
+ "refid": "forskrift/1985-07-12-1442",
+ "eli": "/eli/forskrift/1985/07/12/1442",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/1985-07-12-1442",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Fiskeridepartementet bemyndiges til å gi forskrifter om retroreflekterende merker (kjenningssignal) på fiskefartøyer i medhold av § 9 i lov om sjøfarten av 20. juli 1893 nr. 1.\nDen myndighet Handelsdepartementet har fått delegert ved kgl.res. 6. oktober 1972 begrenses tilsvarende."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Denne resolusjon trer i kraft straks."
+    }
+   ]
+  }
+ ]
+}

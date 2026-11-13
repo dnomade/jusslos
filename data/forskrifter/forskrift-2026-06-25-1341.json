@@ -1,0 +1,70 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2026-06-25-1341",
+ "dokumentid": "SF/forskrift/2026-06-25-1341",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Finansmarkedsavdelingen"
+ ],
+ "ikraft": "2026-06-25, 2026-07-01, 2027-01-01",
+ "endrer": "lov/2000-03-24-16\nlov/2005-06-10-44",
+ "hjemmel": [
+  {
+   "ref": "lov/2026-05-07-16",
+   "tekst": "lov/2026-05-07-16"
+  },
+  {
+   "ref": "forskrift/2026-05-07-752",
+   "tekst": "forskrift/2026-05-07-752"
+  }
+ ],
+ "kunngjort": "2026-06-26 09:25",
+ "tittel": "Forskrift om ikrafttredelse og overgangsregler til lov 7. mai 2026 nr. 16 om endringer i foretakspensjonsloven og forsikringsvirksomhetsloven (forvaltning av garanterte pensjonsprodukter)",
+ "annet": "Hjemmel: Fastsatt av Finansdepartementet 25. juni 2026 med hjemmel i lov 7. mai 2026 nr. 16 om endringer i foretakspensjonsloven og forsikringsvirksomhetsloven (forvaltning av garanterte pensjonsprodukter) del III, jf. kgl.res. 7. mai 2026 nr. 752.",
+ "refid": "forskrift/2026-06-25-1341",
+ "eli": "/eli/forskrift/2026/06/25/1341",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2026-06-25-1341",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Lov 7. mai 2026 nr. 16 om endringer i foretakspensjonsloven og forsikringsvirksomhetsloven (forvaltning av garanterte pensjonsprodukter) trer i kraft 1. juli 2026, med unntak av loven del II § 3-19 fjerde ledd og § 6-7 fjerde ledd første punktum, som trer i kraft 1. januar 2027."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Overgangsregler",
+     "ledd": [
+      "For kollektive pensjonsordninger etablert i samsvar med foretakspensjonsloven, tjenestepensjonsloven eller innskuddspensjonsloven og kommunale pensjonsordninger gjelder lov 7. mai 2026 nr. 16 om endringer i foretakspensjonsloven og forsikringsvirksomhetsloven (forvaltning av garanterte pensjonsprodukter) del II fra 1. januar 2027."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Denne forskriften trer i kraft straks."
+    }
+   ]
+  }
+ ]
+}

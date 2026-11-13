@@ -1,0 +1,364 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2008-08-18-942",
+ "dokumentid": "SF/forskrift/2008-08-18-942",
+ "departement": [
+  "Arbeids- og inkluderingsdepartementet"
+ ],
+ "etat": [
+  "Pensjonsavd."
+ ],
+ "kunngjort_i": "I 2008 hefte 9",
+ "ikraft": "2008-09-01",
+ "siste_endring_ikraft": "2024-12-23",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2024-12-23-3436",
+   "tekst": "forskrift/2024-12-23-3436"
+  }
+ ],
+ "endrer": "forskrift/1991-07-04-454\nforskrift/1998-01-16-37",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1997-02-28-19/§1-3",
+   "tekst": "lov/1997-02-28-19/§1-3"
+  },
+  {
+   "ref": "lov/1997-02-28-19/§25-1",
+   "tekst": "lov/1997-02-28-19/§25-1"
+  },
+  {
+   "ref": "lov/1997-02-28-19/§25-3",
+   "tekst": "lov/1997-02-28-19/§25-3"
+  },
+  {
+   "ref": "lov/1997-02-28-19/§25-10",
+   "tekst": "lov/1997-02-28-19/§25-10"
+  },
+  {
+   "ref": "lov/1997-02-28-19/§25-15",
+   "tekst": "lov/1997-02-28-19/§25-15"
+  },
+  {
+   "ref": "forskrift/1998-01-16-37",
+   "tekst": "forskrift/1998-01-16-37"
+  },
+  {
+   "ref": "lov/2012-06-22-43/§4",
+   "tekst": "lov/2012-06-22-43/§4"
+  }
+ ],
+ "kunngjort": "2008-08-26 14:30",
+ "korttittel": "Forskrift om AA-registeret",
+ "tittel": "Forskrift om Arbeidsgiver- og arbeidstakerregisteret",
+ "annet": "Hjemmel: Fastsatt av Arbeids- og inkluderingsdepartementet 18. august 2008 med hjemmel i lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven) § 25-1 og forskrift 16. januar 1998 nr. 37 om videreføring av to forskrifter gitt med hjemmel i lov om folketrygd del II, fastsatt med hjemmel i lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven) § 1-3, § 25-1, § 25-3, § 25-10, og § 25-15 og sjømannslov 30. mai 1975 nr. 18 § 54a.\nTilføyd hjemmel: Lov 22. juni 2012 nr. 43 om arbeidsgivers innrapportering av ansettelses- og inntektsforhold m.m. (a-opplysningsloven) § 4.\nEndret ved forskrifter 15 aug 2011 nr. 838, 8 okt 2012 nr. 947, 10 juli 2014 nr. 967, 30 okt 2015 nr. 1246, 13 mars 2018 nr. 339, 4 juni 2018 nr. 805, 18 jan 2019 nr. 32, 24 sep 2019 nr. 1193, 21 des 2020 nr. 3148 (i kraft 1 jan 2021, bl.a. tittel), 17 sep 2021 nr. 2771, 23 des 2024 nr. 3436.",
+ "refid": "forskrift/2008-08-18-942",
+ "eli": "/eli/forskrift/2008/08/18/942",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2008-08-18-942",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I. Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Registeransvarlig",
+     "ledd": [
+      "Arbeids- og velferdsdirektoratet er registeransvarlig myndighet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Formål",
+     "ledd": [
+      "Forskriftens formål er å bidra til sikker, korrekt og effektiv rapportering av opplysninger om arbeidsforhold.",
+      "Formålet med Arbeidsgiver- og arbeidstakerregisteret er å tjene Arbeids- og velferdsetaten og andre som har behov for opplysninger om arbeidsforhold i forbindelse med løsning av offentlige oppgaver."
+     ],
+     "endringer": [
+      "Endret ved forskrift 21 des 2020 nr. 3148 (i kraft 1 jan 2021)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "1. Arbeidsgiver\nEnhver som benytter seg av arbeidstaker for utførelse av arbeid mot vederlag i Norge eller på NOR- eller NIS-registrerte skip og flyttbare innretninger, er å anse som arbeidsgiver etter forskriften. Det samme gjelder den som benytter seg av arbeidstaker i forbindelse med undersøkelse etter og utnyttelse av undersjøiske petroleumsforekomster på den norske kontinentalsokkelen og dertil knyttet virksomhet og arbeid.\nSom arbeidsgiver anses i alle tilfeller den som selv eller ved fullmektig utbetaler vederlag som skal innberettes til ligningsmyndighetene. Dette gjelder også for arbeid som utføres på Svalbard, Jan Mayen, norske biland og i utlandet eller på utenlandsregistrerte skip eller flyttbare innretninger.\n2. Arbeidstaker\nMed arbeidstaker menes enhver som arbeider i annens tjeneste for lønn eller annen godtgjørelse, jf. folketrygdloven § 1-8.\n3. Oppdragsgiver\nMed oppdragsgiver menes i forskriften her enhver som benytter seg av en frilanser til å utføre arbeid eller oppdrag utenfor tjeneste for lønn eller annen godtgjørelse.\n4. Frilanser\nMed frilanser menes enhver som utfører arbeid eller oppdrag utenfor tjeneste for lønn eller annen godtgjørelse, men uten å være selvstendig næringsdrivende, jf. folketrygdloven § 1-9.\n5. Innretninger\nMed innretninger menes innretning i petroleumsvirksomhet når innretningen er underlagt arbeidsmiljøloven i medhold av forskrift 12. februar 2010 nr. 158 om helse, miljø og sikkerhet i petroleumsvirksomheten og på enkelte landanlegg.\n6. Offentlige myndigheter\nMed offentlige myndigheter menes statlige, fylkeskommunale og kommunale organer som blant annet har til oppgave å fatte enkeltvedtak, fastsette forskrifter, inndrive gjeld, utarbeide forkynnelser, utskrive personell, kartlegge/lage planer for befolkningen og utarbeide statistiske oppgaver."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 15 aug 2011 nr. 838 (i kraft 1 nov 2011), 10 juli 2014 nr. 967 (i kraft 1 jan 2015), 21 des 2020 nr. 3148 (i kraft 1 jan 2021)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II. Om melding til registeret",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 4",
+     "tittel": "Plikt til å registrere seg som arbeidsgiver og oppdragsgiver",
+     "ledd": [
+      "1. Registreringsplikt\nEnhver arbeidsgiver og oppdragsgiver, jf. § 3 nr. 1 og 3, plikter å registrere seg i Arbeidsgiver- og arbeidstakerregisteret ved å sende melding til Enhetsregisteret. Registreringsplikten gjelder også for en hovedenhets enkelte underenheter. Registrering i Enhetsregisteret skal skje i henhold til bestemmelsene i enhetsregisterloven med tilhørende forskrift.\nUtbetaling av lønn som nevnt i folketrygdloven § 23-2 sjette og sjuende ledd medfører ikke plikt til å registrere seg som arbeidsgiver eller oppdragsgiver.\n2. Frister for registrering\nMelding om registrering skal sendes senest fredag i uken etter at vedkommende har tatt inn en person i sin tjeneste eller gitt en person et oppdrag. Melding om opphør og andre endringer skal sendes senest fredag i uken etter at endringen skjedde."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 10 juli 2014 nr. 967 (i kraft 1 jan 2015), 21 des 2020 nr. 3148 (i kraft 1 jan 2021)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 5",
+     "tittel": "Melding om arbeidsforhold",
+     "ledd": [
+      "1. Meldeplikt\nArbeidsgiver og oppdragsgiver plikter å sende melding om arbeidstaker og frilanser som nevnt i § 3 til Arbeidsgiver- og arbeidstakerregisteret.\n2. Unntak fra meldeplikten\nArbeidsgiver og oppdragsgiver har ikke meldeplikt for en arbeidstaker eller frilanser når\na. lønnsutbetalingene til arbeidstakeren eller frilanseren er fritatt for arbeidsgiveravgift etter bestemmelsene i folketrygdloven § 23-2 sjette til åttende ledd. Det skal likevel meldes fra om opplysninger som nevnt i § 6 nr. 1 andre ledd bokstav a, d og e\nb. lønnsutbetalingene til arbeidstakeren eller frilanseren i løpet av inntektsåret antas ikke å ville overstige det beløp som er fritatt fra lønnsopplysningsplikt etter skatteforvaltningsforskriften § 7-2-1\nc. arbeidstakeren eller frilanseren er utenlandsk statsborger i arbeid for en internasjonal organisasjon med sete i Norge\nd. arbeidstakeren eller frilanseren skal rapporteres til skattekontoret i henhold til skatteforvaltningsloven § 7-6.",
+      "Unntaket i første punktum bokstav b gjelder inntil den måneden beløpsgrensen overskrides."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 15 aug 2011 nr. 838 (i kraft 1 nov 2011), 10 juli 2014 nr. 967 (i kraft 1 jan 2015), 4 juni 2018 nr. 805, 21 des 2020 nr. 3148 (i kraft 1 jan 2021), 17 sep 2021 nr. 2771."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 6",
+     "tittel": "Meldepliktens omfang",
+     "ledd": [
+      "1. Melding om inntak\nDet skal sendes én melding for hvert arbeidsforhold.\nMeldingen skal, i tillegg til å angi hovedenhetens og underenhetens organisasjons-nummer, gi opplysninger om\na. arbeidstakerens eller frilanserens fødselsnummer eller D-nummer,\nb. arbeidsforholdsID,\nc. type arbeidsforhold,\nd. yrkeskode,\ne. startdato og eventuelt sluttdato for arbeidsforholdet,\nf. ansettelsesform,\ng. antall timer per uke som en full stilling tilsvarer,\nh. arbeidstakerens avtalte arbeidstid angitt i form av stillingsprosent. Dersom det ikke er avtalt fast arbeidstid eller arbeidstiden avviker fra avtalt arbeidstid, skal arbeidet timer oppgis,\ni. arbeidstidsordning,\nj. sluttårsak,\nk. dato for siste lønnsendring og dato for siste endring av stillingsprosent,\nl. landkode for inntekt opptjent i annet land enn Norge,\nm. permisjonsID, permisjonstype, startdato og sluttdato for permisjon med eller uten lønn utover 14 dager, samt permisjonens prosentvise størrelse av stilling. Dette gjelder ikke permisjon der arbeidstakeren har tillitsverv med lønn fra arbeidsgiver i permisjonstiden,\nn. permitteringsID, permitteringstype, startdato og sluttdato for permittering med eller uten lønn, samt permitteringens prosentvise størrelse av stilling. Dette gjelder ikke permittering der arbeidstakeren har tillitsverv med lønn fra arbeidsgiver i permitteringstiden.\nMeldeplikten om frilansere gjelder bare andre ledd bokstav a til e.\nFor arbeidstakere til sjøs på fartøy eller flyttbar innretning skal meldingen i tillegg inneholde opplysninger om hvilket skipsregister fartøyet eller innretningen er registrert i (NOR, NIS eller utenlandsk register). Det skal også opplyses om type fartøy eller type innretning (turistskip, boreplattform eller annet), samt hvilken fart fartøyet går i (innenriks- eller utenriksfart).\nArbeidsforholdet anses å ta til den første dag arbeidstakeren eller frilanseren har rett eller plikt til å utføre arbeid.\n2. Melding om opphør\nMelding om opphør av arbeidsforhold, med opplysninger som nevnt i nr. 1 andre og fjerde ledd og sluttdato, skal sendes når\na. arbeidsforholdet opphører,\nb. arbeidstakeren eller frilanseren overføres til arbeid som ikke omfattes av forskriften her.\nArbeidsforholdet anses å opphøre fra det tidspunkt retten eller plikten til å utføre arbeid har falt bort.\n3. Meldefrist\nFristen i folketrygdloven § 25-1 andre ledd første punktum, jf. a-opplysningsloven § 4 tredje ledd gjelder ikke.\nMelding om inntak av arbeidstaker eller frilanser og opphør av arbeidsforhold for foregående måned skal leveres etter reglene i a-opplysningsloven med tilhørende forskrift.\nVed alvorlige eller gjentatte brudd på opplysningsplikten kan det bestemmes at fristen som nevnt i første ledd likevel skal gjelde for opplysninger som nevnt i § 6 nr. 1 andre ledd bokstav a til e. Ved opphør skal det i tillegg gis opplysninger om sluttdato. Dersom opplysningsplikten igjen oppfylles i en periode, kan det bestemmes at arbeidsgiver eller oppdragsgiver igjen kan følge den alminnelige frist for rapportering.\nMelding om inntak av arbeidstaker eller frilanser etter § 5 nr. 2 andre ledd, skal leveres i måneden etter at beløpsgrensen ble overskredet."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 15 aug 2011 nr. 838 (i kraft 1 nov 2011), 10 juli 2014 nr. 967 (i kraft 1 jan 2015), 21 des 2020 nr. 3148 (i kraft 1 jan 2021)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 7",
+     "tittel": "Kontroll og forvaltning av Arbeidsgiver- og arbeidstakerregisteret",
+     "ledd": [
+      "For å sikre kvaliteten på opplysningene i registeret, kan det gjennomføres kontroll av arbeidsgiveres og oppdragsgiveres oppfyllelse av innrapporteringsplikten.",
+      "Arbeids- og velferdsetaten skal gis tilgang til inntekstopplysninger innrapportert etter a-opplysningsloven for å kontrollere og forvalte Arbeidsgiver- og arbeidstakerregisteret.",
+      "Arbeidsgivere og oppdragsgivere har adgang til å gjøre seg kjent med hvilke opplysninger de har rapportert til Arbeidsgiver- og arbeidstakerregisteret.",
+      "Arbeidstakere og frilansere har adgang til å gjøre seg kjent med hvilke opplysninger som er registrert om dem."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 10 juli 2014 nr. 967 (i kraft 1 jan 2015), 21 des 2020 nr. 3148 (i kraft 1 jan 2021)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 8",
+     "tittel": "Adgang til å gjøre unntak",
+     "ledd": [
+      "Arbeids- og velferdsdirektoratet eller den det bemyndiger kan gjøre unntak fra bestemmelsene i § 4 til § 6 for bestemte arbeidsgivere, oppdragsgivere eller grupper av arbeidsgivere eller oppdragsgivere."
+     ],
+     "endringer": [
+      "Endret ved forskrift 21 des 2020 nr. 3148 (i kraft 1 jan 2021)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kapIII",
+   "overskrift": "III. Om opplysninger fra registeret",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 9",
+     "tittel": "Tilgang til opplysninger fra Arbeidsgiver- og arbeidstakerregisteret ved offentlig myndighetsutøvelse",
+     "ledd": [
+      "Det gis etter søknad tilgang til nødvendige opplysninger fra registeret til\na. Arbeids- og velferdsdirektoratet og dets organer\nb. Skattedirektoratet og dets organer\nc. Pensjonstrygden for sjømenn\nd. Sjøfartsdirektoratet\ne. Statistisk Sentralbyrå\nf. kommuner ved tvangsfullbyrdelse av kommunale krav etter reglene for skatt\ng. utenlandske offentlige myndigheter dersom det følger av overenskomst."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 13 mars 2018 nr. 339 (i kraft 1 april 2018), 18 jan 2019 nr. 32, 24 sep 2019 nr. 1193 (med virkning fra 1 jan 2019), 21 des 2020 nr. 3148 (i kraft 1 jan 2021), 17 sep 2021 nr. 2771."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 10",
+     "tittel": "Tilgang til opplysninger fra Arbeidsgiver- og arbeidstakerregisteret for andre",
+     "ledd": [
+      "Det kan etter søknad gis tilgang til nødvendige opplysninger fra registeret til\na. forskningsformål etter forvaltningsloven § 13d og § 13e og forvaltningslovforskriften § 8 og § 9\nb. fellesorganet etter AFP-tilskottsloven § 18 om arbeidsforhold til bruk i arbeidet med administrasjon av:\n- avtalefestet pensjon i privat sektor\n- sliterordningene\n- Sluttvederlagsordningen\n- OU-samordningen\nc. private pensjonsinnretninger om arbeidsforhold til bruk i arbeidet med pensjonsordning etter innskuddspensjonsloven, foretakspensjonsloven eller tjenestepensjonsloven\nd. pensjonsinnretninger om arbeidsforhold til bruk i arbeidet med administrasjon av avtalefestet pensjon i kommunal sektor for arbeidstakere født i 1963 eller senere\ne. privatpersoner og bostyrere i forbindelse med skifte av bo eller konkursbehandling\nf. andre som trenger opplysningene i forbindelse med løsning av oppgaver som nevnt i § 3 nr. 6."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 21 des 2020 nr. 3148 (i kraft 1 jan 2021), 17 sep 2021 nr. 2771, 23 des 2024 nr. 3436."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 11",
+     "tittel": "Krav til søknad om tilgang",
+     "ledd": [
+      "Registeransvarlig myndighet kan gi tilgang til nødvendige opplysninger fra Arbeidsgiver- og arbeidstakerregisteret etter søknad.",
+      "Søknad om tilgang skal inneholde\na. hjemmelen for innhenting av opplysningene\nb. formålet med bruken av opplysningene og informasjon om hvordan og i hvilken sammenheng opplysningene vil bli brukt\nc. informasjon om hvordan opplysningene vil bli lagret\nd. informasjon om hvordan opplysningene ønskes overført.",
+      "Ved søknad om bruk av opplysninger fra registeret til statistiske formål, skal formen for presentasjon av statistiske resultater på forhånd godkjennes av registeransvarlig myndighet."
+     ],
+     "endringer": [
+      "Endret ved forskrift 21 des 2020 nr. 3148 (i kraft 1 jan 2021)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 12",
+     "tittel": "Betaling for opplysningene",
+     "ledd": [
+      "Arbeids- og velferdsetaten kan kreve betaling for behandling og tilrettelegging av opplysninger etter dette kapittelet. Betalingen skal ikke overstige de faktiske utgiftene ved behandlingen og tilretteleggingen av opplysningene."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 21 des 2020 nr. 3148 (i kraft 1 jan 2021)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 13",
+     "tittel": "Opplysninger om personer med sperret adresse",
+     "ledd": [
+      "Personinformasjon om personer som er innvilget sperret adresse etter folkeregisterloven § 10-4 (trusselutsatte), skal ikke framvises ved oppslag eller utlistinger.",
+      "Utlevering av personinformasjonen til offentlige myndigheter kan bare skje etter særskilt søknad i det enkelte tilfellet. Slik søknad må begrunnes. Det er et vilkår for utlevering at informasjonen er nødvendig for at mottaker skal kunne ivareta lovmessige rettigheter og plikter som det ikke er mulig å ivareta på annen måte.",
+      "Bestemmelsen i § 10 bokstav a gjelder ikke for personinformasjon om trusselutsatte."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 8 okt 2012 nr. 947, 18 jan 2019 nr. 32, 21 des 2020 nr. 3148 (i kraft 1 jan 2021, tidligere § 12)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-6",
+     "nummer": "§ 14",
+     "tittel": "Avgjørelsesmyndighet",
+     "ledd": [
+      "Søknad om tilgang til opplysninger fra registeret avgjøres av Arbeids- og velferdsdirektoratet eller den det bestemmer."
+     ],
+     "endringer": [
+      "Endret ved forskrift 21 des 2020 nr. 3148 (i kraft 1 jan 2021, tidligere § 13)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kapIV",
+   "overskrift": "IV. Tiltak overfor arbeidsgiver eller oppdragsgiver ved brudd på plikten til å gi opplysninger om arbeidsforhold",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrifter 10 juli 2014 nr. 967 (i kraft 1 jan 2015), 21 des 2020 nr. 3148 (i kraft 1 jan 2021)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 15",
+     "tittel": "Overtredelsesgebyr og tvangsmulkt",
+     "ledd": [
+      "Arbeids- og velferdsetaten kan ilegge en arbeidsgiver eller oppdragsgiver overtredelsesgebyr, tvangsmulkt eller begge deler når arbeidsgiveren eller oppdragsgiveren ikke gir alle opplysninger eller gir uriktige opplysninger i strid med folketrygdloven § 25-1 andre ledd med tilhørende forskrifter og forskrift gitt med hjemmel i § 25-10, se folketrygdloven § 25-3 med forskrifter."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 10 juli 2014 nr. 967 (i kraft 1 jan 2015), 21 des 2020 nr. 3148 (i kraft 1 jan 2021, tidligere § 14)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kapV",
+   "overskrift": "V. Forskjellige bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 16",
+     "tittel": "Taushetsplikt",
+     "ledd": [
+      "Enhver som i medhold av forskriften får opplysninger fra registeret har taushetsplikt etter arbeids- og velferdsforvaltningsloven § 7."
+     ],
+     "endringer": [
+      "Endret ved forskrift 21 des 2020 nr. 3148 (i kraft 1 jan 2021, tidligere § 15)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 17",
+     "tittel": "Behandling av opplysninger fra registeret",
+     "ledd": [
+      "Det kan settes vilkår for behandlingen av opplysninger som utleveres i medhold av forskriften her. Opplysninger som kan identifisere arbeidstakere, frilansere, arbeidsgivere eller oppdragsgivere, skal makuleres eller slettes når de ikke lenger er aktuelle for det formålet de er innhentet for. Statistikker eller publikasjoner med registeropplysninger som kilde, må ikke offentliggjøres slik at enkeltpersoner kan identifiseres."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 10 juli 2014 nr. 967 (i kraft 1 jan 2015), 21 des 2020 nr. 3148 (i kraft 1 jan 2021, tidligere § 16)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 18",
+     "tittel": "Klage på vedtak",
+     "ledd": [
+      "Vedtak truffet med hjemmel i forskriften her kan påklages etter reglene i forvaltningsloven kapittel VI til nærmest overordnede organ eller til det organ som Arbeids- og velferdsdirektoratet bestemmer. Klage skal alltid grunngis, og må være framsatt for det organ som har fattet vedtaket innen tre uker etter at skriftlig melding om vedtaket er kommet fram til vedkommende part."
+     ],
+     "endringer": [
+      "Endret ved forskrift 21 des 2020 nr. 3148 (i kraft 1 jan 2021, tidligere § 17)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-4",
+     "nummer": "§ 19",
+     "tittel": "Straffebestemmelse",
+     "ledd": [
+      "Overtredelse av bestemmelsene i forskriften her straffes med bøter, jf. folketrygdloven § 25-12 og straffeloven § 209."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 30 okt 2015 nr. 1246, 21 des 2020 nr. 3148 (i kraft 1 jan 2021, tidligere § 18)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-5",
+     "nummer": "§ 20",
+     "tittel": "Gjennomføring av forskriften",
+     "ledd": [
+      "Arbeids- og velferdsdirektoratet kan gi nærmere bestemmelser om gjennomføringen av forskriften, herunder bestemmelser om registerets innhold og hvilke opplysninger meldingene skal inneholde."
+     ],
+     "endringer": [
+      "Endret ved forskrift 21 des 2020 nr. 3148 (i kraft 1 jan 2021, tidligere § 19)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-6",
+     "nummer": "§ 21",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Forskriften her trer i kraft 1. september 2008. Fra samme tid oppheves\n1. forskrift 4. juli 1991 nr. 454 om arbeidsgiver- og arbeidstakerregisteret, gitt med hjemmel i lov 17. juni 1966 nr. 12 om folketrygd § 18-2 annet ledd annet punktum og fjerde ledd, og § 18-7 tredje ledd og sjømannsloven 30. mai 1975 nr. 18 § 54a, og\n2. avsnitt I nr. 1 i forskrift 16. januar 1998 nr. 37, fastsatt ved kgl. resolusjon med hjemmel i folketrygdloven § 1-3, § 25-1, § 25-3 og 25-15 og sjømannsloven 30. mai 1975 nr. 18 § 54a."
+     ],
+     "endringer": [
+      "Endret ved forskrift 21 des 2020 nr. 3148 (i kraft 1 jan 2021, tidligere § 20)."
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,860 @@
+{
+ "skjema": "1.0",
+ "type": "lov",
+ "datokode": "LOV-2015-09-04-91",
+ "dokumentid": "NL/lov/2015-09-04-91",
+ "departement": [
+  "Samferdselsdepartementet"
+ ],
+ "ikraft": "2016-01-01, 2024-04-19",
+ "siste_endring_ikraft": "2026-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "lov/2025-04-25-12",
+   "tekst": "lov/2025-04-25-12 fra 2026-01-01"
+  }
+ ],
+ "endrer": "lov/1996-11-29-73",
+ "rettsomrade": [
+  "Transport og kommunikasjoner > Post"
+ ],
+ "kunngjort": "2015-09-04 15:15",
+ "siste_rettelse": "2021-08-23 (faglige fotnoter fjernet)",
+ "eos_henvisning": "EØS-avtalen vedlegg XI\nnr. 5d (direktiv 97/67/EF endret ved direktiv 2002/39/EF og direktiv 2008/06/EF).",
+ "korttittel": "Postloven",
+ "tittel": "Lov om posttjenester (postloven)",
+ "annet": "Jf. tidlegare lover 8 juni 1928 nr. 2 og 29 nov 1996 nr. 73.",
+ "refid": "lov/2015-09-04-91",
+ "eli": "/eli/lov/2015/09/04/91",
+ "url": "https://lovdata.no/dokument/NL/lov/2015-09-04-91",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Formål",
+     "ledd": [
+      "Lovens formål er å legge til rette for at brukere over hele landet skal få tilgang til gode og fremtidsrettede posttjenester, og et likeverdig tilbud av leveringspliktige tjenester til overkommelig pris, gjennom effektiv bruk av samfunnets ressurser."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Saklig virkeområde",
+     "ledd": [
+      "Loven gjelder regelmessig formidling av registrerte og uregistrerte postsendinger mot vederlag, herunder leveringspliktig tjeneste. Virksomhet knyttet til slik formidling, herunder tilhørende infrastruktur, tjenester og utstyr, omfattes. Loven gjelder også formidling av postsendinger til og fra utlandet. Formidling av uadresserte postsendinger og egne postsendinger omfattes ikke.",
+      "Kongen kan ved forskrift og enkeltvedtak i tvilstilfeller avgjøre hva som faller inn under lovens virkeområde, og kan gjøre unntak fra lovens saklige virkeområde."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Geografisk virkeområde",
+     "ledd": [
+      "Loven gjelder for norsk landterritorium, herunder Svalbard. Loven gjelder ikke for Jan Mayen eller bilandene. Kongen kan fastsette unntaks- og særregler som følger av internasjonale overenskomster Norge har sluttet seg til, eller som er nødvendige på grunn av de stedlige forhold."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 4",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "I loven menes med:\n1. posttjeneste: tilbud til allmennheten om regelmessig innsamling, sortering, transport og utdeling av postsending mot vederlag\n2. postnett: den samlede organisasjon, arbeidskraft, infrastruktur og produksjonsutstyr som er nødvendig for å formidle postsending\n3. postsending: brevpost inntil 2 kg, aviser og blad i abonnement inntil 2 kg og lettgods inntil 31,5 kg som er påført mottakerens navn og adresse eller annen entydig identifikasjon, herunder som er adressert i henhold til liste\n4. uregistrert postsending: postsending som det ikke gis kvittering for ved inn- og utlevering\n5. registrert postsending: postsending som det gis kvittering for ved innlevering og som utleveres mot kvittering\n6. rekommandert postsending: postsending som det gis kvittering for ved innlevering og som mottaker får utlevert mot fremvisning av gyldig legitimasjon eller annen entydig identifikasjon og signatur\n7. tilbyder: enhver som tilbyr posttjeneste\n8. bruker: fysisk eller juridisk person som benytter posttjeneste, enten som avsender eller som mottaker.\n9. sonenøkkel: systemnøkler eller andre adgangsmekanismer som i en bestemt geografisk sone åpner hovedlokk i et postkasseanlegg eller inngangsdør som fører til postkasseanlegg\n10. sonenøkkelsystem: et system som administrerer, vedlikeholder og drifter bruk av sonenøkler, herunder inndeler i soner, fastsetter tekniske løsninger og rutiner for bruk og oppbevaring av sonenøkler"
+     ],
+     "endringer": [
+      "Endret ved lover 9 juni 2017 nr. 41 (ikr. 1 juli 2017 iflg. res. 9 juni 2017 nr. 720), 16 juni 2023 nr. 76 (i kraft 1 juli 2023 iflg. res. 16 juni 2023 nr. 987)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-5",
+     "nummer": "§ 5",
+     "tittel": "Myndighet etter loven",
+     "ledd": [
+      "Myndighet etter loven er Kongen, departementet og Nasjonal kommunikasjonsmyndighet. Kongen fastsetter funksjonsfordelingen innen myndigheten, og kan bestemme at andre offentlige myndigheter og private rettsubjekter skal ha myndighet på begrensede områder etter loven."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-6",
+     "nummer": "§ 5 a",
+     "tittel": "Forskriftsfullmakt – EØS-avtalen",
+     "ledd": [
+      "Departementet kan gi forskrift om regler etter EØS-avtalen som har til hensikt å forbedre pakkeleveringstjenester over landegrensene."
+     ],
+     "endringer": [
+      "Tilføyd ved lov 16 juni 2023 nr. 76."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Leveringsplikt",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 6",
+     "tittel": "Valg av leveringspliktig tilbyder",
+     "ledd": [
+      "Myndigheten kan inngå avtale med eller gjennom enkeltvedtak utpeke en eller flere tilbydere med ansvar for å tilby leveringspliktige posttjenester etter § 7. Avtalen skal være tidsbegrenset og kan ikke overdras uten etter tillatelse fra myndigheten.",
+      "Valg av leveringspliktig tilbyder skal skje gjennom en åpen, objektiv og ikke-diskriminerende prosess.",
+      "Avtalevilkår kan endres ensidig av myndigheten dersom viktige samfunnsforhold eller Norges internasjonale forpliktelser tilsier det, eller når det følger av avtalen.",
+      "Myndigheten kan gi forskrift og fatte enkeltvedtak om utvelgelse av leveringspliktig tilbyder."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 7",
+     "tittel": "Leveringspliktige posttjenester",
+     "ledd": [
+      "Tilbyder med leveringsplikt skal sikre et landsdekkende tilbud av følgende leveringspliktige posttjenester:\n1. formidling av brevpost inntil 2 kg, aviser og blad i abonnement inntil 2 kg og lettgods inntil 20 kg,\n2. én innsamling av postsendinger minst fem dager i uken,\n3. én utlevering av postsendinger annenhver dag, mandag til fredag, i en to-ukers syklus, til enhver juridisk eller fysisk persons forretningssted eller faste helårlige bosted,\n4. formidling av rekommandert postsending og verdipostsending, begge inntil 2 kg,\n5. innenlands formidling av postsendinger til og fra utlandet og\n6. vederlagsfri formidling av nærmere fastsatte posttjenester til blinde, svaksynte, krigsfanger og sivilt internerte.",
+      "Myndigheten kan gi forskrift og fatte enkeltvedtak om leveringspliktige tjenester, herunder om krav til tjenesteomfang, geografisk dekningsområde, service og kvalitet, innsamlingsordning, og antall og plassering av ekspedisjonssteder. Myndigheten kan også gi forskrift og fatte enkeltvedtak om kompenserende tiltak. Kompenserende tiltak kan blant annet gjelde utlevering av aviser i abonnement på lørdag til mottakere som ikke har annen avisdistribusjon, tilbud innenfor dekningsområdet til alle faste ekspedisjonssteder om leie av postboks med plikt for leveringspliktig tilbyder til daglig utlevering av postsendinger mandag til fredag og krav til flere postboksanlegg eller omdelingsdager i lokale områder med særlige behov eller til brukere med særlige behov."
+     ],
+     "endringer": [
+      "Endret ved lover 21 juni 2019 nr. 69 (ikr. 1 juli 2019 iflg. res. 21 juni 2019 nr. 796, gjelder annet ledd), 21 juni 2019 nr. 69 (ikr. 1 juli 2020 iflg. res. 21 juni 2019 nr. 796, gjelder første ledd nr. 3)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 8",
+     "tittel": "Unntak fra leveringsplikt",
+     "ledd": [
+      "Leveringsplikten etter § 7 gjelder bare når mottakeren har kjent adresse med tilstrekkelig merket utleveringspostkasse, postboks eller annen avtalt ordning for mottak av postsendinger, og postsendingen er korrekt adressert til mottakeren.",
+      "Leveringsplikten etter § 7 første ledd nr. 2 til 4 gjelder ikke på høytids- og helligdager, og den opphører midlertidig ved ekstraordinære omstendigheter som hindrer normal postgang eller gjør den urimelig kostnadskrevende.",
+      "Kravet til fem dagers innsamling av postsendinger etter § 7 første ledd nummer 2 gjelder ikke innsamling i forbindelse med utlevering annenhver dag etter § 7 første ledd nummer 3.",
+      "Myndigheten kan gi forskrift og fatte enkeltvedtak om unntak fra leveringsplikt, herunder unntak for ekstraordinære omstendigheter eller særlige geografiske forhold."
+     ],
+     "endringer": [
+      "Endret ved lov 21 juni 2019 nr. 69 (ikr. 1 juli 2020 iflg. res. 21 juni 2019 nr. 796)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 9",
+     "tittel": "Finansiering av leveringspliktig tjeneste",
+     "ledd": [
+      "Myndigheten skal etter anmodning fra en tilbyder som er utpekt gjennom enkeltvedtak etter § 6, dekke nettokostnadene ved offentlige midler dersom tilbyderen påføres en urimelig økonomisk byrde ved å tilby leveringspliktig posttjeneste. Tilbyderen må sammen med kravet om kostnadsdekning legge frem en beregning over nettokostnadene for de leveringspliktige tjenestene.",
+      "Myndigheten kan gi forskrift og fatte enkeltvedtak om beregning av kostnader ved å tilby leveringspliktig posttjeneste."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 10",
+     "tittel": "Leveringsvilkår og kostnadsorientering",
+     "ledd": [
+      "Tilbyder med leveringsplikt skal tilby leveringspliktig posttjeneste til åpne, objektive og ikke-diskriminerende vilkår og til kostnadsorientert og overkommelig pris.",
+      "Myndigheten kan fatte enkeltvedtak om leveringspliktig tilbyders plikt til å tilby leveringspliktig posttjeneste på åpne, objektive og ikke-diskriminerende vilkår. Myndigheten kan gi forskrift og fatte enkeltvedtak om valg av kostnadsorienteringsmetode for utpekt leveringspliktig tilbyder etter § 6."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-6",
+     "nummer": "§ 11",
+     "tittel": "Produktregnskap og regnskapsmessig skille",
+     "ledd": [
+      "Tilbyder med leveringsplikt skal føre et produktregnskap for regulatoriske formål som viser resultat for hver av de leveringspliktige tjenestene. Produktregnskapet skal også vise en samlet oppstilling av anvendt kapital for leveringspliktige tjenester. Det skal være regnskapsmessig skille mellom leveringspliktige tjenester og annen virksomhet.",
+      "Bekreftelse på at regnskapet er i samsvar med første ledd, skal utarbeides av ekstern revisor og offentliggjøres årlig.",
+      "Myndigheten kan gi forskrift og fatte enkeltvedtak om produktregnskap og regnskapsmessig skille, herunder krav til rapportering og offentliggjøring."
+     ],
+     "endringer": [
+      "Endret ved lov 9 juni 2017 nr. 41 (ikr. 1 juli 2017 iflg. res. 9 juni 2017 nr. 720)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-7",
+     "nummer": "§ 12",
+     "tittel": "Formidling av forhåndsstemmer ved valg",
+     "ledd": [
+      "Myndigheten kan inngå avtale med tilbyder eller pålegge tilbyder med leveringsplikt å sikre innsamling og utlevering av forhåndsstemmer innenriks siste helg før valgdag ved stortings-, fylkestings- og kommunestyrevalg.",
+      "Merkostnader ved avtale eller pålegg etter første ledd skal dekkes av myndigheten.",
+      "Myndigheten kan gi forskrift eller fatte enkeltvedtak om formidling av forhåndsstemmer ved valg etter første ledd."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-8",
+     "nummer": "§ 13",
+     "tittel": "Enhetsporto",
+     "ledd": [
+      "Tilbyder med leveringsplikt skal tilby geografisk enhetsporto for enkeltsendinger av leveringspliktig brevpost inntil 50 gram.",
+      "Myndigheten kan gi forskrift og fatte enkeltvedtak om enhetsporto, herunder fastsettelse av enhetsporto, når leveringspliktig tilbyder er utpekt etter § 6."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-9",
+     "nummer": "§ 14",
+     "tittel": "Verdenspostkonvensjonen",
+     "ledd": [
+      "Myndigheten kan stille krav om at tilbyder med leveringsplikt skal oppfylle de plikter som følger av Verdenspostkonvensjonen og tilhørende regelverk. Verdenspostkonvensjonen er regelverket utformet av FN-organisasjonen Verdenspostforeningen (UPU) og som regulerer internasjonal postdistribusjon.",
+      "Myndigheten kan gi tillatelse til at andre enn tilbyder med leveringsplikt skal kunne utveksle postsending over landegrenser etter reglene i Verdenspostkonvensjonen.",
+      "Myndigheten skal notifisere Verdenspostforeningen om hvilke tilbydere av posttjenester som ivaretar norske forpliktelser etter Verdenspostkonvensjonen etter første ledd. Myndigheten skal også notifisere tilbydere med tillatelse etter annet ledd til Verdenspostforeningen.",
+      "Myndigheten kan gi forskrift og fatte enkeltvedtak om internasjonale forpliktelser vedtatt av Verdenspostforeningen. Myndigheten kan gi forskrift og fatte enkeltvedtak om tildeling og vilkår for tillatelse etter annet ledd."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-10",
+     "nummer": "§ 15",
+     "tittel": "Unntak fra formidlingsplikt for postsending fra utlandet",
+     "ledd": [
+      "Tilbyder med leveringsplikt har ikke plikt til å videreformidle postsending fra utlandet i Norge når en avsender som er bosatt eller hjemmehørende i Norge eller i et tredjeland, sender et så stort antall postsendinger fra utlandet at det foreligger en klar økonomisk gevinst.",
+      "Tilbyder med leveringsplikt som mottar postsending fra utenlandsk tilbyder som er notifisert Verdenspostforeningen i henhold til Verdenspostkonvensjonen artikkel 2, har rett til å få dekket kostnader som er påløpt i forbindelse med mottak og videreformidling av internasjonale postsendinger etter første ledd. Retten til kostnadsdekning gjelder både for postsending formidlet fysisk til utlandet og for postsending produsert i utlandet. Kravet rettes mot avsenderen eller, dersom denne ikke betaler, mot tilbyder i utlandet.",
+      "Tilbyder med leveringsplikt skal informere myndigheten om formidlingsnekt etter første ledd og krav om betaling etter annet ledd så snart postsendingen er mottatt. Myndigheten kan innen tre uker etter at informasjonen ble mottatt, pålegge leveringspliktig tilbyder å formidle postsending uten betaling etter første ledd når vilkårene etter første eller annet ledd ikke er oppfylt.",
+      "Myndigheten kan gi forskrift og fatte enkeltvedtak om formidlingspliktig postsending fra utlandet når Verdenspostforeningens regelverk gir grunnlag for det."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-11",
+     "nummer": "§ 16",
+     "tittel": "Befordringsplikt",
+     "ledd": [
+      "Myndigheten kan pålegge rutetransportselskap å ta med leveringspliktige postsendinger mot vederlag for tilbyder med leveringsplikt.",
+      "Vederlaget skal være kostnadsorientert. Myndigheten kan vedta at pålegget skal tre i kraft før endelig vederlag er fastsatt.",
+      "Myndigheten kan gi forskrift og fatte enkeltvedtak om rutetransportselskapenes plikt til å befordre postsendinger. Myndigheten kan i tvilstilfeller ved enkeltvedtak avgjøre hva som er å anse som et rutetransportselskap etter første ledd. Myndigheten kan også gi forskrift og fatte enkeltvedtak om kostnadsberegning etter annet ledd."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-12",
+     "nummer": "§ 17",
+     "tittel": "Sikkerhet og beredskap",
+     "ledd": [
+      "Tilbyder med leveringsplikt skal tilby posttjeneste med forsvarlig sikkerhet for brukerne i fred, krise og krig. Tilbyderen skal opprettholde nødvendig beredskap og viktige samfunnsaktører skal prioriteres ved behov.",
+      "Myndigheten kan gi forskrift, fatte enkeltvedtak og inngå avtale om sikkerhet og beredskap."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-13",
+     "nummer": "§ 18",
+     "tittel": "Frimerker",
+     "ledd": [
+      "Det kreves tillatelse fra myndigheten for å utgi frimerker eller andre frankeringsmidler påført «Norge» eller «Noreg». Slik tillatelse kan bare gis til leveringspliktig tilbyder.",
+      "Frimerker skal ikke utformes slik at de fremstår som støtende for personer eller stater, eller være av politisk karakter. Det kan utgis frimerker som markerer viktige politiske personer eller organisasjoner.",
+      "Myndigheten kan gi forskrift og fatte enkeltvedtak om frimerker og andre frankeringsmidler."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-14",
+     "nummer": "§ 19",
+     "tittel": "Utleveringspostkasse",
+     "ledd": [
+      "Eier eller bruksberettiget av fast, helårig bolig eller næringseiendom skal oppstille utleveringspostkasse eller tilsvarende for mottak av postsendinger til eiendommens postmottakere. Leveringspliktig tilbyder kan anmode eier av utleveringspostkasse om å flytte utleveringspostkassen til egnet sted.",
+      "Dersom det settes opp utleveringspostkasser for fritidseiendom eller sesongbasert bosetting, skal disse plasseres ved nærmeste ordinære stopp i postruten, når ikke annet er avtalt.",
+      "Utleveringspostkasse kan settes opp på fremmed grunn når leveringspliktig tilbyder finner det nødvendig av hensyn til en effektiv postomdeling og det ikke volder særlig skade eller ulempe.",
+      "Myndigheten kan gi forskrift om plassering av utleveringspostkasse, herunder om avstandskrav for plassering av utleveringspostkasse, ulike avstandskrav for tettbygd og spredtbygd strøk og særlige regler for levering til bevegelseshemmede. Myndigheten kan gi forskrift om unntak fra slike avstandskrav, herunder antallet faste, helårlige boliger eller næringseiendommer som kan omfattes av unntaket. Myndigheten kan gi forskrift om krav til merking av utleveringspostkasse."
+     ],
+     "endringer": [
+      "Endret ved lov 9 juni 2017 nr. 41 (ikr. 1 juli 2017 iflg. res. 9 juni 2017 nr. 720)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Generelle bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 20",
+     "tittel": "Registrering",
+     "ledd": [
+      "Tilbyderen plikter å registrere seg hos myndigheten senest samtidig med at posttjeneste tilbys.",
+      "Myndigheten kan gi forskrift om registreringsplikten, herunder om registreringsmåte, registreringens innhold og om unntak fra registreringsplikt. Myndigheten kan om nødvendig gi forskrift med krav om forhåndsgodkjenning av tilbydere."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 21",
+     "tittel": "Krav til kvalitet, måling og rapportering",
+     "ledd": [
+      "Myndigheten kan gi forskrift om krav til tjenestekvalitet, måling av tjenestekvalitet og offentliggjøring av målt kvalitet for posttjeneste.",
+      "Myndigheten kan gi forskrift om krav til årlig rapportering fra tilbydere."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 22",
+     "tittel": "Leveringsvilkår og offentliggjøring",
+     "ledd": [
+      "Tilbyderen skal utarbeide og offentliggjøre leveringsvilkår.",
+      "Myndigheten kan gi forskrift om leveringsvilkår og offentliggjøring, herunder spesifisere hvilke posttjenester plikten skal gjelde for, krav til hva det skal informeres om, og på hvilken måte. Myndigheten kan gi forskrift og fatte enkeltvedtak som gjør unntak fra plikten i første ledd."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 23",
+     "tittel": "Håndtering og oppbevaring",
+     "ledd": [
+      "Tilbyderen skal håndtere og oppbevare postsending forsvarlig for å unngå tap av og skade på postsendingen.",
+      "Tilbyderen skal gjennomføre nødvendige og forholdsmessige tiltak for å sikre at uvedkommende ikke får tilgang til postsendinger.",
+      "Myndigheten kan gi forskrift og fatte enkeltvedtak om håndtering av postsending."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 24",
+     "tittel": "Merkeplikt",
+     "ledd": [
+      "Myndigheten kan gi forskrift om at postsendinger skal merkes med tilbyderens firmanavn, om vilkår for slik merking og om unntak fra plikten."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-6",
+     "nummer": "§ 25",
+     "tittel": "Avsenders råderett",
+     "ledd": [
+      "En avsender har råderett over postsending til den er utlevert til mottakeren.",
+      "Myndigheten kan gi forskrift om avsenderens råderett, herunder om kostnadsdekning for bruk av råderetten."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-7",
+     "nummer": "§ 26",
+     "tittel": "Utlevering og retur av feiladressert postsending",
+     "ledd": [
+      "Tilbyderen skal søke å utlevere feiladressert post til adressaten. Dersom postsendingen ikke kan formidles til adressaten, skal den returneres til avsenderen.",
+      "Myndigheten kan gi forskrift og fatte enkeltvedtak om utlevering og retur av feiladressert postsending."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-8",
+     "nummer": "§ 27",
+     "tittel": "Ikke-leverbar postsending",
+     "ledd": [
+      "Tilbyderen skal sikre forsvarlig behandling av ikke-leverbar postsending. Med ikke-leverbar postsending menes postsending som grunnet feilaktig eller mangelfull adressering ikke kan formidles til verken mottakeren eller avsenderen.",
+      "Myndigheten kan inngå avtale med eller pålegge én tilbyder å ha godkjent system for forsvarlig behandling av ikke-leverbar postsending.",
+      "Myndigheten skal godkjenne system for forsvarlig behandling av ikke-leverbar postsending som oppfyller alle krav oppstilt i eller i medhold av loven.",
+      "En tilbyder med godkjent system kan åpne ikke-leverbar postsending for å identifisere avsenderen eller mottakeren. Tilbydere som ikke selv har godkjent system, skal overlate ikke-leverbar postsending til en tilbyder med slikt system.",
+      "En tilbyder med godkjent system plikter å tilby åpning av ikke-leverbar postsending som en tjeneste på kommersielle vilkår.",
+      "Myndigheten kan gi forskrift og fatte enkeltvedtak om behandling av ikke-leverbar postsending og om tilbyderes rett til å selge, gi bort eller destruere slike postsendinger."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-9",
+     "nummer": "§ 28",
+     "tittel": "Erstatning for tap, skade og forsinkelse",
+     "ledd": [
+      "Tilbyderen skal betale erstatning for registrert postsending som skades eller går tapt i tiden fra innlevering til utlevering. Tilbyderen skal betale erstatning for registrert postsending som er forsinket, når det er betalt et særlig vederlag for at postsendingen skal komme raskt frem, eller for at den skal komme frem til særskilt avtalt leveringstidspunkt eller leveringsperiode. Erstatningsansvaret begrenses etter § 29.",
+      "Tilbyderen skal offentliggjøre erstatningsvilkår for tap, skade og forsinkelse.",
+      "Tilbyderen kan fastsette leveringsvilkår om rett til erstatning utover det som følger av denne bestemmelsen.",
+      "Krav om erstatning foreldes etter ett år, regnet fra dagen etter at postsendingen er innlevert til tilbyderen.",
+      "Myndigheten kan ved forskrift fastsette krav til hvilke vilkår som kan fastsettes for tilbyderens ansvar for tap, skade og forsinkelse, herunder om offentliggjøring av vilkårene."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-10",
+     "nummer": "§ 29",
+     "tittel": "Ansvarsbegrensning",
+     "ledd": [
+      "Tilbyderen er ikke erstatningspliktig for tap, skade eller forsinkelse etter § 28 som skyldes:\n1. feil eller forsømmelse fra den skadelidtes side\n2. postsendingens beskaffenhet\n3. mangelfull emballering eller\n4. forhold og følger som tilbyder ikke kunne unngå eller avverge.",
+      "Skyldes tap, skade eller forsinkelse en tredjepart som tilbyderen benytter for helt eller delvis å formidle postsending, er tilbyderen bare ansvarsfri om også tredjeparten vil være ansvarsfri etter første ledd.",
+      "Tilbyderen er ikke ansvarlig for følgeskader.",
+      "Ansvarsbegrensningen i første til tredje ledd gjelder ikke dersom annet er avtalt.",
+      "Myndigheten kan gi forskrift om ansvarsbegrensning."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-11",
+     "nummer": "§ 30",
+     "tittel": "Taushetsplikt",
+     "ledd": [
+      "Tilbyderen og enhver som utfører arbeid eller tjeneste for tilbyderen, plikter å bevare taushet om informasjon som vedkommende gjennom sin virksomhet får kjennskap til. Taushetsplikten gjelder også etter at vedkommende har avsluttet arbeidet eller tjenesten. Taushetsplikten gjelder informasjon om:\n1. avsender og mottakers bruk av posttjeneste,\n2. avsender og mottakers forretningsmessige eller personlige forhold og\n3. innhold i postsending.\nInformasjonen kan ikke, utover lovlige behandlingsformål, nyttes i egen virksomhet.",
+      "Tilbyderen plikter å gjennomføre tiltak for å hindre at uvedkommende får kjennskap til informasjonen.",
+      "Taushetsplikten er ikke til hinder for at informasjon etter første ledd nr. 1 og 2 gis til annen myndighet i medhold av lov eller etter fullmakt gitt i medhold av lov. Taushetsplikten er heller ikke til hinder for at politiet undersøker om postsending inneholder narkotika, eksplosiver, utgangsstoffer for eksplosiver eller radioaktivt materiale uten å åpne den. De som foretar slike undersøkelser, har taushetsplikt etter første ledd når det gjelder forhold som ikke angår oppdraget.",
+      "Adresseinformasjon, jf. § 37, som er gradert etter beskyttelsesinstruksen, er underlagt taushetsplikt. Adresseinformasjon som er gradert «strengt fortrolig», skal ikke utleveres til andre enn Folkeregisteret og skal ikke utleveres etter tredje ledd.",
+      "Brudd på taushetsplikten straffes etter straffeloven §§ 209 og 210.",
+      "Myndigheten kan gi forskrift om taushetsplikt og om unntak fra taushetsplikt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-12",
+     "nummer": "§ 31",
+     "tittel": "Politiattest",
+     "ledd": [
+      "Tilbyderen kan kreve fremleggelse av ordinær politiattest, jf. politiregisterloven § 40, ved tilbud om stilling som medfører behandling av postsendinger. For ansettelse i særlig betrodde stillinger kan det kreves uttømmende og utvidet politiattest, jf. politiregisterloven § 41.",
+      "Politiattest etter første ledd skal vise om vedkommende er siktet, tiltalt, ilagt forelegg eller er dømt for brudd på straffelovens bestemmelser om vinningskriminalitet, narkotikakriminalitet, organisert kriminalitet, terrorhandlinger eller deltakelse i voldelige sammenslutninger med et politisk formål.",
+      "Myndigheten kan gi forskrift om bruk av politiattest, herunder om hvilke lovbrudd attesten skal vise."
+     ],
+     "endringer": [
+      "Endret ved lov 16 juni 2023 nr. 76 (i kraft 1 juli 2023 iflg. res. 16 juni 2023 nr. 987)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-13",
+     "nummer": "§ 32",
+     "tittel": "Sikkerhet i postnettet",
+     "ledd": [
+      "Tilbyderen skal undersøke, og om nødvendig selv eller ved hjelp av kompetent personell, åpne en postsending når det er mistanke om at postsendingen i seg selv er farlig å sende, eller det er mistanke om at den ikke er forsvarlig innpakket og av den grunn antas å kunne skade postnettet eller andre postsendinger.",
+      "Tilbyderen kan avbryte formidling av postsending som er omfattet av første ledd. Tilbyderen skal gi avsenderen melding hvis postsendingen har vært åpnet eller formidlingen avbrytes dersom avsenderens navn og adresse er kjent. Dersom avsenderens navn og adresse ikke er kjent, skal mottakeren varsles om at postsendingen har vært åpnet, eller at formidlingen er avbrutt.",
+      "Tilbyderen kan destruere postsending som er farlig å sende, jf. første ledd. Tilbyderen skal før destruering om mulig informere avsenderen om dette.",
+      "Myndigheten kan gi forskrift og fatte enkeltvedtak om sikkerhet i postnettet, herunder om hvilke postsendinger som faller inn under første ledd."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Felles bruk av postnett",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 33",
+     "tittel": "Tilgang til sonenøkkelsystem",
+     "ledd": [
+      "For å legge til rette for levering av postsendinger til utleveringspostkasser i postkasseanlegg kan myndigheten pålegge Posten Norge AS[1] kostnadsfritt å gi tilgang til sonenøkler som hører til hovedlokk i postkasseanlegg og til inngangsdører som fører til slike postkasseanlegg. Myndigheten kan pålegge Posten Norge AS[1] kostnadsfritt å gi tilgang til de innarbeidede ordningene for forvaltning av slike nøkler og adgangsmekanismer, og utvikle disse til felles sonenøkkelsystemer i samarbeid med andre tilbydere. Myndigheten kan også pålegge tilbydere eller andre som disponerer sonenøkler kostnadsfritt å gi tilgang til disse. Administrasjon og drift av sonenøkkelsystem skal skje på åpne, objektive og ikke-diskriminerende vilkår, og skal ivareta sikkerhet og personvern.",
+      "Av hensyn til sikkerhet og personvern for gårdeiere og postkasseeiere kreves tillatelse fra myndigheten for å få tilgang til sonenøkkelsystem. Tilbyder med tilgang til sonenøkler skal ivareta disse på en sikker måte. Gårdeiere og postkasseeiere som omfattes av sonenøkkelsystemet, plikter å gi tilgang til tilbyder med tillatelse fra myndigheten.",
+      "Tilbydere som deltar i sonenøkkelsystem, skal dekke kostnadene til etablering, utvikling og daglig drift av sonenøkkelsystemet forholdsmessig mellom seg. Tilbyder som er ansvarlig for omkoding eller utskifting av nøkkelsylinder i en sone, skal bære kostnadene for dette. Når ansvaret ikke kan fastslås, skal kostnadene fordeles forholdsmessig mellom tilbyderne i sonen som deltar i sonenøkkelsystemet.",
+      "Myndigheten kan gi forskrift og fatte enkeltvedtak om organisering og drift av felles sonenøkkelsystem, om tilgangen til sonenøkkelsystem og om krav til tilbydere som gis tilgang til slike system, herunder om:\n1. samarbeid, drift, sikkerhet, interne rutiner og kontrollsystemer\n2. finansiering av felles sonenøkkelforvaltning på system- og sonenivå, fordeling av kostnader mellom tilbydere, herunder for å tre inn og ut av systemet, og soliditet og sikkerhetsstillelse\n3. endring og oppgradering\n4. overgang til elektroniske adgangssystemer, herunder tilrettelegging av sonenøkkelsystemet\n5. etablering av tillatelsesordninger for tilgang til sonenøkkelsystem\n6. rapporteringsordninger\n7. ansvar og ansvarsbegrensning",
+      "Myndigheten kan også gi forskrift og fatte enkeltvedtak om tilgang til nøkler og andre adgangsmekanismer som åpner postkasseanlegg som ikke er tilgjengelige for allmennheten, men som ikke er en del av sonenøkkelsystemer."
+     ],
+     "endringer": [
+      "Endret ved lov 9 juni 2017 nr. 41 (ikr. 1 juli 2017 iflg. res. 9 juni 2017 nr. 720)."
+     ],
+     "fotnoter": [
+      {
+       "nr": "1",
+       "tekst": "Inkurie: Skal være Posten Bring AS."
+      }
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 33 a",
+     "tittel": "Tilgang til postboksanlegg",
+     "ledd": [
+      "Eier av postboksanlegg skal gi tilbyderen tilgang til postboksanlegget for å distribuere postsendinger. Tilbyderen skal dekke kostnadene ved slik tilgang.",
+      "Myndigheten kan gi forskrift eller fatte enkeltvedtak om tilgang til postboksanlegg og om kostnadsdekningen."
+     ],
+     "endringer": [
+      "Tilføyd ved lov 9 juni 2017 nr. 41 (ikr. 1 juli 2017 iflg. res. 9 juni 2017 nr. 720)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 34",
+     "tittel": "Videreformidling av postsending",
+     "ledd": [
+      "Leveringspliktig tilbyder skal imøtekomme enhver rimelig anmodning fra en annen tilbyder om videreformidling av postsendinger. Med videreformidling menes formidling av postsendinger til adressat på vegne av en annen tilbyder. Videreformidling skal tilbys andre tilbydere på åpne, objektive og ikke-diskriminerende vilkår.",
+      "Myndigheten kan gi forskrift og fatte enkeltvedtak om omfanget av plikten til å tilby videreformidling."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 35",
+     "tittel": "Offentlig postnummersystem",
+     "ledd": [
+      "Postnummersystemet forvaltes som en offentlig fellesressurs av myndigheten. Postnummersystemet er et system av sifferserier og tilhørende stedsnavn som deler landet inn i postnummerområder og sikrer effektiv postomdeling. Omlegging i postnummersystemet besluttes av myndigheten.",
+      "Tilbyder med leveringsplikt skal drifte det offentlige postnummersystemet og sikre løpende oppdatering av matrikkelen. Tilbyder med leveringsplikt skal behandle og gjennomføre endringer og skal offentliggjøre slike på en hensiktsmessig måte.",
+      "Ved forvaltning og drift av postnummersystemet og ved behandling av endringer etter § 35 a og tildelinger etter § 36 skal det tas hensyn til ressursbegrensninger, effektiv postomdeling og konsekvenser for registrerte tilbydere og berørte postmottakere. Behandlingen skal skje på åpne, objektive og ikke-diskriminerende vilkår.",
+      "Myndigheten og tilbyder med leveringsplikt er ikke erstatningsansvarlige som følge av omlegginger eller endringer av postnummersystemet.",
+      "Myndigheten kan gi forskrift og fatte enkeltvedtak om forvaltning og drift av det offentlige postnummersystemet."
+     ],
+     "endringer": [
+      "Endret ved lov 16 juni 2023 nr. 76 (i kraft 1 jan 2024 iflg. res. 16 juni 2023 nr. 987)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-5",
+     "nummer": "§ 35 a",
+     "tittel": "Endringer i postnummersystemet",
+     "ledd": [
+      "Tilbyder med leveringsplikt skal behandle anmodninger fra egen virksomhet og fra postmottakere, kommuner og registrerte tilbydere om endringer i det offentlige postnummersystemet.",
+      "Når avgjørelse foreligger, skal den som har anmodet om endring og registrerte tilbydere uten ugrunnet opphold gjøres kjent med utfallet av saken.",
+      "Dersom endring etter første ledd anses som vesentlig, skal registrerte tilbydere, Statens kartverk, berørte kommuner og særlig berørte postmottakere varsles og gis anledning til å uttale seg før avgjørelse treffes. Fristen for uttalelser skal være minst én måned.",
+      "Myndigheten kan gi forskrifter og fatte enkeltvedtak om behandling av endringer i postnummersystemet."
+     ],
+     "endringer": [
+      "Tilføyd ved lov 16 juni 2023 nr. 76 (i kraft 1 jan 2024 iflg. res. 16 juni 2023 nr. 987)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-6",
+     "nummer": "§ 35 b",
+     "tittel": "Klagerett",
+     "ledd": [
+      "Registrert tilbyder kan påklage en avgjørelse etter § 35 a til myndigheten, jf. § 41. Klagefristen skal være minst tre uker fra avgjørelse er gjort kjent. Avgjørelser som er påklaget kan ikke gjennomføres før klagen er behandlet.",
+      "Myndigheten kan gi nærmere forskrifter om klageretten for tilbydere etter første ledd."
+     ],
+     "endringer": [
+      "Tilføyd ved lov 16 juni 2023 nr. 76 (i kraft 1 juli 2023 iflg. res. 16 juni 2023 nr. 987)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-7",
+     "nummer": "§ 36",
+     "tittel": "Tildeling av postnummer",
+     "ledd": [
+      "Myndigheten skal vurdere enhver anmodning fra en registrert tilbyder om tildeling av eget postnummer.",
+      "Tilbyder med leveringsplikt skal gjennomføre endringen i det offentlige postnummersystemet uten ugrunnet opphold, jf. § 35 annet ledd.",
+      "Myndigheten kan gi forskrift og fatte enkeltvedtak om tildeling av postnummer."
+     ],
+     "endringer": [
+      "Endret ved lov 16 juni 2023 nr. 76 (i kraft 1 jan 2024 iflg. res. 16 juni 2023 nr. 987)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-8",
+     "nummer": "§ 37",
+     "tittel": "Adresseregister og reservasjon mot utlevering av adresseopplysninger",
+     "ledd": [
+      "Tilbyder med leveringsplikt skal etablere og drifte et adresseregister. Leveringspliktig tilbyder skal motta melding om flytting og andre adresseopplysninger og sikre løpende oppdateringer av adresseregisteret.",
+      "Tilbyder med leveringsplikt skal tilby tilgang til adresseendringer for registrerte tilbydere på åpne, objektive og ikke-diskriminerende vilkår og til kostnadsorientert pris.",
+      "Det skal tilbys en gratis reservasjonsordning mot utlevering av adresseopplysninger til allmennheten. Adresseopplysninger som er omfattet av reservasjon, kan bare utleveres til registrert tilbyder etter § 20, Folkeregisteret og annen offentlig myndighet.",
+      "Adresseopplysninger som i Folkeregisteret er gradert med hjemmel i beskyttelsesinstruksen skal underlegges særskilt tilgangsbegrensning, jf. § 30. Adresseopplysninger gradert «strengt fortrolig» skal ikke utleveres til andre enn Folkeregisteret.",
+      "Myndigheten kan gi forskrift og fatte enkeltvedtak om forvaltning av adresseregister og oppdatering av adresseopplysninger."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-9",
+     "nummer": "§ 37 a",
+     "tittel": "Forholdet til folkeregisterloven",
+     "ledd": [
+      "En leveringspliktig tilbyder kan uten hinder av taushetsplikt innhente fra Folkeregisteret opplysninger som er nødvendige for utførelsen av oppgaver etter loven her eller andre oppgaver som følger av lov."
+     ],
+     "endringer": [
+      "Tilføyd ved lov 16 juni 2023 nr. 75 (i kraft 16 juni 2023 iflg. res. 16 juni 2023 nr. 931)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Konfliktløsning og klage",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 38",
+     "tittel": "Megling i tvister mellom tilbydere",
+     "ledd": [
+      "I tvister mellom tilbydere om rettigheter og plikter fastsatt i eller i medhold av denne loven, kan myndigheten etter skriftlig anmodning fra en part megle for å oppnå enighet mellom partene. Begge parter må samtykke til megling. Myndigheten skal avvise meglingsanmodningen dersom vilkårene for megling ikke er til stede, eller dersom myndigheten etter en helhetsvurdering finner at saken ikke egner seg for megling. Meglingen skal avsluttes senest fire måneder etter mottatt meglingsanmodning.",
+      "Myndigheten kan fastsette tidsfrister og andre vilkår knyttet til meglingen. Myndigheten kan på ethvert tidspunkt avbryte meglingen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 39",
+     "tittel": "Tilbyders klageordning",
+     "ledd": [
+      "Tilbyderen skal ha en klageordning for egne brukere.",
+      "Tilbydere som deltar i sonenøkkelsystemet etter § 33, skal i fellesskap ha en ordning for behandling av klager om misbruk av sonenøkler, med klagerett for gårdeiere og postkasseeiere som omfattes av sonenøkkelsystemet.",
+      "Klageordningen etter første og annet ledd skal være vederlagsfri, enkel å bruke og sikre at klager behandles rettferdig og raskt. Avgjørelser i klagesaker skal begrunnes.",
+      "Brukere skal opplyses om klageordning og om klageadgang etter § 41.",
+      "Myndigheten kan gi forskrift om omfang, innhold, rapportering og organisering av klageordningen."
+     ],
+     "endringer": [
+      "Endret ved lover 9 juni 2017 nr. 41 (ikr. 1 juli 2017 iflg. res. 9 juni 2017 nr. 720), 16 juni 2023 nr. 76 (i kraft 1 juli 2023 iflg. res. 16 juni 2023 nr. 987)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 40",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Endret ved lov 9 juni 2017 nr. 41 (ikr. 1 juli 2017 iflg. res. 9 juni 2017 nr. 720), opphevet ved lov 16 juni 2023 nr. 76 (i kraft 1 juli 2023 iflg. res. 16 juni 2023 nr. 987)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-4",
+     "nummer": "§ 41",
+     "tittel": "Klage til myndigheten",
+     "ledd": [
+      "Nasjonal kommunikasjonsmyndighet skal behandle klager\n1. fra brukere i tvister om posttjeneste med unntak av klager fra forbrukere der saken har sitt grunnlag i kjøpsavtale og derfor behandles av forbrukermyndigheten, saker om postkasseplassering og klager som er åpenbart useriøse eller grunnløse,\n2. i tvister mellom registrerte tilbydere av posttjeneste,\n3. i tvister mellom eier av postboksanlegg etter § 33 a og tilbyder av posttjeneste,\n4. fra registrerte tilbydere på avgjørelse etter § 35 a,\n5. fra gårdeiere og postkasseeiere om misbruk av sonenøkler etter behandling etter § 39 annet ledd.",
+      "Før klageadgangen etter første ledd nr. 1 og nr. 5 kan benyttes, må klageren rette klagen til tilbyderen etter § 39.",
+      "Enkeltvedtak etter § 33 som gir en tilbyder tillatelse til å få tilgang til sonenøkkelsystemer og nøkler utenfor sonenøkkelsystemer, kan ikke påklages. Myndighetens avgjørelse om avvisning av en sak etter § 33 kan heller ikke påklages.",
+      "Departementet er klageinstans for enkeltvedtak fattet av Nasjonal kommunikasjonsmyndighet med hjemmel i eller i medhold av denne lov. Klager fremsettes overfor Nasjonal kommunikasjonsmyndighet, jf. forvaltningsloven § 32.",
+      "Kongen kan gi forskrift om hvem som er klageinstans i klagesaker av konkurransemessig karakter, jf. § 5."
+     ],
+     "endringer": [
+      "Endret ved lover 9 juni 2017 nr. 41 (ikr. 1 juli 2017 iflg. res. 9 juni 2017 nr. 720), 16 juni 2023 nr. 76 (i kraft 1 juli 2023 iflg. res. 16 juni 2023 nr. 987)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Tilsyn og sanksjoner",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 42",
+     "tittel": "Tilsyn",
+     "ledd": [
+      "Myndigheten skal føre tilsyn med at krav fastsatt i eller i medhold av loven er oppfylt. Myndigheten kan nytte bistand fra andre ved utførelsen av tilsynet og kan ta stikkprøver, foreta målinger og annen kontroll uten forhåndsvarsel.",
+      "Myndigheten kan gi forskrift og fatte enkeltvedtak om tilsyn."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 43",
+     "tittel": "Medvirkning ved tilsyn",
+     "ledd": [
+      "Tilbyderen har plikt til å sørge for at myndigheten har uhindret adgang til virksomheten og til lokaler med utstyr knyttet til formidling av postsendinger. Nødvendig dokumentasjon skal gjøres tilgjengelig for myndigheten. Tilbyderen, dennes representant eller den som utfører oppdrag på vegne av tilbyderen, kan pålegges å være til stede under tilsynet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-3",
+     "nummer": "§ 44",
+     "tittel": "Opplysningsplikt",
+     "ledd": [
+      "Myndigheten kan kreve opplysninger fra tilbyderen som er nødvendige for gjennomføring av loven, vedtak gitt i medhold av loven, eller forpliktelser som følger av internasjonale overenskomster som Norge har sluttet seg til.",
+      "Opplysningene kan kreves utlevert skriftlig eller muntlig innen en fastsatt frist.",
+      "Taushetsplikt som følger av § 30, annen lovgivning, pålegg eller avtale, er ikke til hinder for opplysningsplikten.",
+      "Myndigheten kan gi forskrift og fatte enkeltvedtak om opplysningsplikten."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-4",
+     "nummer": "§ 45",
+     "tittel": "Internasjonal utveksling av taushetsbelagt informasjon",
+     "ledd": [
+      "Myndigheten kan uten hinder av lovbestemt taushetsplikt gi relevant informasjon om markedet for posttjenester til internasjonale organisasjoner for å oppfylle Norges internasjonale avtaleforpliktelser.",
+      "Ved utlevering av opplysninger etter første ledd skal myndigheten stille som vilkår at opplysningene bare kan formidles videre med samtykke fra myndigheten, og bare for det formålet som samtykket omfatter.",
+      "Myndigheten kan gi forskrift og fatte enkeltvedtak om utveksling av taushetsbelagt informasjon mellom myndigheten og annen myndighet eller internasjonal organisasjon."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-5",
+     "nummer": "§ 46",
+     "tittel": "Pålegg om retting og endring mv.",
+     "ledd": [
+      "Myndigheten kan ved enkeltvedtak pålegge retting eller opphør av ulovlige forhold og fastsette vilkår som skal sikre samsvar med krav fastsatt i eller i medhold av loven.",
+      "Myndigheten kan ved enkeltvedtak pålegge avtaleinngåelse og stille krav til utforming av avtalevilkår i avtaler mellom tilbydere og mellom tilbyder og bruker."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-6",
+     "nummer": "§ 47",
+     "tittel": "Oppsigelse og tilbakekall",
+     "ledd": [
+      "Myndigheten kan si opp en avtale etter § 6 eller trekke tilbake tillatelse gitt i medhold av § 18 når det foreligger vesentlige eller gjentatte brudd på vilkårene og pålegg om retting etter § 46 ikke er etterkommet, eller når andre viktige samfunnshensyn gjør det nødvendig. Myndigheten kan trekke tilbake tillatelse gitt i medhold av § 33 når det foreligger brudd på vilkårene for tilgang eller brudd på andre vedtak gitt i eller i medhold av lov.",
+      "Tilbakekall av tillatelse etter § 18 eller oppsigelse etter § 6 får virkning ett år etter at det er gitt forhåndsvarsel etter forvaltningsloven § 16.",
+      "Dersom brudd på vilkår utgjør en overhengende fare for sikkerhet eller personvern eller for at tilbud om leveringspliktige posttjenester ikke opprettholdes, kan myndigheten trekke tilbake tillatelsen uten å forhåndsvarsle partene etter forvaltningsloven § 16. Det samme gjelder dersom andre viktige samfunnshensyn tilsier det. Vedtak om tilbakekall kan gis umiddelbar virkning.",
+      "En tilbyder kan ikke kreve erstatning fra staten for tap som skyldes at en tillatelse trekkes tilbake etter første og tredje ledd."
+     ],
+     "endringer": [
+      "Endret ved lov 9 juni 2017 nr. 41 (ikr. 1 juli 2017 iflg. res. 9 juni 2017 nr. 720)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-7",
+     "nummer": "§ 48",
+     "tittel": "Internkontroll",
+     "ledd": [
+      "Myndigheten kan gi forskrift og fatte enkeltvedtak om etablering av interne kontrollsystem, endring av kontrollsystem og dokumentasjon for å sikre at kravene fastsatt i eller i medhold av denne loven er oppfylt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-8",
+     "nummer": "§ 49",
+     "tittel": "Overtredelsesgebyr",
+     "ledd": [
+      "Myndigheten kan ilegge en fysisk person eller et foretak overtredelsesgebyr dersom personen, foretaket eller noen som handler på vegne av foretaket, forsettlig eller uaktsomt:\n1. overtrer §§ 7, 13, 17, 18, 20, 23, 26, 30, 32, 33, 33 a, 34, 43 eller 44\n2. overtrer forskrift gitt med hjemmel §§ 5 a, 7, 9, 10, 12, 17, 18, 20, 21, 23, 24, 25, 26, 27, 28, 32, 33, 33 a, 34, 42 eller 44\n3. unnlater å etterkomme enkeltvedtak fastsatt med hjemmel i §§ 7, 10, 16, 17, 18, 23, 26, 32, 33, 33 a, 34, 42, 44, 46 eller 48\n4. gir uriktige eller ufullstendige opplysninger til myndigheten.",
+      "Ved fastsettelse av overtredelsesgebyrets størrelse skal det særlig legges vekt på overtredelsens grovhet og varighet, utvist skyld og foretakets omsetning.",
+      "Adgangen til å pålegge gebyr foreldes etter fem år. Foreldelsesfristen begynner å løpe når overtredelsen er opphørt. Fristen avbrytes når myndigheten meddeler at et foretak er mistenkt for overtredelsen.",
+      "Myndigheten kan gi forskrift om utmåling av overtredelsesgebyr."
+     ],
+     "endringer": [
+      "Endret ved lover 9 juni 2017 nr. 41 (ikr. 1 juli 2017 iflg. res. 9 juni 2017 nr. 720), 16 juni 2023 nr. 76."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-9",
+     "nummer": "§ 50",
+     "tittel": "Tvangsmulkt",
+     "ledd": [
+      "For å sikre at krav fastsatt i eller i medhold av loven oppfylles, kan myndigheten fastsette en løpende tvangsmulkt overfor den ansvarlige inntil lovstridig virksomhet opphører.",
+      "Tvangsmulkten begynner å løpe dersom den ansvarlige oversitter den frist for retting av forholdet som myndigheten har fastsatt i vedtaket om tvangsmulkt, og løper så lenge det ulovlige forholdet varer. Dersom det er grunn til å anta at et pålegg ikke vil bli overholdt, kan tvangsmulkt varsles samtidig med pålegget.",
+      "Myndigheten kan gi forskrift om ileggelse av, størrelse, utmåling og frafall av påløpt tvangsmulkt."
+     ],
+     "endringer": [
+      "Endret ved lov 25 april 2025 nr. 12 (i kraft 1 jan 2026 iflg. res. 10 juni 2025 nr. 967)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-10",
+     "nummer": "§ 51",
+     "tittel": "Straff",
+     "ledd": [
+      "Med bøter eller fengsel inntil seks måneder straffes den som forsettlig eller uaktsomt:\n1. overtrer §§ 18, 20, 23, 32, 37, 43, 44 eller 46\n2. overtrer forskrift gitt med hjemmel i §§ 5 a, 20, 21, 33 eller 44\n3. unnlater å etterkomme enkeltvedtak fastsatt med hjemmel i §§ 33, 44 eller 46\n4. gir uriktige eller ufullstendige opplysninger til myndigheten, jf. § 44."
+     ],
+     "endringer": [
+      "Endret ved lover 9 juni 2017 nr. 41 (ikr. 1 juli 2017 iflg. res. 9 juni 2017 nr. 720), 16 juni 2023 nr. 76."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-11",
+     "nummer": "§ 52",
+     "tittel": "Instruksjonsadgang",
+     "ledd": [
+      "Departementet kan pålegge Nasjonal kommunikasjonsmyndighet å behandle saker innenfor lovens virkeområde.",
+      "Nasjonal kommunikasjonsmyndighet kan ikke instrueres, verken generelt eller i den enkelte sak, ved behandling av saker etter kapittel 4 om felles bruk av postnett."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kap7",
+   "overskrift": "Kapittel 7. Gebyr og ekspropriasjon",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 53",
+     "tittel": "Gebyr til Nasjonal kommunikasjonsmyndighet",
+     "ledd": [
+      "Nasjonal kommunikasjonsmyndighet kan kreve gebyr og sektoravgift fra tilbydere av posttjenester til dekning av kostnader knyttet til forvaltningsoppgaver etter denne loven.",
+      "Myndigheten kan gi forskrifter om gebyr og sektoravgift til Nasjonal kommunikasjonsmyndighet, herunder kan tilbydere med liten omsetning unntas fra plikten til å betale sektoravgift."
+     ],
+     "endringer": [
+      "Endret ved lov 9 juni 2017 nr. 41 (ikr. 1 juli 2017 iflg. res. 9 juni 2017 nr. 720)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-2",
+     "nummer": "§ 54",
+     "tittel": "Innkreving av tvangsmulkt, overtredelsesgebyr, gebyr mv.",
+     "ledd": [
+      "Endelig vedtak om gebyrer som fastsettes etter § 53, tvangsmulkt etter § 50 eller overtredelsesgebyr etter § 49 er tvangsgrunnlag for utlegg.",
+      "Innkreving av krav som nevnt i første ledd kan pålegges Innkrevingsmyndigheten."
+     ],
+     "endringer": [
+      "Endret ved lov 25 april 2025 nr. 12 (i kraft 1 jan 2026 iflg. res. 10 juni 2025 nr. 967)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-3",
+     "nummer": "§ 55",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Opphevet ved lov 9 juni 2017 nr. 41 (ikr. 1 juli 2017 iflg. res. 9 juni 2017 nr. 720). Endret ved lov 11 mai 2017 nr. 26 (ikr. 1 jan 2018 iflg. res. 11 mai 2017 nr. 563, endringen kunne ikke gjennomføres fordi paragrafen er opphevet)."
+     ],
+     "opphevet": "2018-01-01"
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-8",
+   "navn": "kap8",
+   "overskrift": "Kapittel 8. Avsluttende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-1",
+     "nummer": "§ 56",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Loven trer i kraft fra det tidspunkt[1] Kongen bestemmer. Kongen kan bestemme at de enkelte bestemmelser skal tre i kraft på ulikt tidspunkt.",
+      "Fra den tid loven trer i kraft oppheves lov 29. november 1996 nr. 73 om formidling av landsdekkende postsendinger."
+     ],
+     "fotnoter": [
+      {
+       "nr": "1",
+       "tekst": "Fra 1. januar 2016, med unntak av § 35, § 36, § 40 og § 41 første ledd nr. 1 og § 55, iflg. res. 4 sep 2015 nr. 1027 som endret ved res. 18 des 2015 nr. 1643.\nFra 19. april 2024 for § 35, § 36 og § 41 første ledd nummer 1 iflg. res. 19 april 2024 nr. 643."
+      }
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-2",
+     "nummer": "§ 57",
+     "tittel": "Overgangsbestemmelser",
+     "ledd": [
+      "Inntil det er inngått avtale med eller utpekt tilbyder med leveringsplikt, utpekes Posten Norge AS[1] som leveringspliktig tilbyder.",
+      "Konsesjon til Posten Norge AS[1] av 18. desember 2012 videreføres, med unntak av punkt 3.5, 3.8.1 og 3.8.2, kapitlene 4 og 5, og punkt 6.1, 6.2 og 6.3, inntil ny avtale eller vedtak som utpeker leveringspliktig tilbyder trer i kraft, eller konsesjonen på annet vis opphører. Ved motstrid mellom bestemmelser i konsesjon og lov skal bestemmelsene i loven ha forrang.",
+      "Departementet kan i enkeltvedtak endre konsesjonen inntil ny avtale eller vedtak som utpeker leveringspliktig tilbyder trer i kraft, eller konsesjonen opphører.",
+      "Enkeltvedtak med hjemmel i lov 29. november 1996 nr. 73 om formidling av landsdekkende postsendinger som er i kraft ved denne lovs ikrafttredelse, skal fortsatt gjelde."
+     ],
+     "fotnoter": [
+      {
+       "nr": "1",
+       "tekst": "Inkurie: Skal være Posten Bring AS."
+      }
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-3",
+     "nummer": "§ 58",
+     "tittel": "Endring i andre lover",
+     "ledd": [
+      "Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –"
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,353 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-1996-06-13-592",
+ "dokumentid": "SF/forskrift/1996-06-13-592",
+ "departement": [
+  "Helse- og omsorgsdepartementet"
+ ],
+ "etat": [
+  "Folkehelseavd."
+ ],
+ "kunngjort_i": "Avd I 1996 767",
+ "ikraft": "1996-08-01",
+ "siste_endring_ikraft": "2016-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2015-12-18-1740",
+   "tekst": "forskrift/2015-12-18-1740 fra 2016-01-01"
+  }
+ ],
+ "endrer": "forskrift/1967-01-13-17",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2011-06-24-29/§8",
+   "tekst": "lov/2011-06-24-29/§8"
+  },
+  {
+   "ref": "lov/2011-06-24-29/§10",
+   "tekst": "lov/2011-06-24-29/§10"
+  }
+ ],
+ "siste_rettelse": "2021-10-04 (tabell)",
+ "korttittel": "Forskrift for badeanlegg, bassengbad og badstu",
+ "tittel": "Forskrift for badeanlegg, bassengbad og badstu m.v.",
+ "annet": "Hjemmel: Fastsatt av Sosial- og helsedepartementet (nå Helse- og omsorgsdepartementet) 13. juni 1996 med hjemmel i lov 24. juni 2011 nr. 29 om folkehelsearbeid (folkehelseloven) § 8 annet ledd og § 10 annet og fjerde ledd.\nEndret ved forskrifter 1 sep 2003 nr. 1111, 17 des 2007 nr. 1537, 5 mars 2012 nr. 202, 18 des 2015 nr. 1740.",
+ "refid": "forskrift/1996-06-13-592",
+ "eli": "/eli/forskrift/1996/06/13/592",
+ "url": "https://lovdata.no/dokument/SF/forskrift/1996-06-13-592",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "Kapittel I. Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Formål",
+     "ledd": [
+      "Formålet med denne forskrift er å sikre brukerne av badeanlegg, bassengbad og badstuer tilfredsstillende helsemessige og hygieniske forhold, samt bidra til å hindre ulykker."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Forskriften omfatter alle bassengbad, badeanlegg og badstuer som er tilgjengelige for allmennheten."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "I denne forskrift forstås med:\na. Badeanlegg: Bassengbad eller badstu, samt tilhørende anlegg som har en relevant funksjon i forhold til virksomheten.\nb. Bassengbad: Ethvert utendørs- og innendørs basseng med tilhørende tekniske anlegg og tilbehør som er beregnet på bading, herunder svømmebasseng, vannrutsjebaner, plaske- og stupeanlegg, fritidsbad, boblebad, avkjølingsbad, terapibad m.v.\nc. Badstu: Adskilt rom, avlukke eller lignende som er innrettet i den hensikt å gi brukerne svettebad.\nd. Desinfeksjon: Destruering av sykdomsfremkallende mikroorganismer som medfører eller kan medføre helsefare for de badende.\ne. Internkontroll: Å påse at krav fastsatt i eller i medhold av lov eller forskrift overholdes.\nf. Internkontrollsystem: Systematiske tiltak som skal sikre og dokumentere at aktiviteter utøves i samsvar med krav fastsatt i eller i medhold av lov eller forskrift. De systematiske tiltakene skal være beskrevet i administrative prosedyrer.\ng. Instruks: Nedskrevne bestemmelser som er ment å skulle følges av dem de retter seg mot.\nh. Renseanlegg: Den del av sirkulasjonssystemet der urenheter fjernes fra vannet, vannet tilsettes desinfeksjonsmiddel og vannkvaliteten eventuelt justeres med hensyn til surhetsgrad, korrosivitet o.l.\ni. Sanitæranlegg: Toaletter, dusjanlegg o.l. samt tilhørende funksjoner som er tilknyttet badeanlegget.\nj. Sirkulasjonsmengde: Den mengde vann som skiftes ut pr. tidsenhet (f.eks. time) pr. badende i bassengbadet.\nk. Sirkulasjonssystemet: Det samlede system av bassenger, rørledninger, bunn- og undervannsavløp, overløpsrenner, kanaler, utjevningsbassenger og renseanlegg, hvor vannet sirkulerer eller kan sirkulere."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "Kapittel II. Alminnelige bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 4",
+     "tittel": "Ansvar. Internkontroll",
+     "ledd": [
+      "De som eier eller driver badeanlegg har ansvar for å påse at bestemmelsene gitt i eller i medhold av denne forskrift overholdes.",
+      "Eier av badeanlegg skal påse at det er etablert et internkontrollsystem.",
+      "Internkontrollsystemet skal sikre at badeanlegget planlegges, etableres og drives slik at forskriftens bestemmelser oppfylles."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 5",
+     "tittel": "Opplysningsplikt til tilsynsmyndighetene",
+     "ledd": [
+      "Den som eier eller driver badeanlegg plikter å legge frem de opplysninger som er nødvendige for at tilsynsmyndighetene skal kunne gjennomføre sine oppgaver etter denne forskrift.",
+      "Den som eier eller driver badeanlegg skal av eget tiltak gi relevante opplysninger til tilsynsmyndighetene om uforutsette forhold ved virksomheten og anlegget som kan medføre helsemessig risiko."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 6",
+     "tittel": "Meldingsplikt og dokumentasjon",
+     "ledd": [
+      "Før badeanlegg tas i bruk og ved endringer i driften skal eieren av anlegget legge frem for kommunen melding med vurdering av alle forhold som kan ha innvirkning på helse, hygiene eller sikkerhet for brukerne ved driften av badeanlegget.",
+      "For boblebad skal melding blant annet inneholde opplysninger om boblebadets utforming og driftsbetingelser, herunder modell/type, i henhold til § 18.",
+      "Meldingen skal forelegges medisinsk-faglig rådgiver til uttalelse."
+     ],
+     "endringer": [
+      "Endret ved forskrift 17 des 2007 nr. 1537 (i kraft 1 jan 2008)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kapIII",
+   "overskrift": "Kapittel III. Spesielle bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 7",
+     "tittel": "Krav til badeanlegg og omkringliggende arealer",
+     "ledd": [
+      "Badeanlegg skal være utformet slik at hensynet til helse, hygiene og sikkerhet, herunder forebygging av ulykker, til enhver tid ivaretas.",
+      "Det skal være driftsrutiner som sikrer hygienisk tilfredsstillende renhold i badeanlegget. Badeanlegget skal ha:\na. forsvarlig innemiljø.\nb. sklisikkert golv og underlag rundt bassengbad og på de deler av bassengbunnflaten der vanndybden er liten.\nc. et tilstrekkelig areal rundt bassengbad som er utformet slik at livredning kan gjennomføres uten hindring.\nd. tilstrekkelig og hensiktmessig sikkerhetsutstyr.\ne. tilfredsstillende belysning under bruk.\nf. forsvarlig merking av fall i bassengdybden.\ng. golv og underlag med en utforming som sikrer oppsamling eller bortledning av vann, og hindrer væske i å renne tilbake til bassengbadet/sirkulasjonssystemet.",
+      "I badstu skal badstuovner være skjermet og temperaturfølere/termostater fungere, slik at brannskader unngås.",
+      "Materialene i alle komponenter og flater som er i kontakt med vannet skal være korrosjonsbestandige og tilpasset vannkvaliteten. De skal ha en tilstrekkelig tett og glatt overflate, slik at vann eller mikroorganismer ikke skal kunne trenge inn i materialet. Materialer i kontakt med vann skal ikke kunne avgi helseskadelige stoffer til vannet eller medvirke til at vannet blir helseskadelig."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 8",
+     "tittel": "Sanitæranlegg ved badeanlegg",
+     "ledd": [
+      "Badeanlegg skal ha tilknyttet et tilfredsstillende antall omkledningsrom, dusjer og toaletter med håndvask, dimensjonert i forhold til anleggets besøkskapasitet.",
+      "Det skal være tilstrekkelig varmtvann for dusjing og rengjøring.",
+      "Dusjer skal være plassert slik at besøkende passerer disse før adkomst til badeanlegget. Toalettrom skal være plassert slik at det er lett tilgang fra badeanlegget.",
+      "Den som eier og driver badeanlegg skal ha rutiner for renhold og desinfeksjon for å sikre at dusjanlegg og sanitæranlegg er helsemessig tilfredsstillende. Blant annet skal vekst og spredning av Legionella forebygges."
+     ],
+     "endringer": [
+      "Endret ved forskrift 17 des 2007 nr. 1537 (i kraft 1 jan 2008)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 9",
+     "tittel": "Opplæring og oppsikt med personsikkerhet",
+     "ledd": [
+      "Den som eier eller driver badeanlegg plikter å påse at både personellet som holder oppsikt med personsikkerheten i anlegget og personellet som gjennomfører den praktiske drift av sirkulasjonssystemet, er gitt tilfredsstillende opplæring.",
+      "Det skal være driftsrutiner for tilfredsstillende oppsikt med personsikkerheten i badeanlegget."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 10",
+     "tittel": "Instrukser til brukere",
+     "ledd": [
+      "I badeanlegg skal det være lett synlig oppslag om hvilke instrukser som skal følges av brukere."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kapIV",
+   "overskrift": "Kapittel IV. Driftsbestemmelser for bassengbad",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 11",
+     "tittel": "Sirkulasjonssystem",
+     "ledd": [
+      "Ethvert bassengbad skal ha sirkulasjonssystem som sikrer hygienisk tilfredsstillende forhold og driftsrutiner som sikrer forsvarlig drift av sirkulasjonssystemet.",
+      "For ethvert bassengbad skal sirkulasjonsmengde og sirkulasjonstid beregnes i forhold til antall badende pr. time og bassengbadets utforming. Alle innretninger og tekniske anlegg skal være tilpasset bruksfrekvensen, bassengbadets størrelse og bruk.",
+      "Ethvert sirkulasjonssystem skal ha renseanlegg med filtersystem. Det enkelte basseng skal ha sirkulasjonssystem med egen doseringsinnretning for desinfeksjonsmiddel tilpasset det enkelte bassengs behov. Alle kjemikalier som benyttes i renseprosessen, skal doseres ved hjelp av fungerende doseringsinnretning. Det skal sikres en forsvarlig dosering av kjemikalier.",
+      "Vannet skal kontinuerlig sirkuleres gjennom hele sirkulasjonssystemet, uten at det noe sted i sirkulasjonssystemet skal kunne oppstå bakevjer eller lignende, hvor det samles vann som ikke effektivt tar del i sirkulasjonen.",
+      "Renset vann skal blandes hurtig og jevnt inn i det totale vannvolum i bassenget slik at nytt desinfeksjonsmiddel er tilgjengelig over alt.",
+      "Det skal finnes måleinnretning for å registrere sirkulasjonsmengden."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 12",
+     "tittel": "Overløpsrenner",
+     "ledd": [
+      "Ethvert bassengbad skal ha overløpsrenner, som skal sikre sirkulasjonssystemets funksjon, forsvarlig renhold og de badendes sikkerhet. Rennene skal ha tilstrekkelig volum til å ta opp den største momentbelastning i bassenget, og sikre at vann aldri kan renne tilbake til bassenget fra rennene.",
+      "Bassengbad bygget før denne forskrift trer i kraft, unntas fra kravet om overløpsrenner inntil ombygging likevel skal finne sted."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 13",
+     "tittel": "Bunnavløp",
+     "ledd": [
+      "Ethvert bassengbad skal ha bunnavløp som skal fungere slik at bassenget og sirkulasjonssystemet kan tømmes fullstendig. Avløp under vann skal fungere slik at det ikke er fare for at noen kan bli sugd fast."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 14",
+     "tittel": "Utjevningsmulighet",
+     "ledd": [
+      "Ethvert bassengbad skal ha utjevningsmuligheter i sirkulasjonssystemet som skal sikre sirkulasjonssystemets funksjon og drift, samt en jevn vannstand i bassenget ved varierende badebelastning. Innretningen for sirkulasjonssystemets utjevning skal fungere slik at renhold kan utføres tilfredsstillende, og slik at slam kan fjernes enkelt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-5",
+     "nummer": "§ 15",
+     "tittel": "Desinfeksjon",
+     "ledd": [
+      "Ethvert bassengbad skal til enhver tid og på ethvert sted i sirkulasjonssystemet ha vann som inneholder tilstrekkelig mengde desinfeksjonsmiddel til å drepe helseskadelige mikroorganismer, samt forhindre vekst av organismer som i spesielle situasjoner kan gi sykdom hos mennesker.",
+      "Desinfeksjonsmiddel skal tilsettes kontinuerlig og etter behov.",
+      "Ved desinfeksjon av vannet med klor (hypokloritt) skal følgende krav være oppfylt:",
+      "Bestemmelsen er ikke til hinder for sjokklorering.\n| Vanntemperatur | Vannets laveste innhold | Sum av fritt og bundet\n| | av fritt klor[*] | klor, maksimalverdi[**]\n| =<27°C | 0,4 mg/l | 3 mg/l\n| 27-29°C | 0,5 mg/l | 3 mg/l\n| 29-33°C | 0,7 mg/l | 4 mg/l\n| 33-37°C | 0,9 mg/l | 4 mg/l\n| >37°C | 1,0 mg/l | 4 mg/l"
+     ],
+     "fotnoter": [
+      {
+       "nr": "*",
+       "tekst": "måles ved utløpet av bassenget før filtrering og før tilsats av nytt desinfeksjonsmiddel, jfr § 17."
+      },
+      {
+       "nr": "**",
+       "tekst": "innholdet av bundne klorforbindelser må aldri overstige 50% av den målte verdien av fritt klor. Verdien av bundet klor bør være så lav som mulig og må ikke overstige 0,5 mg Cl/l."
+      }
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-6",
+     "nummer": "§ 16",
+     "tittel": "Vannkvalitet",
+     "ledd": [
+      "Vannet i bassengbad skal være hygienisk tilfredsstillende. Vannet skal være klart, uten farge og innbydende til bading. Bunnen skal kunne ses tydelig i alle deler av bassengbadet.",
+      "Vannet skal tilfredsstille følgende krav:\n| Parameter | Laveste tillatte\nverdi | Høyeste tillatte\nverdi\n| 1. Fargetall | mg/l Pt | | 5\n| 2. Turbiditet | FTU | | 0,5\n| 3. Surhetsgrad | pH-verdi | 7,2 | 7,6\n| 4. Kimtallsbakterier\nved 37 °C | pr. ml | | 10\n| 5. Pseudomonas | | |\n| aeruginosa | pr. 100 ml | | 0\n| 6. KOFMn | mg/l O | | 4",
+      "Innholdet av aminer og organiske stoffer skal holdes på et tilfredsstillende nivå slik at det ikke dannes hygienisk betenkelige eller ubehagelige stoffer i vannet som følge av den øvrige vannkvalitet."
+     ],
+     "endringer": [
+      "Endret ved forskrift 17 des 2007 nr. 1537 (i kraft 1 jan 2008)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-7",
+     "nummer": "§ 17",
+     "tittel": "Analyser og prøvetakingsfrekvens",
+     "ledd": [
+      "Ved ethvert bassengbad skal det tas analyser av vannkvalitetsparametre med tilstrekkelig prøvetakingsfrekvens for å holde oversikt over bassengvannets kvalitet, og for å sikre tilfredsstillende hygieniske forhold ved drift av bassengbadet.",
+      "Ved ethvert bassengbad skal det være utstyr for å måle vannets temperatur og pH-verdi.",
+      "Når klor (hypokloritt) brukes som desinfeksjonsmiddel, skal det med jevne mellomrom tas prøver av fritt og bundet klor. For bassengbad der belastningen er høy bør det minimum tas 4 prøver pr. dag, og prøve bør minst tas hver tredje time når anlegget er i bruk. Måling av fritt klor skal skje ved utløpet av bassenget før filtrering og før tilsats av ny klor."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-8",
+     "nummer": "§ 18",
+     "tittel": "Krav til boblebad",
+     "ledd": [
+      "Alle boblebad skal være utformet og drives slik at hygieniske ulemper unngås.",
+      "Folkehelseinstituttet kan gi en forhåndsuttalelse om hvorvidt ulike typer/modeller av boblebad er utformet og kan drives slik at de kan gi tilfredsstillende beskyttelse mot Legionella. For boblebad som ikke er forhåndsvurdert, skal den enkelte innretning vurderes nærmere av kommunen i forbindelse med melding, jf. § 6."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 17 des 2007 nr. 1537 (i kraft 1 jan 2008), 18 des 2015 nr. 1740 (i kraft 1 jan 2016)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kapV",
+   "overskrift": "Kapittel V. Avsluttende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 19",
+     "tittel": "Tilsyn.",
+     "ledd": [
+      "Kommunen fører tilsyn med at denne forskrift overholdes."
+     ],
+     "endringer": [
+      "Endret ved forskrift 5 mars 2012 nr. 202."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 20",
+     "tittel": "Virkemidler og dispensasjon.",
+     "ledd": [
+      "Kommunen kan foreta granskning, retting, stansing og ilegge tvangsmulkt i samsvar med folkehelseloven § 13 til § 16.",
+      "Kommunen kan i særskilte tilfeller gi dispensasjon fra bestemmelser i denne forskrift."
+     ],
+     "endringer": [
+      "Endret ved forskrift 5 mars 2012 nr. 202."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 21",
+     "tittel": "Klage.",
+     "ledd": [
+      "Folkehelseloven § 19 gjelder for klage over vedtak truffet med hjemmel i denne forskrift."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 1 sep 2003 nr. 1111, 5 mars 2012 nr. 202."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-4",
+     "nummer": "§ 22",
+     "tittel": "Straff.",
+     "ledd": [
+      "Overtredelse av forskriften eller vedtak truffet med hjemmel i forskriften straffes etter folkehelseloven § 18, dersom ikke strengere straffebestemmelser kommer til anvendelse."
+     ],
+     "endringer": [
+      "Endret ved forskrift 5 mars 2012 nr. 202."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-5",
+     "nummer": "§ 23",
+     "tittel": "Ikrafttreden og overgangsbestemmelser",
+     "ledd": [
+      "Denne forskrift trer i kraft 1. august 1996.",
+      "Fra samme tid oppheves forskrift av 13. januar 1967 nr. 17 om bassengbad.",
+      "Eiere av alle badeanlegg som omfattes av forskriften skal legge fram melding og vurdering i henhold til § 6 til kommunen innen 1. august 1997.",
+      "For eksisterende anlegg som ved forskriftens ikrafttredelse ikke er i overensstemmelse med denne forskrifts §§ 11, 13 og 14, må eierne av disse anleggene innen 1. august 1998 utarbeide plan for utbedring av anleggene slik at anleggene innen 1. august 2002 er i overensstemmelse med bestemmelsene i denne forskriften."
+     ]
+    }
+   ]
+  }
+ ]
+}

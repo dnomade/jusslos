@@ -1,0 +1,57 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2026-11-09-2306",
+ "dokumentid": "SF/forskrift/2026-11-09-2306",
+ "departement": [
+  "Klima- og miljødepartementet"
+ ],
+ "etat": [
+  "Miljødirektoratet"
+ ],
+ "ikraft": "2027-01-01",
+ "endrer": "forskrift/2004-06-01-931",
+ "hjemmel": [
+  {
+   "ref": "lov/1981-03-13-6/§9",
+   "tekst": "lov/1981-03-13-6/§9"
+  },
+  {
+   "ref": "forskrift/2004-06-01-931/§2-13",
+   "tekst": "forskrift/2004-06-01-931/§2-13"
+  }
+ ],
+ "kunngjort": "2026-11-10 15:15",
+ "korttittel": "Endr. i forurensningsforskriften",
+ "tittel": "Forskrift om endring i forurensningsforskriften (endring av normverdier forurenset grunn)",
+ "annet": "Hjemmel: Fastsatt av Miljødirektoratet 9. november 2026 med hjemmel i lov 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (forurensningsloven) § 9, jf. forskrift 1. juni 2004 nr. 931 om begrensning av forurensning (forurensningsforskriften) § 2-13.",
+ "refid": "forskrift/2026-11-09-2306",
+ "eli": "/eli/forskrift/2026/11/09/2306",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2026-11-09-2306",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "I forskrift 1. juni 2004 nr. 931 om begrensning av forurensing (forurensningsforskriften) kapittel 2 gjøres følgende endring:\nVedlegg 1 skal lyde:\n| Stoff | Normverdier (mg/kg)\n| Metaller: |\n| Arsen | 8\n| Bly (uorganisk) | 25\n| Kadmium | 1\n| Kvikksølv | 0,2\n| Kobber | 100\n| Sink | 120\n| Krom (total) | 50\n| Krom (VI) | 0,3\n| Nikkel | 60\n| Cyanid fri | 0,5\n| PCB: |\n| ∑7PCB | 0,01\n| Klorerte pesticider: |\n| Lindan | 0,001\n| DDT (total) | 0,3\n| Klorerte benzener: |\n| Monoklorbenzen | 0,03\n| 1,2-diklorbenzen | 0,05\n| 1,4-diklorbenzen | 0,05\n| 1,2,4-triklorbenzen | 0,01\n| 1,2,3-triklorbenzen | 0,01\n| 1,3,5-triklorbenzen | 0,01\n| Pentaklorbenzen | 0,02\n| Heksaklorbenzen | 0,01\n| Flyktige halogenerte hydrokarboner: |\n| Diklormetan | 0,01\n| Triklormetan | 0,02\n| Trikloreten | 0,01\n| Tetraklormetan | 0,003\n| Tetrakloreten | 0,01\n| 1,2-dikloretan | 0,01\n| 1,2-dibrometan | 0,003\n| 1,1,1-trikloretan | 0,1\n| 1,1,2-trikloretan | 0,01\n| Fenoler og klorfenoler: |\n| Fenol | 0,1\n| Nonylfenol | 0,04\n| Oktylfenol | 0,04\n| Sum mono,di,tri,tetra klorfenol | 0,04\n| Pentaklorfenol | 0,006\n| Bisfenol A | 0,06\n| PAH-forbindelser: |\n| ∑16 PAH | 1,6\n| Benso(a)pyren | 0,1\n| BTEX: |\n| Benzen | 0,01\n| Toluen | 0,2\n| Etylbenzen | 0,1\n| Xylen | 0,8\n| Alifatiske hydrokarboner: |\n| Alifater C5–C8 | 7\n| Alifater >C8–C10 | 10\n| Alifater >C10–C12 | 100\n| Alifater >C12–C35 | 100\n| TPH C10–C40 | 100\n| Tilsetningsstoffer til bensin og oljeprodukter: |\n| MTBE | 0,8\n| Tetraetylbly | 0,001\n| Bromerte flammehemmere: |\n| PBDE-99 | 0,003\n| PBDE-153 | 0,005\n| PBDE-209 | 0,002\n| HBCDD | 0,04\n| Tetrabrombisfenol A | 0,02\n| PFOS-forbindelser: |\n| PFOS | 0,002\n| Ftalater: |\n| Di(2-etylheksyl)ftalat (DEPH) | 3\n| Dioksiner/furaner (TCDD-ekvivalenter) | 0,000001\n| Organiske tinnforbindelser |\n| TBT-kation | 0,004\n| Trifenyltinn-kation | 0,03\n| Klorparafiner: |\n| Klorparafiner (MCCP) | 6\n| Klorparafiner (SCCP) | 0,1\n| Andre organiske miljøgifter: |\n| Trikresylfosfat | 0,1"
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Forskriften trer i kraft 1. januar 2027."
+    }
+   ]
+  }
+ ]
+}

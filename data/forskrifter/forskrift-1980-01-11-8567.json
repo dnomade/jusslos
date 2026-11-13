@@ -1,0 +1,38 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-1980-01-11-8567",
+ "dokumentid": "SF/forskrift/1980-01-11-8567",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Økonomiavd."
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1814-05-17/§75",
+   "tekst": "lov/1814-05-17/§75"
+  }
+ ],
+ "korttittel": "Forskrift om rente på statens grunnkjøpsobl.",
+ "tittel": "Forskrift om fastsettelse av renten på statens grunnkjøpsobligasjoner.",
+ "refid": "forskrift/1980-01-11-8567",
+ "eli": "/eli/forskrift/1980/01/11/8567",
+ "url": "https://lovdata.no/dokument/SF/forskrift/1980-01-11-8567",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Fra 1. januar 1980 settes renten på nye grunnkjøpsobligasjoner til 8 3/4 pst. årlig. Fra samme dag settes renten på nye grunnkjøpsobligasjonslån fra Norges Kommunalbank til 9 pst. årlig og renten på de korresponderende lån fra staten til Norges Kommunalbank til 8 3/4 pst. årlig."
+    }
+   ]
+  }
+ ]
+}

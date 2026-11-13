@@ -1,0 +1,1451 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2015-06-18-761",
+ "dokumentid": "SF/forskrift/2015-06-18-761",
+ "departement": [
+  "Landbruks- og matdepartementet"
+ ],
+ "etat": [
+  "Avd. for matpolitikk"
+ ],
+ "kunngjort_i": "I 2015 hefte 7",
+ "ikraft": "2015-07-01",
+ "siste_endring_ikraft": "2017-04-05",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2017-04-05-451",
+   "tekst": "forskrift/2017-04-05-451"
+  }
+ ],
+ "endrer": "forskrift/1996-01-15-23\nforskrift/2010-07-08-1085",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2009-06-19-97/§6",
+   "tekst": "lov/2009-06-19-97/§6"
+  },
+  {
+   "ref": "lov/2009-06-19-97/§7",
+   "tekst": "lov/2009-06-19-97/§7"
+  },
+  {
+   "ref": "lov/2009-06-19-97/§8",
+   "tekst": "lov/2009-06-19-97/§8"
+  },
+  {
+   "ref": "lov/2009-06-19-97/§9",
+   "tekst": "lov/2009-06-19-97/§9"
+  },
+  {
+   "ref": "lov/2009-06-19-97/§10",
+   "tekst": "lov/2009-06-19-97/§10"
+  },
+  {
+   "ref": "lov/2009-06-19-97/§12",
+   "tekst": "lov/2009-06-19-97/§12"
+  },
+  {
+   "ref": "lov/2009-06-19-97/§13",
+   "tekst": "lov/2009-06-19-97/§13"
+  },
+  {
+   "ref": "lov/2009-06-19-97/§19",
+   "tekst": "lov/2009-06-19-97/§19"
+  },
+  {
+   "ref": "lov/2009-06-19-97/§21",
+   "tekst": "lov/2009-06-19-97/§21"
+  },
+  {
+   "ref": "lov/2009-06-19-97/§23",
+   "tekst": "lov/2009-06-19-97/§23"
+  },
+  {
+   "ref": "lov/2009-06-19-97/§24",
+   "tekst": "lov/2009-06-19-97/§24"
+  },
+  {
+   "ref": "lov/2009-06-19-97/§25",
+   "tekst": "lov/2009-06-19-97/§25"
+  },
+  {
+   "ref": "lov/2009-06-19-97/§27",
+   "tekst": "lov/2009-06-19-97/§27"
+  },
+  {
+   "ref": "lov/2009-06-19-97/§28",
+   "tekst": "lov/2009-06-19-97/§28"
+  },
+  {
+   "ref": "lov/2009-06-19-97/§30",
+   "tekst": "lov/2009-06-19-97/§30"
+  },
+  {
+   "ref": "lov/2009-06-19-97/§38",
+   "tekst": "lov/2009-06-19-97/§38"
+  },
+  {
+   "ref": "forskrift/2010-06-11-814",
+   "tekst": "forskrift/2010-06-11-814"
+  },
+  {
+   "ref": "lov/2001-06-15-75/§18",
+   "tekst": "lov/2001-06-15-75/§18"
+  },
+  {
+   "ref": "lov/2003-12-19-124/§19",
+   "tekst": "lov/2003-12-19-124/§19"
+  }
+ ],
+ "kunngjort": "2015-06-30 16:00",
+ "siste_rettelse": "2017-11-09 (EØS-henvisning)",
+ "korttittel": "Forskrift om bruk av dyr i forsøk",
+ "tittel": "Forskrift om bruk av dyr i forsøk",
+ "annet": "Hjemmel: Fastsatt av Landbruks- og matdepartementet og Nærings- og fiskeridepartementet 18. juni 2015 med hjemmel i lov 19. juni 2009 nr. 97 om dyrevelferd § 6, § 7, § 8, § 9, § 10, § 12, § 13, § 19, § 21, § 23, § 24, § 25, § 27, § 28, § 30 og § 38, jf. delegeringsvedtak 11. juni 2010 nr. 814, lov 15. juni 2001 nr. 75 om veterinærer og annet dyrehelsepersonell § 18 og lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) § 19.\nEØS-henvisninger: EØS-avtalen vedlegg I kap. I del 7.1. nr. 9b og vedlegg II kap. XIII nr. 7 (direktiv 2010/63/EU).\nEndret ved forskrift 5 april 2017 nr. 451.\nRettelser: 15.09.2016 (Hjemmel og EØS-henvisninger), 09.11.2017 (EØS-henvisning).",
+ "refid": "forskrift/2015-06-18-761",
+ "eli": "/eli/forskrift/2015/06/18/761",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2015-06-18-761",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "Kapittel I. Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Formål",
+     "ledd": [
+      "Forskriften skal bidra til å begrense bruken av dyr til vitenskapelige og utdanningsmessige formål, fremme god velferd og respekt for dyr som brukes til slike formål, og bidra til at dyrene ikke utsettes for unødige belastninger."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Saklig og personelt virkeområde",
+     "ledd": [
+      "Forskriften gjelder når dyr\na. blir brukt eller er ment å bli brukt i forsøk eller\nb. blir oppdrettet spesielt for at deres organer eller vev kan bli brukt til vitenskapelige formål.",
+      "Forskriften gjelder levende virveldyr, tifotkreps og blekksprut. Dette omfatter også tidlige utviklingsstadier av disse dyrene hvis sanseapparatet er på et tilsvarende nivå som hos ferdig utviklede dyr, herunder fostre av pattedyr i siste tredjedel av normal utvikling og larver av virveldyr som ernærer seg selv. I tillegg gjelder forskriften når dyr på enda tidligere utviklingsstadier blir brukt i forsøk og får leve videre og sannsynligvis vil oppleve smerte, frykt, varig skade eller annen belastning etter å ha nådd utviklingsstadier som nevnt i annet punktum.",
+      "Forskriften gjelder selv om det brukes beroligende, bedøvende eller smertestillende midler, eller andre metoder slik at dyret ikke påføres smerte, frykt, varig skade eller annen belastning.",
+      "Forskriften gjelder inntil dyr som nevnt i første ledd er avlivet, omplassert eller tilbakeført til et dyrehold.",
+      "Forskriften gjelder ikke\na. ikke-eksperimentell landbruks- og akvakulturvirksomhet\nb. ikke-eksperimentell klinisk veterinærvirksomhet\nc. klinisk utprøving av legemidler til dyr når dette er nødvendig for å få eller beholde markedsføringstillatelse\nd. prosedyrer i forbindelse med alminnelig avl og hold av dyr\ne. enkel identitetsmerking av dyr\nf. handlinger som det ikke er grunn til å tro vil påføre dyret smerte, frykt, varig skade eller annen belastning tilsvarende eller større enn ved å føre inn en nål etter god veterinær praksis.",
+      "Kravene i forskriften er rettet mot oppdrettere, formidlere og brukere."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Stedlig virkeområde",
+     "ledd": [
+      "Forskriften gjelder på norsk landterritorium, i norsk territorialfarvann, i norsk økonomisk sone, på norske fartøy og luftfartøy, på innretninger på norsk kontinentalsokkel, samt på Svalbard, Jan Mayen og bilandene. Forskriften gjelder også aktivitet som personell fra norsk fartøy utfører i nær tilknytning til fartøyet når det befinner seg i internasjonalt eller fremmed farvann."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 4",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "a. forsøk: enhver bruk av dyr til vitenskapelige eller utdanningsmessige formål, og i medisinsk virksomhet, som kan påføre dyret smerte, frykt, varig skade eller annen belastning tilsvarende eller større enn ved å føre inn en nål etter god veterinær praksis. Begrepet omfatter også handlinger som har som mål, eller kan føre til at dyr fødes eller klekkes med belastninger som nevnt i første punktum. I tillegg omfatter begrepet etablering og vedlikehold av genmodifiserte dyrestammer med slike belastninger. Et forsøk kan også være et arbeidsprogram som har et definert vitenskapelig formål og som består av ett eller flere forsøk. Når dyrene ikke er avlet eller holdt spesielt for at deres organer eller vev kan bli brukt til vitenskapelige formål, regnes ikke avliving av dyrene til slik bruk som forsøk.\nb. feltforsøk: forsøk utenfor godkjente lokaler\nc. lokaler: anlegg, bygning, gruppe av bygninger eller andre lokaliteter, herunder steder som ikke er helt lukket eller tildekket, samt mobile anlegg. Innredning og utstyr regnes som deler av lokalet.\nd. oppdretter: fysisk eller juridisk person som oppdretter dyr som er oppført i vedlegg D med sikte på at de skal brukes i forsøk, eller at deres organer eller vev skal brukes til vitenskapelige formål, eller oppdretter andre dyr primært til slike formål\ne. formidler: fysisk eller juridisk person, bortsett fra oppdretter, som formidler dyr med sikte på bruk av dyrene i forsøk eller deres organer eller vev til vitenskapelige formål\nf. bruker: fysisk eller juridisk person som bruker dyr i forsøk\ng. truede dyrearter: dyrearter som er kategorisert som kritisk truet, sterkt truet eller sårbar i Norsk rødliste for arter eller som står oppført i vedlegg A til forordning (EF) nr. 338/97."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "Kapittel II. Krav om godkjenning",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 5",
+     "tittel": "Godkjenning av oppdrettere, formidlere, brukere og lokaler",
+     "ledd": [
+      "Oppdrettere, formidlere og brukere, og lokalene de bruker, skal være godkjent av Mattilsynet. Godkjenning kan bare gis hvis kravene i denne forskriften er oppfylt. Godkjenningen kan gis en begrenset varighet.",
+      "Lokalene og driften kan ikke endres vesentlig uten ny godkjenning hvis endringen kan svekke dyrevelferden.",
+      "Oppdretteren, formidleren eller brukeren skal i søknaden oppgi hvilke dyrearter som skal brukes og spesifisere hvem som\na. har det nærmeste lederansvaret for å sikre etterlevelse av denne forskriften\nb. skal ha særskilt kontrollansvar etter § 25\nc. er navngitt veterinær eller fiskehelsebiolog.",
+      "Hvis nye personer overtar oppgavene som nevnt i bokstavene a–c, skal dette meldes til Mattilsynet.",
+      "Hvis det foreligger avvik fra forskriften eller godkjenningen, kan godkjenningen inndras eller suspenderes. Oppdretteren, formidleren eller brukeren skal sørge for at dyrevelferden ikke svekkes som følge av inndragningen eller suspensjonen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 6",
+     "tittel": "Godkjenning av forsøk",
+     "ledd": [
+      "Dyr kan brukes i forsøk bare hvis Mattilsynet har godkjent forsøket. Kravet om godkjenning gjelder ikke forsøk som bare omfatter avliving av dyr for å bruke organer eller vev fra dem.",
+      "Hvis metodene ikke er brukt før eller det er usikkert hvor mange dyr som vil bli brukt, skal det foretas pilotforsøk.",
+      "Godkjenningen skal gis en begrenset varighet som ikke overstiger fire år. Feltforsøk kan ikke godkjennes for mer enn to år.",
+      "Forsøk kan ikke endres uten ny godkjenning hvis endringen kan svekke dyrevelferden.",
+      "Én og samme godkjenning kan omfatte flere likeartede forsøk som iverksettes av samme bruker. Dette gjelder bare hvis forsøkene skal oppfylle påbudte krav eller omfatter bruk av dyr til produksjons- eller diagnoseformål etter etablerte metoder.",
+      "Mattilsynet kan tillate at andre enn veterinærer og fiskehelsebiologer iverksetter total eller lokal bedøvelse av dyr, under forutsetning av at disse personene har gjennomført relevant opplæring. Dette skal fremgå av godkjenningen. Dette gjelder ikke medikamentell immobilisering av vilt.",
+      "Mattilsynet kan inndra eller suspendere godkjenningen hvis forsøket ikke gjennomføres i samsvar med forskriften eller godkjenningen. Brukeren skal sørge for at inndragningen eller suspensjonen ikke svekker dyrevelferden."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 7",
+     "tittel": "Søknad om godkjenning av forsøk",
+     "ledd": [
+      "Søknad om godkjenning av forsøk eller endring av forsøk skal sendes inn av brukeren eller den forsøksansvarlige, og skal inneholde en beskrivelse av forsøket og et forsøkssammendrag. Søknaden skal videre inneholde nødvendige opplysninger slik det fremgår av vedlegg A og B.",
+      "I tillegg skal søknaden inneholde opplysninger om\na. brukeren\nb. den eller de ansvarlige for forsøket\nc. lokalene eller annet sted hvor forsøket skal gjennomføres."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 8",
+     "tittel": "Forsøkssammendrag",
+     "ledd": [
+      "Forsøkssammendraget skal være lett forståelig for allmennheten og skal beskrive\na. forsøkets formål\nb. forventede skadevirkninger på dyrene\nc. forventet vitenskapelig eller samfunnsmessig nytteverdi\nd. hvor mange og hva slags dyr som skal brukes\ne. hvordan kravene om erstatning, reduksjon og forbedring skal etterleves.",
+      "Forsøkssammendraget skal være anonymt og ikke inneholde navn og adresser til brukeren eller involverte personer. Forsøkssammendraget skal heller ikke inneholde opplysninger som er underlagt taushetsplikt etter forvaltningsloven."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kapIII",
+   "overskrift": "Kapittel III. Krav til forsøkene",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 9",
+     "tittel": "Erstatning, reduksjon og forbedring",
+     "ledd": [
+      "Levende dyr skal ikke brukes i forsøk hvis formålet kan oppnås ved å erstatte slik bruk med alternative metoder eller teststrategier.",
+      "Det skal ikke brukes flere dyr i et forsøk enn det som er nødvendig for å oppnå formålet med forsøket.",
+      "Forsøksmetodene skal stadig forbedres for å unngå, forebygge, fjerne eller minimalisere enhver mulig smerte, frykt, varig skade eller annen belastning for dyrene. Kravet om forbedring gjelder også avl, hold og stell av dyrene."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 10",
+     "tittel": "Formål med forsøket",
+     "ledd": [
+      "Dyr kan bare brukes i forsøk til følgende formål:\na. grunnforskning\nb. anvendt forskning for å\n1. unngå, forebygge, diagnostisere eller behandle sykdom, dårlig helse eller andre unormale tilstander, eller deres virkninger, hos mennesker, dyr eller planter\n2. vurdere, påvise, justere eller endre fysiologiske tilstander hos mennesker, dyr eller planter eller\n3. bedre velferden for dyr, herunder produksjonsforholdene for produksjonsdyr\nc. utvikling, tilvirkning eller kvalitets-, effekt- og sikkerhetstesting av legemidler, næringsmidler, fôr eller andre stoffer eller produkter, hvis formålet er omfattet av bokstav b\nd. forskning for vern av miljøet av hensyn til helse eller velferd for mennesker eller dyr\ne. forskning for å bevare dyrearten\nf. yrkesutdanning eller høyere utdanning med sikte på tilegnelse, vedlikehold eller forbedring av faglige kvalifikasjoner eller\ng. rettsmedisinske undersøkelser."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 11",
+     "tittel": "Metoder, teststrategier og endepunkter",
+     "ledd": [
+      "Levende dyr skal ikke brukes i forsøk hvis det er påbudt eller tillatt etter annet regelverk å benytte en annen metode eller teststrategi for å oppnå formålet.",
+      "Forsøksmetodene og teststrategiene skal innebære\na. bruk av så få dyr som mulig\nb. bruk av dyr med minst mulig evne til å oppleve smerte, frykt og annen belastning, og til å få varig skade\nc. at dyrene påføres minst mulig smerte, frykt, varig skade og annen belastning og\nd. størst mulig sannsynlighet for pålitelige resultater.",
+      "Døden skal så langt det er mulig ikke være endepunkt for forsøket. Det skal i stedet benyttes tidlige og humane endepunkter. Hvis døden er uunngåelig som endepunkt, skal forsøket være utformet slik at\na. så få dyr som mulig dør\nb. varigheten og intensiteten av belastningen reduseres mest mulig og\nc. en smertefri død sikres så langt det er mulig."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 12",
+     "tittel": "Lokalisering",
+     "ledd": [
+      "Forsøk skal finne sted i godkjente lokaler hos en godkjent bruker. Mattilsynet kan gjøre unntak fra påbudet hvis det er vitenskapelig begrunnet at forsøket utføres som feltforsøk."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 13",
+     "tittel": "Absolutt forbud mot visse forsøk",
+     "ledd": [
+      "Forsøk som påfører dyr alvorlig smerte, frykt eller annen belastning som forventes å bli langvarig og ikke kan lindres, er forbudt.",
+      "Det er forbudt å bruke dyr i forsøk med kosmetikk etter forskrift 8. april 2013 nr. 391 om kosmetikk og kroppspleieprodukter."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-6",
+     "nummer": "§ 14",
+     "tittel": "Bedøvelse og smertebehandling",
+     "ledd": [
+      "Forsøk som påfører dyr store skader som kan medføre alvorlig smerte, skal utføres under total eller lokal bedøvelse. Hvis det ikke er uhensiktsmessig, skal også dyr som påføres mindre belastning bedøves. Ved vurderingen av om bedøvelse er uhensiktsmessig, skal det tas hensyn til om\na. bedøvelsen vil påføre dyret en større belastning enn selve forsøket og\nb. bedøvelse er uforenlig med forsøkets formål.",
+      "Hvis det er nødvendig, skal det brukes smertestillende midler eller andre egnede metoder for å sikre at dyrets smerte, frykt og annen belastning begrenses mest mulig. Hvis uforutsett alvorlig smerte ikke kan lindres, skal dyret avlives umiddelbart.",
+      "Dyret skal ikke gis legemidler som helt eller delvis hindrer det i å gi uttrykk for smerte, uten at det samtidig får egnet bedøvelse eller annen smertebehandling. Det skal framlegges vitenskapelig dokumentasjon med nærmere opplysninger om bedøvelsen eller smertebehandlingen.",
+      "Dyr som kan få smerter når bedøvelsen har opphørt, skal behandles med forebyggende og postoperative smertestillende midler, eller annen egnet smertebehandling. Dette gjelder ikke hvis det kan begrunnes vitenskapelig at smertebehandling er uforenlig med forsøkets formål.",
+      "Så snart formålet med forsøket er oppnådd, skal det settes i verk tiltak for å fjerne eller minimalisere belastningen for dyret.",
+      "Blodprøvetaking fra hjertet og injeksjoner i hjertet skal foregå under total bedøvelse. I slike tilfeller skal dyret holdes totalt bedøvet inntil det avlives, hvis ikke Mattilsynet i godkjenningen av forsøket har gitt særskilt tillatelse til at dyret kan våkne av bedøvelsen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-7",
+     "nummer": "§ 15",
+     "tittel": "Forsøkets avslutning",
+     "ledd": [
+      "Et forsøk skal anses som avsluttet når det ikke skal gjøres flere observasjoner i forbindelse med forsøket. For nye genmodifiserte dyrestammer skal forsøket anses som avsluttet når avkommet ikke lenger viser tegn til eller forventes å oppleve smerte, frykt, varig skade eller annen belastning over grensen som er definert i § 4 bokstav a.",
+      "Ved avslutning av et forsøk skal en veterinær, fiskehelsebiolog eller annen kompetent person avgjøre om dyret kan leve videre. Dyr som forventes å ha moderat eller alvorlig smerte, frykt, varig skade eller annen belastning etter at forsøket er avsluttet, skal avlives.",
+      "Dyr som skal leve videre, skal gis nødvendig stell og oppstalling ut fra dyrets helsetilstand."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-8",
+     "nummer": "§ 16",
+     "tittel": "Avliving",
+     "ledd": [
+      "Avliving og håndtering i forbindelse med avlivingen skal ikke påføre dyret unødvendig smerte, frykt eller annen belastning, og skal skje på en dyrevelferdsmessig forsvarlig måte.",
+      "Dyr som omfattes av vedlegg C, skal avlives med metoder som er beskrevet i vedlegget.",
+      "Mattilsynet kan gjøre unntak fra kravene om avlivingsmetode og tillate en annen metode som på bakgrunn av vitenskapelig dokumentasjon vurderes som minst like skånsom. Unntak kan også gjøres hvis det er vitenskapelig begrunnet at forsøkets formål ikke kan oppnås ved bruk av den forskriftsfestede metoden.",
+      "Avliving skal skje i oppdretterens, formidlerens eller brukerens lokaler. Ved feltforsøk kan dyr avlives utenfor godkjente lokaler. Avliving skal utføres av en kompetent person. Eventuell avblødning skal foregå under total bedøvelse. Avliving i nødstilfelle skal i størst mulig grad skje i samsvar med denne paragrafen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-9",
+     "nummer": "§ 17",
+     "tittel": "Gjenbruk av dyr",
+     "ledd": [
+      "Et dyr som allerede har vært brukt i ett eller flere forsøk, kan ikke brukes i et nytt forsøk hvis det er mulig å bruke et annet dyr som ikke har vært brukt tidligere.",
+      "Dette gjelder ikke hvis\na. den faktiske belastningsgraden i de foregående forsøkene var lett eller moderat\nb. dyrets helse og velferd er fullt gjenopprettet\nc. det nye forsøket er foreslått klassifisert som lett belastende, moderat belastende eller terminalt og\nd. bruken er i samsvar med råd fra veterinær eller fiskehelsebiolog basert på en vurdering av den totale belastningen i dyrets levetid.",
+      "I særlige tilfeller kan Mattilsynet tillate gjenbruk av dyr som har vært brukt én gang i et betydelig belastende forsøk. Tillatelse kan gis bare hvis vilkårene i første ledd bokstavene b, c og d er oppfylt, og dyret har vært undersøkt av veterinær eller fiskehelsebiolog."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-10",
+     "nummer": "§ 18",
+     "tittel": "Omplassering og tilbakeføring av dyr",
+     "ledd": [
+      "Dyr som har vært brukt eller har vært tiltenkt brukt i forsøk, kan omplasseres til et egnet dyrehold eller føres tilbake til et naturlig levemiljø hvis det\na. er forsvarlig ut fra dyrets helsetilstand\nb. er gjennomført hensiktsmessige tiltak for å sikre dyrets velferd og\nc. ikke er fare for folkehelse, dyrehelse eller miljøet."
+     ],
+     "endringer": [
+      "Endret ved forskrift 5 april 2017 nr. 451."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kapIV",
+   "overskrift": "Kapittel IV. Krav om hvilke dyr som kan brukes i forsøk",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 19",
+     "tittel": "Truede dyrearter",
+     "ledd": [
+      "Individer av truede dyrearter som ikke er født i fangenskap, skal ikke brukes i forsøk. Dette gjelder ikke hvis forsøket har formål som beskrevet i § 10 bokstav b nummer 1, bokstav c eller bokstav e, og det er vitenskapelig begrunnet at formålet med forsøket ikke vil bli oppnådd ved bruk av andre enn truede dyrearter.",
+      "Denne paragrafen gjelder ikke primater."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 20",
+     "tittel": "Primater",
+     "ledd": [
+      "Primater skal ikke brukes i forsøk.",
+      "Forbudet i første ledd gjelder ikke forsøk med formål som nevnt i § 10 bokstavene a eller e. Forbudet gjelder heller ikke forsøk med formål som nevnt i § 10 bokstav b nummer 1 eller bokstav c, og som blir gjennomført for å unngå, forebygge, påvise eller behandle invalidiserende eller potensielt livstruende kliniske tilstander hos mennesker.",
+      "Det er bare tillatt å bruke primater i forsøk hvis det er vitenskapelig begrunnet at formålet med forsøket ikke kan oppnås ved bruk av andre dyrearter. Ved bruk av truede primatarter skal det i tillegg være vitenskapelig begrunnet at formålet med forsøket ikke kan oppnås ved bruk av arter som ikke er truet.",
+      "Grunnforskning på individer av truede primatarter som ikke er født i fangenskap, er uansett ikke tillatt.",
+      "Bruk av menneskeaper i forsøk er uansett ikke tillatt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 21",
+     "tittel": "Viltlevende dyr i fangenskap",
+     "ledd": [
+      "Viltlevende dyr som fanges inn og holdes i fangenskap, skal ikke brukes i forsøk.",
+      "Hvis det er vitenskapelig begrunnet at forsøkets formål ikke kan oppnås ved bruk av dyr som er avlet og holdt til bruk i forsøk, kan Mattilsynet gjøre unntak fra forbudet.",
+      "Viltlevende dyr skal fanges inn av kompetente personer ved hjelp av metoder som ikke påfører dyrene unødig smerte, frykt, varig skade eller annen belastning. Hvis det mens eller etter at dyret fanges inn, oppdages at det er skadet eller har svekket helsetilstand, skal dyret undersøkes av veterinær, fiskehelsebiolog eller en annen kompetent person. Tiltak skal gjennomføres for å begrense belastningen for dyret. Hvis det er vitenskapelig begrunnet, kan Mattilsynet gjøre unntak fra påbudet om å gjennomføre slike tiltak."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 5 april 2017 nr. 451."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 22",
+     "tittel": "Dyr som skal være avlet for forsøk",
+     "ledd": [
+      "Dyr som er oppført i vedlegg D, skal ikke brukes i forsøk med mindre de er avlet for slik bruk. Primater skal i tillegg være avkom fra dyr som er avlet i fangenskap eller kommer fra selvopprettholdende kolonier hvor dyrene er avlet bare innen kolonien, eller er hentet fra andre kolonier, men ikke fra vill tilstand, og holdes på en måte som sikrer at de er vant til mennesker.",
+      "Hvis det er vitenskapelig begrunnet, kan Mattilsynet gjøre unntak fra kravene i første ledd."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-5",
+     "nummer": "§ 23",
+     "tittel": "Eierløse og forvillede dyr av domestiserte arter",
+     "ledd": [
+      "Eierløse og forvillede dyr av domestiserte arter skal ikke brukes i forsøk.",
+      "Mattilsynet kan gjøre unntak fra forbudet i første ledd hvis det er vesentlig behov for undersøkelser av disse dyrenes helse og velferd, eller av alvorlige trusler mot miljøet, folkehelsen eller dyrehelsen. Unntak kan bare gjøres hvis det er vitenskapelig begrunnet at forsøkets formål utelukkende kan oppnås ved bruk av eierløse eller forvillede dyr av domestiserte arter."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kapV",
+   "overskrift": "Kapittel V. Krav om personell, kompetanse og organisering",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 24",
+     "tittel": "Personell og kompetanse",
+     "ledd": [
+      "Oppdrettere, formidlere og brukere skal sørge for å ha tilstrekkelig personell på stedet.",
+      "Oppdrettere, formidlere og brukere skal sørge for at personene som arbeider med dyr, har tilstrekkelig utdanning og praksis i samsvar med vedlegg E før de utformer forsøk, utfører forsøk, steller dyr eller avliver dyr. Oppdrettere, formidlere og brukere skal også sørge for at personene opprettholder og dokumenterer kompetansen gjennom kontinuerlig praksis og utdanning, og at personene har relevant faglitteratur tilgjengelig.",
+      "Personer som utformer forsøk, skal ha fått tilstrekkelig opplæring innenfor det vitenskapelige fagområdet som er relevant for arbeidet som skal utføres, og ha spesifikk kunnskap om de aktuelle dyreartenes biologi, herunder deres fysiologiske og atferdsmessige behov.",
+      "Personer som utfører forsøk, steller dyr eller avliver dyr, skal veiledes når de utfører oppgavene inntil de har vist at de har den nødvendige kompetansen.",
+      "Oppdrettere, formidlere og brukere skal ha skriftlige rutiner for å sikre at kravene i denne paragrafen er oppfylt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 25",
+     "tittel": "Personell med særskilt kontrollansvar",
+     "ledd": [
+      "Hver oppdretter, formidler og bruker skal peke ut én eller flere personer som skal\na. kontrollere dyrevelferden og stell av dyr\nb. sikre at personer som arbeider med dyrene har tilgang til relevant informasjon om dyreartene\nc. sikre at personer som arbeider med dyrene oppfyller kravene til nødvendig kompetanse."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 26",
+     "tittel": "Dyrevelferdsenhet",
+     "ledd": [
+      "Hver oppdretter, formidler og bruker skal ha en egen dyrevelferdsenhet.",
+      "Dyrevelferdsenheten skal som et minimum bestå av den eller de personene som har særskilt kontrollansvar etter § 25. Dyrevelferdsenheten skal motta innspill fra den navngitte veterinæren eller fiskehelsebiologen.",
+      "Dyrevelferdsenheten hos brukere skal ha minst ett medlem med relevant vitenskapelig kompetanse.",
+      "Dyrevelferdsenheten skal gi personer som arbeider med dyrene,\na. råd om dyrevelferd knyttet til anskaffelse, oppstalling, stell og bruk\nb. råd om etterlevelse av kravet om erstatning, reduksjon og forbedring\nc. informasjon om den tekniske og vitenskapelige utviklingen innen erstatning, reduksjon og forbedring.",
+      "Dyrevelferdsenheten skal også\na. utarbeide og revidere interne driftsrutiner for å overvåke, rapportere og følge opp velferden for dyrene\nb. følge utviklingen og resultatene av forsøk når det gjelder forsøkenes virkning på dyrene\nc. identifisere og gi råd om faktorer som bidrar ytterligere til erstatning, reduksjon og forbedring\nd. gi råd om planer for omplassering, herunder egnet sosialisering av de dyrene som skal omplasseres, og tilbakeføring av dyr etter § 18.",
+      "Mattilsynet kan tillate at små oppdrettere, formidlere og brukere utfører oppgavene i fjerde og femte ledd på andre måter.",
+      "Oppdrettere, formidlere og brukere skal sørge for at alle råd som er gitt av dyrevelferdsenheten, og alle avgjørelser som er truffet som følge av disse, journalføres og oppbevares i minst tre år. Journalene skal på anmodning være tilgjengelige for Mattilsynet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-4",
+     "nummer": "§ 27",
+     "tittel": "Navngitt veterinær eller fiskehelsebiolog",
+     "ledd": [
+      "Hver oppdretter, formidler og bruker skal ha en navngitt veterinær eller fiskehelsebiolog med særlig kunnskap innen forsøksdyrmedisin. Veterinæren eller fiskehelsebiologen skal gi råd om dyrenes velferd og behandling.",
+      "Fiskehelsebiologer kan bare ha denne funksjonen der det utelukkende holdes akvatiske dyr, unntatt sjøpattedyr."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-5",
+     "nummer": "§ 28",
+     "tittel": "Forsøksansvarlig",
+     "ledd": [
+      "Den eller de ansvarlige for forsøket skal sørge for at\na. årsaken til enhver unødig smerte, frykt, varig skade eller annen belastning som påføres dyr under et forsøk, blir fjernet så snart som mulig\nb. forsøkene utføres i samsvar med godkjenningen og enhver beslutning som Mattilsynet har fattet\nc. manglende samsvar med godkjenningen blir rettet opp med nødvendige tiltak\nd. avviket og tiltaket blir protokollført."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kapVI",
+   "overskrift": "Kapittel VI. Krav til hold av dyr",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 29",
+     "tittel": "Levemiljø og stell",
+     "ledd": [
+      "Dyrene skal holdes i egnet levemiljø og gis fôr, vann og stell som er egnet for deres helse og velferd. Dyrenes mulighet til å få dekket sine fysiologiske og atferdsmessige behov skal begrenses minst mulig.",
+      "Miljøforholdene der dyrene holdes eller brukes, skal kontrolleres daglig. Dyrene skal ha tilsyn og stell så ofte som nødvendig, og minst én gang daglig. Tiltak skal iverksettes så snart som mulig for å rette opp mangler og gjøre slutt på unødig smerte, frykt, varig skade eller annen belastning for dyrene. Oppdrettere, formidlere og brukere skal ha nødvendig personell i beredskap for å oppfylle kravet om å tilse og stelle dyrene og iverksette tiltak også utenom ordinær arbeidstid.",
+      "Nærmere krav til levemiljø og stell, herunder dato for ikrafttredelse av artsspesifikke oppstallingskrav, er gitt i vedlegg F.",
+      "Hvis det er vitenskapelig, dyrevelferdsmessig eller dyrehelsemessig begrunnet, kan Mattilsynet gjøre unntak fra kravene i første ledd første punktum og vedlegg F."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 30",
+     "tittel": "Innredning og utstyr",
+     "ledd": [
+      "Oppdretteres, formidleres og brukeres lokaler skal ha innredning og utstyr som er tilpasset dyrene og forsøkene.",
+      "Innredningen og utstyret skal være utformet og konstruert og fungere slik at forsøkene kan gjennomføres så effektivt som mulig, og slik at pålitelige resultater kan oppnås ved bruk av færrest mulig dyr som påføres minst mulig smerte, frykt, varig skade eller annen belastning.",
+      "Nærmere krav til innredning og utstyr er gitt i vedlegg F."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-3",
+     "nummer": "§ 31",
+     "tittel": "Dyrejournal",
+     "ledd": [
+      "Oppdrettere, formidlere og brukere skal føre journal med opplysninger om\na. hvor mange dyr og hvilke dyrearter som oppdrettes, anskaffes, formidles, brukes, omplasseres eller tilbakeføres\nb. dyrenes opprinnelse, herunder om de er oppdrettet for å bli brukt i forsøk\nc. datoen da dyrene ble anskaffet, formidlet, avlivet, omplassert eller tilbakeført\nd. hvem dyrene er anskaffet fra\ne. navn og adresse på mottaker av dyr\nf. hvor mange dyr og hvilke dyrearter som har dødd eller blitt avlivet\ng. kjente dødsårsaker\nh. hva slags forsøk dyrene har vært brukt i.",
+      "Opplysningene i dyrejournalen skal oppbevares i minst fem år og på anmodning være tilgjengelig for Mattilsynet.",
+      "Det skal føres kort for hvert bur eller annen oppholdsenhet med dyr som brukes i forsøk. Kortet skal angi navnet på den ansvarlige for forsøket, ankomstdato for hvert dyr, dato for forsøkets start og løpende registering av alle prosedyrer. Videre skal det angis om dyret har vært benyttet i tidligere forsøk, med angivelse av startdato for første forsøk."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-4",
+     "nummer": "§ 32",
+     "tittel": "Journal for hunder, katter og primater",
+     "ledd": [
+      "Oppdrettere, formidlere og brukere skal føre journal for hver hund, katt og primat med nødvendige opplysninger om\na. identitet\nb. fødested og fødselsdato, hvis dette er kjent\nc. dyret er avlet og holdt for å bli brukt i forsøk\nd. primaten nedstammer fra dyr som er oppdrettet i fangenskap\ne. avlsmessige, veterinærmedisinske og sosiale forhold, herunder om dyrets trivsel og om atferd overfor andre dyr og mennesker\nf. de forsøkene dyret har vært brukt i.",
+      "Dyret skal følges av den individuelle journalen så lenge det holdes for formål som omfattes av denne forskriften. Journalen skal opprettes ved, eller snarest mulig etter, dyrets fødsel.",
+      "Opplysningene nevnt i første ledd skal oppbevares i minst tre år etter at dyret er dødt eller omplassert, og skal på anmodning være tilgjengelig for Mattilsynet. Ved omplassering skal relevante opplysninger om veterinærmedisinske og sosiale forhold fra den individuelle journalen følge dyret."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-5",
+     "nummer": "§ 33",
+     "tittel": "Merking av hunder, katter og primater",
+     "ledd": [
+      "Hver hund, katt og primat skal ha sitt permanente, individuelle identifikasjonsmerke. Merkingen skal skje senest ved avvenning og på en minst mulig smertefull måte.",
+      "Umerket hund, katt eller primat som overføres fra en oppdretter, formidler eller bruker til en annen før avvenning, skal følges av et dokument som særskilt identifiserer dyrets mor. Mottakeren skal beholde dokumentet fram til dyret er merket.",
+      "Umerket og avvent hund, katt eller primat som mottas av en oppdretter, formidler eller bruker, skal merkes permanent så snart som mulig og på en minst mulig smertefull måte.",
+      "Hvis et dyr ikke er merket, skal oppdrettere, formidlere og brukere på anmodning fra Mattilsynet angi årsaken."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-6",
+     "nummer": "§ 34",
+     "tittel": "Avlsplan for primater",
+     "ledd": [
+      "Oppdrettere av primater skal ha en plan for å øke andelen dyr som er avkom fra primater som er oppdrettet i fangenskap."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-7",
+     "nummer": "§ 35",
+     "tittel": "Dokumentasjon",
+     "ledd": [
+      "Oppdrettere, formidlere og brukere skal sørge for at all relevant dokumentasjon, herunder forsøksgodkjenninger og resultatet av Mattilsynets forsøksvurdering, oppbevares i minst 3 år fra forsøksgodkjenningens utløpsdato. Hvis Mattilsynet avslår søknad om godkjenning av forsøk, skal dokumentasjonen oppbevares i minst 3 år fra saksbehandlingsfristens utløpsdato. Dokumentasjonen skal være tilgjengelig for Mattilsynet.",
+      "Dokumentasjon om forsøk som skal evalueres etter at de er fullført, skal uansett oppbevares til denne evalueringen er avsluttet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-8",
+     "nummer": "§ 36",
+     "tittel": "Årsrapport",
+     "ledd": [
+      "Godkjente brukere skal innen 1. mars sende rapport på særskilt skjema til Mattilsynet med statistisk informasjon om bruk av dyr i forsøk i foregående kalenderår, herunder informasjon om forsøkenes faktiske belastningsgrad, om dyrenes opprinnelse og om arter av primater brukt i forsøk."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kapVII",
+   "overskrift": "Kapittel VII. Avsluttende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 37",
+     "tittel": "Tilsyn og vedtak",
+     "ledd": [
+      "Mattilsynet fører tilsyn og kan fatte nødvendige enkeltvedtak for å gjennomføre denne forskriften."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-2",
+     "nummer": "§ 38",
+     "tittel": "Dispensasjon",
+     "ledd": [
+      "Mattilsynet kan i særlige tilfeller dispensere fra bestemmelsene i denne forskriften hvis det ikke strider mot Norges forpliktelser eller EØS-avtalen eller andre internasjonale avtaler."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-3",
+     "nummer": "§ 39",
+     "tittel": "Straff",
+     "ledd": [
+      "Overtredelse av bestemmelser gitt i denne forskriften eller i enkeltvedtak gitt i medhold av forskriften er straffbart i henhold til dyrevelferdsloven § 37, dyrehelsepersonelloven § 37 og matloven § 28."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-4",
+     "nummer": "§ 40",
+     "tittel": "Overgangsbestemmelser",
+     "ledd": [
+      "§ 5 første ledd gjelder ikke oppdrettere, formidlere og brukere så lenge de har godkjenning etter forskrift 15. januar 1996 nr. 23 om forsøk med dyr.",
+      "§ 6 første ledd gjelder ikke for forsøk som er godkjent før denne forskriften trer i kraft og ikke varer lenger enn 1. januar 2018.",
+      "Forsøk som er godkjent før denne forskriften trer i kraft og varer lenger enn til 1. januar 2018, skal ha ny godkjenning innen 1. januar 2018."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-5",
+     "nummer": "§ 41",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Denne forskriften trer i kraft 1. juli 2015. Samtidig oppheves forskrift 15. januar 1996 nr. 23 om forsøk med dyr og forskrift 8. juli 2010 nr. 1085 om unntak fra krav om tillatelse ved bruk av dyr i undervisning.",
+      "Plasskravene som framgår av tabellene i vedlegg F, unntatt tabell 8.5, trer i kraft 1. januar 2017.",
+      "§ 22 første ledd annet punktum trer i kraft 10. november 2022 for bruk av andre primater enn hvitøret silkeape (Callithrix jacchus)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-8",
+   "navn": "vedlegg1",
+   "overskrift": "Vedlegg A. Faktorer som det skal gis opplysninger om i søknaden, jf. § 7 første ledd",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "I tillegg til en beskrivelse av forsøket og et forsøkssammendrag skal søknad om godkjenning av forsøk eller endring av forsøk inneholde nødvendige opplysninger om\n1. relevansen og berettigelsen av\na. bruk av dyr, inkludert deres opprinnelse, anslåtte antall, art og livsstadier\nb. forsøkene\n2. bruk av metoder for å erstatte, redusere og forbedre bruken av dyr i forsøkene\n3. planlagt bruk av bedøvelse, smertestillende midler og andre former for smertelindring\n4. tiltak for å begrense, unngå og lindre enhver form for belastning for dyrene, fra fødsel til død, når det er relevant\n5. bruk av humane endepunkter\n6. forsøks- eller observasjonsstrategi, statistisk design for å minimalisere antallet dyr, smerte, frykt og annen belastning, der det er relevant\n7. gjentatt bruk av dyr og den samlede virkning av dette på dyret\n8. den foreslåtte klassifiseringen av forsøkene etter forventet belastningsgrad, jf. vedlegg B\n9. tiltak for å unngå unødvendig gjentagelse av forsøk, når det er relevant\n10. de forholdene som dyrene oppstalles, holdes og stelles under\n11. avlivingsmetoder\n12. kompetanse hos de personene som deltar i forsøket."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-9",
+   "navn": "vedlegg1",
+   "overskrift": "Vedlegg B. Klassifisering av forsøk etter forventet belastningsgrad, jf. § 7 første ledd",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Forsøket skal klassifiseres etter graden av smerte, frykt, varig skade eller annen belastning som dyret forventes å oppleve i løpet av forsøket."
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-9-kapittel-1",
+     "navn": "delI",
+     "overskrift": "Del I. Klassene",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Terminale forsøk\nForsøk som utelukkende gjennomføres under generell anestesi, og hvor dyret ikke skal gjenvinne bevisstheten, skal klassifiseres som «terminale».\nLett belastende forsøk\nForsøk som medfører at dyrene sannsynligvis vil oppleve kortvarig mild smerte, frykt eller annen belastning, skal klassifiseres som «lett belastende». Det samme gjelder forsøk uten noen vesentlig svekkelse av dyrenes velvære eller allmenntilstand.\nModerat belastende forsøk\nForsøk som medfører at dyrene sannsynligvis vil oppleve kortvarig moderat smerte, frykt eller annen belastning, eller langvarig mild smerte, frykt eller annen belastning, skal klassifiseres som «moderat belastende». Det samme gjelder forsøk som sannsynligvis vil forårsake moderat svekkelse av dyrenes velvære eller allmenntilstand.\nBetydelig belastende forsøk\nForsøk som medfører at dyrene sannsynligvis vil oppleve alvorlig smerte, frykt eller annen belastning, eller langvarig moderat smerte, frykt eller annen belastning, skal klassifiseres som «betydelig belastende». Det samme gjelder forsøk som sannsynligvis vil forårsake alvorlig svekkelse av dyrenes velvære eller allmenntilstand."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-9-kapittel-2",
+     "navn": "delII",
+     "overskrift": "Del II: Kriterier for klassifiseringen",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Ved klassifisering skal ethvert inngrep på eller manipulering av et dyr innenfor et definert forsøk tas i betraktning. Klassifiseringen skal være basert på de mest belastende virkningene det enkelte dyret forventes å oppleve etter at alle relevante forbedringsteknikker er tatt i bruk. Type forsøk og flere andre faktorer relatert til forsøket skal tas i betraktning. Alle faktorene skal vurderes i hvert enkelt tilfelle.\nFølgende faktorer relatert til forsøket skal tas i betraktning:\n- type manipulasjon eller håndtering\n- type smerte, frykt eller varig skade eller annen belastning forårsaket av (alle elementer av) forsøket, og belastningens intensitet, varighet og frekvens og de ulike teknikker som benyttes\n- kumulativ belastning gjennom hele forsøket\n- hvorvidt dyrene hindres i å uttrykke naturlig atferd, herunder restriksjoner i standarden for oppstalling, hold og stell av dyrene.\nI del III gis eksempler på forsøk som er klassifisert på bakgrunn av faktorer relatert til selve forsøkstypen. Eksemplene skal gi den første indikasjonen på hvilken klasse som passer best for en bestemt type forsøk.\nFor endelig klassifisering etter belastningsgrad skal likevel følgende tilleggsfaktorer vurderes i hvert enkelt tilfelle:\n- dyreart og genotype\n- dyrets utviklingsgrad, alder og kjønn\n- dyrets trening og erfaring med forsøket\n- ved gjentatt bruk av dyr i forsøk, den faktiske belastningsgraden i forrige forsøk\n- metoder som er brukt for å redusere eller eliminere smerte, frykt og annen belastning, herunder forbedring av oppstalling, hold og stell\n- humane endepunkter."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-9-kapittel-3",
+     "navn": "delIII",
+     "overskrift": "Del III. Eksempler",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Eksempler på ulike typer forsøk som er klassifisert på bakgrunn av faktorer relatert til type forsøk:\n1. Lett belastende forsøk:\na. administrering av bedøvelsesmiddel, unntatt for avliving som eneste formål\nb. farmakokinetiske studier hvor det gis en enkelt dose av en substans og tas et begrenset antall blodprøver (totalt < 10 % av sirkulerende blodvolum), og substansen ikke forventes å gi noen påvisbar skadelig virkning\nc. ikke-invasiv billeddiagnostikk (f.eks. MRI) med egnet behandling med beroligende eller bedøvende legemidler\nd. overfladiske inngrep, eks. øre- og halebiopsier, ikke-kirurgisk subkutan implantasjon av minipumper og transpondere\ne. bruk av utvendig telemetrisk utstyr som kun forårsaker mindre svekkelse av dyrene eller mindre forstyrrelse av normal aktivitet og atferd\nf. administrering av stoffer subkutant, intramuskulært, intraperitonealt, intravenøst via overfladiske blodkar og via sonde, hvor stoffet kun har en mild innvirkning på dyret, og volumene er innenfor passende grenser med hensyn til dyrets størrelse og art\ng. modeller med fremkalling av tumorer, eller med spontane tumorer, som ikke forårsaker noen påvisbar klinisk skadelig effekt (f.eks. små subcutane, ikke-invasive knuter)\nh. avl av genetisk modifiserte dyr hvor effekten på fenotypen forventes å være mild\ni. fôring med modifiserte dietter som ikke tilfredsstiller alle dyrets næringsmessige behov og forventes å gi mild klinisk abnormalitet i løpet av studien\nj. kortvarig opphold (< 24 timer) i metabolismebur\nk. studier som innebærer kortvarig sosial isolasjon og kortvarig enkeltoppstalling av voksne rotter og mus tilhørende sosiale stammer\nl. modeller som eksponerer dyr for skadelige stimuli som gir kortvarig mild smerte, frykt eller annen belastning og som dyrene lett kan unngå\nm. en kombinasjon eller gjentakelse av følgende eksempler kan klassifiseres som «lett belastende»:\ni. vurdering av kroppssammensetning ved hjelp av ikke-invasive metoder med minimal fengsling\nii. monitorering av EKG med ikke-invasive metoder med minimal eller ingen fengsling av tilvente dyr\niii. bruk av utvendig telemetriutstyr som ikke forventes å ha noen påvirkning på sosialt tilpassede dyr, og som ikke påvirker normal aktivitet og atferd\niv. avl av genetisk modifiserte dyr som ikke forventes å gi klinisk påvisbar skadelig fenotype\nv. tilsetting av inerte markører i dietten for å følge tarmpassasjen\nvi. tilbakeholdelse av fôr til voksne rotter i < 24 timer\nn. «open field testing», dvs. vitenskapelige forsøk for å undersøke bevegelse, undersøkende atferd og fryktlignende atferd hos laboratoriedyr (rotter/mus).\n2. Moderat belastende forsøk:\na. hyppig bruk av testsubstanser som gir moderate kliniske effekter, og uttak av blodprøver (> 10 % av sirkulerende blodvolum) på bevisste dyr i løpet av få dager uten at volumtapet erstattes\nb. studier for fastsettelse av akuttoksiske doser, tester for kronisk toksisitet/carsinogenitet med ikke-dødelige endepunkter\nc. kirurgiske inngrep under generell anestesi og egnet smertelindring assosiert med postoperativ smerte, annen belastning eller svekkelse av allmenntilstanden. Dette omfatter for eksempel thorakotomi, craniotomi, laparatomi, orchidektomi, lymfadenektomi, thyroidektomi, ortopedisk kirurgi med effektiv stabilisering og sårbehandling, organtransplantasjon med effektiv avstøtningsbehandling, og kirurgisk implantasjon av katetre eller biomedisinsk utstyr (f.eks. telemetriske sendere, minipumper osv.)\nd. modeller med fremkalling av tumorer, eller med spontane tumorer, som forventes å gi moderat smerte eller frykt eller moderat påvirkning av normal atferd\ne. stråling eller kjemoterapi med subletal dose, eller med en ellers letal dose, men med gjenoppbygging av immunsystemet. Skadelige bivirkninger forventes å være milde eller moderate og kortvarige (< 5 dager)\nf. avl av genetisk modifiserte dyr, som forventes å resultere i en moderat skadelig fenotype\ng. etablering av genetisk modifiserte dyr gjennom kirurgiske inngrep\nh. bruk av metabolismebur som innebærer moderat bevegelsesbegrensning over en periode på opp til 5 dager\ni. studier med modifiserte dietter som ikke tilfredsstiller alle dyrets næringsbehov, og som forventes å gi moderat klinisk abnormalitet i løpet av studien\nj. tilbakeholdelse av fôr til voksne rotter i 48 timer\nk. fremkalling av flukt- og tilbaketrekkingsreaksjoner hvor dyret ikke er i stand til å flykte eller unngå påvirkningen, og som forventes å resultere i moderat frykt.\n3. Betydelig belastende forsøk:\na. toksisitetstesting med døden som endepunkt eller hvor dødsfall må forventes og det fremkalles alvorlige patofysiologiske tilstander (f.eks. akuttoksisitetstesting av en enkelt dose (se OECDs retningslinjer for testing))\nb. testing av utstyr som ved svikt kan forårsake alvorlig smerte, frykt eller død (f.eks. hjerteassisterende utstyr)\nc. utprøving av vaksine karakterisert med vedvarende svekkelse av dyrets tilstand, progressiv sykdom som fører til døden, forbundet med langvarig moderat smerte, frykt eller annen belastning\nd. stråling eller kjemoterapi med dødelig dose uten gjenoppbygging av immunsystemet, eller gjenoppbygging med produksjon av transplantat-kontra-vertsreaksjon (GVDH = graft versus host disease)\ne. modeller med fremkalling av tumorer, eller med spontane tumorer, som forventes å gi progressiv dødelig sykdom forbundet med langvarig moderat smerte, frykt eller annen belastning (f.eks. tumorer som forårsaker avmagring, invasive bentumorer, tumorer som fører til metastatisk spredning, og tumorer som får utvikle sår)\nf. ethvert inngrep på dyr under generell anestesi, som forventes å resultere i alvorlig eller vedvarende moderat postoperativ smerte, frykt eller annen belastning eller alvorlig og vedvarende svekkelse av dyrets allmenntilstand (f.eks. fremkalling av ustabile benbrudd, thoracotomi uten adekvat smertelindring og trauma for å produsere multippel organsvikt)\ng. organtransplantasjon hvor organfrastøting sannsynligvis vil medføre alvorlig ubehag, annen belastning eller svekkelse av dyrets allmenntilstand (f.eks. xenotransplantasjon)\nh. avl av dyr med genetiske sykdommer, som forventes å oppleve alvorlig og vedvarende svekkelse av allmenntilstanden (f.eks. Huntingtons sykdom, muskeldystrofi og modeller for kronisk tilbakevendende nevritt)\ni. bruk av metabolismebur med betydelig bevegelsesbegrensning over en lengre periode\nj. elektrisk sjokk som dyret ikke kan unnvike (f.eks. for å produsere tillært hjelpeløshet)\nk. fullstendig isolasjon av sosiale arter over lengre perioder (f.eks. hunder og primater)\nl. immobiliseringsstress for å fremkalle magesår eller hjertesvikt hos rotter\nm. tvunget svømming eller annen fysisk trening med utmattelse som endepunkt."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-10",
+   "navn": "vedleggC",
+   "overskrift": "Vedlegg C. Tillatte avlivingsmetoder, jf. § 16 annet ledd",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "1. Ved avliving av dyr skal én av de metodene som er oppført i tabellen under benyttes.\nAndre metoder enn de som er oppført i tabellen, kan bare benyttes\na. på bevisstløse dyr, forutsatt at dyret ikke gjenvinner bevisstheten før døden inntrer\nb. på dyr som brukes i landbruksforskning, når formålet med forsøket krever at dyret holdes på lignende måte som produksjonsdyr. Disse dyrene skal avlives i samsvar med forskrift 13. januar 2013 nr. 60 om avliving av dyr, herunder vedlegg I i forordning 1099/2009/EU om beskyttelse av dyr på avlivingstidspunktet.\n2. Det skal sikres at døden er inntrådt ved én av følgende metoder:\na. å konstatere permanent opphørt sirkulasjon\nb. å destruere hjernen\nc. å dislokere nakken\nd. å foreta avblødning\ne. å konstatere at rigor mortis har inntrådt.\n3. Tabell over tillatte avlivingsmetoder. Åpne felt, med eller uten merknad, indikerer at metoden er tillatt.\nVilkår med referanse til tabellen:\n1. skal brukes med forutgående sedering der det er hensiktsmessig\n2. skal bare brukes på store krypdyr\n3. skal bare brukes med gradvis påfylling. Metoden skal ikke brukes på fostre og nyfødte gnagere.\n4. skal bare brukes på fugler under 1 kg. Fugler over 250 g skal sederes.\n5. skal bare brukes på gnagere under 1 kg. Gnagere over 150 g skal sederes.\n6. skal bare brukes på kaniner under 1 kg. Kaniner over 150 g skal sederes.\n7. skal bare brukes på fugler under 5 kg\n8. skal bare brukes på gnagere under 1 kg\n9. skal bare brukes på kaniner under 5 kg\n10. skal bare brukes på nyfødte\n11. skal bare brukes på fugler under 250 g\n12. skal bare brukes hvis andre metoder ikke er mulige\n13. Spesialutstyr er påkrevet.\n14. skal bare brukes på griser\n15. skal bare brukes ved feltforsøk av erfarne skyttere\n16. skal bare brukes ved feltforsøk av erfarne skyttere når andre metoder ikke er mulige."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-11",
+   "navn": "vedleggD",
+   "overskrift": "Vedlegg D. Dyrearter som skal være avlet for forsøk, jf. § 22 første ledd første punktum",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "1. mus (Mus musculus)\n2. rotte (Rattus norvegicus)\n3. marsvin (Cavia porcellus)\n4. gullhamster (syrisk hamster) (Mesocricetus auratus)\n5. kinesisk hamster (Cricetulus griseus)\n6. ørkenrotte (Meriones unguiculatus)\n7. kanin (Oryctolagus cuniculus)\n8. hund (Canis familiaris)\n9. katt (Felis catus)\n10. alle arter av primater\n11. frosk (Xenopus (laevis, tropicalis), Rana (temporaria, pipiens))\n12. sebrafisk (Danio rerio)."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-12",
+   "navn": "vedleggE",
+   "overskrift": "Vedlegg E. Utdanning og praksis, jf. § 24 annet ledd",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Utdannings- og praksisopplegget skal minst omfatte\n1. bestemmelsene i denne forskriften\n2. etikk relatert til forholdet mellom mennesker og dyr, livets egenverdi og argumenter for og imot bruk av dyr til vitenskapelige formål\n3. grunnleggende og relevant artsspesifikk biologi relatert til anatomi, fysiologi, avl, genetikk og genetiske endringer\n4. dyreatferd, dyrehold og miljøberikning\n5. artsspesifikke håndteringsmetoder og forsøk\n6. dyrehelsearbeid og hygiene\n7. gjenkjennelse av artsspesifikk frykt, smerte og annen belastning for de mest vanlige forsøksdyrene\n8. bedøvelse, smertelindring og avliving\n9. bruk av humane endepunkter\n10. krav om erstatning, reduksjon og forbedring\n11. design av forsøk, hvis relevant."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-13",
+   "navn": "vedlegg3",
+   "overskrift": "Vedlegg F. Hold av dyr, jf. § 29 tredje ledd og § 30 siste ledd",
+   "innhold": [
+    {
+     "type": "seksjon",
+     "id": "kapittel-13-kapittel-1",
+     "navn": "delA",
+     "overskrift": "Del A. Generelle krav",
+     "innhold": [
+      {
+       "type": "seksjon",
+       "id": "kapittel-13-kapittel-1-kapittel-1",
+       "navn": "kap1",
+       "overskrift": "1. Fysiske anlegg",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "1.1Funksjoner og generell utforming\na. Alle anlegg skal konstrueres slik at dyrene får et levemiljø som tar hensyn til dyreartens fysiologiske og atferdsmessige behov. Anleggene skal også utformes og drives slik at de hindrer adgang for uvedkommende, og at dyr kommer seg inn eller ut.\nb. Oppdrettere, formidlere og brukere skal ha aktive vedlikeholdsprogrammer for å forebygge og utbedre feil og mangler ved bygninger eller utstyr.\n1.2Dyrerom\na. Dyrerommene skal rengjøres regelmessig og effektivt og ha en tilfredsstillende hygienisk standard.\nb. Vegger og gulv skal ha overflatematerialer som motstår slitasjen som forårsakes av dyrene og rengjøringen. Materialene skal ikke være helseskadelige for dyrene eller være slik at dyrene kan skade seg. Alt utstyr og fast inventar skal være beskyttet slik at det ikke kan skades av dyrene eller forårsaker skade på dyrene.\nc. Dyrearter som er fiendtlige mot hverandre, for eksempel rovdyr og byttedyr, eller dyr som har forskjellige krav til miljøforhold, skal ikke holdes i samme rom. Rovdyr og byttedyr skal holdes slik at de ikke kan se, lukte eller høre hverandre.\n1.3Lokaler til generelle og spesielle forsøksformål\na. Oppdrettere, formidlere og brukere skal, hvis det er relevant, ha tilgang til laboratorieutstyr for å kunne utføre enkle diagnostiske tester, obduksjoner og/eller innsamling av prøver for mer omfattende laboratorieundersøkelser et annet sted. Lokaler til generelle og spesielle forsøksformål skal være tilgjengelige for bruk i situasjoner hvor det ikke er ønskelig å gjennomføre forsøkene eller observasjonene i dyrerommene.\nb. Det skal være lokaler til rådighet hvor nyanskaffede dyr kan holdes isolert til deres helsetilstand er fastslått og potensiell helserisiko for etablerte dyr er vurdert og gjort så liten som mulig.\nc. Det skal være egnet plass for separat oppstalling av syke og skadde dyr.\n1.4Servicerom\na. Lagerrom skal utformes, brukes og vedlikeholdes slik at kvaliteten på fôr og strø og annet liggemateriale sikres. Rommene skal være beskyttet mot skadedyr og insektangrep så langt det er mulig. Andre materialer som kan bli kontaminert eller utgjøre en fare for dyr, skal lagres separat.\nb. Rengjørings- og vaskearealer skal være store nok til å romme de installasjonene som er nødvendige for å dekontaminere og rense brukt utstyr. Rengjøringsprosessen skal tilrettelegges slik at flyten av rent og urent utstyr holdes atskilt.\nc. Oppdrettere, formidlere og brukere skal sørge for hygienisk forsvarlig oppbevaring og fjerning av døde dyr og dyreavfall.\nd. Der det er behov for kirurgiske forsøk under aseptiske forhold, skal det finnes ett eller flere rom som er utstyrt for dette, og egnede lokaler for postoperativ rekonvalesens."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-13-kapittel-1-kapittel-2",
+       "navn": "kap2",
+       "overskrift": "2. Miljøet og miljøstyring",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "2.1Ventilasjon og temperatur\na. Isolasjon, varme og ventilasjon i dyrerommet skal sikre at luftsirkulasjon, støvinnhold og gasskonsentrasjoner holdes innenfor grenseverdier som ikke er skadelig for dyrene.\nb. Temperaturen og den relative fuktigheten i dyrerommene skal avpasses etter dyrenes art og alder. Temperaturen skal måles og registreres daglig.\nc. Dyr skal ikke være henvist til utendørsarealer under værforhold som kan forårsake belastning.\n2.2Belysning\na. Dersom naturlig lys ikke gir egnet lys-mørke-syklus, skal det brukes kontrollert belysning for å imøtekomme dyrenes biologiske behov.\nb. Belysningen skal være slik at dyrene kan røktes og inspiseres på en tilfredsstillende måte.\nc. Daglengden og lysintensiteten skal tilpasses dyrearten.\nd. Ved hold av albinodyr skal lyset tilpasses disse dyrenes lysømfintlighet.\n2.3Støy\na. Støynivået, inkludert ultralyd, skal ikke ha negativ innvirkning på dyrenes velferd.\nb. Alarmsystemer skal ha lyd som ligger utenfor dyrenes sensitive høreområde, dersom dette ikke går ut over hørbarheten for mennesker.\nc. Dyrerom skal ved behov være utstyrt med støyisolering og lydabsorberende materialer.\n2.4Alarmsystemer\na. Oppdrettere, formidlere og brukere som er avhengig av elektrisk eller mekanisk utstyr til styring og kontroll av levemiljøet, skal ha et reservesystem som kan opprettholde vesentlige servicefunksjoner og nødbelysning og sikre at alarmsystemene fungerer til enhver tid.\nb. Varme- og ventilasjonssystemer skal være utstyrt med overvåkningsutstyr og alarm.\nc. Lettfattelig instruksjon om nødprosedyrer skal være slått opp på et lett synlig sted."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-13-kapittel-1-kapittel-3",
+       "navn": "kap3",
+       "overskrift": "3. Stell av dyr",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "3.1Helse\na. Oppdrettere, formidlere og brukere skal ha en strategi for å sikre en god dyrehelse som trygger dyrevelferden og imøtekommer vitenskapelig krav. Strategien skal omfatte regelmessig helseovervåkning, et program for mikrobiologisk overvåkning, planer for håndtering av sykdomsutbrudd og en beskrivelse av helseparametere og prosedyrer ved introduksjon av nye dyr.\nb. Dyrene skal kontrolleres minst én gang daglig av en kompetent person. Kontrollen skal sikre at alle syke eller skadde dyr identifiseres, og at det iverksettes hensiktsmessige tiltak.\n3.2Innfangede ville dyr\n(tom)\n3.3Oppstalling og beriking\na. Oppstalling\nDyr som ikke er naturlig solitære, skal holdes i stabile sosiale grupper av individer som går godt sammen. Hvis Mattilsynet har tillatt individuell oppstalling, skal varigheten begrenses til det absolutt nødvendige. Dyrene skal hele tiden kunne se, høre, lukte og berøre hverandre. Introduksjon eller re-introduksjon av dyr i etablerte grupper skal overvåkes nøye for å unngå konflikt og oppløste sosiale relasjoner.\nb. Beriking\nAlle dyr skal ha tilgang til arealer med tilstrekkelig kompleksitet for å kunne utøve et bredt spekter av normal atferd. For å redusere stressindusert atferd, skal dyrene gis mulighet til å kontrollere og velge sitt miljø. Oppdrettere, formidlere og brukere skal ta i bruk egnede berikingsmetoder som øker antallet aktiviteter dyrene har tilgang til, og som gir dem større mulighet til å mestre sin situasjon. Beriking kan oppnås gjennom fysisk trening, fødesøk og finmotoriske og kognitive aktiviteter som er egnet for arten. I dyreinnhegninger skal miljøberikingen tilpasses dyrearten og dyrenes individuelle behov. Berikingsprogram skal revideres og oppdateres regelmessig.\nc. Dyreinnhegninger\nDyreinnhegninger skal være laget av materialer som ikke er helseskadelige for dyrene, og utformet og konstruert slik at dyrene ikke påføres skader. De skal være laget av engangssartikler eller av materialer som tåler rengjøring og desinfeksjon. Underlaget i innhegningen skal være tilpasset dyrenes art og alder, og utformet for enkel fjerning av urin og avføring.\n3.4Fôring\na. Fôr skal ha et innhold og gis i en form og på en måte som tilfredsstiller dyrets ernæringsmessige behov og eteatferd.\nb. Fôret skal være smakelig og holde god hygienisk kvalitet. Ved valg av råvarer og metode for fremstilling, tilbereding og tildeling av fôr skal det sørges for minst mulig kjemisk, fysisk og mikrobiologisk forurensning av fôret.\nc. Pakking, transport og lagring skal foregå slik at forurensing, forringelse eller ødeleggelse av fôret unngås. Alle fôrbeholdere, trau og annet utstyr som brukes til fôring, skal rengjøres regelmessig og steriliseres ved behov.\nd. Hvert enkelt dyr skal ha tilgang til fôret. Fôringsarealet skal være så stort at konkurransen begrenses.\n3.5Vanning\na. Dyrene skal til enhver tid ha tilgang til rent drikkevann.\nb. Automatiske drikkevannsanlegg skal kontrolleres, vedlikeholdes og gjennomspyles regelmessig. Ved bruk av bur med tett bunn skal det sørges for at risikoen for oversvømmelse er så liten som mulig.\nc. For akvatiske dyr skal vannforsyningen i akvarier og kar være tilpasset behovet og toleransegrensene til den enkelte dyreart.\n3.6Hvile- og soveplasser\na. Dyrene skal til enhver tid ha tilgang til liggeunderlag og soveplasser som er tilpasset dyrearten. I forplantningsperioden skal dyrene ha tilgang til egnet redemateriale eller rede.\nb. I dyreinnhegninger skal det for alle dyrene være et komfortabelt hvileområde med fast underlag egnet til den aktuelle dyrearten. Alle hvilearealer skal holdes rene og tørre.\n3.7Håndtering\nOppdrettere, formidlere og brukere skal iverksette tilvennings- og treningsprogrammer som er tilpasset dyrene og forsøkenes varighet."
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-13-kapittel-2",
+     "navn": "delB",
+     "overskrift": "Del B. Artsspesifikke krav",
+     "innhold": [
+      {
+       "type": "seksjon",
+       "id": "kapittel-13-kapittel-2-kapittel-1",
+       "navn": "kap1",
+       "overskrift": "1. Mus, rotter, ørkenrotter, hamstere og marsvin",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Med oppholdsenhetens høyde menes i denne og etterfølgende tabeller for mus, rotter, ørkenrotter, hamstere og marsvin den vertikale avstanden mellom oppholdsenhetens gulv og topp, og skal være til stede over mer enn 50 % av gulvets minsteareal før berikingsobjekter settes inn.\nVed planlegging av forsøk skal eventuell vekst hos dyrene tas i betraktning for å sikre at dyrene gis tilstrekkelig plass (som angitt i tabellene 1.1 til 1.5) så lenge studien varer."
+        },
+        {
+         "type": "seksjon",
+         "id": "kapittel-13-kapittel-2-kapittel-1-kapittel-1",
+         "navn": null,
+         "overskrift": "Tabell 1.1\nMus",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "| | Kroppsvekt\n(g) | Minsteareal i oppholdsenhet\n(cm2 ) | Gulvareal per dyr\n(cm2 ) | Minste høyde i oppholdsenhet\n(cm)\n| I besetning og under forsøk | opp til 20\nfra 20 til 25\nfra 25 til 30\nover 30 | 330\n330\n330\n330 | 60\n70\n80\n100 | 12\n12\n12\n12\n| Avl | | 330\nFor et monogamt par (utavl/innavl) eller en trio (innavl). For hvert ytterligere hunndyr med kull skal det legges til 180 cm2 | | 12\n| Besetning hos oppdrettere[*]\nOppholdsenhetens størrelse 950 cm2 | mindre enn 20 | 950 | 40 | 12\n| Oppholdsenhetens størrelse 1500 cm2 | mindre enn 20 | 1500 | 30 | 12"
+          }
+         ]
+        },
+        {
+         "type": "seksjon",
+         "id": "kapittel-13-kapittel-2-kapittel-1-kapittel-2",
+         "navn": null,
+         "overskrift": "Tabell 1.2\nRotter",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "| | Kroppsvekt\n(g) | Minsteareal i oppholdsenhet\n(cm2 ) | Gulvareal per dyr\n(cm2 ) | Minste høyde i oppholdsenhet\n(cm)\n| I besetning og under forsøk[*] | opp til 200\nfra 200 til 300\nfra 300 til 400\nfra 400 til 600\nover 600 | 800\n800\n800\n800\n1500 | 200\n250\n350\n450\n600 | 18\n18\n18\n18\n18\n| Avl | | 800\nMor med kull.\nFor hvert ytterligere voksent dyr som settes permanent inn i oppholdsenheten, skal det legges til 400 cm2 | | 18\n| Besetning hos oppdrettere[**]\nOppholdsenhetens størrelse 1500 cm2 | mindre enn 50\nfra 50 til 100\nfra 100 til 150\nfra 150 til 200 | 1500\n1500\n1500\n1500 | 100\n125\n150\n175 | 18\n18\n18\n18\n| Besetning hos oppdrettere[**]\nOppholdsenhetens størrelse 2500 cm2 | opp til 100\nfra 100 til 150\nfra 150 til 200 | 2500\n2500\n2500 | 100\n125\n150 | 18\n18\n18"
+          }
+         ]
+        },
+        {
+         "type": "seksjon",
+         "id": "kapittel-13-kapittel-2-kapittel-1-kapittel-3",
+         "navn": null,
+         "overskrift": "Tabell 1.3\nØrkenrotter",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "| | Kroppsvekt\n(g) | Minsteareal i oppholdsenhet\n(cm2 ) | Gulvareal per dyr\n(cm2 ) | Minste høyde i oppholdsenhet\n(cm)\n| I besetning og under forsøk | opp til 40\nover 40 | 1200\n1200 | 150\n250 | 18\n18\n| Avl | | 1200\nMonogame par eller trio med avkom | | 18"
+          }
+         ]
+        },
+        {
+         "type": "seksjon",
+         "id": "kapittel-13-kapittel-2-kapittel-1-kapittel-4",
+         "navn": null,
+         "overskrift": "Tabell 1.4\nHamstere",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "| | Kroppsvekt\n(g) | Minsteareal i oppholdsenhet\n(cm2 ) | Gulvareal per dyr\n(cm2 ) | Minste høyde i oppholdsenhet\n(cm)\n| I besetning og under forsøk | opp til 60\nfra 60 til 100\nover 100 | 800\n800\n800 | 150\n200\n250 | 14\n14\n14\n| Avl | |\n800\nMor eller monogame par med kull | | 14\n| I besetning hos oppdretter[*] | Mindre enn 60 | 1500 | 100 | 14"
+          }
+         ]
+        },
+        {
+         "type": "seksjon",
+         "id": "kapittel-13-kapittel-2-kapittel-1-kapittel-5",
+         "navn": null,
+         "overskrift": "Tabell 1.5\nMarsvin",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "| | Kroppsvekt\n(g) | Minsteareal i oppholdsenhet\n(cm2 ) | Gulvareal per dyr\n(cm2 ) | Minste høyde i oppholdsenhet\n(cm)\n| I besetning og under forsøk | opp til 200\nfra 200 til 300\nfra 300 til 450\nfra 450 til 700\nover 700 | 1800\n1800\n1800\n2500\n2500 | 200\n350\n500\n700\n900 | 23\n23\n23\n23\n23\n| Avl | | 2500\nPar med kull.\nFor hver ytterligere avlshunn som settes inn, skal det legges til 1000 cm2 | | 23"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-13-kapittel-2-kapittel-2",
+       "navn": "kap2",
+       "overskrift": "2. Kaniner",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "I forbindelse med landbruksrelaterte forsøk hvor formålet krever at dyrene holdes på en lignende måte som produksjonsdyr, skal dyreholdet minst tilfredsstille de kravene som er gitt i forskrift 3. juli 2006 nr. 885 om velferd for produksjonsdyr. Dette gjelder ikke i den grad Mattilsynet i godkjenningen av forsøket har tillatt avvik fra produksjonsdyrforskriften.\nOppholdsenheten skal være utstyrt med et hevet område (hylle) som ligger høyere enn omgivelsene. Det hevede området skal være utformet slik at dyret kan ligge, sitte og uten vanskelighet bevege seg under det. Området skal ikke dekke mer enn 40 % av gulvarealet. Hvis det av vitenskapelige eller veterinærmedisinske årsaker ikke kan brukes et hevet område, skal oppholdsenheten være 33 % større for én kanin og 60 % større for to kaniner. Hvis kaniner yngre enn 10 uker gis adgang til et hevet område, skal dette være minst 55 cm x 25 cm stort, og høyden over gulvet skal være så stor at dyrene skal kunne utnytte den."
+        },
+        {
+         "type": "seksjon",
+         "id": "kapittel-13-kapittel-2-kapittel-2-kapittel-1",
+         "navn": null,
+         "overskrift": "Tabell 2.1\nKaniner eldre enn 10 uker",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "Tabell 2.1 skal brukes for både bur og innhegninger. For hver kanin over to skal det legges til et gulvareal på minst 3000 cm2 til og med den sjette kaninen, og deretter minst 2500 cm2 for hver kanin over seks.\n| Endelig kroppsvekt\n(kg) | Minste gulvareal for ett eller to sosialt harmoniske dyr\n(cm2 ) | Minste høyde\n(cm)\n| mindre enn 3\nfra 3 til 5\nover 5 | 3500\n4200\n5400 | 45\n45\n60"
+          }
+         ]
+        },
+        {
+         "type": "seksjon",
+         "id": "kapittel-13-kapittel-2-kapittel-2-kapittel-2",
+         "navn": null,
+         "overskrift": "Tabell 2.2\nKaninhunn med kull",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "| Hunnens kroppsvekt\n(kg) | Minsteareal i oppholdsenhet\n(cm2 ) | Tillegg for redekasser\n(cm2 ) | Minste høyde\n(cm)\n| mindre enn 3\nfra 3 til 5\nover 5 | 3500\n4200\n5400 | 1000\n1200\n1400 | 45\n45\n60"
+          }
+         ]
+        },
+        {
+         "type": "seksjon",
+         "id": "kapittel-13-kapittel-2-kapittel-2-kapittel-3",
+         "navn": null,
+         "overskrift": "Tabell 2.3\nKaniner yngre enn 10 uker",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "Tabell 2.3 gjelder både bur og innhegninger.\n| Alder | Minsteareal i oppholdsenhet\n(cm2 ) | Minste gulvareal per dyr\n(cm2 ) | Minste høyde\n(cm)\n| Avvenning til 7 uker\nFra 7 til 10 uker | 4000\n4000 | 800\n1200 | 40\n40"
+          }
+         ]
+        },
+        {
+         "type": "seksjon",
+         "id": "kapittel-13-kapittel-2-kapittel-2-kapittel-4",
+         "navn": null,
+         "overskrift": "Tabell 2.4\nKaniner: Optimal størrelse på hevet område i oppholdsenhet med størrelse som angitt i tabell 2.1",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "| Alder i uker | Endelig kroppsvekt\n(kg) | Optimal størrelse\n(cm x cm) | Optimal høyde fra gulvet i oppholdsenheten\n(cm)\n| over 10 | mindre enn 3\nfra 3 til 5\nover 5 | 55 x 25\n55 x 30\n60 x 35 | 25\n25\n30"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-13-kapittel-2-kapittel-3",
+       "navn": "kap3",
+       "overskrift": "3. Katter",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Katter skal ikke holdes oppstallet enkeltvis i mer enn 24 timer av gangen. Katter som er gjentagende aggressive overfor andre katter, kan bare oppstalles enkeltvis hvis det ikke lar seg gjøre å finne en egnet partner. Hos alle individer som er oppstallet i par eller i grupper, skal sosialt stress overvåkes minst ukentlig. Hunner med kattunger som er yngre enn fire uker, og hunner i de siste to uker av drektigheten, kan oppstalles enkeltvis."
+        },
+        {
+         "type": "seksjon",
+         "id": "kapittel-13-kapittel-2-kapittel-3-kapittel-1",
+         "navn": null,
+         "overskrift": "Tabell 3\nKatter",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "Minste tillatte areal for hold av hunnkatter med unger er det samme som for en enkelt katt. Arealet skal økes gradvis slik at kullet senest ved 4 måneders alder er oppstallet etter arealkravene for voksne dyr.\nFôringsplasser og avføringskasser skal ikke være mindre enn 0,5 meter fra hverandre, og disse skal ikke bytte plass med hverandre.\n| | Gulv[*]\n(m2 ) | Hyller\n(m2 ) | Høyde\n(m)\n| Minimum for ett voksent dyr | 1,5 | 0,5 | 2\n| For hvert dyr i tillegg | 0,75 | 0,25 | –"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-13-kapittel-2-kapittel-4",
+       "navn": "kap4",
+       "overskrift": "4. Hunder",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Hunder skal så vidt mulig ha tilgang til utendørs løpegårder. Hunder skal ikke oppstalles enkeltvis i mer enn 4 timer av gangen.\nInnendørs oppholdsenhet skal utgjøre minst 50 % av minstearealet som hundene gis tilgang til, jf. tabell 4.1.\nTilgjengelig areal som angitt nedenfor er basert på behovene til beaglehunder. Store raser som St. Bernhardshund eller irsk ulvehund skal gis tilgang til vesentlig større arealer enn det som er angitt i tabell 4.1. For andre raser enn beagle skal arealtilgangen bestemmes i samråd med dyrehelsepersonell."
+        },
+        {
+         "type": "seksjon",
+         "id": "kapittel-13-kapittel-2-kapittel-4-kapittel-1",
+         "navn": null,
+         "overskrift": "Tabell 4.1\nHunder",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "Hunder som holdes i par eller grupper, kan holdes enkeltvis på halvparten av det totale arealet (2m2 for en hund under 20 kg, 4m2 for en hund over 20 kg) mens de er i forsøk, hvis denne adskillelsen er nødvendig av vitenskapelige årsaker. En hund skal ikke begrenses til dette arealet i mer enn 4 timer av gangen.\nEn diende tispe med valpekull skal ha samme arealtilgang som en enkelt tispe med samme vekt. Valpeenheten skal være utformet slik at tispen kan bevege seg til en annen avdeling eller et hevet område, vekk fra valpene.\n| Vekt\n(kg) | Minsteareal i oppholdsenhet\n(m2 ) | Minste gulvareal for ett eller to dyr\n(m2 ) | Minste tillegg for hvert ytterligere dyr\n(m2 ) | Minste høyde\n(m)\n| opp til 20\nover 20 | 4\n8 | 4\n8 | 2\n4 | 2\n2"
+          }
+         ]
+        },
+        {
+         "type": "seksjon",
+         "id": "kapittel-13-kapittel-2-kapittel-4-kapittel-2",
+         "navn": null,
+         "overskrift": "Tabell 4.2\nHunder – avvente dyr",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "| Hundens vekt\n(kg) | Minsteareal i oppholdsenhet\n(m2 ) | Minste gulvareal/dyr\n(m2 ) | Minste høyde\n(m)\n| opp til 5\nfra 5 til 10\nfra 10 til 15\nfra 15 til 20\nover 20 | 4\n4\n4\n4\n8 | 0,5\n1,0\n1,5\n2\n4 | 2\n2\n2\n2\n2"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-13-kapittel-2-kapittel-5",
+       "navn": "kap5",
+       "overskrift": "5. Ildere",
+       "innhold": [
+        {
+         "type": "seksjon",
+         "id": "kapittel-13-kapittel-2-kapittel-5-kapittel-1",
+         "navn": null,
+         "overskrift": "Tabell 5\nIldere",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "| | Minsteareal i oppholdsenhet\n(cm2 ) | Minste gulvareal per dyr\n(cm2 ) | Minste høyde\n(cm)\n| Dyr opp til 600 g\nDyr over 600 g\nVoksne hanner\nHunndyr med kull | 4500\n4500\n6000\n5400 | 1500\n3000\n6000\n5400 | 50\n50\n50\n50"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-13-kapittel-2-kapittel-6",
+       "navn": "kap6",
+       "overskrift": "6. Primater",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Unge primater skal ikke skilles fra moren før de er mellom 6 og 12 måneder gamle, avhengig av art.\nMiljøet skal tilrettelegges slik at primater kan utføre komplekse aktivitetsprogram daglig. Primater skal holdes i oppholdsenheter som gir dyrene mulighet til å ha et så bredt atferdsspekter som mulig, trygghetsfølelse og et tilstrekkelig komplekst miljø hvor dyret kan løpe, gå, klatre og hoppe."
+        },
+        {
+         "type": "seksjon",
+         "id": "kapittel-13-kapittel-2-kapittel-6-kapittel-1",
+         "navn": null,
+         "overskrift": "Tabell 6.1\nSilkeaper og tamariner",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "| | Minsteareal i oppholdsenhet for ett[*] eller to dyr pluss avkom opp til 5 måneders alder\n(m2 ) | Minste volum for hvert ytterligere dyr over 5 måneder\n(m3 ) | Minste høyde i oppholdsenhet\n(m)[**]\n| Silkeaper | 0,5 | 0,2 | 1,5\n| Tamariner | 1,5 | 0,2 | 1,5\nSilkeaper og tamariner skal ikke skilles fra moren før de er 8 måneder gamle."
+          }
+         ]
+        },
+        {
+         "type": "seksjon",
+         "id": "kapittel-13-kapittel-2-kapittel-6-kapittel-2",
+         "navn": null,
+         "overskrift": "Tabell 6.2\nEkornaper",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "| Minste gulvareal for ett[*] eller to dyr\n(m2 ) | Minste volum for hvert ytterligere dyr over 6 måneder\n(m3 ) | Minste høyde i oppholdsenhet\n(m)\n| 2,0 | 0,5 | 1,8\nEkornaper skal ikke skilles fra moren før de er 6 måneder gamle."
+          }
+         ]
+        },
+        {
+         "type": "seksjon",
+         "id": "kapittel-13-kapittel-2-kapittel-6-kapittel-3",
+         "navn": null,
+         "overskrift": "Tabell 6.3\nMakaker og vervetaper[*]",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "| | Minsteareal i oppholdsenhet\n(m2 ) | Minste volum i oppholdsenhet\n(m3 ) | Minste volum per dyr\n(m3 ) | Minste høyde i oppholdsenhet\n(m)\n| Dyr yngre enn 3 år[**] | 2,0 | 3,6 | 1,0 | 1,8\n| Dyr fra 3 års alder[***] | 2,0 | 3,6 | 1,8 | 1,8\n| Avlsdyr[****] | | | 3,5 | 2,0\nMakaker og vervetaper skal ikke skilles fra moren før de er 8 måneder gamle."
+          }
+         ]
+        },
+        {
+         "type": "seksjon",
+         "id": "kapittel-13-kapittel-2-kapittel-6-kapittel-4",
+         "navn": null,
+         "overskrift": "Tabell 6.4\nBavianer[*]",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "| | Minsteareal i oppholdsenhet\n(m2 ) | Minste volum i oppholdsenhet\n(m3 ) | Minste volum per dyr\n(m3 ) | Minste høyde i oppholdsenhet\n(m)\n| Dyr yngre enn 4 år[**] | 4,0 | 7,2 | 3,0 | 1,8\n| Dyr fra 4 års alder[**] | 7,0 | 12,6 | 6,0 | 1,8\n| Avlsdyr[***] | | | 12,0 | 2,0\nBavianer skal ikke skilles fra moren før de er 8 måneder gamle."
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-13-kapittel-2-kapittel-7",
+       "navn": "kap7",
+       "overskrift": "7. Produksjonsdyr",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "I forbindelse med landbruksrelaterte forsøk hvor formålet krever at dyrene holdes på en lignende måte som produksjonsdyr, skal dyreholdet minst tilfredsstille de krav som er gitt i forskrift 3. juli 2006 nr. 885 om velferd for produksjonsdyr, forskrift 18. februar 2003 nr. 175 om hold av svin, forskrift 22. april 2004 nr. 665 om hold av storfe, forskrift 18. februar 2005 nr. 160 om velferd for småfe, forskrift 2. juni 2005 nr. 505 om velferd for hest og forskrift 17. mars 2011 nr. 296 om hold av pelsdyr. Dette gjelder ikke i den grad Mattilsynet i godkjenningen av forsøket har tillatt avvik fra holdforskriftene."
+        },
+        {
+         "type": "seksjon",
+         "id": "kapittel-13-kapittel-2-kapittel-7-kapittel-1",
+         "navn": null,
+         "overskrift": "Tabell 7.1\nStorfe",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "| Kroppsvekt\n(kg) | Minsteareal i oppholdsenhet\n(m2 ) | Minste gulvareal per dyr\n(m2 /dyr) | Eteplass til ad libitum fôring av avhornet storfe\n(m/dyr) | Eteplass til restriktiv fôring av avhornet storfe\n(m/dyr)\n| opp til 100\nfra 100 til 200\nfra 200 til 400\nfra 400 til 600\nfra 600 til 800\nover 800 | 2,50\n4,25\n6,00\n9,00\n11,00\n16,00 | 2,30\n3,40\n4,80\n7,50\n8,75\n10,00 | 0,10\n0,15\n0,18\n0,21\n0,24\n0,30 | 0,30\n0,50\n0,60\n0,70\n0,80\n1,00"
+          }
+         ]
+        },
+        {
+         "type": "seksjon",
+         "id": "kapittel-13-kapittel-2-kapittel-7-kapittel-2",
+         "navn": null,
+         "overskrift": "Tabell 7.2\nSauer og geiter",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "| Kroppsvekt\n(kg) | Minsteareal i oppholdsenhet\n(m2 ) | Minste gulvareal per dyr\n(m2 /dyr) | Minste høyde på skillevegg\n(m) | Eteplass til ad libitum fôring\n(m/dyr) | Eteplass til restriktiv fôring\n(m/dyr)\n| mindre enn 20\nfra 20 til 35\nfra 35 til 60\nover 60 | 1,0\n1,5\n2,0\n3,0 | 0,7\n1,0\n1,5\n1,8 | 1,0\n1,2\n1,2\n1,5 | 0,10\n0,10\n0,12\n0,12 | 0,25\n0,30\n0,40\n0,50"
+          }
+         ]
+        },
+        {
+         "type": "seksjon",
+         "id": "kapittel-13-kapittel-2-kapittel-7-kapittel-3",
+         "navn": null,
+         "overskrift": "Tabell 7.3\nGriser og minigriser",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "| Kroppsvekt\n(kg) | Minsteareal i oppholdsenhet[*]\n(m2 ) | Minste gulvareal per dyr\n(m2 /dyr) | Minste liggeareal per dyr (under termonøytrale forhold)\n(m2 /dyr)\n| opp til 5\nfra 5 til 10\nfra 10 til 20\nfra 20 til 30\nfra 30 til 50\nfra 50 til 70\nfra 70 til 100\nfra 100 til 150\nover 150\nvoksne (konvensjonelle)\nråner | 2,0\n2,0\n2,0\n2,0\n2,0\n3,0\n3,0\n4,0\n5,0\n7,5 | 0,20\n0,25\n0,35\n0,50\n0,70\n0,80\n1,00\n1,35\n2,50 | 0,10\n0,11\n0,18\n0,24\n0,33\n0,41\n0,53\n0,70\n0,95\n1,30"
+          }
+         ]
+        },
+        {
+         "type": "seksjon",
+         "id": "kapittel-13-kapittel-2-kapittel-7-kapittel-4",
+         "navn": null,
+         "overskrift": "Tabell 7.4\nHester",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "Den korteste siden skal være minst 1,5 ganger dyrets mankehøyde i stangmål. Høyden i innendørs oppholdsenheter skal være så stor at dyrene kan steile i full høyde.\n| Mankehøyde\n(m) | Minste gulvareal per dyr\n(m2 /dyr) | Minste høyde i oppholdsenhet\n(m)\n| | For hvert dyr oppstallet enkeltvis eller i grupper på opp til 3 dyr | For hvert dyr holdt i grupper på 4 dyr eller flere | Føllingsboks/hoppe med føll |\n| 1,00 til 1,40\nfra 1,40 til 1,60\nover 1,60 | 9,0\n12,0\n16,0 | 6,0\n9,0\n(2 x MH)2  [*] | 16\n20\n20 | 3,00\n3,00\n3,00"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-13-kapittel-2-kapittel-8",
+       "navn": "kap8",
+       "overskrift": "8. Fugler",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "I forbindelse med landbruksrelaterte forsøk hvor formålet krever at dyrene holdes på en lignende måte som produksjonsdyr, skal dyreholdet minst tilfredsstille de krav som er gitt i forskrift 3. juli 2006 nr. 885 om velferd for produksjonsdyr, forskrift 12. desember 2001 nr. 1494 om hold av høns og kalkun, og forskrift 2. oktober 1998 nr. 951 om hold av strutsefugl. Dette gjelder ikke i den grad Mattilsynet i godkjenningen av forsøket har tillatt avvik fra holdforskriftene."
+        },
+        {
+         "type": "seksjon",
+         "id": "kapittel-13-kapittel-2-kapittel-8-kapittel-1",
+         "navn": null,
+         "overskrift": "Tabell 8.1\nTamhøns",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "Hvis det av vitenskapelige grunner ikke er mulig å overholde minstekravene til oppholdsenhetens størrelse, skal forsøkslederen i samråd med veterinærmedisinsk personell begrunne varigheten av dyreholdet på det begrensede arealet. I slike tilfeller kan fugler oppstalles i mindre oppholdsenheter med egnet miljøberiking og gulvareal på minst 0,75m2 .\n| Kroppsvekt\n(g) | Minsteareal i oppholdsenhet\n(m2 ) | Minsteareal per fugl\n(m2 ) | Minste høyde\n(cm) | Minste lengde på fôrtrau per fugl\n(cm)\n| opp til 200\nfra 200 til 300\nfra 300 til 600\nfra 600 til 1200\nfra 1200 til 1800\nfra 1800 til 2400\nover 2400 | 1,00\n1,00\n1,00\n2,00\n2,00\n2,00\n2,00 | 0,025\n0,03\n0,05\n0,09\n0,11\n0,13\n0,21 | 30\n30\n40\n50\n75\n75\n75 | 3\n3\n7\n15\n15\n15\n15"
+          }
+         ]
+        },
+        {
+         "type": "seksjon",
+         "id": "kapittel-13-kapittel-2-kapittel-8-kapittel-2",
+         "navn": null,
+         "overskrift": "Tabell 8.2\nTamkalkun",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "Alle sidene i oppholdsenheten skal minst være 1,5 m lange. Hvis det av vitenskapelige årsaker ikke er mulig å overholde minstekravene til oppholdsenehetens størrelse, skal forsøkslederen i samråd med veterinærmedisinsk personell begrunne varigheten av dyreholdet på det begrensede arealet. I slike tilfeller kan fugler oppstalles i mindre oppholdsenheter med egnet miljøberiking. Gulvarealet skal da være minst 0,75m2 og høyden minst 50 cm for fugler under 0,6 kg, 75 cm for fugler under 4 kg og 100 cm for fugler over 4 kg. Disse kan benyttes til oppstalling av mindre grupper av fugler i samsvar med arealkravene i tabell 8.2.\n| Kroppsvekt\n(kg) | Minsteareal i oppholdsenhet\n(m2 ) | Minsteareal per fugl\n(m2 ) | Minste høyde\n(cm) | Minste lengde på fôrtrau per fugl\n(cm)\n| opp til 0,3\nfra 0,3 til 0,6\nfra 0,6 til 1\nfra 1 til 4\nfra 4 til 8\nfra 8 til 12\nfra 12 til 16\nfra 16 til 20\nover 20 | 2,00\n2,00\n2,00\n2,00\n2,00\n2,00\n2,00\n2,00\n3,00 | 0,13\n0,17\n0,30\n0,35\n0,40\n0,50\n0,55\n0,60\n1,00 | 50\n50\n100\n100\n100\n150\n150\n150\n150 | 3\n7\n15\n15\n15\n20\n20\n20\n20"
+          }
+         ]
+        },
+        {
+         "type": "seksjon",
+         "id": "kapittel-13-kapittel-2-kapittel-8-kapittel-3",
+         "navn": null,
+         "overskrift": "Tabell 8.3\nVaktler",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "| Kroppsvekt\n(g) | Minsteareal i oppholdsenhet\n(m2 ) | Minsteareal per fugl, parvis oppstallet\n(m2 ) | Minsteareal per fugl i tillegg, gruppeoppstallet fugl\n(m2 ) | Minste høyde\n(cm) | Minste lengde på fôrtrau per fugl\n(cm)\n| opp til 150\nover 150 | 1,00\n1,00 | 0,5\n0,6 | 0,10\n0,15 | 20\n30 | 4\n4"
+          }
+         ]
+        },
+        {
+         "type": "seksjon",
+         "id": "kapittel-13-kapittel-2-kapittel-8-kapittel-4",
+         "navn": null,
+         "overskrift": "Tabell 8.4\nEnder og gjess",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "Hvis det av vitenskapelige årsaker ikke er mulig å overholde minstekravene til oppholdsenhetens størrelse, skal forsøkslederen i samråd med veterinærmedisinsk personell begrunne varigheten av dyreholdet på det begrensede arealet. I slike tilfeller kan fugler oppstalles i mindre oppholdsenheter med egnet miljøberiking og gulvareal på minst 0,75m2 . Disse kan benyttes til oppstalling av mindre grupper av fugler i samsvar med arealkravene i tabell 8.4.\n| Kroppsvekt\n(g) | Minsteareal i oppholdsenhet\n(m2 ) | Areal per fugl\n(m2 )[*] | Minste høyde\n(cm) | Minste lengde på fôrtrau per fugl\n(cm)\n| Ender | | | |\n| opp til 300\nfra 300 til 1200[**]\nfra 1200 til 3500\nover 3500 | 2,00\n2,00\n2,00\n2,00 | 0,10\n0,20\n0,25\n0,50 | 50\n200\n200\n200 | 10\n10\n15\n15\n| Gjess | | | |\n| opp til 500\nfra 500 til 2000\nover 2000 | 2,00\n2,00\n2,00 | 0,20\n0,33\n0,50 | 200\n200\n200 | 10\n15\n15"
+          }
+         ]
+        },
+        {
+         "type": "seksjon",
+         "id": "kapittel-13-kapittel-2-kapittel-8-kapittel-5",
+         "navn": null,
+         "overskrift": "Tabell 8.5\nEnder og gjess: Minste damstørrelser[*]",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "| | Areal\n(m2 ) | Dybde\n(cm)\n| Ender | 0,5 | 30\n| Gjess | 0,5 | fra 10 til 30"
+          }
+         ]
+        },
+        {
+         "type": "seksjon",
+         "id": "kapittel-13-kapittel-2-kapittel-8-kapittel-6",
+         "navn": null,
+         "overskrift": "Tabell 8.6\nDuer",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "Oppholdsenhetene skal være lange og smale (for eksempel 2 m x 1 m) i stedet for kvadratiske slik at fuglene kan foreta korte flyveturer.\n| Gruppestørrelse | Minsteareal i oppholdsenhet\n(m2 ) | Minste høyde\n(cm) | Minste lengde på fôrtrau per fugl\n(cm) | Minste sittepinnelengde per fugl\n(cm)\n| opp til 6\nfra 7 til 12\nfor hver fugl i tillegg over 12 | 2\n3\n0,15 | 200\n200 | 5\n5\n5 | 30\n30\n30"
+          }
+         ]
+        },
+        {
+         "type": "seksjon",
+         "id": "kapittel-13-kapittel-2-kapittel-8-kapittel-7",
+         "navn": null,
+         "overskrift": "Tabell 8.7\nSebrafinker",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "Oppholdsenhetene skal være lange og smale (for eksempel 2 m x 1 m) slik at fuglene kan foreta korte flyveturer. I avlsstudier kan par oppstalles i mindre oppholdsenheter med egnet miljøberiking. Gulvarealet skal da være minst 0,5m2 og høyden minst 40 cm. Forsøkslederen skal i samråd med veterinærmedisinsk personell begrunne varigheten av dyreholdet på det begrensede arealet.\n| Gruppestørrelse | Minsteareal i oppholdsenhet\n(m2 ) | Minste høyde\n(cm) | Minste antall fôrskåler\n| opp til 6\n7 til 12\n13 til 20\nfor hver fugl i tillegg over 20 | 1,0\n1,5\n2,0\n0,05 | 100\n200\n200 | 2\n2\n3\n1 per 6 fugler"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-13-kapittel-2-kapittel-9",
+       "navn": "kap9",
+       "overskrift": "9. Amfibier",
+       "innhold": [
+        {
+         "type": "seksjon",
+         "id": "kapittel-13-kapittel-2-kapittel-9-kapittel-1",
+         "navn": null,
+         "overskrift": "Tabell 9.1\nVannlevende salamandere",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "| Kroppslengde[*]\n(cm) | Minste vannoverflateareal\n(cm2 ) | Minste vannoverflateareal per dyr i tillegg i gruppehold\n(cm2 ) | Minste vanndybde\n(cm)\n| opp til 10\nfra 10 til 15\nfra 15 til 20\nfra 20 til 30\nover 30 | 262,5\n525\n875\n1837,5\n3150 | 50\n110\n200\n440\n800 | 13\n13\n15\n15\n20"
+          }
+         ]
+        },
+        {
+         "type": "seksjon",
+         "id": "kapittel-13-kapittel-2-kapittel-9-kapittel-2",
+         "navn": null,
+         "overskrift": "Tabell 9.2\nVannlevende springpadder[*]",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "| Kroppslengde[**]\n(cm) | Minste vannoverflateareal\n(cm2 ) | Minste vannoverflateareal per dyr i tillegg i gruppehold\n(cm2 ) | Minste vanndybde\n(cm)\n| mindre enn 6\nfra 6 til 9\nfra 9 til 12\nover 12 | 160\n300\n600\n920 | 40\n75\n150\n230 | 6\n8\n10\n12,5"
+          }
+         ]
+        },
+        {
+         "type": "seksjon",
+         "id": "kapittel-13-kapittel-2-kapittel-9-kapittel-3",
+         "navn": null,
+         "overskrift": "Tabell 9.3\nDelvis vannlevende springpadder",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "| Kroppslengde[*]\n(cm) | Minsteareal i oppholdsenhet[**]\n(cm2 ) | Minsteareal for hvert dyr i tillegg i gruppehold\n(cm2 ) | Minste høyde i oppholdsenhet[***]\n(cm) | Minste vanndybde\n(cm)\n| opp til 5,0\nfra 5,0 til 7,5\nover 7,5 | 1500\n3500\n4000 | 200\n500\n700 | 20\n30\n30 | 10\n10\n15"
+          }
+         ]
+        },
+        {
+         "type": "seksjon",
+         "id": "kapittel-13-kapittel-2-kapittel-9-kapittel-4",
+         "navn": null,
+         "overskrift": "Tabell 9.4\nLandlevende springpadder",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "| Kroppslengde[*]\n(cm) | Minsteareal i oppholdsenhet[**]\n(cm2 ) | Minsteareal for hvert dyr i tillegg i gruppehold\n(cm2 ) | Minste høyde i oppholdsenhet[***]\n(cm) | Minste vanndybde\n(cm)\n| opp til 5,0\nfra 5,0 til 7,5\nover 7,5 | 1500\n3500\n4000 | 200\n500\n700 | 20\n30\n30 | 10\n10\n15"
+          }
+         ]
+        },
+        {
+         "type": "seksjon",
+         "id": "kapittel-13-kapittel-2-kapittel-9-kapittel-5",
+         "navn": null,
+         "overskrift": "Tabell 9.5\nTrelevende springpadder",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "| Kroppslengde[*]\n(cm) | Minsteareal i oppholdsenhet[**]\n(cm2 ) | Minsteareal for hvert dyr i tillegg i gruppehold\n(cm2 ) | Minste høyde i oppholdsenhet[***]\n(cm) | Minste vanndybde\n(cm)\n| opp til 3,0\nover 3,0 | 900\n1500 | 100\n200 | 30\n30 | 10\n10\n15"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-13-kapittel-2-kapittel-10",
+       "navn": "kap10",
+       "overskrift": "10. Krypdyr",
+       "innhold": [
+        {
+         "type": "seksjon",
+         "id": "kapittel-13-kapittel-2-kapittel-10-kapittel-1",
+         "navn": null,
+         "overskrift": "Tabell 10.1\nVannlevende skilpadder",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "| Kroppslengde[*]\n(cm) | Minste vannoverflateareal\n(cm2 ) | Minste vannoverflateareal for hvert dyr i tillegg i gruppehold\n(cm2 ) | Minste vanndybde\n(cm)\n| opp til 5\nfra 5 til 10\nfra 10 til 15\nfra 15 til 20\nfra 20 til 30\nover 30 | 600\n1600\n3500\n6000\n10000\n20000 | 100\n300\n600\n1200\n2000\n5000 | 10\n15\n20\n30\n35\n40"
+          }
+         ]
+        },
+        {
+         "type": "seksjon",
+         "id": "kapittel-13-kapittel-2-kapittel-10-kapittel-2",
+         "navn": null,
+         "overskrift": "Tabell 10.2\nLandlevende slanger",
+         "innhold": [
+          {
+           "type": "tekst",
+           "tekst": "| Kroppslengde[*]\n(cm) | Minste gulvareal\n(cm2 ) | Minste areal for hvert dyr i tillegg i gruppehold\n(cm2 ) | Minste høyde i oppholdsenhet[**]\n(cm)\n| opp til 30\nfra 30 til 40\nfra 40 til 50\nfra 50 til 75\nover 75 | 300\n400\n600\n1200\n2500 | 150\n200\n300\n600\n1200 | 10\n12\n15\n20\n28"
+          }
+         ]
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-13-kapittel-2-kapittel-11",
+       "navn": "kap11",
+       "overskrift": "11. Fisk",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "11.1Vanntilførsel og vannkvalitet\nDet skal til enhver tid være nok vann av egnet kvalitet. Vannstrømmen i resirkuleringssystemer eller filtrering i karene skal være tilstrekkelig til å sikre at vannkvalitetsparameterne holdes innenfor akseptable nivåer. Vanntilførselen skal om nødvendig filtreres eller behandles for å fjerne stoffer som er skadelige for fisken. Vannkvalitetsparameterne skal hele tiden være innenfor akseptable grenser slik at normal aktivitet og normale fysiologiske prosesser opprettholdes for den aktuelle art og utviklingsstadium. Vannstrømmen skal avpasses slik at fisken kan svømme på normal måte og utøve normal atferd. Fisken skal gis passe tid til å akklimatisere og tilpasse seg endringer i vannkvaliteten.\n11.2Oksygen, nitrogenforbindelser, pH og salinitet\nOksygenkonsentrasjonen skal avpasses til den enkelte arts behov og forholdene fisken holdes under. Om nødvendig skal det foretas ekstra lufting av vannet i karene. Konsentrasjonen av nitrogenforbindelser skal holdes lav. pH-verdien skal tilpasses arten og holdes så stabil som mulig. Saliniteten skal tilpasses artens behov og utviklingsstadium. Endringer i saliniteten skal skje gradvis.\n11.3Temperatur, belysning, støy\nTemperaturen skal holdes så stabil som mulig innenfor optimumsgrensene for den aktuelle fiskearten. Endringer i temperaturen skal skje gradvis. Fisk skal holdes i en fotoperiode som er tilpasset artens behov. Støynivået skal holdes på et minimum. Der det er mulig, skal utstyr som forårsaker støy eller vibrasjoner, så som generatorer eller filtreringsanlegg, være atskilt fra fiskekarene.\n11.4Fisketetthet og miljøkompleksitet\nTettheten av fisk skal være basert på fiskens samlede behov når det gjelder miljøforhold, helse og velferd. Fisk skal ha tilgang til et vannvolum som er stort nok til at den kan svømme normalt, tatt i betraktning fiskens størrelse, alder, helse og fôropptak. Fisk skal tilbys egnet miljøberiking, slik som skjulesteder eller bunnsubstrat, hvis ikke atferdsmessige egenskaper indikerer at det ikke er behov for dette.\n11.5Fôring og håndtering\nFisk skal fôres med et egnet fiskefôr i riktig mengde og med intervaller tilpasset artens behov. Ved fôring av fiskelarver skal enhver overgang fra levende til tilvirket fôr vies spesiell oppmerksomhet. Fisk skal håndteres så lite som mulig."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "fotnoter": [
+  {
+   "nr": "*",
+   "tekst": "Avvente mus kan holdes ved disse høyere tetthetene for den korte perioden mellom avvenning og flytting. Dette forutsetter at dyrene blir oppstallet i større oppholdsenheter med adekvat beriking og at oppstallingsforholdene ikke forårsaker noen svekkelse av velferden som f.eks. økt nivå av aggressjon, sykdom eller dødelighet, stereotypier og andre atferdsforstyrrelser, vekttap eller andre fysiologiske eller atferdsmessige stressreaksjoner."
+  },
+  {
+   "nr": "*",
+   "tekst": "Hvis tilgjengelig areal per dyr kommer under de angitte arealkrav på slutten av langtidsstudier, skal det prioriteres å opprettholde stabile sosiale strukturer."
+  },
+  {
+   "nr": "**",
+   "tekst": "Avvente rotter kan holdes ved disse høyere tetthetene for den korte perioden mellom avvenning og flytting. Dette forutsetter at dyrene blir oppstallet i større oppholdsenheter med adekvat beriking og at oppstallingsforholdene ikke forårsaker noen svekkelse av velferden som f.eks. økt nivå av aggressjon, sykdom eller dødelighet, stereotypier og andre atferdsforstyrrelser, vekttap eller andre fysiologiske eller atferdsmessige stressreaksjoner."
+  },
+  {
+   "nr": "*",
+   "tekst": "Avvente hamstere kan holdes ved disse høyere tetthetene for den korte perioden mellom avvenning og flytting. Dette forutsetter at dyrene blir oppstallet i større oppholdsenheter med adekvat beriking og at oppstallingsforholdene ikke forårsaker noen svekkelse av velferden som f.eks. økt nivå av aggressjon, sykdom eller dødelighet, stereotypier og andre atferdsforstyrrelser, vekttap eller andre fysiologiske eller atferdsmessige stressreaksjoner."
+  },
+  {
+   "nr": "*",
+   "tekst": "Gulvareal utenom hyller."
+  },
+  {
+   "nr": "*",
+   "tekst": "Dyr kan holdes enkeltvis bare i unntakstilfeller."
+  },
+  {
+   "nr": "**",
+   "tekst": "Oppholdsenhetens topp skal være minst 1,8 m fra gulvet."
+  },
+  {
+   "nr": "*",
+   "tekst": "Dyr kan holdes enkeltvis bare i unntakstilfeller."
+  },
+  {
+   "nr": "*",
+   "tekst": "Enkeltvis oppstalling av dyr kan bare skje i unntakstilfeller."
+  },
+  {
+   "nr": "**",
+   "tekst": "I oppholdsenhet med minstemål kan det holdes maksimum tre dyr."
+  },
+  {
+   "nr": "***",
+   "tekst": "I oppholdsenhet med minstemål kan det holdes maksimum to dyr."
+  },
+  {
+   "nr": "****",
+   "tekst": "I avlsgrupper kreves ikke tilleggsareal/volum for unge dyr opp til 2 års alder som holdes sammen med moren."
+  },
+  {
+   "nr": "*",
+   "tekst": "Enkeltvis oppstalling av dyr kan bare skje i unntakstilfeller."
+  },
+  {
+   "nr": "**",
+   "tekst": "I oppholdsenhet med minstemål kan det holdes maksimum to dyr."
+  },
+  {
+   "nr": "***",
+   "tekst": "I avlsgrupper kreves ikke tilleggsareal/volum for unge dyr opp til 2 års alder som holdes sammen med moren."
+  },
+  {
+   "nr": "*",
+   "tekst": "Griser kan holdes i mindre oppholdsenheter for kortere perioder, for eksempel ved å dele opp hovedenheten med skillevegger når dette er berettiget ut fra veterinærmedisinske eller eksperimentelle grunner. For eksempel når individuelt fôropptak er påkrevd."
+  },
+  {
+   "nr": "*",
+   "tekst": "For å sikre tilstrekkelig plass skal tilgjengelig areal for hvert enkelt dyr beregnes ut fra mankehøyden (MH – stangmål)."
+  },
+  {
+   "nr": "*",
+   "tekst": "Dette skal inkludere en dam med et minsteareal på 0,5m2 per 2,0m2 oppholdsenhet og en minste dybde på 30 cm. Dammen kan utgjøre opp til 50 % av oppholdsenhetens minsteareal."
+  },
+  {
+   "nr": "**",
+   "tekst": "Fugler som ennå ikke er flyvedyktige, kan holdes i oppholdsenheter med en minste høyde på 75 cm."
+  },
+  {
+   "nr": "*",
+   "tekst": "Damarealene er per 2m2 oppholdsenhet. Dammen kan utgjøre opp til 50 % av oppholdsenhetens minsteareal."
+  },
+  {
+   "nr": "*",
+   "tekst": "Målt fra snute til kloakkåpning."
+  },
+  {
+   "nr": "*",
+   "tekst": "Disse kravene gjelder for oppstalling i tanker (dvs. dyrehold), og ikke for tanker som av effektiviteshensyn benyttes for naturlig paring og superovulasjon, da disse prosedyrene krever mindre individuelle tanker. Arealkravene gjelder voksne dyr i de angitte størrelseskategoriene. Ungdyr og rumpetroll skal enten ikke regnes med, eller tankmålene endres på en forholdsmessig måte."
+  },
+  {
+   "nr": "**",
+   "tekst": "Målt fra snute til kloakkåpning."
+  },
+  {
+   "nr": "*",
+   "tekst": "Målt fra snute til kloakkåpning."
+  },
+  {
+   "nr": "**",
+   "tekst": "En tredjedel land og to tredjedeler vann, nok til at dyrene kan ligge helt under vannflaten."
+  },
+  {
+   "nr": "***",
+   "tekst": "Målt fra overflaten av landdelen opp til innersiden av terrariets øverste kant. Oppholdsenhetens høyde skal også tilpasses innredningen."
+  },
+  {
+   "nr": "*",
+   "tekst": "Målt fra snute til kloakkåpning."
+  },
+  {
+   "nr": "**",
+   "tekst": "To tredjedeler land og en tredjedel vann, nok til at dyrene kan ligge helt under vannflaten."
+  },
+  {
+   "nr": "***",
+   "tekst": "Målt fra overflaten av landdelen opp til innersiden av terrariets øverste kant. Oppholdsenhetens høyde skal også tilpasses innredningen."
+  },
+  {
+   "nr": "*",
+   "tekst": "Målt fra snute til kloakkåpning."
+  },
+  {
+   "nr": "**",
+   "tekst": "To tredjedeler land og en tredjedel vann, nok til at dyrene kan ligge helt under vannflaten."
+  },
+  {
+   "nr": "***",
+   "tekst": "Målt fra overflaten av landdelen opp til innersiden av terrariets øverste kant. Oppholdsenhetens høyde skal også tilpasses innredningen."
+  },
+  {
+   "nr": "*",
+   "tekst": "Målt i rett linje fra fremre til bakre kant av skallet."
+  },
+  {
+   "nr": "*",
+   "tekst": "Målt fra snute til halespiss."
+  },
+  {
+   "nr": "**",
+   "tekst": "Målt fra overflaten av landdelen opp til innersiden av terrariets øverste kant. Oppholdsenhetens høyde skal også tilpasses innredningen."
+  }
+ ]
+}

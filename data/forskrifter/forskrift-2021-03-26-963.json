@@ -1,0 +1,307 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2021-03-26-963",
+ "dokumentid": "SF/forskrift/2021-03-26-963",
+ "departement": [
+  "Samferdselsdepartementet"
+ ],
+ "etat": [
+  "Veg-, by- og trafikksikkerhetsavdelingen"
+ ],
+ "ikraft": "2021-05-18, 2021-09-01",
+ "siste_endring_ikraft": "2026-09-18",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2026-09-18-1814",
+   "tekst": "forskrift/2026-09-18-1814"
+  }
+ ],
+ "endrer": "forskrift/1993-09-17-855",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1965-06-18-4/§31",
+   "tekst": "lov/1965-06-18-4/§31"
+  },
+  {
+   "ref": "lov/1965-06-18-4/§31a",
+   "tekst": "lov/1965-06-18-4/§31a"
+  },
+  {
+   "ref": "lov/1965-06-18-4/§31b",
+   "tekst": "lov/1965-06-18-4/§31b"
+  },
+  {
+   "ref": "lov/1965-06-18-4/§36a",
+   "tekst": "lov/1965-06-18-4/§36a"
+  },
+  {
+   "ref": "lov/1967-02-10/§28",
+   "tekst": "lov/1967-02-10/§28"
+  }
+ ],
+ "kunngjort": "2021-03-26 14:45",
+ "siste_rettelse": "2025-08-18 (tabeller endret til lister i kapittel 2 og 3)",
+ "korttittel": "Forskrift om gebyr for visse overtredelser av vegtrafikklovgivningen",
+ "tittel": "Forskrift om gebyr for visse overtredelser av vegtrafikklovgivningen",
+ "annet": "Hjemmel: Fastsatt ved kgl.res. 26. mars 2021 med hjemmel i lov 18. juni 1965 nr. 4 om vegtrafikk (vegtrafikkloven) § 31, § 31a, § 31b og § 36a og lov 10. februar 1967 om behandlingsmåten i forvaltningen (forvaltningsloven) § 28 tredje ledd. Fremmet av Samferdselsdepartementet.\nEndret ved forskrifter 7 mai 2021 nr. 1413, 1 okt 2021 nr. 2922, 11 mars 2022 nr. 360, 18 mars 2022 nr. 413 (i kraft 12 sep 2022), 1 mars 2024 nr. 361, 27 feb 2026 nr. 311, 18 sep 2026 nr. 1814.\nRettet 28.03.2021 (tegnsetting i lister tilpasset universell utforming), 08.07.2021 (§ 10 annet ledd siste punktum), 18.08.2025 (tabeller endret til lister i kapittel 2 og 3).",
+ "refid": "forskrift/2021-03-26-963",
+ "eli": "/eli/forskrift/2021/03/26/963",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2021-03-26-963",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Felles bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Myndighet",
+     "ledd": [
+      "Politiet og Statens vegvesen har myndighet til å ilegge overtredelsesgebyr etter denne forskriften."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Ileggelse og betaling av overtredelsesgebyr",
+     "ledd": [
+      "Den som har fylt 15 år kan ilegges gebyr etter denne forskriften for overtredelser av bestemmelser gitt i eller i medhold av vegtrafikkloven. Foreligger det flere overtredelser som alle kan avgjøres ved overtredelsesgebyr, kan flere overtredelsesgebyr føres på samme gebyrskjema.",
+      "Er overtredelsesgebyret ikke betalt innen tre uker, løper forsinkelsesrenter etter forsinkelsesrenteloven. Dette gjelder selv om overtredelsesgebyret er påklaget. Overtredelsesgebyret tilfaller staten.",
+      "Overtredelsesgebyr kan ilegges på stedet. Er overtrederen mindreårig, varsles dennes verge(r) om ileggelsen. Dersom verge ikke er til stede ved gebyrileggelsen er det tilstrekkelig at politiet/Statens vegvesen leverer til den mindreårige ileggelsesskjema påtrykt varsel til verge.",
+      "Er overtredelsesgebyret ikke betalt innen tre uker etter ileggelsen, kan dette inndrives etter vegtrafikkloven § 38, men tidligst fjorten dager etter at varsel om inndriving er kommet fram til den skyldige. Overtredelsesgebyret kan også inndrives hos eieren av kjøretøyet eller den som disponerer kjøretøyet ved leie- eller leasingavtale etter samme prinsipper, der eier er solidarisk ansvarlig med fører etter denne forskriften."
+     ],
+     "endringer": [
+      "Endret ved forskrift 27 feb 2026 nr. 311."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Overtredelsesgebyr ilegges likevel ikke",
+     "ledd": [
+      "Overtredelsesgebyr etter denne forskriften ilegges likevel ikke dersom overtredelsen framstår som særlig graverende, særlig trafikkfarlig, ved gjentakelser, eller dersom forholdet av andre grunner bør følges opp ved vanlig straffeprosessuell forfølgning."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 4",
+     "tittel": "Klage",
+     "ledd": [
+      "Tingretten er klageinstans ved klage over ilagt overtredelsesgebyr. Klagen skal sendes til den myndighet som har ilagt overtredelsesgebyret i det området der overtredelsesgebyret er ilagt. Dersom det er hensiktsmessig kan klagen framsettes i et annet område. Mindreårige som ikke har fylt 16 år, kan klage over ileggelsen når verge samtykker.",
+      "Inndriving av overtredelsesgebyret overstemmende med § 2 siste ledd kan skje selv om det er påklaget, med mindre namsmyndighetene bestemmer noe annet.",
+      "Forvaltningslovens regler gjelder så langt de passer."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-5",
+     "nummer": "§ 5",
+     "tittel": "Frafallelse av overtredelsesgebyr",
+     "ledd": [
+      "Dersom særlige grunner knyttet til ileggelsen tilsier det, kan overtredelsesgebyr frafalles av politiet/Statens vegvesen. Søknad om frafallelse kan framsettes sammen med, eller uten, klage til tingretten over ileggelse av overtredelsesgebyr. Søknad om frafall uten klage må fremsettes innen tre uker fra underretning om overtredelsesgebyret er kommet frem til vedkommende part.",
+      "I forbindelse med klage til tingretten skal spørsmålet om frafall av overtredelsesgebyr vurderes.",
+      "For avgjørelse av en søknad som nevnt i første ledd gjelder forvaltningslovens regler. Avgjørelsen kan ikke påklages."
+     ],
+     "endringer": [
+      "Endret ved forskrift 27 feb 2026 nr. 311."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-6",
+     "nummer": "§ 6",
+     "tittel": "Hvilken tingrett som er kompetent",
+     "ledd": [
+      "Politiet/Statens vegvesen sender klagen til tingretten på det sted der den betalingspliktige bor eller oppholder seg, der overtredelsen fant sted eller der opplysninger i saken for øvrig lettest kan skaffes til veie.",
+      "Den tingrett som har fått saken oversendt behandler saken, med mindre dommeren av særlige grunner finner det nødvendig å henvise den til behandling ved annen tingrett hvor det er verneting for saken."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-7",
+     "nummer": "§ 7",
+     "tittel": "Klagebehandling i tingretten",
+     "ledd": [
+      "Ved tingrettens behandling av klagen gjelder straffeprosesslovens regler så langt de passer med mindre noe annet følger av denne forskriften.",
+      "Reglene i straffeprosessloven kap. 9 om offentlig forsvarer gjelder ikke.",
+      "Forkynning i klagesaker kan foretas av en polititjenestemann. Klagen kan avgjøres uten at det holdes rettsmøte, så framt retten finner det ubetenkelig. Dersom klageren eller vitner innkalles til rettsmøte, skal også politiet/Statens vegvesen varsles.",
+      "Retten kan innhente de bevis den anser hensiktsmessig. Den kan gi politiet/Statens vegvesen pålegg og begjære rettergangsskritt foretatt ved andre retter.",
+      "Er det begjært oppfriskning for oversitting av klagefristen, jf. vegtrafikkloven § 31a fjerde ledd andre punktum, kan tingretten ved behandling av begjæringen samtidig avgjøre selve saken."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Overtredelser som kan medføre gebyr",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 8",
+     "tittel": "Førerkort og andre førerdokumenter",
+     "ledd": [
+      "Det kan ilegges overtredelsesgebyr for kjøring:\na. uten å medbringe førerkort eller mopedførerbevis 500 kr.\nb. uten å medbringe vognkort 500 kr.\nc. der førerkortets og/eller førerettens gyldighet er utløpt med inntil tre måneder 5 000 kr.\nd. uten å medbringe bevis for yrkessjåførkompetanse 500 kr.\ne. der yrkessjåførkompetansens gyldighet er utløpt med inntil tre måneder 4 000 kr.\nf. for annet transportforetak enn det som er påført lærlingekontrakten. 5 000 kr.",
+      "Dersom føreren av kjøretøyet er en annen enn den som var registrert som eier ved overtredelsen, er de solidarisk ansvarlige for overtredelsesgebyrene etter bokstav c, e og f. Likestilt med eier er den som disponerer kjøretøyet ved leie- eller leasingavtale."
+     ],
+     "endringer": [
+      "Endret ved forskrift 1 okt 2021 nr. 2922."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 9",
+     "tittel": "Dekk og kjettinger",
+     "ledd": [
+      "Det kan ilegges overtredelsesgebyr for kjøring:\na. med piggdekk eller kjettinger når dette er ulovlig\nRegnes som én overtredelse 1 000 kr.\nb. uten medbrakte forskriftsmessige kjettinger\nMotorvogn med tillatt totalvekt inntil 7 500 kg: 750 kr.\nMotorvogn med tillatt totalvekt over 7 500 kg: 1 200 kr.\nMotorvogn med tillatt totalvekt over 7 500 kg som trekker tilhenger med tillatt totalvekt over 3 500 kg: 1 500 kr.\nDet gis ett overtredelsesgebyr for hver manglende kjetting.\nc. med dekk med mønsterdybde under lovlig minimum, eller uten vinterdekk i perioden der vinterdekk særskilt er påbudt.\nKjøretøy med tillatt totalvekt inntil 7 500 kg: 1 000 kr.\nKjøretøy med tillatt totalvekt over 7 500 kg: 2 000 kr.\nDet gis ett overtredelsesgebyr for hvert dekk med ulovlig mønsterdybde, eller manglende vinterdekk.",
+      "Dersom føreren av kjøretøyet er en annen enn den som var registrert som eier ved overtredelsen, er de solidarisk ansvarlige for overtredelsesgebyrene etter bokstav a, b og c. Likestilt med eier er den som disponerer kjøretøyet ved leie- eller leasingavtale."
+     ],
+     "endringer": [
+      "Endret ved forskrift 1 okt 2021 nr. 2922."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 10",
+     "tittel": "Visse andre bruksbestemmelser",
+     "ledd": [
+      "Det kan ilegges overtredelsesgebyr for kjøring:\na. uten påbudt hastighetsmåler eller med hastighetsmåler som ikke virker 500 kr.\nb. med motorvogn uten medbrakt varseltrekant 500 kr.\nc. der påbudte hovedlys foran og/eller alle baklys og/eller alle stopplys er dekket av last 2 000 kr.\nd. uten bruk av påbudt verneutstyr (hjelm, bilbelte) 1 500 kr.\ne. uten forskriftsmessig bruk av kjennemerker 3 000 kr.\nf. med signalhorn som gir lyd med varierende tonehøyde eller styrke 500 kr.\ng. i strid med forbud mot bruk av motorvogn fastsatt i midlertidig vedtak eller forskrift om trafikkregulerende tiltak gitt med hjemmel i vegtrafikkloven § 7 andre ledd som følge av overskridelse eller fare for overskridelse av grenseverdiene i forurensningsforskriften kapittel 7 1 500 kr.\nh. med overlastet kjøretøy med tillatt totalvekt t.o.m. 3500 kg når overlasten utgjør over 30 % eller over 500 kg mer enn tillatt totalvekt 3 000 kr.\ni. med flere personer enn tillatt i eller på kjøretøyet 3 000 kr.\nj. med tilhenger som har påsatt Tempo 100-merke eller merke som enkelt kan forveksles med dette, uten å kunne dokumentere gyldig Tempo 100-godkjenning i Norge eller annet land 2000 kr.\nk. med avregistrert kjøretøy 5 000 kr",
+      "Dersom føreren av kjøretøyet er en annen enn den som var registrert som eier ved overtredelsen, er de solidarisk ansvarlige for bokstav h og k. Likestilt med eier er den som disponerer kjøretøyet ved leie- eller leasingavtale."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 1 okt 2021 nr. 2922, 11 mars 2022 nr. 360, 18 mars 2022 nr. 413 (i kraft 12 sep 2022)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 10a",
+     "tittel": "Alkolås",
+     "ledd": [
+      "Foretaket kan ilegges overtredelsesgebyr på kroner 8 000 dersom kjøretøyet som benyttes til persontransport mot vederlag etter forskrift 30. mai 2018 nr. 777 om alkolås, alkolåsverksteder mv. § 2 første ledd ikke har i installert alkolås i kjøretøyet."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 1 mars 2024 nr. 361."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 10b",
+     "tittel": "Avrenning",
+     "ledd": [
+      "Foretaket og fører kan ilegges overtredelsesgebyr for overtredelse av forskrift 25. januar 1990 nr. 92 om bruk av kjøretøy § 3-2 nr. 3 bokstav b ved kjøring med avrenning fra gods.\nFører: 2 000 kr.\nForetak: 20 000 kr."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 18 sep 2026 nr. 1814."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Overtredelser av reglene for kjøre- og hviletid",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 11",
+     "tittel": "Kjøretider",
+     "ledd": [
+      "Foretaket og fører kan ilegges overtredelsesgebyr for følgende overtredelser:\na. overskridelse av daglig kjøretid på 9 timer, der det ikke er tillatt å forlenge kjøretiden til 10 timer, for kjøringen fra og med 10 timer til 11 timer\nFører: 1 000 kr.\nForetak: 2 000 kr.\nb. overskridelse av daglig kjøretid på 10 timer, der det er tillatt å forlenge kjøretiden til 10 timer, for kjøringen fra og med 11 timer til 12 timer\nFører: 1 000 kr.\nForetak: 2 000 kr.\nc. overskridelse av ukentlig kjøretid på over 56 timer, for kjøringen fra og med 60 timer til 65 timer\nFører: 2 000 kr.\nForetak: 4 000 kr.\nd. overskridelse av samlet kjøretid i løpet av to påfølgende uker på over 90 timer, for kjøringen fra og med 100 timer til 105 timer.\nFører: 2 000 kr.\nForetak: 4 000 kr."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 12",
+     "tittel": "Pauser",
+     "ledd": [
+      "Foretaket og fører kan ilegges overtredelsesgebyr for overskridelse av uavbrutt kjøretid på 4,5 timer, for kjøringen fra og med 5 timer til 6 timer.\nFører: 1000 kr.\nForetak: 2000 kr."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 13",
+     "tittel": "Hviletider",
+     "ledd": [
+      "Foretaket og fører kan ilegges overtredelsesgebyr for følgende overtredelser:\na. ved utilstrekkelig døgnhvil på mindre enn 11 timer, dersom redusert døgnhvil ikke er tillatt, fra og med 8,5 timer til 10 timer\nFører: 1 000 kr.\nForetak: 2000 kr.\nb. ved utilstrekkelig døgnhvil på mindre enn 9 timer, dersom redusert døgnhvil er tillatt, fra og med 7 timer til 8 timer\nFører: 1 000 kr.\nForetak: 2 000 kr.\nc. ved utilstrekkelig oppdelt døgnhvil på mindre enn 3 + 9 timer, for oppdelt døgnhvil på 3 timer + fra og med 7 timer til 8 timer\nFører: 1 000 kr.\nForetak: 2 000 kr\nd. ved utilstrekkelige døgnhvil på mindre enn 9 timer for flermannsbetjening, fra og med 7 timer til 8 timer\nFører: 1 000 kr.\nForetak: 2 000 kr.\ne. ved utilstrekkelig redusert ukehvil på mindre enn 24 timer, fra og med 20 timer til 22 timer\nFører: 2 000 kr.\nForetak: 4 000 kr.\nf. ved utilstrekkelig normal ukehvil på mindre enn 45 timer, hvis en redusert ukehvil ikke er tillatt, fra og med 36 timer til 42 timer\nFører: 2 000 kr.\nForetak: 4 000 kr.\ng. ved overskridelse av 6 påfølgende 24-timersperioder, etter avslutning av forutgående ukehvil (144 timer), fra og med 147 timer til 156 timer.\nFører: 2 000 kr.\nForetak: 4 000 kr."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 14",
+     "tittel": "Overskridelse av 12-dagersregelen ved internasjonal persontransport utenfor rute",
+     "ledd": [
+      "Foretaket og fører kan ilegges overtredelsesgebyr for følgende overtredelser:\na. ved overskridelse av 12 påfølgende 24-timersperioder etter forutgående regulær ukehvil, fra og med 291 timer til 300 timer\nFører: 2 000 kr.\nForetak: 4 000 kr.\nb. ved utilstrekkelig hviletid etter 12 påfølgende 24-timersperioder, fra 65 timer til og med 67 timer\nFører: 2 000 kr.\nForetak: 4 000 kr.\nc. ved overskridelse av kjøretiden i perioden mellom kl. 22:00 og 06:00 på mer enn tre timer før pause, dersom kjøretøyet ikke har mer enn én fører, fra 3 timer til 4,5 timer.\nFører: 1000 kr.\nForetak: 2000 kr."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 15",
+     "tittel": "Feil bruk av diagramskive eller sjåførkort ved flerbemanning",
+     "ledd": [
+      "Foretaket og fører kan ilegges overtredelsesgebyr der det ikke er benyttet riktig diagramskive, eller sjåførkortet ikke er satt riktig på plass ved flerbemanning.\nFører: 1 000 kr.\nForetak: 2 000 kr."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-6",
+     "nummer": "§ 16",
+     "tittel": "Gebyrtak",
+     "ledd": [
+      "Det ilegges ett overtredelsesgebyr per overtredelse.",
+      "Samlet gebyr for en kontrollperiode for kjøre- og hviletid kan ikke overstige 20 000 kr for fører. For foretak kan gebyret ikke overstige 40 000 kr per fører."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-7",
+     "nummer": "§ 17",
+     "tittel": "Der fører og foretak er samme person",
+     "ledd": [
+      "Der foretak og fører er samme person ilegges overtredelsesgebyr kun til fører."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Sluttbestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 18",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Forskriften trer i kraft 1. september 2021. Samtidig oppheves forskrift 17. september 1993 nr. 855 om gebyr for visse overtredelser av vegtrafikklovgivningen.",
+      "Forskriften § 10 bokstav i) og kapittel 1 trer i kraft 18. mai 2021."
+     ],
+     "endringer": [
+      "Endret ved forskrift 7 mai 2021 nr. 1413."
+     ]
+    }
+   ]
+  }
+ ]
+}

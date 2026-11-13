@@ -1,0 +1,179 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2003-08-01-990",
+ "dokumentid": "SF/forskrift/2003-08-01-990",
+ "departement": [
+  "Digitaliserings- og forvaltningsdepartementet"
+ ],
+ "etat": [
+  "Avdeling for digitaliseringspolitikk"
+ ],
+ "kunngjort_i": "I 2003 hefte 11",
+ "ikraft": "2003-10-01",
+ "siste_endring_ikraft": "2019-05-03",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2019-05-03-560",
+   "tekst": "forskrift/2019-05-03-560"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2003-07-04-83/§7-1",
+   "tekst": "lov/2003-07-04-83/§7-1"
+  },
+  {
+   "ref": "lov/2003-07-04-83/§10-1",
+   "tekst": "lov/2003-07-04-83/§10-1"
+  },
+  {
+   "ref": "lov/2024-12-13-76/§18-2",
+   "tekst": "lov/2024-12-13-76/§18-2"
+  }
+ ],
+ "kunngjort": "2003-08-01",
+ "siste_rettelse": "2025-05-20 (hjemmel)",
+ "korttittel": "Domeneforskriften",
+ "tittel": "Forskrift om domenenavn under norske landkodetoppdomener (domeneforskriften)",
+ "annet": "Hjemmel: Fastsatt ved Kronprinsreg.res. 1. august 2003 med hjemmel i lov av 4. juli 2003 nr. 83 om elektronisk kommunikasjon (ekomloven) § 7-1 og § 10-1 annet ledd. Fremmet av Samferdselsdepartementet.\nTilføyd hjemmel: Lov 13. desember 2024 nr. 76 om elektronisk kommunikasjon (ekomloven) § 18-2.\nEndret ved forskrift 3 mai 2019 nr. 560 (departementsendring).\nRettet 04.01.2024 (departementstilhørighet), 20.05.2025 (hjemmel).",
+ "refid": "forskrift/2003-08-01-990",
+ "eli": "/eli/forskrift/2003/08/01/990",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2003-08-01-990",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Formål",
+   "ledd": [
+    "Formålet med denne forskriften er å fastlegge offentligrettslige rammebetingelser for virksomhet som tildeler domenenavn under norske landkodetoppdomener."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Definisjoner",
+   "ledd": [
+    "I denne forskrift menes med:\na. landkodetoppdomene: det øverste domenet i hierarkiet i det globale domenenavnsystemet i henhold til 2-bokstavkoder under ISO 3166-1 standarden,\nb. registerenhet: ethvert foretak som i henhold til overenskomst med den internasjonale forvalter av toppdomener, har rett til å fordele domenenavn under norske landkodetoppdomener,\nc. registrar: en virksomhet som har inngått avtale med en registerenhet om adgang til å sende inn søknader og endringsmeldinger til registerenheten på vegne av søkere/innehavere av domenenavn under de norske landkodetoppdomenene,\nd. Domeneklagenemnda: en klagenemnd for domenenavn under de norske landkodetoppdomenene,\ne. registreringsdata: data om søker og søkers virksomhet som avkreves i forbindelse med søknad og endringsmeldinger."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Regler for tildeling av domenenavn",
+   "ledd": [
+    "Hvert norske landkodetoppdomene administreres av kun én registerenhet som fastsetter regler for tildeling av domenenavn (navnepolitikk) for dette landkodetoppdomenet. Registerenheten utøver ikke forvaltningsmyndighet og tildelingen skjer etter privatrettslige regler.",
+    "Tildelingsreglene skal være offentlig tilgjengelig og som et minimum utformes slik at de:\na. sikrer kostnadseffektivitet,\nb. sikrer høy teknisk kvalitet,\nc. er ikke-diskriminerende,\nd. ivaretar åpenhet,\ne. ivaretar forutberegnelighet,\nf. ivaretar interessene til internettbrukere, enkeltvis og som fellesskap, og\ng. ivareta nasjonale interesser og tar hensyn til internasjonal utvikling på Internett-området.",
+    "Før vedtakelse og vesentlig endring av tildelingsreglene skal det innhentes synspunkter fra brukernes representanter og myndighetene. Post- og teletilsynet skal informeres om alle endringer."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Egenerklæring",
+   "ledd": [
+    "Registerenheten skal kreve at den som søker om registrering av domenenavn under de norske landkodetoppdomener avgir en erklæring som inneholder søkers bekreftelse på at registrering og/eller bruk av navnet som søkes registrert:\na. ikke er i strid med tildelingsreglene, jf. § 3,\nb. ikke er i strid med norsk rett,\nc. ikke er i strid med tredjepersons rettigheter,\nd. ikke uberettiget gir inntrykk av å angå offentlig forvaltning eller myndighetsutøvelse.",
+    "Registerenheten skal sørge for at søkeren i egenerklæringen samtykker til at\na. tvister skal kunne behandles av en domeneklagenemnd,\nb. registerenheten skal kunne trekke tilbake et tildelt domenenavn når det er åpenbart at tildelingen er i strid med første ledd.",
+    "I kontrakten mellom registerenheten og søkeren skal det tas inn bestemmelser som begrenser registerenhetens bruk av registreringsdataene i forbindelse med registrering og opprettholdelse av domenenavn."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Registrarer",
+   "ledd": [
+    "Registerenheten skal overlate deler av registreringsprosessen, herunder formidling av søknader og endringsmeldinger på vegne av søkere og innehavere av domenenavn, til registrarer, og skal fremme konkurranse mellom disse ved å gi samme vilkår til alle registrarer."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "Sikkerhetskopi",
+   "ledd": [
+    "Registerenheten skal sørge for nødvendige sikkerhetseksemplarer av alle registreringsdata. Sikkerhetseksemplarene skal håndteres på en sikker måte og slik at brukerne ikke blir unødig skadelidende."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 7",
+   "tittel": "Klageordninger",
+   "ledd": [
+    "Registerenheten er forpliktet til å etablere en domeneklagenemnd. Dersom det er flere registerenheter skal de etablere en felles klagenemnd.",
+    "Klagenemnda skal gis mandat til å behandle klager:\na. fra søker over registerenhetens avgjørelser,\nb. fra innehaver over registerenhetens avgjørelser,\nc. fra registerenheten over at navn er registrert i strid med egenerklæringen, jf. § 4 første ledd,\nd. fra tredjeperson, jf. § 4 første ledd bokstav c,\ne. fra offentlige organ, jf. § 4 første ledd bokstav d, og\nf. fra Post- og teletilsynet over at domenenavn er registrert i strid med denne forskriften.",
+    "Klagenemnda skal gis anledning til å avvise en klage etter nærmere fastsatte regler.",
+    "Registerenheten har plikt til umiddelbart å rette seg etter klagenemndas avgjørelser.",
+    "Registerenheten skal sørge for at domenenavnet ikke kan overdras dersom mekling er begjært og mens saken er til behandling for Domeneklagenemnda.",
+    "Registerenheten kan finansiere Domeneklagenemnda gjennom et påslag på registreringsgebyret og egenandel fra klageren.",
+    "Registerenheten gir prosedyrer for klagenemnda i tråd med prinsippene i denne forskriften.",
+    "Registerenheten skal innhente synspunkter fra brukernes representanter og myndighetene før vedtakelse og vesentlig endring av prosedyrene og før nemndas medlemmer utpekes. Post- og teletilsynet skal informeres om alle endringer.",
+    "Klagenemndas avgjørelser er offentlige, med unntak av opplysninger som gjelder tekniske innretninger og fremgangsmåter samt drift- og forretningsforhold som det vil være av konkurransemessig betydning å hemmeligholde av hensyn til den som opplysningen angår.",
+    "Klagenemnda skal behandle tvister knyttet til domenenavn registrert etter at denne forskriften har trådt i kraft."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-8",
+   "nummer": "§ 8",
+   "tittel": "Klagefrist",
+   "ledd": [
+    "Klager etter § 7 annet ledd bokstav a og b må fremsettes innen en måned fra søker eller innehaver fikk melding om registerenhetens avgjørelse. Andre klager etter § 7 annet ledd må fremsettes senest 3 år etter at domenenavnet ble registrert."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-9",
+   "nummer": "§ 9",
+   "tittel": "Tilsyn og kontroll",
+   "ledd": [
+    "Post- og teletilsynet fører tilsyn med at bestemmelsene i denne forskriften overholdes, jf. ekomloven § 10-1.",
+    "Dersom en registerenhet ikke oppfyller kravene i denne forskriften kan Post- og teletilsynet påby at ulovlige forhold rettes, eller at virksomheten skal opphøre, innen en fastsatt frist, jf. ekomloven § 10-6."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-10",
+   "nummer": "§ 10",
+   "tittel": "Avvikling",
+   "ledd": [
+    "Ved avvikling av virksomheten skal registerenheten legge til rette for at registreringsvirksomheten i størst mulig grad kan fortsette som før. Registerenheten skal sørge for at alle registreringsdata overføres til en ny registerenhet som oppfyller forskriftens krav. Dersom det på avviklingstidspunktet ikke foreligger et foretak som oppfyller forskriftens krav, skal Post- og teletilsynet selv overta registerenhetens oppgaver inntil en ny registerenhet er etablert.",
+    "Post- og teletilsynet kan selv avgjøre om driften i interimsperioden skal foregå i samsvar med den avviklede registerenhetens tildelingsregler, jf. § 3, og regler om klageorgan, jf. § 7, eller om det skal fastsettes nye. I interimsperioden er Post- og teletilsynet bundet av denne forskriften så langt den passer."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-11",
+   "nummer": "§ 11",
+   "tittel": "Dispensasjon",
+   "ledd": [
+    "Post- og teletilsynet kan dispensere fra bestemmelser i denne forskrift når særlige hensyn tilsier det."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-12",
+   "nummer": "§ 12",
+   "tittel": "Sanksjoner",
+   "ledd": [
+    "Post- og teletilsynet kan ilegge tvangsmulkt etter ekomloven § 10-7.",
+    "Brudd på forskriften straffes etter ekomloven § 12-4."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-13",
+   "nummer": "§ 13",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Forskriften trer i kraft 1. oktober 2003."
+   ]
+  }
+ ]
+}

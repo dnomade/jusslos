@@ -1,0 +1,214 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2025-11-25-2329",
+ "dokumentid": "SF/forskrift/2025-11-25-2329",
+ "departement": [
+  "Forsvarsdepartementet"
+ ],
+ "etat": [
+  "Militær luftfartsmyndighet"
+ ],
+ "ikraft": "2025-11-25",
+ "hjemmel": [
+  {
+   "ref": "forskrift/2015-02-13-123/§6",
+   "tekst": "forskrift/2015-02-13-123/§6"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§17-12",
+   "tekst": "lov/1993-06-11-101/§17-12"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§17-13",
+   "tekst": "lov/1993-06-11-101/§17-13"
+  }
+ ],
+ "kunngjort": "2025-11-26 14:10",
+ "tittel": "Forskrift om militær luftfartsmyndighets krav til bemanning av militære luftfartøy",
+ "annet": "Hjemmel: Fastsatt av militær luftfartsmyndighet 25. november 2025 med hjemmel i forskrift 13. februar 2015 nr. 123 om militær luftfartsmyndighet § 6 andre ledd.",
+ "refid": "forskrift/2025-11-25-2329",
+ "eli": "/eli/forskrift/2025/11/25/2329",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2025-11-25-2329",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Formål, virkeområde og definisjoner",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Formål",
+     "ledd": [
+      "Forskriften har som formål å fastsette militær luftfartsmyndighets krav til bemanning av norske militære luftfartøy og tjenesten om bord, samt krav til besetningsmedlemmer."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Forskriften gjelder all luftfart med norske militære luftfartøy i Norge, herunder bruk av militære ubemannede luftfartøysystemer.",
+      "Forskriften gjelder også for luftfart med norsk militært luftfartøy utenfor Norge med mindre annet følger av forskriften. Anvendelsen gjelder likevel bare dersom dette er forenlig med fremmed rett som får anvendelse etter avtale med fremmed stat, folkerettslige forpliktelser eller alminnelige rettsgrunnsetninger."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "I denne forskriften menes med:\na. Luftpersonell: Personell som har fullført godkjent grunnutdanning (sertifisering) i henhold til Luftforsvarets krav, og som innehar rett til å bære en av Luftforsvarets vinger.\nb. Besetning eller besetningsmedlem: Luftpersonell som er kvalifisert til å manøvrere luftfartøyet, betjene systemer om bord og/eller har en funksjon om bord som har betydning for flyets sikkerhet i luften.\nc. Personell beordret til spesiell tjeneste: Personell (militært/sivilt) som etter behov kan beordres på oppdrag om bord i militære luftfartøy.\nd. Fagmyndighet for luftmilitær virksomhet: Sjef Luftforsvaret er delegert fagmyndighet for luftmilitær virksomhet av Forsvarssjefen.\ne. Operatør: Forsvaret og Forsvarsmateriell, eller andre etater i sektoren etter godkjenning fra militær luftfartsmyndighet."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Bemanning og tjenesten om bord",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 4",
+     "tittel": "Bemanning på militært luftfartøy",
+     "ledd": [
+      "Luftfartøyet skal være bemannet på betryggende måte. Operatøren skal påse at luftfartøyet er behørig bemannet.",
+      "Fagmyndighet for luftmilitær virksomhet skal fastsette krav til minimumsbemanning for de respektive luftfartøyene. Militær luftfartsmyndighet skal godkjenne at kravene til minimumsbemanning er tilstrekkelig betryggende."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 5",
+     "tittel": "Krav til flyoperativ helse, miljø og sikkerhet",
+     "ledd": [
+      "Operatøren er ansvarlig for å legge til rette for et forsvarlig flyoperativt arbeidsmiljø for personell om bord i luftfartøyet. Med flyoperativt arbeidsmiljø menes forhold om helse, miljø og sikkerhet som angår militær luftfart.",
+      "De nærmere krav til tilrettelegging og gjennomføring av tiltak og forbedringer fastsettes av fagmyndighet for luftmilitær virksomhet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 6",
+     "tittel": "Krav til tjenestegjørende på militære luftfartøy",
+     "ledd": [
+      "Besetningsmedlemmer eller personell beordret til spesiell tjeneste på militære luftfartøy må oppfylle de vilkår militær luftfartsmyndighet oppstiller.",
+      "Det er fagmyndighet for luftmilitær virksomhet som fastsetter de særskilte kravene med hensyn til statsborgerforhold, alder, fysisk og psykisk skikkethet, medisinske krav, vandel, edruskap, utdanning og øvelse m.m.",
+      "Militær luftfartsmyndighet skal godkjenne kravene fastsatt av fagmyndighet for luftmilitær virksomhet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 7",
+     "tittel": "Krav til sertifisering av besetningsmedlemmer",
+     "ledd": [
+      "Sertifisering for tjeneste på militært luftfartøy gis av militær luftfartsmyndighet eller den de bemyndiger. Slik sertifisering gis til den som godtgjør at vedkommende fyller de fastsatte vilkår og krav for den tjeneste sertifiseringen gjelder.",
+      "Fagmyndighet for luftmilitær virksomhet skal fastsette hvilke vilkår og krav som stilles til de respektive besetningsmedlemmer. Operatøren skal ha et system for å dokumentere at besetningsmedlemmer oppfyller kravene stilt av fagmyndighet for luftmilitær virksomhet.",
+      "Militær luftfartsmyndighet skal godkjenne vilkår og krav som er fastsatt av fagmyndighet for luftmilitær virksomhet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 8",
+     "tittel": "Krav til sertifisering av utenlandske militære besetningsmedlemmer",
+     "ledd": [
+      "Militær luftfartsmyndighet eller den myndigheten bemyndiger, skal godkjenne sertifisering gitt i fremmed stat før utenlandske besetningsmedlemmer kan tjenestegjøre på norske militære luftfartøy."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-6",
+     "nummer": "§ 9",
+     "tittel": "Tilbakekalling av sertifisering",
+     "ledd": [
+      "Militær luftfartsmyndighet eller den myndigheten bemyndiger, kan tilbakekalle sertifisering for bestemt tid eller for resten av gyldighetstiden, dersom innehaveren i eller utenfor tjeneste gjør seg skyldig i lovbrudd av betydning for denne eller om vedkommende ellers ikke fyller vilkårene for å gjøre den tjeneste sertifiseringen gjelder. Når en sertifisering er tilbakekalt for bestemt tid eller resten av gyldighetstiden, skal dette registreres av militær luftfartsmyndighet.",
+      "Når det er grunn til å anta at det foreligger et forhold som kan begrunne tilbakekalling av sertifisering, skal sertifiseringen midlertidig settes ut av kraft inntil spørsmålet om tilbakekalling er avgjort. Fagmyndighet for luftmilitær virksomhet skal fastsette vilkår og prosedyrer for å sette sertifisering midlertidig ut av kraft for besetningsmedlemmer."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Fartøysjefens myndighet og ansvar",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 10",
+     "tittel": "Krav til fartøysjef",
+     "ledd": [
+      "Det skal angis en fartøysjef på luftfartøyet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 11",
+     "tittel": "Fartøysjefens myndighet",
+     "ledd": [
+      "Fartøysjefen har høyeste myndighet om bord i relasjon til sikkerhet. Dette gjelder uavhengig av de ombordværendes grad eller status."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 12",
+     "tittel": "Fartøysjefens ansvar og plikter",
+     "ledd": [
+      "Fartøysjefen skal påse at luftfartøyet er luftdyktig og behørig utrustet, bemannet og lastet, og at flygingen ellers forberedes og gjennomføres i samsvar med gjeldende bestemmelser.",
+      "Fartøysjefen plikter å gi melding om forhold av betydning for luftdyktigheten til operatøren. Fartøysjefen plikter videre å gi melding om forhold av betydning for besetningsmedlemmers tjenestedyktighet til militær luftfartsmyndighet.",
+      "Fartøysjefen er ansvarlig for opprettholdelse av ro og orden om bord i fartøyet."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Særbestemmelse, dispensasjon og ikrafttredelse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 13",
+     "tittel": "Særbestemmelse",
+     "ledd": [
+      "Forsvaret kan, hvor formålet er militære operasjoner som gjør dette nødvendig, inkludert ulykker, krise og krig, påbegynne eller fortsette flyging selv om krav i denne forskriften ikke er oppfylt.",
+      "Forsvaret skal ha dokumenterte prosedyrer for planlegging og utførelse av slike operasjoner. Prosedyrene skal som et minimum inneholde en risikovurdering og beskrive tiltak ved slike operasjoner.",
+      "Den militære luftfartsmyndigheten er godkjenningsmyndighet for Forsvarets prosedyrer."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 14",
+     "tittel": "Rett til å dispensere",
+     "ledd": [
+      "Militær luftfartsmyndighet kan etter søknad dispensere fra bestemmelsene i denne forskriften. Søknad om dispensasjon fremmet til militær luftfartsmyndighet skal som et minimum inneholde en risikovurdering og en vurdering av eventuelle sikkerhetskompenserende tiltak for dispensasjon."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 15",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Forskriften trer i kraft straks."
+     ]
+    }
+   ]
+  }
+ ]
+}

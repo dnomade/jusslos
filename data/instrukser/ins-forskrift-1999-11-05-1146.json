@@ -1,0 +1,177 @@
+{
+ "skjema": "1.0",
+ "type": "instruks",
+ "datokode": "FOR-1999-11-05-1146",
+ "dokumentid": "INS/forskrift/1999-11-05-1146",
+ "departement": [
+  "Forsvarsdepartementet"
+ ],
+ "etat": [
+  "FDI Fellesavd."
+ ],
+ "kunngjort_i": "Avd I 1999 2564",
+ "ikraft": "1999-11-05",
+ "siste_endring_ikraft": "2024-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2023-12-18-2278",
+   "tekst": "forskrift/2023-12-18-2278 fra 2024-01-01"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1997-06-13-42/§6",
+   "tekst": "lov/1997-06-13-42/§6"
+  }
+ ],
+ "korttittel": "Instruks om Kystvaktrådet",
+ "tittel": "Instruks om Kystvaktrådets sammensetning, oppgaver og virksomhet.",
+ "annet": "Fastsatt ved Regjeringens res. 5. november 1999 med hjemmel i lov av 13. juni 1997 nr. 42 om Kystvakten (kystvaktloven) § 6. Fremmet av Forsvarsdepartementet.\nEndret ved forskrift 18 des 2023 nr. 2278 (i kraft 1 jan 2024).",
+ "refid": "forskrift/1999-11-05-1146",
+ "eli": "/eli/forskrift/1999/11/05/1146",
+ "url": "https://lovdata.no/dokument/INS/forskrift/1999-11-05-1146",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "delI",
+   "overskrift": "Del I. Formål",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Formålet til Kystvaktrådet",
+     "ledd": [
+      "Kystvaktrådet er et samarbeids- og kontaktorgan som skal behandle og gi råd om spørsmål vedrørende Kystvaktens virksomhet i medhold av lov om Kystvakten.",
+      "Rådet skal også fungere som et forum for gjensidig kontakt og informasjon."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "delII",
+   "overskrift": "Del II. Oppgaver",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 2",
+     "tittel": "Rådgivende funksjon",
+     "ledd": [
+      "Kystvaktrådet skal være et rådgivende organ for Forsvarsdepartementet.",
+      "Kystvaktrådet skal avgi råd til Forsvarsdepartementet om saker som berører Kystvaktens virksomhet, herunder forslag til langtidsplaner og årlige budsjetter med det formål å bidra til en bedret ressursbruk innenfor gjeldende rammer. Videre bør Kystvaktrådet blant annet gi råd vedrørende:\na. prioritering av eksisterende ressurser og arbeidsoppgaver;\nb. Kystvaktens engasjement i nye arbeidsoppgaver;\nc. prioritering ved materiellanskaffelser, herunder fremtidige statlige fartøysprosjekter."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 3",
+     "tittel": "Uttalelser",
+     "ledd": [
+      "Kystvaktrådet kan avgi uttalelse om ethvert spørsmål vedrørende kystvaktens tjeneste enten etter anmodning fra vedkommende myndighet, eller når rådet selv finner det formålstjenlig.",
+      "Uttalelser fra Kystvaktrådet utgjør innspill til den formelle saksbehandling i linjeorganisasjonen og endrer ikke de formelle ansvarsforhold."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "delIII",
+   "overskrift": "Del III. Sammensetning",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 4",
+     "tittel": "Representasjon",
+     "ledd": [
+      "Forsvarsdepartementet ivaretar leder- og sekretariatsfunksjon for Kystvaktrådet.",
+      "Videre skal rådet bestå av en representant (og vararepresentant) fra følgende departementer/etater:\na. Utenriksdepartementet;\nb. Justis- og politidepartementet;\nc. Nærings- og handelsdepartementet;\nd. Fiskeridepartementet;\ne. Fiskeridirektoratet;\nf. Finansdepartementet;\ng. Miljøverndepartementet;\nh. Kommunal- og regionaldepartementet;\ni. Energidepartementet;\nj. Påtalemyndigheten;\nk. Forsvarets overkommando/ Kystvaktinspektøren.",
+      "Forsvarsdepartementet kan foreta endringer i rådets sammensetning etter forutgående diskusjon i rådet."
+     ],
+     "endringer": [
+      "Endret ved forskrift 18 des 2023 nr. 2278 (i kraft 1 jan 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 5",
+     "tittel": "Oppnevning",
+     "ledd": [
+      "Departementene/etatene oppnevner egne representanter. Departementene kan være representert ved underliggende etater."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 6",
+     "tittel": "Øvrig deltakelse",
+     "ledd": [
+      "Når Kystvaktrådet behandler en sak som hører under et departement som ikke er representert i utvalget, kan representanter for vedkommende departement eller underliggende etat i allminnelighet inviteres av rådets leder.",
+      "Også representanter for norske næringer og organisasjoner hvis interesser er berørt kan inviteres til Kystvaktrådet av rådets leder."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "delIV",
+   "overskrift": "Del IV. Virksomhet",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 7",
+     "tittel": "Forretningsorden og forberedende arbeid",
+     "ledd": [
+      "Kystvaktrådet fastsetter selv sin forretningsorden.",
+      "Den instans som ønsker at en sak skal behandles i Kystvaktrådet må utarbeide det nødvendige beslutningsgrunnlag og utkast til eventuell uttalelse fra rådet.",
+      "Sekretariatet og Kystvaktinspektoratet lager bakgrunnsmateriale og utarbeider forslag til uttalelse i saker av en mer generell karakter, og til enkeltsaker hvor Forsvarsdepartementet/Forsvaret er tillagt fagansvar."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 8",
+     "tittel": "Møtehyppighet",
+     "ledd": [
+      "Kystvaktrådet møtes normalt to ganger årlig."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 9",
+     "tittel": "Godtgjørelse",
+     "ledd": [
+      "Representantene i Kystvaktrådet gis godtgjørelse etter komitéregulativet."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "delV",
+   "overskrift": "Del V. Ikrafttredelse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 10",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Denne instruks trer i kraft straks."
+     ]
+    }
+   ]
+  }
+ ]
+}

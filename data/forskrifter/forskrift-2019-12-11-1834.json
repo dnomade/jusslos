@@ -1,0 +1,66 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2019-12-11-1834",
+ "dokumentid": "SF/forskrift/2019-12-11-1834",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "etat": [
+  "Kystverket"
+ ],
+ "ikraft": "2020-01-01",
+ "siste_endring_ikraft": "2024-10-10",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2024-10-04-2393",
+   "tekst": "forskrift/2024-10-04-2393 fra 2024-10-10"
+  }
+ ],
+ "endrer": "forskrift/2009-11-30-1477",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2019-06-21-70/§7",
+   "tekst": "lov/2019-06-21-70/§7"
+  },
+  {
+   "ref": "forskrift/2021-03-26-1180",
+   "tekst": "forskrift/2021-03-26-1180"
+  }
+ ],
+ "kunngjort": "2019-12-18 16:40",
+ "siste_rettelse": "2022-01-04 (lenke til kystinfo.no)",
+ "korttittel": "Farledsforskriften",
+ "tittel": "Forskrift om farleder (farledsforskriften)",
+ "annet": "Hjemmel: Fastsatt av Samferdselsdepartementet 11. desember 2019 med hjemmel i lov 21. juni 2019 nr. 70 om havner og farvann (havne- og farvannsloven) § 7.\nTilføyd hjemmel: delegeringsvedtak 26. mars 2021 nr. 1180.\nForskriften gjelder ikke på Svalbard, jf. forskrift 12 mars 2021 nr. 721 § 2.\nEndret ved forskrifter 13 des 2021 nr. 3589 (i kraft 1 jan 2022), 12 okt 2022 nr. 1742 (i kraft 1 nov 2022), 25 aug 2023 nr. 1355 (i kraft 1 sep 2023), 4 okt 2024 nr. 2393 (i kraft 10 okt 2024).\nRettet 01.01.2021 (lenke i § 1 andre ledd endret), 01.01.2022 (tegnsetting i lister tilpasset universell utforming), 04.01.2022 (lenke til kystinfo.no), 18.10.2022 (lenke til kystinfo.no).",
+ "refid": "forskrift/2019-12-11-1834",
+ "eli": "/eli/forskrift/2019/12/11/1834",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2019-12-11-1834",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Fastsettelse av hovedleder og bileder",
+   "ledd": [
+    "Denne forskriften fastsetter hovedleder og bileder etter havne- og farvannsloven.",
+    "Hvilke farleder som er hovedleder og bileder fremkommer i Kystverkets digitale kart Kystinfo. Kystinfo gjelder som en del av denne forskriften, og angir\na. hovedledenes og biledenes arealmessige utstrekning, og\nb. hovedledenes og biledenes ledstreker med angivelse av lednummer.",
+    "Alle koordinater er oppgitt i koordinatsystemet WGS84."
+   ],
+   "endringer": [
+    "Endret ved forskrifter 13 des 2021 nr. 3589 (i kraft 1 jan 2022), 12 okt 2022 nr. 1742 (i kraft 1 nov 2022), 25 aug 2023 nr. 1355 (i kraft 1 sep 2023), 4 okt 2024 nr. 2393 (i kraft 10 okt 2024)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Ikraftsetting",
+   "ledd": [
+    "Forskriften trer i kraft 1. januar 2020.",
+    "Fra samme tidspunkt oppheves forskrift 30. november 2009 nr. 1477 om farleder."
+   ]
+  }
+ ]
+}

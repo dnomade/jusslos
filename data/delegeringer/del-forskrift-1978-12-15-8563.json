@@ -1,0 +1,60 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-1978-12-15-8563",
+ "dokumentid": "DEL/forskrift/1978-12-15-8563",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Kredittilsynet"
+ ],
+ "kunngjort_i": "I 1978 s 883",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1976-06-04-59/§19-3",
+   "tekst": "lov/1976-06-04-59/§19-3"
+  },
+  {
+   "ref": "lov/1976-06-11-71/§2",
+   "tekst": "lov/1976-06-11-71/§2"
+  },
+  {
+   "ref": "lov/1976-06-11-71/§17",
+   "tekst": "lov/1976-06-11-71/§17"
+  }
+ ],
+ "korttittel": "Delegering etter aksjeloven",
+ "tittel": "Forskrift om delegering av myndighet etter lov om aksjeselskaper og endring i vedtak om delegasjon etter lov om finansieringsmyndighet.",
+ "annet": "Fastsatt ved kgl.res. av 15. des. 1978. Fremmet av Justis- og politidepartementet.",
+ "refid": "forskrift/1978-12-15-8563",
+ "eli": "/eli/forskrift/1978/12/15/8563",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/1978-12-15-8563",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I.",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Kongens myndighet etter lov 4. juni 1976 nr. 59 om aksjeselskaper § 19-3 nr. 13 annet punktum legges til Handelsdepartementet."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II.",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "I kgl. resolusjon 11. juni 1976 om delegasjon av myndighet etter lov 11. juni 1976 nr. 71 om finansieringsvirksomhet gjøres på vedkommende sted følgende tilføyelser i opprekningen over paragrafer hvor Kongens myndighet etter loven delegeres til Finansdepartementet:\n§ 2 tredje ledd og § 17 femte ledd."
+    }
+   ]
+  }
+ ]
+}

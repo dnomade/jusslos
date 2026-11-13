@@ -1,0 +1,164 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2003-05-30-661",
+ "dokumentid": "SF/forskrift/2003-05-30-661",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "etat": [
+  "Mattilsynet"
+ ],
+ "kunngjort_i": "I 2003 hefte 8",
+ "ikraft": "2003-05-30",
+ "siste_endring_ikraft": "2004-02-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2004-01-30-350",
+   "tekst": "forskrift/2004-01-30-350 fra 2004-02-01"
+  }
+ ],
+ "endrer": "forskrift/2001-01-31-97\nforskrift/1997-12-31-1470\nforskrift/2000-12-29-1594",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2003-12-19-124/§23",
+   "tekst": "lov/2003-12-19-124/§23"
+  },
+  {
+   "ref": "lov/2003-12-19-124/§12",
+   "tekst": "lov/2003-12-19-124/§12"
+  }
+ ],
+ "kunngjort": "2003-06-06",
+ "korttittel": "Forskrift om innførsel av akvatiske dyr mm",
+ "tittel": "Forskrift om særskilte beskyttelsestiltak ved innførsel av akvatiske dyr og produkter av disse.",
+ "annet": "Fastsatt av Landbruksdepartementet 30. mai 2003 med hjemmel i lov av 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) § 23 tredje ledd, jf. § 12 bokstav c. Jf. EØS-avtalen vedlegg I (vedtak 2003/71/EF, vedtak 2003/392/EF og vedtak 2003/70/EF). Endret 15 jan 2004 nr. 336 (bl.a hjemmel), 30 jan 2004 nr. 350 (bl.a tittel og hjemmel).",
+ "refid": "forskrift/2003-05-30-661",
+ "eli": "/eli/forskrift/2003/05/30/661",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2003-05-30-661",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Formål",
+   "ledd": [
+    "Formålet med denne forskriften er å beskytte akvatiske dyr mot spredning av smittsom sykdom."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Virkeområde",
+   "ledd": [
+    "Forskriften gjelder for norsk land- og sjøterritorium, norske luft- og sjøfartøyer, innretninger på norsk kontinentalsokkel, Svalbard, Jan Mayen, bilandene, i Norges økonomiske sone, fiskerisonen ved Jan Mayen og fiskevernsonen ved Svalbard.",
+    "Forskriften retter seg mot enhver som innfører akvatiske dyr og/eller produkter av disse."
+   ],
+   "endringer": [
+    "Endret ved forskrifter 15 jan 2004 nr. 336, 30 jan 2004 nr. 350 (i kraft 1 feb 2004)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Forbud og vilkår ved innførsel",
+   "ledd": [
+    "Det er forbudt å innføre levende fisk tilhørende laksefamilien Salmonidae med opprinnelse på Færøyene.",
+    "Levende rogn av fisk tilhørende familien Salmonidae med opprinnelse på Færøyene, kan innføres hvis rognen er blitt desinfisert[1] to ganger, på grønneggstadiet og øyerognstadiet. Forsendelsen skal følges av et helsesertifikat etter modell i vedtak 2003/71/EF vedlegg I.",
+    "Melke av fisk tilhørende familien Salmonidae med opprinnelse på Færøyene, kan innføres. Forsendelsen skal følges av et helsesertifikat etter modell i vedtak 2003/71/EF vedlegg I.",
+    "Slaktet usløyd fisk av artene atlantisk laks (Salmo salar), sjøørret (Salmo trutta) og regnbueørret (Oncorhynchus mykiss) med opprinnelse på Færøyene skal følges av et helsesertifikat etter modell i vedtak 2003/71/EF, Annex II."
+   ],
+   "endringer": [
+    "Endret ved forskrift 15 jan 2004 nr. 336."
+   ],
+   "fotnoter": [
+    {
+     "nr": "1",
+     "tekst": "Desinfeksjon skal foretas i samsvar med Section 5.2, Appendix 5.2.1 of the International Aquatic Animal Health Code of the International Office of Epizootic Diseases, Third edition 2000."
+    }
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Dispensasjon",
+   "ledd": [
+    "Mattilsynet kan gi tillatelse til unntak fra § 3 ved innførsel av prøver av akvatiske dyr og produkter av disse til vitenskapelig bruk, samt sette vilkår for slikt unntak, forutsatt at det ikke vil stride mot Norges internasjonale forpliktelser, herunder EØS-avtalen."
+   ],
+   "endringer": [
+    "Endret ved forskrifter 15 jan 2004 nr. 336, 30 jan 2004 nr. 350 (i kraft 1 feb 2004, tidligere § 5)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Tilsyn og vedtak",
+   "ledd": [
+    "Mattilsynet fører tilsyn og fatter vedtak for å gjennomføre bestemmelsene gitt i og i medhold av denne forskriften i samsvar med matloven § 23 om tilsyn og vedtak og kan herunder treffe vedtak etter § 24 om særskilt smittesanering, § 25 om stenging og virksomhetskarantene og § 26 om tvangsmulkt."
+   ],
+   "endringer": [
+    "Endret ved forskrifter 15 jan 2004 nr. 336, 30 jan 2004 nr. 350 (i kraft 1 feb 2004, tidligere § 6)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "(Opphevet ved forskrift 15 jan 2004 nr. 336, tidligere § 7.)",
+   "ledd": []
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 7",
+   "tittel": "Straff",
+   "ledd": [
+    "Forsettlig eller uaktsom overtredelse av denne forskriften eller bestemmelser og vedtak gitt i medhold av den, er straffbart i henhold til matloven § 28."
+   ],
+   "endringer": [
+    "Endret ved forskrifter 15 jan 2004 nr. 336, 30 jan 2004 nr. 350 (i kraft 1 feb 2004, tidligere § 8)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-8",
+   "nummer": "§ 8",
+   "tittel": "Ikrafttredelse og opphevelser",
+   "ledd": [
+    "Denne forskriften trer i kraft straks. Samtidig oppheves:\nForskrift av 31. januar 2001 nr. 97 om særskilte beskyttelsestiltak ved innførsel av fisk tilhørende laksefamilien Salmonidae fra Færøyene, forskrift av 31. desember 1997 nr. 1470 om soner for forebygging, begrensning og utrydding av infeksiøs lakseanemi, og forskrift av 29. desember 2000 nr. 1594 om dyrehelsemessige betingelser ved innførsel og utførsel av akvatiske dyr og produkter og smitteførende gjenstander § 4, siste ledd, § 5, siste ledd og § 12, annet ledd."
+   ],
+   "endringer": [
+    "Endret ved forskrift 30 jan 2004 nr. 350 (i kraft 1 feb 2004, tidligere § 9)."
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "vedleggI",
+   "overskrift": "Vedlegg I.",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Vedlegget opphevet ved forskrift 30 jan 2004 nr. 350 (i kraft 1 feb 2004)."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "vedleggII",
+   "overskrift": "Vedlegg II.",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Vedlegget opphevet ved forskrift 30 jan 2004 nr. 350 (i kraft 1 feb 2004)."
+    }
+   ]
+  }
+ ]
+}

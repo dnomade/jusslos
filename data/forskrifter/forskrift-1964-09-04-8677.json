@@ -1,0 +1,52 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-1964-09-04-8677",
+ "dokumentid": "SF/forskrift/1964-09-04-8677",
+ "departement": [
+  "Arbeids- og inkluderingsdepartementet"
+ ],
+ "etat": [
+  "Trygdeavd."
+ ],
+ "ikraft": "1964-09-04",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1958-12-12-10/§1",
+   "tekst": "lov/1958-12-12-10/§1"
+  }
+ ],
+ "korttittel": "Forskrift om trygd for lotter og flysøstre",
+ "tittel": "Forskrift om yrkesskadetrygd for lotter og flysøstre.",
+ "annet": "Fastsatt ved kgl.res. 4. september 1964.",
+ "refid": "forskrift/1964-09-04-8677",
+ "eli": "/eli/forskrift/1964/09/04/8677",
+ "url": "https://lovdata.no/dokument/SF/forskrift/1964-09-04-8677",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I.",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "I medhold av lov om yrkesskadetrygd av 12. desember 1958 nr. 10 § 1 punkt 1 annet ledd, bestemmes at følgende grupper av personer i Forsvarets tjeneste skal omfattes av trygden:\n1. Lotter under kurser og øvinger.\n2. Flysøstre under kurser og øvinger og under ambulanseflyging som Forsvarets Sanitet eller Flyvåpenet gjennomfører."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II.",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Denne resolusjonen trer ikraft straks."
+    }
+   ]
+  }
+ ]
+}

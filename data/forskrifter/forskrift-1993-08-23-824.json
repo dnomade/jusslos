@@ -1,0 +1,611 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-1993-08-23-824",
+ "dokumentid": "SF/forskrift/1993-08-23-824",
+ "departement": [
+  "Justis- og beredskapsdepartementet"
+ ],
+ "etat": [
+  "Lovavd."
+ ],
+ "kunngjort_i": "Avd I 1993 958",
+ "ikraft": "1993-09-01",
+ "siste_endring_ikraft": "2025-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2024-10-22-2547",
+   "tekst": "forskrift/2024-10-22-2547 fra 2025-01-01"
+  }
+ ],
+ "endrer": "forskrift/1991-04-26-287",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1984-06-08-58/§78",
+   "tekst": "lov/1984-06-08-58/§78"
+  },
+  {
+   "ref": "lov/1984-06-08-58/§79",
+   "tekst": "lov/1984-06-08-58/§79"
+  },
+  {
+   "ref": "lov/1984-06-08-58/§144",
+   "tekst": "lov/1984-06-08-58/§144"
+  },
+  {
+   "ref": "lov/1984-06-08-58/§156",
+   "tekst": "lov/1984-06-08-58/§156"
+  },
+  {
+   "ref": "lov/1984-06-08-58/§156a",
+   "tekst": "lov/1984-06-08-58/§156a"
+  },
+  {
+   "ref": "lov/1984-06-08-58/§162",
+   "tekst": "lov/1984-06-08-58/§162"
+  },
+  {
+   "ref": "forskrift/1985-07-12-1435",
+   "tekst": "forskrift/1985-07-12-1435"
+  },
+  {
+   "ref": "lov/1982-12-17-86/§27",
+   "tekst": "lov/1982-12-17-86/§27"
+  }
+ ],
+ "siste_rettelse": "2021-07-01 (tegnsetting i lister tilpasset universell utforming).",
+ "korttittel": "Forskrift om konkursregisteret mv.",
+ "tittel": "Forskrift om konkursregisteret og om kunngjøringer etter konkursloven",
+ "annet": "Hjemmel: Fastsatt av Justis- og politidepartementet 23. august 1993 med hjemmel i lov av 8. juni 1984 nr. 58 om gjeldsforhandling og konkurs (konkursloven) § 78, § 79, § 144, § 156, § 156a og § 162 og lov av 17. desember 1982 nr. 86 om rettsgebyr § 27.\nTilføyd hjemmel: Delegeringsvedtak 12. juli 1985 nr. 1435.\nEndret ved forskrifter 6 nov 1995 nr. 877, 17 des 1998 nr. 1399, 12 nov 1999 nr. 1170, 11 okt 2002 nr. 1094, 26 juni 2003 nr. 887, 12 des 2003 nr. 1544, 27 jan 2006 nr. 88, 15 feb 2008 nr. 138, 18 des 2009 nr. 1726, 27 juni 2013 nr. 804, 15 juni 2018 nr. 876, 4 des 2019 nr. 1632 (i kraft 1 april 2020), 21 mai 2021 nr. 1617 (i kraft 1 juli 2021), 14 sep 2023 nr. 1427, 14 sep 2023 nr. 1427 (i kraft 1 april 2024), 22 okt 2024 nr. 2547 (i kraft 1 jan 2025).\nRettelser: 01.07.2021 (tegnsetting i lister tilpasset universell utforming).",
+ "refid": "forskrift/1993-08-23-824",
+ "eli": "/eli/forskrift/1993/08/23/824",
+ "url": "https://lovdata.no/dokument/SF/forskrift/1993-08-23-824",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Alminnelige bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": null,
+     "ledd": [
+      "Det føres et register over sentrale opplysninger om bo tatt under behandling av retten som konkursbo etter lov 8. juni 1984 nr. 58 om gjeldsforhandling og konkurs og om aksjeselskaper, allmennaksjeselskaper og samvirkeforetak som tvangsavvikles etter konkurslovens regler.",
+      "Konkursregisteret føres av Registerenheten i Brønnøysund."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 11 okt 2002 nr. 1094 (i kraft 1 jan 2003), 15 feb 2008 nr. 138 (i kraft 1 mars 2008)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": null,
+     "ledd": [
+      "Konkursregisteret føres i et edb-basert registreringssystem og er felles for hele landet."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Hva konkursregisteret skal inneholde",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 3",
+     "tittel": null,
+     "ledd": [
+      "Opplysningene nevnt i nr. 1 til 13 nedenfor registreres i Konkursregisteret på konkursboets organisasjonsnummer.\n1. Har skyldneren drevet et enkeltpersonforetak registrert i Enhetsregisteret eller Foretaksregisteret, registreres skyldnerens navn, adresse og fødselsnummer (11 siffer), foretaksnavn, adresse og organisasjonsnummer.\nVed konkurs i andre typer foretak som har vært registrert i Foretaksregisteret, registreres foretakets organisasjonsnummer, nåværende og eventuelt tidligere navn, adresse siste år, bransje, dato for kjennelse om konkursåpning, navn på den retten som har åpnet konkurs og konkursboets saksnummer.\nFor andre skyldnere registreres skyldnerens navn, stilling, siste boligadresse og fødselsnummer (11 siffer).\n2. Registeret skal inneholde opplysning om konkursen er åpnet etter oppbud eller etter begjæring fra en fordringshaver, eller om boet er et tvangsavviklingsbo etter aksjeloven 13. juni 1997 nr. 44 § 16-18 første ledd eller allmennaksjeloven 13. juni 1997 nr. 45 § 16-18 første ledd.\n3. Registeret skal inneholde opplysning om registrert stiftelsesår for foretak og andre sammenslutninger, samt om ansvarskapitalens størrelse.\n4. Er skyldneren et selskap skal navn, fødselsnummer (11 siffer) og siste boligadresse til den eller dem som har vært daglig leder i selskapet de siste fem årene før konkursen og til dem som har vært styreledere og styremedlemmer de siste to årene før konkursen registreres. Det skal registreres når styreledernes og styremedlemmenes verv ble registrert i Foretaksregisteret, og eventuelt når de fratrådte. Registeret skal inneholde opplysning om hvem som har vært selskapets revisor de siste to årene før konkursen med angivelse av revisornummer og kontoradresse. Hadde selskapet ikke revisor, skal regnskapsførers navn, personnummer og eventuelt organisasjonsnummer og adresse registreres.\n5. Registeret skal inneholde opplysning om daglig leder, styreleder eller innehaver i foretak som er konkurs har lederansvar eller styreverv i andre foretak på konkursåpningstidspunktet.\n6. Ved konkurs i aksjeselskap stiftet senere enn fem år før konkursåpningen, skal stifterne registreres. Personlige stiftere registreres med navn, boligadresse og fødselsnummer, og foretak registreres med firma, kontoradresse og organisasjonsnummer.\n7. Ved konkurs i aksjeselskap skal registeret inneholde opplysninger om eiere som eier eller som i løpet av de siste fem årene før konkursåpningen har eid mer enn 20% av aksjene. Personlige eiere registreres med navn, boligadresse og fødselsnummer. Foretak registreres med firma, kontoradresse og organisasjonsnummer.\n8. Registeret skal inneholde opplysning om bostyrers navn, fødselsnummer, kontor- og postadresse, telefon- og telefaksnummer. Dersom borevisor er oppnevnt, registreres dennes navn, kontor- og postadresse, telefon og telefaksnummer.\n9. Dato for avsluttet bobehandling skal registreres. Registeret skal inneholde opplysning om med hvilken hjemmel bobehandlingen er innstilt. Er det foretatt utlodning etter § 128, skal dividenden angis.\n10. Registeret skal inneholde opplysninger om bomassen og fordringsmassen, herunder hvilken del av fordringsmassen som er pantesikret.\n11. Registeret skal inneholde opplysning om bostyrerens innberetning er oversendt påtalemyndigheten. Er innberetningen oversendt, skal politidistriktet og datoen for oversendelse registreres.\n12. Det skal registreres hvem som i praksis har fungert som daglig leder og styreleder, dersom det fremgår av bostyrers innberetning at dette er en annen enn det som fremkommer av nr. 4. Vedkommendes fødselsnummer og adresse skal registreres.\n13. Dersom det er ilagt konkurskarantene, skal følgende opplysninger registreres:\na. navn, fødselsnummer (11 siffer) og siste boligadresse for den eller dem som er ilagt konkurskarantene,\nb. datoen for kjennelsen om konkurskarantene,\nc. karantenens utløpsdato,\nd. om kjennelsen innebærer at den som er ilagt karantene skal fjernes fra verv som nevnt i konkursloven § 142 fjerde ledd,\ne. en oversikt over eventuelle verv den som er ilagt konkurskarantene skal fjernes fra.",
+      "Bestemmelsene i første ledd nr. 1 til 13 får anvendelse så langt de passer når registreringsenheten er et foretak som er under tvangsavvikling etter konkurslovens regler."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 17 des 1998 nr. 1399 (i kraft 1 jan 1999), 12 nov 1999 nr. 1170 (i kraft 1 jan 2000), 11 okt 2002 nr. 1094 (i kraft 1 jan 2003), 15 feb 2008 nr. 138 (i kraft 1 mars 2008), 4 des 2019 nr. 1632 (i kraft 1 april 2020)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Innhenting av opplysningene",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 4",
+     "tittel": null,
+     "ledd": [
+      "Den rett som avsier kjennelse om konkursåpning, skal straks, fortrinnsvis elektronisk eller per telefaks, sende melding til Konkursregisteret med opplysninger som nevnt i § 3 nr. 1, 2 og 8, tidsangivelse og adresse for første skiftesamling, frist for fordringsanmeldelser og fristdagen."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 12 nov 1999 nr. 1170 (i kraft 1 jan 2000), 11 okt 2002 nr. 1094 (i kraft 1 jan 2003), 15 feb 2008 nr. 138 (i kraft 1 mars 2008)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 5",
+     "tittel": null,
+     "ledd": [
+      "Dersom ny bostyrer blir oppnevnt, skal dette snarest meldes til Konkursregisteret.",
+      "Retten skal snarest etter avsluttet bobehandling sende Konkursregisteret melding om avsluttende kjennelse eller melding om at boet er tatt opp til slutning.",
+      "Har retten avsagt kjennelse om konkurskarantene, skal melding med opplysninger som nevnt i § 3 nr. 13 a-d straks sendes Konkursregisteret. Retten skal også gi melding dersom kjennelsen om konkurskarantene blir omgjort eller virkningen faller bort etter reglene i konkurslovens § 143 fjerde eller femte ledd."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 12 nov 1999 nr. 1170 (i kraft 1 jan 2000), 11 okt 2002 nr. 1094 (i kraft 1 jan 2003), 15 feb 2008 nr. 138 (i kraft 1 mars 2008)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 6",
+     "tittel": null,
+     "ledd": [
+      "Straks melding som nevnt i § 4 er mottatt, skal registerfører innhente fra Foretaksregisteret, Løsøreregisteret og Regnskapsregisteret opplysninger nevnt i § 3 nr. 1-6 som er registrert i disse registre eller som finnes i dokumenter som er sendt inn til disse registre. Opplysningene skal straks, fortrinnsvis elektronisk eller pr. telefaks, oversendes bostyrer sammen med panteopplysninger fra Løsøreregisteret, registerutskrift fra Enhetsregisteret og siste innsendte regnskap fra Regnskapsregisteret. Dersom panteattesten viser til en ektepakt, oversendes også kopi av ektepakten.",
+      "Dersom en kjennelse om konkursåpning eller konkurskarantene oppheves etter kjæremål eller omgjøres etter konkurslovens § 143 fjerde ledd, skal registerfører påse at opplysningene som er registrert i henhold til kjennelsen slettes."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 12 nov 1999 nr. 1170 (i kraft 1 jan 2000), 27 jan 2006 nr. 88 (i kraft 1 feb 2006), 15 feb 2008 nr. 138 (i kraft 1 mars 2008)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 7",
+     "tittel": null,
+     "ledd": [
+      "Blir bostyrer oppmerksom på feil i registeret eller meddelte opplysninger, skal han snarest underrette registeret om dette.",
+      "Bostyrer innhenter opplysninger som nevnt i § 3 nr. 7 og meddeler Konkursregisteret dette snarest.",
+      "Bostyrers undersøkelsesplikt etter annet ledd er begrenset til det som står i et rimelig forhold til opplysningenes viktighet.",
+      "Under bobehandling skal bostyrer sende et eksemplar av innberetninger til retten til Konkursregisteret."
+     ],
+     "endringer": [
+      "Endret ved forskrift 11 okt 2002 nr. 1094 (i kraft 1 jan 2003)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Melding til registrerte personer",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 8",
+     "tittel": null,
+     "ledd": [
+      "Registerføreren skal straks en person er registrert i Konkursregisteret, sende melding til vedkommende om dette med opplysning om hva som er registrert. Det samme gjelder dersom opplysninger om en slik person slettes fra registeret etter § 6 annet ledd. Det skal i meldingen opplyses om at eventuelle feil kan kreves rettet."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Kunngjøringer etter konkursloven",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Overskriften endret ved forskrift 27 jan 2006 nr. 88 (i kraft 1 feb 2006)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 9",
+     "tittel": null,
+     "ledd": [
+      "Registerføreren skal straks han mottar melding om forhold som skal kunngjøres etter konkursloven, sørge for kunngjøring i Brønnøysundregistrenes elektroniske kunngjøringspublikasjon."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 11 okt 2002 nr. 1094 (i kraft 1 jan 2003), 27 jan 2006 nr. 88 (i kraft 1 feb 2006), 27 juni 2013 nr. 804 (i kraft 1 juli 2013)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Melding om konkursåpning til registre og finansforetak mv.",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Tilføyd ved forskrift 14 sep 2023 nr. 1427."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 9a",
+     "tittel": null,
+     "ledd": [
+      "Straks det mottas melding om at konkurs er åpnet i skyldnerens bo, skal føreren av Konkursregisteret sende melding om konkursåpningen til\n1. grunnboken\n2. Verdipapirsentralen\n3. Løsøreregisteret\n4. Skipsregisteret\n5. Enhetsregisteret\n6. Foretaksregisteret\n7. Regnskapsregisteret\n8. Akvakulturregisteret.",
+      "Meldingen etter første punktum skal fremsettes automatisk gjennom en elektronisk løsning som er godkjent av registerføreren.",
+      "Bostyreren skal sende melding manuelt til andre registre enn de som er nevnt i første ledd. Dette gjelder likevel bare dersom bostyrerens undersøkelser viser at det er registrert rettigheter av betydning for boets beslag i det aktuelle registeret eller det for øvrig er behov for å sende melding ut fra forholdene i saken."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 27 jan 2006 nr. 88 (i kraft 1 feb 2006), opphevet ved forskrift 27 juni 2013 nr. 804 (i kraft 1 juli 2013), tilføyd ved forskrift 14 sep 2023 nr. 1427, endret ved forskrift 14 sep 2023 nr. 1427 (i kraft 1 april 2024, se endringsforskriften del II nr. 2 for overgangsregel)."
+     ],
+     "opphevet": "2024-04-01"
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 9b",
+     "tittel": null,
+     "ledd": [
+      "Straks det mottas melding om at konkurs er åpnet i skyldnerens bo, skal føreren av Konkursregisteret sende melding om konkursåpningen til finansforetak hvor skyldneren kan ha innskudd eller lignende. Meldingen skal fremsettes automatisk gjennom en elektronisk løsning som er godkjent av registerføreren.",
+      "I tilfeller der et finansforetak ikke kan motta automatisk melding etter første ledd, skal bostyreren sende manuell melding om konkursåpningen."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 14 sep 2023 nr. 1427."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-3",
+     "nummer": "§ 9c",
+     "tittel": null,
+     "ledd": [
+      "Mottakeren av melding etter § 9b første ledd skal ved forespørsel fra bostyreren oppgi informasjon om skyldnerens kontoforhold på de elektroniske bosidene som drives av Konkursregisteret, dersom slik informasjon om skyldneren finnes. Informasjonen skal inneholde en liste over skyldnerens kontoer, saldoen på kontoene, om kontoene er sperret, samt transaksjoner og transaksjonsbeløp for inntil ett år tilbake fra tidspunktet for konkursåpningen.",
+      "Mottakeren av melding etter § 9b annet ledd skal ved forespørsel fra bostyreren oppgi slik informasjon manuelt."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 14 sep 2023 nr. 1427."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-4",
+     "nummer": "§ 9d",
+     "tittel": null,
+     "ledd": [
+      "Retten, føreren av Konkursregisteret og bostyreren kan ved behov sende melding om konkursåpningen til registre og finansforetak, uavhengig av hvem som plikter å sende slik melding etter § 9a og § 9b."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 14 sep 2023 nr. 1427."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kap7",
+   "overskrift": "Kapittel 7. Avgivelse av opplysninger fra registeret mm",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrift 14 sep 2023 nr. 1427 (tidligere kapittel 6)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 10",
+     "tittel": null,
+     "ledd": [
+      "Enhver kan få oppgitt følgende registrerte opplysninger fra Konkursregisteret:\n- personer, foretak, stiftelser og andre sammenslutninger som er gått konkurs,\n- aksjeselskaper, allmennaksjeselskaper og samvirkeforetak som tvangsavvikles etter konkurslovens regler,\n- foretakets nåværende og eventuelle tidligere navn og adresse siste år, stilling eller bransje, grunnlag for konkursen, rettens navn, dato for konkursåpning eller kjennelse om tvangsoppløsning, saksnummer, bostyrer, borevisor, tid og sted for første skiftesamling, frist for fordringsanmeldelser og fristdagen,\n- stiftere, eiere, daglig leder, styreleder og revisor eller regnskapsfører,\n- om daglig leder og styrelederen har lederansvar eller styreverv i andre foretak,\n- om ilagt konkurskarantene,\n- dato for avsluttet bobehandling og om bobehandlingen er innstilt og med hvilken hjemmel, om det er foretatt utlodning og med hvilken dividende.",
+      "Ved forespørsel til registeret skal sikker identifikasjon oppgis. Ved forespørsel om en person er ilagt konkurskarantene, er det tilstrekkelig at det oppgis etternavn og ett fornavn. Konkursregisteret skal i så fall oppgi om personer med disse navnene er ilagt konkurskarantene, den enkeltes fødselsår og den enkeltes bostedskommune.",
+      "Øvrige opplysninger kan kun gis domstolene, politi- og påtalemyndigheten, bostyrere i konkursbo, Finanstilsynet, skatte- og avgiftsmyndighetene, foruten den opplysningene gjelder. Offentlige myndigheter gis adgang til registrerte opplysninger om bostyrere. Opplysningene er dessuten tilgjengelig til bruk for forskning. Forskere som mottar opplysninger er undergitt taushetsplikt jf. reglene i forvaltningsloven § 13e."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 6 nov 1995 nr. 877, 17 des 1998 nr. 1399 (i kraft 1 jan 1999), 12 nov 1999 nr. 1170 (i kraft 1 jan 2000), 11 okt 2002 nr. 1094 (i kraft 1 jan 2003), 26 juni 2003 nr. 887 (i kraft 1 juli 2003), 15 feb 2008 nr. 138 (i kraft 1 mars 2008), 18 des 2009 nr. 1726 (i kraft 21 des 2009), 4 des 2019 nr. 1632 (i kraft 1 april 2020), 22 okt 2024 nr. 2547 (i kraft 1 jan 2025)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-2",
+     "nummer": "§ 11",
+     "tittel": null,
+     "ledd": [
+      "Opplysninger etter § 10 er offentlig tilgjengelig i fem år etter avsluttende kjennelse eller utlodning.",
+      "Opplysningene i Konkursregisteret er, ti år etter avsluttende kjennelse eller utlodning, bare tilgjengelig til bruk for forskning. Den som mottar opplysninger er undergitt taushetsplikt etter reglene i forvaltningsloven § 13e. Opplysningene er også tilgjengelig for den opplysningene gjelder."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 12 nov 1999 nr. 1170 (i kraft 1 jan 2000), 26 juni 2003 nr. 887 (i kraft 1 juli 2003)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-3",
+     "nummer": "§ 12",
+     "tittel": null,
+     "ledd": [
+      "Dersom boet leveres tilbake til skyldneren i medhold av konkursloven § 136 eller dersom det oppnås tvangsakkord under konkursbehandlingen etter konkursloven kapittel XIV, skal opplysningene om konkurskarantene kun gis myndigheter og personer som nevnt i § 10 tredje ledd. Det samme gjelder dersom karantenetiden er utløpt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-4",
+     "nummer": "§ 13",
+     "tittel": null,
+     "ledd": [
+      "De innsendte dokumenter kan mikrofilmes, lagres på optisk disk eller på annen hensiktsmessig måte. Dokumentene makuleres etter at mikrofilm er kontrollert og funnet i orden."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-5",
+     "nummer": "§ 14",
+     "tittel": null,
+     "ledd": [
+      "Justisdepartementet kan utarbeide særskilte blanketter eller skjema for meldinger som skal sendes registeret."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-8",
+   "navn": "kap8",
+   "overskrift": "Kapittel 8. Brønnøysundregistrenes elektroniske kunngjøringspublikasjon – kunngjøringer etter konkursloven",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Tilføyd ved forskrift 27 jan 2006 nr. 88 (i kraft 1 feb 2006), endret ved forskrift 14 sep 2023 nr. 1427 (tidligere kapittel 7)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-1",
+     "nummer": "§ 15",
+     "tittel": null,
+     "ledd": [
+      "Føreren av Konkursregisteret administrerer kunngjøringer som skal inntas i Brønnøysundregistrenes elektroniske kunngjøringspublikasjon etter konkursloven. Den elektroniske kunngjøringspublikasjonen er ikke en del av Konkursregisteret. Føreren av Konkursregisteret overfører kunngjøringsopplysninger fra Konkursregisteret til den elektroniske kunngjøringspublikasjonen."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 27 jan 2006 nr. 88 (i kraft 1 feb 2006)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-2",
+     "nummer": "§ 16",
+     "tittel": null,
+     "ledd": [
+      "Det skal være mulig for enhver å søke informasjon etter følgende søkekriterier i kunngjøringer inntatt i den elektroniske kunngjøringspublikasjonen:\na. skyldnerens organisasjonsnummer eller fødselsnummer og navn,\nb. et bestemt tidsrom,\nc. et geografisk område,\nd. en bestemt næring."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 27 jan 2006 nr. 88 (i kraft 1 feb 2006)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-3",
+     "nummer": "§ 17",
+     "tittel": null,
+     "ledd": [
+      "Opplysninger om konkursbo eller tvangsavviklingsbo som gjelder fysiske personer skal slettes ett år etter avsluttende kjennelse eller utlodning. Opplysninger om konkursbo eller tvangsavviklingsbo som gjelder juridiske personer skal slettes tre år etter avsluttende kjennelse eller utlodning.",
+      "Opplysninger om gjeldsforhandlinger etter konkursloven i boet til fysiske personer skal slettes ett år etter gjeldsforhandlingens avslutning, jf. konkursloven kapittel VII. Opplysninger om gjeldsforhandlinger etter konkursloven i boet til juridiske personer skal slettes tre år etter avslutningen.",
+      "Før sletting etter første eller annet ledd skal opplysningene lagres og oppbevares tilgjengelig kun for forskning. Den som mottar opplysninger er underlagt taushetsplikt etter reglene i forvaltningsloven § 13e. Opplysningene skal også være tilgjengelige for den de gjelder."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 27 jan 2006 nr. 88 (i kraft 1 feb 2006)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-4",
+     "nummer": "§ 18",
+     "tittel": null,
+     "ledd": [
+      "Føreren av Konkursregisteret skal tilby abonnementsordninger for opplysninger som er inntatt i Brønnøysundregistrenes elektroniske kunngjøringspublikasjon.",
+      "Om konkursbo og tvangsavviklingsbo kan det abonneres på opplysninger om åpninger, innkalling til skiftesamling, avslutninger, innstillinger, opphevinger og beslutninger om at bobehandlingen skal fortsette.",
+      "Om gjeldsforhandlingsbo kan det abonneres på kunngjorte opplysninger om åpning av forhandling om frivillig gjeldsordning, åpning av tvangsakkord, opplysning om akkord etter konkursloven § 53 annet ledd, og om innstilling etter konkursloven § 56 annet ledd.",
+      "Det kan abonneres etter følgende kriterier:\na. alle konkurser,\nb. alle konkurser og tvangsavviklingsbo,\nc. alle konkurser, tvangsavviklingsbo og gjeldsforhandlingsbo,\nd. et geografisk område,\ne. en bestemt næring,\nf. skyldnerens organisasjonsnummer eller fødselsnummer,\ng. et bestemt tidsrom."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 27 jan 2006 nr. 88 (i kraft 1 feb 2006)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-5",
+     "nummer": "§ 19",
+     "tittel": null,
+     "ledd": [
+      "Det skal tilbys abonnement på periodiske utskrifter i elektronisk form, for eksempel som vedlegg til e-post.",
+      "Det skal videre tilbys abonnement i form av elektronisk tilsendte kunngjøringsopplysninger. Mottakeren må da tilfredsstille de krav Brønnøysundregistrene setter til tekniske forutsetninger."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 27 jan 2006 nr. 88 (i kraft 1 feb 2006)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-6",
+     "nummer": "§ 20",
+     "tittel": null,
+     "ledd": [
+      "Konkursregisteret kan ta betalt for abonnementene til selvkost for å dekke utgifter til abonnementsordningen. Departementet kan gi nærmere regler om finansieringen."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 27 jan 2006 nr. 88 (i kraft 1 feb 2006)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-9",
+   "navn": "kap9",
+   "overskrift": "Kapittel 9. Bruk av elektronisk kommunikasjon under konkursbobehandling",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Tilføyd ved forskrift 15 feb 2008 nr. 138 (i kraft 1 mars 2008), endret ved forskrift 14 sep 2023 nr. 1427 (tidligere kapittel 8)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-1",
+     "nummer": "§ 21",
+     "tittel": null,
+     "ledd": [
+      "Konkursregisteret gir bostyrer tilgang til bosiden. Bostyrer må tilfredsstille de krav Konkursregisteret setter til tekniske forutsetninger for tilgang til og bruk av bosiden.",
+      "Når konkursåpning blir meldt til Konkursregisteret, sender Konkursregisteret melding til bostyrer om at bosiden er klar til bruk. Bostyreren gir tilgang til opplysninger på bosiden til fordringshaverne, offentlige myndigheter og andre som ifølge lov eller med hjemmel i lov har rett til å motta informasjon fra bosiden.",
+      "Ved bruk av bosiden under konkursbehandling, plikter Konkursregisteret og bostyrer å sørge for at opplysningene på bosiden til enhver tid er oppdatert."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 15 feb 2008 nr. 138 (i kraft 1 mars 2008), endret ved forskrift 15 juni 2018 nr. 876 (i kraft 20 juli 2018)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-2",
+     "nummer": "§ 22",
+     "tittel": null,
+     "ledd": [
+      "Ved tilgang til bosider og bruk av elektronisk kommunikasjon under konkursbehandling, må det benyttes en betryggende metode som sikrer bl.a. bekreftelse av partenes identitet eller fullmakter (autentisering), at data ikke utilsiktet eller urettmessig endres (integritet), beskyttelse av informasjon mot innsyn fra uvedkommende (konfidensialitet) og notoritet over dokumentets innhold. Personvernforordningen artikkel 32 om personopplysningssikkerhet gjelder tilsvarende."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 15 feb 2008 nr. 138 (i kraft 1 mars 2008), endret ved forskrift 15 juni 2018 nr. 876 (i kraft 20 juli 2018)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-3",
+     "nummer": "§ 23",
+     "tittel": null,
+     "ledd": [
+      "Konkursregisteret skal senest 6 måneder etter avsluttende kjennelse eller utlodning slette opplysningene fra bosiden.",
+      "Konkursregisteret skal oppbevare elektroniske dokumenter i henhold til de regler som er fastsatt i eller i medhold av lov 4. desember 1992 nr. 126 om arkiv."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 15 feb 2008 nr. 138 (i kraft 1 mars 2008)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-4",
+     "nummer": "§ 24",
+     "tittel": null,
+     "ledd": [
+      "Konkursregisteret skal til enhver tid tilby egnede abonnementsordninger i elektronisk form til fordringshavere og offentlige myndigheter på opplysninger fra de elektroniske bosidene drevet av Konkursregisteret.",
+      "Det skal tilbys abonnement i form av elektronisk melding om at nye opplysninger er tilgjengelige på bosiden.",
+      "Abonnenten må tilfredsstille de krav til sikkerhetstjenester og produkter Konkursregisteret stiller.",
+      "Konkursregisteret kan ta betalt for abonnementene til selvkost for å dekke utgifter til abonnementsordningen. Departementet kan gi nærmere regler om finansieringen."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 15 feb 2008 nr. 138 (i kraft 1 mars 2008)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-10",
+   "navn": "kap10",
+   "overskrift": "Kapittel 10. Kunngjøring og registrering av utenlandske insolvensbehandlinger",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Tilføyd ved forskrift 21 mai 2021 nr. 1617 (i kraft 1 juli 2021), endret ved forskrift 14 sep 2023 nr. 1427 (tidligere kapittel 9)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-1",
+     "nummer": "§ 25",
+     "tittel": null,
+     "ledd": [
+      "Begjæringer om kunngjøring av utenlandsk insolvensbehandling etter konkursloven § 172 første ledd må fremsettes på særskilt skjema på norsk eller engelsk fastsatt av Brønnøysundregistrene. I skjemaet skal det fylles ut\na. hvilken type insolvensbehandling det er tale om\nb. skyldnerens forretningsadresse\nc. foretaksnavn\nd. organisasjonsnummer dersom skyldneren har slikt nummer i Norge\ne. utenlandsk organisasjonsnummer\nf. navn og adresse på den som er oppnevnt som insolvensforvalter\ng. navn og adresse på den domstolen som behandler insolvensen\nh. dato for åpningen av insolvensbehandlingen.",
+      "Vedlagt skjemaet skal det være en bekreftet kopi av oppnevnelsen av insolvensforvalteren eller en attest utstedt av oppnevningsorganet om oppnevnelsen og en bekreftet oversettelse til norsk eller engelsk. Begjæringen med vedlegg sendes Brønnøysundregistrene fortrinnsvis elektronisk, alternativt per post. Kunngjøringen skal inneholde slike opplysninger som nevnt i første ledd annet punktum.",
+      "§ 9, § 15 første og annet punktum og § 17 tredje ledd gjelder tilsvarende for kunngjøringer etter denne bestemmelsen. Det samme gjelder § 16, likevel slik at organisasjonsnummer ikke er et søkekriterium for utenlandske skyldnere som ikke har slikt nummer. Opplysningene slettes tre år etter kunngjøring. § 18 til § 20 gjelder tilsvarende så langt de passer.",
+      "Er opplysninger om utenlandsk insolvensbehandling for en skyldner allerede kunngjort på det tidspunkt en begjæring etter første ledd kommer inn til Brønnøysundregistrene, kunngjøres opplysninger etter denne bestemmelsen som et tillegg til de tidligere kunngjorte opplysningene. Tidspunktet for kunngjøring etter denne bestemmelsen skal anses som tidspunktet for kunngjøring etter konkursloven § 164."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 21 mai 2021 nr. 1617 (i kraft 1 juli 2021)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-2",
+     "nummer": "§ 26",
+     "tittel": null,
+     "ledd": [
+      "Er skyldneren et norskregistrert utenlandsk foretak, kan insolvensforvalter i utenlandsk konkurs eller tilsvarende som omfatter skyldnerens samlede formue, kreve at åpningen av insolvensbehandlingen registreres i Konkursregisteret. Dersom det fremsettes slik begjæring, sørger føreren av Konkursregisteret for at melding om at konkurs er åpnet i skyldnerens bo, tinglyses eller registreres i:\n1. Løsøreregisteret,\n2. Enhetsregisteret, dersom skyldnerens virksomhet er innført der,\n3. grunnboken, dersom skyldneren eier fast eiendom,\n4. Foretaksregisteret, dersom skyldnerens virksomhet er innført der,\n5. Regnskapsregisteret, dersom skyldnerens virksomhet er innsendingspliktig,\n6. Elsertifikatregisteret, dersom skyldneren innehar elsertifikatkonto,\n7. andre realregistre enn grunnboken, for så vidt skyldneren eier eiendeler som er registrert der,\n8. en verdipapirsentral, dersom det er registrert rettigheter der som bostyreren mener er omfattet av boets beslagsrett.\nFøreren av Konkursregisteret sender melding også til skattekontoret i samsvar med skatteforvaltningsloven § 8-13 tredje ledd.",
+      "Er skyldneren ikke et norskregistrert utenlandsk foretak, kan insolvensforvalter i slik insolvensbehandling som nevnt i første ledd kreve registrering i slike registre som nevnt i første ledd nr. 3, 6, 7 og 8 på de vilkårene som følger av disse bestemmelsene. Begjæringen fremsettes overfor Konkursregisteret, som videreformidler opplysningene om insolvensåpningen til de aktuelle registrene.",
+      "Insolvensforvalter i utenlandsk tvangsakkord eller lignende som omfatter skyldnerens samlede formue, kan kreve at åpningen av insolvensbehandlingen registreres i slike registre som nevnt i konkursloven § 36 første ledd, på de vilkår som følger av bestemmelsen. Begjæringen fremsettes overfor Konkursregisteret, som videreformidler opplysningene om insolvensåpningen til de aktuelle registrene. Insolvensåpningen registreres i Løsøreregisteret bare dersom skyldneren har et norsk organisasjonsnummer."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 21 mai 2021 nr. 1617 (i kraft 1 juli 2021)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-3",
+     "nummer": "§ 27",
+     "tittel": null,
+     "ledd": [
+      "Begjæringer om registrering av utenlandsk insolvensbehandling etter § 26 fremsettes på særskilt skjema på norsk eller engelsk fastsatt av Brønnøysundregistrene. I skjemaet skal det fylles ut de opplysningene som fremgår av § 25 første ledd bokstav a til h. I tillegg skal det fylles ut hvilke av registrene som nevnt i § 26 som åpningen av insolvensbehandlingen ønskes registrert i.",
+      "Vedlagt skjemaet skal det være en bekreftet kopi av oppnevnelsen av insolvensforvalteren eller en attest utstedt av oppnevningsorganet om oppnevnelsen og en bekreftet oversettelse til norsk eller engelsk. Begjæringen med vedlegg sendes Brønnøysundregistrene fortrinnsvis elektronisk, alternativt per post. Registrene anmerker insolvensbehandlingen på samme måte som de anmerker norske insolvensbehandlinger. Skal insolvensbehandlingen anmerkes i Konkursregisteret etter § 26 første ledd, skal likevel bare slike opplysninger som nevnt i § 3 første ledd nr. 1, 4, 5 og 8 registreres. Er ikke styreledernes og styremedlemmenes verv registrert i Foretaksregisteret, skal det ved registrering av opplysninger som nevnt i § 3 første ledd nr. 4 registreres når styrelederne og styremedlemmene tiltrådte sine verv, og eventuelt når de fratrådte. Personnummer for insolvensforvalteren registreres ikke. § 6 første ledd første punktum gjelder tilsvarende så langt den passer."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 21 mai 2021 nr. 1617 (i kraft 1 juli 2021)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-4",
+     "nummer": "§ 28",
+     "tittel": null,
+     "ledd": [
+      "Utenlandsk insolvensforvalter skal begjære registrerte opplysninger om insolvensbehandlingen slettet når insolvensbehandlingen er endelig avsluttet. Også skyldneren kan begjære opplysninger om insolvensbehandlingen slettet, såfremt skyldneren godtgjør at den er endelig avsluttet. Begjæringen fremsettes på norsk eller engelsk og rettes til Konkursregisteret, som videreformidler begjæringen til andre registre hvor insolvensbehandlingen er registrert. Opplysningene skal uansett slettes etter tre år.",
+      "Ved abandonering etter konkursloven § 117b i Norge gjelder konkursloven § 79 femte ledd tilsvarende for utenlandsk insolvensforvalter. Skyldneren kan begjære opplysninger om insolvensbehandlingen slettet for så vidt gjelder de abandonerte eiendeler, såfremt skyldneren godtgjør at en eiendel er abandonert etter konkursloven § 117b. Begjæringer etter første, annet og tredje punktum rettes til de aktuelle registrene."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 21 mai 2021 nr. 1617 (i kraft 1 juli 2021)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-5",
+     "nummer": "§ 29",
+     "tittel": null,
+     "ledd": [
+      "Begjæring om registrering av utenlandsk rådighetsforbud som nevnt i konkursloven § 172 tredje ledd rettes mot de enkelte registre hvor skyldneren har registrerte eiendeler. Registrering i Løsøreregisteret av slikt rådighetsforbud kan bare kreves dersom skyldneren er et norskregistrert utenlandsk foretak."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 21 mai 2021 nr. 1617 (i kraft 1 juli 2021)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-11",
+   "navn": "kap11",
+   "overskrift": "Kapittel 11. Gebyrer og ikrafttredelse",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrifter 27 jan 2006 nr. 88 (i kraft 1 feb 2006, tidligere kapittel 7), 15 feb 2008 nr. 138 (i kraft 1 mars 2008, tidligere kapittel 8), 21 mai 2021 nr. 1617 (i kraft 1 juli 2021, tidligere kapittel 9), 14 sep 2023 nr. 1427 (tidligere kapittel 10)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-11-paragraf-1",
+     "nummer": "§ 30",
+     "tittel": null,
+     "ledd": [
+      "Denne forskrift trer i kraft 1. september 1993 og gjelder for konkurser åpnet etter denne dato. Kunngjøring av konkurser etter § 9 gjelder fra ikrafttredelsen.",
+      "Fra 1. september 1993 oppheves forskrift 26. april 1991 nr. 287 om Konkurskaranteneregisteret gitt i medhold av konkursloven § 143a og rettsgebyrloven § 27."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 27 jan 2006 nr. 88 (i kraft 1 feb 2006, tidligere § 16), 15 feb 2008 nr. 138 (i kraft 1 mars 2008, tidligere § 22), 21 mai 2021 nr. 1617 (i kraft 1 juli 2021, tidligere § 25)."
+     ]
+    }
+   ]
+  }
+ ]
+}

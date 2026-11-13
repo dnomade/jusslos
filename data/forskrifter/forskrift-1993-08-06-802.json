@@ -1,0 +1,222 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-1993-08-06-802",
+ "dokumentid": "SF/forskrift/1993-08-06-802",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "etat": [
+  "Havressurs- og kystavd."
+ ],
+ "kunngjort_i": "Avd I 1993 909",
+ "ikraft": "1993-08-06",
+ "siste_endring_ikraft": "2014-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2013-12-23-1691",
+   "tekst": "forskrift/2013-12-23-1691 fra 2014-01-01"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2008-06-06-37/§50",
+   "tekst": "lov/2008-06-06-37/§50"
+  },
+  {
+   "ref": "lov/2008-06-06-37/§51",
+   "tekst": "lov/2008-06-06-37/§51"
+  },
+  {
+   "ref": "lov/2008-06-06-37/§52",
+   "tekst": "lov/2008-06-06-37/§52"
+  },
+  {
+   "ref": "lov/2008-06-06-37/§63",
+   "tekst": "lov/2008-06-06-37/§63"
+  },
+  {
+   "ref": "lov/2008-06-06-37/§64",
+   "tekst": "lov/2008-06-06-37/§64"
+  },
+  {
+   "ref": "lov/2008-06-06-37/§65",
+   "tekst": "lov/2008-06-06-37/§65"
+  }
+ ],
+ "korttittel": "Forskrift om forbud mot landing av fisk",
+ "tittel": "Forskrift om forbud mot landing av fisk og andre særskilte tiltak mot ulovlig, urapportert og uregulert fiske",
+ "annet": "Hjemmel: Fastsatt av Fiskeridepartementet 6. august 1993 med hjemmel i lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar (havressurslova) § 50, § 51, § 52, § 63, § 64 og § 65.\nEndret ved forskrifter 12 mai 1995 nr. 472, 24 mai 1995 nr. 506, 29 juni 1999 nr. 762, 15 juni 2004 nr. 893, 27 april 2007 nr. 449, 23 des 2013 nr. 1691.",
+ "refid": "forskrift/1993-08-06-802",
+ "eli": "/eli/forskrift/1993/08/06/802",
+ "url": "https://lovdata.no/dokument/SF/forskrift/1993-08-06-802",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Virkeområde",
+   "ledd": [
+    "Forbud mot landing av fisk i denne forskrift gjelder fisk fanget med utenlandsk fartøy i farvann utenfor norsk fiskerijurisdiksjon, med mindre annet følger av den enkelte bestemmelse."
+   ],
+   "endringer": [
+    "Tilføyd ved forskrift 15 juni 2004 nr. 893, endret ved forskrift 27 april 2007 nr. 449 (i kraft 1 mai 2007)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Forbud mot ilandføring av fisk av felles interesse med andre stater i bestemte tilfeller",
+   "ledd": [
+    "Det er forbudt å ilandføre fangst bestående av fisk fra fiskebestand av felles interesse med andre stater som ikke er gjenstand for omforent bestandsregulering, eller som er underlagt norsk regulering.",
+    "Det er forbudt å ilandføre fangst som er tatt i områder under norsk fiskerijurisdiksjon dersom fangsten består av fisk fra fiskebestand av felles interesse med andre stater, og fangsten ikke er tatt på grunnlag av fiskeriavtale mellom Norge og flaggstaten."
+   ],
+   "endringer": [
+    "Endret ved forskrifter 12 mai 1995 nr. 472, 15 juni 2004 nr. 893 (tidligere § 1), 27 april 2007 nr. 449 (i kraft 1 mai 2007)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Forbud mot ilandføring av fisk tatt i strid med ønsket beskatningsmønster eller ved fare for overfiske",
+   "ledd": [
+    "Det er forbudt å ilandføre fangst som er tatt i strid med et ønsket beskatningsmønster eller som innebærer at forsvarlige totalkvoter av det aktuelle fiskeslaget vil kunne bli overskredet.",
+    "En fangst skal anses for å være i strid med første ledd når den består av fisk fra fiskebestander som er underlagt norske reguleringer, og er tatt uten grunnlag i fiskeriavtale mellom Norge og flaggstaten, eller av fartøy som er registrert i en stat som Norge ikke har inngått fiskeriavtale med."
+   ],
+   "endringer": [
+    "Tilføyd ved forskrift 12 mai 1995 nr. 472. Endret ved forskrifter 24 mai 1995 nr. 506, 29 juni 1999 nr. 762, 15 juni 2004 nr. 893 (tidligere § 2), 27 april 2007 nr. 449 (i kraft 1 mai 2007)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Forbud mot ilandføring av fisk tatt i strid med bestemmelser i internasjonale avtaler",
+   "ledd": [
+    "Det er forbudt å ilandføre fangst bestående av fisk som er tatt i strid med bestemmelser fastsatt av regionale eller subregionale fiskeriforvaltningsorganisasjoner eller – arrangementer, herunder slik fangst tatt av borgere fra stater som ikke er medlemmer eller ikke er parter i slike organisasjoner eller arrangementer.",
+    "Med fiskeriforvaltningsarrangementer menes i denne sammenheng omforent regulering av bestander innenfor et arrangement mellom andre stater eller sammenslutning av stater og Norge."
+   ],
+   "endringer": [
+    "Endret ved forskrifter 12 mai 1995 nr. 472 (tidligere § 2), 24 mai 1995 nr. 506, 29 juni 1999 nr. 762, 15 juni 2004 nr. 893 (tidligere § 3), 27 april 2007 nr. 449 (i kraft 1 mai 2007)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Innhenting av bekreftelse fra flaggstat og forbud mot ilandføring",
+   "ledd": [
+    "Fiskeridirektoratet kan anmode om bekreftelse på at fangsten ikke er tatt som ledd i fiskeaktiviteter som er i strid med et ønsket beskatnings- eller fiskemønster, eller som er i strid med regler om fiskeaktiviteter som er avtalt med fremmed stat. Anmodning om bekreftelse sendes flaggstaten til fartøyet som fører fangsten eller flaggstaten til fartøy som fisket den.",
+    "Fiskeridirektoratet kan nedlegge forbud mot ilandføring av fangsten inntil tilfredsstillende bekreftelse er mottatt."
+   ],
+   "endringer": [
+    "Endret ved forskrifter 24 mai 1995 nr. 506 (tidligere § 4), 29 juni 1999 nr. 762, 27 april 2007 nr. 449 (i kraft 1 mai 2007)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "Forbud mot ilandføring, omlasting og bearbeiding av fisk i norsk havn",
+   "ledd": [
+    "Fiskeridirektoratet kan nedlegge forbud mot ilandføring fra fangstfeltet, samt omlasting og bearbeiding av fisk i norsk havn, med fartøy som ikke er norsk når fartøyet har tatt del i fiskeaktiviteter som vesentlig er i strid med et ønsket beskatnings- eller fiskemønster, eller som vesentlig er i strid med regler om fiskeaktiviteter som er avtalt med fremmed stat.",
+    "Forbud kan også nedlegges når fartøyet eies eller drives av et rettssubjekt som med et annet fartøy har tatt del i fiskeaktiviteter som vesentlig er i strid med et ønsket beskatnings- eller fiskemønster, eller som vesentlig er i strid med regler om fiskeaktiviteter som er avtalt med fremmed stat."
+   ],
+   "endringer": [
+    "Tilføyd ved forskrift 27 april 2007 nr. 449 (i kraft 1 mai 2007)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 7",
+   "tittel": "Forbud mot lasting, lossing og havne-, forsynings- og støttetjenester",
+   "ledd": [
+    "Fiskeridirektoratet kan nedlegge forbud mot lasting, lossing og havne-, forsynings- og støttetjenester i norsk havn, til og fra fartøy som er eller blir underlagt forbud etter § 6.",
+    "Forbud kan også nedlegges mot omlasting, forsynings- og støttetjenester i Norges territorialfarvann og territorialfarvannet ved Jan Mayen, til og fra fartøy som er eller blir underlagt forbud etter § 6."
+   ],
+   "endringer": [
+    "Tilføyd ved forskrift 27 april 2007 nr. 449 (i kraft 1 mai 2007)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-8",
+   "nummer": "§ 8",
+   "tittel": "Regionale fiskeriforvaltningsorganisasjoners IUU-lister",
+   "ledd": [
+    "Fiskeridirektoratet kan nedlegge forbud som nevnt i § 6 og § 7 for fartøy som er oppført på regionale fiskeriforvaltningsorganisasjoners lister over fartøy som tar del i illegale, urapporterte eller uregulerte fiskeaktiviteter."
+   ],
+   "endringer": [
+    "Tilføyd ved forskrift 27 april 2007 nr. 449 (i kraft 1 mai 2007)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-9",
+   "nummer": "§ 9",
+   "tittel": "Forbud mot omlasting, forsynings- og støttetjenester til og fra annet fartøy med norsk fartøy",
+   "ledd": [
+    "Fiskeridirektoratet kan nedlegge forbud mot omlasting, forsynings- og støttetjenester til og fra annet fartøy med norsk fartøy når det er eller blir nedlagt forbud rettet mot førstnevnte fartøy i medhold av § 6, § 7 og § 8."
+   ],
+   "endringer": [
+    "Tilføyd ved forskrift 27 april 2007 nr. 449 (i kraft 1 mai 2007)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-10",
+   "nummer": "§ 10",
+   "tittel": "Forholdet til fartøyenes flaggstat",
+   "ledd": [
+    "Fiskeridirektoratet skal varsle fartøyets flaggstat i rimelig tid før forbud nedlegges dersom det ikke kan oppstå fare for at formålet med forbudene forspilles. Forbud skal ikke nedlegges dersom flaggstaten innen rimelig tid notifiserer at de har ilagt og gjennomført sanksjoner, og Fiskeridirektoratet anser sanksjonene som relevante og tilstrekkelige.",
+    "Fiskeridirektoratet skal vurdere om et nedlagt forbud skal opprettholdes dersom flaggstaten i ettertid notifiserer at de har ilagt sanksjoner for samme forhold. Forbud skal ikke opprettholdes dersom ilagte sanksjoner anses som relevante og tilstrekkelige.",
+    "Bestemmelsene i første og andre ledd gjelder ikke i forhold til forbud nedlagt med hjemmel i § 5 eller § 8."
+   ],
+   "endringer": [
+    "Tilføyd ved forskrift 27 april 2007 nr. 449 (i kraft 1 mai 2007)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-11",
+   "nummer": "§ 11",
+   "tittel": "Offentliggjøring av lister over fartøy som er omfattet av forbud",
+   "ledd": [
+    "Fiskeridirektoratet skal offentliggjøre lister over de forbud som til enhver tid gjelder samt over de fartøy der det er sendt melding til flaggstaten om at forbud vurderes nedlagt.",
+    "Listene skal til enhver tid være tilgjengelige på Fiskeridirektoratets nettsted med adressen www.fiskeridir.no."
+   ],
+   "endringer": [
+    "Tilføyd ved forskrift 27 april 2007 nr. 449 (i kraft 1 mai 2007)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-12",
+   "nummer": "§ 12",
+   "tittel": "Straff og inndragning",
+   "ledd": [
+    "Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av denne forskrifts § 2 til § 9 straffes i henhold til lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar (havressurslova) § 63 og § 64.",
+    "Inndragning kan skje i henhold til lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar (havressurslova) § 65."
+   ],
+   "endringer": [
+    "Tilføyd ved forskrift 27 april 2007 nr. 449 (i kraft 1 mai 2007), endret ved forskrift 23 des 2013 nr. 1691 (i kraft 1 jan 2014)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-13",
+   "nummer": "§ 13",
+   "tittel": null,
+   "ledd": [
+    "Denne forskrift trer i kraft straks."
+   ],
+   "endringer": [
+    "Endret ved forskrifter 24 mai 1995 nr. 506 (tidligere § 5), 27 april 2007 nr. 449 (i kraft 1 mai 2007, tidligere § 6)."
+   ]
+  }
+ ]
+}

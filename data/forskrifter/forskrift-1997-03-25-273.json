@@ -1,0 +1,86 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-1997-03-25-273",
+ "dokumentid": "SF/forskrift/1997-03-25-273",
+ "departement": [
+  "Arbeids- og inkluderingsdepartementet"
+ ],
+ "etat": [
+  "Trygdeavd."
+ ],
+ "kunngjort_i": "Avd I 1997 651",
+ "ikraft": "1997-05-01",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1997-02-28-19/§25-15",
+   "tekst": "lov/1997-02-28-19/§25-15"
+  },
+  {
+   "ref": "lov/1946-12-13-21/§10",
+   "tekst": "lov/1946-12-13-21/§10"
+  },
+  {
+   "ref": "lov/1946-12-13-22/§15",
+   "tekst": "lov/1946-12-13-22/§15"
+  },
+  {
+   "ref": "lov/1958-12-12-10/§49",
+   "tekst": "lov/1958-12-12-10/§49"
+  }
+ ],
+ "korttittel": "Forskrift om beregning av kapitalverdier",
+ "tittel": "Forskrift om beregning av kapitalverdier av trygdeytelser.",
+ "annet": "Fastsatt av Sosial- og helsedepartementet 25. mars 1997 med hjemmel i lov 28. februar 1997 nr. 19 om folketrygd § 25-15 andre ledd, lov 13. desember 1946 nr. 21 om krigspensjonering for militærpersoner § 10 andre ledd, lov 13. desember 1946 nr. 22 om krigspensjonering for hjemmestyrkepersonell og sivilpersoner § 15 andre ledd og lov 12. desember 1958 nr. 10 om yrkesskadetrygd § 49.",
+ "refid": "forskrift/1997-03-25-273",
+ "eli": "/eli/forskrift/1997/03/25/273",
+ "url": "https://lovdata.no/dokument/SF/forskrift/1997-03-25-273",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Virkeområde",
+   "ledd": [
+    "Denne forskriften gjelder ved beregning av kapitalverdier av livsvarige terminytelser."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Grunnlagsrente",
+   "ledd": [
+    "Det nyttes en grunnlagsrente på 6 prosent pro anno."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Dødelighetserfaringer",
+   "ledd": [
+    "1. Ved kapitalisering av terminytelser til menn og til enker nyttes dødelighetserfaringene fra Rikstrygdeverkets undersøkelser for perioden 1956 – 1960.\n2. Ved kapitalisering av andre terminytelser til kvinner enn enkepensjon nyttes dødelighetserfaringene for det norske folk, kvinner, for perioden 1956 – 1960."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Gjengiftefrekvenser",
+   "ledd": [
+    "1. Ved kapitalisering av enkepensjoner nyttes det en gjengiftefrekvens på 3 prosent til og med 34 år, synkende med 1 promille pr. år til og med alder 40 og deretter med 2 promille pr. år til og med alder 49. Det regnes ikke med gjengiftefrekvens fra og med alder 50.\n2. Ved kapitalisering av enkemannspensjoner multipliseres kapitalfaktorer for terminytelser til menn med forholdet mellom kapitalfaktorer for enkepensjon til enke i samme alder beregnet med og uten gjengiftefrekvenser."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Forskriften trer i kraft den 1. mai 1997."
+   ]
+  }
+ ]
+}

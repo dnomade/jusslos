@@ -1,0 +1,101 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2017-12-13-2099",
+ "dokumentid": "SF/forskrift/2017-12-13-2099",
+ "departement": [
+  "Arbeids- og inkluderingsdepartementet"
+ ],
+ "etat": [
+  "Velferdspolitisk avd."
+ ],
+ "ikraft": "2018-01-01",
+ "siste_endring_ikraft": "2025-02-19",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2025-02-19-252",
+   "tekst": "forskrift/2025-02-19-252"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1997-02-28-19/§25-15",
+   "tekst": "lov/1997-02-28-19/§25-15"
+  },
+  {
+   "ref": "lov/1997-02-28-19/§1-3",
+   "tekst": "lov/1997-02-28-19/§1-3"
+  }
+ ],
+ "kunngjort": "2017-12-18 15:50",
+ "tittel": "Forskrift om beregning av arbeidsavklaringspenger etter EØS-avtalen",
+ "annet": "Hjemmel: Fastsatt av Arbeids- og sosialdepartementet 13. desember 2017 med hjemmel i lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven) § 25-15 og § 1-3.\nEØS-henvisninger: EØS-avtalen vedlegg VI nr. 1 (forordning (EF) nr. 883/2004) og nr. 2 (forordning (EF) nr. 987/2009).\nEndret ved forskrifter 4 mars 2024 nr. 379, 19 feb 2025 nr. 252.",
+ "refid": "forskrift/2017-12-13-2099",
+ "eli": "/eli/forskrift/2017/12/13/2099",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2017-12-13-2099",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Virkeområde",
+   "ledd": [
+    "Denne forskriften inneholder bestemmelser om beregning av arbeidsavklaringspenger for personer som omfattes av EØS-avtalen vedlegg VI nr. 1 og 2 (Europaparlaments- og rådsforordning (EF) nr. 883/2004 om koordinering av trygdeordninger og Europaparlaments- og rådsforordning (EF) nr. 987/2009 om regler for gjennomføring av forordning (EF) nr. 883/2004 – mfl.). Bestemmelsene gjelder tilsvarende i tilfeller hvor tilsvarende regler kommer til anvendelse etter særskilt avtale med annet land."
+   ],
+   "endringer": [
+    "Endret ved forskrift 19 feb 2025 nr. 252."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Arbeidsperioder i andre medlemsland",
+   "ledd": [
+    "Ved beregningen av inntektsavhengige ytelser skal det tas hensyn til arbeidsperioder i andre medlemsland i de tre siste kalenderårene forut for det året da arbeidsevnen ble nedsatt med minst halvparten (inntektsgrunnlagsårene). Det er et vilkår at vedkommende har hatt pensjonsgivende inntekt i Norge i disse årene eller i året da arbeidsevnen ble nedsatt i en slik grad at vedkommende hindres i å beholde eller skaffe seg inntektsgivende arbeid.",
+    "Arbeidsperioder i andre medlemsland skal dokumenteres ved innhenting av opplysninger fra kompetent institusjon eller trygdeordning på relevant EØS-blankett."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Beregnet inntekt for arbeidsperioder i andre medlemsland",
+   "ledd": [
+    "Det skal beregnes en inntekt for arbeidsperioder i andre medlemsland i inntektsgrunnlagsårene. Den beregnede inntekten for den enkelte perioden fastsettes ved å gange periodens varighet med norsk inntektsnivå etter annet til fjerde ledd.",
+    "Det inntektsnivået som skal legges til grunn ved beregningen etter første ledd, skal være gjennomsnittlig pensjonsgivende inntekt i Norge i inntektsgrunnlagsårene. Ved beregningen av gjennomsnittsinntekten ses det bort fra perioder da stønadsmottakeren ikke har vært medlem av folketrygden. Gjennomsnittsinntekten fastsettes som uke-, måneds- eller årsinntekt, alt ettersom de utenlandske arbeidsperiodene er angitt i uker, måneder eller år.",
+    "Dersom stønadsmottakeren ikke hadde pensjonsgivende inntekt i Norge i inntektsgrunnlagsårene, men hadde slik inntekt i året da arbeidsevnen ble nedsatt i en slik grad at vedkommende hindres i å beholde eller skaffe seg inntektsgivende arbeid, skal denne inntekten, omgjort til uke-, måneds- eller årsinntekt, legges til grunn som inntektsnivå ved beregningen etter første ledd. Bestemmelsene i annet ledd første og annet punktum gjelder tilsvarende.",
+    "Bestemmelsene i folketrygdloven § 11-19 annet ledd gjelder tilsvarende ved beregningene etter annet og tredje ledd."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Grunnlaget for inntektsavhengige ytelser",
+   "ledd": [
+    "I saker som omfattes av § 1 skal beregnet inntekt etter § 3 likestilles med pensjonsgivende inntekt i Norge ved anvendelsen av bestemmelsene i folketrygdloven § 11-19. Dersom det i ett eller flere av inntektsgrunnlagsårene foreligger både inntekt i Norge og beregnet inntekt etter § 3, skal disse inntektene summeres. Den inntekten som skal regnes med for hvert enkelt av de tre årene kan etter dette bare bestå av inntekt i Norge, bare beregnet inntekt etter § 3 eller en kombinasjon."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "(Opphevet)",
+   "ledd": [],
+   "endringer": [
+    "Opphevet ved forskrift 4 mars 2024 nr. 379."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Forskriften trer i kraft 1. januar 2018."
+   ]
+  }
+ ]
+}

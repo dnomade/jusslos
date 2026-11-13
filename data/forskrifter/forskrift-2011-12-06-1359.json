@@ -1,0 +1,620 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2011-12-06-1359",
+ "dokumentid": "SF/forskrift/2011-12-06-1359",
+ "departement": [
+  "Arbeids- og inkluderingsdepartementet"
+ ],
+ "etat": [
+  "Arbeidsmiljø- og sikkerhetsavdelingen"
+ ],
+ "kunngjort_i": "I 2011 hefte 14",
+ "ikraft": "2013-01-01",
+ "siste_endring_ikraft": "2020-07-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2020-06-19-1272",
+   "tekst": "forskrift/2020-06-19-1272 fra 2020-07-01"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2005-06-17-62/§1-3",
+   "tekst": "lov/2005-06-17-62/§1-3"
+  },
+  {
+   "ref": "lov/2005-06-17-62/§1-4",
+   "tekst": "lov/2005-06-17-62/§1-4"
+  },
+  {
+   "ref": "lov/2005-06-17-62/§5-4",
+   "tekst": "lov/2005-06-17-62/§5-4"
+  },
+  {
+   "ref": "lov/2005-06-17-62/§5-5",
+   "tekst": "lov/2005-06-17-62/§5-5"
+  },
+  {
+   "ref": "forskrift/2021-06-29-2280",
+   "tekst": "forskrift/2021-06-29-2280"
+  }
+ ],
+ "kunngjort": "2011-12-28 14:05",
+ "siste_rettelse": "2022-03-22 (hjemmel, tegnsetting i lister tilpasset universell utforming)",
+ "korttittel": "Produsentforskriften",
+ "tittel": "Forskrift om konstruksjon, utforming og fremstilling av arbeidsutstyr og kjemikalier (produsentforskriften)",
+ "annet": "Hjemmel: Fastsatt Arbeidsdepartementet 6. desember 2011 med hjemmel i lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid, stillingsvern mv. (arbeidsmiljøloven) § 1-3, § 1-4, § 5-4 og § 5-5.\nTilføyd hjemmel: Delegeringsvedtak 29 juni 2021 nr. 2280.\nEØS-henvisninger: Sendt til notifisering etter lov 17. desember 2004 nr. 101 om europeisk meldeplikt for tekniske regler m.m. (EØS-høringsloven) § 11, jf. § 10, jf. EØS-avtalen vedlegg II kap. XIX nr. 1 (direktiv 98/34/EF, som endret ved direktiv 98/48/EF).\nEndret ved forskrifter 19 des 2012 nr. 1374, 30 des 2013 nr. 1717, 14 jan 2016 nr. 97, 30 des 2013 nr. 1717 som endret ved forskrift 22 des 2014 nr. 1898, 21 juni 2016 nr. 762, 22 des 2016 nr. 1837, 19 juni 2020 nr. 1272 (i kraft 1 juli 2020).\nRettelser: 12.01.2015 (endringer i kapittel 4 tilbakeført), 22.03.2022 (hjemmel, tegnsetting i lister tilpasset universell utforming).",
+ "refid": "forskrift/2011-12-06-1359",
+ "eli": "/eli/forskrift/2011/12/06/1359",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2011-12-06-1359",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1-1",
+     "tittel": "Formål",
+     "ledd": [
+      "Formålet med forskriften er å sørge for at arbeidsutstyr og andre produkter er konstruert, utformet og produsert slik at arbeidstakerne ved bruken er vernet mot skader på liv eller helse."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 1-2",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Kapittel 2 gjelder for arbeidsutstyr som ikke omfattes av forskrift 20. mai 2009 nr. 544 om maskiner og som brukes eller ventelig vil bli brukt i virksomhet som kommer inn under arbeidsmiljøloven.",
+      "Kapittel 3 gjelder for traktorer som ble levert før 1. september 1964.",
+      "Kapittel 4 gjelder stillaser, stiger og konstruksjoner på tak og fasader. Kapitlet gjelder ikke for petroleumsvirksomhet til havs og for virksomhet på landanlegg som nevnt i rammeforskriften § 6 bokstav e.",
+      "Kapittel 5 gjelder for enkle trykkbeholdere."
+     ],
+     "endringer": [
+      "Endret ved forskrift 19 des 2012 nr. 1374 (i kraft 1 jan 2013)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 1-3",
+     "tittel": "Hvem forskriften retter seg mot",
+     "ledd": [
+      "Forskriften retter seg mot den som konstruerer, produserer, importerer, markedsfører, omsetter, leier ut, låner ut eller setter i drift produkter som omfattes av forskriften.",
+      "Forskriften gjelder også for virksomheter som ikke sysselsetter arbeidstakere."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 1-4",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "I denne forskriften menes med:\n1. arbeidsutstyr: tekniske innretninger o.l. som maskiner, løfteredskap, sikkerhetskomponenter, beholdere, transportinnretninger, apparater, installasjoner, verktøy og enhver annen gjenstand som nyttes ved fremstilling av et produkt eller ved utførelse av arbeid,\n2. traktor: motordrevet kjøretøy på hjul eller belter, med minst to aksler, konstruert for å trekke tilhengervogner o.l., å bære, trekke, skyve eller drive forskjellig arbeidsredskap."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-5",
+     "nummer": "§ 1-5",
+     "tittel": "Dispensasjon",
+     "ledd": [
+      "Arbeidstilsynet kan gi dispensasjon fra forskriften dersom det foreligger særlige grunner, det er sikkerhets- og helsemessig forsvarlig, og det ikke strider mot EØS-avtalen."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Krav til arbeidsutstyr m.m.",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 2-1",
+     "tittel": "Generelle regler",
+     "ledd": [
+      "Arbeidsutstyret skal være utformet slik at det kan transporteres, stilles opp, brukes og vedlikeholdes uten fare for skade på liv eller helse, og uten at arbeidstakere utsettes for uheldige belastninger. Om nødvendig skal arbeidsutstyret være utstyrt med særskilt verneinnretning.",
+      "Dersom det er nødvendig for å oppfylle kravene til sikkerhet etter første ledd, skal bruksanvisningen gi klare instrukser om hvorledes arbeidsutstyret kan transporteres, stilles opp, brukes og vedlikeholdes uten fare for skade på liv eller helse, jf. § 2-26."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 2-2",
+     "tittel": "Tilpasning menneske – maskin",
+     "ledd": [
+      "Arbeidsutstyret skal være slik laget og oppstilt at arbeidsstillinger og arbeidsbevegelser ikke medfører fare for ulykker, uheldige belastninger og skade på liv eller helse."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 2-3",
+     "tittel": "Funksjonssikkerhet",
+     "ledd": [
+      "Arbeidsutstyret skal ha betryggende styrke, være av egnet materiale og slik utført at den kan motstå påregnelige påkjenninger, uten at dette fører til endringer som kan medføre fare for skade på liv eller helse.",
+      "Dersom det i arbeidsutstyret kan oppstå forhold som medfører fare for skade på liv eller helse, skal den være effektivt sikret mot dette. Om nødvendig skal arbeidsutstyret ha hensiktsmessig varslingsutstyr.",
+      "Arbeidsutstyr som brukes i ekstremt miljø eller under ekstreme driftsforhold, skal ha innretninger som sikrer at det fungerer uten fare for skade på liv eller helse."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 2-4",
+     "tittel": "Form",
+     "ledd": [
+      "Arbeidsutstyret skal så vidt mulig gis en utforming som ikke medfører fare for skade på liv eller helse eller uheldige belastninger for arbeidstakere. Tilgjengelige deler på arbeidsutstyret skal så vidt mulig være utført uten skarpe hjørner, kanter og trange fordypninger som kan medføre skade på liv eller helse."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 2-5",
+     "tittel": "Stabilitet",
+     "ledd": [
+      "Arbeidsutstyret skal være slik laget eller festet at det ikke kan velte eller forskyve seg utilsiktet slik at det kan medføre fare for skade."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-6",
+     "nummer": "§ 2-6",
+     "tittel": "Spesielle sikkerhetshensyn",
+     "ledd": [
+      "Det skal spesielt legges vekt på at arbeidsutstyret er betryggende sikret mot:\na. at deler slynges ut fra verktøy, arbeidsstykke mv.,\nb. at farlig utstrømning eller frigjøring av pulvergods, væske, damp, gass og kulde eller varme kan forekomme,\nc. at personer kommer i utilsiktet berøring med bevegelige deler eller varme/kalde deler eller farlige stoffer dersom det kan medføre fare for skade på liv eller helse."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-7",
+     "nummer": "§ 2-7",
+     "tittel": "Betjening",
+     "ledd": [
+      "Sjalting, herunder start og stopp, samt styring av arbeidsutstyr skal kunne foretas uten at det oppstår fare for skade på liv eller helse.",
+      "Sjalte- og styrebevegelser skal så vidt mulig være i samsvar med arbeidsutstyrets bevegelser."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-8",
+     "nummer": "§ 2-8",
+     "tittel": "Betjeningsorgan",
+     "ledd": [
+      "Betjeningsorgan skal være slik utført og plassert at det ikke utsettes for utilsiktet påvirkning som kan medføre fare for skade på liv eller helse.",
+      "Betjeningsorgan skal være slik plassert at det kan nås uten besvær. Betjeningsorgan som brukes kontinuerlig, skal være plassert slik at statiske belastninger og unødvendig strekk og vridning av kroppen som kan medføre helsefare, ikke forekommer.",
+      "Betjeningsorgan skal normalt være plassert slik at operatøren fra betjeningsplass har full oversikt over eventuelt fareområde.",
+      "Hvis det ikke er oversikt over hele arbeidsutstyret, skal det automatisk gis varselsignal i betryggende lang tid før en arbeidsoperasjon settes i gang. Om nødvendig skal brytere kunne låses med individuelle låser."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-9",
+     "nummer": "§ 2-9",
+     "tittel": "Arbeidstakt",
+     "ledd": [
+      "Arbeidsutstyr som medfører gjentakelsesarbeid og styrt arbeid skal så vidt mulig være slik innrettet at operatøren kan variere arbeidstakten."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-10",
+     "nummer": "§ 2-10",
+     "tittel": "Driftstilstand",
+     "ledd": [
+      "Når sikkerheten er avhengig av driftstilstanden, skal arbeidsutstyret om nødvendig ha utstyr for overvåking, kontroll og styring av denne."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-11",
+     "nummer": "§ 2-11",
+     "tittel": "Automatisk overvåket arbeidsutstyr",
+     "ledd": [
+      "Automatisk drevne, styrte eller overvåket arbeidsutstyr skal om nødvendig ha utstyr for sikker nedstyring av prosessen, utkopling av automatisk styring, manuell betjening og nødstopp.",
+      "Hvis svikt i automatikken eller andre forhold kan medføre fare for skade på liv eller helse, skal det ved arbeidsutstyret finnes anvisninger på nødvendige vernetiltak."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-12",
+     "nummer": "§ 2-12",
+     "tittel": "Informasjon om prosesser",
+     "ledd": [
+      "Måleinnretninger og signaler som er nødvendig for kontroll og styring av arbeidsprosessen, skal være pålitelige og lette å forstå. Spesielt gjelder at:\na. opplysninger som har betydning for sikkerheten skal skille seg klart ut fra andre opplysninger,\nb. akustiske eller optiske signaler skal kunne oppfattes uten vanskelighet,\nc. instrumenter mv. som gir informasjon om arbeidsprosessen skal være hensiktsmessig plassert, tydelige og ikke gi grunnlag for feiltolking."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-13",
+     "nummer": "§ 2-13",
+     "tittel": "Nødstopp- og bremseinnretninger",
+     "ledd": [
+      "Dersom det er nødvendig for å oppfylle kravene til sikkerhet etter § 2-1 første ledd, skal arbeidsutstyret ha nødstopp. Nødstoppinnretning skal være markert med rødt, og slik plassert at den er godt synlig og lett å nå. Bruk av nødstoppinnretning skal ikke medføre farlige forhold. Gjenstart etter stopp ved påvirkning av nødstopp- eller verneinnretning må bare kunne foretas med den vanlige startinnretning.",
+      "Arbeidsutstyr som kan fortsette å gå etter at krafttilførselen er brutt og derved medføre fare, skal være utstyrt med hensiktsmessig bremseinnretning."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-14",
+     "nummer": "§ 2-14",
+     "tittel": "Arbeid og opphold i faresone",
+     "ledd": [
+      "Arbeidsutstyr som regelmessig krever arbeidsbevegelser inn i faresonen, skal ha spesielle betjeningsinnretninger og/eller verneinnretninger som er slik koplet til arbeidsutstyrets styresystem at vernefunksjonen inntrer automatisk.",
+      "Når det ved verktøyoppstilling, vedlikehold, reparasjon mv. er nødvendig å oppholde seg i faresone, skal arbeidsutstyret ha utstyr som sikrer mot utilsiktet bevegelse eller igangsetting."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-15",
+     "nummer": "§ 2-15",
+     "tittel": "Energi",
+     "ledd": [
+      "Utstyr for energitilførsel og bortføring av forbrenningsprodukter skal være slik innrettet, utført og montert at det ikke er fare for helseskade."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-16",
+     "nummer": "§ 2-16",
+     "tittel": "Elektrisk utstyr",
+     "ledd": [
+      "Elektrisk utstyr på arbeidsutstyr skal tilfredsstille bestemmelsene i forskrift 14. januar 2011 nr. 36 om elektrisk utstyr.",
+      "I bruksanvisningen eller på annen måte skal det gis entydige opplysninger om tilkopling og bruk av arbeidsutstyret."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-17",
+     "nummer": "§ 2-17",
+     "tittel": "Pneumatisk og hydraulisk utstyr",
+     "ledd": [
+      "For pneumatiske og hydrauliske arbeidsutstyr skal man særlig ta hensyn til:\na. At trykket ikke blir større enn tillatt,\nb. At trykkfall ikke medfører fare,\nc. At utstrømmende gass eller væske under trykk ikke medfører fare,\nd. At utstyret er skjermet mot skadelig påvirkning."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-18",
+     "nummer": "§ 2-18",
+     "tittel": "Utstyr for farefri betjening og vedlikehold",
+     "ledd": [
+      "Arbeidsutstyr skal ha nødvendige plattformer, gangbaner, trapper/leidere og rekkverk for å sikre farefri betjening og vedlikehold."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-19",
+     "nummer": "§ 2-19",
+     "tittel": "Transport",
+     "ledd": [
+      "Arbeidsutstyr skal kunne transporteres med betryggende sikkerhet. Den skal om nødvendig ha løftepunkter som har tilstrekkelig bæreevne og som er slik plassert at arbeidsutstyret kan holdes i balanse."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-20",
+     "nummer": "§ 2-20",
+     "tittel": "Montering, vedlikehold og reparasjon",
+     "ledd": [
+      "Arbeidsutstyr skal være slik at montering, vedlikehold og reparasjon kan foregå uten fare for skade på liv eller helse og om mulig uten uheldige belastninger. Vedlikehold og reparasjon av arbeidsutstyr skal utføres etter behov og på grunnlag av bruksanvisning.",
+      "Som hovedregel skal arbeidet utføres når energitilførselen er koplet ut og arbeidsutstyret er i ro.",
+      "Det skal spesielt legges vekt på at:\na. deler som utilsiktet kan bevege seg, om nødvendig blokkeres,\nb. brann og eksplosjon ikke kan oppstå,\nc. anlegg under trykk er trykkavlastet og tømt,\nd. tanker og rør som har inneholdt farlige stoffer er omhyggelig avstengt og eventuelt rengjort,\ne. arbeidstakere benytter nødvendig personlig verneutstyr."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-21",
+     "nummer": "§ 2-21",
+     "tittel": "Vedlikehold eller reparasjon under drift",
+     "ledd": [
+      "Dersom vedlikehold eller reparasjon må utføres mens arbeidsutstyret eller deler av det er i drift, står under trykk e.l., skal det gå frem av bruksanvisningen hvilke tiltak som er nødvendige for at dette kan skje farefritt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-22",
+     "nummer": "§ 2-22",
+     "tittel": "Utforming av maskindeler",
+     "ledd": [
+      "Maskindeler som beveger seg i synsfeltet, skal være slik utformet og ha slike farger at øynene ikke blir anstrengt.",
+      "Maskiner som avgir spon, støv, røyk, damp eller gass skal være slik laget at det ikke skjer farlig spredning av stoffene. Hvis det ikke kan brukes lukket prosess, skal maskinene være slik laget at sugehoder og rørledninger kan koples til. Leverandører av maskiner skal kunne levere hensiktsmessige punktavsughoder og angi kapasiteten for avsugningsvifte hvis denne ikke inngår i maskinen. På maskiner der det alltid trengs punktavsug under produksjonen, skal hodet på avsuget være en del av maskinen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-23",
+     "nummer": "§ 2-23",
+     "tittel": "Stråling",
+     "ledd": [
+      "Maskiner som forutsetter bruk av radioaktive stoffer eller som er innrettet til å frembringe ioniserende eller annen helsefarlig stråling, skal isoleres og være slik innrettet at de ikke kan forårsake skade på liv eller helse når de brukes riktig. Strålingsintensiteten må ikke være større enn de grenseverdier som er angitt av rette myndighet. Maskinene skal ha hensiktsmessig varselskilt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-24",
+     "nummer": "§ 2-24",
+     "tittel": "Brann- og eksplosjonsfarlige maskiner",
+     "ledd": [
+      "Maskiner hvor det er fare for brann og eksplosjon, skal oppfylle følgende krav:\na. Maskiner skal være laget av materialer som ikke er brennbare.\nb. Maskiner må være slik innrettet at det ikke dannes farlig statisk elektrisitet.\nc. Eksplosjonsavlastere skal være slik innrettet at de ikke medfører fare når de åpner seg.\nd. Hvis det er nødvendig, skal maskinene ha automatisk brannslokkingsutstyr. Før bruk av brannslokkingsanlegg med slokkingsmidler som kan medføre forgiftningsfare, skal det avgis varselsignal."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-25",
+     "nummer": "§ 2-25",
+     "tittel": "Merking",
+     "ledd": [
+      "Arbeidsutstyr som det ikke er underlagt krav om CE-merking, skal være merket med produsentens, eller for importert arbeidsutstyr importørens navn og adresse, eller ha annen merking som gjør det lett å identifisere produsenten eller importøren. Dersom det ikke er plass til merking på arbeidsutstyret, merkes emballasjen.",
+      "Arbeidsutstyr skal i den utstrekning det har betydning for sikkerheten også merkes på norsk, varig og lett leselig med:\na. type, modellnummer og produksjonsår,\nb. vekt,\nc. symboler for funksjon og varsling,\nd største tillatte belastninger,\ne. største tillatte trykk for hydrauliske og pneumatiske innretninger,\nf. data for energitilførsel, omdreiningstall m.m.,\ng. nødvendig anvisning av løftepunkter for transport, jf. § 2-19,\nh. advarsler om eksplosjonsfare, berøringsfare, giftige gasser m.m."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-26",
+     "nummer": "§ 2-26",
+     "tittel": "Bruksanvisning",
+     "ledd": [
+      "Arbeidsutstyr skal leveres med nødvendig og lett forståelig bruksanvisning på norsk. Bruksanvisningen skal omfatte opplysninger om transport, oppstilling, montering, bruk og vedlikehold."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-27",
+     "nummer": "§ 2-27",
+     "tittel": "Rutiner for samsvar",
+     "ledd": [
+      "Produsent, importør og leverandør av arbeidsutstyr og kjemikalier skal ha etablert rutiner som sikrer at produktene til enhver tid har riktig og fullstendig merking, teknisk dokumentasjon og sikkerhetsdatablad i samsvar med krav i lov eller forskrift."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Førervern på gamle traktorer",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 3-1",
+     "tittel": "Beskyttelse av fører – typegodkjenning",
+     "ledd": [
+      "Importør, produsent eller leverandør kan bare omsette førervern som beskytter føreren ved velting og steiling, og skal sørge for at førervern er typegodkjent av Arbeidstilsynet før det leveres til bruk på traktor eller stilles ut i salgs- eller reklameøyemed her i landet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 3-2",
+     "tittel": "Førervern hvor øvre del kan avmonteres eller felles ned",
+     "ledd": [
+      "Førervern kan være utformet slik at det kan avmonteres eller felles ned.",
+      "På- og avmontering eller opp- og nedfelling skal kunne skje på en enkel og betryggende måte."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 3-3",
+     "tittel": "Søknad om typegodkjenning",
+     "ledd": [
+      "Søknad om typegodkjenning skal sendes Arbeidstilsynet, og søknaden skal inneholde følgende opplysninger:\na. Søkerens navn og adresse\nb. Traktorens navn og typebetegnelse\nc. Førervernets navn og typebetegnelse, og navn og adresse på produsent\nd. Rapport fra godtatt institusjon om vurdering, beregning eller prøving av førervernets styrke\ne. Materialspesifikasjon med henvisning til standard, ev. bekreftelse fra førervernprodusent om at førervernet er laget av halvtettet eller tettet stål\nf. Målsatt tegning av førervernet og dets innfestinger til traktoren."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 3-4",
+     "tittel": "Materialkvalitet",
+     "ledd": [
+      "Materiale i sveiset konstruksjon i førervern skal være godt egnet for sveising og være av tettet eller halvtettet stål."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 3-5",
+     "tittel": "Tilpasning til redskap og lignende",
+     "ledd": [
+      "Førervern skal være slik utformet at det ikke er til hinder for å bruke eller koble til redskap og lignende som normalt brukes sammen med traktor."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-6",
+     "nummer": "§ 3-6",
+     "tittel": "Atkomst- og betjeningsforhold",
+     "ledd": [
+      "Førervern skal være utformet slik av atkomst til traktoren og betjening fra førerplassen kan skje på en sikker måte."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-7",
+     "nummer": "§ 3-7",
+     "tittel": "Merking",
+     "ledd": [
+      "Førervern skal være merket med typegodkjenningsnummer, fabrikasjonsnummer, navn og typebetegnelse.",
+      "Merkingen skal være holdbar og lett synlig."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-8",
+     "nummer": "§ 3-8",
+     "tittel": "Monteringsanvisning",
+     "ledd": [
+      "Ved levering av førervern skal det følge med nødvendig og lett forståelig monteringsanvisning på norsk."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Stillaser og stiger",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 4-1",
+     "tittel": "Tekniske krav",
+     "ledd": [
+      "Stillaser, stiger og midlertidig utstyr for tilkomst og utførelse av arbeid på tak og fasader med tilhørende komponenter skal oppfylle de tekniske kravene i relevante NS-EN standarder eller ha tilsvarende sikkerhetsnivå."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 30 des 2013 nr. 1717 (i kraft 1 juli 2016), 21 juni 2016 nr. 762 (i kraft 1 juli 2016)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 4-2",
+     "tittel": "Belastningsklasser",
+     "ledd": [
+      "Stillaser skal klassifiseres i følgende seks klasser:\n| Klasse | Jevnt fordelt belastning kN/m2 (kg/m2) | Konsentrert last på areal 500 mm x 500 mm kN (kg) | Last av én person på areal 200 mm x 200 mm kN (kg) | Last på delareal\n| | | | | kN/m2 (kg/m2) | Delareal m2\n| 1 | 0,75 (75) | 1,50 (150) | 1,0 (100) | Ikke tillatt\n| 2 | 1,50 (150) | 1,50 (150) | 1,0 (100) | Ikke tillatt\n| 3 | 2,00 (200) | 1,50 (150) | 1,0 (100) | Ikke tillatt\n| 4 | 3,00 (300) | 3,00 (300) | 1,0 (100) | 5,00 (500) | 0,4 A\n| 5 | 4,50 (450) | 3,00 (300) | 1,0 (100) | 7,50 (750) | 0,4 A\n| 6 | 6,00 (600) | 3,00 (300) | 1,0 (100) | 10,00 (1000) | 0,5 A\nA = arealet mellom to spirepar."
+     ],
+     "endringer": [
+      "Endret ved forskrift 30 des 2013 nr. 1717 som endret ved forskrift 22 des 2014 nr. 1898 (i kraft 1 juli 2016)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 4-3",
+     "tittel": "Merking",
+     "ledd": [
+      "Arbeidsutstyr som skal ha sertifikat etter § 4-5, skal være varig og synlig merket med navn på sertifikatutsteder, sertifikatnummer, produsentens navn eller registrerte varemerke og produksjonsåret."
+     ],
+     "endringer": [
+      "Endret ved forskrift 30 des 2013 nr. 1717 som endret ved forskrift 22 des 2014 nr. 1898 (i kraft 1 juli 2016)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 4-4",
+     "tittel": "Monterings- og bruksveiledning",
+     "ledd": [
+      "Den som produserer eller setter i omsetning arbeidsutstyr etter § 4-1, skal utarbeide monterings- og bruksveiledning. Veiledningen skal være på norsk og gi informasjon om belastningsklasse, fundamentering, oppstilling, bruk, tilsyn, demontering, vedlikehold, reparasjon og kassasjonskriterier.",
+      "Monterings- og bruksveiledningen skal følge med produktet ved omsetning.",
+      "Monteringsveiledningen skal angi hvordan de forskjellige komponentene skal settes sammen og hvordan stillaset skal avstives og forankres.",
+      "Når et stillassystem kan monteres på flere måter slik at det kan dekke forskjellige belastningsklasser, skal dette gå klart fram av monteringsveiledningen."
+     ],
+     "endringer": [
+      "Endret ved forskrift 30 des 2013 nr. 1717 som endret ved forskrift 22 des 2014 nr. 1898 (i kraft 1 juli 2016)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-5",
+     "nummer": "§ 4-5",
+     "tittel": "Sertifikat",
+     "ledd": [
+      "Samsvar med kravene i § 4-1 til 4-4 skal dokumenteres met et sertifikat utstedt av et sertifiseringsorgan innen EØS som er akkreditert for oppgaven. Dette gjelder ikke dersom produktet omsettes i et mindre antall enn 10.",
+      "Sertifikatet skal være på norsk og inneholde informasjon om sertifikatutsteder, sertifikatnummer, produsentens navn, leverandørens navn, produktnavnet, produkttypen, materialtyper i lastbærende komponenter og en bekreftelse på at kravene i § 4-1 til § 4-4 og eventuelle relevante standarder er oppfylt. Sertifikatet er gyldig i maksimalt 10 år.",
+      "Sertifikatet skal følge med produktet ved omsetning.",
+      "Arbeidstilsynet kan kreve å få fremlagt sertifikatet og testrapporten."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 30 des 2013 nr. 1717 som endret ved forskrift 22 des 2014 nr. 1898 (i kraft 1 juli 2016), 22 des 2016 nr. 1837 (i kraft 1 jan 2017)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-6",
+     "nummer": "§ 4-6",
+     "tittel": "Kontroll",
+     "ledd": [
+      "Produkt som har sertifikat i henhold til § 4-5 skal kontrolleres årlig. Kontrollen skal utføres av det sertifiseringsorganet som utstedte sertifikatet eller av et kompetent organ som i henhold til avtale med sertifiseringsorganet kan gjennomføre kontrollen på vegne av dette. Dersom sertifiseringsorganet har opphørt, kan et annet sertifiseringsorgan utføre kontrollen.",
+      "Kontrollen skal omfatte et utvalg av produktets grunnleggende egenskaper og funksjonskrav og disse skal kontrolleres opp mot opplysningene om produktet som er gitt i sertifikatet. Kontrollen skal også omfatte at merking og bruks- og monteringsveiledning tilsvarer krav i § 4-3 og § 4-4. Kontrollen skal dokumenteres skriftlig med en rapport."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 19 juni 2020 nr. 1272 (i kraft 1 juli 2020)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-7",
+     "nummer": "§ 4-7",
+     "tittel": "Overgangsordning",
+     "ledd": [
+      "Produkter som er typegodkjent av Arbeidstilsynet kan omsettes inntil det tidspunkt som er angitt på typegodkjenningen. Etter utløpet av typegodkjenningen kreves sertifikat i samsvar med § 4-5 for videre omsetting på det norske markedet."
+     ],
+     "endringer": [
+      "Opphevet ved forskrift 30 des 2013 nr. 1717 (i kraft 1 juli 2016), tilføyd igjen ved forskrift 21 juni 2016 nr. 762 (i kraft 1 juli 2016), endret ved forskrift 19 juni 2020 nr. 1272 (i kraft 1 juli 2020, tidligere § 4-6)."
+     ],
+     "opphevet": "2020-07-01"
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Enkle trykkbeholdere",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 5-1",
+     "tittel": "Vanntrykkprøve og merking",
+     "ledd": [
+      "Produsenten av trykkluftflasker for pusteluft skal vanntrykkprøve trykkluftflasken. Trykkluftflasken skal merkes med måned og år for vanntrykkprøven."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Avsluttende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 6-1",
+     "tittel": "Straff",
+     "ledd": [
+      "Forsettlig eller uaktsom overtredelse av denne forskriften eller vedtak gitt i medhold av denne, eller medvirkning til dette, er straffbart i henhold til arbeidsmiljøloven kapittel 19."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 6-2",
+     "tittel": "Overtredelsesgebyr",
+     "ledd": [
+      "Dersom noen som har handlet på vegne av virksomheten har overtrådt bestemmelser i forskriften her eller vedtak gitt i medhold av denne, kan virksomheten ilegges overtredelsesgebyr etter arbeidsmiljøloven § 18-10."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 30 des 2013 nr. 1717 (i kraft 1 jan 2014)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-3",
+     "nummer": "§ 6-3",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Denne forskriften trer i kraft 1. januar 2013."
+     ],
+     "endringer": [
+      "Endret ved forskrift 30 des 2013 nr. 1717 (i kraft 1 jan 2014, tidligere § 6-2)."
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2026-11-03-2261",
+ "dokumentid": "SF/forskrift/2026-11-03-2261",
+ "departement": [
+  "Helse- og omsorgsdepartementet"
+ ],
+ "etat": [
+  "Folkehelseinstituttet"
+ ],
+ "ikraft": "2027-01-01",
+ "endrer": "forskrift/2023-01-11-48",
+ "hjemmel": [
+  {
+   "ref": "lov/2014-06-20-43/§19e",
+   "tekst": "lov/2014-06-20-43/§19e"
+  },
+  {
+   "ref": "lov/2014-06-20-43/§20",
+   "tekst": "lov/2014-06-20-43/§20"
+  },
+  {
+   "ref": "forskrift/2023-01-11-48/§3",
+   "tekst": "forskrift/2023-01-11-48/§3"
+  }
+ ],
+ "kunngjort": "2026-11-04 14:50",
+ "tittel": "Forskrift om endring i forskrift om nasjonal løsning for tilgjengeliggjøring av helsedata",
+ "annet": "Hjemmel: Fastsatt av Folkehelseinstituttet 3. november 2026 med hjemmel i lov 20. juni 2014 nr. 43 om helseregistre og behandling av helseopplysninger (helseregisterloven) § 19e og § 20, jf. forskrift 11. januar 2023 nr. 48 om nasjonal løsning for tilgjengeliggjøring av helsedata § 3.",
+ "refid": "forskrift/2026-11-03-2261",
+ "eli": "/eli/forskrift/2026/11/03/2261",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2026-11-03-2261",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "I forskrift 11. januar 2023 nr. 48 om nasjonal løsning for tilgjengeliggjøring av helsedata gjøres følgende endring:\nVedlegget skal lyde:\nHelseregistre som er inkludert i løsningen\na. Dødsårsaksregisteret\nb. Kreftregisteret\nc. Medisinsk fødselsregister\nd. Meldingssystem for smittsomme sykdommer (MSIS)\ne. System for vaksinasjonskontroll (SYSVAK)\nf. Norsk pasientregister (NPR)\ng. Nasjonalt register over hjerte- og karlidelser\nh. System for bivirkningsrapportering\ni. Kommunalt pasient- og brukerregister (KPR)\nj. Legemiddelregisteret\nk. Helsearkivregisteret\nl. Befolkningsbaserte helseundersøkelser som Folkehelseinstituttet er dataansvarlig for."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Forskriften trer i kraft 1. januar 2027."
+    }
+   ]
+  }
+ ]
+}

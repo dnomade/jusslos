@@ -1,0 +1,392 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2013-10-21-1241",
+ "dokumentid": "SF/forskrift/2013-10-21-1241",
+ "departement": [
+  "Digitaliserings- og forvaltningsdepartementet"
+ ],
+ "etat": [
+  "Avdeling for digitaliseringspolitikk (DIA), Nasjonal kommunikasjonsmyndighet (Nkom)"
+ ],
+ "kunngjort_i": "I 2013 hefte 15",
+ "ikraft": "2013-10-21",
+ "siste_endring_ikraft": "2025-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2024-12-20-3423",
+   "tekst": "forskrift/2024-12-20-3423 fra 2025-01-01"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2003-07-04-83/§1-4",
+   "tekst": "lov/2003-07-04-83/§1-4"
+  },
+  {
+   "ref": "lov/2003-07-04-83/§2-10",
+   "tekst": "lov/2003-07-04-83/§2-10"
+  },
+  {
+   "ref": "lov/2003-07-04-83/§10-1",
+   "tekst": "lov/2003-07-04-83/§10-1"
+  },
+  {
+   "ref": "lov/2003-07-04-83/§10-3",
+   "tekst": "lov/2003-07-04-83/§10-3"
+  },
+  {
+   "ref": "forskrift/2013-06-14-619",
+   "tekst": "forskrift/2013-06-14-619"
+  },
+  {
+   "ref": "forskrift/2021-06-18-2024",
+   "tekst": "forskrift/2021-06-18-2024"
+  },
+  {
+   "ref": "lov/2024-12-13-76/§1-4",
+   "tekst": "lov/2024-12-13-76/§1-4"
+  },
+  {
+   "ref": "lov/2024-12-13-76/§3-1",
+   "tekst": "lov/2024-12-13-76/§3-1"
+  },
+  {
+   "ref": "lov/2024-12-13-76/§15-1",
+   "tekst": "lov/2024-12-13-76/§15-1"
+  },
+  {
+   "ref": "lov/2024-12-13-76/§15-2",
+   "tekst": "lov/2024-12-13-76/§15-2"
+  },
+  {
+   "ref": "forskrift/2024-12-20-3413",
+   "tekst": "forskrift/2024-12-20-3413"
+  }
+ ],
+ "kunngjort": "2013-10-22 14:20",
+ "siste_rettelse": "2024-01-04 (departementstilhørighet)",
+ "tittel": "Forskrift om prioritet i mobilnett",
+ "annet": "Hjemmel: Fastsatt av Post- og teletilsynet 21. oktober 2013 med hjemmel i lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon (ekomloven) § 1-4, § 2-10 femte ledd, § 10-1 og § 10-3, jf. delegeringsvedtak 14. juni 2013 nr. 619.\nTilføyd hjemmel: Delegeringsvedtak 18. juni 2021 nr. 2024. Lov 13. desember 2024 nr. 76 om elektronisk kommunikasjon (ekomloven) § 1-4, § 3-1, § 15-1 og § 15-2, jf. delegeringsvedtak 20. desember 2024 nr. 3413\nEndret ved forskrifter 3 mai 2019 nr. 560 (departementsendring), 23 des 2022 nr. 2505 (i kraft 15 sep 2023), 20 des 2024 nr. 3423 (i kraft 1 jan 2025).\nRettet 04.01.2024 (departementstilhørighet).",
+ "refid": "forskrift/2013-10-21-1241",
+ "eli": "/eli/forskrift/2013/10/21/1241",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2013-10-21-1241",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Formål",
+     "ledd": [
+      "Formålet med forskriften er å bidra til at samfunnsviktig trafikk prioriteres i mobilnett i krise- eller beredskapssituasjoner."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Forskriften gjelder mobiltilbydere."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "I denne forskriften menes med:\nAutorisasjon: Godkjenning av at en virksomhet kan få prioritetsabonnement.\nMobilnett: Offentlig landmobilt elektronisk kommunikasjonsnett.\nMobiltilbyder: Tilbyder av tilgang til mobilnett og tilbyder av offentlige elektroniske kommunikasjonstjenester i mobilnett.\nTilgangsprioritet: Funksjon i mobilnett som sikrer prioritetsabonnenter høyere sannsynlighet enn andre for å komme gjennom med sin innkommende og utgående kommunikasjon når det lokalt er metning i mobilnettet.\nNasjonal gjesting: Funksjon som gjør det mulig for en sluttbruker å få formidlet egen mobiltilbyders offentlige elektroniske kommunikasjonstjenester i annen mobiltilbyders mobilnett i Norge.\nPrioritetsabonnement: Et mobilabonnement som inneholder tilgangsprioritet og nasjonal gjesting i medhold av denne forskrift."
+     ],
+     "endringer": [
+      "Endret ved forskrift 23 des 2022 nr. 2505 (i kraft 15 sep 2023)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Generelle krav",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 4",
+     "tittel": "Plikt til å tilby prioritetsabonnement",
+     "ledd": [
+      "Mobiltilbyder som tilbyr mobilabonnement til bedriftskunder i sluttbrukermarkedet, har plikt til å tilby prioritetsabonnement."
+     ],
+     "endringer": [
+      "Endret ved forskrift 23 des 2022 nr. 2505 (i kraft 15 sep 2023)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 5",
+     "tittel": "Plikt til å tilby nødvendig funksjonalitet til andre mobiltilbydere",
+     "ledd": [
+      "Mobiltilbyder som tilbyr tilgang til mobilnett til andre mobiltilbydere som plikter å tilby prioritetsabonnement, skal tilby nødvendig funksjonalitet for at disse kan tilby prioritetsabonnement til sine sluttbrukere. Denne funksjonaliteten skal tilbys på ikke-diskriminerende vilkår og til kostnadsorienterte priser. Mobiltilbyder skal på forespørsel fra Nasjonal kommunikasjonsmyndighet dokumentere at prisene er kostnadsorienterte."
+     ],
+     "endringer": [
+      "Endret ved forskrift 23 des 2022 nr. 2505 (i kraft 15 sep 2023)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 6",
+     "tittel": "Sikkerhet",
+     "ledd": [
+      "Mobiltilbyder som plikter å tilby prioritetsabonnement og mobiltilbydere som tilbyr tilgang til mobilnett til andre mobiltilbydere som plikter å tilby prioritetsabonnement, skal sørge for forsvarlig sikkerhet for tekniske og administrative funksjoner i prioritetsordningen, herunder opplysninger om prioritetsabonnenter.",
+      "Personer som behandler prioritetsabonnement hos mobiltilbyder skal ha særskilt fullmakt av mobiltilbyder til dette. Antallet fullmakter skal begrenses mest mulig. Tilgang til opplisting som identifiserer prioritetsabonnenter, skal begrenses til personer med fullmakt."
+     ],
+     "endringer": [
+      "Endret ved forskrift 23 des 2022 nr. 2505 (i kraft 15 sep 2023)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Funksjonelle krav mv.",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 7",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Opphevet ved forskrift 23 des 2022 nr. 2505 (i kraft 15 sep 2023)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 8",
+     "tittel": "Tilgangsprioritet",
+     "ledd": [
+      "Mobiltilbyder som plikter å tilby prioritetsabonnement skal for disse abonnementene ha tilgangsprioritet med følgende egenskaper:\na. tilgangsprioritet skal omfatte tale-, data- og meldingstjenester,\nb. tilgangsprioritet skal ikke påvirke nødsamtaler negativt,\nc. tilgangsprioritet skal ikke stille særskilte krav til mobilterminal og\nd. tilgangsprioritet skal gjelde også dersom prioritetsabonnenten er gjest, jf. § 9.",
+      "Nasjonal kommunikasjonsmyndighet kan fastsette nærmere krav til funksjon og egenskaper for tilgangsprioritet."
+     ],
+     "endringer": [
+      "Endret ved forskrift 23 des 2022 nr. 2505 (i kraft 15 sep 2023)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 9",
+     "tittel": "Nasjonal gjesting",
+     "ledd": [
+      "Mobiltilbydere som tilbyr tilgang til mobilnett skal tilby nasjonal gjesting for prioritetsabonnenter i hverandres nett.",
+      "Nasjonal gjesting skal gjelde over hele landet.",
+      "Nasjonal gjesting skal gjelde for tale, data og meldinger.",
+      "Nasjonal gjesting skal ikke stille særskilte krav til mobilterminal."
+     ],
+     "endringer": [
+      "Endret ved forskrift 23 des 2022 nr. 2505 (i kraft 15 sep 2023)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 10",
+     "tittel": "Forbindelser fra andre elektroniske kommunikasjonsnett",
+     "ledd": [
+      "Nasjonal kommunikasjonsmyndighet kan vedta at forbindelser som originerer i elektroniske kommunikasjonsnett som ikke omfattes av denne forskriften, skal behandles i henhold til tilgangsprioritet i terminerende mobilnett."
+     ],
+     "endringer": [
+      "Endret ved forskrift 23 des 2022 nr. 2505 (i kraft 15 sep 2023)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 11",
+     "tittel": "Aktivering",
+     "ledd": [
+      "Muligheten for tilgangsprioritet, jf. § 8, og nasjonal gjesting, jf. § 9, skal være til stede i mobilnettene til enhver tid."
+     ],
+     "endringer": [
+      "Endret ved forskrift 23 des 2022 nr. 2505 (i kraft 15 sep 2023)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-6",
+     "nummer": "§ 12",
+     "tittel": "Testing",
+     "ledd": [
+      "Mobiltilbyder som plikter å tilby prioritetsabonnement og mobiltilbydere som tilbyr tilgang til mobilnett til andre mobiltilbydere som plikter å tilby prioritetsabonnement skal, med forsvarlige mellomrom, gjennomføre eller få gjennomført tester som verifiserer at tilgangsprioritet og nasjonal gjesting oppfyller kravene i denne forskriften. Dokumentasjon på gjennomførte tester skal oversendes Nasjonal kommunikasjonsmyndighet på forespørsel."
+     ],
+     "endringer": [
+      "Endret ved forskrift 23 des 2022 nr. 2505 (i kraft 15 sep 2023)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Prioritetsabonnement",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 13",
+     "tittel": "Abonnementsvilkår mv.",
+     "ledd": [
+      "Prioritetsabonnement skal tilbys mot en løpende årsavgift som fastsettes av mobiltilbyder.",
+      "Prioritetsabonnement skal tilbys bare til virksomheter registrert i Enhetsregisteret.",
+      "Prioritetsabonnement skal så langt det passer være underlagt de samme abonnementsvilkår som mobiltilbyderen ellers benytter for mobilabonnement.",
+      "Nasjonal kommunikasjonsmyndighet kan sette særskilte krav til abonnementsvilkår for prioritetsabonnement, herunder endre årsavgiften fastsatt av mobiltilbyder.",
+      "Årsavgift tilfaller mobiltilbyder og skal være kostnadsorientert. Mobiltilbyder skal på forespørsel fra Nasjonal kommunikasjonsmyndighet kunne fremlegge grunnlaget for fastsettelse av årsavgift."
+     ],
+     "endringer": [
+      "Endret ved forskrift 23 des 2022 nr. 2505 (i kraft 15 sep 2023)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 14",
+     "tittel": "Verifisering av autorisasjon",
+     "ledd": [
+      "Mobiltilbyder skal verifisere at virksomhet, ved tegning av prioritetsabonnement, har autorisasjon.",
+      "Mobiltilbyder skal minst årlig verifisere at virksomheter med prioritetsabonnent har beholdt sin autorisasjon.",
+      "Mobiltilbyder plikter å avslutte prioritetsabonnement til virksomhet som ikke lenger har autorisasjon."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 15",
+     "tittel": "Oversikt over prioritetsabonnement mv.",
+     "ledd": [
+      "Mobiltilbyder skal på forespørsel fra Nasjonal kommunikasjonsmyndighet fremlegge oversikt over aktive prioritetsabonnement. Mobiltilbyder som tilbyr andre mobiltilbydere tilgang til mobilnett skal også kunne fremlegge oversikt over deres aktive prioritetsabonnement. Mobiltilbydere som kjøper tilgang hos tilbydere av mobilnett, har plikt til å fremlegge oversikt over sine prioritetsabonnement for sin tilbyder av mobilnett.",
+      "Nasjonal kommunikasjonsmyndighet kan kreve at mobiltilbyder lagrer og utleverer statistiske data for faktisk bruk av prioritetsfunksjonen og nasjonal gjesting."
+     ],
+     "endringer": [
+      "Endret ved forskrift 23 des 2022 nr. 2505 (i kraft 15 sep 2023)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 16",
+     "tittel": "Begrensning av antall prioritetsabonnement",
+     "ledd": [
+      "Nasjonal kommunikasjonsmyndighet kan ved behov iverksette tiltak for å begrense antall prioritetsabonnement."
+     ],
+     "endringer": [
+      "Endret ved forskrift 23 des 2022 nr. 2505 (i kraft 15 sep 2023)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Administrative bestemmelser mv.",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 17",
+     "tittel": "Kostnadsdekning",
+     "ledd": [
+      "Nasjonal kommunikasjonsmyndighet kan treffe enkeltvedtak om hel eller delvis dekning av særskilte investeringskostnader som mobiltilbyder som tilbyr tilgang til mobilnett, har ved implementering av nødvendig prioritetsfunksjonalitet i sine nett, jf. lov 13. desember 2024 nr. 76 om elektronisk kommunikasjon ekomloven § 3-8 syvende ledd jf. første til sjette ledd.",
+      "Mobiltilbyder bærer risikoen for eventuelle driftskostnader som ikke dekkes inn gjennom årsavgiften, jf. § 13."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 23 des 2022 nr. 2505 (i kraft 15 sep 2023), 20 des 2024 nr. 3423 (i kraft 1 jan 2025)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 18",
+     "tittel": "Dispensasjon mv.",
+     "ledd": [
+      "Nasjonal kommunikasjonsmyndighet kan gi dispensasjon fra hele eller deler av forskriften. Det kan settes vilkår for slik dispensasjon.",
+      "Nasjonal kommunikasjonsmyndighet kan fastsette utfyllende bestemmelser til denne forskriften."
+     ],
+     "endringer": [
+      "Endret ved forskrift 23 des 2022 nr. 2505 (i kraft 15 sep 2023)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 19",
+     "tittel": "Tilsyn, pålegg og sanksjoner",
+     "ledd": [
+      "Nasjonal kommunikasjonsmyndighet fører tilsyn med bestemmelsene i denne forskriften, jf. ekomloven § 15-1.",
+      "Nasjonal kommunikasjonsmyndighet kan gi pålegg om retting av forhold for å sikre samsvar med krav fastsatt i denne forskriften, jf. ekomloven § 15-5.",
+      "Brudd på kravene i denne forskriften kan føre til tvangsmulkt, jf. ekomloven § 15-11, overtredelsesgebyr jf. ekomloven § 15-12 første ledd bokstav b. eller straff jf. ekomloven § 15-14."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 23 des 2022 nr. 2505 (i kraft 15 sep 2023), 20 des 2024 nr. 3423 (i kraft 1 jan 2025)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Ikrafttredelse, frister og overgangsbestemmelser",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrift 23 des 2022 nr. 2505 (i kraft 15 sep 2023)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 20",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Denne forskriften trer i kraft straks."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 21",
+     "tittel": "Frister for oppfyllelse av enkeltbestemmelser",
+     "ledd": [
+      "Pliktene som fremgår av § 4-5 og § 7-16 skal være oppfylt innen 30. juni 2014."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-3",
+     "nummer": "§ 22",
+     "tittel": "Prioritetsfunksjon for linjesvitsjet telefonforbindelse",
+     "ledd": [
+      "Mobiltilbyder som tilbyr linjesvitsjet telefonforbindelse kan for denne tjenesten videreføre prioritetsfunksjon til 15. september 2024."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 23 des 2022 nr. 2505 (i kraft 15 sep 2023)."
+     ]
+    }
+   ]
+  }
+ ]
+}

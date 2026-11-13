@@ -1,0 +1,76 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2023-06-26-1152",
+ "dokumentid": "SF/forskrift/2023-06-26-1152",
+ "departement": [
+  "Samferdselsdepartementet"
+ ],
+ "etat": [
+  "Bane-, plan- og miljøavdelingen"
+ ],
+ "ikraft": "2023-07-01",
+ "hjemmel": [
+  {
+   "ref": "lov/2020-06-19-95/§3",
+   "tekst": "lov/2020-06-19-95/§3"
+  }
+ ],
+ "kunngjort": "2023-06-29 15:00",
+ "tittel": "Forskrift om betalingsløsning for betaling ved lading av elektrisk drevet kjøretøy",
+ "annet": "Hjemmel: Fastsatt av Samferdselsdepartementet 26. juni 2023 med hjemmel i lov 19. juni 2020 nr. 95 om infrastruktur for alternativt drivstoff § 3 a.",
+ "refid": "forskrift/2023-06-26-1152",
+ "eli": "/eli/forskrift/2023/06/26/1152",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2023-06-26-1152",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Formål",
+   "ledd": [
+    "Forskriftens formål er øke brukervennligheten ved å legge til rette for enkel betalingsløsning ved lading av elektrisk drevet kjøretøy."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Virkeområde",
+   "ledd": [
+    "Forskriften gjelder for operatører av et offentlig tilgjengelig ladepunkt eller ladestasjon for lading av elektrisk drevet kjøretøy. Forskriften gjelder for ladepunkt med et effektuttak fra og med 50 kW.",
+    "Med ladepunkt menes et grensesnitt hvor ett elektrisk kjøretøy om gangen kan lades eller få byttet batteri. Et ladepunkt er offentlig tilgjengelig hvis allmenhetens tilgang ikke er begrenset."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Krav til betalingsløsning",
+   "ledd": [
+    "For nye ladepunkt eller ladestasjon som settes i drift etter at forskriften har trådt i kraft, skal betalingsoppgjør for lading av elektrisk drevet kjøretøy kunne gjøres ved en betalingsterminal som er knyttet til ladepunktet eller ladestasjon.",
+    "Et ladepunkt defineres som nytt når det er satt i drift. En ladestasjon er en samling av ladepunkt som betjenes av samme operatør.",
+    "Operatøren er den som er driftsansvarlig for ladepunktet eller ladestasjonen",
+    "En betalingsterminal er en elektronisk kortavleser med eller uten kontaktløs funksjon som gjør det mulig for brukeren av ladepunktet å betale for lading av elektrisk kjøretøy med de fleste typer fysiske betalingskort eller som kan aktiveres med en smartklokke, mobiltelefon eller andre elektroniske enheter."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Overgangsbestemmelse",
+   "ledd": [
+    "Forskriften får anvendelse for operatører som bestiller ladepunkt etter forskriftens ikrafttredelse."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Forskriften trer i kraft 1. juli 2023."
+   ]
+  }
+ ]
+}

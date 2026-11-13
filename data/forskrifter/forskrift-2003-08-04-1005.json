@@ -1,0 +1,140 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2003-08-04-1005",
+ "dokumentid": "SF/forskrift/2003-08-04-1005",
+ "departement": [
+  "Justis- og beredskapsdepartementet"
+ ],
+ "etat": [
+  "Sysselmesteren på Svalbard"
+ ],
+ "kunngjort_i": "I 2003 hefte 12",
+ "ikraft": "2003-08-04",
+ "siste_endring_ikraft": "2021-07-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2020-06-22-2122",
+   "tekst": "forskrift/2020-06-22-2122 fra 2021-07-01"
+  }
+ ],
+ "gjelder_for": "Svalbard",
+ "hjemmel": [
+  {
+   "ref": "lov/2001-06-15-79/§32",
+   "tekst": "lov/2001-06-15-79/§32"
+  },
+  {
+   "ref": "forskrift/2002-06-24-712/§10",
+   "tekst": "forskrift/2002-06-24-712/§10"
+  }
+ ],
+ "kunngjort": "2003-08-08",
+ "siste_rettelse": "2024-11-22 (merknader fjernet fra forskriften)",
+ "korttittel": "Forskrift om jakt på Svalbard",
+ "tittel": "Forskrift om lokal regulering av jakt på svalbardrype og svalbardrein på Svalbard",
+ "annet": "Hjemmel: Fastsatt av Sysselmannen på Svalbard 4. august 2003 med hjemmel i lov av 15. juni 2001 nr. 79 om miljøvern på Svalbard (svalbardmiljøloven) § 32 og forskrift av 24. juni 2002 nr. 712 om høsting på Svalbard § 10.\nEndret ved forskrift 22 juni 2021 nr. 2122 (i kraft 1 juli 2021).\nRettet 01.05.2014 (merknader), 22.11.2024 (merknader fjernet fra forskriften).",
+ "refid": "forskrift/2003-08-04-1005",
+ "eli": "/eli/forskrift/2003/08/04/1005",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2003-08-04-1005",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "Kapittel I. Kvote på svalbardrype",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "(kvote for fastboende)",
+     "ledd": [
+      "For fastboende jegere fastsettes en bag-limit for rekreasjonsjakt på svalbardrype med en kvote på inntil:\n10 ryper pr. dag.",
+      "Unntatt fra dette er fastboende fangstfolk med jakt som næring."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "(kvote for tilreisende)",
+     "ledd": [
+      "For tilreisende jegere fastsettes en bag-limit for rekreasjonsjakt på svalbardrype med en kvote på inntil:\n5 ryper pr. sesong."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "Kapittel II. Kvote for svalbardrein",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 3",
+     "tittel": "(kvote for fastboende)",
+     "ledd": [
+      "Fastboende kan felle ett dyr pr. sesong etter særskilt tillatelse fra Sysselmesteren.",
+      "Unntatt fra dette er fastboende fangstfolk med jakt som næring. Disse tildeles årlig kvote i medhold av svalbardmiljøloven § 37.",
+      "Sysselmesteren kan redusere antallet dyr dersom data fra årlige reintellinger eller annen dokumentasjon eller kartlegging tilsier at dette er nødvendig for å sikre at høstingen ikke påvirker bestandens størrelse, sammensetning og utbredelse nevneverdig.",
+      "Dersom antallet søknader overstiger antallet fellingstillatelser som kan tildeles det enkelte år for å ivareta høstingsforskriftens formål, skal tildeling av fellingstillatelser skje ved loddtrekning."
+     ],
+     "endringer": [
+      "Endret ved forskrift 22 juni 2021 nr. 2122 (i kraft 1 juli 2021)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kapIII",
+   "overskrift": "Kapittel III. Jaktområde",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 4",
+     "tittel": "(jaktområde)",
+     "ledd": [
+      "Ved tildeling av fellingstillatelse for svalbardrein fastsetter Sysselmesteren hvilket område fellingen skal skje i.",
+      "Andre jaktbare arter kan jaktes på hele Svalbard dersom annet ikke er særskilt fastsatt i lov eller med hjemmel i lov."
+     ],
+     "endringer": [
+      "Endret ved forskrift 22 juni 2021 nr. 2122 (i kraft 1 juli 2021)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kapIV",
+   "overskrift": "Kapittel IV. Straff og ikrafttreden",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 5",
+     "tittel": "(straff)",
+     "ledd": [
+      "Den som forsettlig eller uaktsomt overtrer bestemmelsene i forskriften her, eller forbud eller pålegg gitt i medhold av forskriften, straffes med bøter eller fengsel inntil ett år. Er det inntrådt eller voldt fare for betydelig miljøskade, eller det for øvrig foreligger særdeles skjerpende omstendigheter kan fengsel inntil 3 år anvendes.",
+      "Medvirkning straffes på samme måte."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 6",
+     "tittel": "(ikrafttreden)",
+     "ledd": [
+      "Forskriften trer i kraft 4. august 2003."
+     ]
+    }
+   ]
+  }
+ ]
+}

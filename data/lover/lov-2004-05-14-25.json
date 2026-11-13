@@ -1,0 +1,680 @@
+{
+ "skjema": "1.0",
+ "type": "lov",
+ "datokode": "LOV-2004-05-14-25",
+ "dokumentid": "NL/lov/2004-05-14-25",
+ "departement": [
+  "Justis- og beredskapsdepartementet"
+ ],
+ "ikraft": "2005-01-01",
+ "siste_endring_ikraft": "2008-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "lov/2007-12-21-127",
+   "tekst": "lov/2007-12-21-127 fra 2008-01-01"
+  }
+ ],
+ "rettsomrade": [
+  "Sivil- og straffeprosess > Sivilprosess/tvisteloven > Voldgift og selvdømme"
+ ],
+ "kunngjort": "2004-05-14",
+ "siste_rettelse": "2022-03-29 (tegnsetting i lister tilpasset universell utforming)",
+ "korttittel": "Voldgiftsloven – vogl",
+ "tittel": "Lov om voldgift",
+ "refid": "lov/2004-05-14-25",
+ "eli": "/eli/lov/2004/05/14/25",
+ "url": "https://lovdata.no/dokument/NL/lov/2004-05-14-25",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Alminnelige bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Lovens virkeområde",
+     "ledd": [
+      "Loven gjelder for voldgift som er avtalt eller følger av lov, uten hensyn til om partene er norske eller utenlandske. Den gjelder bare for voldgift som finner sted i Norge, om ikke annet følger av annet til fjerde ledd.",
+      "Bestemmelsene i §§ 7 og 8 gjelder også når voldgiftstedet er i utlandet eller det ennå ikke er bestemt.",
+      "Domstolene kan treffe avgjørelser som §§ 13, 15 og 16, jf. § 6, legger til dem, også om voldgiftsstedet ikke er bestemt, hvis minst en av partene har sitt forretningssted eller vanlige oppholdssted i Norge.",
+      "Kapittel 10 gjelder også for utenlandske voldgiftsdommer."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Adgangen til å fravike lovens regler ved avtale",
+     "ledd": [
+      "Lovens regler kan fravikes ved avtale i den utstrekning det er fastsatt i den enkelte paragraf."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Når skriftlig kommunikasjon anses mottatt",
+     "ledd": [
+      "Hvis ikke annet er avtalt, anses skriftlig kommunikasjon for mottatt den dagen dokumentet er levert adressaten personlig eller levert til dennes forretningssted, bostedsadresse eller postadresse. Kan ingen av disse adressene bringes på det rene etter en rimelig undersøkelse, anses skriftlig kommunikasjon for mottatt den dagen dokumentet er sendt til mottakerens sist kjente forretningssted, bostedsadresse eller postadresse. Er partene enige om å bruke elektronisk kommunikasjon, anses skriftlig kommunikasjon mottatt når den er sendt til riktig elektronisk adresse og adressaten har tilgang til den.",
+      "Bestemmelsen gjelder ikke for behandlingen i de alminnelige domstoler."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 4",
+     "tittel": "Tap av retten til å fremme innsigelse",
+     "ledd": [
+      "En part som kjenner til at voldgiftsbehandlingen ikke er i samsvar med fravikelige bestemmelser i denne lov eller med voldgiftsavtalen, må fremsette innsigelse om dette innen de frister som er oppstilt, og dersom ikke slik frist er oppstilt, uten unødig opphold. I motsatt fall kan innsigelsen ikke gjøres gjeldende."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-5",
+     "nummer": "§ 5",
+     "tittel": "Taushetsplikt og offentlighet",
+     "ledd": [
+      "Hvis ikke partene har avtalt noe annet for den enkelte sak, er voldgiftsbehandlingen og voldgiftsrettens avgjørelser ikke underlagt taushetsplikt.",
+      "Utenforstående kan bare få være til stede under voldgiftsforhandlingene når og i den utstrekning det følger av avtale mellom partene."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Forholdet til de alminnelige domstoler",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 6",
+     "tittel": "Forholdet til domstolene",
+     "ledd": [
+      "Domstolene har myndighet til å behandle eller treffe avgjørelse i tvister som hører under voldgift, bare der det følger av loven her.",
+      "Når domstolene har myndighet etter loven her, er den domstol kompetent som tvisten kunne ha vært anlagt for dersom det ikke forelå en voldgiftsavtale. Har ingen domstol myndighet etter bestemmelsen i første punktum, er Oslo tingrett kompetent domstol. Den domstol som først har fått med saken å gjøre, skal behandle senere begjæringer til domstolene i samme voldgiftssak. Bevissikring kan også foregå ved annen domstol.",
+      "Reglene i tvisteloven gjelder for domstolenes befatning med saken dersom ikke annet fremgår av loven her. Behandlingen i domstolen er normalt skriftlig. Muntlig forhandling holdes når hensynet til forsvarlig og rettferdig rettergang tilsier det. Den muntlige behandling kan begrenses til særlige spørsmål. Søksmål om å sette til side en voldgiftsdom etter kapittel 9 behandles etter de alminnelige reglene i tvisteloven."
+     ],
+     "endringer": [
+      "Endret ved lover 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endret ved lov 26 jan 2007 nr. 3, 21 des 2007 nr. 127 (ikr. 1 jan 2008)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 7",
+     "tittel": "Saksanlegg for domstolene",
+     "ledd": [
+      "Domstolene skal avvise søksmål om rettsforhold som hører under voldgift dersom en part begjærer avvisning senest samtidig med at parten går inn på sakens realitet. Domstolen skal fremme saken hvis den finner at en voldgiftsavtale er ugyldig eller av andre grunner ikke kan gjennomføres.",
+      "Hvis voldgiftssak er innledet etter § 23 når søksmål anlegges, skal saken bare fremmes dersom domstolen finner det klart at voldgiftsavtalen er ugyldig eller at voldgift av andre grunner ikke kan gjennomføres.",
+      "Selv om søksmål verserer for domstolene, kan voldgiftsretten starte eller fortsette voldgiftsbehandlingen, og også avgjøre tvisten."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 8",
+     "tittel": "Midlertidig sikring",
+     "ledd": [
+      "Domstolene kan beslutte bruk av midlertidig sikring etter tvisteloven kapittel 32 til 34 selv om en tvist hører under voldgift."
+     ],
+     "endringer": [
+      "Endret ved lov 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endret ved lov 26 jan 2007 nr. 3."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Voldgiftsavtalen",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 9",
+     "tittel": "Gjenstand for voldgift",
+     "ledd": [
+      "Tvister i rettsforhold som partene har fri rådighet over, kan avgjøres ved voldgift.",
+      "De privatrettslige virkningene av konkurranselovgivningen kan prøves i en voldgiftssak."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 10",
+     "tittel": "Voldgiftsavtalen",
+     "ledd": [
+      "Partene kan avtale voldgift for tvister som er oppstått, og for alle eller særlige tvister som kan oppstå i et bestemt rettsforhold.",
+      "Hvis ikke annet er avtalt mellom partene i voldgiftsavtalen, følger voldgiftsavtalen med ved overføring av det rettsforhold den omfatter."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 11",
+     "tittel": "Forbrukerforhold",
+     "ledd": [
+      "En voldgiftsavtale inngått før tvisten oppsto, er ikke bindende for forbrukeren.",
+      "En voldgiftsavtale der en forbruker er part, skal tas inn i et eget dokument og undertegnes av begge parter. Avtalen kan inngås elektronisk dersom det er benyttet en betryggende metode for å autentisere avtaleinngåelsen og sikre avtalens innhold.",
+      "En forbruker som innlater seg på forhandlinger for voldgiftsretten uten å ha blitt gjort oppmerksom på hva en voldgiftsdom vil bety når det gjelder muligheten for overprøving, og at voldgiftsavtalen etter reglene i første og annet ledd ikke er bindende, kan gjøre gjeldende at voldgift ikke er bindende avtalt uten hensyn til fristen i § 18 tredje ledd."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Voldgiftsrettens sammensetning",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 12",
+     "tittel": "Antall voldgiftsdommere",
+     "ledd": [
+      "Partene kan avtale hvor mange dommere voldgiftsretten skal bestå av. Dersom ikke annet er avtalt, skal voldgiftsretten bestå av tre dommere."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 13",
+     "tittel": "Oppnevning av voldgiftsretten",
+     "ledd": [
+      "Voldgiftsdommerne skal være upartiske og uavhengige av partene, og være kvalifisert for vervet.",
+      "Partene skal såvidt mulig oppnevne voldgiftsretten i fellesskap.",
+      "Skal voldgiftsretten ha tre medlemmer, og partene ikke blir enige om sammensetningen, oppnevner hver part ett medlem. Fristen er én måned etter at parten mottok anmodning om oppnevning. Disse medlemmene oppnevner i fellesskap voldgiftsrettens leder innen én måned.",
+      "Hvis voldgiftsretten ikke lar seg etablere i henhold til avtalen eller annet og tredje ledd, kan hver av partene kreve at domstolen oppnevner den eller de voldgiftsdommere som mangler. Oppnevningen kan ikke ankes.",
+      "Første til tredje ledd kan fravikes ved avtale."
+     ],
+     "endringer": [
+      "Endret ved lov 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endret ved lov 26 jan 2007 nr. 3."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 14",
+     "tittel": "Innsigelsesgrunner mot voldgiftsdommere",
+     "ledd": [
+      "Den som blir kontaktet om mulig oppnevning som voldgiftsdommer, skal uoppfordret opplyse om forhold som kan være egnet til å skape berettiget tvil om upartiskhet eller uavhengighet. En voldgiftsdommer skal fra oppnevningen og gjennom hele voldgiftsbehandlingen straks gi opplysninger til partene om nye slike forhold.",
+      "Innsigelse kan bare gjøres gjeldende mot en voldgiftsdommer dersom det foreligger forhold som skaper berettiget tvil om voldgiftsdommerens upartiskhet eller uavhengighet, eller dersom dommeren ikke har kvalifikasjoner som avtalt mellom partene. Mot en voldgiftsdommer som parten har deltatt i oppnevningen av, kan det bare gjøres gjeldende innsigelse på grunn av forhold som parten er blitt kjent med etter at oppnevningen er foretatt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 15",
+     "tittel": "Behandling av innsigelse mot en voldgiftsdommer",
+     "ledd": [
+      "Hvis ikke partene har avtalt en annen fremgangsmåte, skal innsigelse mot en voldgiftsdommer begrunnes og fremsettes skriftlig overfor voldgiftsretten innen 15 dager etter at parten fikk kjennskap til oppnevningen av dommeren og de omstendigheter innsigelsen bygger på. Voldgiftsretten avgjør innsigelsen, med mindre dommeren trekker seg eller den annen part sier seg enig i innsigelsen.",
+      "Dersom en innsigelse ikke blir tatt til følge, og partene ikke har avtalt en annen fremgangsmåte, kan den part som har fremmet innsigelsen, bringe spørsmålet inn for domstolene innen én måned fra melding ble mottatt om at innsigelsen ikke ble tatt til følge. Domstolen avgjør spørsmålet ved kjennelse. Kjennelsen kan ikke ankes. Innsigelsen kan ikke senere brukes som ugyldighetsgrunn eller som innsigelse mot anerkjennelse eller fullbyrding. Voldgiftsretten, med den voldgiftsdommer som det er rettet innsigelse mot, kan fortsette voldgiftsbehandlingen og avgjøre tvisten selv om spørsmålet verserer for domstolen."
+     ],
+     "endringer": [
+      "Endret ved lov 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endret ved lov 26 jan 2007 nr. 3."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-5",
+     "nummer": "§ 16",
+     "tittel": "Manglende oppfyllelse av en voldgiftsdommers oppdrag",
+     "ledd": [
+      "Dersom det blir rettslig eller faktisk umulig for en voldgiftsdommer å oppfylle sitt oppdrag, eller en voldgiftsdommer av andre grunner unnlater å handle uten unødig opphold, opphører oppdraget hvis voldgiftsdommeren trekker seg eller partene er enige om at oppdraget skal opphøre. I motsatt fall kan hver av partene kreve at domstolene ved kjennelse avgjør spørsmålet om oppdraget skal opphøre av en grunn som nevnt. Kjennelsen kan ikke ankes.",
+      "At en voldgiftsdommer trekker seg eller partene er enige om at oppdraget skal opphøre etter første ledd eller § 15 første ledd, innebærer ikke noen godkjennelse av at en innsigelse etter første ledd eller § 14 annet ledd er holdbar."
+     ],
+     "endringer": [
+      "Endret ved lov 17 juni 2005 nr. 90 (ikr. 1 jan 2008 iflg. res. 26 jan 2007 nr. 88) som endret ved lov 26 jan 2007 nr. 3."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-6",
+     "nummer": "§ 17",
+     "tittel": "Oppnevning av ny voldgiftsdommer",
+     "ledd": [
+      "Når voldgiftsdommerens oppdrag opphører etter §§ 15 eller 16, voldgiftsdommeren trekker seg av annen grunn, partene avtaler å tilbakekalle oppnevningen eller i andre tilfeller der oppdraget opphører, skal en ny voldgiftsdommer oppnevnes etter de regler som blir benyttet ved oppnevning av den voldgiftsdommeren som blir skiftet ut.",
+      "Alle tidligere voldgiftsforhandlinger som utgjør en del av avgjørelsesgrunnlaget, gjentas dersom en ny voldgiftsdommer blir oppnevnt.",
+      "Paragrafen kan fravikes ved avtale."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Voldgiftsrettens kompetanse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 18",
+     "tittel": "Voldgiftsrettens avgjørelse av egen domsmyndighet",
+     "ledd": [
+      "Voldgiftsretten avgjør spørsmål om sin egen domsmyndighet, herunder innsigelser mot eksistensen eller gyldigheten av voldgiftsavtalen.",
+      "Ved avgjørelser etter første ledd skal en voldgiftsavtale som utgjør en del av en kontrakt, anses som en selvstendig avtale uavhengig av de andre deler av kontrakten. En avgjørelse av voldgiftsretten om at kontrakten er ugyldig, medfører ikke i seg selv at voldgiftsavtalen er ugyldig.",
+      "Innsigelse om at voldgiftsretten mangler domsmyndighet til å avgjøre saken eller kravet, må gjøres gjeldende senest i partens første innlegg til realiteten i kravet. Voldgiftsretten kan tillate at innsigelser mot dens domsmyndighet fremmes på et senere tidspunkt dersom parten ikke er vesentlig å bebreide for at innsigelsen ikke ble fremsatt tidligere. En part blir ikke avskåret fra å fremme slik innsigelse ved å delta i oppnevningen av voldgiftsretten.",
+      "Voldgiftsretten kan behandle innsigelser mot dens domsmyndighet enten under voldgiftsbehandlingen eller i voldgiftsdommen som avgjør tvisten. Dersom voldgiftsretten under voldgiftsbehandlingen avgjør at den har domsmyndighet, kan hver av partene innen én måned fra avgjørelsen ble mottatt bringe spørsmålet inn for domstolene som avgjør det ved kjennelse. Voldgiftsretten kan fortsette voldgiftsbehandlingen og avgjøre tvisten selv om spørsmålet verserer for domstolene."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 19",
+     "tittel": "Voldgiftsrettens adgang til å beslutte midlertidige tiltak",
+     "ledd": [
+      "Voldgiftsretten kan etter begjæring fra en part pålegge enhver part å foreta slike midlertidige tiltak som voldgiftsretten ut fra tvistens innhold finner nødvendig. Voldgiftsretten kan som vilkår for ikrafttredelse og gjennomføring av tiltaket pålegge den som har begjært tiltaket, å stille sikkerhet for eventuelle konsekvenser av det innen en fastsatt frist.",
+      "Voldgiftsretten kan begrense eller oppheve et midlertidig tiltak.",
+      "Viser det seg at kravet som det midlertidige tiltaket skulle sikre ikke besto på det tidspunktet tiltaket ble besluttet, plikter den som begjærte tiltaket å erstatte det økonomiske tap som det har påført andre parter. Erstatningskravet avgjøres av voldgiftsretten etter begjæring fra en part.",
+      "Paragrafen kan fravikes ved avtale."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Saksbehandlingen i voldgiftsretten",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 20",
+     "tittel": "Likebehandling av partene",
+     "ledd": [
+      "Partene skal gis lik behandling på ethvert trinn av voldgiftsbehandlingen og ha full anledning til å fremføre sin sak."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 21",
+     "tittel": "Regler for saksbehandlingen",
+     "ledd": [
+      "Innenfor rammen av partenes avtale og loven her skal voldgiftsretten behandle saken på den måte den finner hensiktsmessig. Straks voldgiftsretten er oppnevnt, skal den eller dens leder etter drøfting med partene fastlegge en plan for den videre behandlingen, hvis ikke annet er avtalt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-3",
+     "nummer": "§ 22",
+     "tittel": "Voldgiftsstedet",
+     "ledd": [
+      "I mangel av avtale om voldgiftssted, bestemmer voldgiftsretten voldgiftsstedet under hensyn til praktisk behandling av saken, herunder partenes mulighet for å delta i muntlig forhandling.",
+      "Uavhengig av voldgiftsstedet kan voldgiftsretten, hvis ikke partene har avtalt noe annet, holde møte der den finner det hensiktsmessig for å rådslå, for å avhøre vitner, sakkyndige eller parter eller for å undersøke bevis."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-4",
+     "nummer": "§ 23",
+     "tittel": "Innledning av voldgiftssaken",
+     "ledd": [
+      "Hvis ikke partene har avtalt noe annet, er voldgiftssaken innledet den dag saksøkte mottok krav om at tvisten skal behandles ved voldgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-5",
+     "nummer": "§ 24",
+     "tittel": "Voldgiftsspråk",
+     "ledd": [
+      "I mangel av avtale om voldgiftsspråk, bestemmer voldgiftsretten voldgiftsspråket.",
+      "Er voldgiftsspråket norsk, kan svensk eller dansk brukes.",
+      "Voldgiftsspråket skal anvendes i enhver skriftlig erklæring fra partene, i muntlige forhandlinger og i avgjørelser og annen kommunikasjon fra voldgiftsretten.",
+      "Voldgiftsretten kan kreve skriftlige bevis oversatt til det språk som partene er blitt enige om eller som voldgiftsretten har fastsatt.",
+      "Annet til fjerde ledd kan fravikes ved avtale."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-6",
+     "nummer": "§ 25",
+     "tittel": "Stevning og tilsvar",
+     "ledd": [
+      "Saksøkeren skal innen den frist partene eller voldgiftsretten har fastsatt, inngi stevning til voldgiftsretten. I stevningen skal angis det krav som gjøres gjeldende, en påstand som angir det domsresultat saksøkeren krever, den faktiske og rettslige begrunnelse for kravet og de bevis som vil bli ført.",
+      "Saksøkte skal innen den frist partene eller voldgiftsretten har fastsatt, inngi tilsvar til voldgiftsretten. Tilsvaret skal opplyse om kravet i stevningen godtas eller bestrides, eller om det gjøres gjeldende innsigelser mot at voldgiftsretten behandler saken. Tilsvaret skal inneholde en påstand med det domsresultat saksøkte krever, den faktiske og rettslige begrunnelse for påstanden og de bevis som vil bli ført. Fremsetter saksøkte krav som det begjæres dom for, gjelder reglene om stevning og tilsvar for dette kravet.",
+      "Partene kan ved avtale fravike de krav til innholdet av stevning og tilsvar som første og annet ledd setter.",
+      "Med mindre partene har avtalt noe annet, kan de fremsette nye krav, utvide påstanden til krav som er fremsatt, og fremsette nye påstandsgrunnlag og nye bevis. Voldgiftsretten kan etter krav fra en part nekte endringen foretatt når hensynet til sakens fremdrift eller andre tungtveiende forhold tilsier at den ikke bør tillates."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-7",
+     "nummer": "§ 26",
+     "tittel": "Muntlig og skriftlig behandling",
+     "ledd": [
+      "Voldgiftsretten avgjør om det skal holdes muntlig forhandling i saken eller om den skal avgjøres på grunnlag av skriftlig behandling. En part kan kreve muntlig forhandling, som da skal holdes på et hensiktsmessig tidspunkt under saksbehandlingen.",
+      "Partene skal gis rimelig forhåndsvarsel om enhver muntlig forhandling og ethvert møte der de har rett til å være tilstede.",
+      "Alle meddelelser, dokumenter og annen informasjon som blir lagt frem for voldgiftsretten, skal parten samtidig sende til de øvrige parter i saken. Materiale voldgiftsretten mottar direkte fra andre enn partene, skal den straks oversende til dem.",
+      "Paragrafen kan fravikes ved avtale, unntatt i forbrukerforhold."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-8",
+     "nummer": "§ 27",
+     "tittel": "Forsømmelse fra partene",
+     "ledd": [
+      "Dersom saksøkeren uten rimelig grunn forsømmer å inngi stevning etter § 25 første ledd, skal voldgiftsretten heve voldgiftssaken.",
+      "Dersom saksøkte uten rimelig grunn unnlater å inngi tilsvar etter § 25 annet ledd, skal voldgiftsretten fortsette behandlingen av saken uten å tillegge forsømmelsen virkning som innrømmelse av saksøkerens krav.",
+      "Hvis en part uteblir uten rimelig grunn til en muntlig forhandling eller unnlater å fremlegge dokumentbevis, kan voldgiftsretten fortsette behandlingen og avsi dommen på det grunnlag som foreligger.",
+      "Paragrafen kan fravikes ved avtale."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-9",
+     "nummer": "§ 28",
+     "tittel": "Bevis",
+     "ledd": [
+      "Partene har ansvaret for å opplyse saken og har rett til å føre de bevis de ønsker.",
+      "Voldgiftsretten kan nekte et bevis ført dersom det åpenbart ikke har betydning for avgjørelsen av tvisten. Voldgiftsretten kan begrense bevisføringen dersom det ikke er et rimelig forhold mellom den betydning tvisten har eller den betydning beviset har for avgjørelsen av tvisten og omfanget av bevisføringen.",
+      "Paragrafen kan fravikes ved avtale."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-10",
+     "nummer": "§ 29",
+     "tittel": "Sakkyndige",
+     "ledd": [
+      "Voldgiftsretten kan oppnevne en eller flere sakkyndige til å avgi erklæring om særskilte spørsmål som skal avgjøres av voldgiftsretten. Voldgiftsretten kan kreve at partene skal gi den sakkyndige all relevant informasjon og at de skal legge frem eller sørge for tilgang til bevis.",
+      "En sakkyndig som har avgitt skriftlig erklæring, plikter om det kreves av partene eller voldgiftsretten finner det nødvendig, å møte til muntlig forhandling hvor partene gis anledning til å stille spørsmål og til å føre sakkyndige vitner om temaet.",
+      "Reglene om innsigelse mot voldgiftsdommere i §§ 14 og 15 første ledd gjelder så langt de passer på sakkyndige oppnevnt av voldgiftsretten.",
+      "Paragrafen kan fravikes ved avtale."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-11",
+     "nummer": "§ 30",
+     "tittel": "Bistand fra domstolene",
+     "ledd": [
+      "Voldgiftsretten, eller en part med samtykke fra voldgiftsretten, kan be om at domstolene opptar partsforklaringer, vitneforklaringer og andre bevis. Voldgiftsretten skal gis rimelig forhåndsvarsel om bevisopptaket. Voldgiftsdommerne har rett til å være til stede og til å stille spørsmål.",
+      "Når en voldgiftsrett må ta stilling til tolkningen av EØS-avtalen med protokoller, vedlegg og de rettsakter vedleggene omhandler, kan den, hvis ikke partene har avtalt noe annet, av eget tiltak eller etter begjæring fra en part, be en domstol om å forelegge tolkningsspørsmålet for EFTA-domstolen etter reglene i domstolloven § 51 a. Domstolen kan oppfordre EFTA-domstolen til å gi rådgivende uttalelse om fortolkningen av EØS-avtalen."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kap7",
+   "overskrift": "Kapittel 7. Avgjørelse av voldgiftssaken",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 31",
+     "tittel": "Rettsanvendelsen",
+     "ledd": [
+      "Voldgiftsretten skal anvende de rettsregler som partene har valgt for de materielle tvistespørsmål saken gjelder. En henvisning til et lands lov eller rettssystem skal anses som en henvisning til dette lands materielle rettsregler og ikke til landets lovvalgsregler, med mindre annet fremgår.",
+      "Der partene ikke har valgt rettsregler, skal voldgiftsretten anvende de regler som følger av norske lovvalgsregler.",
+      "Voldgiftsretten skal bare treffe avgjørelse etter rimelighet dersom partene uttrykkelig har bemyndiget voldgiftsretten til dette.",
+      "Når voldgiftsretten avgjør sin domsmyndighet etter § 18 første ledd, gjelder paragrafen her bare så langt det er forenlig med § 43 første ledd bokstav a og annet ledd."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-2",
+     "nummer": "§ 32",
+     "tittel": "Forholdet til partenes prosesshandlinger. Bevisbedømmelsen",
+     "ledd": [
+      "Voldgiftsretten kan bare avgjøre de krav som er reist i saken. Avgjørelsen må ligge innenfor rammen av de påstander partene har lagt ned, og retten kan bare bygge på de påstandsgrunnlag som er påberopt.",
+      "Voldgiftsretten bestemmer det saksforhold avgjørelsen skal bygge på ved en fri bedømmelse av de bevis som er ført.",
+      "Paragrafen kan fravikes ved avtale."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-3",
+     "nummer": "§ 33",
+     "tittel": "Oppdeling av forhandling og pådømmelse",
+     "ledd": [
+      "Voldgiftsretten kan bestemme at det skal forhandles særskilt om ett eller flere krav i saken, eller om ett eller flere tvistepunkter.",
+      "Voldgiftsretten kan pådømme særskilt ett eller flere krav i saken eller en del av et krav.",
+      "Voldgiftsretten kan pådømme et påstandsgrunnlag særskilt bare når det leder til avgjørelsen av et krav.",
+      "Paragrafen kan fravikes ved avtale."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-4",
+     "nummer": "§ 34",
+     "tittel": "Avstemningsregler",
+     "ledd": [
+      "Voldgiftsretten treffer avgjørelse ved stemmeflertall. Dersom det ikke er mulig å oppnå stemmeflertall, er stemmen til voldgiftsrettens leder avgjørende. Er det ikke flertall for noe resultat når pengebeløp eller andre størrelser skal fastsettes, legges stemmene for høyere beløp eller størrelser sammen med stemmene for de nærmest følgende til det blir flertall.",
+      "Dersom et mindretall av dommerne nekter å delta i en avstemning, kan de øvrige voldgiftsdommerne treffe avgjørelsen.",
+      "Saksbehandlingsspørsmål kan voldgiftsrettens leder avgjøre på egen hånd dersom lederen er bemyndiget til dette av partene eller av en samlet voldgiftsrett.",
+      "Paragrafen kan fravikes ved avtale."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-5",
+     "nummer": "§ 35",
+     "tittel": "Forlik",
+     "ledd": [
+      "Dersom partene inngår forlik for voldgiftsretten, skal voldgiftsretten på begjæring fra partene stadfeste forliket i en voldgiftsdom, hvis den ikke har grunn til å motsette seg dette.",
+      "En voldgiftsdom som stadfester et forlik har samme virkning som andre voldgiftsdommer."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-6",
+     "nummer": "§ 36",
+     "tittel": "Voldgiftsdommen",
+     "ledd": [
+      "Voldgiftsdommen skal være skriftlig og undertegnet av alle voldgiftsdommerne. I voldgiftssaker med mer enn én dommer er det tilstrekkelig at flertallet undertegner voldgiftsdommen dersom årsaken til at ikke alle har undertegnet, fremgår av dommen.",
+      "Voldgiftsdommen skal angi de grunner som den bygger på, med mindre dommen stadfester et forlik etter § 35. Det skal opplyses om dommen er enstemmig. Hvis det ikke er tilfelle, opplyses hvem som er uenig og hvilke punkter uenigheten gjelder.",
+      "Voldgiftsdommen skal angi tid og sted for domsavsigelsen etter § 22 første ledd. Voldgiftsdommen skal anses avsagt på dette stedet.",
+      "Voldgiftsdommen sendes partene.",
+      "Voldgiftsretten skal sende et undertegnet eksemplar av voldgiftsdommen til tingretten til oppbevaring i rettens arkiv.",
+      "Annet og fjerde ledd kan fravikes ved avtale."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-7",
+     "nummer": "§ 37",
+     "tittel": "Avslutning av voldgiftssaken",
+     "ledd": [
+      "Voldgiftssaken avsluttes med den endelige voldgiftsdommen eller med voldgiftsrettens beslutning om heving etter annet til fjerde ledd.",
+      "Voldgiftsretten skal heve voldgiftssaken dersom saksøkeren frafaller kravet, med mindre saksøkte motsetter seg heving og voldgiftsretten finner at saksøkte har saklig grunn for å få voldgiftsdom.",
+      "Voldgiftsretten skal heve voldgiftssaken dersom partene er enige om dette.",
+      "Voldgiftsretten skal heve voldgiftssaken dersom den finner at en fortsettelse av saken er unødvendig eller umulig.",
+      "Voldgiftsrettens myndighet opphører når voldgiftssaken er avsluttet, med unntak av det som følger av §§ 38 og 44 annet ledd."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-8",
+     "nummer": "§ 38",
+     "tittel": "Retting av voldgiftsdommen. Tilleggsdom",
+     "ledd": [
+      "Hver av partene kan innen én måned etter at dommen er mottatt, be voldgiftsretten om å\na. rette en dom som på grunn av skrive- eller regnefeil, trykkfeil eller liknende klar feil har fått en utforming som ikke stemte med voldgiftsrettens mening, og\nb. avsi tilleggsdom til avgjørelse av krav som er fremsatt under voldgiftssaken og som skulle vært avgjort, men som ikke er tatt med i dommen.",
+      "Anmodningen sendes samtidig til de øvrige parter. Voldgiftsretten skal ta anmodningen til følge dersom det er grunnlag for den. Retting må foretas senest én måned etter at anmodningen ble mottatt. Tilleggsdom må avsies senest to måneder etter at anmodningen ble mottatt.",
+      "Voldgiftsretten kan innen én måned etter domsavsigelsen foreta retting på eget initiativ. Partene skal da varsles og gis mulighet til å uttale seg før retting.",
+      "Reglene i § 36 gjelder også for retting av voldgiftsdommen og avsigelse av tilleggsdom.",
+      "Paragrafen kan fravikes ved avtale, unntatt for adgangen til å rette feil som nevnt i første ledd bokstav a."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-8",
+   "navn": "kap8",
+   "overskrift": "Kapittel 8. Sakskostnader",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-1",
+     "nummer": "§ 39",
+     "tittel": "Omkostninger til voldgiftsretten",
+     "ledd": [
+      "Voldgiftsretten fastsetter sin egen godtgjørelse og utgiftsdekning, hvis ikke annet er avtalt mellom voldgiftsretten og partene. Fastsettelsen inntas i dom eller i avgjørelse som avslutter saken. Beløpet forfaller til betaling én måned etter at dommen eller avgjørelsen er avsagt.",
+      "Partene er solidarisk ansvarlige for omkostningene til voldgiftsretten, hvis ikke annet er avtalt mellom voldgiftsretten og partene.",
+      "Fastsettelsen etter første ledd blir tvangskraftig med mindre den bringes inn for domstolene innen én måned fra den dag parten mottok omkostningsavgjørelsen. Dersom det blir anmodet om eller foretatt retting eller avsigelse av tilleggsdom etter reglene i § 38, løper en ny frist fra den dag parten mottok avgjørelsen. Domstolen avgjør spørsmålet ved kjennelse. Dersom kostnadene til voldgiftsretten blir redusert, får dette virkning også for de parter som ikke brakte spørsmålet inn for domstolene."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-2",
+     "nummer": "§ 40",
+     "tittel": "Fordeling av sakskostnader",
+     "ledd": [
+      "Voldgiftsretten skal etter begjæring fra en part fordele kostnadene til voldgiftsretten mellom partene slik den finner riktig.",
+      "Voldgiftsretten kan etter begjæring fra en part pålegge en annen part å dekke alle eller deler av partens kostnader med saken dersom den finner dette riktig.",
+      "Voldgiftsrettens fordeling av kostnadene tas inn i dommen eller i avgjørelsen som avslutter saken. Voldgiftsrettens fordeling av kostnader mellom partene er endelig.",
+      "Paragrafen kan fravikes ved avtale."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-3",
+     "nummer": "§ 41",
+     "tittel": "Sikkerhetsstillelse",
+     "ledd": [
+      "Voldgiftsretten kan pålegge partene å stille sikkerhet for voldgiftsrettens omkostninger, hvis ikke annet er avtalt mellom voldgiftsretten og partene. Voldgiftsretten kan helt eller delvis avslutte voldgiftssaken dersom ikke slik sikkerhet blir stilt.",
+      "Dersom en part unnlater å stille pålagt sikkerhet, kan den annen part stille hele sikkerheten eller bringe tvisten inn for domstolene til avgjørelse, om ikke partene har avtalt noe annet."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-9",
+   "navn": "kap9",
+   "overskrift": "Kapittel 9. Ugyldighet",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-1",
+     "nummer": "§ 42",
+     "tittel": "Krav om tilsidesetting av voldgiftsdommen",
+     "ledd": [
+      "En voldgiftsdom kan bare settes til side som ugyldig av domstolene gjennom et søksmål etter §§ 43 og 44."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-2",
+     "nummer": "§ 43",
+     "tittel": "Ugyldighetsgrunner",
+     "ledd": [
+      "En voldgiftsdom kan bare settes til side av domstolene dersom\na. en av partene i voldgiftsavtalen manglet rettslig handleevne; eller voldgiftsavtalen er ugyldig etter de rettsregler som partene har avtalt skal anvendes på avtalen, eller i mangel av slik avtale, etter norsk rett, eller\nb. den part som har anlagt ugyldighetssøksmål ikke ble gitt tilstrekkelig varsel om oppnevningen av en voldgiftsdommer eller om voldgiftssaken, eller ikke har fått anledning til å fremstille sitt syn på saken, eller\nc. voldgiftsdommen ligger utenfor voldgiftsrettens domsmyndighet, eller\nd. voldgiftsretten har hatt en uriktig sammensetning, eller\ne. saksbehandlingen strider mot loven eller partenes avtale og det er nærliggende at feilen kan ha hatt betydning for avgjørelsen.",
+      "Når spørsmålet om gyldigheten av en voldgiftsdom er brakt inn for domstolene skal domstolen av eget tiltak sette dommen til side dersom\na. tvisten ikke kan avgjøres ved voldgift etter norsk rett, eller\nb. voldgiftsdommen virker støtende på rettsordenen (ordre public).",
+      "Dersom ugyldighetsgrunnen bare rammer en del av dommen, får ugyldigheten bare virkning for denne delen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-3",
+     "nummer": "§ 44",
+     "tittel": "Søksmålsfrist og behandling av søksmålet",
+     "ledd": [
+      "Søksmål om å sette til side en voldgiftsdom må anlegges innen tre måneder fra den dag parten mottar voldgiftsdommen. Dersom voldgiftsretten foretar retting eller avsier tilleggsdom etter § 38, løper fristen fra dette tidspunktet. Det samme gjelder der voldgiftsretten beslutter å ikke ta til følge en parts anmodning om retting eller avsigelse av tilleggsdom etter § 38.",
+      "Når det er reist sak etter første ledd og det er grunnlag for ugyldighet, kan domstolen etter begjæring fra en part utsette saken om tilsidesetting og henvise voldgiftssaken til videre behandling og ny avgjørelse i voldgiftsretten hvis dette kan gjøre at grunnlaget for ugyldighet bortfaller.",
+      "Tilsidesetting av en voldgiftsdom medfører at den aktuelle voldgiftsavtalen igjen blir virksom, om ikke annet er avtalt mellom partene eller følger av dommen om tilsidesettelse."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-10",
+   "navn": "kap10",
+   "overskrift": "Kapittel 10. Anerkjennelse og fullbyrding",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-1",
+     "nummer": "§ 45",
+     "tittel": "Anerkjennelse og fullbyrding",
+     "ledd": [
+      "En voldgiftsdom skal anerkjennes og kunne fullbyrdes etter denne bestemmelsen og § 46, uavhengig av hvilket land den er avsagt i.",
+      "Anerkjennelse og fullbyrding av en voldgiftsdom forutsetter at en part gjør voldgiftsdommen tilgjengelig i original eller ved attestert kopi. Dersom voldgiftsdommen ikke er utformet på norsk, svensk, dansk eller engelsk, skal parten også gjøre tilgjengelig en autorisert oversettelse. Det kan kreves dokumentasjon for at det forelå avtale eller annet grunnlag for voldgift.",
+      "Fullbyrding skjer etter reglene i tvangsfullbyrdelsesloven så langt ikke annet følger av dette kapittel."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-2",
+     "nummer": "§ 46",
+     "tittel": "Forhold som er til hinder for anerkjennelse og fullbyrding",
+     "ledd": [
+      "Anerkjennelse eller fullbyrding av en voldgiftsdom kan bare nektes dersom:\na. en av partene i voldgiftsavtalen manglet rettslig handleevne; eller voldgiftsavtalen er ugyldig etter de rettsregler som partene har avtalt skal anvendes på avtalen, eller i mangel av slik avtale, etter det lands rett hvor voldgiftsdommen ble avsagt, eller\nb. den part som voldgiftsdommen er påberopt overfor ikke ble gitt tilstrekkelig varsel om oppnevningen av en voldgiftsdommer eller om voldgiftssaken, eller ikke har fått anledning til å fremstille sitt syn på saken, eller\nc. voldgiftsdommen ligger utenfor voldgiftsrettens domsmyndighet, eller\nd. voldgiftsretten har hatt en uriktig sammensetning, eller\ne. saksbehandlingen strider mot loven på voldgiftsstedet eller partenes avtale og det er nærliggende at feilen kan ha hatt betydning for avgjørelsen, eller\nf. voldgiftsdommen ennå ikke er bindende for partene, eller den varig eller midlertidig er satt til side av en domstol på voldgiftsstedet eller av en domstol i det landet hvis rettsregler er anvendt ved avgjørelsen av tvistegjenstanden.",
+      "Domstolene skal av eget tiltak nekte anerkjennelse og fullbyrding av en voldgiftsdom når:\na. tvisten ikke kunne avgjøres ved voldgift etter norsk rett, eller\nb. anerkjennelse eller fullbyrding av voldgiftsdommen virker støtende på rettsordenen (ordre public).",
+      "Dersom grunnen til å nekte anerkjennelse eller fullbyrding bare rammer en del av dommen, er det bare denne delen som kan nektes anerkjent eller fullbyrdet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-3",
+     "nummer": "§ 47",
+     "tittel": "Utsettelse og sikkerhetsstillelse",
+     "ledd": [
+      "Domstolen kan utsette avgjørelsen om anerkjennelse og fullbyrding dersom den finner dette hensiktsmessig, og søksmål om tilsidesettelse av en voldgiftsdom er anlagt ved en domstol som nevnt i § 46 første ledd bokstav f. Domstolen kan i et slikt tilfelle etter krav fra den part som krever anerkjennelse eller fullbyrding, pålegge den annen part å stille sikkerhet."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-11",
+   "navn": "kap11",
+   "overskrift": "Kapittel 11. Ikrafttredelse og overgangsbestemmelser. Endringer i andre lover",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-11-paragraf-1",
+     "nummer": "§ 48",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Loven gjelder fra det tidspunktet Kongen bestemmer.[1]"
+     ],
+     "fotnoter": [
+      {
+       "nr": "1",
+       "tekst": "Ikr. 1 jan 2005 iflg. res. 14 mai 2004 nr. 751."
+      }
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-11-paragraf-2",
+     "nummer": "§ 49",
+     "tittel": "Overgangsregler",
+     "ledd": [
+      "Loven gjelder for voldgift der voldgiftssaken innledes etter at loven er trådt i kraft, med de unntak som følger av annet til femte ledd.",
+      "§§ 10 annet ledd og 11 gjelder for voldgiftsavtale som inngås etter at loven er trådt i kraft.",
+      "Bestemmelsene i §§ 5 og 19 gjelder for voldgift der voldgiftsavtalen er inngått etter at loven er trådt i kraft.",
+      "Kapittel 9 gjelder for sak om tilsidesettelse av voldgiftsdom som er avsagt etter at loven er trådt i kraft. For sak om tilsidesettelse av voldgiftsdom som er avsagt før loven er trådt i kraft, gjelder tvistemålsloven kapittel 32.",
+      "Kapittel 10 gjelder for sak om anerkjennelse og fullbyrding der begjæring om fullbyrding inngis etter at loven er trådt i kraft."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-11-paragraf-3",
+     "nummer": "§ 50",
+     "tittel": "Endringer i andre lover",
+     "ledd": [
+      "Fra den tiden loven trer i kraft, oppheves tvistemålsloven kapittel 32.",
+      "Fra samme tidspunkt gjøres følgende endringer i andre lover: – – –"
+     ]
+    }
+   ]
+  }
+ ]
+}

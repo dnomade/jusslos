@@ -1,0 +1,51 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-2004-01-23-189",
+ "dokumentid": "DEL/forskrift/2004-01-23-189",
+ "departement": [
+  "Landbruks- og matdepartementet"
+ ],
+ "kunngjort_i": "I 2004 hefte 2",
+ "ikraft": "2004-01-23",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1974-12-20-73/§30a",
+   "tekst": "lov/1974-12-20-73/§30a"
+  }
+ ],
+ "kunngjort": "2004-01-27",
+ "korttittel": "Deleg. til LD og FID etter dyrevernloven",
+ "tittel": "Delegering av myndighet til Landbruksdepartementet og Fiskeridepartementet etter lov om dyrevern § 30a.",
+ "annet": "Fastsatt ved Kronprinsreg.res. 23. januar 2004 med hjemmel i lov av 20. desember 1974 nr. 73 om dyrevern § 30a. Fremmet av Landbruksdepartementet.",
+ "refid": "forskrift/2004-01-23-189",
+ "eli": "/eli/forskrift/2004/01/23/189",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/2004-01-23-189",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Den myndighet som i lov av 20. desember 1974 nr. 73 om dyrevern § 30a er lagt til Kongen, delegeres til Landbruksdepartementet for avgifter og gebyr relatert til terrestriske dyr.\nDen myndighet som i lov av 20. desember 1974 nr. 73 om dyrevern § 30a er lagt til Kongen, delegeres til Fiskeridepartementet for avgifter og gebyr relatert til sjøpattedyr, fisk og krepsdyr."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Delegeringen trer i kraft straks."
+    }
+   ]
+  }
+ ]
+}

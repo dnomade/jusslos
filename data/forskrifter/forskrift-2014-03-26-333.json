@@ -1,0 +1,862 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2014-03-26-333",
+ "dokumentid": "SF/forskrift/2014-03-26-333",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "etat": [
+  "Forsknings- og innovasjonsavdelingen"
+ ],
+ "kunngjort_i": "I 2014 hefte 4",
+ "ikraft": "2014-04-01",
+ "siste_endring_ikraft": "2024-03-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2024-01-24-117",
+   "tekst": "forskrift/2024-01-24-117 fra 2024-03-01"
+  }
+ ],
+ "endrer": "forskrift/2010-12-13-1646",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1967-12-15-9/§8",
+   "tekst": "lov/1967-12-15-9/§8"
+  },
+  {
+   "ref": "lov/1967-12-15-9/§44",
+   "tekst": "lov/1967-12-15-9/§44"
+  },
+  {
+   "ref": "lov/1967-12-15-9/§62a",
+   "tekst": "lov/1967-12-15-9/§62a"
+  },
+  {
+   "ref": "lov/1967-12-15-9/§66c",
+   "tekst": "lov/1967-12-15-9/§66c"
+  },
+  {
+   "ref": "lov/1967-12-15-9/§66j",
+   "tekst": "lov/1967-12-15-9/§66j"
+  },
+  {
+   "ref": "lov/1967-12-15-9/§68",
+   "tekst": "lov/1967-12-15-9/§68"
+  },
+  {
+   "ref": "lov/1967-12-15-9/§69",
+   "tekst": "lov/1967-12-15-9/§69"
+  },
+  {
+   "ref": "lov/1985-06-21-79/§3-6",
+   "tekst": "lov/1985-06-21-79/§3-6"
+  },
+  {
+   "ref": "lov/1985-06-21-79/§3-7",
+   "tekst": "lov/1985-06-21-79/§3-7"
+  },
+  {
+   "ref": "lov/2003-03-14-15/§52",
+   "tekst": "lov/2003-03-14-15/§52"
+  },
+  {
+   "ref": "lov/2010-03-26-8/§82",
+   "tekst": "lov/2010-03-26-8/§82"
+  },
+  {
+   "ref": "lov/2012-06-22-58/§2",
+   "tekst": "lov/2012-06-22-58/§2"
+  },
+  {
+   "ref": "lov/2012-06-22-58/§3",
+   "tekst": "lov/2012-06-22-58/§3"
+  },
+  {
+   "ref": "lov/2012-06-22-58/§4",
+   "tekst": "lov/2012-06-22-58/§4"
+  },
+  {
+   "ref": "forskrift/2019-06-21-799",
+   "tekst": "forskrift/2019-06-21-799"
+  }
+ ],
+ "kunngjort": "2014-03-28 14:45",
+ "siste_rettelse": "2019-07-02 (hjemmel)",
+ "korttittel": "Forskrift om betalinger mv. til Patentstyret og KFIR",
+ "tittel": "Forskrift om betalinger mv. til Patentstyret og Klagenemnda for industrielle rettigheter",
+ "annet": "Hjemmel: Fastsatt av Nærings- og fiskeridepartementet 26. mars 2014 med hjemmel i lov 22. juni 2012 nr. 58 om Patentstyret og Klagenemnda for industrielle rettar (patentstyrelova) § 2 tredje ledd, § 3 og § 4 tredje ledd, lov 26. mars 2010 nr. 8 om beskyttelse av varemerker (varemerkeloven) § 82, lov 15. desember 1967 nr. 9 om patenter (patentloven) § 8 femte ledd, § 62a, § 66c første ledd, § 66j første ledd første punktum, § 68 og § 69, lov 14. mars 2003 nr. 15 om beskyttelse av design (designloven) § 52 og delegeringsvedtak 11. mars 2005 nr. 226.\nTilføyd hjemmel: Delegeringsvedtak 21. juni 2019 nr. 799. Lov 21. juni 1985 nr. 79 om enerett til foretaksnavn og andre forretningskjennetegn mv. (foretaksnavneloven) § 3-6 og § 3-7.\nEØS-henvisninger: EØS-avtalen vedlegg XVII (forordning (EF) nr. 1901/2006) og (forordning (EF) nr. 469/2009 endret ved forordning (EU) 2019/933).\nEndret ved forskrifter 5 mai 2014 nr. 636, 8 jan 2015 nr. 20, 19 juni 2015 nr. 857, 12 juli 2016 nr. 932, 12 juli 2017 nr. 1191, 26 juni 2019 nr. 921 (i kraft 1 juli 2019), 27 jan 2023 nr. 104 (i kraft 1 feb 2023), 22 feb 2023 nr. 253 (i kraft 1 mars 2023), 24 jan 2024 nr. 117 (i kraft 1 mars 2024).\nRettelser: 02.07.2019 (hjemmel).",
+ "refid": "forskrift/2014-03-26-333",
+ "eli": "/eli/forskrift/2014/03/26/333",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2014-03-26-333",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Generelle bestemmelser om levering av dokumenter og betalinger til Patentstyret og Klagenemnda for industrielle rettigheter",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": null,
+     "ledd": [
+      "En søknad om varemerke, design eller patent, eller annet dokument i sak om slike rettigheter hos Patentstyret, skal leveres slik som fastsatt i paragrafen her til Patentstyret direkte eller gjennom Altinn.",
+      "Levering av søknad eller annet dokument gjennom Altinn må skje elektronisk i et teknisk godkjent format.",
+      "Levering til Patentstyret direkte kan skje i papirformat eller ved elektronisk overføring. Den postadresse eller e-postadresse som Patentstyret fastsetter, må brukes. Signatur på søknad eller annet dokument kan være håndskrevet, trykt, stemplet eller elektronisk i samsvar med den standard Patentstyret til enhver tid har fastsatt.",
+      "Søknad eller dokument som leveres på annen måte enn fastsatt i første til tredje ledd, regnes ikke som levert.",
+      "Bestemmelsene om søknader i forskriften her gjelder også for registrerte varemerker og design, og meddelte patenter, når annet ikke fremgår av sammenhengen.",
+      "Patentstyret fastsetter nærmere bestemmelser om hvordan elektronisk kommunikasjon kan foregå, herunder hvilke elektroniske formater som kan benyttes.",
+      "Dersom krav om administrativ overprøving eller innsigelse leveres i papirformat, skal det leveres ett ekstra eksemplar av kravet med vedlegg for hver av de andre partene i saken."
+     ],
+     "endringer": [
+      "Endret ved forskrift 22 feb 2023 nr. 253 (i kraft 1 mars 2023)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": null,
+     "ledd": [
+      "For elektronisk overføring til Patentstyret etter § 1, kan leveringsdato være en virkedag eller en helligdag. Øvrige leveringer får leveringsdato den virkedag søknaden eller dokumentet anses mottatt.",
+      "Leveringsdato etter § 1 er:\n1. Ved elektronisk overføring gjennom Altinn: Datoen overføringen er bekreftet mottatt.\n2. Ved elektronisk overføring til Patentstyrets fastsatte e-postadresse: Datoen overføringen er bekreftet mottatt fra Patentstyrets elektroniske postadressesystem.\n3. Ved levering i papirformat til Patentstyrets kontor i åpningstiden: Den virkedag søknaden eller dokumentet mottas i Patentstyret."
+     ],
+     "endringer": [
+      "Endret ved forskrift 22 feb 2023 nr. 253 (i kraft 1 mars 2023)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 2a",
+     "tittel": null,
+     "ledd": [
+      "Krav om anmerkning i patentregisteret eller i det særskilte registeret over europeiske patentsøknader som nevnt i patentloven § 44, krav om anmerkning i varemerkeregisteret som nevnt i varemerkeloven § 56 og § 56a og krav om anmerkning i designregisteret som nevnt i designloven § 53 tredje ledd og § 54 annet ledd må sendes eller leveres direkte til Patentstyret i papirformat eller ved elektronisk overføring per e-post eller elektronisk gjennom Altinn. § 1 tredje ledd annet og tredje punktum og fjerde ledd gjelder tilsvarende. Med kravet skal følge dokumentasjon for det som kreves anmerket.",
+      "Patentstyret fører en egen journal over krav om anmerkninger i registrene.",
+      "Krav om anmerkning som overføres elektronisk, innføres i registeret under den datoen overføringen er bekreftet mottatt fra Patentstyrets elektroniske postadressesystem. Krav om anmerkning som sendes inn eller leveres i papirformat og innkommer til Patentstyret innen kl. 14.00 en virkedag, innføres i registeret under den datoen kravet er kommet inn. Når kontortiden er slutt før kl. 14.00, må kravet være innkommet innen kontortidens slutt for at det skal innføres i registeret under datoen kravet er kommet inn. Krav som innkommer senere enn nevnt i annet eller tredje punktum, innføres under neste virkedag."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 19 juni 2015 nr. 857 (i kraft 1 juli 2015, se endringsforskriften for overgangsregel), endret ved forskrift 22 feb 2023 nr. 253 (i kraft 1 mars 2023)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 3",
+     "tittel": null,
+     "ledd": [
+      "Fristen for betaling av avgift og gebyr settes av Patentstyret og skal normalt være 30 dager, med mindre en annen frist for betaling følger av lov eller forskrift.",
+      "For avgift og gebyr som Patentstyret fakturerer må betalingsinformasjonen som fremkommer av fakturaen benyttes ved betalingen. For avgift og gebyr som Patentstyret ikke fakturerer, må betalingen skje til Patentstyrets konto. Det skal oppgis hva betalingen gjelder."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-5",
+     "nummer": "§ 4",
+     "tittel": null,
+     "ledd": [
+      "Avgift eller gebyr som skal betales til Patentstyret anses som betalt den dag betalingen er registrert på Patentstyrets konto.",
+      "Avgift og gebyr som betales for sent, jf. § 3, anses ikke som betalt. Patentstyret kan likevel anse betalingen som rettidig hvis betaleren godtgjør at det er gitt en ugjenkallelig betalingsordre før fristens utløp.",
+      "Bestemmelsen gjelder tilsvarende for betaling som skal skje gjennom Patentstyret i internasjonale registreringsordninger."
+     ],
+     "endringer": [
+      "Endret ved forskrift 12 juli 2016 nr. 932 (i kraft 1 aug 2016)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-6",
+     "nummer": "§ 5",
+     "tittel": null,
+     "ledd": [
+      "Hvis en betalingsfrist løper ut på en lørdag, helligdag eller dag som etter lovgivningen er likestilt med helligdag, forlenges fristen til nærmeste virkedag."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-7",
+     "nummer": "§ 6",
+     "tittel": null,
+     "ledd": [
+      "Dersom ikke annet fremgår av meldingen regnes fristen for å svare på en melding fra Patentstyret fra den dagen meldingen ble sendt. Er ikke en bestemt utløpsdag for fristen angitt i meldingen, løper fristen ut på den dagen i måneden som ved sitt tall svarer til dagen for fristens begynnelse. Finnes ikke tilsvarende tall i vedkommende måned, regnes månedens siste dag som fristens utløpsdag. Løper fristen ut på 24. eller 31. desember, lørdag, helligdag eller dag som etter lovgivningen er likestilt med helligdag, er nærmeste påfølgende virkedag fristens utløpsdag.",
+      "Fristen for å svare på melding som nevnt i første ledd er to måneder dersom ikke annet er fastsatt i lov eller av Patentstyret i det enkelte tilfellet. For innlevering av manglende fullmakt og retting av forhold som kreves for å få søknadsdag etter varemerkeloven § 12b skal fristen alltid settes til to måneder.",
+      "Første og annet ledd gjelder tilsvarende for andre frister etter patentloven, foretaksnavneloven, designloven, varemerkeloven og patentstyreloven, så langt ikke annet er fastsatt i lov.",
+      "Fristen for å rette feil eller mangler i en søknad eller andre dokumenter, kan forlenges av Patentstyret, med mindre annet er fastsatt i lov. Krav om fristforlengelse må i så fall være levert til Patentstyret senest på fristens utløpsdag."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 12 juli 2016 nr. 932 (i kraft 1 aug 2016), 22 feb 2023 nr. 253 (i kraft 1 mars 2023, se endringsforskriften for overgangsregler)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-8",
+     "nummer": "§ 7",
+     "tittel": null,
+     "ledd": [
+      "Enhver kan be om:\n1. bekreftet utskrift av varemerkeregistret, designregistret og patentregistret,\n2. kopi av en varemerkesøknad med bilag,\n3. kopi av en patentsøknad med beskrivelse, tegninger, sammendrag og krav,\n4. kopi av et trykt norsk utlegningsskrift eller patentskrift, og\n5. kopi av en søknad om registrering av design med bilag.",
+      "Patentstyret kan etter krav utstede og oversende et prioritetsdokument etter regel 17.1 bokstav b i gjennomføringsreglene til patentsamarbeidskonvensjonen.",
+      "Pris for bekreftet utskrift og kopier nevnt i første og annet ledd fastsettes av Patentstyret og skal følge av prisoversikten på Patentstyrets hjemmeside.",
+      "Bestemmelsen gjelder tilsvarende for elektroniske dokumenter med det samme innhold."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-9",
+     "nummer": "§ 8",
+     "tittel": null,
+     "ledd": [
+      "Bestemmelsene i kapittelet her gjelder tilsvarende så langt de passer for levering av dokumenter til Klagenemnda for industrielle rettigheter (Klagenemnda).",
+      "Klage til Klagenemnda med eventuelle vedlegg leveres til Patentstyret.",
+      "Etter at Patentstyret har oversendt klagesaken til Klagenemnda, skal korrespondanse i klagesaken sendes til Klagenemnda. Mellom parter som er representert ved fullmektig, skal innlegg i saken sendes direkte til motparten samtidig som det sendes til Klagenemnda.",
+      "Klagenemnda fastsetter frister for tilsvar og videre skriftveksling i klagesaken."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Betalinger til Patentstyret etter varemerkeloven",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 9",
+     "tittel": null,
+     "ledd": [
+      "For søknad om registrering av et varemerke, jf. varemerkeloven § 12, skal følgende betales til Patentstyret:\n| | 1. | | søknadsgebyr varemerke | kr | 3800, | | og\n| | 2. | | tilleggsgebyr for hver klasse utover én, varemerke | kr | 1000. | |",
+      "For søknad om registrering av et fellesmerke eller garanti- eller kontrollmerke, jf. varemerkeloven § 12, skal følgende betales til Patentstyret:\n| | 1. | | søknadsgebyr, fellesmerke og garanti- eller kontrollmerke | kr | 4000, | | og\n| | 2. | | tilleggsgebyr for hver klasse utover én, fellesmerke og garanti- eller kontrollmerke | kr | 1650. | |",
+      "Hvis gebyret ikke betales innen den frist Patentstyret setter, anses søknaden som henlagt."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 26 juni 2019 nr. 921 (i kraft 1 juli 2019), 22 feb 2023 nr. 253 (i kraft 1 mars 2023, se endringsforskriften for overgangsregler), 24 jan 2024 nr. 117 (i kraft 1 mars 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 10",
+     "tittel": null,
+     "ledd": [
+      "For en søknad som utskilles fra en annen etter varemerkeforskriften § 17, skal det betales søknadsgebyr etter satsene i forskriften her § 9.",
+      "Hvis gebyret ikke betales innen den frist Patentstyret setter, anses kravet om utskilling som ikke innkommet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 11",
+     "tittel": null,
+     "ledd": [
+      "For deling av en søknad, jf. varemerkeforskriften § 18, skal det betales søknadsgebyr etter satsene i forskriften her § 9 for hver nye søknad som ikke regnes som en videreføring av den opprinnelige søknaden.",
+      "Hvis gebyret ikke betales innen den frist Patentstyret setter, anses kravet om deling som ikke innkommet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 12",
+     "tittel": null,
+     "ledd": [
+      "For deling av en registrering etter varemerkeforskriften § 20, skal det betales et gebyr på kr 2200 for hver registrering som ikke regnes som en videreføring av den opprinnelige registreringen.",
+      "Hvis gebyret ikke betales innen den frist Patentstyret setter, anses kravet om deling som ikke innkommet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 13",
+     "tittel": null,
+     "ledd": [
+      "For sammenslåing av tidligere avdelte søknader eller registreringer etter varemerkeforskriften § 22, skal det betales et gebyr på kr 2200 for hver søknad eller registrering som ikke regnes som en videreføring av den opprinnelige søknaden eller registreringen.",
+      "Hvis gebyret ikke betales innen den frist Patentstyret setter, anses kravet om sammenslåing som ikke innkommet.",
+      "Hvis avgiften ikke betales innen fristen nevnt i varemerkeloven § 33, opphører varemerkeregistreringen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-6",
+     "nummer": "§ 14",
+     "tittel": null,
+     "ledd": [
+      "For krav om fornyelse av registreringen av et varemerke, jf. varemerkeloven § 33, skal følgende betales til Patentstyret:\n| | 1. | | fornyelsesavgift | kr | 3400, | | og\n| | 2. | | tilleggsavgift for hver klasse utover én | kr | 1300. | |",
+      "For krav om fornyelse av registreringen av et fellesmerke eller garanti- eller kontrollmerke, jf. varemerkeloven § 33, skal følgende betales til Patentstyret:\n| | 1. | | fornyelsesavgift | kr | 5150, | | og\n| | 2. | | tilleggsavgift for hver klasse utover én | kr | 2100. | |",
+      "Leveres krav om fornyelse etter utløpet av registreringsperioden, skal følgende betales til Patentstyret:\n| | 1. | | tilleggsavgift varemerke | kr | 550, | | og\n| | 2. | | tilleggsavgift fellesmerke eller garanti- eller kontrollmerke | kr | 1200. | |"
+     ],
+     "endringer": [
+      "Endret ved forskrifter 22 feb 2023 nr. 253 (i kraft 1 mars 2023, se endringsforskriften for overgangsregler), 24 jan 2024 nr. 117 (i kraft 1 mars 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-7",
+     "nummer": "§ 15",
+     "tittel": null,
+     "ledd": [
+      "Ved levering av en søknad om endring i et registrert varemerke etter varemerkeloven § 34 skal det betales kr 1200.",
+      "Hvis gebyret ikke betales innen den frist Patentstyret setter, anses søknaden om endring som ikke innkommet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-8",
+     "nummer": "§ 16",
+     "tittel": null,
+     "ledd": [
+      "Ved levering av et krav om sletting av et varemerke fra registret etter varemerkeloven § 43 skal det betales kr 1900.",
+      "Hvis gebyret ikke betales innen den frist Patentstyret setter, anses kravet om sletting som ikke innkommet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-9",
+     "nummer": "§ 17",
+     "tittel": null,
+     "ledd": [
+      "For gjenopptakelse av søknadsbehandlingen etter varemerkeloven § 23 fjerde ledd skal det betales kr 550.",
+      "Hvis avgiften ikke betales innen den frist Patentstyret setter, anses kravet om gjenopptakelse som ikke innkommet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-10",
+     "nummer": "§ 18",
+     "tittel": null,
+     "ledd": [
+      "For krav om at en fristoversittelse ikke skal få virkning etter varemerkeloven § 80, skal det betales kr 2750.",
+      "Hvis gebyret ikke betales innen den frist Patentstyret setter, anses kravet om at fristoversittelsen ikke skal få virkning som ikke innkommet."
+     ],
+     "endringer": [
+      "Endret ved forskrift 26 juni 2019 nr. 921 (i kraft 1 juli 2019)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-11",
+     "nummer": "§ 19",
+     "tittel": null,
+     "ledd": [
+      "For krav om administrativ overprøving etter varemerkeloven § 40 skal det betales et gebyr på kr 4000.",
+      "Hvis gebyret ikke betales innen den frist Patentstyret setter, anses kravet om administrativ overprøving som ikke innkommet.",
+      "Avvises krav om administrativ overprøving, skal Patentstyret tilbakebetale halve gebyret."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-12",
+     "nummer": "§ 20",
+     "tittel": null,
+     "ledd": [
+      "For søknad om internasjonal registrering etter varemerkeloven § 67 skal det betales kr 800.",
+      "Hvis gebyret ikke betales innen den frist Patentstyret setter, anses søknaden som ikke innkommet. For øvrig betales andre gebyrer og avgifter som nevnt i Madridprotokollen direkte til Det internasjonale byrået i WIPO.",
+      "For deling av internasjonal varemerkeregistrering som er under behandling, jf. varemerkeforskriften § 51a, skal det betales søknadsgebyr etter satsene i § 9 for hver ny søknad som ikke regnes som en videreføring av den opprinnelige søknaden.",
+      "For deling av internasjonal varemerkeregistrering som er gitt virkning i Norge, jf. varemerkeforskriften § 51a, skal det betales et gebyr på kr 2200 for hver registrering som ikke regnes som en videreføring av den opprinnelige registreringen.",
+      "For sammenslåing av tidligere avdelte internasjonale varemerkeregistreringer, jf. varemerkeforskriften § 51b, skal det betales et gebyr på kr 2200 for hver registrering som ikke regnes som en videreføring av den opprinnelige registreringen."
+     ],
+     "endringer": [
+      "Endret ved forskrift 22 feb 2023 nr. 253 (i kraft 1 mars 2023)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-13",
+     "nummer": "§ 20a",
+     "tittel": null,
+     "ledd": [
+      "For anmerkning av panterett i varemerkeregisteret, jf. varemerkeloven § 56a, skal det betales et gebyr på kr 500. Dersom et krav om anmerkning omfatter panteretter i flere varemerker som skal sikre samme pantekrav, betales et gebyr på kr 500 for den første anmerkningen med tillegg av kr 100 for hver ytterligere anmerkning i registeret."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 22 feb 2023 nr. 253 (i kraft 1 mars 2023)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Betalinger til Patentstyret etter patentloven",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 21",
+     "tittel": null,
+     "ledd": [
+      "For søknad om patent, jf. patentloven § 8 femte ledd, og for europeisk søknad om patent som endres til nasjonal søknad, jf. patentloven § 66 m annet ledd, skal følgende betales til Patentstyret:\n| | 1. | | Søknadsgebyr | kr | 6050, | | og\n| | 2. | | tilleggsgebyr for hvert patentkrav utover 10 | kr | 325. | |",
+      "Når søkeren er en enkeltperson eller småbedrift, eller flere slike i fellesskap når de til sammen ikke har flere årsverk enn det som er spesifisert i tredje ledd første punktum, skal følgende betales til Patentstyret:\n| | 1. | | Søknadsgebyr | kr | 1100, | | og\n| | 2. | | tilleggsgebyr for antall patentkrav utover 10 | kr | 325. | |",
+      "Med småbedrift menes en virksomhet med fast ansatte som utfører 20 årsverk eller mindre. Selskaper som i forhold til hverandre er heleide datter- eller morselskaper, regnes som én virksomhet ved beregning av årsverk etter denne bestemmelse. En søker kan pålegges å fremlegge dokumentasjon for at virksomheten er en småbedrift. Med enkeltperson menes en fysisk person som ikke representerer andre enn seg selv.",
+      "Hvis gebyret ikke betales innen den frist Patentstyret setter, anses søknaden som henlagt."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 26 juni 2019 nr. 921 (i kraft 1 juli 2019), 24 jan 2024 nr. 117 (i kraft 1 mars 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 22",
+     "tittel": null,
+     "ledd": [
+      "For nyhetsgransking som nevnt i patentloven § 9 skal søkeren betale den gebyret som er fastsatt av vedkommende internasjonale nyhetsgranskingsmyndighet."
+     ],
+     "endringer": [
+      "Endret ved forskrift 26 juni 2019 nr. 921 (i kraft 1 juli 2019)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 23",
+     "tittel": null,
+     "ledd": [
+      "For en søknad som utskilles fra en annen etter patentforskriften § 24, skal det betales søknadsgebyr etter satsene i § 21 i forskriften her.",
+      "Hvis gebyret ikke betales innen den frist Patentstyret setter, anses kravet om utskilling som ikke innkommet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 24",
+     "tittel": null,
+     "ledd": [
+      "For deling av en søknad, jf. patentforskriften § 22, skal det betales søknadsgebyr etter satsene i § 21 i forskriften her for hver nye søknad som ikke regnes som en videreføring av den opprinnelige søknaden.",
+      "Hvis gebyret ikke betales innen den frist Patentstyret setter, anses kravet om deling som ikke innkommet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 25",
+     "tittel": null,
+     "ledd": [
+      "For meddelelse av patent skal det betales meddelelsesgebyr etter patentloven § 20 første ledd første punktum. Meddelelsesgebyret omfatter inntil 14 sider. Det skal betales tilleggsgebyr for hver side utover 14. Hvis det etter søknadens leveringsdag eller den dagen søknaden skal anses levert, er innkommet nye patentkrav slik at antallet krav overstiger det antallet som det er betalt søknadsgebyr for etter § 21 i forskriften her, skal det også betales en tilleggsgebyr for hvert slikt nye patentkrav.",
+      "For meddelelse skal følgende betales til Patentstyret:\n| | 1. | | Meddelelsesgebyr | kr | 1600, | |\n| | 2. | | tilleggsgebyr for hvert nye patentkrav | kr | 330, | | og\n| | 3. | | tilleggsgebyr for hver side utover 14 med unntak for sekvenslister som fritas for sideavgift | kr | 330. | |",
+      "For meddelelse av patent som er hemmelig etter lov 26. juni 1953 nr. 8 om oppfinnelser av betydning for rikets forsvar § 7, skal det ikke betales meddelelsesgebyr eller tilleggsgebyrer.",
+      "Hvis gebyr og tilleggsgebyrer ikke betales innen den frist Patentstyret setter, henlegges søknaden.",
+      "Har søkeren en brutto inntekt som ikke overstiger tre ganger Folketrygdens grunnbeløp, kan vedkommende søke om fritak for betaling av meddelelsesgebyr og tilleggsgebyrer. Inntektsgrensen er fire ganger Folketrygdens grunnbeløp hvis søkeren forsørger ektefelle. For hver person søkeren ellers har å forsørge, øker inntektsgrensen med et tillegg på halvparten av Folketrygdens grunnbeløp. Brutto inntekt ved skatteligningen legges til grunn for beregningen. Søkeren må legge ved kopi av sist tilsendte skatteoppgjør der beregningsgrunnlaget for skatten skal fremgå. Fritak skal kun innvilges når særskilte hensyn taler for det hvis søkeren har en bruttoformue som overstiger fem ganger Folketrygdens grunnbeløp."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 26 juni 2019 nr. 921 (i kraft 1 juli 2019), 24 jan 2024 nr. 117 (i kraft 1 mars 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-6",
+     "nummer": "§ 26",
+     "tittel": null,
+     "ledd": [
+      "For gjenopptakelse av søknadsbehandlingen etter patentloven § 15 tredje ledd eller § 20 første ledd tredje punktum skal det betales kr 550.",
+      "Har søknadsbehandlingen tidligere vært gjenopptatt, skal det betales kr 1950.",
+      "Hvis avgiften ikke betales innen den frist Patentstyret setter, anses kravet om gjenopptakelse som ikke innkommet."
+     ],
+     "endringer": [
+      "Endret ved forskrift 12 juli 2016 nr. 932 (i kraft 1 aug 2016)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-7",
+     "nummer": "§ 27",
+     "tittel": null,
+     "ledd": [
+      "For krav om at en fristoversittelse ikke skal få virkning etter patentloven § 72 skal det betales et gebyr på kr 3000.",
+      "For krav om gjenoppretting av prioritet etter patentloven § 72 andre ledd, patentloven § 28 andre ledd fjerde punktum jf. patentforskriften § 69a første ledd og patentloven § 72 fjerde ledd tredje punktum jf. patentforskriften § 69a tredje ledd, skal det betales et gebyr på kr 3000.",
+      "Hvis gebyret ikke betales innen den frist Patentstyret setter, anses kravet om at fristoversittelsen ikke skal få virkning som ikke innkommet."
+     ],
+     "endringer": [
+      "Endret ved forskrift 26 juni 2019 nr. 921 (i kraft 1 juli 2019)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-8",
+     "nummer": "§ 28",
+     "tittel": null,
+     "ledd": [
+      "For krav om administrativ overprøving etter patentloven § 52 b skal det betales et gebyr på kr 8800.",
+      "Hvis gebyret ikke betales innen den frist Patentstyret setter, anses kravet om administrativ overprøving som ikke innkommet.",
+      "Avvises krav om administrativ overprøving, skal Patentstyret tilbakebetale halve gebyret.",
+      "Hvis patentet etter administrativ overprøving blir opprettholdt i endret form, jf. patentloven § 52 d tredje ledd, må patenthaveren, for at patentet skal gjelde i endret form, innen én måned fra dagen hvor avgjørelsen ble endelig, betale gebyr etter følgende satser:\n| | 1. | | endringsgebyr | kr | 1200, | |\n| | 2. | | tilleggsgebyr for hvert nye patentkrav | kr | 250, | | og\n| | 3. | | tilleggsgebyr for hver side utover 14 med unntak for sekvenslister som fritas for sidegebyr | kr | 250. | |"
+     ],
+     "endringer": [
+      "Endret ved forskrift 26 juni 2019 nr. 921 (i kraft 1 juli 2019)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-9",
+     "nummer": "§ 29",
+     "tittel": null,
+     "ledd": [
+      "Årsavgifter for patentsøknader og patenter, jf. patentloven § 8 femte ledd jf. § 33 og § 40 skal betales med følgende beløp:\n| 1. avgiftsår | kr | 910\n| 2. avgiftsår | kr | 910\n| 3. avgiftsår | kr | 910\n| 4. avgiftsår | kr | 1760\n| 5. avgiftsår | kr | 2150\n| 6. avgiftsår | kr | 2600\n| 7. avgiftsår | kr | 2860\n| 8. avgiftsår | kr | 3320\n| 9. avgiftsår | kr | 3710\n| 10. avgiftsår | kr | 4160\n| 11. avgiftsår | kr | 4550\n| 12. avgiftsår | kr | 5010\n| 13. avgiftsår | kr | 5460\n| 14. avgiftsår | kr | 5850\n| 15. avgiftsår | kr | 6310\n| 16. avgiftsår | kr | 6760\n| 17. avgiftsår | kr | 7150\n| 18. avgiftsår | kr | 7540\n| 19. avgiftsår | kr | 8060\n| 20. avgiftsår | kr | 8450",
+      "For europeiske patenter som gjelder her i riket, jf. patentloven § 66 e, skal det betales årsavgift etter første ledd fra og med avgiftsåret etter at Det europeiske patentverket kunngjorde sin beslutning om å meddele patentet. Fastsettelsen av årsavgiftssatsen skal foretas på grunnlag av leveringsdagen for den europeiske søknaden. Årsavgiften forfaller til betaling tidligst samtidig med utløpet av fristen for å inngi oversettelse etter patentloven § 66c første ledd første punktum.",
+      "Årsavgifter som etter patentloven § 41 tredje ledd eller § 42 tredje ledd betales etter forfall, forhøyes med kr 700.",
+      "Hvis fastsatt årsavgift ikke betales innen fristen nevnt i patentloven § 41 tredje ledd eller § 42 tredje ledd, opphører patentet.",
+      "Har søkeren eller patenthaveren en brutto inntekt som ikke overstiger tre ganger Folketrygdens grunnbeløp, kan vedkommende søke om henstand med betaling av årsavgift. Inntektsgrensen er fire ganger Folketrygdens grunnbeløp hvis søkeren eller patenthaveren forsørger ektefelle. For hver person søkeren eller patenthaveren ellers har å forsørge, øker inntektsgrensen med et tillegg på halvparten av Folketrygdens grunnbeløp. Brutto inntekt ved skatteligningen legges til grunn for beregningen. Søkeren eller patenthaveren må legge ved kopi av sist tilsendte skatteoppgjør der beregningsgrunnlaget for skatten skal fremgå. Henstand skal kun innvilges når særskilte hensyn taler for det hvis søkeren eller patenthaveren har en brutto formue som overstiger fem ganger Folketrygdens grunnbeløp."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 8 jan 2015 nr. 20 (i kraft 16 jan 2015, se endringsforskriften for overgangsregler), 12 juli 2016 nr. 932 (i kraft 1 aug 2016), 24 jan 2024 nr. 117 (i kraft 1 mars 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-10",
+     "nummer": "§ 30",
+     "tittel": null,
+     "ledd": [
+      "Den som mer enn ni måneder etter den dagen da patent ble meddelt, fremmer innsigelse med påstand om at en oppfinnelse ikke er patenterbar på grunn av forhold som nevnt i patentloven § 1b, skal betale et gebyr på kr 5500.",
+      "Hvis gebyret ikke betales innen den frist Patentstyret setter, anses innsigelsen som ikke innkommet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-11",
+     "nummer": "§ 31",
+     "tittel": null,
+     "ledd": [
+      "Ved levering av krav om patentbegrensning etter patentloven § 39a skal det betales et gebyr på kr 7000.",
+      "Hvis gebyret ikke betales innen den frist Patentstyret setter, anses kravet om patentbegrensning som ikke innkommet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-12",
+     "nummer": "§ 32",
+     "tittel": null,
+     "ledd": [
+      "Ved levering av oversettelse som nevnt i patentloven § 66c første ledd jf. annet ledd, må patenthaveren, hvis patentet skal få virkning eller opprettholdes i endret form her i riket, betale kr 7150.",
+      "Hvis gebyret ikke betales innen fristen fastsatt av Patentstyret, får ikke det europeiske patentet virkning her i riket eller opphører å ha slik virkning."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 5 mai 2014 nr. 636, 8 jan 2015 nr. 20 (i kraft 16 jan 2015. Endringene gjelder bare for europeiske patenter der Det europeiske patentverkets kunngjøring av at patentet er meddelt, finner sted etter at forskriften har trådt i kraft), 24 jan 2024 nr. 117 (i kraft 1 mars 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-13",
+     "nummer": "§ 33",
+     "tittel": null,
+     "ledd": [
+      "Ved levering av rettelse av oversettelse som nevnt i patentloven § 66c første ledd jf. annet ledd, skal det betales kr 1200.",
+      "Ved levering av rettelse av oversettelse etter patentloven § 21 tredje ledd sjette punktum, skal det betales kr 1200.",
+      "Rettet oversettelse regnes ikke som levert så lenge gebyret ikke er betalt."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 5 mai 2014 nr. 636, 8 jan 2015 nr. 20 (i kraft 16 jan 2015. Endringene gjelder bare for europeiske patenter der Det europeiske patentverkets kunngjøring av at patentet er meddelt, finner sted etter at forskriften har trådt i kraft)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-14",
+     "nummer": "§ 34",
+     "tittel": null,
+     "ledd": [
+      "For internasjonal patentsøknad som leveres til Patentstyret som mottakende myndighet, skal søkeren betale følgende til Patentstyret:\n1. internasjonalt søknadsgebyr som nevnt i regel 15.1 i gjennomføringsreglene til Washingtonkonvensjonen av 19. juni 1970 nr. 1 om patentsamarbeid (patentsamarbeidskonvensjonen),\n2. nyhetsgranskingsgebyr nevnt i regel 16.1 i gjennomføringsreglene til patentsamarbeidskonvensjonen, og\n3. viderebefordringsgebyr på kr 800 for Patentstyrets befatning med søknaden som mottakende myndighet.",
+      "Fristen for betaling av gebyr som nevnt i første ledd er én måned etter at den internasjonale søknaden er mottatt i Patentstyret.",
+      "Er gebyr som nevnt i første ledd ikke betalt i rett tid, eller er den ved utløpet av fristen betalt med et utilstrekkelig beløp, skal Patentstyret i samsvar med regel 16bis i gjennomføringsreglene til patentsamarbeidskonvensjonen kreve inn det beløpet som mangler.",
+      "I tilfeller som nevnt i tredje ledd skal søkeren betale en tilleggsgebyr til Patentstyret tilsvarende 50 % av det beløpet som ikke er betalt. Den skal likevel ikke overstige det internasjonale søknadsgebyret og ikke være lavere enn viderebefordringsgebyret."
+     ],
+     "endringer": [
+      "Endret ved forskrift 26 juni 2019 nr. 921 (i kraft 1 juli 2019)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-15",
+     "nummer": "§ 35",
+     "tittel": null,
+     "ledd": [
+      "I tilfeller der Patentstyret mottar en internasjonal søknad som skulle ha vært levert til Det internasjonale byrådet i WIPO (jf. regel 19.4 i gjennomføringsreglene til patentsamarbeidskonvensjonen), skal søkeren betale et gebyr for Patentstyrets befatning med saken på kr 750.",
+      "Gebyret forfaller til betaling en måned etter at søknaden er levert til Patentstyret. Hvis gebyret ikke betales innen fristen, anses den internasjonale søknaden som ikke innkommet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-16",
+     "nummer": "§ 36",
+     "tittel": null,
+     "ledd": [
+      "For internasjonale patentsøknader som videreføres etter patentloven § 31, jf. § 8 femte ledd, skal følgende betales til Patentstyret:\n| | 1. | | Søknadsgebyr | kr | 6050, | | og\n| | 2. | | tilleggsgebyr for hvert patentkrav utover ti | kr | 330. | |",
+      "For søkere som nevnt i § 21 andre og tredje ledd, gjelder likevel følgende satser:\n| | 1. | | Søknadsgebyr | kr | 1110, | | og\n| | 2. | | tilleggsgebyr for hvert patentkrav utover ti | kr | 330. | |",
+      "Videreføres søknaden etter § 31 første ledd og den omfatter en eller flere oppfinnelser som ikke har vært gjenstand for internasjonal nyhetsgransking, jf. patentloven § 36, eller omfatter søknaden en eller flere oppfinnelser som ikke har vært gjenstand for internasjonal forberedende patenterbarhetsvurdering, jf. patentloven § 37, skal særskilt tilleggsgebyr på kr 6050 betales."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 26 juni 2019 nr. 921 (i kraft 1 juli 2019), 24 jan 2024 nr. 117 (i kraft 1 mars 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-17",
+     "nummer": "§ 37",
+     "tittel": null,
+     "ledd": [
+      "For internasjonale patentsøknader som opptas til behandling etter patentloven § 38, jf. § 8 femte ledd, skal følgende betales til Patentstyret:\n| | 1. | | søknadsgebyr | kr | 1200, | | og\n| | 2. | | tilleggsgebyr for hvert nye patentkrav utover 10 | kr | 250. | |"
+     ],
+     "endringer": [
+      "Endret ved forskrifter 5 mai 2014 nr. 636, 26 juni 2019 nr. 921 (i kraft 1 juli 2019)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-18",
+     "nummer": "§ 38",
+     "tittel": null,
+     "ledd": [
+      "For internasjonale patentsøknader utgjør\n| | 1. | | tilleggsavgift for tilleggsfrist etter patentloven § 31 annet ledd | kr | 950, | | og\n| | 2. | | gebyr som nevnt i patentloven § 36 eller avgift som nevnt i patentloven § 37 | kr | 6050. | |",
+      "Avgiften og gebyret etter første ledd skal betales til Patentstyret."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 26 juni 2019 nr. 921 (i kraft 1 juli 2019), 24 jan 2024 nr. 117 (i kraft 1 mars 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-19",
+     "nummer": "§ 39",
+     "tittel": null,
+     "ledd": [
+      "For øvrig gjelder bestemmelsene i forskriften her om avgifter og gebyrer for nasjonale patentsøknader tilsvarende for internasjonale patentsøknader som videreføres etter patentloven § 31 eller opptas til behandling etter patentloven § 38."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-20",
+     "nummer": "§ 40",
+     "tittel": null,
+     "ledd": [
+      "Ved levering av en søknad om supplerende beskyttelsessertifikat for legemidler eller for plantefarmasøytiske produkter etter patentloven § 62b annet ledd og § 62a annet ledd, skal søkeren betale søknadsgebyr på kr 2200. Ved levering av søknad om forlengelse av supplerende beskyttelsessertifikat etter patentloven § 62a annet ledd, skal søkeren betale søknadsgebyr på kr 2000.",
+      "Hvis fastsatt gebyr ikke betales innen den frist Patentstyret setter, anses søknaden om supplerende beskyttelsessertifikat eller om forlengelse som ikke innkommet.",
+      "For gjenopptakelse av behandlingen av en henlagt søknad skal det betales avgift som fastsatt i forskriften her § 26.",
+      "Hvis fastsatt avgift ikke betales innen den frist Patentstyret setter, anses kravet om gjenopptakelse som ikke innkommet."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 12 juli 2016 nr. 932 (i kraft 1 aug 2016), 12 juli 2017 nr. 1191 (i kraft 1 aug 2017)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-21",
+     "nummer": "§ 41",
+     "tittel": null,
+     "ledd": [
+      "I saker angående meddelte sertifikater gjelder § 27 og § 53 tilsvarende."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-22",
+     "nummer": "§ 42",
+     "tittel": null,
+     "ledd": [
+      "For sertifikater skal det betales årsavgifter etter patentloven § 62a tredje ledd, jf. § 62b annet ledd, med det beløpet som er fastsatt i forskriften her § 29 første ledd om årsavgift for det 20. avgiftsåret.",
+      "Det skal betales årsavgift for hvert avgiftsår som begynner etter at patenttiden er utløpt, selv om sertifikatet ikke er meddelt ved utløpet av patenttiden.",
+      "Hvis fastsatt årsavgift ikke betales innen fristen nevnt i patentloven § 41 tredje ledd eller § 42 tredje ledd jf. § 62a tredje ledd og § 62b annet ledd, opphører vernet.",
+      "For melding etter patentloven § 62a sjette ledd betales et gebyr på kr 1000."
+     ],
+     "endringer": [
+      "Endret ved forskrift 27 jan 2023 nr. 104 (i kraft 1 feb 2023)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-23",
+     "nummer": "§ 42a",
+     "tittel": null,
+     "ledd": [
+      "For anmerkning av panterett i patentregisteret eller i det særskilte registeret over europeiske patentsøknader, jf. patentloven § 44 tredje ledd, skal det betales et gebyr på kr 500. Dersom et krav om anmerkning omfatter panteretter i flere patenter m.m. som skal sikre samme pantekrav, betales et gebyr på kr 500 for den første anmerkningen med tillegg av kr 100 for hver ytterligere anmerkning i registeret."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 19 juni 2015 nr. 857 (i kraft 1 juli 2015)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Betalinger til Patentstyret etter designloven",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 43",
+     "tittel": null,
+     "ledd": [
+      "For søknad om registrering av design, jf. designloven § 13, skal følgende betales til Patentstyret:\n| | 1. | | Søknadsgebyr | kr | 2470, | |\n| | 2. | | samregistreringsgebyr for hver design utover én | kr | 1690, | |\n| | 3. | | oppbevaringsgebyr for hver leverte modell som Patentstyret oppbevarer | kr | 1200, | | og\n| | 4. | | gebyr for supplerende undersøkelse, for hver design | kr | 900. | |",
+      "Hvis gebyret ikke betales innen den frist Patentstyret setter, anses søknaden som henlagt."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 26 juni 2019 nr. 921 (i kraft 1 juli 2019), 24 jan 2024 nr. 117 (i kraft 1 mars 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 44",
+     "tittel": null,
+     "ledd": [
+      "For en søknad som utskilles fra en annen etter designforskriften § 16a skal det betales søknadsgebyr etter satsene i forskriften her § 43.",
+      "Hvis gebyret ikke betales innen den frist Patentstyret setter, anses kravet om utskilling som ikke innkommet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 45",
+     "tittel": null,
+     "ledd": [
+      "For deling av en søknad etter designforskriften § 17 skal det betales søknadsgebyr etter satsene i forskriften her § 43 for hver søknad som ikke regnes som en videreføring av den opprinnelige søknaden.",
+      "Hvis gebyret ikke betales innen den frist Patentstyret setter, anses kravet om deling som ikke innkommet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 46",
+     "tittel": null,
+     "ledd": [
+      "For deling av en registrering etter designforskriften § 18 skal det betales gebyr etter satsene i forskriften her § 43 for hver registrering som ikke regnes som en videreføring av den opprinnelige registreringen.",
+      "Hvis gebyret ikke betales innen den frist Patentstyret setter, anses kravet om deling som ikke innkommet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-5",
+     "nummer": "§ 47",
+     "tittel": null,
+     "ledd": [
+      "For sammenslåing av to eller flere tidligere avdelte søknader eller registreringer etter designforskriften § 19, skal det betales gebyr etter satsene i forskriften her § 43 for hver søknad eller registrering som ikke regnes som en videreføring av den opprinnelige søknaden eller registreringen.",
+      "Hvis gebyret ikke betales innen den frist Patentstyret setter, anses kravet om sammenslåing som ikke innkommet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-6",
+     "nummer": "§ 48",
+     "tittel": null,
+     "ledd": [
+      "For gjenopptakelse av behandlingen av en søknad etter designloven § 19 skal det betales kr 550.",
+      "Hvis avgiften ikke betales innen den frist Patentstyret setter, anses kravet om gjenopptakelse som ikke innkommet."
+     ],
+     "endringer": [
+      "Endret ved forskrift 26 juni 2019 nr. 921 (i kraft 1 juli 2019)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-7",
+     "nummer": "§ 49",
+     "tittel": null,
+     "ledd": [
+      "For fornyelse av registreringen av en design etter designloven § 24 skal følgende betales til Patentstyret:\n| | 1. | | fornyelsesavgift for første gangs fornyelse | kr | 3770, | |\n| | 2. | | fornyelsesavgift for annen gangs fornyelse | kr | 4550, | |\n| | 3. | | fornyelsesavgift for tredje gangs fornyelse | kr | 5330, | |\n| | 4. | | fornyelsesavgift for fjerde gangs fornyelse | kr | 6500, | |\n| | 5. | | tilleggsavgift der fornyelsesavgift blir betalt etter utløpet av registreringsperioden | kr | 550, | |\n| | 6. | | Samregistreringsavgift for hver design utover én som registreringen fornyes for | kr | 1690, | |\n| | 7. | | Oppbevaringsavgift for hver leverte modell som Patentstyret oppbevarer | kr | 1200 | |",
+      "Hvis avgiften ikke betales innen fristen nevnt i designloven § 24, opphører designregistreringen."
+     ],
+     "endringer": [
+      "Endret ved forskrift 24 jan 2024 nr. 117 (i kraft 1 mars 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-8",
+     "nummer": "§ 50",
+     "tittel": null,
+     "ledd": [
+      "For krav om at en fristoversittelse ikke skal få virkning etter designloven § 50 skal det betales kr 2800.",
+      "Hvis gebyret ikke betales innen den frist Patentstyret setter, anses kravet om at fristoversittelsen ikke skal få virkning som ikke innkommet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-9",
+     "nummer": "§ 51",
+     "tittel": null,
+     "ledd": [
+      "For krav om administrativ overprøving etter designloven § 27 skal det betales et gebyr på kr 4000.",
+      "Det skal ikke betales gebyr for krav fremmet av departementet etter designloven § 26 annet ledd nr. 3, jf. designforskriften § 27.",
+      "Hvis fastsatt gebyr ikke betales innen den frist Patentstyret setter, anses kravet om administrativ overprøving som ikke innkommet.",
+      "Avvises krav om administrativ overprøving etter designloven § 27, skal Patentstyret tilbakebetale halve gebyret."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-10",
+     "nummer": "§ 52",
+     "tittel": null,
+     "ledd": [
+      "For søknad om internasjonal registrering av en design etter designloven § 56 tredje ledd skal det betales kr 800.",
+      "Hvis gebyret ikke betales innen den frist Patentstyret setter, anses søknaden om internasjonal registrering som ikke innkommet. For øvrig betales andre gebyrer og avgifter som nevnt i Genèveavtalen direkte til Det internasjonale byrået ved WIPO."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Gebyr for klage til Klagenemnda for industrielle rettigheter",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 53",
+     "tittel": null,
+     "ledd": [
+      "For behandling av klage i Klagenemnda skal det betales gebyr etter følgende satser:\n| | 1. | | for klage etter patentloven | kr | 5700, | |\n| | 2. | | for klage etter patentloven § 44 syvende ledd | kr | 1500, | |\n| | 3. | | for klage etter varemerkeloven | kr | 4400, | |\n| | 4. | | for klage etter designloven | kr | 4400, | |\n| | 5. | | for krav om endring av gyldighetsperioden for et meddelt beskyttelsessertifikat for legemidler | kr | 4400, | | og\n| | 6. | | for klage etter foretaksnavneloven § 3-7 | kr | 4400. | |",
+      "Hvis fastsatt gebyr ikke betales innen den frist Patentstyret setter, anses klagen eller kravet om endring jf. første ledd nr. 4, som ikke innkommet.",
+      "Dersom Patentstyret eller Klagenemnda finner at klagen skal tas til følge på grunnlag av en åpenbar saksbehandlingsfeil i Patentstyret, skal gebyret tilbakebetales."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 19 juni 2015 nr. 857 (i kraft 1 juli 2015), 12 juli 2016 nr. 932 (i kraft 1 aug 2016)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Forskjellige bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 54",
+     "tittel": null,
+     "ledd": [
+      "For krav om administrativ overprøving etter foretaksnavneloven § 3-6 skal det betales et gebyr på kr 4000.",
+      "Hvis gebyret ikke betales innen den frist Patentstyret setter, anses kravet om administrativ overprøving som ikke innkommet.",
+      "Avvises krav om administrativ overprøving etter foretaksnavneloven § 3-6, skal Patentstyret tilbakebetale halve gebyret."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 55",
+     "tittel": null,
+     "ledd": [
+      "Avgifter og gebyrer som er betalt til Patentstyret eller Klagenemnda i samsvar med reglene i varemerkeloven, patentloven, designloven og forskriften her, tilbakebetales ikke med mindre det er særskilt hjemlet i forskriften her.",
+      "Avgifter og gebyrer som er betalt med inntil kr 300 for mye betales ikke tilbake av eget tiltak."
+     ],
+     "endringer": [
+      "Endret ved forskrift 12 juli 2016 nr. 932 (i kraft 1 aug 2016)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-3",
+     "nummer": "§ 56",
+     "tittel": null,
+     "ledd": [
+      "Forskriften trer i kraft 1. april 2014. Fra samme tidspunkt oppheves forskrift 13. desember 2010 nr. 1646 om avgifter og gebyrer til Patentstyret mv. (avgiftsforskriften)."
+     ]
+    }
+   ]
+  }
+ ]
+}

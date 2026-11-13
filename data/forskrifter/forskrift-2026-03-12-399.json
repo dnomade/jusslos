@@ -1,0 +1,141 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2026-03-12-399",
+ "dokumentid": "SF/forskrift/2026-03-12-399",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "etat": [
+  "Justervesenet"
+ ],
+ "ikraft": "2026-05-01",
+ "endrer": "forskrift/2016-12-20-1753",
+ "hjemmel": [
+  {
+   "ref": "lov/2007-01-26-4/§17",
+   "tekst": "lov/2007-01-26-4/§17"
+  },
+  {
+   "ref": "forskrift/2007-12-20-1723/§5-4",
+   "tekst": "forskrift/2007-12-20-1723/§5-4"
+  }
+ ],
+ "kunngjort": "2026-03-13 15:05",
+ "tittel": "Forskrift om krav til internkontrollsystem for måleredskaper og målinger",
+ "annet": "Hjemmel: Fastsatt av Justervesenet 12. mars 2026 med hjemmel i forskrift 20. desember 2007 nr. 1723 om målenheter og måling § 5-4, jf. lov 26. januar 2007 nr. 4 om målenheter, måling og normaltid § 17 første ledd.",
+ "refid": "forskrift/2026-03-12-399",
+ "eli": "/eli/forskrift/2026/03/12/399",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2026-03-12-399",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Denne forskriften fastsetter krav til internkontrollsystem for å ivareta krav fastsatt i eller i medhold av lov om målenheter, måling og normaltid. Forskriften gjelder når Justervesenet har pålagt bruker eller servicefirma krav til internkontroll for måleredskaper og målinger § 5-4."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "I denne forskriften menes med\na. det måletekniske regelverket: bestemmelser gitt i eller i medhold av lov 26. januar 2007 nr. 4 om målenheter, måling og normaltid\nb. internkontrollsystem: systematiske og dokumenterte tiltak som skal sikre at virksomheten overholder krav fastsatt i det måletekniske regelverket\nc. sporbarhet: egenskapen til et måleresultat der måleresultatet kan knyttes til en referanse gjennom en dokumentert, ubrutt kjede av kalibreringer som er relatert til de internasjonale SI-enhetene\nd. kalibrering: sammenligning av et måleredskap med en referansenormal, et mer nøyaktig måleredskap eller med et referansemateriale."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Krav til internkontrollsystemet",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 3",
+     "tittel": "Ansvar",
+     "ledd": [
+      "Den som er ansvarlig for virksomheten skal sørge for at det innføres internkontrollsystem for måleredskaper og målinger i virksomheten når dette er bestemt av Justervesenet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 4",
+     "tittel": "Internkontrollsystems innhold",
+     "ledd": [
+      "Internkontrollsystemet skal tilpasses virksomhetens art, aktiviteter, risikoforhold og størrelse, og utformes slik at kravene i det måletekniske regelverket overholdes.",
+      "Internkontrollsystemet skal sørge for at det måletekniske regelverket etterleves og skal minimum inneholde\na. beskrivelse av virksomhetens organisasjon, herunder fordeling av ansvar, oppgaver og myndighet knyttet til etterlevelse av det måletekniske regelverket, samt hvem som er ansvarlig for drift og oppfølging av internkontrollsystemet for måleredskaper og målinger\nb. rutiner for bruk og vedlikehold av måleredskaper\nc. oversikt over måleredskaper og målinger omfattet av internkontrollsystemet og utstyr som brukes ved kontroll av disse\nd. rutiner for systematisk kontroll og overvåkning som avdekker avvik fra krav i det måletekniske regelverket\ne. rutiner for å korrigere og forebygge avvik fra krav i det måletekniske regelverket\nf. rutiner for å avdekke, korrigere og forebygge avvik fra interne rutiner som skal sikre etterlevelse av det måletekniske regelverket\ng. rutiner som sikrer at personell som utfører oppgaver relatert til det måletekniske regelverket får nødvendig opplæring\nh. rutiner som sørger for at varer og tjenester levert av eksterne har tilstrekkelig kvalitet, når slike varer og tjenester kan ha påvirkning på måleredskaper eller målinger som er omfattet av internkontrollsystemet\ni. rutiner for styring av dokumentasjon som er nødvendig i internkontrollsystemet\nj. rutiner for systematisk overvåking og gjennomgang av internkontrollsystemet for å sikre at det er egnet til å oppfylle gjeldende krav.",
+      "Internkontrollsystemet skal inneholde rutiner for å registrere det som er nødvendig for å dokumentere at internkontrollsystemet etterleves, herunder minst registrering av\na. resultater av systematisk kontroll og overvåkning som gjennomføres for å avdekke avvik fra det måletekniske regelverket\nb. avvik samt vurdering av hvilken betydning disse kan ha på måleresultatene og årsaken til at avvikene har oppstått\nc. gjennomført opplæring eller videreopplæring\nd. vedlikehold som kan ha innvirkning på måleresultatene,\ne. resultater fra systematisk overvåking og gjennomgang av internkontrollsystemet\nf. dokumentasjon på at utstyr som brukes til å gjennomføre systematisk kontroll og overvåkning etter første ledd bokstav d) og til å korrigere avvik etter første ledd 4 bokstav e) tilfredsstiller kravene til kalibrering og nøyaktighet etter § 6.",
+      "Beskrivelser, oversikter og rutiner skal være skriftlige. Registreringer skal være leselige, identifiserbare og enkle å finne igjen, og skal oppbevares i 2 år eller til neste tilsyn."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 5",
+     "tittel": "Kompetanse",
+     "ledd": [
+      "Personer som utfører aktiviteter som er omfattet av eller relatert til det måletekniske regelverket, skal ha tilstrekkelig kompetanse slik at utførelsen skjer i tråd med gjeldende krav."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 6",
+     "tittel": "Kalibrering og sporbarhet",
+     "ledd": [
+      "Utstyr som brukes av den ansvarlige eller eksterne til å gjennomføre systematisk kontroll og overvåkning etter § 4 bokstav d) og til å korrigere avvik etter § 4 bokstav e) skal være kalibrert med sporbarhet til det internasjonale systemet for målenheter (SI-systemet), når slikt utstyr påvirker måleredskaper eller målinger omfattet av internkontrollsystemet. Utstyret skal ha en nøyaktighet som kan brukes for å dokumentere at krav i det måletekniske regelverket er oppfylt.",
+      "Utstyret skal ha et program for kalibrering eller verifikasjon av parametere som har vesentlig innvirkning på måleresultatene."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 7",
+     "tittel": "Dispensasjon",
+     "ledd": [
+      "Justervesenet kan i forskrift eller enkeltvedtak gi unntak fra ett eller flere av kravene gitt i § 4."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Avsluttende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 8",
+     "tittel": "Overtredelsesgebyr",
+     "ledd": [
+      "Overtredelse av bestemmelsene i kapittel 2 kan medføre overtredelsesgebyr utmålt etter bestemmelsene i forskrift om målenheter og måling kapittel 7."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 9",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Denne forskriften trer i kraft 1. mai 2026. Fra samme tidspunkt oppheves forskrift 20. desember 2016 nr. 1753 om krav til internkontrollsystem for måleredskaper og målinger."
+     ]
+    }
+   ]
+  }
+ ]
+}

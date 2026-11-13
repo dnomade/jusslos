@@ -1,0 +1,119 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2019-12-02-1640",
+ "dokumentid": "SF/forskrift/2019-12-02-1640",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Bankenes sikringsfond"
+ ],
+ "ikraft": "2020-07-01",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2015-04-10-17/§19-14",
+   "tekst": "lov/2015-04-10-17/§19-14"
+  }
+ ],
+ "kunngjort": "2019-12-06 14:25",
+ "korttittel": "Innskuddsgarantiforskriften",
+ "tittel": "Forskrift om krav til rapportering av opplysninger om innskytere og innskudd til Bankenes sikringsfond (innskuddsgarantiforskriften)",
+ "annet": "Hjemmel: Fastsatt av Bankenes sikringsfond 2. desember 2019 med hjemmel i lov 10. april 2015 nr. 17 om finansforetak og finanskonsern (finansforetaksloven) § 19-14 første og annet ledd.",
+ "refid": "forskrift/2019-12-02-1640",
+ "eli": "/eli/forskrift/2019/12/02/1640",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2019-12-02-1640",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Formål",
+   "ledd": [
+    "Formålet med forskriften er å bidra til at Bankenes sikringsfond kan foreta korrekt og rettidig utbetaling av garanterte innskudd i samsvar med bestemmelsene i finansforetaksloven kapittel 19, samt beregne eventuelt bidrag fra innskuddsgarantifondet ved krisehåndtering etter kapittel 20."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Virkeområde",
+   "ledd": [
+    "Forskriften gjelder for medlemmer av innskuddsgarantiordningen, i samsvar med finansforetaksloven § 19-2."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Opplysningsplikt",
+   "ledd": [
+    "(1) Medlemsforetakene skal til enhver tid kunne fremlegge opplysninger om innskytere og kvalifiserte innskudd i samsvar med kravene i denne forskriften.",
+    "(2) Medlemsforetakene skal produsere og oversende lister i samsvar med § 4–§ 8 på forespørsel fra Bankenes sikringsfond, innen frister fastsatt av Bankenes sikringsfond. I situasjoner der innskudd er blitt utilgjengelige gjelder fristene i § 8.",
+    "(3) Samtidig med oversendelse av lister i samsvar § 4–§ 8 skal medlemsforetaket gi utfyllende forklaring til innholdet i listene i eget følgeskriv, herunder forklaring til merking etter § 7, i skjema fastsatt av Bankenes sikringsfond.",
+    "(4) Opplysningene skal kvalitetssikres før oversendelse. Dersom medlemsforetaket oppdager feil i listene etter oversendelse, skal Bankenes sikringsfond varsles umiddelbart. Korrigerte lister skal oversendes så snart som mulig."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Systemkrav. Format",
+   "ledd": [
+    "(1) Medlemsforetakene skal ha systemer som:\na. til enhver tid kan produsere elektronisk lesbare datafiler med lister i samsvar med kravene i § 4–§ 8.\nb. produserer datafiler i XML, eller i et annet format godkjent av Bankenes sikringsfond. Formatet skal ha en struktur som fastsatt av Bankenes sikringsfond. For XML er dette definert ved en XSD fil.\nc. jevnlig oppdaterer opplysninger i listene som angitt i § 6 og § 7. Oppdatering skal gjennomføres før enhver oversendelse av lister til Bankenes sikringsfond.",
+    "(2) Datafiler skal oversendes på de måter som til enhver tid er gjort tilgjengelig av Bankenes sikringsfond. Datafiler som oversendes elektronisk skal være beskyttet av en krypteringsløsning godkjent av Bankenes sikringsfond."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Inndeling av kundelister",
+   "ledd": [
+    "(1) Medlemsforetakene skal for kunder i virksomheten i Norge, inndele kundeopplysninger som følger:\na. liste med alle kunder definert som ikke–finansielle foretak (sektorkode 11100 t.o.m. sektorkode 25000)\nb. liste med alle kunder definert som finansielle foretak (sektorkode 31000 t.o.m. sektorkode 57009)\nc. liste med alle kunder definert som stats- og trygdeforvaltningen, kommuneforvaltningen, ideelle organisasjoner, personlig næringsdrivende samt borettslag o.l. (sektorkode 61000 t.o.m. sektorkode 83000)\nd. liste med alle kunder definert som lønnstakere, pensjonister, trygdede, studenter o.a. (sektorkode 85000)\ne. liste med utenlandske sektorer (sektorkode 91000 t.o.m. sektorkode 98000)\nf. liste med alle kunder definert som ufordelt (sektorkode 08000).",
+    "(2) For medlemsforetak som driver virksomhet utenfor Norge, skal det utarbeides lister som følger:\na. Medlemsforetak som tar imot innskudd i annen stat gjennom grensekryssende virksomhet skal utarbeide separate lister med innskudd fordelt pr. stat.\nb. Medlemsforetak som driver virksomhet gjennom filial i annen stat skal utarbeide separate lister med innskudd fordelt pr. stat. EØS-stater skal merkes særskilt.\nc. Innskytere som har innskudd i to eller flere stater spesifiseres på egen liste, i tillegg til at innskyterne skal fremkomme på lister som nevnt i første ledd bokstav a) til f) og i annet ledd bokstav a) og b)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "Lister med kundeopplysninger",
+   "ledd": [
+    "(1) Lister med kundeopplysninger skal inneholde følgende:\na. sektorkode\nb. sikker identifikasjon (personnummer, organisasjonsnummer, D-nummer mv.)\nc. navn\nd. adresse\ne. postnummer\nf. poststed\ng. land\nh. mobilnummer\ni. e-postadresse\nj. innskyterens språkpreferanse\nk. kontonummer (alle kontonummer skal spesifiseres pr kunde og valutakontoer skal inkluderes)\nl. kontotype (intern benevnelse)\nm. valutakode slik som spesifisert i ISO 4217\nn. eierandel\no. debetsaldo (gjeld)\np. debetrenter (gjeldsrenter)\nq. debetsaldo inkludert renter (gjeld inkludert gjeldsrenter)\nr. kreditsaldo (innskudd)\ns. kreditrenter (innskuddsrenter)\nt. kreditsaldo inkludert kreditrenter (innskudd inkludert innskuddsrenter)\nu. banken har foretatt motregning, jf. finansforetaksloven § 19-6 (J/N)\nv. konto med disposisjonsbegrensning ved vedtak i samsvar med § 8 (J/N)\nw. konto omfatter kvalifisert innskudd, jf. finansforetaksloven § 19-3 (2) (J/N).",
+    "(2) Alle beløp skal angis med den andelen som tilsvarer kundens eierandel av innskudd og gjeld.",
+    "(3) Alle beløp skal angis i den valuta innskuddet eller gjelden lyder på.",
+    "(4) Debetsaldo (gjeld) skal angis med negativt fortegn og kreditsaldo (innskudd) skal angis med positivt fortegn."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 7",
+   "tittel": "Særskilt merking av innskudd",
+   "ledd": [
+    "Følgende informasjon skal angis særskilt i listene:\na. klientkontoer\nb. felles innskuddskontoer\nc. innskudd som kredittinstitusjon ikke har for egen regning og risiko\nd. innskudd som er knyttet til individuelle pensjonsordninger eller kollektive tjenestepensjonsordninger for små og mellomstore bedrifter\ne. kontoer uten kundeinitierte transaksjoner de siste 24 månedene (kontoer som har stått uendret i løpet av de siste 24 månedene)\nf. innskudd med ukjent innskyter\ng. informasjon om type disposisjonsbegrensning som angitt i § 6 (1) bokstav v)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-8",
+   "nummer": "§ 8",
+   "tittel": "Tilleggskrav ved utilgjengelig innskudd",
+   "ledd": [
+    "(1) Kravene i forskriften gjelder også etter at det er truffet vedtak som innebærer at innskudd i medlemsforetaket er blitt utilgjengelig for innskyter, jf. finansforetaksloven § 19-5, eller det er iverksatt tilsvarende tiltak i annen stat for medlemsforetak som er filial av utenlandsk kredittinstitusjon.",
+    "(2) Medlemsforetak skal i situasjon som nevnt i første ledd produsere lister som viser saldo pr. tidspunkt for vedtak om avvikling ved offentlig administrasjon. Produksjon av lister som nevnt i første ledd skal gjennomføres etter siste interbankoppgjør andre arbeidsdag (dag 2) etter tidspunkt for vedtaket. Dette slik at alle kjente transaksjoner før vedtaket om avvikling er bokført. Listene skal oversendes Bankenes sikringsfond senest kl. 12:00 tredje arbeidsdag etter vedtaket."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-9",
+   "nummer": "§ 9",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Forskriften trer i kraft 1. juli 2020."
+   ]
+  }
+ ]
+}

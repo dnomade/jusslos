@@ -1,0 +1,234 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2014-06-24-857",
+ "dokumentid": "SF/forskrift/2014-06-24-857",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Skattelovavd."
+ ],
+ "kunngjort_i": "I 2014 hefte 9",
+ "ikraft": "2015-01-01",
+ "siste_endring_ikraft": "2021-12-22",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2021-12-22-3854",
+   "tekst": "forskrift/2021-12-22-3854"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2012-06-22-43/§3",
+   "tekst": "lov/2012-06-22-43/§3"
+  },
+  {
+   "ref": "lov/2012-06-22-43/§4",
+   "tekst": "lov/2012-06-22-43/§4"
+  },
+  {
+   "ref": "lov/2012-06-22-43/§5",
+   "tekst": "lov/2012-06-22-43/§5"
+  },
+  {
+   "ref": "lov/2012-06-22-43/§10",
+   "tekst": "lov/2012-06-22-43/§10"
+  },
+  {
+   "ref": "lov/2012-06-22-43/§11",
+   "tekst": "lov/2012-06-22-43/§11"
+  }
+ ],
+ "kunngjort": "2014-06-27 15:30",
+ "korttittel": "A-opplysningsforskriften",
+ "tittel": "Forskrift om arbeidsgivers innrapportering av ansettelses- og inntektsforhold med mer (a-opplysningsforskriften)",
+ "annet": "Hjemmel: Fastsatt av Finansdepartementet 24. juni 2014 med hjemmel i lov 22. juni 2012 nr. 43 om arbeidsgivers innrapportering av ansettelses- og inntektsforhold m.m. (a-opplysningsloven) § 3, § 4, § 5, § 10 og § 11.\nEndret ved forskrifter 18 des 2014 nr. 1780, 2 feb 2016 nr. 91, 21 nov 2016 nr. 1346, 11 april 2018 nr. 571, 22 des 2021 nr. 3854 (med virkning fra 1 jan 2022).",
+ "refid": "forskrift/2014-06-24-857",
+ "eli": "/eli/forskrift/2014/06/24/857",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2014-06-24-857",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": null,
+   "overskrift": "Opplysningspliktens omfang",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1-1",
+     "tittel": "Hvem forskriften gjelder for",
+     "ledd": [
+      "Denne forskrift gjelder for arbeidsgivere som er opplysningspliktig etter a-opplysningsloven § 2."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 1-2",
+     "tittel": "Identifikasjon av opplysningspliktige",
+     "ledd": [
+      "Det skal gis opplysninger om\na. organisasjonsnummer, fødselsnummer eller D-nummer for den opplysningspliktige og\nb. opplysningspliktiges navn."
+     ],
+     "endringer": [
+      "Endret ved forskrift 21 nov 2016 nr. 1346."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 1-3",
+     "tittel": "Identifikasjon av inntektsmottaker",
+     "ledd": [
+      "Hvis inntektsmottaker i særlige tilfeller ikke har eller kan få fødselsnummer eller D-nummer når opplysningsplikten etter a-opplysningsloven § 3 inntrer, skal det gis opplysninger om inntektsmottakerens navn og fødselsdato. Det skal eventuelt gis opplysning om ansattnummer. I tillegg skal det gis opplysninger om internasjonalt nummer for identifikasjon, samt opplysning om hvilket land som har utstedt nummeret."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 1-4",
+     "tittel": "Opplysninger om innsendelsen",
+     "ledd": [
+      "Det skal gis opplysninger om\na. et referansenummer for meldingen og\nb. hvilken kalendermåned opplysningene gjelder,\nc. dato for lønnsutbetaling for arbeidsgiver som leverer opplysninger etter § 3-1 annet ledd.",
+      "Dersom meldingen er en erstatningsmelding skal det angis referansenummer for den meldingen som erstattes."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": null,
+   "overskrift": "Frist for levering av opplysninger",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 2-1",
+     "tittel": "Frist for levering av opplysninger",
+     "ledd": [
+      "Opplysningene skal leveres senest den 5. i måneden etter utløpet av den kalendermåned opplysningene gjelder.",
+      "Opplysninger om føderåd skal leveres senest den 5. januar i året etter inntektsåret.",
+      "Arbeidsgiver som plikter å sende melding til arbeidstakerregisteret etter fristen i a-opplysningsloven § 4 tredje ledd, jf. § 25-1 annet ledd første punktum, gis unntak fra fristen slik at opplysninger skal gis etter den alminnelige frist i første ledd. Ved alvorlige eller gjentatte brudd på opplysningsplikten kan det i medhold av § 6 nr. 3 i Aa-registerforskriften bestemmes at unntaket ikke skal gjelde.",
+      "Opplysninger om lott eller part ved fiske- eller fangstvirksomhet skal leveres for desember det året inntekten ble opptjent, når utbetalingen skjer etter årsskiftet. Slike opplysninger skal leveres senest 20. februar året etter inntektsåret.",
+      "For opplysningspliktige etter skatteforvaltningsloven § 7-6, utskytes fristen for første levering etter første ledd til den 15. i den påfølgende kalendermåneden, når arbeidet i et oppdrag påbegynnes etter den 20. i en kalendermåned. Opplysningene skal gis for hver kalendermåned opplysningene gjelder for.",
+      "Når det er innvilget fritak fra å foreta forskuddstrekk etter skattebetalingsloven § 5-3 for arbeidstakere hos opplysningspliktige etter skatteforvaltningsloven § 7-6, kan opplysninger leveres en gang per år. Opplysningene skal gis for hver kalendermåned opplysningene gjelder for, og skal leveres senest den 15. januar i året etter inntektsåret.",
+      "Faller fristen på en lørdag, søndag eller helligdag utskytes fristen til første påfølgende virkedag.",
+      "For arbeidsgiver som leverer opplysninger etter forskriften § 3-1 annet ledd, skal opplysningene gis senest første virkedag etter den enkelte lønnsutbetaling."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 18 des 2014 nr. 1780, 2 feb 2016 nr. 91, 22 des 2021 nr. 3854 (med virkning fra 1 jan 2022)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": null,
+   "overskrift": "Sted for levering og leveringsmåte",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 3-1",
+     "tittel": "Hvordan opplysningene skal leveres",
+     "ledd": [
+      "Opplysningene skal leveres i den form Skattedirektoratet bestemmer.",
+      "Opplysningspliktige som omfattes av avgiftsfritak i folketrygdloven § 23-2 sjette til åttende ledd kan levere opplysningene på forenklet a-melding."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 3-2",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Opphevet ved forskrift 11 april 2018 nr. 571."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 3-3",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Opphevet ved forskrift 11 april 2018 nr. 571."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": null,
+   "overskrift": "Tvangsmulkt og overtredelsesgebyr",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 4-1",
+     "tittel": "Når tvangsmulkt kan ilegges",
+     "ledd": [
+      "Tvangsmulkt kan ilegges når følgende opplysninger ikke er levert innen fristen i a-opplysningsloven § 4, jf. forskriften § 2-1:\na. organisasjonsnummer, D-nummer eller fødselsnummer for opplysningspliktige,\nb. organisasjonsnummer, fødselsnummer eller D-nummer for inntektsmottaker,\nc. opplysninger om leveransen etter forskriften § 1-4,\nd. opplysninger etter a-opplysningsloven § 3.",
+      "Det kan også ilegges tvangsmulkt dersom opplysninger ikke er gitt i den form Skattedirektoratet har bestemt etter § 3-1."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 4-2",
+     "tittel": "Fastsettelse av tvangsmulkt",
+     "ledd": [
+      "Tvangsmulkt skal normalt utgjøre 1/10 rettsgebyr per dag per inntektsmottaker det ikke er gitt pliktige opplysninger om, jf. lov 17. desember 1982 nr. 86 om rettsgebyr § 1 annet ledd.",
+      "I særlige tilfeller kan dagsatsen settes lavere eller høyere enn det som følger av første ledd.",
+      "Tvangsmulkt begynner å løpe fra den dag som fastsettes i vedtaket om tvangsmulkt og løper frem til den opplysningspliktige har oppfylt sin opplysningsplikt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 4-3",
+     "tittel": "Når overtredelsesgebyr kan ilegges",
+     "ledd": [
+      "Overtredelsesgebyr kan ilegges når følgende opplysninger ikke er levert innen fristen a-opplysningsloven § 4, jf. forskriften § 2-1:\na. organisasjonsnummer, D-nummer eller fødselsnummer for opplysningspliktige,\nb. organisasjonsnummer, fødselsnummer eller D-nummer for inntektsmottaker,\nc. opplysninger om leveransen etter forskriften § 1-4,\nd. opplysninger etter a-opplysningsloven § 3.",
+      "Det kan også ilegges overtredelsesgebyr dersom opplysninger ikke er levert i den form Skattedirektoratet har bestemt etter forskriften § 3-1.",
+      "Det skal ikke ilegges overtredelsesgebyr dersom det er påløpt tvangsmulkt for samme forsinkelse."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 4-4",
+     "tittel": "Fastsettelse av overtredelsesgebyr",
+     "ledd": [
+      "Overtredelsesgebyret skal normalt utgjøre ¼ rettsgebyr per dag forsinkelsen har vart, jf. lov 17. desember 1982 nr. 86 om rettsgebyr § 1 annet ledd.",
+      "I særlige tilfeller kan gebyret settes høyere eller lavere per dag enn det som følger av første ledd.",
+      "Overtredelsesgebyret beregnes fra og med dagen etter fristen i § 2-1 til den dag opplysningene ble gitt."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": null,
+   "overskrift": "Ikrafttredelse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 5-1",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Forskriften trer i kraft 1. januar 2015."
+     ]
+    }
+   ]
+  }
+ ]
+}

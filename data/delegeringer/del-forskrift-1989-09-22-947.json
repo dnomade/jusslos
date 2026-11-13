@@ -1,0 +1,53 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-1989-09-22-947",
+ "dokumentid": "DEL/forskrift/1989-09-22-947",
+ "departement": [
+  "Helse- og omsorgsdepartementet"
+ ],
+ "etat": [
+  "Folkehelseavd."
+ ],
+ "kunngjort_i": "I 1989 842",
+ "ikraft": "1990-01-01",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1989-06-02-27",
+   "tekst": "lov/1989-06-02-27"
+  }
+ ],
+ "korttittel": "Forsk. om myndighetstildeling, alkoholloven m.m.",
+ "tittel": "Ikrafttredelse av lov 2. juni 1989 nr. 27 om omsetning av alkoholholdig drikk m.v. Tildeling av myndighet.",
+ "annet": "Hjemmel: Fastsatt ved kgl.res. av 22. september 1989. Fremmet av Sosialdepartementet.\nEndret ved forskrift 10 jan 2006 nr. 62 (ansv. dep.).",
+ "refid": "forskrift/1989-09-22-947",
+ "eli": "/eli/forskrift/1989/09/22/947",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/1989-09-22-947",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Lov 2. juni 1989 nr. 27 om omsetning av alkoholholdig drikk m.v. trer i kraft 1. januar 1990."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Den myndighet loven gir departementet tillegges Sosialdepartementet."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2026-07-09-1544",
+ "dokumentid": "SF/forskrift/2026-07-09-1544",
+ "departement": [
+  "Klima- og miljødepartementet"
+ ],
+ "etat": [
+  "Miljødirektoratet"
+ ],
+ "ikraft": "2026-07-10 – 2026-12-31",
+ "siste_endring_ikraft": "2026-08-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2026-07-16-1567",
+   "tekst": "forskrift/2026-07-16-1567 fra 2026-08-01"
+  }
+ ],
+ "hjemmel": [
+  {
+   "ref": "forskrift/1992-11-27-864",
+   "tekst": "forskrift/1992-11-27-864"
+  },
+  {
+   "ref": "lov/1992-05-15-47/§11",
+   "tekst": "lov/1992-05-15-47/§11"
+  },
+  {
+   "ref": "forskrift/2021-03-15-798",
+   "tekst": "forskrift/2021-03-15-798"
+  },
+  {
+   "ref": "forskrift/2021-03-15-797",
+   "tekst": "forskrift/2021-03-15-797"
+  }
+ ],
+ "kunngjort": "2026-07-10 15:50",
+ "tittel": "Forskrift om ekstraordinære tiltak i fisket etter anadrome laksefisk i vassdrag og sjøområder i 2026",
+ "annet": "Hjemmel: Fastsatt av Miljødirektoratet 9. juli 2026 med hjemmel i lov 15. mai 1992 nr. 47 om laksefisk og innlandsfisk mv. (lakse- og innlandsfiskloven) § 11 første og andre ledd, jf. delegeringsvedtak 27. november 1992 nr. 864.\nEndret ved forskrift 16 juli 2026 nr. 1567 (i kraft 1 aug 2026, gjelder til 31 desember 2026).",
+ "refid": "forskrift/2026-07-09-1544",
+ "eli": "/eli/forskrift/2026/07/09/1544",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2026-07-09-1544",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Begrensning i fiskebestemmelser i vassdrag",
+   "ledd": [
+    "For vassdrag som nevnt i tabellen gjelder følgende fiskebestemmelser i stedet for vedlegg 1 til forskrift 15. mars 2021 nr. 798 om fiske etter anadrome laksefisk i vassdrag:\n| Fylke | Kommune | Vassdragsnr. | Vassdrag | Fisketid\nL: laks\nØ: sjøørret\nR: sjørøye\n| Spesielle bestemmelser\n| Trøndelag | Skaun | 122.2Z | Vigda | L: 01.06–01.08 | Døgnkvote per fisker: 1 laks. Sesongkvote per fisker: 10 laks.\n| Trøndelag | Orkland | 121.1Z | Skjenaldelva | L: 01.07–01.08 |\n| Trøndelag | Steinkjer | 128.Z | Steinkjervassdraget | L: 01.07–01.08 | Døgnkvote per fisker: 1 laks. Sesongkvote per fisker: 2 laks. Det er ikke tillatt å avlive laks større enn 65 cm. Totalkvote for vassdraget per sesong: 50 laks. Fiske kun tillatt i Byaelva.\n| Trøndelag | Orkland | 121.Z | Orkla | Åpnes ikke |\n| Trøndelag | Melhus | 122.Z | Gaula (Trøndelag) | Åpnes ikke |\n| Trøndelag | Verdal | 127.Z | Verdalsvassdraget | Åpnes ikke |\n| Møre og Romsdal | Surnadal | 112.3Z | Bævra | L: 01.06-01.08\nØ: 01.07–01.08 |\n| Møre og Romsdal | Hustadvika | 108.2Z | Vågsbøelva | L: 01.06–01.08\nØ: 15.06–01.08 |\n| Møre og Romsdal | Hustadvika | 108.221Z | Vassgårdselva | L: 01.06–17.08\nØ: 15.07–17.08 | Døgnkvote per fisker: 2 laks. Døgnkvote per fisker: 1 sjøørret."
+   ],
+   "endringer": [
+    "Endret ved forskrift 16 juli 2026 nr. 1567 (i kraft 1 aug 2026, gjelder til 31 desember 2026)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Begrensning i fiskebestemmelser i sjø",
+   "ledd": [
+    "For sjøområder som nevnt i tabellen gjelder følgende fiskebestemmelser i stedet for vedlegg om fiske med kilenot og lakseverp til forskrift 15. mars 2021 nr. 797 om fiske etter anadrome laksefisk i sjøen:\n| Forvaltningsregion | Beskrivelse – kommuner med avgrensinger | Fisketid og øvrige bestemmelser for\nfiske etter anadrome laksefisk med\nkilenot og lakseverp\n| Trondheimsfjorden | Ørland (innenfor vestre punkt på Garten), Indre Fosen, Steinkjer, Inderøy, Verdal, Levanger, Frosta, Stjørdal, Malvik, Trondheim, Melhus, Skaun, Orkland (Trondheimsfjorden innenfor vestre punkt på Vernestangen) | Åpnes ikke\n| Åfjord | Åfjord (innenfor ei linje fra Tårnes til Langstrandodden), Ørland (Åfjorden innefor ei linje fra Landhaugholmen til Trettvikhammaren) | Åpnes ikke\n| Namsfjorden | Namsos (Gyltfjorden innenfor ei linje fra Nordhola til Galtneset, Raudsunda innenfor ei linje fra Hovsodden til Islendingen, Namsfjorden innenfor ei linje fra Utvorda til Bjørvika), Flatanger (innenfor innenfor ei linje fra Utvorda til Bjørvika) | 15. juli–28. juli: man. kl. 15–ons. kl. 15"
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Ikrafttreden",
+   "ledd": [
+    "Denne forskriften trer i kraft 10. juli 2026, og gjelder til 31. desember 2026."
+   ]
+  }
+ ]
+}

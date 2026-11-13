@@ -1,0 +1,134 @@
+{
+ "skjema": "1.0",
+ "type": "instruks",
+ "datokode": "FOR-2021-02-05-328",
+ "dokumentid": "INS/forskrift/2021-02-05-328",
+ "departement": [
+  "Digitaliserings- og forvaltningsdepartementet"
+ ],
+ "etat": [
+  "Statsforvaltningsavdelingen"
+ ],
+ "ikraft": "2021-02-05",
+ "gjelder_for": "Norge",
+ "kunngjort": "2021-02-05 14:20",
+ "siste_rettelse": "2024-01-04 (departementstilhørighet)",
+ "korttittel": "Instruks for arbeidet med forebyggende objekt- og infrastruktursikkerhet for departementsbygningene",
+ "tittel": "Instruks for arbeidet med forebyggende objekt- og infrastruktursikkerhet for departementsbygningene",
+ "annet": "Hjemmel: Fastsatt ved kgl.res. 5. februar 2021. Fremmet av Kommunal- og moderniseringsdepartementet.\nRettet 04.01.2024 (departementstilhørighet).",
+ "refid": "forskrift/2021-02-05-328",
+ "eli": "/eli/forskrift/2021/02/05/328",
+ "url": "https://lovdata.no/dokument/INS/forskrift/2021-02-05-328",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I. Formål",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Meld.St.29 (2011–2012) Samfunnssikkerhet beskriver Kommunal- og moderniseringsdepartementets (tidligere Fornyings-, administrasjons- og kirkedepartementet) ansvar for det forebyggende objektsikkerhetsarbeidet knyttet til felles bygningsmasse, fellesområder og utendørsområder i regjeringskvartalet og i departementsbygninger utenfor regjeringskvartalet. Unntak er Forsvarsdepartementet og Statsministerens kontors midlertidige lokaler i Forsvarets ledelsesbygg. I tillegg samordner Kommunal- og moderniseringsdepartementet det forebyggende sikkerhetsarbeidet i departementsfellesskapet, med tilhørende kontakt med aktuelle fagmiljø for ajourhold og videreutvikling av planverk og instrukser.\nFormålet med denne instruksen er å tydeliggjøre roller og ansvar for objekt- og infrastruktursikkerhet for departementsbygningene for å oppnå et helhetlig og koordinert forebyggende sikkerhetsarbeid på dette området.\nMålgruppen for instruksen er departementene."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II. Virkeområde",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Denne instruksen gjelder for arbeidet med objekt- og infrastruktursikkerhet for departementsbygningene iht. lov 1. juni 2018 nr. 24 om nasjonal sikkerhet (heretter sikkerhetsloven).\nInstruksen vil bli revidert ved behov.\nDenne instruksen gjelder ikke for departementenes utflyttingslokaler i beredskapssammenheng.\nDepartementenes arbeid med objekt- og infrastruktursikkerhet i egen sektor er ikke omfattet av denne instruksen.\nForsvarsdepartementet og Statsministerens kontors midlertidige lokaler i Forsvarets ledelsesbygg er ikke omfattet av denne instruksen."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kapIII",
+   "overskrift": "III. Definisjoner",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "| Departementsbygning | Bygning hvor departement(er) har kontorer, og som regelmessig brukes til departementsformål.\n| Departementsfellesskapet | Alle departementene og Statsministerens kontor.\n| Erstatningslokaler | Midlertidige lokaler for departementer som må flytte ut av sine faste departementsbygninger.\n| Felles bygningsmasse | Samtlige departementsbygninger med unntak av Forsvarsdepartementet og Statsministerens kontors midlertidige lokaler i Forsvarets ledelsesbygg.\n| Fellesområder | Områder i en departementsbygning hvor flere har tilgang[1], og som er underlagt adgangskontrollbestemmelser eller er permanent bemannet\n| Flerbrukerbygg | Departementsbygning som huser flere enn ett departement.\n| Grunnsikring | Sikkerhetstiltak som skal bidra til et forsvarlig sikkerhetsnivå i en normaltilstand (omfatter også påbygningstiltak som kan iverksettes ved endringer i trusselbildet), jf. virksomhetsikkerhetsforskriften § 14.\n| Myndighetspersoner | Medlemmer av regjeringen.\n| Sikkerhetstiltak | Samlebegrep for alle tiltak som reduserer risikoen knyttet til sikkerhetstruende virksomhet, jf. sikkerhetsloven § 4-3.\n| Sikringstiltak | Konkrete sikkerhetstiltak som er av teknisk karakter (som omhandler bygg og informasjonssystemer).\n| Skjermingsverdig objekt og infrastruktur | Objekter og infrastruktur er skjermingsverdige dersom det kan skade grunnleggende nasjonale funksjoner om de får redusert funksjonalitet eller blir utsatt for skadeverk, ødeleggelse eller rettsstridig overtakelse, jf. sikkerhetsloven § 7-1.\n| Utflyttingslokaler | Alternative lokaler for deler av et departement hvor prioriterte departementsfunksjoner kan opprettholdes i en krisesituasjon.\n| Utendørsområder | Områder som er innenfor perimetersikringen til en departementsbygning, og som er åpne for alminnelig ferdsel."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kapIV",
+   "overskrift": "IV. Felles grunnsikring",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Formålet med felles grunnsikring er å oppnå et forsvarlig sikkerhetsnivå for å beskytte skjermingsverdige objekter og infrastruktur mot sikkerhetstruende virksomhet i en normaltilstand. I tillegg foreligger det planer for påbygningstiltak, skadebegrensende tiltak og tiltak for å gjenopprette forsvarlig sikkerhetsnivå etter en eventuell hendelse.\nFelles grunnsikring etableres av Kommunal- og moderniseringsdepartementet på bakgrunn av gjeldende sikkerhetsmål for objekt- og infrastruktursikkerhet i henhold til de skjermingsverdige objektenes/infrastrukturens klassifiseringsgrad.\nSikkerhetstiltakene innenfor felles grunnsikring er kategorisert som perimetersikring, skallsikring og vakt- og resepsjonstjenester med understøttende tekniske sikringssystem.\nPerimetersikring omfatter ulike typer barrierer som kjøretøysperrer, porter og bommer, gjerder eller terrengtilpasninger som har som formål å regulere ferdsel rundt departementsbygningene og å skape avstand mellom kjøretøy og bygninger.\nSkallsikring omhandler tiltak som styrker bygningens yttervegger, tak og gulv med den hensikt å hindre og forsinke inntrenging og/eller for å gi beskyttelse mot eksplosjoner og andre våpenvirkninger. Sikkerhetstiltak som er del av yttervegger, tak og gulv er også en del av skallsikringen.\nVakt- og resepsjonstjenester med understøttende tekniske sikringssystem har som hensikt å regulere adgang til bygg og områder, og å detektere og verifisere sikkerhetstruende virksomhet. Dette gjøres gjennom bruk av vakter/vektere og resepsjonsvakter, samt gjennom tekniske systemer som automatisk adgangskontrollsystem, automatisk innbruddsalarm og kameraovervåkning. Tjenester som person- og bagasjekontroll, kjøretøykontroll og sikkerhetskontroll av post og vareleveranser er kategorisert som vakt- og resepsjonstjenester. Vakt- og resepsjonstjenester med understøttende tekniske sikringssystem benyttes som del av skall- og perimetersikring, og som selvstendige sikkerhetstiltak."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kapV",
+   "overskrift": "V. Departementenes ansvar for objekt- og infrastruktursikkerhet",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Det enkelte departement plikter å utøve forebyggende sikkerhetsarbeid innenfor sitt ansvarsområde i henhold til bestemmelsene gitt i eller i medhold av sikkerhetsloven, jf. sikkerhetsloven § 4-3 første ledd.\n1. Avgrenset til området objekt- og infrastruktursikkerhet for departementsbygningene, har hvert departement selv ansvar for:\na. sikkerhetstiltak i egne områder\nb. sikkerhetstiltak for å beskytte myndighetspersoner innenfor egne områder\nc. sikkerhetstiltak for egne skjermingsverdige objekter og infrastruktur i egne områder, samordnet med Kommunal- og moderniseringsdepartementet\nd. menneskelige og organisatoriske tiltak som skal ivareta at Kommunal- og moderniseringsdepartementets felles grunnsikring ikke kompromitteres av egne ansatte eller besøkende\ne. evakueringsplaner og rømningsstrategi for eget personell og besøkende.\nDepartementenes behov for egnede arealer til egen virksomhet, herunder ombyggingsbehov eller behov for utvidelser som vil kunne påvirke felles grunnsikring, skal forelegges Kommunal- og moderniseringsdepartementet. Departementene er selv ansvarlige for eventuelle utflyttingslokaler, og ivaretakelse av forebyggende sikkerhetsarbeid som gjelder utflyttingslokalene.\nDepartementenes eventuelle behov for sikkerhetsmessige tilpasninger i egne lokaler utover det som dekkes gjennom felles grunnsikring, kan dekkes gjennom tjenesteleveranser fra Statsbygg eller Departementenes sikkerhets- og serviceorganisasjon. Ansvaret for slik tilpasning ligger hos det enkelte departement.\n2. Behandling av personopplysninger\na. et hvert departement er, iht. generell personvernforordning[2] artikkel 4 nr. 7, behandlingsansvarlig for personopplysninger som behandles som del av adgangskontroll og kameraovervåkning i departementsinterne områder\nb. et hvert departement skal inngå databehandleravtale med Departementenes sikkerhets- og serviceorganisasjon for behandling av personopplysninger som er del av adgangskontroll og kameraovervåkning i departementsinterne områder."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kapVI",
+   "overskrift": "VI. Kommunal- og moderniseringsdepartementets ansvar",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Kommunal- og moderniseringsdepartementets sikkerhetsmessige ansvar for objekt- og infrastruktursikkerhet for departementsbygningene er avgrenset til:\na. felles grunnsikring som beskrevet i kapittel IV\nb. nødvendig samordning og instruksutvikling for ivaretakelse av felles grunnsikring\nc. samordning av sikkerhetstiltak for eventuelle rom innenfor departmentsinterne områder som inneholder felles teknisk infrastruktur\nd. samordning av sikkerhetstiltak med det enkelte departement for å ivareta sikkerhet for eventuelle skjermingsverdige objekter og infrastruktur innenfor felles grunnsikring i departementsbygningene.\n1. Kommunal- og moderniseringsdepartementet skal innenfor ovennevnte ansvarsområde:\na. utpeke, klassifisere og holde oversikt over skjermingsverdige objekter og infrastruktur i departementsbygninger, fellesområder og utendørsområder som er del av eller understøtter felles grunnsikring, og som ikke faller inn under et annet departements ansvarsområde\nb. melde inn oversikt over skjermingsverdige objekter og infrastruktur identifisert under punkt a) til Nasjonal sikkerhetsmyndighet\nc. gjennomføre vurdering av risiko og beskytte skjermingsverdige objekter og infrastruktur identifisert under punkt a) iht. sikkerhetsloven § 7-3\nd. jevnlig informere departementene i de respektive departementsbygningene om vurdering av risiko, sikkerhetstiltak i felles grunnsikring og restrisiko samt beredskapstiltak\ne. samordne beredskapsarbeidet knyttet til skjermingsverdige objekter og infrastruktur med Oslo politidistrikt\n2. Kommunal- og moderniseringsdepartementet skal, i dialog med politiet og andre fagmyndigheter, påse at det etableres fysiske sikkerhetstiltak for beskyttelse av myndighetspersoner i nye departementsbygninger og ved totalrenovering av eksisterende departementsbygninger.\n3. Kommunal- og moderniseringsdepartementet skal gi departementene råd om etablering av fysiske sikkerhetstiltak for beskyttelse av myndighetspersoner i eksisterende departementsbygninger.\n4. Kommunal- og moderniseringsdepartementet er behandlingsansvarlig for personopplysninger som behandles i forbindelse med felles grunnsikring for departementsbygningene, jf. generell personvernforordning artikkel 4 nr. 7, jf. VII, nr. 1c). Dette gjelder også for tekniske sikringssystemer som er del av grunnsikringen, men som er montert eller lokalisert på innsiden av skallsikringen."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kapVII",
+   "overskrift": "VII. Andre aktørers ansvar og roller",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "1. Departementenes sikkerhets- og serviceorganisasjon:\na. er tjenesteleverandør av vakt- og resepsjonstjenester med understøttende tekniske sikringssystem til felles grunnsikring for departementsbygningene\nb. håndhever felles adgangsbestemmelser[3] i departmentsfellesskapet\nc. er databehandler for personopplysninger som behandles i forbindelse med felles grunnsikring, jf. generell personvernforordning artikkel 4 nr. 8\nd. er databehandler for personopplysninger som behandles i forbindelse med adgangskontroll og kameraovervåkning i departementsinterne områder, jf. generell personvernforordning artikkel 4 nr. 8\n2. Statsbygg:\na. har ansvar for bygningsmessige tjenesteleveranser av sikkerhetstiltak i departementsfellesskapet\nb. har ansvar for forvaltning, drift og vedlikehold av bygningsmassen og tilknyttede arealer i departementsfellesskapet\n3. Politidirektoratet:\na. fremmer forslag til sikringstiltak for myndighetspersoner\n4. Politiets sikkerhetstjeneste:\na. utarbeider trusselvurderinger og gir faglige råd der dette vurderes som relevant i arbeidet med forebyggende objekt- og infrastruktursikkerhet for departementsbygningene\n5. Oslo politidistrikt:\na. er ansvarlig for opprettholdelse av alminnelig ro og orden og kriminalitetsbekjempelse i de deler av departementsfellesskapet som er åpne for alminnelig ferdsel\nb. er reaksjonsstyrke ved sikkerhetstruende hendelser i departementsfellesskapet\nc. er sikringsstyrker for objektsikring, eventuelt med støtte fra Forsvaret."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-8",
+   "navn": "kapVIII",
+   "overskrift": "VIII. Finansiering",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Oppgavene som faller inn under Kommunal- og moderniseringsdepartementet og de øvrige departementenes ansvarsområder, finansieres fortløpende innenfor departementenes eksisterende budsjettrammer.\nDet økonomiske ansvaret for sikkerhetstiltak for å beskytte myndighetsperson vil ligge i Kommunal- og moderniseringsdepartementet i forbindelse med etablering av fysiske sikkerhetstiltak i nye departementsbygninger og ved totalrenovering av eksisterende departementsbygninger, jf. instruksens kapittel VI punkt 2.\nDet økonomiske ansvaret for sikkerhetstiltak for å beskytte myndighetsperson vil ligge i det enkelte departement ved etablering av sikkerhetstiltak for å beskytte myndighetsperson i eksisterende departementsbygninger, jf. instruksens kapittel V punkt 1 bokstav a."
+    }
+   ]
+  }
+ ],
+ "fotnoter": [
+  {
+   "nr": "1",
+   "tekst": "Kontorlokaler som deles av to eller flere departementer, defineres ikke som fellesområde, men som departementsinterne områder. Departementer som deler lokaler må i fellesskap definere sikkerhetstiltak for de delte områdene."
+  },
+  {
+   "nr": "2",
+   "tekst": "Europaparlaments- og rådsforordning 2016/679 av 27. april 2016 om vern av fysiske personer i forbindelse med behandling av personopplysninger og om fri utveksling av slike opplysninger samt om oppheving av direktiv 95/46/EF (generell personvernforordning"
+  },
+  {
+   "nr": "3",
+   "tekst": "Se vedlegg til instruksen: «Felles adgangsbestemmelser for departementene»."
+  }
+ ]
+}

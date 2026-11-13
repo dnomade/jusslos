@@ -1,0 +1,155 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2024-02-02-194",
+ "dokumentid": "SF/forskrift/2024-02-02-194",
+ "departement": [
+  "Samferdselsdepartementet"
+ ],
+ "etat": [
+  "Veg-, by- og trafikksikkerhetsavdelingen"
+ ],
+ "ikraft": "2024-03-01",
+ "siste_endring_ikraft": "2026-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2025-12-18-2725",
+   "tekst": "forskrift/2025-12-18-2725 fra 2026-01-01"
+  }
+ ],
+ "hjemmel": [
+  {
+   "ref": "lov/2002-06-21-45/§38",
+   "tekst": "lov/2002-06-21-45/§38"
+  },
+  {
+   "ref": "lov/2002-06-21-45/§40a",
+   "tekst": "lov/2002-06-21-45/§40a"
+  }
+ ],
+ "kunngjort": "2024-02-07 14:30",
+ "tittel": "Forskrift om gebyr for visse overtredelser av yrkestransportregelverket",
+ "annet": "Hjemmel: Fastsatt av Samferdselsdepartementet 2. februar 2024 med hjemmel i lov 21. juni 2002 nr. 45 om yrkestransport med motorvogn og fartøy (yrkestransportlova) § 38 og § 40a.\nEndret ved forskrift 18 des 2025 nr. 2725 (i kraft 1 jan 2026).",
+ "refid": "forskrift/2024-02-02-194",
+ "eli": "/eli/forskrift/2024/02/02/194",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2024-02-02-194",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Fellesbestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Myndighet",
+     "ledd": [
+      "Politiet og Statens vegvesen kan ilegge overtredelsesgebyr etter denne forskriften."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Ileggelse og betaling av overtredelsesgebyr",
+     "ledd": [
+      "Overtredelsesgebyr kan ilegges det transportforetaket som har overtrådt bestemmelsene i kapittel 2 i denne forskriften. Transportforetak etter denne forskriften omfatter den som driver transport mot vederlag som krever løyve etter yrkestransportlova kapittel 2.",
+      "Foreligger det flere overtredelser som alle kan avgjøres ved overtredelsesgebyr, kan flere overtredelsesgebyr føres på samme gebyrskjema.",
+      "Overtredelsesgebyret kan ilegges på stedet der overtredelsen avdekkes.",
+      "Fristen for betaling av overtredelsesgebyret er fire uker. Er overtredelsesgebyret ikke betalt innen fire uker etter ileggelsen, løper forsinkelsesrenter etter forsinkelsesrenteloven. Dette gjelder selv om overtredelsesgebyret er påklaget. Overtredelsesgebyr som ikke betales innen fristen, kan inndrives fjorten dager etter varsel om inndriving er kommet fram til den skyldige. Overtredelsesgebyret tilfaller staten."
+     ],
+     "endringer": [
+      "Endret ved forskrift 18 des 2025 nr. 2725 (i kraft 1 jan 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Straffeprosessuell forfølgning",
+     "ledd": [
+      "Dersom overtredelsen framstår som særlig graverende, ved gjentagelser eller dersom forholdet av andre grunner bør følges opp ved vanlig straffeprosessuell forfølgning, kan kontrollmyndigheten anmelde forholdet i stedet for å ilegge gebyr."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 4",
+     "tittel": "Klage",
+     "ledd": [
+      "Overtredelsesgebyr ilagt etter denne forskriften kan påklages etter forvaltningslovens regler."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Visse overtredelser av yrkestransportregelverket",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 5",
+     "tittel": "Førerattest",
+     "ledd": [
+      "Transportforetaket kan ilegges overtredelsesgebyr på kr 6 000 for manglende medbringelse av førerattest, jf. yrkestransportforskriften § 13 og § 53, jf. forordning (EF) 1072/2009 artikkel 3 og 5(6).",
+      "I det tilfellet transportforetaket ikke innehar førerattest, jf. yrkestransportforskriften § 13, forordning (EF) 1072/2009 artikkel 5 er gebyret kr 60 000."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 6",
+     "tittel": "Løyve",
+     "ledd": [
+      "Transportforetaket kan ilegges overtredelsesgebyr på kr 6 000 ved manglende medbringelse av gyldig løyvedokument, jf. yrkestransportforskriften § 13, § 53 og § 55, jf. forordning (EF) 1072/2009 artikkel 3 og 4(6) og forordning (EF) 1073/2009 artikkel 4(1) og 4(3).",
+      "I det tilfellet transportforetaket ikke innehar gyldig løyvedokument, jf. yrkestransportloven § 4, § 5 og § 10 er gebyret kr 60 000."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 7",
+     "tittel": "Ulovlig kabotasje",
+     "ledd": [
+      "Transportforetak som driver godstransport mot vederlag med motorvogn, eller motorvogn med tilhenger, med tillatt totalvekt over 3500 kg, kan ilegges overtredelsesgebyr for følgende overtredelser av yrkestransportforskriften § 53, jf. forordning (EF) 1072/2009 artikkel 8:\na. der det ikke kan dokumenteres innkommende internasjonal transport, jf. artikkel 8(2),\nb. der kabotasje er utført mer enn sju dager etter at siste internasjonale tur ble avsluttet, jf. artikkel 8(2),\nc. der det er utført mer enn tre kabotasjeturer med grunnlag i fellesskapstillatelsen etter den grensekryssende transporten, jf. artikkel 8(2),\nd. der det er kjørt mer enn én transittkabotasje, jf. artikkel 8(2),\ne. der det er utført transittkabotasje mer enn tre dager etter ankomst til Norge uten last, jf. artikkel 8(2),\nf. der fraktbrev er mangelfullt utfylt eller har mangelfullt utfylt dokumentasjon, jf. artikkel 8(3) andre ledd bokstav a–d og bokstav g,\ng. der fraktbrev/dokumentasjon for nasjonal transport ikke følger med i kjøretøyet, jf. artikkel 8(3),\nh. der kabotasje er påbegynt før lossing av internasjonal transport, jf. artikkel 8(2).",
+      "For overtredelser som faller inn under første ledd bokstav a til e er gebyret kr 60 000. Ved flere overtredelser av bestemmelsens første ledd bokstav a til e i samme kontroll gis ett samlet gebyr på kr 60 000.",
+      "For overtredelser som faller inn under første ledd bokstav f, er gebyret kr 6 000 per mangel, men likevel ikke mer enn kr 25 000.",
+      "For overtredelser som faller inn under første ledd bokstav g, er gebyret kr 6 000.",
+      "For overtredelser som faller inn under første ledd bokstav h, er gebyret kr 25 000."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Avsluttende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 8",
+     "tittel": "Justering av gebyrsatsene",
+     "ledd": [
+      "Gebyrsatsene og gebyrtaket justeres i henhold til konsumprisindeks hvert femte år. Satsen avrundes til nærmeste kr 1000."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 9",
+     "tittel": "Ikrafttreden",
+     "ledd": [
+      "Forskriften trer i kraft 1. mars 2024."
+     ]
+    }
+   ]
+  }
+ ]
+}

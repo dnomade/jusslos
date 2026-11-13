@@ -1,0 +1,79 @@
+{
+ "skjema": "1.0",
+ "type": "lov",
+ "datokode": "LOV-2005-01-07-5",
+ "dokumentid": "NL/lov/2005-01-07-5",
+ "departement": [
+  "Samferdselsdepartementet"
+ ],
+ "ikraft": "2005-01-07",
+ "siste_endring_ikraft": "2016-03-01",
+ "sist_endret_ved": [
+  {
+   "ref": "lov/2016-01-22-1",
+   "tekst": "lov/2016-01-22-1 fra 2016-03-01"
+  }
+ ],
+ "rettsomrade": [
+  "Selskaper, fond og foreninger > Selskaper. Statsforetak",
+  "Transport og kommunikasjoner > Jernbane"
+ ],
+ "kunngjort": "2005-01-07",
+ "siste_rettelse": "2021-09-29 (faglige fotnoter fjernet)",
+ "korttittel": "Lov om BaneService som AS",
+ "tittel": "Lov om omdanning av Jernbaneverkets forretningsenhet BaneService til aksjeselskap",
+ "refid": "lov/2005-01-07-5",
+ "eli": "/eli/lov/2005/01/07/05",
+ "url": "https://lovdata.no/dokument/NL/lov/2005-01-07-5",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Formål",
+   "ledd": [
+    "Formålet med denne loven er å regulere visse overgangsspørsmål i forbindelse med omdanning av Jernbaneverkets forretningsenhet BaneService til aksjeselskap."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Overføring av privatrettslige forpliktelser",
+   "ledd": [
+    "Overføring til aksjeselskapet av forpliktelser knyttet til de deler av Jernbaneverkets produksjonsvirksomhet som omdanningen gjelder, har frigjørende virkning for staten.",
+    "Fordringshavere og andre rettighetshavere kan ikke motsette seg overføringen eller gjøre gjeldende at overføringen utgjør en bortfallsgrunn for rettsforholdet."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Overføring av offentlige rettigheter, konsesjoner, tillatelser mv.",
+   "ledd": [
+    "Offentlige rettigheter, konsesjoner, tillatelser med videre som gjelder den virksomhet som skal overføres, blir fra omdanningstidspunktet overført til aksjeselskapet.",
+    "Omregistrering i grunnboken og andre offentlige registre i forbindelse med omdanningen skjer ved navneendring."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "(Opphevet)",
+   "ledd": [],
+   "endringer": [
+    "Opphevet ved lov 22 jan 2016 nr. 1 (ikr. 1 mars 2016 iflg. res. 22 jan 2016 nr. 44)."
+   ],
+   "opphevet": "2016-03-01"
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Loven trer i kraft straks."
+   ]
+  }
+ ]
+}

@@ -1,0 +1,453 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2011-04-11-388",
+ "dokumentid": "SF/forskrift/2011-04-11-388",
+ "departement": [
+  "Samferdselsdepartementet"
+ ],
+ "etat": [
+  "Statens jernbanetilsyn"
+ ],
+ "kunngjort_i": "I 2011 hefte 4",
+ "ikraft": "2011-07-01",
+ "siste_endring_ikraft": "2022-11-30",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2022-11-30-2051",
+   "tekst": "forskrift/2022-11-30-2051"
+  }
+ ],
+ "endrer": "forskrift/2005-12-19-1621",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1993-06-11-100/§4",
+   "tekst": "lov/1993-06-11-100/§4"
+  },
+  {
+   "ref": "forskrift/2021-09-03-2675/§5",
+   "tekst": "forskrift/2021-09-03-2675/§5"
+  }
+ ],
+ "kunngjort": "2011-04-15 14:30",
+ "siste_rettelse": "2023-01-11 (hjemmel oppdatert)",
+ "korttittel": "Jernbaneinfrastrukturforskriften",
+ "tittel": "Forskrift om nasjonale tekniske krav m.m. for jernbaneinfrastruktur på det nasjonale jernbanenettet (jernbaneinfrastrukturforskriften)",
+ "annet": "Hjemmel: Fastsatt av Statens jernbanetilsyn 11. april 2011 med hjemmel i lov 11. juni 1993 nr. 100 om anlegg og drift av jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. (jernbaneloven) § 4, jf. forskrift 10. desember 2010 nr. 1568 om jernbanevirksomhet mv. på det nasjonale jernbanenettet (jernbaneforskriften) § 1-3 ellevte ledd.\nTilføyd hjemmel: Forskrift 3. september 2021 nr. 2675 om sikkerhet og tekniske forhold ved jernbanen § 5.\nEndret ved forskrifter 19 aug 2011 nr. 851, 21 juni 2012 nr. 633, 1 juli 2014 nr. 901, 19 des 2016 nr. 1846, 19 sep 2018 nr. 1354, 30 nov 2022 nr. 2051.\nRettet 11.01.2023 (hjemmel oppdatert).",
+ "refid": "forskrift/2011-04-11-388",
+ "eli": "/eli/forskrift/2011/04/11/388",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2011-04-11-388",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1-1",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Forskriften gjelder for jernbaneinfrastruktur på det nasjonale jernbanenettet.",
+      "Forskriften gjelder likevel ikke der annet følger av forskrift 9. september 2021 nr. 2742 om samtrafikkevnen i jernbanesystyemet (samtrafikkforskriften) og/eller forskrifter om tekniske spesifikasjoner (TSI)."
+     ],
+     "endringer": [
+      "Endret ved forskrift 30 nov 2022 nr. 2051."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 1-2",
+     "tittel": "Formål",
+     "ledd": [
+      "Formålet med forskriften er å fastsette minimumskrav til sikker og hensiktsmessig prosjektering, bygging, drift og vedlikehold av jernbaneinfrastruktur."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 1-3",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "I forskriften her forstås med:\na. alvorlig jernbanehendelse: en uønsket hendelse som under litt andre omstendigheter kunne ha ført til en jernbaneulykke,\nb. automatisk hastighetsovervåkning: den del av signalanlegget som overvåker togets hastighet og aktiverer togets bremser dersom tillatt hastighet overstiges. Automatisk hastighetsovervåkning kan være fullstendig eller delvis,\nc. det nasjonale jernbanenettet: den jernbaneinfrastruktur som er beregnet på persontransport og/eller godstransport og som forvaltes av Bane NOR SF som infrastrukturforvalter,\nd. energi: elektrisitetsforsyningssystemet, herunder luftledninger og deler av utstyret for måling av elektrisitetsforbruket om bord i toget,\ne. ERTMS: (European Rail Traffic Management System): standardisert teknisk system for signalering og trafikkstyring som består av ETCS og GSM-R (klasse A-systemer),\nf. ETCS(European Train Control System): standardisert europeisk togkontrollsystem,\ng. infrastruktur: spor, sporveksler, byggverk (broer, tunneler osv.), infrastruktur knyttet til jernbanestasjoner (plattformer, ganganlegg, herunder anlegg som er tilpasset bevegelseshemmedes behov osv.), sikkerhets- og verneutstyr,\nh. infrastrukturforvalter: ethvert organ eller foretak som er ansvarlig særlig for å opprette og vedlikeholde jernbaneinfrastrukturen eller deler av denne som angitt i direktiv 2012/34/EU artikkel 3; dette kan også omfatte forvaltning av kontroll- og sikkerhetssystemer for jernbaneinfrastrukturen. Infrastrukturforvalters oppgaver på et nett eller en del av et nett kan tildeles forskjellige organer eller foretak\ni. jernbanehendelse: enhver annen uønsket hendelse enn en jernbaneulykke, som har sammenheng med jernbanedriften, og som innvirker på sikkerheten,\nj. jernbaneinfrastruktur: består av delsystemet infrastruktur, de faste innretninger av delsystemet energi, samt de faste innretninger av delsystemet styring, kontroll og signalering,\nk. jernbaneulykke: en uønsket eller utilsiktet plutselig hendelse eller en bestemt rekke slike hendelser som har skadelige følger, herunder som medfører at noen dør eller blir alvorlig skadet, som medfører betydelig skade på jernbanemateriell, på jernbaneinfrastruktur, på eiendom utenfor jernbanen eller på miljø, og alle andre lignende ulykker,\nl. jernbanevirksomhet: virksomhet som driver gods- og persontransport, jernbaneinfrastruktur og trafikkstyring,\nm. kjøretøy: et jernbanekjøretøy som kjører på egne hjul på jernbanelinjer, med eller uten egen trekkraft. Et kjøretøy er sammensatt av ett eller flere strukturelle og funksjonelle delsystemer eller deler av slike delsystemer,\nn. særskilt overføringsenhet («Spesific Transmission Module» – STM-enhet): en enhet som er plassert i toget som oversetter informasjon fra nasjonale systemer i jernbaneinfrastrukturen (klasse B-systemer) til ETCS-informasjon. STM-enheten regnes som en del av signalanlegget,\no. signalanlegg: teknisk anlegg som blant annet kan inkludere sikringsanlegg, optiske signaler, linjeblokk, fjernstyring og automatisk hastighetsovervåkning,\np. sikringsanlegg: den del av signalanlegget som sikrer at kjørsignal bare gis dersom bestemte betingelser er oppfylt,\nq. styring, kontroll og signal: alt utstyr som er nødvendig for å kunne garantere sikkerhet og for å kunne styre og kontrollere bevegelsene til tog som har tillatelse til å trafikkere jernbanenettet,\nr. tog: trekkraftkjøretøy, med eller uten vogner, som er gitt et tognummer i en rute og som skal kjøres fra et bestemt utgangssted til et bestemt ankomststed,\ns. trafikkstyring: fremgangsmåter og utstyr som muliggjør helhetlig drift av de ulike strukturelle delsystemene, både under normal og redusert drift, herunder særlig trafikkplanlegging og -styring."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 19 sep 2018 nr. 1354, 30 nov 2022 nr. 2051."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Krav til drift av jernbaneinfrastruktur",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 2-1",
+     "tittel": "Overordnet ansvar for sikkerhet",
+     "ledd": [
+      "Infrastrukturforvalter skal sikre at jernbaneinfrastrukturen til enhver tid er utformet på en slik måte at det legges til rette for sikker drift av jernbanesystemet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 2-2",
+     "tittel": "Romblokkprinsippet",
+     "ledd": [
+      "Infrastrukturforvalter skal utforme og drifte jernbaneinfrastrukturen samt drive trafikkstyring slik at kjøring av tog på en strekning eller på et spor kontrolleres på en måte som sikrer at et tog ikke kjører inn på en strekning eller et spor der det befinner seg kjøretøy (romblokkprinsippet)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 2-3",
+     "tittel": "Teknisk dokumentasjon",
+     "ledd": [
+      "Infrastrukturforvalter skal ha teknisk dokumentasjon for alle systemer, deler og komponenter. Dokumentasjonen skal bekrefte at systemer, deler og komponenter er i samsvar med de nasjonale og internasjonale standarder som er lagt til grunn for prosjektering og bygging av jernbaneinfrastruktur. Alle endringer må dokumenteres slik at det tekniske utstyrets egenskaper til enhver tid er kjent.",
+      "Dokumentasjonen skal beskrive de forutsetninger og begrensninger som er knyttet til jernbaneinfrastrukturens utforming. Disse forutsetningene og begrensningene skal legges til grunn for prosedyrer for drift og vedlikehold av jernbaneinfrastrukturen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 2-4",
+     "tittel": "Drift og vedlikehold av jernbaneinfrastruktur",
+     "ledd": [
+      "Infrastrukturforvalter skal drifte og vedlikeholde jernbaneinfrastrukturen i henhold til nasjonale og internasjonale standarder.",
+      "Infrastrukturforvalter skal ha en vedlikeholdsplan for hver strekning. Vedlikeholdsplanen skal inneholde grenseverdier for alle systemer, deler og komponenter av sikkerhetsmessig betydning som angir når umiddelbare tiltak skal iverksettes. Planen skal videre inneholde en beskrivelse av tiltak som skal gjennomføres når disse grensene er overskredet, samt terminer for vedlikehold og tidspunkt for utskifting av sikkerhetskritiske komponenter. Ved fastsettelse av grenseverdiene skal det blant annet tas hensyn til kjøretøy som tillates brukt på strekningen og strekningens tillatte kjørehastigheter.",
+      "Infrastrukturforvalter skal dokumentere utført vedlikehold."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 2-5",
+     "tittel": "Register over jernbaneinfrastrukturen",
+     "ledd": [
+      "Infrastrukturforvalter skal ha et register over systemer, deler og komponenter som inngår i jernbaneinfrastrukturen. Registeret skal entydig identifisere systemer, deler og komponenter ved hjelp av blant annet stedsangivelse."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-6",
+     "nummer": "§ 2-6",
+     "tittel": "Krav til kompatibilitet m.m.",
+     "ledd": [
+      "Infrastrukturforvalter skal forsikre seg om at jernbaneforetak som tillates å trafikkere på det nasjonale jernbanenettet har lisens og sikkerhetssertifikat. Det skal kun gis adgang til kjøretøy som er kompatibelt med jernbaneinfrastrukturen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-7",
+     "nummer": "§ 2-7",
+     "tittel": "Krav til ruteplanlegging",
+     "ledd": [
+      "Infrastrukturforvalters ruteplanlegging skal sikre at trafikkavviklingen skjer innenfor akseptabel risiko. Det skal tas hensyn til alle forhold av betydning for sikkerheten, herunder plassering av kryssinger, sporbruk på stasjoner og snutider."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-8",
+     "nummer": "§ 2-8",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Endret ved forskrift 21 juni 2012 nr. 633 (i kraft 1 juli 2012), opphevet ved forskrift 19 sep 2018 nr. 1354."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-9",
+     "nummer": "§ 2-9",
+     "tittel": "Trafikkstyring",
+     "ledd": [
+      "Infrastrukturforvalter skal overvåke og lede all trafikk på jernbaneinfrastrukturen (trafikkstyring). Trafikkstyring skal skje på en slik måte at trafikken kan avvikles innenfor akseptabel risiko. Trafikkstyringen skal blant annet sikre at det er oversikt over de enkelte togs retning, posisjon og rekkefølge."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Nasjonale tekniske krav til jernbaneinfrastruktur",
+   "innhold": [
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-1",
+     "navn": "kapI",
+     "overskrift": "I. Generelle krav til jernbaneinfrastruktur",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-1",
+       "nummer": "§ 3-1",
+       "tittel": "Generelle krav til jernbaneinfrastruktur",
+       "ledd": [
+        "Jernbaneinfrastrukturen skal utformes slik at virksomheten drives innenfor akseptabel risiko. Delsystemet infrastruktur, de faste innretninger av delsystemet energi og de faste innretninger av delsystemet styring, kontroll og signal samt de enkelte komponenter i hvert delsystem skal være teknisk og funksjonelt harmonisert.",
+        "Jernbaneinfrastrukturen skal prosjekteres, bygges og testes i henhold til nasjonale og internasjonale standarder. Infrastrukturforvalter skal gjøre en sikkerhetsmessig vurdering av avvik fra valgte standarder. Vurderingen skal dokumenteres.",
+        "Infrastrukturforvalter skal benytte prosesstandarden EN 50126 ved bygging av ny jernbaneinfrastruktur og ved endring av programmerbare tekniske systemer. Ved andre endringer av jernbaneinfrastruktur skal infrastrukturforvalter vurdere om endringen er av en slik karakter at bruk av EN 50126 er hensiktsmessig. Vurderingen skal dokumenteres.",
+        "Infrastrukturforvalter skal benytte standardene EN 50128 og EN 50129 ved anskaffelse av nye signalanlegg og ved endring av elektroniske signalanlegg."
+       ],
+       "endringer": [
+        "Endret ved forskrift 19 sep 2018 nr. 1354."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-2",
+       "nummer": "§ 3-2",
+       "tittel": "Bruk av assessor ved bygging av ny eller endring av jernbaneinfrastruktur",
+       "ledd": [
+        "Statens jernbanetilsyn kan kreve at det benyttes en assessor ved bygging av ny eller endring av jernbaneinfrastruktur. Statens jernbanetilsyn kan kreve å ha direkte kontakt med vedkommende.",
+        "Assessor skal aksepteres av Statens jernbanetilsyn. Ved vurderingen av om aksept kan gis, legges det blant annet vekt på uavhengighet og kompetanse, samt assessors arbeidsplan.",
+        "Statens jernbanetilsyn kan også kreve at det benyttes andre uavhengige parter i tillegg til eller i stedet for assessor til verifiseringer, granskninger m.m."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-2",
+     "navn": "kapII",
+     "overskrift": "II. Infrastruktur",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-2-paragraf-1",
+       "nummer": "§ 3-3",
+       "tittel": "Trasé m.m.",
+       "ledd": [
+        "Ved valg av trasé for ny jernbaneinfrastruktur skal det tas hensyn til kurvatur, stigningsforhold og grunnforhold slik at en sikker og hensiktsmessig trafikkavvikling kan oppnås.",
+        "For traseer som ligger i rasfarlige områder eller områder med ustabile grunnforhold, skal det iverksettes tiltak slik at virksomheten drives innenfor akseptabel risiko.",
+        "Spor for hensetting av kjøretøy skal sikres slik at kjøretøyet ikke kommer ut i spor der det kjøres tog."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-2-paragraf-2",
+       "nummer": "§ 3-4",
+       "tittel": "Plattformer m.m.",
+       "ledd": [
+        "Plattformer og adkomst til disse skal være utformet og utstyrt, herunder skiltet og oppmerket, slik at ferdsel til plattform, opphold på plattform og av- og påstigning til tog kan foregå innenfor akseptabel risiko. Ved bygging av nye plattformer og ved vesentlige endringer av eksisterende plattformer skal infrastrukturforvalter sikre universell utforming av plattformene og adkomsten til disse. Med universell utforming menes utforming eller tilrettelegging av hovedløsningen i de fysiske forholdene slik at virksomhetens alminnelige funksjon kan benyttes av flest mulig.",
+        "Plattformenes bredde skal være tilpasset antall reisende og hastigheten på passerende tog. Plattformenes lengde skal være tilpasset lengde eller teknisk utrustning på persontog som tillates å stoppe for av- og påstigning.",
+        "Høyde- og avstandsforskjeller mellom tog og plattformer skal minimaliseres slik at passasjerenes sikkerhet ved av- og påstigning ivaretas. Nye plattformer skal ikke legges i kurve med radius under 2000 meter.",
+        "Plattformen og plattformutrustning skal være utformet slik at ombordpersonellet har oversikt langs hele toget ved av- og påstigning."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-2-paragraf-3",
+       "nummer": "§ 3-5",
+       "tittel": "Tunneler og broer m.m.",
+       "ledd": [
+        "Tunneler og broer skal utformes og utstyres slik at det gir muligheter for evakuering og selvredning i tilfelle av brann og andre ulykker. Det skal legges til rette for at redningspersonell kan drive effektivt redningsarbeid, herunder av orienterings- og bevegelseshemmede.",
+        "Gangbaner på broer skal være skjermet med rekkverk. Gangbaner skal være fri for hindringer i høyden og bredden slik at evakuering kan foregå på en sikker måte.",
+        "Tunneler skal ikke inneholde lett antennelige materialer. Materialene som skal brukes skal i minst mulig grad avgi røyk og skadelige branngasser ved en eventuell brann."
+       ],
+       "endringer": [
+        "Endret ved forskrift 19 sep 2018 nr. 1354."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-2-paragraf-4",
+       "nummer": "§ 3-6",
+       "tittel": "Planoverganger",
+       "ledd": [
+        "Planoverganger skal være tilrettelagt for sikker passering for veifarende.",
+        "Planoverganger på offentlige veier skal ha veisikringsanlegg. Infrastrukturforvalter skal i tillegg vurdere om det er behov for veisikringsanlegg på andre planoverganger ved endring av blant annet mengde og type trafikk på vei eller jernbane eller endringer i hastighet på strekningen.",
+        "På planoverganger uten veisikringsanlegg eller bevoktning skal den tillatte hastigheten over planovergangen tilpasses siktforholdene slik at veifarende kan passere med tilstrekkelig tidsmargin.",
+        "På dobbeltsporede strekninger og der kjørehastigheten for tog er over 160 km/t skal det ikke være planoverganger.",
+        "Det skal ikke bygges nye planoverganger. Dette gjelder likevel ikke på driftsbanegårder, godsterminaler og havnespor som er stengt for alminnelig ferdsel, samt midlertidige planoverganger på anleggsområder."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-2-paragraf-5",
+       "nummer": "§ 3-6a",
+       "tittel": "Melding om ny eller endret jernbaneinfrastruktur",
+       "ledd": [
+        "Det skal sendes melding til Statens jernbanetilsyn om ny eller endret jernbaneinfrastruktur så tidlig som mulig.",
+        "Meldingen skal minst inneholde:\na. navn og kontaktopplysninger til kontaktperson,\nb. planlagt fremdrift i prosjektet,\nc. kravgrunnlag, herunder standarder og TSI-er,\nd. systembeskrivelse,\ne. sikkerhetsplan,\nf. risikovurdering(er),\ng. vesentlighetsvurdering etter CSM-RA.",
+        "Søker må vurdere om TSI-er kommer til anvendelse for den nye eller endrede jernbaneinfrastrukturen. Kravene i § 3-2 får anvendelse."
+       ],
+       "endringer": [
+        "Tilføyd ved forskrift 19 sep 2018 nr. 1354."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-2-paragraf-6",
+       "nummer": "§ 3-6b",
+       "tittel": "Søknad til å ta i bruk jernbaneinfrastruktur",
+       "ledd": [
+        "Søknad om tillatelse til å ta i bruk jernbaneinfrastruktur skal minst inneholde:\na. navn og kontaktopplysninger til kontaktperson,\nb. planlagt tidspunkt for ibruktaking,\nc. kravgrunnlag (dersom oppdatert fra melding),\nd. systembeskrivelse (dersom oppdatert fra melding),\ne. risikovurdering(er) (dersom oppdatert fra melding),\nf. sikkerhetsplan (dersom oppdatert fra melding),\ng. sikkerhetsrapport og sikkerhetsbevis der det er aktuelt,\nh. oversikt over virksomhetens behandling av unntak fra virksomhetsinterne bestemmelser, og de sikkerhetsmessige vurderingene som ligger til grunn for virksomhetens aksept av unntakene,\nh. farelogg,\ni. sikkerhetsoppfølgingsplan/driftsoppfølgingsplan,\nj. vedlikeholdsplan.",
+        "Er assessor eller andre uavhengige tredjeparter benyttet, skal utarbeidete rapporter, sertifikater, verifikasjoner, erklæringer etc. og oppfølgingen av disse, vedlegges.",
+        "Kravene i § 3-2 får anvendelse."
+       ],
+       "endringer": [
+        "Tilføyd ved forskrift 19 sep 2018 nr. 1354."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-3",
+     "navn": "kapIII",
+     "overskrift": "III. Signalanlegg",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-3-paragraf-1",
+       "nummer": "§ 3-7",
+       "tittel": "Signalanlegg",
+       "ledd": [
+        "Signalanlegg skal være konstruert slik at de feiler til sikker tilstand.",
+        "Sikringsanleggenes sikkerhetsfunksjoner skal være automatiske og uavhengige av den som betjener anlegget. Ved bygging eller større endringer av sikringsanlegg skal det benyttes anleggstyper som har grensesnitt mot klasse A-systemer.",
+        "Signaler langs spor skal plasseres slik at det går klart frem hvilke spor signalene gjelder for, og signalbildet skal være synlig for togets fører i god tid før signalpassering.",
+        "Nye strekninger skal ha fjernstyring. Strekninger med fjernstyring skal være utbygd med automatisk hastighetsovervåkning. På strekninger med fjernstyring skal alle hovedsignalbilder logges kontinuerlig og lagres sikkert og i tilstrekkelig tid i forhold til behovet ved eventuell undersøkelse av jernbaneulykker, alvorlige jernbanehendelser og jernbanehendelser. Tilsvarende gjelder alle forsignalbilder ved bygging av nye signalanlegg.",
+        "Strekninger der det bygges automatisk hastighetsovervåkning og strekninger med delvis automatisk hastighetsovervåkning som ombygges, skal utbygges med fullstendig automatisk hastighetsovervåkning."
+       ],
+       "endringer": [
+        "Endret ved forskrifter 1 juli 2014 nr. 901, 19 sep 2018 nr. 1354."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-3-paragraf-2",
+       "nummer": "§ 3-8",
+       "tittel": "Signalprinsipper",
+       "ledd": [
+        "Infrastrukturforvalter skal ha prinsipper for tillatte signalmidler og deres plassering, nødvendige signalavstander og sikkerhetssoner, samt bestemmelser for utforming av tegningsunderlag og dokumenter som angir forhold mellom tillatte togbevegelser eller skiftebevegelser på stasjoner og linjen."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-3-paragraf-3",
+       "nummer": "§ 3-9",
+       "tittel": "Testing av styrings- og kontrollutstyr ved integrering i kjøretøy",
+       "ledd": [
+        "Infrastrukturforvalter skal gjøre sitt ytterste for å tilrettelegge for at jernbaneforetaket kan foreta testing av styrings- og kontrollutstyr (klasse B-utstyr, STM-enheten og ERTMS), ved integrering av dette utstyret i kjøretøy (integrasjonstesting). Klasse B-utstyr som er tillatt i Norge fremgår av forskrift 10. mai 2017 nr. 600 om gjennomføring av den tekniske spesifikasjonen for samtrafikkevnen for delsystemet «styring, kontroll og signal» i det transeuropeiske jernbanesystemet for konvensjonelle tog (TSI-styring, kontroll og signal) vedlegg B.",
+        "Infrastrukturforvalter skal ha utfyllende bestemmelser om slik integrasjonstesting."
+       ],
+       "endringer": [
+        "Endret ved forskrift 19 sep 2018 nr. 1354."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-3-paragraf-4",
+       "nummer": "§ 3-10",
+       "tittel": "Trafikkstyringssentral",
+       "ledd": [
+        "Trafikkstyring skal skje fra en trafikkstyringssentral. Trafikkstyringssentralen skal ha velegnet utstyr for å drive trafikkstyring, herunder for å kunne kommunisere med togbetjening."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-3-paragraf-5",
+       "nummer": "§ 3-11",
+       "tittel": "Kommunikasjonssystem",
+       "ledd": [
+        "Jernbaneinfrastruktur skal være utbygd med kommunikasjonssystem (togradio) til bruk i togframføringen.",
+        "På all jernbaneinfrastruktur skal det være et system for nødkommunikasjon, slik at det til enhver tid er gjensidig mulighet for rask kontakt mellom fører og trafikkstyringssentralen.",
+        "Kommunikasjon i forbindelse med trafikkstyringen skal lagres sikkert og i tilstrekkelig tid i forhold til behovet ved eventuell undersøkelse av jernbaneulykker, alvorlige jernbanehendelser og jernbanehendelser."
+       ],
+       "endringer": [
+        "Endret ved forskrift 19 aug 2011 nr. 851."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-4",
+     "navn": "kapIV",
+     "overskrift": "IV. (Opphevet)",
+     "innhold": [
+      {
+       "type": "endring",
+       "tekst": "Opphevet ved forskrift 19 des 2016 nr. 1846 (i kraft 1 jan 2017)."
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-4-paragraf-1",
+       "nummer": "§ 3-12",
+       "tittel": "(Opphevet)",
+       "ledd": [],
+       "endringer": [
+        "Opphevet ved forskrift 19 des 2016 nr. 1846 (i kraft 1 jan 2017)."
+       ],
+       "opphevet": "2017-01-01"
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-4-paragraf-2",
+       "nummer": "§ 3-13",
+       "tittel": "(Opphevet)",
+       "ledd": [],
+       "endringer": [
+        "Opphevet ved forskrift 19 des 2016 nr. 1846 (i kraft 1 jan 2017)."
+       ],
+       "opphevet": "2017-01-01"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Avsluttende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 4-1",
+     "tittel": "Unntak",
+     "ledd": [
+      "Statens jernbanetilsyn kan i det enkelte tilfellet gjøre unntak fra denne forskriften dersom særlige grunner tilsier det."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 4-2",
+     "tittel": "Overgangsbestemmelser",
+     "ledd": [
+      "Unntak gitt i medhold av forskrift 19. desember 2005 nr. 1621 om krav til jernbanevirksomhet på det nasjonale jernbanenettet (sikkerhetsforskriften) gjelder også etter denne forskriftens ikrafttredelse med de begrensninger som fremgår av vedtaket."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 4-3",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Forskriften trer i kraft 1. juli 2011."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 4-4",
+     "tittel": "Endringer i andre forskrifter",
+     "ledd": [
+      "I forskrift 19. desember 2005 nr. 1621 om krav til jernbanevirksomhet på det nasjonale jernbanenettet (sikkerhetsforskriften) gjøres følgende endringer: – – –"
+     ]
+    }
+   ]
+  }
+ ]
+}

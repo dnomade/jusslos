@@ -1,0 +1,52 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-1990-06-22-589",
+ "dokumentid": "SF/forskrift/1990-06-22-589",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Økonomiavd."
+ ],
+ "kunngjort_i": "I 1990 637",
+ "ikraft": "1990-06-22",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1950-07-14-10",
+   "tekst": "lov/1950-07-14-10"
+  }
+ ],
+ "korttittel": "Delegering etter valutaloven",
+ "tittel": "Forskrift om oppheving av forskrift om valutaregulering. Delegering av myndighet til Norges Bank.",
+ "refid": "forskrift/1990-06-22-589",
+ "eli": "/eli/forskrift/1990/06/22/589",
+ "url": "https://lovdata.no/dokument/SF/forskrift/1990-06-22-589",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Finans- og tolldepartementet har 22. juni 1990 med hjemmel i lov 14. juli 1950 nr. 10 om valutaregulering, opphevet forskrifter av 29. juli 1955 med senere endringer, gitt med hjemmel i lov om valutaregulering, med virkning fra 1. juli 1990."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Finans- og tolldepartementets myndighet etter lov om valutaregulering ble samtidig delegert til Norges Bank.\nEndringen trer i kraft straks."
+    }
+   ]
+  }
+ ]
+}

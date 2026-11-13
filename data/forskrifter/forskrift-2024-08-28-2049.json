@@ -1,0 +1,316 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2024-08-28-2049",
+ "dokumentid": "SF/forskrift/2024-08-28-2049",
+ "departement": [
+  "Justis- og beredskapsdepartementet"
+ ],
+ "etat": [
+  "Direktoratet for samfunnssikkerhet og beredskap"
+ ],
+ "ikraft": "2024-08-28",
+ "endrer": "forskrift/2015-06-02-588",
+ "hjemmel": [
+  {
+   "ref": "lov/2002-06-14-20/§5",
+   "tekst": "lov/2002-06-14-20/§5"
+  },
+  {
+   "ref": "lov/2002-06-14-20/§6",
+   "tekst": "lov/2002-06-14-20/§6"
+  },
+  {
+   "ref": "lov/2002-06-14-20/§20a",
+   "tekst": "lov/2002-06-14-20/§20a"
+  },
+  {
+   "ref": "lov/2002-06-14-20/§26",
+   "tekst": "lov/2002-06-14-20/§26"
+  },
+  {
+   "ref": "lov/2002-06-14-20/§27",
+   "tekst": "lov/2002-06-14-20/§27"
+  },
+  {
+   "ref": "lov/2002-06-14-20/§43",
+   "tekst": "lov/2002-06-14-20/§43"
+  },
+  {
+   "ref": "forskrift/2003-09-01-1161",
+   "tekst": "forskrift/2003-09-01-1161"
+  },
+  {
+   "ref": "forskrift/2015-06-01-580",
+   "tekst": "forskrift/2015-06-01-580"
+  }
+ ],
+ "kunngjort": "2024-08-30 15:10",
+ "tittel": "Forskrift om utgangsstoffer for eksplosiver",
+ "annet": "Hjemmel: Fastsatt av Direktoratet for samfunnssikkerhet og beredskap 28. august 2024 med hjemmel i lov 14. juni 2002 nr. 20 om vern mot brann, eksplosjon og ulykker med farlig stoff og om brannvesenets redningsoppgaver (brann- og eksplosjonsvernloven) § 5, § 6, § 20a, § 26, § 27 og § 43, jf. delegeringsvedtak 1. september 2003 nr. 1161 og delegeringsvedtak 1. juni 2015 nr. 580.\nEØS-henvisninger: EØS-avtalen vedlegg II kap. XV nr. 12zzq og kap. XXIX nr. 6 (forordning (EU) 2019/1148).",
+ "refid": "forskrift/2024-08-28-2049",
+ "eli": "/eli/forskrift/2024/08/28/2049",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2024-08-28-2049",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Formål",
+   "ledd": [
+    "Forskriften skal forebygge at utgangsstoffer for eksplosiver kommer på avveie og blir benyttet til uønskede tilsiktede hendelser.",
+    "Forskriften skal også bidra til å verne liv, helse, miljø og materielle verdier mot uhell og ulykker med utgangsstoffer for eksplosiver."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Hva forskriften gjelder",
+   "ledd": [
+    "Forskriften gjelder tilgjengeliggjøring, innførsel, utførsel, besittelse og bruk av utgangsstoffer for eksplosiver underlagt restriksjoner og regulerte utgangsstoffer for eksplosiver.",
+    "Utgangsstoffer for eksplosiver underlagt restriksjoner (Liste 1) er:\nsalpetersyre, over 3 vektprosent\nhydrogenperoksid, over 12 vektprosent\nsvovelsyre, over 15 vektprosent\nnitrometan, over 16 vektprosent\nammoniumnitrat, over 16 vektprosent nitrogen fra ammoniumnitrat\nkaliumklorat, over 40 vektprosent\nkaliumperklorat, over 40 vektprosent\nnatriumklorat, over 40 vektprosent\nnatriumperklorat, over 40 vektprosent.",
+    "Regulerte utgangsstoffer for eksplosiver (Liste 2) er:\nutgangsstoffer for eksplosiver underlagt restriksjoner uavhengig av konsentrasjonsgrensen\nheksamin\naceton\nkaliumnitrat\nnatriumnitrat\nkalsiumnitrat\nkalsiumammoniumnitrat\nmagnesiumpulver (med en partikkelstørrelse mindre enn 200 μm, og med 70 vektprosent eller mer)\nmagnesiumnitratheksahydrat\naluminiumpulver (med en partikkelstørrelse mindre enn 200 μm, og med 70 vektprosent eller mer).",
+    "Forskriften gjelder også stoffblandinger av regulerte utgangsstoffer for eksplosiver, med unntak for homogene blandinger med mer enn 5 bestanddeler der konsentrasjonen av hver av de regulerte utgangsstoffene for eksplosiver er under 1 vektprosent.",
+    "Forskriften gjelder ikke produkter, pyrotekniske artikler eller legemidler, slik avgrensningen er gjort i forordning (EU) 2019/1148 artikkel 2 nr. 2."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Gjennomføring av forordning (EU) 2019/1148",
+   "ledd": [
+    "EØS-avtalen vedlegg II kapittel XV og XXIX (forordning (EU) 2019/1148 om endring av forordning (EF) nr. 1907/2006 og oppheving av forordning (EU) nr. 98/2013) om markedsføring og bruk av utgangsstoffer for eksplosiver gjelder som forskrift med de endringer og tillegg som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Definisjoner",
+   "ledd": [
+    "I forskriften menes med\na. stoff: et kjemisk grunnstoff og dets forbindelser, i naturlig tilstand eller framkommet ved en fremstillingsprosess, herunder ethvert tilsetningsstoff som er nødvendig for å bevare stoffets stabilitet, samt enhver urenhet som følger av prosessen som benyttes, men med unntak av ethvert løsemiddel som kan utskilles uten å påvirke stoffets stabilitet eller endre dets sammensetning\nb. stoffblanding: en blanding eller løsning som består av to eller flere stoffer\nc. produkt: en gjenstand som i produksjon gis en spesiell form, overflate eller utforming som i større grad enn dens kjemiske sammensetning bestemmer dens funksjon\nd. tilgjengeliggjøring: enhver forsyning enten mot betaling eller gratis\ne. bruk: enhver form for bearbeiding, sammensetning, forbruk, lagring, oppbevaring, behandling, påfylling i beholdere, overføring fra én beholder til en annen, blanding, produksjon av et produkt eller enhver annen utnytting\nf. mistenkelig transaksjon: enhver transaksjon som gjelder regulerte utgangsstoffer for eksplosiver der det er rimelig grunn til mistanke, etter at alle relevante faktorer er tatt i betraktning, om at det aktuelle stoffet eller den aktuelle stoffblandingen er beregnet på ulovlig fremstilling av eksplosiver\ng. medlem av allmennheten: enhver fysisk eller juridisk person som opptrer med formål som ikke er knyttet til vedkommendes nærings-, forretnings- eller yrkesvirksomhet\nh. yrkesbruker: enhver fysisk eller juridisk person eller offentlig enhet eller gruppe av slike personer eller enheter som har et påviselig behov for et utgangsstoff for eksplosiver underlagt restriksjoner til formål knyttet til vedkommendes nærings-, forretnings- eller yrkesvirksomhet, herunder landbruksvirksomhet, som utøves enten på heltid eller deltid og ikke nødvendigvis er knyttet til størrelsen på landarealet der landbruksvirksomheten utøves, forutsatt at disse formålene ikke omfatter det å gjøre dette utgangsstoffet for eksplosiver underlagt restriksjoner tilgjengelig for en annen person\ni. markedsdeltaker: enhver fysisk eller juridisk person eller offentlig enhet eller gruppe av slike personer og/eller enheter som gjør regulerte utgangsstoffer for eksplosiver tilgjengelig på markedet, på internett eller utenfor internett, herunder på nettbaserte markedsplasser\nj. nettbasert markedsplass: et mellomledd som yter tjenester som gjør det mulig for markedsdeltakere på den ene siden og medlemmer av allmennheten, yrkesbrukere eller andre markedsdeltakere på den andre siden å gjennomføre transaksjoner som gjelder regulerte utgangsstoffer for eksplosiver gjennom nettbasert salgs- eller tjenesteavtaler, enten på den nettbaserte markedsplassens nettsted eller på en markedsdeltakers nettsted som bruker databehandlingstjenester som tilbys av den nettbaserte markedsplassen\nk. jordbruksvirksomhet: produksjon, avl eller dyrking av jordbruksprodukter, herunder innhøsting, melking, oppdrett og hold av dyr for jordbruksformål, eller for å holde jordbruksarealet i god jordbruksmessig og miljømessig stand som fastsatt i norsk rett.",
+    "For øvrig gjelder definisjonene i forordning (EU) 2019/1148 artikkel 3."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Krav til aktsomhet",
+   "ledd": [
+    "Alle som håndterer regulerte utgangsstoffer for eksplosiver, skal vise aktsomhet og gjøre det som er nødvendig for å forhindre at utgangsstoffene kommer på avveie eller havner i urette hender og for å forebygge uhell."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "Forbud mot tilgjengeliggjøring, innførsel, utførsel, besittelse og bruk",
+   "ledd": [
+    "Utgangsstoffer for eksplosiver underlagt restriksjoner skal ikke gjøres tilgjengelig for, innføres, utføres til, besittes eller brukes av medlem av allmennheten, men kan kun gjøres tilgjengelig for markedsdeltakere og yrkesbrukere.",
+    "Forbudet i første ledd gjelder også for stoffblandinger av klorater og perklorater som beskrevet i forordning (EU) 2019/1148 artikkel 5 nr. 2."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 7",
+   "tittel": "Plikt til kontroll ved salg av utgangsstoffer for eksplosiver underlagt restriksjoner",
+   "ledd": [
+    "En markedsdeltaker som gjør utgangsstoffer for eksplosiver underlagt restriksjoner tilgjengelig for en annen markedsdeltaker eller en yrkesbruker, skal for hver transaksjon innhente, kontrollere og oppbevare opplysninger i samsvar med forordning (EU) 2019/1148 artikkel 8 nr. 2, 3 og 4. Markedsdeltakeren skal på forespørsel gjøre opplysningene tilgjengelig for DSB, politiet og andre rettshåndhevingsmyndigheter.",
+    "Markedsdeltakeren skal ved innhenting av opplysningene bruke kundeerklæringsmalen i vedlegg I.",
+    "En nettbasert markedsplass skal treffe tiltak i samsvar med forordning (EU) 2019/1148 artikkel 8 nr. 5."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-8",
+   "nummer": "§ 8",
+   "tittel": "Plikt til å informere neste ledd i forsyningskjeden mv.",
+   "ledd": [
+    "En markedsdeltaker som gjør utgangsstoffer for eksplosiver underlagt restriksjoner tilgjengelig for en annen markedsdeltaker eller en yrkesbruker, skal informere disse om forbudet i § 6 i samsvar med forordning (EU) 2019/1148 artikkel 7 nr. 1 første ledd.",
+    "En markedsdeltaker som gjør regulerte utgangsstoffer for eksplosiver tilgjengelig for en annen markedsdeltaker eller en yrkesbruker, skal informere mottakeren om rapporteringsplikten i § 9 i samsvar med forordning (EU) 2019/1148 artikkel 7 nr. 1 andre ledd.",
+    "Informasjonen skal gis skriftlig og senest når utgangsstoffene gjøres tilgjengelig for mottakeren.",
+    "En markedsdeltaker som gjør regulerte utgangsstoffer for eksplosiver tilgjengelig for en yrkesbruker eller et medlem av allmennheten, skal i samsvar med forordning (EU) 2019/1148 artikkel 7 nr. 2 sørge for at personalet som er involvert i salget er kjent med hvilke varer som inneholder regulerte utgangsstoffer for eksplosiver, og at de er gjort kjent med forpliktelsene i forordning (EU) 2019/1148 artikkel 5 til 9. Markedsdeltakeren skal på forespørsel fra Direktoratet for samfunnssikkerhet og beredskap kunne dokumentere dette.",
+    "En nettbasert markedsplass skal treffe tiltak i samsvar med forordning (EU) 2019/1148 artikkel 7 nr. 3."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-9",
+   "nummer": "§ 9",
+   "tittel": "Plikt til å rapportere om mistenkelige transaksjoner, svinn eller tyveri",
+   "ledd": [
+    "En markedsdeltaker og en nettbasert markedsplass skal rapportere om mistenkelige transaksjoner av regulerte utgangsstoffer for eksplosiver i samsvar med forordning (EU) 2019/1148 artikkel 9 nr. 1, 2 og 4.",
+    "Markedsdeltakeren og yrkesbrukeren skal rapportere om betydelig svinn og tyverier av regulerte utgangsstoffer for eksplosiver i samsvar med forordning (EU) 2019/1148 artikkel 9 nr. 5.",
+    "Rapporteringen skal skje innen 24 timer til KRIPOS.",
+    "Markedsdeltakeren og yrkesbrukeren, skal føre oversikt over beholdningen av regulerte utgangsstoffer for eksplosiver, slik at tyveri og uforklarlig svinn kan oppdages raskt."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-10",
+   "nummer": "§ 10",
+   "tittel": "Krav til registrering i Foretaksregisteret eller Enhetsregisteret",
+   "ledd": [
+    "En markedsdeltaker eller en yrkesbruker som vil gjøre tilgjengelig, innføre, besitte eller bruke utgangsstoffer for eksplosiver underlagt restriksjoner, skal være registrert i Foretaksregisteret eller Enhetsregisteret. En markedsdeltaker eller en yrkesbruker som er registrert i et offentlig registrer i et annet land, skal kunne dokumentere denne registreringen overfor Direktoratet for samfunnssikkerhet og beredskap."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-11",
+   "nummer": "§ 11",
+   "tittel": "Krav til deklarering",
+   "ledd": [
+    "Den som produserer eller innfører utgangsstoffer for eksplosiver underlagt restriksjoner, skal deklarere disse ved hjelp av Miljødirektoratets løsning for elektronisk deklarering, Kjemikaliedeklarering til produktregisteret. Dette gjelder også utgangsstoffer for eksplosiver underlagt restriksjoner som innføres til eget bruk. Kravet til deklarering gjelder uavhengig av utgangsstoffets mengde og bruksområde. Deklareringen skal opplyse om stoffets fullstendige kjemiske sammensetning.",
+    "Utgangsstoffer for eksplosiver underlagt restriksjoner skal deklareres senest når den som innfører eller produserer begynner å produsere, omsette eller ta dem i bruk i Norge. Den som produserer eller innfører, skal uten ugrunnet opphold og av eget tiltak oppdatere opplysningene dersom det skjer endringer. Opplysninger om den faktiske mengden som er produsert, importert og eksportert foregående år skal rapporteres senest 15. mars. Innrapportering skal skje ved hjelp av Miljødirektoratets løsning for elektronisk deklarering, Kjemikaliedeklarering til produktregisteret. Dersom stoffene ikke er deklarert ved hjelp av løsningen for elektronisk deklarering tidligere, skal den ansvarlige samtidig angi fullstendig kjemisk sammensetning."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-12",
+   "nummer": "§ 12",
+   "tittel": "Systematisk helse-, miljø- og sikkerhetsarbeid",
+   "ledd": [
+    "En markedsdeltaker og en yrkesbruker skal kartlegge farer og problemer som kan oppstå når den gjør tilgjengelig, innfører, besitter eller bruker regulerte utgangsstoffer for eksplosiver, og på denne bakgrunn vurdere risikoen for uhell og for at utgangsstoffene kan komme på avveie. Risikovurderingen skal omfatte forhold i og utenfor virksomheten.",
+    "Markedsdeltakeren og yrkesbrukeren, skal på bakgrunn av risikovurderingen utarbeide planer og gjennomføre tiltak for å hindre at regulerte utgangsstoffer for eksplosiver kommer på avveie og for å forebygge uhell.",
+    "Markedsdeltakeren, som selger til andre markedsdeltakere, og yrkesbrukere, skal sørge for at ansatte og innleide som håndterer regulerte utgangsstoffer for eksplosiver har tilstrekkelig kunnskap og ferdigheter til å utføre oppgavene på en sikker og forsvarlig måte."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-13",
+   "nummer": "§ 13",
+   "tittel": "Krav til oppbevaring av regulerte utgangsstoffer for eksplosiver",
+   "ledd": [
+    "En markedsdeltaker og en yrkesbruker, skal oppbevare regulerte utgangsstoffer for eksplosiver forsvarlig sikret. De skal ha kontroll på hvem som har adgang til de regulerte utgangsstoffene.",
+    "Markedsdeltakeren og yrkesbrukeren skal oppbevare utgangsstoffer for eksplosiver underlagt restriksjoner utilgjengelig for uvedkommende og\na. forsvarlig innelåst i egnet bygning, rom, skap eller annen innretning eller\nb. innenfor et adgangskontrollert og inngjerdet område.",
+    "På utsalgssteder skal utgangsstoffer for eksplosiver underlagt restriksjoner oppbevares på områder som er utilgjengelig for kundene.",
+    "Dersom risikovurderingen etter § 12 tilsier det skal markedsdeltakeren og yrkesbrukeren som oppbevarer utgangsstoffer for eksplosiver underlagt restriksjoner, innføre ytterligere sikringstiltak, for eksempel kameraovervåkning, vakthold, alarm eller annen ekstra innbruddssikring.",
+    "Stoffer eller stoffblandinger med ammoniumnitrat som skal brukes til lovlig produksjon av eksplosiver, skal oppbevares etter bestemmelsene i eksplosivforskriften."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-14",
+   "nummer": "§ 14",
+   "tittel": "Unntak for jordbrukeres oppbevaring av gjødsel",
+   "ledd": [
+    "Er det uforholdsmessig byrdefullt for en jordbruker å oppbevare gjødsel med 16 til 28 vektprosent nitrogen fra ammoniumnitrat på en måte som tilfredsstiller kravene i § 13, skal gjødselen som minimum oppbevares på en av følgende måter:\na. under daglig oppsyn på et område som er skjermet fra offentlig vei, og som ikke er lett synlig eller tilgjengelig for uvedkommende\nb. under jevnlig oppsyn avlåst i en egnet bygning uten tilgang for uvedkommende\nc. under jevnlig oppsyn på et avlåst område som ikke er lett tilgjengelig for uvedkommende\nd. under jevnlig oppsyn i en annen egnet låsbar innretning som ikke er lett tilgjengelig for uvedkommende.",
+    "Dersom risikovurderingen etter § 12 tilsier det, skal jordbrukeren innføre ytterligere sikringstiltak, for eksempel kameraovervåkning, vakthold, alarm eller annen ekstra innbruddssikring.",
+    "Oppbevarer en jordbruker gjødsel med mer enn 28 vektprosent nitrogen fra ammoniumnitrat, gjelder kravene i § 13."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-15",
+   "nummer": "§ 15",
+   "tittel": "Opplysningsplikt om lager eller oppbevaringssted",
+   "ledd": [
+    "En markedsdeltaker og en yrkesbruker som håndterer utgangsstoffer for eksplosiver underlagt restriksjoner, skal på forespørsel fra Direktoratet for samfunnssikkerhet og beredskap opplyse om hvor lageret eller oppbevaringsstedet er plassert, mengden utgangsstoffer som oppbevares og hvilke sikringstiltak som er gjennomført."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-16",
+   "nummer": "§ 16",
+   "tittel": "Transport",
+   "ledd": [
+    "En markedsdeltaker og en yrkesbruker som skal transportere utgangsstoffer for eksplosiver underlagt restriksjoner som ikke er regulert av forskrift om landtransport av farlig gods, skal bare tilby transportoppdrag til transportører som er tilfredsstillende identifisert.",
+    "Utgangsstoffer for eksplosiver underlagt restriksjoner skal ikke overlates for transport til noen som åpenbart mangler kunnskap, ferdigheter eller materiell for å kunne gjennomføre en forsvarlig transport."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-17",
+   "nummer": "§ 17",
+   "tittel": "Dekning av kostnader ved destruksjon",
+   "ledd": [
+    "Den som i strid med forskriften gjør tilgjengelig, bruker, besitter, utfører, innfører eller forsøker å innføre utgangsstoffer for eksplosiver underlagt restriksjoner, skal dekke kostnadene forbundet med å destruere disse på en forsvarlig måte."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-18",
+   "nummer": "§ 18",
+   "tittel": "Tilsynsmyndighet",
+   "ledd": [
+    "Direktoratet for samfunnssikkerhet og beredskap fører tilsyn med at bestemmelsene i forskriften blir overholdt.",
+    "Direktoratet for samfunnssikkerhet og beredskap kan la andre offentlige eller private sakkyndige føre tilsyn på sine vegne."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-19",
+   "nummer": "§ 19",
+   "tittel": "Dispensasjon",
+   "ledd": [
+    "Direktoratet for samfunnssikkerhet og beredskap kan etter søknad i særlige tilfeller dispensere fra forbudet i § 6.",
+    "I vurderingen skal det særlig legges vekt på\na. om det finnes alternative egnede lovlige stoffer eller stoffblandinger, eller alternative metoder uten bruk av utgangsstoffer underlagt restriksjoner\nb. om søkeren er skikket til å håndtere utgangsstoffene\nc. om søkeren har dokumentert et legitimt behov for stoffet\nd. om søkeren har kompetansen som trengs for å bruke utgangsstoffet\ne. hvilken mengde og konsentrasjon det søkes om\nf. hvor lenge det søkes dispensasjon for\ng. søkerens mulighet til å oppfylle kravene etter § 9, § 12, § 13 og § 15 i tillegg til å gi markedsaktøren de nødvendige opplysningene etter § 7.",
+    "Direktoratet for samfunnssikkerhet og beredskap kan stille nødvendige vilkår for dispensasjonen og trekke dispensasjonen tilbake dersom vilkårene ikke oppfylles."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-20",
+   "nummer": "§ 20",
+   "tittel": "Reaksjonsmidler",
+   "ledd": [
+    "Ved brudd på § 5 til § 16, eller vedtak fastsatt med hjemmel i disse bestemmelsene, kan det gjennomføres tiltak etter brann- og eksplosjonsvernloven § 37 til § 40."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-21",
+   "nummer": "§ 21",
+   "tittel": "Straff",
+   "ledd": [
+    "Den som forsettlig eller uaktsomt overtrer § 5 til § 16, eller vedtak gitt i medhold av disse bestemmelsene, kan straffes etter brann- og eksplosjonsvernloven § 42 eller straffeloven § 190 og § 191."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-22",
+   "nummer": "§ 22",
+   "tittel": "Klage",
+   "ledd": [
+    "Vedtak truffet av Direktoratet for samfunnssikkerhet og beredskap kan påklages til Justis- og beredskapsdepartementet."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-23",
+   "nummer": "§ 23",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Forskriften trer i kraft straks. Fra samme tidspunkt oppheves forskrift 2. juni 2015 nr. 588 om håndtering av utgangsstoffer for eksplosiver."
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "vedleggI",
+   "overskrift": "Vedlegg I – Mal for kundeerklæring",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "(bokmål)\n(nynorsk)"
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": null,
+   "overskrift": "Forordninger",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Nedenfor gjengis forordning (EU) nr. 2019/1148 om markedsføring og bruk av utgangsstoffer for eksplosiver, i engelsk versjon. Ved forskriften gjennomføres forordningen som den er i norsk rett. Da denne forordningen gir visse valgmuligheter, er de bestemmelser som ikke får direkte virkning i Norge skravert.\nFor å lese engelsk versjon av forordning (EU) 2019/1148 se her: (pdf)"
+    }
+   ]
+  }
+ ]
+}

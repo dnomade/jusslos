@@ -1,0 +1,197 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2001-10-30-1231",
+ "dokumentid": "SF/forskrift/2001-10-30-1231",
+ "departement": [
+  "Samferdselsdepartementet"
+ ],
+ "etat": [
+  "Luftfartstilsynet"
+ ],
+ "kunngjort_i": "I 2001 hefte 13",
+ "ikraft": "2002-01-01",
+ "siste_endring_ikraft": "2019-09-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2019-08-30-1100",
+   "tekst": "forskrift/2019-08-30-1100 fra 2019-09-01"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1993-06-11-101/§7-1",
+   "tekst": "lov/1993-06-11-101/§7-1"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§7-11",
+   "tekst": "lov/1993-06-11-101/§7-11"
+  },
+  {
+   "ref": "forskrift/1999-12-10-1273",
+   "tekst": "forskrift/1999-12-10-1273"
+  }
+ ],
+ "kunngjort": "2001-11-02",
+ "korttittel": "Forskrift om godkjenning av flyplasser",
+ "tittel": "Forskrift om krav til teknisk/operativ godkjenning av flyplasser",
+ "annet": "Hjemmel: Fastsatt av Luftfartstilsynet 30. oktober 2001 med hjemmel i lov av 11. juni 1993 nr. 101 om luftfart (luftfartsloven) § 7-1 og § 7-11, jf. delegeringsvedtak av 10. desember 1999 nr. 1273.\nEndret ved forskrifter 15 juni 2006 nr. 780, 25 aug 2015 nr. 1000, 30 aug 2019 nr. 1100 (i kraft 1 sep 2019).",
+ "refid": "forskrift/2001-10-30-1231",
+ "eli": "/eli/forskrift/2001/10/30/1231",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2001-10-30-1231",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "1. Formål",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Formålet med forskriften er å oppgi klare kriterier for når det kreves teknisk/operativ godkjenning av en flyplass."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "2. Virkeområde",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Forskriften gjelder enhver flyplass innenfor luftfartslovens geografiske virkeområde, med unntak av de flyplasser som er sertifisert i medhold av forskrift 25. august 2015 nr. 1000 om sertifisering av flyplasser mv."
+    },
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrift 25 aug 2015 nr. 1000."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "3. Definisjon av flyplass",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Med flyplass menes i denne forskrift ethvert område på land eller vann der luftfartøy foretar start, landing eller taksing."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "4. Teknisk/operativ godkjenning",
+   "innhold": [
+    {
+     "type": "seksjon",
+     "id": "kapittel-4-kapittel-1",
+     "navn": "kap4.1",
+     "overskrift": "4.1 Hovedregel",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Det kreves teknisk/operativ godkjenning fra Luftfartstilsynet for flyplasser som skal benyttes til:\na. flyging i samsvar med instrumentflygereglene\nb. luftrutetrafikk\nc. flyging med landfly med betalende passasjerer, men ikke på vann eller is\nd. hoved- eller sekundærbase for ervervsmessig luftfartsforetak."
+      },
+      {
+       "type": "endring",
+       "tekst": "Endret ved forskrift 30 aug 2019 nr. 1100 (i kraft 1 sep 2019)."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-4-kapittel-2",
+     "navn": "kap4.2",
+     "overskrift": "4.2 Krav om teknisk/operativ godkjenning i spesielle tilfeller",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Luftfartstilsynet kan, når det foreligger særlige grunner, bestemme at også andre flyplasser enn de som er nevnt i pkt. 4.1, skal ha teknisk/operativ godkjenning. Slike særlige grunner kan for eksempel være stor trafikk, vanskelige inn- og utflygingsforhold eller andre flysikkerhetsmessige problemer knyttet til bruk av flyplassen."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "5. Søknad",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Søknad om teknisk/operativ godkjenning skal sendes til Luftfartstilsynet i god tid før flyplassen skal tas i bruk eller gyldighetstiden for gjeldende godkjenning utløper."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "6. Dispensasjon",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Luftfartstilsynet kan, når særlige grunner tilsier det, dispensere fra bestemmelsene i denne forskrift."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kap7",
+   "overskrift": "7. Klage",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Enkeltvedtak truffet av Luftfartstilsynet med hjemmel i denne forskrift kan påklages til Samferdselsdepartementet i henhold til forvaltningsloven.\nKlage sendes via Luftfartstilsynet."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-8",
+   "navn": "kap8",
+   "overskrift": "8. Straff",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Ved overtredelse av denne forskrift kommer bestemmelser om straff etter luftfartslovens kapittel 14 til anvendelse."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-9",
+   "navn": "kap9",
+   "overskrift": "9. Ikrafttredelse",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Denne forskrift gjelder fra 1. januar 2002."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-10",
+   "navn": null,
+   "overskrift": "Retningslinjer for søknad om godkjenning av flyplass",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "1.Generelt\n1.1\nI henhold til luftfartslovens § 7-11 første ledd skal flyplass være godkjent av Luftfartstilsynet. Hvilke flyplasser som skal godkjennes fremgår av forskrift om krav til teknisk/operativ godkjenning av flyplasser, BSL E 1-2.\n1.2\nFor godkjenningen vil det bli satt slike vilkår Luftfartstilsynet finner påkrevd, jf. luftfartslovens § 7-11 tredje ledd.\nI den grad vilkår for godkjenning ikke fremgår av forskrifter, eller gjeldende forskrifter ikke anses relevante eller ønskelige, kan Luftfartstilsynet, med hjemmel i luftfartslovens § 7-11 tredje ledd, fatte enkeltvedtak om hvilke vilkår som skal gjelde.\n2.Vilkår for godkjenning\n2.1Stor flyplass\nVilkårene for flyplass som skal godkjennes for\n- flyging under instrumentforhold (IFR-flyging) og/eller\n- luftrutetrafikk og/eller\n- flyging med luftfartøy med største tillatte startmasse over 5700 KG eller som er godkjent for 10 eller flere passasjerseter\nvil normalt omfatte følgende områder:\n1. Bruksområde og kvalitets- og sikkerhetsstyringssystem\n2. Utforming og bakketjeneste\n3. Security\n4. Flynavigasjonstjeneste og -utstyr\n5. Lufttrafikktjeneste.\n2.2Liten flyplass\nVilkårene for flyplass som ikke må godkjennes som stor flyplass vil vanligvis bare omfatte følgende områder:\n1. Bruksområde\n2. Utforming\n3. Bakketjeneste.\nDet kan imidlertid også for en liten flyplass, avhengig av flyplassens bruksområde, bli aktuelt å stille godkjenningskrav også innen andre områder, jf. pkt. 2.1.\n2.3Kvalitetssystem og system for sikkerhetsstyring\nKrav til kvalitetssystem og system for sikkerhetsstyring fremgår av\n- forskrift om kvalitetssystem i ervervsmessige luftfartsvirksomheter – BSL A 1-1\n- forskrift om sikkerhetsstyring innen flysikringstjenesten og bakketjenesten – BSL A 1-9.\n2.4Utforming\n2.4.1\nKrav til utforming av flyplasser som skal godkjennes for trafikk med fly med største tillatte startmasse over 5700 kg, eller som er godkjent for 10 eller flere passasjerseter, fremgår av\n- forskrift om utforming av store flyplasser – BSL E 3-2.\n2.4.2\nKrav til utforming av flyplasser som skal godkjennes for trafikk med fly med største tillatte startmasse inntil 5700 kg eller som er godkjent for 9 passasjerseter eller færre, fremgår av\n- forskrift om utforming av små flyplasser – BSL E 3-3.\n2.4.3\nKrav til utforming av sjøflyplasser fremgår av\n- forskrift om utforming av sjøflyplasser – BSL E 3-4.\n2.4.4\nKrav til utforming av helikopterplasser som skal godkjennes for flyging under IFR-forhold, og/eller som har separat landings- og startområde og settings- og løfteområde, fremgår av\n- forskrift om utforming av store helikopterplasser – BSL E 3-5.\n2.4.5\nKrav til utforming av helikopterplasser som skal godkjennes for flyging under VFR-forhold, og som har settings- og løfteområde sentrisk på landings- og startområdet, fremgår av\n- forskrift om utforming av små helikopterplasser – BSL E 3-6.\n2.5Bakketjeneste\n2.5.1\nKrav til bakketjeneste fremgår av\n- forskrift om bakketjeneste ved flyplasser BSL E 4-1\n- forskrift om plasstjeneste BSL E 4-2\n- forskrift om elektrotjeneste BSL E 4-3\n- forskrift om brann- og redningstjeneste BSL E 4-4.\n2.5.2\nFor sjøflyplasser gjelder kravene i BSL E 4-serien så langt disse kravene passer for sjøflyplasser.\n2.6Security\n2.6.1\nKrav til security fremgår av\n- forskrift om forebyggelse av anslag mot sikkerheten i luftfarten – BSL A 2-1.\n2.7Flynavigasjonstjeneste og -utstyr\n2.7.1\nKrav til flynavigasjonstjeneste fremgår av\n- forskrift om flynavigasjonstjenesten – BSL G 6-1.\n2.7.2\nKrav til navigasjons-, kommunikasjons-, overvåkings- og lufttrafikkledelsesutstyr fremgår av\n- forskrift om flynavigasjonstjenesten – BSL G 6-1\n2.7.3\nMeteorologiske observasjonsinstrumenter og måleutstyr skal være i samsvar med standarder og anbefalinger i ICAO Annex 3 og krav fastsatt av Luftfartstilsynet.\n2.8Lufttrafikktjeneste\n2.8.1\nKrav til lufttrafikktjeneste fremgår av\n- forskrift om etablering, organisering og drift av lufttrafikktjeneste – BSL G 2-1.\n2.8.2\nKrav til flyværtjeneste fås ved henvendelse til Luftfartstilsynet.\n3.Søknad om første gangs godkjenning\n3.1\nFør en flyplass, som skal godkjennes, kan tas i bruk må flyplassens innehaver søke Luftfartstilsynet om å få flyplassen godkjent.\nFor å unngå at godkjenning av flyplassen eventuelt ikke foreligger på det tidspunkt flyplassen ønskes tatt i bruk, bør flyplassoperatøren så tidlig som mulig ta kontakt med Luftfartstilsynet med sikte på gjensidig informasjon, herunder registrering av eventuelle problemområder.\nFor flyplasser som skal godkjennes for\n- flyging under instrumentforhold (IFR-flyging) og/eller\n- luftrutetrafikk og/eller\n- flyging med luftfartøy med største tillatte startmasse over 5700 KG eller som er godkjent for 10 eller flere passasjerseter\nbør søknad om første gangs godkjenning sendes senest 6 måneder før flyplassen ønskes tatt i bruk.\nFor øvrige flyplasser bør søknad om første gangs godkjenning sendes senest 3 måneder før flyplassen ønskes tatt i bruk.\n3.2\nFor flyplasser som skal godkjennes for første gang for\n- flyging under instrumentforhold (IFR-flyging) og/eller\n- luftrutetrafikk og/eller\n- flyging med luftfartøy med største tillatte startmasse over 5700 KG eller som er godkjent for 10 eller flere passasjerseter\nbør søknadens innhold avklares med Luftfartstilsynet senest 9 måneder før flyplassen ønskes tatt i bruk.\n3.3\nFor øvrige flyplasser som skal godkjennes for første gang bør søknaden inneholde følgende:\na. Konsesjon og operatør\nOpplysninger om eventuell konsesjon til å anlegge, inneha og drive flyplassen. Krav til konsesjon fremgår av forskrift om konsesjon inntatt i BSL E 1-1.\nOpplysninger om operatør dersom flyplassens innehaver ikke selv skal stå for driften av flyplassen.\nb. Bruksområde\nFlyplassens bruksområde og forventet utvikling, herunder:\n- aktuelle luftfartøytyper.\n- antall bevegelser (starter, landinger) i uken og på årsbasis.\n- under hvilke forhold flyplassen skal brukes; dagslys/mørke, instrumentforhold, sommer/vinter etc.\n- om flyplassen skal luftrutetrafikk eller annen regelbundet lufttrafikk, hoved- eller sekundærbase, skolebase for motorfly eller helikopter etc.\nEventuelt forslag til begrensninger i flyplassens bruksområde som kompenserende tiltak i forhold til de krav som er stilt, jf. pkt. 2 ovenfor. Kompenserende tiltak benyttes i forbindelse med avvik som ikke kan korrigeres eller som det ikke er hensiktsmessig å korrigere. Kompenserende tiltak skal sikre at flysikkerheten holder foreskrevet nivå selv om det er avvik.\nc. Utforming\nHenvisning til hvilken forskrift som skal gjelde for utforming av flyplassen.\nKart eller tegning av flyplassen i hensiktsmessig målestokk.\nBeskrivelse av hindersituasjonen; dvs. objekter eller terreng som gjennomtrenger hinderflatene.\nAngivelse av eventuelle avvik fra kravene til utforming som vil være på det tidspunkt plassens ønskes tatt i bruk.\nForslag til kompenserende tiltak for avvikene.\nd. Bakketjeneste\nBeskrivelse av ansvarsforhold og organisasjon, herunder hvem som skal være flyplassjef.\nBeskrivelse av hvordan bakketjenesten vil være på det tidspunkt flyplassen skal tas i bruk, herunder hvor langt arbeidet med driftshåndboken er kommet, jf. BSL E 4-1 § 5 (1) b).\ne. Tidsplan\nOpplysninger om tidsplan fram til flyplassen ønskes tatt i bruk.\n4.Søknad om fornyet godkjenning\n4.1\nGodkjenningen av en flyplass blir gitt en gyldighetstid, og flyplassens innehaver kan bare tillate flyplassen brukt så lenge godkjenningen er gyldig, jf. luftfartslovens § 14-21.\n4.2\nFor at innehaveren skal kunne påregne at godkjenningen blir fornyet, må søknad om fornyet godkjenning være sendt Luftfartstilsynet i god tid før gyldighetstidens utløp;\n- for flyplasser med flyging under instrumentforhold (IFR-flyging) og/eller luftrutetrafikk og/eller flyging med luftfartøy med største tillatte startmasse over 5700 KG eller som er godkjent for 10 eller flere passasjerseter, senest 6 måneder før gyldighetstidens utløp,\n- for øvrige flyplasser, senest 3 måneder før gyldighetstidens utløp.\nSøknad om fornyet godkjenning må sendes separat og ikke kombineres med eventuell søknad om fornyet konsesjon.\n4.3\nSøknad om fornyet godkjenning må inneholde følgende:\na. Konsesjon\nHenvisning til eventuell søknad om fornyet konsesjon til å anlegge, inneha og drive flyplassen.\nb. Bruksområde\nOppdaterte opplysninger om bruksområde og forventet utvikling, herunder:\n- aktuelle luftfartøytyper.\n- antall bevegelser (starter, landinger) i uken og på årsbasis.\n- under hvilke forhold flyplassen skal brukes; dagslys/mørke, instrumentforhold, sommer/vinter etc.\n- om aktiviteten på flyplassen; luftrutetrafikk eller annen regelbundet lufttrafikk, hoved- eller sekundærbase for ervervsmessige flyginger, base for skoleflyging med motorfly etc.\nc. Vilkår for godkjenning\nSøknad om fornyet godkjenning skal inneholde opplysninger om det er endringer i de avvik som fremgår av godkjenningsvilkårene eller om det er oppstått nye avvik.\nOpplysningene skal gis separat for hvert enkelt av de områder som omfattes av godkjenningsvilkårene, jf. godkjenningsdokumentet og pkt. 2 ovenfor.\nFor hvert avvik skal det enten angis en plan for korrigering eller forslag til kompenserende tiltak.\nd. Flyplassjef\nHvem som er flyplassjef. For flyplassjef som skal være godkjent av Luftfartstilsynet, vedlegges fornyet villighetserklæring.\n5.Søknad om endret/utvidet godkjenning\n5.1\nDersom det inntreffer forandringer av flyplassen, dens utrustning eller flyplassens omgivelser som innebærer forandringer av de vilkår som ble lagt til grunn for godkjenningen, skal flyplassens innehaver omgående rapportere dette til Luftfartstilsynet. I dette inngår også forandringer i bruksområde og eierforhold.\nPå tilsvarende grunnlag kan det være aktuelt å sende søknad om endret eller utvidet godkjenning. Slik søknad kan også sendes i god tid dersom det foreligger planer om utbygginger og nyinstallasjoner slik at endret godkjenning kan foreligge når utbyggingen/nyinstallasjonen ønskes tatt i bruk.\n5.2\nSøknad om endret/utvidet godkjenning må referere til aktuelle punkter i godkjenningsvilkårene, jf. godkjenningsdokumentet, og beskrive de nye forhold og hva som ligger til grunn for behovet for endret/utvidet godkjenning.\nVidere må det angis om det er endringer i de avvik som fremgår av godkjenningsvilkårene eller om det vil oppstå nye avvik.\nFor hvert avvik skal det enten angis en plan for korrigering eller forslag til kompenserende tiltak.\n6.Gebyrer\n6.1\nDet skal betales gebyr for godkjenning av flyplass i henhold til det til enhver tid gjeldende gebyrregulativ, jf. BSL A 1-2.\n6.2\nGebyr for første gangs godkjenning må betales til Luftfartstilsynet samtidig med søknaden. Saksbehandlingen blir ikke påbegynt før betaling er mottatt.\n6.3\nGebyr for fornyelse av godkjenning inngår i det årsgebyr flyplassen skal betale i henhold til det samme regulativ. Gebyr for endret/utvidet godkjenning betales etter regning som blir sendt søkeren etter at saksbehandlingen er avsluttet."
+    },
+    {
+     "type": "endring",
+     "tekst": "Veiledningen tilføyd ved forskrift 15 juni 2006 nr. 780 (i kraft 4 juli 2006)."
+    }
+   ]
+  }
+ ]
+}

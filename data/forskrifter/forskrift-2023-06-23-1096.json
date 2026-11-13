@@ -1,0 +1,65 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2023-06-23-1096",
+ "dokumentid": "SF/forskrift/2023-06-23-1096",
+ "departement": [
+  "Helse- og omsorgsdepartementet"
+ ],
+ "etat": [
+  "Folkehelseavdelingen"
+ ],
+ "ikraft": "2024-01-01",
+ "endrer": "forskrift/2003-02-06-141",
+ "hjemmel": [
+  {
+   "ref": "lov/1973-03-09-14/§33",
+   "tekst": "lov/1973-03-09-14/§33"
+  }
+ ],
+ "kunngjort": "2023-06-26 15:10",
+ "tittel": "Forskrift om endring i forskrift om innhold i og merking og utforming av tobakksvarer mv.",
+ "annet": "Hjemmel: Fastsatt av Helse- og omsorgsdepartementet 23. juni 2023 med hjemmel i lov 9. mars 1973 nr. 14 om vern mot tobakksskader (tobakksskadeloven) § 33.",
+ "refid": "forskrift/2023-06-23-1096",
+ "eli": "/eli/forskrift/2023/06/23/1096",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2023-06-23-1096",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "I forskrift 6. februar 2003 nr. 141 om innhold i og merking og utforming av tobakksvarer mv. gjøres følgende endring:\n§ 31 skal lyde:"
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-foreslåttparagraf-1",
+     "nummer": null,
+     "tittel": null,
+     "ledd": [
+      "§ 31. Minstestørrelser og -vekt for tobakksvarer",
+      "En enkeltpakning for salg til forbruker med\n- sigaretter skal inneholde minst 20 sigaretter\n- rulletobakk skal inneholde minst 30 gram\n- porsjonssnus skal inneholde minst 20 porsjoner og 15 gram\n- løssnus skal inneholde minst 30 gram.",
+      "Disse enkeltpakningene kan ikke inneholde mindre pakninger eller kunne deles opp i mindre pakninger.",
+      "Sigarer kan selges enkeltvis med advarselsmerking på pakningen."
+     ],
+     "fremtidig": true
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Forskriften trer i kraft 1. januar 2024."
+    }
+   ]
+  }
+ ]
+}

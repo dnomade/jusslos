@@ -1,0 +1,521 @@
+{
+ "skjema": "1.0",
+ "type": "lov",
+ "datokode": "LOV-2001-06-15-70",
+ "dokumentid": "NL/lov/2001-06-15-70",
+ "departement": [
+  "Kommunal- og distriktsdepartementet"
+ ],
+ "ikraft": "2002-01-01",
+ "siste_endring_ikraft": "2025-07-01",
+ "sist_endret_ved": [
+  {
+   "ref": "lov/2025-06-20-92",
+   "tekst": "lov/2025-06-20-92 fra 2025-07-01"
+  }
+ ],
+ "endrer": "lov/1956-12-21-3",
+ "rettsomrade": [
+  "Forvaltnings- og kommunalrett > Kommuner og fylkeskommuner",
+  "Forvaltnings- og kommunalrett > Offentlig forvaltning"
+ ],
+ "siste_rettelse": "2021-07-02 (faglige fotnoter fjernet, UU-tilpasning)",
+ "korttittel": "Inndelingslova",
+ "tittel": "Lov om fastsetjing og endring av kommune- og fylkesgrenser (inndelingslova)",
+ "annet": "Jf. tidlegare lov 21 des 1956 nr. 3, lov 12 nov. 1954 nr. 1 § 2, mellombels lov 21 juni 1956 nr. 9 (tilleggslover 16 des. 1960 nr. 6, 18 des. 1964 nr. 2.",
+ "refid": "lov/2001-06-15-70",
+ "eli": "/eli/lov/2001/06/15/70",
+ "url": "https://lovdata.no/dokument/NL/lov/2001-06-15-70",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "Kapittel I. Formål og virkeområde for lova",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Formål",
+     "ledd": [
+      "Formålet med denne lova er å leggje til rette for ei kommune- og fylkesinndeling som innafor ramma av det nasjonale fellesskap kan sikre eit funksjonsdyktig lokalt folkestyre og ei effektiv lokalforvaltning. Endringar i kommune- eller fylkesinndelinga bør medverke til å skape formålstenlege einingar som kan gi innbyggjarane og næringslivet tilfredsstillande tenester og forvaltning. Verksemda etter denne lova skal byggje på prinsippet om lokal medverknad og initiativrett til grenseendringar."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Verkeområde",
+     "ledd": [
+      "Denne lova gjeld for kommunar og fylke. Lova omfattar både endring av grenser og fastsetjing av grenser."
+     ],
+     "endringer": [
+      "Endra ved lov 21 juni 2013 nr. 94 (ikr. 1 jan 2014 iflg. res. 21 juni 2013 nr. 735)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Definisjonar",
+     "ledd": [
+      "Samanslåing inneber at to eller fleire kommunar eller fylke blir slutta saman til éi ny eining.",
+      "Deling inneber\na. at ein kommune eller eit fylke blir delt i to eller fleire nye einingar, eller\nb. at ein kommune eller eit fylke blir delt, og dei einskilde delane blir lagde til andre kommunar eller fylke.",
+      "Grensejustering inneber at eit område blir flytta over frå ein kommune til ein annan, eller frå eit fylke til eit anna. På same måten blir det rekna når ein heil kommune blir flytta over til eit anna fylke. Departementet kan fastsetje at endring av grensene til eit område skal behandlast som ei grensejustering, dersom området har ein mindre del av innbyggjarane i ein kommune eller eit fylke som skal leggjast til andre kommunar eller fylke etter andre ledd bokstav b.",
+      "Omgrepet grenseendring i denne lova er ei fellesnemning på samanslåing, deling og grensejustering.",
+      "Grensefastsetjing inneber at det blir gjort vedtak om å fastsetje uklare, omstridde eller tidlegare ikkje fastsette grenser mellom kommunar eller fylke."
+     ],
+     "endringer": [
+      "Endra ved lover 21 juni 2013 nr. 94 (ikr. 1 jan 2014 iflg. res. 21 juni 2013 nr. 735), 17 juni 2016 nr. 60 (ikr. 1 juli 2016 iflg. res. 17 juni 2016 nr. 681)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "Kapittel II. Om fullmakt til å gjere vedtak",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 4",
+     "tittel": "Vedtak om samanslåing",
+     "ledd": [
+      "Stortinget gjer vedtak om samanslåing av fylke. Kongen gjer vedtak om samanslåing av kommunar når dei kommunane saka gjeld har slutta seg til forslaget om samanslåing. Dersom nokon av kommunane har uttalt seg mot samanslåing, skal saka leggjast fram for Stortinget til avgjerd."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 5",
+     "tittel": "Vedtak om deling",
+     "ledd": [
+      "Stortinget gjer vedtak om deling av eit fylke. Kongen gjer vedtak om deling av ein kommune når kommunen eller kommunane saka gjeld, har slutta seg til forslaget. Dersom éin kommune har uttalt seg mot deling, skal saka leggjast fram for Stortinget for avgjerd."
+     ],
+     "endringer": [
+      "Endra ved lov 21 juni 2013 nr. 94 (ikr. 1 jan 2014 iflg. res. 21 juni 2013 nr. 735)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 6",
+     "tittel": "Vedtak om grensejustering",
+     "ledd": [
+      "Kongen gjer vedtak om justering av grenser mellom kommunar og mellom fylke. Dersom grensejustering mellom fylke inneber at ein eller fleire heile kommunar blir flytta over til eit anna fylke, skal saka leggjast fram for Stortinget til avgjerd."
+     ],
+     "endringer": [
+      "Endra ved lover 21 juni 2013 nr. 94 (ikr. 1 jan 2014 iflg. res. 21 juni 2013 nr. 735), 16 juni 2023 nr. 62 (i kraft 1 mai 2024 iflg. res. 22 mars 2024 nr. 553)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 7",
+     "tittel": "Vedtak om grensefastsetjing",
+     "ledd": [
+      "Kongen gjer vedtak om fastsetjing av uklare, omstridde eller tidlegare ikkje fastsette grenser mellom kommunar eller fylke."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kapIII",
+   "overskrift": "Kapittel III. Initiativ. Saksførebuing",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 8",
+     "tittel": "Initiativrett",
+     "ledd": [
+      "Søknad om at det skal setjast i gang utgreiing om grensejustering eller grensefastsetjing kan fremjast av innbyggjarar og grunneigarar i dei kommunane søknaden gjeld, av næringsdrivande som har sin registrerte forretningsstad der og av kommunestyret eller fylkestinget i dei kommunane eller fylkeskommunane søknaden gjeld.",
+      "Søknad om at det skal setjast i gang utgreiing om samanslåing eller deling kan berre fremjast av kommunestyret eller fylkestinget sjølv i dei kommunane eller fylkeskommunane endringsforslaget gjeld.",
+      "Departementet kan på eige initiativ utgreie spørsmål om grenseendring eller grensefastsetjing.",
+      "Søknad om at det skal setjast i gang utgreiing om grenseendring eller grensefastsetjing skal vere skriftleg og grunngitt, og må innehalde forslag til nye grenser. Søknaden skal sendast statsforvaltaren i det området saka gjeld. Statsforvaltaren skal så snart som råd orientere kommunane eller fylkeskommunane om søknaden."
+     ],
+     "endringer": [
+      "Endra ved lov 7 mai 2021 nr. 34 (ikr. 1 juni 2021 iflg. res. 7 mai 2021 nr. 1416)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 9",
+     "tittel": "Saksutgreiing",
+     "ledd": [
+      "Departementet avgjer om det skal setjast i gang utgreiing på grunnlag av initiativ etter § 8 og tar i tilfelle stilling til kva som er nødvendig omfang av denne. Avgjerd etter første punktum er ikkje enkeltvedtak etter forvaltningsloven § 2 første ledd bokstav b. Avgjerd om ikkje å setje i gang utgreiing bør likevel bli grunngitt i samsvar med reglane i forvaltningsloven § 25 og kan påklagast i samsvar med reglane i forvaltningsloven kapittel VI.",
+      "Departementet kan avvise søknad frå søkjarar som ikkje har initiativrett. Avvisinga skal vere skriftleg og grunngitt.",
+      "Kommunale, fylkeskommunale og statlege forvaltningsorgan skal gi nødvendige opplysningar og i rimeleg utstrekning medverke ved saksførebuinga, etter oppmoding frå den som gjer utgreiinga.",
+      "Før det blir gjort vedtak om grenseendring eller grensefastsetjing, skal dei kommunane eller fylkeskommunane saka gjeld, få uttale seg. I saker om samanslåing eller deling må kommunestyret eller fylkestinget sjølv uttale seg."
+     ],
+     "endringer": [
+      "Endra ved lov 22 juni 2018 nr. 83 (ikr. 1 nov 2019 iflg. res. 25 juni 2019 nr. 879)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 10",
+     "tittel": "Innbyggjarhøyring",
+     "ledd": [
+      "Kommunestyret bør innhente innbyggjarane sine synspunkt på forslag til grenseendring. Høyringa kan skje ved folkerøysting, opinionsundersøking, spørjeundersøking, møte eller på annan måte.",
+      "Når departementet tek initiativ til å utgreie spørsmål om grenseendring etter § 8 tredje ledd, kan departementet innhente innbyggjarane sine synspunkt på forslag til grenseendring. Høyringa kan skje som nemnt i første ledd andre punktum. Departementet kan gi forskrift om gjennomføringa av høyringa."
+     ],
+     "endringer": [
+      "Endret ved lov 15 des 2023 nr. 92 (i kraft 15 des 2023 iflg. res. 15 des 2023 nr. 2048)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 11",
+     "tittel": "Utgifter",
+     "ledd": [
+      "Departementet avgjer om utgiftene ved utgreiinga skal berast av ein eller fleire av dei interesserte kommunane eller fylkeskommunane, eller heilt eller delvis av staten. Kommunane eller fylkeskommunane skal få høve til å uttale seg før departementet tek endeleg avgjerd om kostnadsdeling."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kapIV",
+   "overskrift": "Kapittel IV. Direkte verknader av grenseendring",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 12",
+     "tittel": "Skatteplikt o.a.",
+     "ledd": [
+      "Når det med verknad frå byrjinga av eit kalenderår er gjennomført samanslåing av to eller fleire kommunar eller deling som nemnt i § 3 andre ledd bokstav b, blir alle skattepliktige i eit distrikt som tidlegare har danna ein sjølvstendig kommune, ved den første skattefastsetjinga etter samanslåinga eller deling som nemnt i § 3 andre ledd bokstav b, skattlagt for kommuneskatt etter dei skattesatsane som i dette distriktet blei lagde til grunn ved fastsetjinga av forskot på skatt for vedkomande inntektsår. Dette gjeld likevel ikkje dersom kommunestyret i vedkomande distrikt før samanslåinga eller deling som nemnt i § 3 andre ledd bokstav b, har gjort vedtak om at det ved skattefastsetjinga skal nyttast andre skattesatsar, og slikt vedtak er godkjent av statsforvaltaren.",
+      "Før samanslåing eller deling som nemnt i første ledd blir sett i verk, skal kommunestyret i den nye kommunen eller kommunane gjere vedtak om kva skattesatsar som skal nyttast ved berekning av forskot på skatt for det komande inntektsåret for alle forskotspliktige skatteytarar i den nye kommunen. Vedtaket må gjerast innan den fristen som er fastsett av statsforvaltaren. Dersom fristen ikkje blir halden, skal statsforvaltaren avgjere kva for satsar som skal brukast.",
+      "Når eit område blir overført frå ein kommune til ein annan med verknad frå byrjinga av eit kalenderår, blir alle skattepliktige i dette området skattlagt for kommuneskatt i den kommunen som avstår området, ved skattefastsetjinga som gjeld inntektsåret før overføringa."
+     ],
+     "endringer": [
+      "Endra ved lover 21 juni 2013 nr. 94 (ikr. 1 jan 2014 iflg. res. 21 juni 2013 nr. 735), 27 mai 2016 nr. 14 (ikr. 1 jan 2017 iflg. res. 27 mai 2016 nr. 531), 22 juni 2018 nr. 83 (ikr. 1 nov 2019 iflg. res. 25 juni 2019 nr. 879), 21 juni 2019 nr. 35 (ikr. 1 jan 2020), 7 mai 2021 nr. 34 (ikr. 1 juni 2021 iflg. res. 7 mai 2021 nr. 1416)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 13",
+     "tittel": "Lokale forskrifter, vedtekter og planvedtak",
+     "ledd": [
+      "Ved samanslåing og deling av kommunar eller fylke gjeld lokale forskrifter og vedtekter framleis for vedkomande område inntil dei blir endra. Departementet fastset ein nærmare frist for når det lokale regelverket må vere vurdert med sikte på nødvendig endring.",
+      "Ved grensejustering skal forskrifter og vedtekter i den utvida kommunen straks gjelde for det overførte området.",
+      "Ei grenseendring har ikkje verknad for kommunale og regionale arealplanar som er utarbeidde etter reglane i plan- og bygningsloven. For andre planvedtak kan departementet gi nærmare reglar om verknad av grenseendringa, mellom anna fristar for revisjon av planvedtaka."
+     ],
+     "endringer": [
+      "Endra ved lov 27 juni 2008 nr. 71 (ikr. 1 juli 2009 iflg. res. 12 juni 2009 nr. 638)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 14",
+     "tittel": "Statlege avgiftskrav",
+     "ledd": [
+      "I samband med disposisjon som er ei direkte følgje av grenseendring etter lova her, skal det ikkje betalast dokumentavgift etter dokumentavgiftsloven § 6, tinglysingsgebyr etter tinglysingsloven § 12 b, gebyr etter kraftledningsregisterloven § 16 eller omregistreringsavgift etter motorkjøretøy- og båtavgiftsloven § 1."
+     ],
+     "endringer": [
+      "Endra ved lover 2 des 2016 nr. 86, 22 juni 2018 nr. 83 (ikr. 1 nov 2019 iflg. res. 25 juni 2019 nr. 879)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 15",
+     "tittel": "Økonomisk kompensasjon",
+     "ledd": [
+      "Ved samanslåing av kommunar eller fylke og deling som nemnt i § 3 andre ledd bokstav b, gir staten delvis kompensasjon for eingongskostnader som er direkte knytte til desse prosessane. I ein overgangsperiode gir staten også kompensasjon for bortfall av rammetilskot."
+     ],
+     "endringer": [
+      "Endra ved lov 21 juni 2013 nr. 94 (ikr. 1 jan 2014 iflg. res. 21 juni 2013 nr. 735)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-5",
+     "nummer": "§ 16",
+     "tittel": "Interkommunalt samarbeid",
+     "ledd": [
+      "Kommunar og fylkeskommunar som er med i interkommunalt samarbeid etter kommuneloven kapittel 18, 19, 20, § 31-2, IKS-loven eller kommunal særlovgiving, kan innan eitt år frå iverksetjing av ei grenseendring seie opp deltakarforholdet sitt med ein frist på seks månader. Innan den same fristen kan også kvar av partane krevje at vedtektene for samarbeidet eller selskapsavtalen blir vurderte på nytt. Reglane som kommunane er samde om i samarbeidsavtalen etter kommuneloven §§ 18-4, 19-4 og 20-4 eller reglane i kommuneloven § 31-2, og reglane i IKS-loven § 30 gjeld elles tilsvarande i slike tilfelle."
+     ],
+     "endringer": [
+      "Endra ved lov 22 juni 2018 nr. 83 (ikr. 1 nov 2019 iflg. res. 25 juni 2019 nr. 879)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-6",
+     "nummer": "§ 16 a",
+     "tittel": "Innmelding i ROBEK-registeret ved samanslåing",
+     "ledd": [
+      "Dersom éin eller fleire av kommunane eller fylkeskommunane som skal slåast saman, står i ROBEK-registeret etter kommuneloven § 28-1 første ledd, kan departementet fram til samanslåinga vert sett i verk, bestemme at den nye kommunen eller fylkeskommunen skal førast inn i ROBEK-registeret. Dette gjeld berre dersom ein må rekne med at den nye kommunen eller fylkeskommunen vil ta over eit så stort meirforbruk frå før samanslåinga at det er behov for å kontrollere årsbudsjettet og låneopptak."
+     ],
+     "endringer": [
+      "Føyd til ved lov 17 juni 2016 nr. 60 (ikr. 1 juli 2016 iflg. res. 17 juni 2016 nr. 681), endra ved lov 22 juni 2018 nr. 83 (ikr. 1 nov 2019 iflg. res. 25 juni 2019 nr. 879)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-7",
+     "nummer": "§ 16 b",
+     "tittel": "Kommunesamanslåing og forkjøpsrett til aksjar",
+     "ledd": [
+      "Når aksjar skiftar eigar frå ein kommune til ein annan kommune eller frå ein fylkeskommune til ein annan fylkeskommune som følgje av samanslåing eller deling etter denne lova, gjeld ikkje reglane i aksjeloven § 4-15 andre og tredje ledd og § 4-19 første ledd."
+     ],
+     "endringer": [
+      "Føyd til ved lov 17 juni 2016 nr. 60 (ikr. 1 juli 2016 iflg. res. 17 juni 2016 nr. 681)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-8",
+     "nummer": "§ 17",
+     "tittel": "Fullmakter for Kongen til å gi nærmare reglar for å setje i verk vedtak og til å gjere unntak frå gjeldande lover og forskrifter",
+     "ledd": [
+      "Kongen kan gi nærmare reglar for å sikre gjennomføring av vedtak om grenseendring etter denne lova.",
+      "Når det blir rekna som nødvendig for å gjennomføre vedtak om grenseendring, kan Kongen dessutan gjere unntak frå gjeldande reglar i lov eller forskrift. Unntak frå lov må knyttast til følgjande forhold:\na. reglar om lovpålagde organ i stat, fylkeskommune eller kommune. Dette inkluderer oppretting av slike organ når dei som har mynda etter lova, unnlèt å gjere dette.\nb. reglar om lovfesta fristar, saksbehandlingsreglar o.a.\nc. reglar om forhold og vilkår for arbeidstakarar i stat, fylkeskommune eller kommune\nd. reglar om fristar og vilkår for å krevje inn eigedomsskatt\ne. reglar om den inneverande kommunestyreperioden og om samansetjing av kommunestyret, slik at kommunane kan velje kommunestyret i den nye kommunen av og blant kommunestyra sjølve og korte ned kommunestyreperioden for dei som ikkje blir valde. Dei same unntaka kan gjerast for fylkestinga."
+     ],
+     "endringer": [
+      "Endra ved lover 21 juni 2013 nr. 94 (ikr. 1 jan 2014 iflg. res. 21 juni 2013 nr. 735), 17 juni 2016 nr. 60 (ikr. 1 juli 2016 iflg. res. 17 juni 2016 nr. 681), 1 mars 2019 nr. 4."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kapV",
+   "overskrift": "Kapittel V. Økonomisk oppgjer ved grensejustering og deling av kommunar og fylke",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 18",
+     "tittel": "Avtale om økonomisk oppgjer",
+     "ledd": [
+      "Ved grensejustering og deling av kommunar og fylke skal det gjennomførast økonomisk oppgjer mellom kommunane og fylkeskommunane, dersom dei ikkje finn det unødvendig. Kommunane kan be statsforvaltaren om hjelp til å forhandle fram ein avtale om det økonomiske oppgjeret.",
+      "Dersom partane ikkje blir samde om det økonomiske oppgjeret, skal det gjennomførast ved skjønn. Ved skjønnet skal reglane i §§ 19-22 leggjast til grunn."
+     ],
+     "endringer": [
+      "Endra ved lov 7 mai 2021 nr. 34 (ikr. 1 juni 2021 iflg. res. 7 mai 2021 nr. 1416)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 19",
+     "tittel": "Grensejusteringar",
+     "ledd": [
+      "Blir eit område skilt ut frå ein kommune eller eit fylke og lagt til ein annan kommune eller eit anna fylke, skal den retten som den første kommunen eller fylkeskommunen har til vegar, gater, bruer, offentlege plassar og annan forvaltningseigedom som fullt ut eller i svært stor grad tener vedkomande område, overførast til den andre kommunen eller fylkeskommunen.",
+      "Annan eigedom kan fordelast mellom kommunane eller fylkeskommunane, eller påbydast nytta i fellesskap, dersom dette er rimeleg og formålstenleg ut frå kommunale eller fylkeskommunale omsyn. Skjønnsnemnda, jf § 23, avgjer i kva forhold delinga eller samarbeidet skal gå føre seg, og kan fastsetje nærmare vilkår.",
+      "Skjønnsnemnda kan avgjere at gjeld som ein kommune eller fylkeskommune har stifta i samband med kjøp av eller påkostnad på eigedom som nemnt i første og andre ledd, heilt eller delvis skal takast over av den kommunen eller fylkeskommunen eigedommen blir overført til. Eventuelt kan det fastsetjast at vedkomande kommune eller fylkeskommune skal betale vederlag for eigedommen i pengar.",
+      "Dersom det ikkje blir teke særskilt avgjerd, skal rettar og plikter som ikkje er fordelte etter første til tredje ledd i denne paragrafen, bli att hos den opphavlege kommunen eller fylkeskommunen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 20",
+     "tittel": "Delingar",
+     "ledd": [
+      "Blir ein kommune eller eit fylke delt, jf. § 3 andre ledd, skal § 19 første ledd tilsvarande gjelde forvaltningseigedom som fullt ut eller i svært stor grad tener eitt bestemt område.",
+      "Annan eigedom og andre plikter blir å fordele mellom dei kommunar eller fylkeskommunar områda blir lagde til. Fordelinga blir gjort på grunnlag av eit forholdstal som blir rekna ut etter skatteinntektene i dei siste fem åra i kvart av områda, med mindre skjønnsnemnda av særlege grunnar fastset noko anna. Så framt det er mogleg, skal oppgjeret gjennomførast slik:\n1. Fast eigedom blir lagt til den kommunen eller fylkeskommunen som må reknast som mest rettkomen til den ut frå folketalet og innbyggjarane sine behov og plasseringa av eigedommen – også i høve til andre anlegg.\n2. Gjeld blir fordelt i forhold til dei omsetjelege verdiane som blir overtekne.\n3. Andre tilgodehavande og plikter blir overtekne av den kommunen eller fylkeskommunen som etter forholda blir rekna som nærmast til å overta dei.\n4. Anlegg med rettar og plikter som det etter delinga ikkje er rimeleg at nokon enkelt kommune eller fylkeskommune tek over, kan påbydast nytta i fellesskap av to eller fleire av kommunane eller fylkeskommunane.",
+      "Har nokon kommune eller fylkeskommune ved fordelinga av rettar og plikter teke over meir eller mindre enn det som følgjer av forholdstalet, skal det jamnast ut i pengar."
+     ],
+     "endringer": [
+      "Endra ved lov 21 juni 2013 nr. 94 (ikr. 1 jan 2014 iflg. res. 21 juni 2013 nr. 735)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-4",
+     "nummer": "§ 21",
+     "tittel": "Erstatning",
+     "ledd": [
+      "Dersom ein kommune eller fylkeskommune etter det oppgjeret som blir gjennomført i samsvar med §§ 19 eller 20, blir vesentleg svekt økonomisk, kan ein annan av kommunane eller fylkeskommunane, der det blir rekna som rimeleg, påleggjast å betale erstatning, som blir betalt med ein eingongssum eller i årlege ratar i ein viss overgangsperiode."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-5",
+     "nummer": "§ 22",
+     "tittel": "Garantiar",
+     "ledd": [
+      "Kommunal eller fylkeskommunal garanti for gjeld eller plikter som er knytte til fast eigedom eller bedrift, skal ved grensejustering og deling takast over av den kommunen eller fylkeskommunen der eigedommen eller bedrifta ligg etter grenseendringa.",
+      "Ved deling av kommunar eller fylkeskommunar skal garantiar for gjeld eller plikter som ikkje er knytte til fast eigedom eller bedrift, fordelast mellom dei nye kommunane eller fylkeskommunane etter forholdstalet for det økonomiske oppgjeret i det heile."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-6",
+     "nummer": "§ 23",
+     "tittel": "Skjønnsnemnd og overskjønnsnemnd",
+     "ledd": [
+      "Kommune eller fylkeskommune som er omfatta av grenseendring etter denne lova, kan innan eitt år etter at vedtaket er sett i verk, krevje at det økonomiske oppgjeret – eller delar av det – skal fastsetjast ved skjønn, så framt partane først har prøvd å kome til semje om eit økonomisk oppgjer.",
+      "Til å fastsetje slikt skjønn nemner departementet opp ei skjønnsnemnd på tre medlemmer med varamedlemmer. Nemnda skal ha ein funksjonsperiode på fire år.",
+      "Kvar av partane kan innan to månader etter at dei har teke i mot avgjerda til skjønnsnemnda, reise saka for ei overskjønnsnemnd til endeleg avgjerd. Departementet nemner opp overskjønnsnemnda, som skal ha tre medlemmer med varamedlemmer. Nemnda skal ha ein funksjonsperiode på fire år.",
+      "Leiarane i nemndene og deira varamedlemmer skal ha dei eigenskapane som er føreskrivne for dommarar, jf. domstolsloven §§ 53 og 54 andre ledd. Reglane i domstolsloven kapittel 6 om ugildskap gjeld tilsvarande for medlemmene av skjønnsnemnda og overskjønnsnemnda. Departementet avgjer spørsmål om ugildskap for leiarane i nemndene og deira varamedlemmer. Elles blir slike spørsmål avgjort av vedkomande nemndleiar."
+     ],
+     "endringer": [
+      "Endra ved lover 21 juni 2013 nr. 94 (ikr. 1 jan 2014 iflg. res. 21 juni 2013 nr. 735), 22 juni 2018 nr. 83 (ikr. 1 nov 2019 iflg. res. 25 juni 2019 nr. 879)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-7",
+     "nummer": "§ 24",
+     "tittel": "Saksbehandling og dekning av kostnader ved skjønn",
+     "ledd": [
+      "Den av partane som reiser ei sak for skjønnsnemnda til avgjerd, skal gi ei utgreiing om kravet sitt og dei faktiske forholda som kravet byggjer på. Nemnda skal innhente synspunkt frå motparten og kan elles påleggje kvar av partane å kome med ytterlegare opplysningar. Skjønnsnemnda bør så tidleg som mogleg kalle inn partane til ein konferanse der saka blir gjennomgått i hovudtrekk og det elles blir teke nødvendige avgjerder om behandlinga av saka.",
+      "Skjønnsnemnda og overskjønnsnemnda fastset spørsmålet om dekning av kostnader, mellom anna om fordeling av utgiftene mellom partane når dette synest rimeleg. Departementet svarer for godtgjersle og andre utgifter til medlemmene i nemndene. Departementet gir nærmare reglar om godtgjersle og utgiftsdekning."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kapVI",
+   "overskrift": "Kapittel VI. Gjennomføring av vedtak om samanslåing og vedtak der ein kommune eller eit fylke blir delt, og dei einskilde delane blir lagde til andre kommunar eller fylke",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Overskrifta endra ved lov 21 juni 2013 nr. 94 (ikr. 1 jan 2014 iflg. res. 21 juni 2013 nr. 735)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 25",
+     "tittel": "Felles kommunestyre- eller fylkestingsmøte",
+     "ledd": [
+      "Når det er gjort vedtak om samanslåing av to eller fleire kommunar eller deling av kommunar som nemnt i § 3 andre ledd bokstav b, skal statsforvaltaren snarast mogleg kalle saman til eit felles møte med dei aktuelle kommunestyra. Ved samanslåing eller deling av kommunar som nemnt i § 3 andre ledd bokstav b, kallar departementet saman kommunestyra dersom kommunane ligg i ulike fylke. Ved samanslåing eller deling av fylke som nemnt i § 3 andre ledd bokstav b, kallar departementet saman fylkestinga. Departementet kan gjere unntak frå kravet om slikt felles møte. På slike fellesmøte skal følgjande saker drøftast:\na. forslag til namn på den nye kommunen eller det nye fylket\nb. talet på medlemmer i det nye kommunestyret eller fylkestinget\nc. kriterium for samansetjing av og funksjonar til fellesnemnd etter § 26 i denne lova\nd. val av revisor for verksemda i fellesnemnda\ne. oppretting av eventuelle andre fellesorgan for å sikre gjennomføringa av samanslåinga."
+     ],
+     "endringer": [
+      "Endra ved lover 21 juni 2013 nr. 94 (ikr. 1 jan 2014 iflg. res. 21 juni 2013 nr. 735), 17 juni 2016 nr. 60 (ikr. 1 juli 2016 iflg. res. 17 juni 2016 nr. 681), lov 7 mai 2021 nr. 34 (ikr. 1 juni 2021 iflg. res. 7 mai 2021 nr. 1416)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 26",
+     "tittel": "Fellesnemnd",
+     "ledd": [
+      "Ved samanslåing av kommunar eller fylkeskommunar og ved deling som nemnt i § 3 andre ledd bokstav b skal det opprettast ei fellesnemnd til å samordne og ta seg av førebuinga av samanslåinga eller delinga. Nemnda bør spegle av innbyggjartalet i dei enkelte kommunane eller fylkeskommunane. Det skal likevel vere minimum tre medlemmer i nemnda frå kvar kommune eller fylkeskommune. Fellesnemnda blir valt av og blant medlemmene i kommunestyret eller fylkestinget. Også medlemmer av kommunerådet eller fylkesrådet kan veljast. Nemnda vel sjølv leiar og nestleiar. Reglane i kommunelova om val og saksbehandling i folkevalde organ gjeld elles tilsvarande.",
+      "Kommunane eller fylkeskommunane kan også opprette eit felles partssamansett utval etter kommuneloven § 5-11 for behandling av saker som gjeld forholdet mellom den nye eininga som arbeidsgivar og dei tilsette.",
+      "Fellesnemnda skal ta hand om det førebuande arbeidet med økonomiplanen og med budsjettet for det første driftsåret etter at samanslåinga eller delinga som nemnt i § 3 andre ledd bokstav b, er sett i verk. Nemnda skal i sin verkeperiode gi fråsegn til departementet om årsbudsjetta og økonomiplanen for dei kommunane eller fylkeskommunane saka gjeld.",
+      "Andre arbeidsoppgåver og fullmakter for nemnda blir fastsette i reglement som må vedtakast i alle kommunestyra eller fylkestinga. Kvar av kommunane eller fylkeskommunane kan be departementet om å ta avgjerd i slike spørsmål dersom det ikkje er mogleg å kome til semje.",
+      "Nemnda kan få fullmakt til å tilsetje personale i den nye eininga. Dette omfattar også tilsetjing av kommunedirektør og revisor. Tilsetjing av revisor skjer på bakgrunn av innstilling frå kontrollutvala. Nemnda kan òg få fullmakt til å vidareføre deltaking i interkommunalt samarbeid om revisjon eller vidareføre avtale med annan revisor. Tilsvarande gjeld for sekretariatet for kontrollutvalet. Slikt vedtak skjer etter innstilling frå kontrollutvala.",
+      "Fellesnemnda kan gi eit arbeidsutval myndigheit til å gjere vedtak i enkeltsaker eller i saker som ikkje er av prinsipiell art.",
+      "Reglane i kommuneloven om møte- og talerett for ordførar, leiar av kommuneråd eller fylkesråd, kommunedirektør og tilsette gjeld tilsvarande for nemnda. Reglane i kommuneloven kapittel 27 om lovlegkontroll gjeld tilsvarande for avgjerder fellesnemnda tek.",
+      "Funksjonsperioden for fellesnemnda går ut når det nye kommunestyret eller fylkestinget er konstituert etter reglane i § 27."
+     ],
+     "endringer": [
+      "Endra ved lover 8 feb 2013 nr. 7 (ikr. 1 juli 2013 iflg. res. 8 feb 2013 nwr. 144), 21 juni 2013 nr. 94 (ikr. 1 jan 2014 iflg. res. 21 juni 2013 nr. 735), 17 juni 2016 nr. 60 (ikr. 1 juli 2016 iflg. res. 17 juni 2016 nr. 681), 22 juni 2018 nr. 83 (ikr. 1 nov 2019 iflg. res. 25 juni 2019 nr. 879), 2 juni 2023 nr. 21 (i kraft 1 juli 2023 iflg. res. 2 juni 2023 nr. 767)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-3",
+     "nummer": "§ 27",
+     "tittel": "Konstituering av nytt kommunestyre eller fylkesting",
+     "ledd": [
+      "Når det er gjennomført val til kommunestyre eller fylkesting i løpet av september månad året før ei samanslåing eller deling som nemnt i § 3 andre ledd bokstav b, blir sett i verk, skal det nyvalte kommunestyret eller fylkestinget kallast saman til konstituerande møte innan utgangen av oktober månad. Leiaren av fellesnemnda kallar saman og leier møtet inntil ny ordførar er valt. Elles gjeld reglane i kommuneloven § 7-1 første til fjerde ledd om konstituerande møte o.a. i kommunestyre og fylkesting.",
+      "Funksjonsperioden for kommunestyra og fylkestinga i dei kommunane og fylkeskommunane som skal slåast saman, varer inntil tidspunktet for iverksetjing av samanslåinga eller delinga som nemnt i § 3 andre ledd bokstav b. Deira ansvar og fullmakter er likevel avgrensa til det som er nødvendig for å avslutte verksemda i dei eksisterande einingane."
+     ],
+     "endringer": [
+      "Endra ved lover 21 juni 2013 nr. 94 (ikr. 1 jan 2014 iflg. res. 21 juni 2013 nr. 735), 22 juni 2018 nr. 83 (ikr. 1 nov 2019 iflg. res. 25 juni 2019 nr. 879)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-4",
+     "nummer": "§ 28",
+     "tittel": "Lovlegkontroll",
+     "ledd": [
+      "Departementet kan føre kontroll med lovlegheita av budsjettvedtaka i kommunar og fylkeskommunar når utgreiing om samanslåing eller deling som nemnt i § 3 andre ledd bokstav b, er sett i gang."
+     ],
+     "endringer": [
+      "Endra ved lov 21 juni 2013 nr. 94 (ikr. 1 jan 2014 iflg. res. 21 juni 2013 nr. 735)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kapVII",
+   "overskrift": "Kapittel VII. Fylkesnamn",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Kapitlet tilføyd ved lov 22 juni 2018 nr. 84 (ikr. 1 jan 2020 iflg. res. 22 juni 2018 nr. 947)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 29",
+     "tittel": "Fylkesinndeling og fylkesnamn",
+     "ledd": [
+      "Rikets fylke skal ha desse namna:\n1. Østfold\n2. Oslo\n3. Akershus\n4. Innlandet eller Sisdajve\n5. Buskerud\n6. Vestfold\n7. Telemark\n8. Agder\n9. Rogaland\n10. Vestland\n11. Møre og Romsdal\n12. Trøndelag eller Trööndelage\n13. Nordland eller Nordlánnda eller Nordlánda eller Nordlaante.\n14. Troms eller Romsa eller Tromssa\n15. Finnmark eller Finnmárku eller Finmarkku"
+     ],
+     "endringer": [
+      "Tilføyd ved lov 22 juni 2018 nr. 84 (ikr. 1 jan 2020 iflg. res. 22 juni 2018 nr. 947), endra ved lover 7 mai 2021 nr. 35 (ikr. 7 mai 2021 iflg. res. 7 mai 2021 nr. 1410), 22 juni 2022 nr. 82 (i kraft 1 jan 2024), 20 juni 2025 nr. 92 (i kraft 1 juli 2025 iflg. res. 20 juni 2025 nr. 1096)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-8",
+   "navn": "kapVIII",
+   "overskrift": "Kapittel VIII. Iverksetjing. Overgangsreglar, oppheving av andre lover",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Overskrifta endra ved lov 22 juni 2018 nr. 84 (ikr. 1 jan 2020 iflg. res. 22 juni 2018 nr. 947, tidlegare kap VII)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-1",
+     "nummer": "§ 30",
+     "tittel": "Iverksetjing o.a.",
+     "ledd": [
+      "Lova tek til å gjelde frå det tidspunktet Kongen fastset.[1]",
+      "Frå same tid blir lov om endring i kommunal inndeling 21. desember 1956 nr. 3 oppheva."
+     ],
+     "endringer": [
+      "Endra ved lov 22 juni 2018 nr. 84 (ikr. 1 jan 2020 iflg. res. 22 juni 2018 nr. 947, tidlegare § 29)."
+     ],
+     "fotnoter": [
+      {
+       "nr": "1",
+       "tekst": "Frå 1 jan 2002 iflg. res. 15 juni 2001 nr. 692."
+      }
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-2",
+     "nummer": "§ 31",
+     "tittel": "Overgangsreglar",
+     "ledd": [
+      "Når det er sett i gang økonomisk oppgjer mellom kommunar etter reglane i lov 21. desember 1956 nr. 3, skal oppgjeret avsluttast etter nemnte lov kapittel II om ikkje partane blir samde om å leggje reglane i denne lova til grunn. Saker som er under behandling i skjønnsnemnda eller overskjønnsnemnda, blir avslutta i samsvar med reglane i den nemnte lova."
+     ],
+     "endringer": [
+      "Endra ved lov 22 juni 2018 nr. 84 (ikr. 1 jan 2020 iflg. res. 22 juni 2018 nr. 947, tidlegare § 30)."
+     ]
+    }
+   ]
+  }
+ ]
+}

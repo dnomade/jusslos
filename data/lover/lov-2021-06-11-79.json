@@ -1,0 +1,334 @@
+{
+ "skjema": "1.0",
+ "type": "lov",
+ "datokode": "LOV-2021-06-11-79",
+ "dokumentid": "NL/lov/2021-06-11-79",
+ "departement": [
+  "Arbeids- og inkluderingsdepartementet"
+ ],
+ "ikraft": "2022-01-01",
+ "siste_endring_ikraft": "2022-06-15",
+ "sist_endret_ved": [
+  {
+   "ref": "lov/2022-06-10-39",
+   "tekst": "lov/2022-06-10-39 fra 2022-06-15"
+  }
+ ],
+ "endrer": "lov/1967-02-10\nlov/2008-05-15-35\nlov/2020-11-06-127",
+ "rettsomrade": [
+  "Utlendingsrett > Alminnelige bestemmelser",
+  "Forvaltnings- og kommunalrett > Offentlig forvaltning",
+  "IKT- og medierett > Personopplysninger"
+ ],
+ "kunngjort": "2021-06-11 12:35",
+ "siste_rettelse": "2022-01-01 (ansvarlig departement)",
+ "korttittel": "Tolkeloven",
+ "tittel": "Lov om offentlige organers ansvar for bruk av tolk mv. (tolkeloven)",
+ "annet": "Prop.156 L (2020–2021), Innst.605 L (2020–2021), Lovvedtak 152 (2020–2021). Stortingets første og andre gangs behandling hhv. 4. og 7. juni 2021. Fremmet av Kunnskapsdepartementet.",
+ "refid": "lov/2021-06-11-79",
+ "eli": "/eli/lov/2021/06/11/79",
+ "url": "https://lovdata.no/dokument/NL/lov/2021-06-11-79",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1 Alminnelige bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Formål",
+     "ledd": [
+      "Loven skal bidra til å sikre rettssikkerhet og forsvarlig hjelp og tjeneste for personer som ikke kan kommunisere forsvarlig med offentlige organer uten tolk.",
+      "Loven skal også bidra til å sikre at tolker holder en faglig forsvarlig standard."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Loven gjelder tolking til og fra norsk.",
+      "Loven gjelder for offentlige organer som bestiller og bruker tolk i Norge. Loven gjelder også for tolker.",
+      "Som offentlig organ regnes organer som omfattes av forvaltningsloven, domstolene og påtalemyndigheten. Et privat rettssubjekt regnes som et offentlig organ i saker hvor det treffer enkeltvedtak eller utfører tjenester på vegne av et offentlig organ. Private barnehager godkjent etter barnehageloven og private grunnskoler og videregående skoler godkjent etter opplæringslova og privatskolelova omfattes også."
+     ],
+     "endringer": [
+      "Endret ved lov 10 juni 2022 nr. 39 (i kraft 15 juni 2022 iflg. res. 10 juni 2022 nr. 997)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Forholdet til annen lovgivning",
+     "ledd": [
+      "Loven gjelder med mindre annet er bestemt i eller i medhold av annen lov."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 4",
+     "tittel": "Forbud mot bruk av barn som tolk",
+     "ledd": [
+      "Offentlige organer skal ikke bruke barn til tolking eller annen formidling av informasjon.",
+      "Unntak kan gjøres når det er nødvendig i nødssituasjoner eller i tilfeller der det ut fra hensynet til barnet og omstendighetene for øvrig må anses forsvarlig."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-5",
+     "nummer": "§ 5",
+     "tittel": "Behandling av personopplysninger",
+     "ledd": [
+      "Offentlige organer kan behandle personopplysninger, inkludert opplysninger om etnisk opprinnelse, når det er nødvendig for å utføre oppgaver etter loven."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2 Offentlige organers bruk av tolk",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 6",
+     "tittel": "Ansvar for å bruke tolk",
+     "ledd": [
+      "Offentlige organer skal bruke tolk når det følger av lov. I tilfeller der plikt til å bruke tolk ikke er regulert i annen lov, skal offentlige organer bruke tolk når det er nødvendig for å ivareta hensynet til rettssikkerhet eller for å yte forsvarlig hjelp og tjeneste. I vurderingen av om bruk av tolk er nødvendig, skal det blant annet legges vekt på om samtalepartene kan kommunisere forsvarlig uten tolk, og på sakens alvorlighet og karakter.",
+      "Når et offentlig organ ellers er i kontakt med personer som ikke kan kommunisere med organet på norsk, bør organet vurdere å bruke tolk."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 7",
+     "tittel": "Krav om å bruke kvalifisert tolk",
+     "ledd": [
+      "Når et offentlig organ har plikt til å bruke tolk etter § 6 første ledd andre punktum, skal det brukes kvalifisert tolk. Det samme gjelder når plikten til å bruke tolk er regulert i annen lov, dersom bruk av tolk er nødvendig for å ivareta hensynet til rettssikkerhet eller for å yte forsvarlig hjelp og tjeneste, jf. § 6 første ledd tredje punktum.",
+      "Kravet om å bruke kvalifisert tolk i første ledd kan fravikes når det ikke er forsvarlig å vente til en kvalifisert tolk er tilgjengelig, når det er nødvendig i nødssituasjoner, eller når andre sterke grunner tilsier det.",
+      "Med kvalifisert tolk menes en tolk som oppfyller kravene til å bli oppført i Nasjonalt tolkeregister, jf. § 17.",
+      "Departementet kan gi forskrift om godkjenning av tolker med yrkeskvalifikasjoner fra annen stat, jf. yrkeskvalifikasjonsloven.",
+      "Fram til 31. desember 2026 er det dispensasjon fra kravet om å bruke kvalifisert tolk. Kongen kan gi forskrift om forlengelse av dispensasjonen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 8",
+     "tittel": "Bruk av fjerntolking",
+     "ledd": [
+      "Offentlige organer kan bruke fremmøtetolking eller fjerntolking.",
+      "Offentlige organer skal sikre tilfredsstillende tekniske løsninger, opplæring av ansatte og ivaretakelse av personvernet ved bruk av fjerntolking.",
+      "Departementet kan gi forskrift om fjerntolking."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 9",
+     "tittel": "Retningslinjer for bestilling og bruk av tolk",
+     "ledd": [
+      "Offentlige organer som jevnlig bruker tolk, skal ha retningslinjer for bestilling og bruk av tolk etter §§ 6 til 8.",
+      "Retningslinjene skal tilpasses organets størrelse, egenart, aktiviteter og risikoforhold.",
+      "Departementet kan gi forskrift om retningslinjenes innhold."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 10",
+     "tittel": "Krav om politiattest",
+     "ledd": [
+      "For å kunne utføre oppdrag som tolk for politiet, påtalemyndigheten, domstolene, utlendingsforvaltningen, kriminalomsorgen, Kommisjonen for gjenopptakelse av straffesaker og fylkesnemndene for barnevern og sosiale saker skal tolken legge fram uttømmende og utvidet politiattest, jf. politiregisterloven § 41. Det samme gjelder for å kunne utføre oppdrag i straffesaker for konfliktrådet.",
+      "Kravet om å legge fram politiattest etter første ledd kan fravikes når situasjonen som begrunner tolkeoppdraget, ikke tillater det, eller når andre sterke grunner tilsier det.",
+      "Dersom en tolk har anmerkning på politiattesten, skal oppdragsgiver vurdere om det straffbare forholdet har betydning for tolkens egnethet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-6",
+     "nummer": "§ 11",
+     "tittel": "Gebyr for manglende oppmøte",
+     "ledd": [
+      "Offentlige organer kan kreve at en person som ikke møter opp til en planlagt samtale, betaler et gebyr når det er bestilt tolk etter § 6 første ledd andre punktum og andre ledd.",
+      "Departementet kan gi forskrift om gebyret, inkludert om gebyrets størrelse og hvordan det skal fastsettes."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-7",
+     "nummer": "§ 12",
+     "tittel": "Tilsyn",
+     "ledd": [
+      "Statlige og kommunale myndigheter som fører tilsyn med offentlige organer, skal også føre tilsyn med at organene oppfyller pliktene etter §§ 4 og 6 til 9.",
+      "Tilsynsmyndigheten kan kreve at et offentlig organ som den fører tilsyn med, uten hinder av taushetsplikt gir de opplysningene som er nødvendige for å gjennomføre tilsyn etter første ledd. Når bestemmelser i annen lovgivning begrenser tilsynsmyndighetens rett til innsyn i bestemte opplysninger, gjelder likevel disse begrensningene tilsvarende."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-8",
+     "nummer": "§ 13",
+     "tittel": "Pålegg",
+     "ledd": [
+      "Tilsynsmyndigheten kan gi pålegg om å rette forhold som er i strid med kravene i §§ 4 og 6 til 9.",
+      "Tilsynsmyndigheten skal sette en frist for gjennomføring av pålegget."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3 Krav til tolken",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 14",
+     "tittel": "God tolkeskikk",
+     "ledd": [
+      "Tolken skal opptre i samsvar med god tolkeskikk. Kravet innebærer blant annet at tolken skal ha tilstrekkelig tolkefaglig kompetanse for tolkeoppdraget, opptre upartisk, ikke misbruke informasjon tolken har fått kjennskap til gjennom tolking, og at tolken må forsikre seg om at forholdene ligger til rette for forsvarlig utførelse av tolkeoppdraget.",
+      "Departementet kan gi forskrift om hva som skal anses som god tolkeskikk."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 15",
+     "tittel": "Taushetsplikt",
+     "ledd": [
+      "Reglene om taushetsplikt i forvaltningsloven §§ 13 til 13 e gjelder tilsvarende for tolker.",
+      "Bestemmelser om taushetsplikt i andre lover gjelder tilsvarende for tolken dersom de kommer til anvendelse på det enkelte tolkeoppdraget. Dersom fagpersonen i samtalen er bundet av strengere taushetsplikt enn det som følger av første ledd, gjelder taushetsplikten tilsvarende for tolken.",
+      "Offentlige organer som bruker tolk, skal sørge for at tolken gjøres kjent med taushetsplikten. Organet kan kreve at tolken skriftlig bekrefter at innholdet i reglene om taushetsplikt er kjent.",
+      "Dokumenter og annet materiale som inneholder taushetsbelagte opplysninger, skal oppbevares på en betryggende måte. Etter et tolkeoppdrag er fullført skal slikt materiale leveres tilbake til oppdragsgiver eller destrueres."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 16",
+     "tittel": "Habilitet",
+     "ledd": [
+      "En tolk skal ikke påta seg oppdrag hvis tolken er inhabil. Tolken er inhabil når det foreligger forhold som nevnt i forvaltningsloven § 6 første eller andre ledd.",
+      "Tolken skal så snart som mulig informere oppdragsgiver om forhold som gjør eller kan gjøre tolken inhabil. Tolken tar stilling til sin egen habilitet.",
+      "En inhabil tolk kan likevel ta et oppdrag når det offentlige organet vurderer at det er nødvendig i nødssituasjoner, eller at det ut fra omstendighetene må anses forsvarlig."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4 Nasjonalt tolkeregister, statsautorisasjonsordningen og reaksjoner",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 17",
+     "tittel": "Nasjonalt tolkeregister",
+     "ledd": [
+      "For å øke bruken av kvalifisert tolk i offentlig sektor skal det være et nasjonalt register over kvalifiserte tolker (Nasjonalt tolkeregister). Registeret skal forvaltes av Integrerings- og mangfoldsdirektoratet.",
+      "Integrerings- og mangfoldsdirektoratet kan innhente personopplysninger om tolker fra Folkeregisteret og utlendingsmyndighetenes registre uten hinder av lovbestemt taushetsplikt når det er nødvendig for å oppnå formålet med Nasjonalt tolkeregister. Direktoratet kan behandle opplysninger om etnisk opprinnelse når det er nødvendig for å oppnå formålet med registeret. Personopplysninger fra registeret som ikke er underlagt taushetsplikt, kan gjøres tilgjengelig for offentligheten.",
+      "Vedtak om oppføring i Nasjonalt tolkeregister regnes som enkeltvedtak.",
+      "Departementet kan gi forskrift om formelle krav for oppføring i Nasjonalt tolkeregister, hvilke språklige og tolkefaglige ferdigheter som kreves, tolkers opplysningsplikt, krav til forvaltningen av registeret og hvilke opplysninger som kan registreres."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 18",
+     "tittel": "Bevilling som statsautorisert tolk",
+     "ledd": [
+      "Integrerings- og mangfoldsdirektoratet gir bevilling som statsautorisert tolk etter søknad. Bevilling skal gis til personer som er myndige etter norsk lov og som har bestått statsautorisasjonsprøven i tolking.",
+      "Bevillingen gir rett til å bruke tittelen statsautorisert tolk. Tittelen skal ikke brukes om tolking på andre språk enn det språket bevillingen gjelder for.",
+      "Departementet kan gi forskrift om statsautorisasjonsordningen og om godkjenning av yrkeskvalifikasjoner fra annen stat, jf. yrkeskvalifikasjonsloven."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 19",
+     "tittel": "Varsling om brudd på krav til god tolkeskikk, taushetsplikt og habilitet",
+     "ledd": [
+      "Enhver kan varsle Integrerings- og mangfoldsdirektoratet om tolker som ikke overholder kravene etter §§ 14 til 16.",
+      "Integrerings- og mangfoldsdirektoratet skal vurdere varsler som omhandler statsautoriserte tolker og tolker som er oppført i Nasjonalt tolkeregister.",
+      "Integrerings- og mangfoldsdirektoratet kan kreve at offentlige organer, uten hinder av taushetsplikt, gir de opplysningene som er nødvendige for å vurdere om en tolk har brutt kravene etter §§ 14 til 16. Når bestemmelser i annen lovgivning begrenser en tilsynsmyndighets rett til innsyn i bestemte opplysninger, gjelder likevel disse begrensningene også for Integrerings- og mangfoldsdirektoratets innsynsrett."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 20",
+     "tittel": "Tilbakekall av bevilling som statsautorisert tolk",
+     "ledd": [
+      "Integrerings- og mangfoldsdirektoratet skal kalle tilbake bevilling som statsautorisert tolk når kravene etter § 18 første ledd ikke lenger er oppfylt. Direktoratet kan også kalle tilbake bevillingen dersom det foreligger forhold som kan medføre utestenging fra Nasjonalt tolkeregister etter § 21.",
+      "Bevillingen kan kalles tilbake midlertidig for den tiden det tar å behandle saken. Statsautoriserte tolker som er oppført i Nasjonalt tolkeregister, kan også utestenges midlertidig fra registeret for den tiden det tar å behandle saken, jf. § 21 tredje ledd.",
+      "Tilbakekall av bevilling som statsautorisert tolk regnes som enkeltvedtak."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-5",
+     "nummer": "§ 21",
+     "tittel": "Advarsel og utestenging",
+     "ledd": [
+      "Integrerings- og mangfoldsdirektoratet kan gi advarsel til en tolk som er oppført i Nasjonalt tolkeregister, dersom tolken ikke overholder kravene etter §§ 14 til 16. Advarselen skal være skriftlig og inneholde en begrunnelse.",
+      "Dersom tolken har mottatt minst tre advarsler de siste fem årene, eller dersom det foreligger vesentlige brudd på kravene etter §§ 14 til 16, kan Integrerings- og mangfoldsdirektoratet utestenge tolken fra Nasjonalt tolkeregister for en begrenset periode eller for alltid.",
+      "Tolken kan midlertidig utestenges fra registeret for den tiden det tar å behandle saken.",
+      "Avgjørelser om utestenging fra Nasjonalt tolkeregister regnes som enkeltvedtak."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-6",
+     "nummer": "§ 22",
+     "tittel": "Klagenemnd",
+     "ledd": [
+      "Departementet kan gi forskrift om etablering av en klagenemnd for behandling av klager på vedtak om utestenging fra Nasjonalt tolkeregister og vedtak om tilbakekall av bevilling som statsautorisert tolk. Departementet kan gi forskrift om nemndas sammensetning og om saksbehandlingen."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5 Avsluttende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 23",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Loven gjelder fra den tid Kongen bestemmer[1]. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid."
+     ],
+     "fotnoter": [
+      {
+       "nr": "1",
+       "tekst": "Fra 1 jan 2022 iflg. res. 3 sep 2021 nr. 2653."
+      }
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 24",
+     "tittel": "Endringer i andre lover",
+     "ledd": [
+      "Fra den tid loven trer i kraft gjøres følgende endringer i andre lover: – – –"
+     ]
+    }
+   ]
+  }
+ ]
+}

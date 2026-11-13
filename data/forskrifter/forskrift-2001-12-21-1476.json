@@ -1,0 +1,462 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2001-12-21-1476",
+ "dokumentid": "SF/forskrift/2001-12-21-1476",
+ "departement": [
+  "Helse- og omsorgsdepartementet"
+ ],
+ "etat": [
+  "Helserettsavd., Folkehelseavd."
+ ],
+ "kunngjort_i": "I 2001 hefte 16",
+ "ikraft": "2002-01-01",
+ "siste_endring_ikraft": "2021-11-19",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2021-11-19-3235",
+   "tekst": "forskrift/2021-11-19-3235"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1999-07-02-64/§36",
+   "tekst": "lov/1999-07-02-64/§36"
+  },
+  {
+   "ref": "lov/1999-07-02-64/§37",
+   "tekst": "lov/1999-07-02-64/§37"
+  },
+  {
+   "ref": "lov/1967-02-10/§13d",
+   "tekst": "lov/1967-02-10/§13d"
+  },
+  {
+   "ref": "lov/2014-06-20-43/§8",
+   "tekst": "lov/2014-06-20-43/§8"
+  },
+  {
+   "ref": "lov/2014-06-20-43/§9",
+   "tekst": "lov/2014-06-20-43/§9"
+  },
+  {
+   "ref": "lov/2014-06-20-43/§10",
+   "tekst": "lov/2014-06-20-43/§10"
+  },
+  {
+   "ref": "lov/2014-06-20-43/§11",
+   "tekst": "lov/2014-06-20-43/§11"
+  },
+  {
+   "ref": "lov/2014-06-20-43/§12",
+   "tekst": "lov/2014-06-20-43/§12"
+  },
+  {
+   "ref": "lov/2014-06-20-43/§13",
+   "tekst": "lov/2014-06-20-43/§13"
+  },
+  {
+   "ref": "lov/2014-06-20-43/§20a",
+   "tekst": "lov/2014-06-20-43/§20a"
+  },
+  {
+   "ref": "lov/2016-12-09-88/§7-1",
+   "tekst": "lov/2016-12-09-88/§7-1"
+  }
+ ],
+ "kunngjort": "2001-12-21",
+ "korttittel": "Dødsårsaksregisterforskriften",
+ "tittel": "Forskrift om innsamling og behandling av helseopplysninger i Dødsårsaksregisteret (Dødsårsaksregisterforskriften)",
+ "annet": "Hjemmel: Fastsatt ved kgl.res. 21. desember 2001 med hjemmel i lov av 18. mai 2001 nr. 24 om helseregistre og behandling av helseopplysninger (helseregisterloven) § 8 fjerde ledd, jf. tredje ledd, § 9 annet ledd, § 16 fjerde ledd, § 17 tredje ledd, § 22 femte ledd, § 27 annet ledd og lov av 2. juli 1999 nr. 64 om helsepersonell m.v. (helsepersonelloven) § 36 og § 37. Fremmet av Sosial- og helsedepartementet (nå Helse- og omsorgsdepartementet).\nTilføyd hjemmel: Lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven) § 13d tredje ledd. Lov 20. juni 2014 nr. 43 om helseregistre og behandling av helseopplysninger (helseregisterloven) § 8 jf. § 9, § 10, § 11, § 12, § 13 andre ledd og § 20a. Lov 9. desember 2016 nr. 88 om folkeregistrering (folkeregisterloven) § 7-1 tredje ledd.\nEØS-henvisninger: EØS-avtalen vedlegg XXI nr. 18zl (forordning (EF) nr. 328/2011).\nEndret ved forskrifter 20 juni 2003 nr. 741, 2 sep 2005 nr. 1010, 7 des 2007 nr. 1389, 26 juni 2009 nr. 868, 16 des 2011 nr. 1250, 16 des 2011 nr. 1396, 15 juni 2012 nr. 544, 17 jan 2013 nr. 61, 18 des 2015 nr. 1588, 18 mars 2016 nr. 268, 15 juni 2018 nr. 876, 1 mars 2019 nr. 169, 21 juni 2019 nr. 795 (i kraft 1 okt 2019), 20 des 2019 nr. 1918 (i kraft 1 jan 2020), 23 april 2021 nr. 1269 som endret ved forskrift 12 mai 2021 nr. 1902 (i kraft 1 juni 2021), 18 juni 2021 nr. 2023 (i kraft 1 juli 2021), 8 okt 2021 nr. 2958 (i kraft 1 nov 2021), 19 nov 2021 nr. 3235.",
+ "refid": "forskrift/2001-12-21-1476",
+ "eli": "/eli/forskrift/2001/12/21/1476",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2001-12-21-1476",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Generelle bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1-1",
+     "tittel": "(Etablering av Dødsårsaksregisteret)",
+     "ledd": [
+      "Denne forskriften etablerer et landsomfattende Dødsårsaksregister. Forskriften gir regler for innsamling og behandling av helseopplysninger i registeret.",
+      "Innsamling og behandling av helseopplysninger i Dødsårsaksregisteret kan skje manuelt og ved hjelp av elektroniske hjelpemidler."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 1-2",
+     "tittel": "(Dødsårsaksregisterets innhold)",
+     "ledd": [
+      "Dødsårsaksregisteret inneholder opplysninger om:\n1. personer som på dødstidspunktet befinner seg i Norge\n2. personer som på dødstidspunktet er registrert bosatt i Norge, men dør i utlandet."
+     ],
+     "endringer": [
+      "Endret ved forskrift 15 juni 2012 nr. 544."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 1-2a",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Tilføyd ved forskrift 15 juni 2018 nr. 876 (i kraft 20 juli 2018), opphevet ved forskrift 23 april 2021 nr. 1269 som endret ved forskrift 12 mai 2021 nr. 1902 (i kraft 1 juni 2021)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 1-3",
+     "tittel": "(Dødsårsaksregisterets formål)",
+     "ledd": [
+      "Formålet med Dødsårsaksregisteret er å innsamle og innenfor forskriftens rammer behandle data om dødsårsaker i Norge for å:\n1. overvåke dødsårsaker og belyse endringer i dødsårsaker over tid,\n2. gi grunnlag for utarbeidelse av nasjonal, regional og lokal dødsårsaksstatistikk,\n3. fremme og gi grunnlag for forskning, og\n4. gi grunnlag for informasjon og kunnskap for planlegging, kvalitetssikring og kvalitetsutvikling av helse- og omsorgstjenesten og helse- og omsorgsforvaltningen."
+     ],
+     "endringer": [
+      "Endret ved forskrift 17 jan 2013 nr. 61."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-5",
+     "nummer": "§ 1-4",
+     "tittel": "(Dataansvarlig)",
+     "ledd": [
+      "Folkehelseinstituttet er dataansvarlig for innsamling og behandling av helseopplysninger i Dødsårsaksregisteret.",
+      "Når det er nødvendig for å formidle personopplysninger gitt av lege etter reglene i helsepersonelloven § 36 til Dødsårsaksregisteret eller til Folkeregisteret, kan opplysningene behandles av Norsk helsenett SF. Norsk helsenett SF er dataansvarlig for denne behandlingen."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 18 des 2015 nr. 1588 (i kraft 1 jan 2016), 15 juni 2018 nr. 876 (i kraft 20 juli 2018), 21 juni 2019 nr. 795 (i kraft 1 okt 2019), 20 des 2019 nr. 1918 (i kraft 1 jan 2020), 18 juni 2021 nr. 2023 (i kraft 1 juli 2021)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-6",
+     "nummer": "§ 1-5",
+     "tittel": "(Databehandler)",
+     "ledd": [
+      "Folkehelseinstituttet kan inngå skriftlig avtale med en databehandler om innsamling og behandling av helseopplysninger i Dødsårsaksregisteret, herunder om overvåking og forskning, jf. § 1-3, drift og kvalitetssikring av registeret, samt tilgjengeliggjøring av data til brukere."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 18 des 2015 nr. 1588 (i kraft 1 jan 2016), 15 juni 2018 nr. 876 (i kraft 20 juli 2018)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-7",
+     "nummer": "§ 1-6",
+     "tittel": "(Opplysninger i Dødsårsaksregisteret)",
+     "ledd": [
+      "Dødsårsaksregisteret kan inneholde følgende opplysninger om avdøde i den utstrekning det er nødvendig for å nå formålet med registeret:\n1. personopplysninger:\n1.1. navn og fødselsnummer,\n1.2. adresse og bostedskommune,\n1.3. sivilstand,\n1.4. dødskommune,\n1.5. dødsdato og klokkeslett,\n1.6. dødssted,\n2. administrative opplysninger:\n2.1. navn og adresse på lege eventuelt helseinstitusjon som utstedte medisinsk dødsmelding,\n2.2. eventuelt avdødes lege under siste sykdom og avdødes faste lege,\n3. medisinske opplysninger:\n3.1. sykdommer, skader, legemidler, bruk av narkotika eller andre stoffer som dødsårsaken kan tilbakeføres til eller som kan ha medvirket til dødens inntreden,\n3.2. opplysninger fra avdødes tidligere institusjonsopphold av betydning for de anførte dødsårsaker eller dødens inntreden,\n3.3. grunnlaget for helseopplysningene,\n3.4. opplysninger om skadested og aktivitet i skadeøyeblikket dersom døden skyldes skade eller følger av skade,\n3.5. obduksjonsresultat, obduksjonsnummer og laboratorienummer,\n3.6. mistanke om unaturlig død."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-8",
+     "nummer": "§ 1-7",
+     "tittel": "(Koding og klassifisering av opplysningene i Dødsårsaksregisteret, krav til dokumentasjon)",
+     "ledd": [
+      "Opplysningene i Dødsårsaksregisteret skal kodes i samsvar med den internasjonale statistiske sykdomklassifikasjonen (ICD) og de prinsipper og regler som gjelder for koding av dødsårsaker.",
+      "Folkehelseinstituttet skal ved enhver registrering i Dødsårsaksregisteret kunne dokumentere hvilke klassifikasjoner og kodeverk som er benyttet.",
+      "Departementet kan gi nærmere bestemmelser om eventuelt andre kodeverk og klassifikasjoner som skal benyttes."
+     ],
+     "endringer": [
+      "Endret ved forskrift 18 des 2015 nr. 1588 (i kraft 1 jan 2016)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Melding av helseopplysninger til Dødsårsaksregisteret, kvalitetskontroll mv.",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 2-1",
+     "tittel": "(Legers alminnelige dokumentasjons- og meldeplikt)",
+     "ledd": [
+      "Leger som blir tilkalt til en døende eller til en som er død, skal, uten hensyn til taushetsplikt, snarest melde opplysninger som nevnt i § 1-6, jf. § 2-2, til Dødsårsaksregisteret. Leger som melder på papir sender meldingen via tingretten, lensmannen eller namsmannen. Fra 1.1.2022 skal meldingen sendes elektronisk på meldingsformat fastsatt av Folkehelseinstituttet."
+     ],
+     "endringer": [
+      "Endret ved forskrift 21 juni 2019 nr. 795 (i kraft 1 okt 2019)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 2-2",
+     "tittel": "(Meldingsskjema, formkrav mv.)",
+     "ledd": [
+      "Melding av opplysninger som nevnt i § 1-6 skal skje på skjema eller på annen måte fastsatt av departementet. Dødsmeldingen skal utformes i en form som er i samsvar med anbefalinger av Verdens helseorganisasjon.",
+      "Departementet kan gi pålegg om bruk av bestemte klassifikasjoner og kodeverk ved registrering av opplysningene, og gi pålegg om bruk av bestemte meldingsformater ved forsendelsen av opplysningene."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 2-3",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Opphevet ved forskrift 21 juni 2019 nr. 795 (i kraft 1 okt 2019)."
+     ],
+     "opphevet": "2019-10-01"
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 2-4",
+     "tittel": "(Meldeplikt for lege som foretar obduksjon)",
+     "ledd": [
+      "Lege som obduserer avdøde, skal melde resultatet av obduksjonen, obduksjonsnummer og laboratorienummer til Dødsårsaksregisteret innen to måneder etter obduksjonsrapporten er ferdig. Forskriften § 2-2 gjelder tilsvarende for obduksjonsmeldinger."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 2-5",
+     "tittel": "(Virksomhetens plikter)",
+     "ledd": [
+      "Helseinstitusjon eller annen virksomhet som er ansvarlig for registrering av opplysninger som skal meldes til Dødsårsaksregisteret, jf. § 1-6, har ansvar for at pliktene som nevnt i § 2-1 til § 2-4 oppfylles, og skal sørge for at det finnes rutiner som sikrer dette, jf. forskriften § 4-2 og § 4-3."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-6",
+     "nummer": "§ 2-6",
+     "tittel": "(Mottakers ansvar for kvalitetskontroll)",
+     "ledd": [
+      "Folkehelseinstituttet skal sørge for at helseopplysninger som innsamles og behandles i Dødsårsaksregisteret er korrekte, relevante og nødvendige for de formål de innsamles for, jf. § 1-3. Dersom det er nødvendig, skal Folkehelseinstituttet innhente tilleggsopplysninger fra lege som har gitt helsehjelp til den person meldingen gjelder.",
+      "Dersom meldingsskjema er mangelfullt utfylt, skal avsenderen av skjema varsles, jf. helseregisterloven § 13 annet ledd annet punktum. Ved fortsatt mangelfull utfylling av skjema skal statsforvalteren varsles."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 20 juni 2003 nr. 741 (i kraft 1 juli 2003), 7 des 2007 nr. 1389 (i kraft 15 april 2009), 16 des 2011 nr. 1250 (i kraft 1 jan 2012), 16 des 2011 nr. 1396 (i kraft 1 jan 2012), 18 des 2015 nr. 1588 (i kraft 1 jan 2016), 18 mars 2016 nr. 268, 15 juni 2018 nr. 876 (i kraft 20 juli 2018), 21 juni 2019 nr. 795 (i kraft 1 okt 2019), 8 okt 2021 nr. 2958 (i kraft 1 nov 2021), 19 nov 2021 nr. 3235."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Behandling av helseopplysninger i Dødsårsaksregisteret",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 3-1",
+     "tittel": "Tilgjengeliggjøring og annen behandling av helseopplysninger",
+     "ledd": [
+      "Helseopplysninger i Dødsårsaksregisteret skal behandles i samsvar med personvernforordningen, personopplysningsloven og de alminnelige vilkårene i helseregisterloven § 6 og reglene om taushetsplikt i helseregisterloven § 17, jf. helsepersonelloven §§ 21 flg.",
+      "Ved tilgjengeliggjøring og sammenstilling av opplysninger i registeret gjelder i tillegg helseregisterloven § 19 til § 19h."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 20 juni 2003 nr. 741 (i kraft 1 juli 2003), 2 sep 2005 nr. 1010 (i kraft 24 april 2006), 7 des 2007 nr. 1389 (i kraft 15 april 2009), 16 des 2011 nr. 1250 (i kraft 1 jan 2012), 18 mars 2016 nr. 268, 15 juni 2018 nr. 876 (i kraft 20 juli 2018), 23 april 2021 nr. 1269 som endret ved forskrift 12 mai 2021 nr. 1902 (i kraft 1 juni 2021)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 3-2",
+     "tittel": "(Utlevering av opplysninger til Forsvarets helseregister og Hjerte- og karregisteret)",
+     "ledd": [
+      "Personidentifiserende opplysninger om dødsårsak, obduksjon og dødsdato kan utleveres til Forsvarets helseregister.",
+      "Forsvarets helseregister kan utlevere opplysninger som beskrevet i forskrift om nasjonalt register over hjerte- og karlidelser § 1-4 til Hjerte- og karregisteret."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 2 sep 2005 nr. 1010 (i kraft 24 april 2006), endret ved forskrifter 16 des 2011 nr. 1250 (i kraft 1 jan 2012), 23 april 2021 nr. 1269 som endret ved forskrift 12 mai 2021 nr. 1902 (i kraft 1 juni 2021, tidligere § 3-5a)"
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 3-3",
+     "tittel": "(Tilgjengeliggjøring av opplysninger for leger)",
+     "ledd": [
+      "Folkehelseinstituttet kan, uten hinder av taushetsplikt, gjøre indirekte identifiserbare opplysninger om dødsårsak for innbyggere i en kommune tilgjengelige for kommunelegen. Folkehelseinstituttet kan også, uten hinder av taushetsplikt, gjøre indirekte identifiserbare opplysninger om dødsårsak tilgjengelige for kommunelegen på dødsstedet.",
+      "Dersom det er nødvendig for oppfyllelsen av kommunelegens plikter, kan Folkehelseinstituttet tilgjengeliggjøre opplysninger etter første ledd i direkte identifiserbar form.",
+      "Leger kan få tilgjengeliggjort egne innsendte dødsmeldinger."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 21 juni 2019 nr. 795 (i kraft 1 okt 2019), endret ved forskrift 23 april 2021 nr. 1269 som endret ved forskrift 12 mai 2021 nr. 1902 (i kraft 1 juni 2021, tidligere § 3-5b)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 3-4",
+     "tittel": "(Informasjonsstrategi rettet mot brukergrupper)",
+     "ledd": [
+      "For å fremme bruk av data fra Dødsårsaksregisteret og for å bygge opp informasjon og kunnskap, jf. forskriften § 1-3, skal Folkehelseinstituttet ha en aktiv informasjonsstrategi og -plan rettet mot så vel helseforvaltningen, helse- og omsorgstjenesten og øvrig forvaltning, som mot forskere innen medisinsk forskning, helse- og omsorgstjenesteforskning og samfunnsforskning."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 17 jan 2013 nr. 61, 18 des 2015 nr. 1588 (i kraft 1 jan 2016), 23 april 2021 nr. 1269 som endret ved forskrift 12 mai 2021 nr. 1902 (i kraft 1 juni 2021, tidligere § 3-6)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Taushetsplikt, informasjonssikkerhet og internkontroll",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 4-1",
+     "tittel": "(Taushetsplikt)",
+     "ledd": [
+      "Enhver som behandler helseopplysninger etter denne forskriften har taushetsplikt etter helsepersonelloven.",
+      "Taushetsplikten etter første ledd gjelder også pasientens fødested, fødselsdato, personnummer, pseudonym, statsborgerforhold, sivilstand, yrke, bopel og arbeidssted."
+     ],
+     "endringer": [
+      "Endret ved forskrift 15 juni 2018 nr. 876 (i kraft 20 juli 2018)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 4-2",
+     "tittel": "(Informasjonssikkerhet)",
+     "ledd": [
+      "Folkehelseinstituttet og databehandleren skal gjennomføre tekniske og organisatoriske tiltak for å oppnå et sikkerhetsnivå som er egnet med hensyn til risikoen, jf. personvernforordningen artikkel 32 og helseregisterloven § 21."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 18 des 2015 nr. 1588 (i kraft 1 jan 2016), 15 juni 2018 nr. 876 (i kraft 20 juli 2018)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 4-3",
+     "tittel": "(Plikt til internkontroll)",
+     "ledd": [
+      "Folkehelseinstituttet skal gjennomføre tekniske og organisatoriske tiltak for å sikre og påvise at behandlingen av opplysninger utføres i samsvar med personvernforordningen, personopplysningsloven og helseregisterloven, jf. helseregisterloven § 22.",
+      "Databehandlere som behandler helseopplysninger på vegne av Folkehelseinstituttet, skal behandle opplysninger i samsvar med rutiner Folkehelseinstituttet har oppstilt."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 18 des 2015 nr. 1588 (i kraft 1 jan 2016), 15 juni 2018 nr. 876 (i kraft 20 juli 2018)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 4-4",
+     "tittel": "(Internkontrollens innhold)",
+     "ledd": [
+      "Internkontrollen innebærer at den dataansvarlige skal ha kunnskap om gjeldende regler om behandling av helseopplysninger, tilstrekkelig og oppdatert dokumentasjon for gjennomføring av rutiner, samt ha denne dokumentasjonen tilgjengelig for dem den måtte angå. Internkontrollen skal blant annet inneholde:\n1. oversikt over hvordan virksomheten er organisert,\n2. oversikt over ansvars- og myndighetsforhold,\n3. oversikt over de krav i og i medhold av personvernforordningen, personopplysningsloven og helseregisterloven som gjelder for virksomheten,\n4. rutiner virksomheten følger for å sikre overholdelse av kravene, herunder rutiner for:\n4.1. oppfyllelse av krav om at personidentifiserende opplysninger bare behandles når dette er nødvendig for å fremme formålet med behandlingen av opplysningene, og i tråd med gjeldende bestemmelser om taushetsplikt, jf. helseregisterloven § 6 og § 17,\n4.2. dokumentasjon og kvalitetskontroll av helseopplysningene, jf. forskriften § 1-11 og § 2-4,\n4.3. oppfyllelse av begjæringer om informasjon og innsyn, jf. helseregisterloven § 24, samt forskriften § 5-1,\n4.4. hvordan virksomhetene oppfyller bestemmelsene om tilgjengeliggjøring av opplysninger fra helseregistre, jf. forskriften § 3-1, § 3-3 og § 3-4,\n5. rutiner virksomheten følger dersom avvik oppstår og opplysninger om hvem som er ansvarlig,\n6. rutiner virksomheten følger for å hindre gjentakelse av avvik og opplysninger om hvem som er ansvarlig,\n7. rutiner for hvordan virksomheten systematisk og regelmessig gjennomgår sin internkontroll for å kontrollere at aktivitetene og resultatene av dem stemmer overens med det system virksomheten har fastlagt, og om det medfører oppfyllelse av personvernforordningen, personopplysningsloven og helseregisterloven,\n8. rutiner for hvordan virksomheten sikrer seg at alle aktuelle og kun gjeldende rutiner blir benyttet, og\n9. rutiner for hvordan virksomheten sikrer at de ansatte har tilstrekkelig kompetanse til å overholde forskriftens krav.",
+      "Skriftlig dokumentasjon skal minst omfatte dokumentasjon av rutiner som nevnt i første ledd nr. 1 til 8. Tilsynsmyndighetene kan gi pålegg om skriftlig dokumentasjon ut over dette dersom det anses påkrevet. Tilsynsmyndighetene kan dispensere fra hele eller deler av dette kapittel når særlige forhold foreligger."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 15 juni 2018 nr. 876 (i kraft 20 juli 2018), 19 nov 2021 nr. 3235."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Innsynsrett",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 5-1",
+     "tittel": "(Pårørendes innsynsrett)",
+     "ledd": [
+      "Avdødes nærmeste pårørende har, med mindre særlige grunner taler mot det, rett til informasjon om Dødsårsaksregisteret og innsyn i behandling av opplysninger om den avdøde.",
+      "Innsyn i behandling av helseopplysninger om den avdøde bør fortrinnsvis gis gjennom utsteder av dødsmeldingen eller av Folkehelseinstituttet. Informasjonen skal gis i en forståelig form."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 15 juni 2018 nr. 876 (i kraft 20 juli 2018), 21 juni 2019 nr. 795 (i kraft 1 okt 2019)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 5-2",
+     "tittel": "(Frist for å svare på henvendelser om innsyn)",
+     "ledd": [
+      "Begjæringer om innsyn etter § 5-1 skal besvares uten ugrunnet opphold og senest 30 dager fra den dagen henvendelsen kom inn.",
+      "Dersom særlige forhold gjør det umulig å svare på henvendelsen innen 30 dager, kan gjennomføringen utsettes inntil det er mulig å gi svar. Den dataansvarlige skal i så fall gi et foreløpig svar med opplysninger om grunnen til forsinkelsen og sannsynlig tidspunkt for når svar kan gis."
+     ],
+     "endringer": [
+      "Endret ved forskrift 15 juni 2018 nr. 876 (i kraft 20 juli 2018)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Bevaring av helseopplysninger i Dødsårsaksregisteret",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 6-1",
+     "tittel": "(Bevaring av helseopplysninger)",
+     "ledd": [
+      "Opplysninger i Dødsårsaksregisteret skal bevares i ubegrenset tid, med mindre annet følger av denne forskriften eller helseregisterloven § 25."
+     ],
+     "endringer": [
+      "Endret ved forskrift 15 juni 2018 nr. 876 (i kraft 20 juli 2018)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kap7",
+   "overskrift": "Kapittel 7. (Opphevet)",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Opphevet ved forskrift 15 juni 2018 nr. 876 (i kraft 20 juli 2018)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 7-1",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Opphevet ved forskrift 15 juni 2018 nr. 876 (i kraft 20 juli 2018)."
+     ],
+     "opphevet": "2018-07-20"
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-8",
+   "navn": "kap8",
+   "overskrift": "Kapittel 8. Avsluttende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-1",
+     "nummer": "§ 8-1",
+     "tittel": "(Ikraftsetting)",
+     "ledd": [
+      "Forskriften trer i kraft 1. januar 2002."
+     ]
+    }
+   ]
+  }
+ ]
+}

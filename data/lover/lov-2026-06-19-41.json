@@ -1,0 +1,1649 @@
+{
+ "skjema": "1.0",
+ "type": "lov",
+ "datokode": "LOV-2026-06-19-41",
+ "dokumentid": "NL/lov/2026-06-19-41",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "ikraft": "2027-01-01",
+ "endrer": "lov/1927-07-01-1\nlov/1933-05-19-11\nlov/1959-06-19-2\nlov/1963-06-21-23\nlov/1975-12-12-59\nlov/2001-06-15-93\nlov/2005-06-17-67\nlov/2005-06-17-85\nlov/2007-06-29-73\nlov/2009-06-19-58\nlov/2016-05-27-14",
+ "rettsomrade": [
+  "Skatte- og avgiftsrett > Særavgifter"
+ ],
+ "kunngjort": "2026-06-19 12:05",
+ "korttittel": "Særavgiftsloven",
+ "tittel": "Lov om særavgifter (særavgiftsloven)",
+ "annet": "Prop. 55 L (2025–2026), Innst. 364 L (2025–2026), Lovvedtak 70 (2025–2026). Stortingets første og andre gangs behandling hhv. 5. og 8. juni 2026. Fremmet av Finansdepartementet.",
+ "refid": "lov/2026-06-19-41",
+ "eli": "/eli/lov/2026/06/19/41",
+ "url": "https://lovdata.no/dokument/NL/lov/2026-06-19-41",
+ "innhold": [
+  {
+   "type": "tekst",
+   "tekst": "Følgende lover oppheves:\n1 Lov 19. mai 1933 nr. 11 om særavgifter (særavgiftsloven).\n2 Lov 19. juni 1959 nr. 2 om avgifter vedrørende motorkjøretøyer og båter (motorkjøretøy- og båtavgiftsloven).\n3 Lov 12. desember 1975 nr. 59 om dokumentavgift (dokumentavgiftsloven).\nEndringer i følgende lover:\n1 Lov 1. juli 1927 nr. 1 om registrering av elektriske kraftledninger.\n2 Lov 21. juni 1963 nr. 23 om vegar (veglova).\n3 Lov 15. juni 2001 nr. 93 om helseforetak m.m. (helseforetaksloven).\n4 Lov 17. juni 2005 nr. 67 om betaling og innkreving av skatte- og avgiftskrav (skattebetalingsloven).\n5 Lov 17. juni 2005 nr. 85 om rettsforhold og forvaltning av grunn og naturressurser i Finnmark (Finnmarksloven).\n6 Lov 29. juni 2007 nr. 73 om eiendomsmegling (eiendomsmeglingsloven).\n7 Lov 19. juni 2009 nr. 58 om merverdiavgift (merverdiavgiftsloven).\n8 Lov 27. mai 2016 nr. 14 om skatteforvaltning (skatteforvaltningsloven)."
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1 Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1-1",
+     "tittel": "Saklig virkeområde",
+     "ledd": [
+      "Denne loven gjelder særavgifter.",
+      "Stortinget vedtar særavgifter til staten og de satser som skal gjelde, jf. Grunnloven § 75 bokstav a."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 1-2",
+     "tittel": "Geografisk virkeområde",
+     "ledd": [
+      "Loven gjelder i særavgiftsområdet hvis ikke annet følger av loven.",
+      "Med særavgiftsområdet menes det norske fastlandet og alt område innenfor territorialgrensen, men ikke Svalbard, Jan Mayen og de norske bilandene."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 1-3",
+     "tittel": "Satser og regler for avgiftsberegningen",
+     "ledd": [
+      "De satser og regler som gjelder på det tidspunkt avgiften etter denne loven skal beregnes, legges til grunn for avgiftsberegningen.",
+      "For varer som innføres til særavgiftsområdet og ikke legges på lokale som er registrert etter § 2-5, skal avgiften beregnes etter de satser og regler som gjelder på det tidspunkt som følger av tollavgiftsloven § 2-2."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 1-4",
+     "tittel": "Dispensasjon",
+     "ledd": [
+      "Departementet kan treffe enkeltvedtak om å frita for eller sette ned avgiften dersom særlige grunner taler for det."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-5",
+     "nummer": "§ 1-5",
+     "tittel": "Avgiftsfritak som følger av folkerettslig avtale",
+     "ledd": [
+      "Departementet kan gi forskrift om avgiftsfritak som følger av folkerettslig avtale."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-6",
+     "nummer": "§ 1-6",
+     "tittel": "Forskriftsfullmakt",
+     "ledd": [
+      "Departementet kan gi forskrift om\na. avgiftspliktens omfang\nb. avgiftsgrunnlag og -beregning\nc. når avgiften skal beregnes og rapporteres\nd. hvem som skal beregne og betale avgiften\ne. gjennomføring og vilkår for reduserte avgiftssatser og -fritak\nf. fritak av avgiftstekniske hensyn\ng. plikt til og vilkår for registrering i Særavgiftsregisteret\nh. plikt til og vilkår for registrering av lokaler\ni. plikt til å iverksette tiltak som er nødvendige for kontroll\nj. registrering og dokumentasjon."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2 Fellesbestemmelser om særavgifter på varer",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 2-1",
+     "tittel": "Kapitlets virkeområde",
+     "ledd": [
+      "Dette kapitlet gjelder for særavgiftene i kapitlene 3 til 12."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 2-2",
+     "tittel": "Avgiftsplikt",
+     "ledd": [
+      "Det skal beregnes avgift for varer som produseres i og varer som innføres til særavgiftsområdet.",
+      "For varer som produseres og legges på et lokale som er registrert etter § 2-5, skal avgiften beregnes når varene tas ut av lokalet.",
+      "For varer som innføres, skal avgiften beregnes når varene går over til fri disponering, jf. tollavgiftsloven § 2-1 første ledd første punktum. Dersom den avgiftspliktige er registrert i Særavgiftsregisteret og varene legges på et lokale som er registrert etter § 2-5, skal avgiften beregnes når varene tas ut av lokalet.",
+      "Det skal beregnes avgift dersom vilkår for avgiftsfritak eller redusert sats ikke oppfylles. Det skal også beregnes avgift ved brudd på vilkår eller plikter nevnt i tollavgiftsloven § 2-1 andre og tredje ledd."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 2-3",
+     "tittel": "Registrering i Særavgiftsregisteret",
+     "ledd": [
+      "Produsenter av avgiftspliktige varer skal registreres i Særavgiftsregisteret for hver enkelt avgift.",
+      "Importører av avgiftspliktige varer kan registreres hvis ikke annet følger av loven."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 2-4",
+     "tittel": "Avgiftspliktig",
+     "ledd": [
+      "Avgiften skal beregnes av den som er eller skal være registrert i Særavgiftsregisteret.",
+      "For varer som innføres til særavgiftsområdet av andre enn registrerte, skal avgiften beregnes av den som etter vareførselsloven er deklarasjonspliktig når varen deklareres for overgang til fri disponering.",
+      "Tollavgiftsloven § 2-3 andre og tredje ledd og §§ 2-4 til 2-6 om brudd på vilkår og ansvar for avgift gjelder tilsvarende for særavgift på varer som innføres.",
+      "Brukere av avgiftsfrie varer eller varer med redusert sats skal beregne avgift dersom vilkårene for avgiftsfritaket eller den reduserte satsen ikke oppfylles."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 2-5",
+     "tittel": "Registrering av lokale",
+     "ledd": [
+      "Den som er registrert i Særavgiftsregisteret, skal registrere lokale hos skattemyndighetene dersom det brukes til produksjon eller lagring av avgiftspliktige varer."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-6",
+     "nummer": "§ 2-6",
+     "tittel": "Avgiftsfritak ved utførsel",
+     "ledd": [
+      "Varer som utføres fra særavgiftsområdet til utlandet, Svalbard, Jan Mayen og de norske bilandene, er fritatt for avgift. Fritaket gjelder også varer som legges på tollager og skal utføres."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-7",
+     "nummer": "§ 2-7",
+     "tittel": "Avgiftsfritak ved deklarasjonsunntak",
+     "ledd": [
+      "Varer som med hjemmel i vareførselsloven § 4-1 tredje ledd er unntatt fra deklarasjonsplikt ved innførsel til særavgiftsområdet, er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-8",
+     "nummer": "§ 2-8",
+     "tittel": "Avgiftsfritak ved destruksjon",
+     "ledd": [
+      "Varer som destrueres, er fritatt for avgift."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3 Avgift på tobakk mv.",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 3-1",
+     "tittel": "Avgiftsplikt",
+     "ledd": [
+      "Det skal beregnes avgift for sigarer, sigaretter, røyke- og råtobakk, skråtobakk, snus, sigarettpapir og -hylser, tobakk til oppvarming samt e-væske og andre varer med nikotin.",
+      "Departementet kan gi forskrift om at det skal beregnes avgift for varer som er til bruk som tobakksvare mv."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 3-2",
+     "tittel": "Avgiftsfritak for proviant",
+     "ledd": [
+      "Tobakk mv. som innføres til særavgiftsområdet eller leveres til salg eller bruk som proviant i fartøy eller luftfartøy som skal forlate særavgiftsområdet, er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 3-3",
+     "tittel": "Avgiftsfritak for utsalg på flyplass",
+     "ledd": [
+      "Tobakk mv. til tollavgiftsfritt utsalg på flyplass er fritatt for avgift."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4 Avgift på alkohol",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 4-1",
+     "tittel": "Avgiftsplikt",
+     "ledd": [
+      "Det skal beregnes avgift for alkoholholdige drikkevarer og etanol til teknisk bruk med over 0,7 volumprosent alkohol.",
+      "Det skal ikke beregnes avgift for alkoholholdige drikkevarer som produseres privat til eget bruk.",
+      "Departementet kan gi forskrift om produksjon, lagring, transport, denaturering og omsetning av etanol til teknisk bruk."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 4-2",
+     "tittel": "Registrering i Særavgiftsregisteret",
+     "ledd": [
+      "Importører av alkoholholdige drikkevarer og etanol til teknisk bruk med alkoholstyrke over 2,5 volumprosent skal registreres i Særavgiftsregisteret, med mindre importøren har tillatelse til innførsel etter alkoholloven § 2-1."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 4-3",
+     "tittel": "Avgiftsfritak for råstoff",
+     "ledd": [
+      "Etanol som brukes i produksjon av varer, er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 4-4",
+     "tittel": "Avgiftsfritak for proviant",
+     "ledd": [
+      "Alkoholholdige drikkevarer som innføres til særavgiftsområdet eller leveres til salg eller bruk som proviant i fartøy eller luftfartøy som skal forlate særavgiftsområdet, er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-5",
+     "nummer": "§ 4-5",
+     "tittel": "Avgiftsfritak for utsalg på flyplass",
+     "ledd": [
+      "Alkoholholdige drikkevarer til tollavgiftsfritt utsalg på flyplass er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-6",
+     "nummer": "§ 4-6",
+     "tittel": "Avgiftsfritak for denaturert etanol",
+     "ledd": [
+      "Etanol som er denaturert, er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-7",
+     "nummer": "§ 4-7",
+     "tittel": "Avgiftsfritak for teknisk bruk",
+     "ledd": [
+      "Etanol til nærmere bestemt teknisk bruk er fritatt for avgift."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5 Avgifter på drikkevareemballasje",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 5-1",
+     "tittel": "Avgiftsplikt",
+     "ledd": [
+      "Det skal beregnes miljøavgift for emballasje som inneholder drikkevarer.",
+      "For emballasje som ikke kan gjenbrukes i sin opprinnelige form, skal det i tillegg beregnes grunnavgift.",
+      "Det skal ikke beregnes avgift for emballasje som rommer fire liter eller mer."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 5-2",
+     "tittel": "Avgiftsfritak for returemballasje",
+     "ledd": [
+      "Emballasje som inngår i et retursystem, er fritatt for miljøavgift etter returandel."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 5-3",
+     "tittel": "Avgiftsfritak for melkeprodukter mv.",
+     "ledd": [
+      "Emballasje som inneholder melk og melkeprodukter og produkter som er laget av korn og soya til erstatning for slike produkter, er fritatt for grunnavgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-4",
+     "nummer": "§ 5-4",
+     "tittel": "Avgiftsfritak for kakaoprodukter mv.",
+     "ledd": [
+      "Emballasje som inneholder drikkevarer av kakao og sjokolade, er fritatt for grunnavgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-5",
+     "nummer": "§ 5-5",
+     "tittel": "Avgiftsfritak for proviant",
+     "ledd": [
+      "Emballasje med drikkevarer som innføres til særavgiftsområdet eller leveres til salg eller bruk som proviant i fartøy eller luftfartøy som skal forlate særavgiftsområdet, er fritatt for miljø- og grunnavgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-6",
+     "nummer": "§ 5-6",
+     "tittel": "Avgiftsfritak for utsalg på flyplass",
+     "ledd": [
+      "Emballasje med drikkevarer til tollavgiftsfritt utsalg på flyplass er fritatt for miljø- og grunnavgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-7",
+     "nummer": "§ 5-7",
+     "tittel": "Avgiftsfritak for utdeling på veldedig grunnlag",
+     "ledd": [
+      "Emballasje med drikkevarer som leveres vederlagsfritt til mottaker for utdeling på veldedig grunnlag, er fritatt for miljø- og grunnavgift."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6 Avgift på sukker mv.",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 6-1",
+     "tittel": "Avgiftsplikt",
+     "ledd": [
+      "Det skal beregnes avgift for sukker mv."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 6-2",
+     "tittel": "Avgiftsfritak for råstoff",
+     "ledd": [
+      "Sukker som brukes i produksjon av varer, er fritatt for avgift.",
+      "Det gis tilskudd for avgift på sukker som brukes i produksjon av honning."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-3",
+     "nummer": "§ 6-3",
+     "tittel": "Avgiftsfritak for dyrefôr",
+     "ledd": [
+      "Sukker som ikke er egnet til å konsumeres av mennesker og brukes som dyrefôr, er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-4",
+     "nummer": "§ 6-4",
+     "tittel": "Avgiftsfritak for proviant",
+     "ledd": [
+      "Sukker som innføres til særavgiftsområdet eller leveres til salg eller bruk som proviant i fartøy eller luftfartøy som skal forlate særavgiftsområdet, er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-5",
+     "nummer": "§ 6-5",
+     "tittel": "Avgiftsfritak for utdeling på veldedig grunnlag",
+     "ledd": [
+      "Sukker som leveres vederlagsfritt til mottaker for utdeling på veldedig grunnlag, er fritatt for avgift."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kap7",
+   "overskrift": "Kapittel 7 Veibruksavgift på drivstoff",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 7-1",
+     "tittel": "Avgiftsplikt",
+     "ledd": [
+      "Det skal beregnes avgift for mineralolje, biodiesel, bensin og bioetanol.",
+      "Det skal betales avgift dersom merket mineralolje og merket biodiesel brukes til formål som ikke er fritatt for avgift etter § 7-4 første og andre ledd.",
+      "Det skal beregnes avgift for naturgass og LPG som leveres til autogassanlegg. Avgiften skal beregnes når produktene leveres til anlegget.",
+      "Departementet kan gi forskrift om beregning og betaling av avgift etter andre ledd."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-2",
+     "nummer": "§ 7-2",
+     "tittel": "Registrering i Særavgiftsregisteret",
+     "ledd": [
+      "Importører av mineralolje, bensin, bioetanol og biodiesel skal registreres i Særavgiftsregisteret.",
+      "Leverandører av naturgass og LPG til autogassanlegg skal registreres i Særavgiftsregisteret."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-3",
+     "nummer": "§ 7-3",
+     "tittel": "Avgiftspliktig",
+     "ledd": [
+      "Den som er registrert som eier i Kjøretøyregisteret, skal betale avgiften dersom det brukes merket mineralolje eller merket biodiesel til formål som ikke er fritatt for avgift etter § 7-4 første eller andre ledd. Den som har disposisjonsrett over kjøretøyet, skal betale avgiften dersom vedkommende har hatt fordel av bruken."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-4",
+     "nummer": "§ 7-4",
+     "tittel": "Avgiftsfritak for mineralolje og biodiesel",
+     "ledd": [
+      "Mineralolje og biodiesel som brukes til annet enn som drivstoff på kjøretøy, er fritatt for avgift.",
+      "Mineralolje og biodiesel til traktorer, anleggskjøretøy og motorredskaper er fritatt for avgift.",
+      "Avgiftsfritak gjennomføres ved bruk av merkede produkter. Departementet kan gi forskrift om merkestoffer, plikt til å merke mineralolje og at fritak for avgift gjennomføres på annen måte enn ved bruk av merkede produkter."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-5",
+     "nummer": "§ 7-5",
+     "tittel": "Avgiftsfritak for bensin",
+     "ledd": [
+      "Bensin til luftfartøy, unntatt Forsvarets luftfartøy, er fritatt for avgift.",
+      "Gjenvunnet bensin og bensin med nærmere bestemte helse- og miljømessige egenskaper er fritatt for avgift.",
+      "Det gis tilskudd for avgift på bensin til båter og snøskutere til bruk i områder uten vei."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-6",
+     "nummer": "§ 7-6",
+     "tittel": "Avgiftsfritak for bioetanol",
+     "ledd": [
+      "Bioetanol som brukes til annet enn som drivstoff på kjøretøy, er fritatt for avgift.",
+      "Bioetanol til traktorer, anleggskjøretøy og motorredskaper er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-7",
+     "nummer": "§ 7-7",
+     "tittel": "Avgiftsfritak for naturgass og LPG",
+     "ledd": [
+      "Biokomponenter i naturgass og LPG er fritatt for avgift.",
+      "Andel hydrogen i naturgass og LPG er fritatt for avgift.",
+      "Naturgass og LPG som leveres fra autogassanlegg, og som brukes til annet enn som drivstoff på kjøretøy, er fritatt for avgift.",
+      "Naturgass og LPG som leveres fra autogassanlegg til traktorer, anleggskjøretøy og motorredskaper, er fritatt for avgift."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-8",
+   "navn": "kap8",
+   "overskrift": "Kapittel 8 Svovelavgift",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-1",
+     "nummer": "§ 8-1",
+     "tittel": "Avgiftsplikt",
+     "ledd": [
+      "Det skal beregnes avgift for mineralolje som inneholder over 0,05 pst. vektandel svovel."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-2",
+     "nummer": "§ 8-2",
+     "tittel": "Redusert avgift ved rensing",
+     "ledd": [
+      "Avgiften reduseres forholdsmessig dersom svovelutslippet reduseres på grunn av rensing."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-3",
+     "nummer": "§ 8-3",
+     "tittel": "Avgiftsfritak for biokomponenter",
+     "ledd": [
+      "Biokomponenter i mineralolje er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-4",
+     "nummer": "§ 8-4",
+     "tittel": "Avgiftsfritak for skip i utenriksfart",
+     "ledd": [
+      "Mineralolje til skip i utenriksfart er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-5",
+     "nummer": "§ 8-5",
+     "tittel": "Avgiftsfritak for luftfartøy i utenriksfart",
+     "ledd": [
+      "Mineralolje til luftfartøy i utenriksfart er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-6",
+     "nummer": "§ 8-6",
+     "tittel": "Avgiftsfritak for fiske og fangst",
+     "ledd": [
+      "Mineralolje til fartøy som driver fiske og fangst utenfor 250 nautiske mil fra grunnlinjen, er fritatt for avgift."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-9",
+   "navn": "kap9",
+   "overskrift": "Kapittel 9 Avgift på smøreolje",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-1",
+     "nummer": "§ 9-1",
+     "tittel": "Avgiftsplikt",
+     "ledd": [
+      "Det skal beregnes avgift for mineraloljebaserte smøreoljer og tilsvarende oljer av annen opprinnelse.",
+      "Det skal ikke beregnes avgift for prosess-, transformator- og bryteroljer."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-2",
+     "nummer": "§ 9-2",
+     "tittel": "Avgiftsfritak for skip i utenriksfart",
+     "ledd": [
+      "Smøreolje til skip i utenriksfart er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-3",
+     "nummer": "§ 9-3",
+     "tittel": "Avgiftsfritak for luftfartøy",
+     "ledd": [
+      "Smøreolje til luftfartøy, unntatt Forsvarets luftfartøy, er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-4",
+     "nummer": "§ 9-4",
+     "tittel": "Avgiftsfritak for fiske og fangst",
+     "ledd": [
+      "Smøreolje til fartøy som driver fiske og fangst utenfor 250 nautiske mil fra grunnlinjen, er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-5",
+     "nummer": "§ 9-5",
+     "tittel": "Avgiftsfritak for petroleumsvirksomheten",
+     "ledd": [
+      "Smøreolje til petroleumsvirksomheten på kontinentalsokkelen og forsyningsskip i slik virksomhet er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-6",
+     "nummer": "§ 9-6",
+     "tittel": "Avgiftsfritak for råstoff",
+     "ledd": [
+      "Smøreolje som brukes i produksjon av varer, er fritatt for avgift."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-10",
+   "navn": "kap10",
+   "overskrift": "Kapittel 10 Avgift på HFK og PFK",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-1",
+     "nummer": "§ 10-1",
+     "tittel": "Avgiftsplikt",
+     "ledd": [
+      "Det skal beregnes avgift for hydrofluorkarboner (HFK) og perfluorkarboner (PFK), også HFK og PFK i produkter."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-11",
+   "navn": "kap11",
+   "overskrift": "Kapittel 11 Avgift på SF6",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-11-paragraf-1",
+     "nummer": "§ 11-1",
+     "tittel": "Avgiftsplikt",
+     "ledd": [
+      "Det skal beregnes avgift for svovelheksafluorid (SF6), også SF6 i produkter.",
+      "Det skal ikke beregnes avgift for SF6 som tappes fra SF6-isolerte anlegg og gjenbrukes."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-11-paragraf-2",
+     "nummer": "§ 11-2",
+     "tittel": "Avgiftsfritak for høyspentanlegg",
+     "ledd": [
+      "SF6 som første gang fylles på nye høyspentanlegg, er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-11-paragraf-3",
+     "nummer": "§ 11-3",
+     "tittel": "Avgiftsfritak ved rensing",
+     "ledd": [
+      "SF6 som renses, er fritatt for avgift."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-12",
+   "navn": "kap12",
+   "overskrift": "Kapittel 12 CO2-avgift på mineralske produkter",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-12-paragraf-1",
+     "nummer": "§ 12-1",
+     "tittel": "Avgiftsplikt",
+     "ledd": [
+      "Det skal beregnes avgift for mineralolje, bensin, naturgass og LPG."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-12-paragraf-2",
+     "nummer": "§ 12-2",
+     "tittel": "Avgiftsfritak for biokomponenter",
+     "ledd": [
+      "Biokomponenter i mineralske produkter er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-12-paragraf-3",
+     "nummer": "§ 12-3",
+     "tittel": "Avgiftsfritak for kvotepliktig utslipp",
+     "ledd": [
+      "Mineralske produkter til bruk som gir kvotepliktig utslipp som ikke er omfattet av innsatsfordelingsforordningen, er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-12-paragraf-4",
+     "nummer": "§ 12-4",
+     "tittel": "Avgiftsfritak for skip i utenriksfart",
+     "ledd": [
+      "Mineralske produkter til skip i utenriksfart er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-12-paragraf-5",
+     "nummer": "§ 12-5",
+     "tittel": "Avgiftsfritak for luftfartøy i utenriksfart",
+     "ledd": [
+      "Mineralske produkter til luftfartøy i utenriksfart er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-12-paragraf-6",
+     "nummer": "§ 12-6",
+     "tittel": "Avgiftsfritak for karbonfangst og -lagring",
+     "ledd": [
+      "Mineralske produkter er fritatt for avgift dersom CO2-utslippet fra produktene fanges og lagres permanent."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-12-paragraf-7",
+     "nummer": "§ 12-7",
+     "tittel": "Avgiftsfritak for råstoff",
+     "ledd": [
+      "Mineralske produkter som brukes i produksjon av varer, er fritatt for avgift dersom det ikke oppstår utslipp av karbon i forbindelse med produksjonen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-12-paragraf-8",
+     "nummer": "§ 12-8",
+     "tittel": "Avgiftsfritak for bensin",
+     "ledd": [
+      "Gjenvunnet bensin er fritatt for avgift.",
+      "Bensin med nærmere bestemte helse- og miljømessige egenskaper er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-12-paragraf-9",
+     "nummer": "§ 12-9",
+     "tittel": "Avgiftsfritak for naturgass og LPG",
+     "ledd": [
+      "Andel hydrogen i naturgass og LPG er fritatt for avgift.",
+      "Naturgass og LPG som er avgiftspliktig etter § 13-1, er fritatt for avgift."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-13",
+   "navn": "kap13",
+   "overskrift": "Kapittel 13 CO2-avgift i petroleumsvirksomheten",
+   "innhold": []
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-14",
+   "navn": "kap14",
+   "overskrift": "Kapittel 14 Avgift på avfallsforbrenning",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-14-paragraf-1",
+     "nummer": "§ 14-1",
+     "tittel": "Avgiftsplikt",
+     "ledd": [
+      "Det skal beregnes avgift for forbrenning av avfall som inneholder fossilt materiale.",
+      "Avgiften skal beregnes når avfallet leveres til forbrenningsanlegget."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-14-paragraf-2",
+     "nummer": "§ 14-2",
+     "tittel": "Registrering i Særavgiftsregisteret",
+     "ledd": [
+      "Anlegg som forbrenner avgiftspliktig avfall, skal registreres i Særavgiftsregisteret."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-14-paragraf-3",
+     "nummer": "§ 14-3",
+     "tittel": "Avgiftspliktig",
+     "ledd": [
+      "Avgiften skal beregnes av den som er eller skal være registrert i Særavgiftsregisteret."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-14-paragraf-4",
+     "nummer": "§ 14-4",
+     "tittel": "Avgiftsfritak for kvotepliktig utslipp",
+     "ledd": [
+      "Forbrenning av avfall som gir kvotepliktig utslipp, er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-14-paragraf-5",
+     "nummer": "§ 14-5",
+     "tittel": "Avgiftsfritak for farlig avfall",
+     "ledd": [
+      "Forbrenning av farlig avfall er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-14-paragraf-6",
+     "nummer": "§ 14-6",
+     "tittel": "Avgiftsfritak for fangst og lagring",
+     "ledd": [
+      "Utslipp av CO2 fra forbrenning av avfall som fanges og lagres, er fritatt for avgift."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-15",
+   "navn": "kap15",
+   "overskrift": "Kapittel 15 Flypassasjeravgift",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-15-paragraf-1",
+     "nummer": "§ 15-1",
+     "tittel": "Avgiftsplikt",
+     "ledd": [
+      "Det skal beregnes avgift for passasjerer på ervervsmessige flyginger.",
+      "Avgiften skal beregnes når luftfartøyet tar av."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-15-paragraf-2",
+     "nummer": "§ 15-2",
+     "tittel": "Registrering i Særavgiftsregisteret",
+     "ledd": [
+      "Luftfartsselskaper som utfører avgiftspliktige flyginger, skal registreres i Særavgiftsregisteret.",
+      "Luftfartsselskaper som ikke har forretningssted eller hjemsted i særavgiftsområdet, skal registreres ved representant."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-15-paragraf-3",
+     "nummer": "§ 15-3",
+     "tittel": "Avgiftspliktig",
+     "ledd": [
+      "Avgiften skal beregnes av den som er eller skal være registrert i Særavgiftsregisteret. Luftfartsselskaper som ikke har forretningssted eller hjemsted i særavgiftsområdet, og deres representanter, er solidarisk ansvarlige for avgiften."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-15-paragraf-4",
+     "nummer": "§ 15-4",
+     "tittel": "Avgiftsfritak for transitt og transfer",
+     "ledd": [
+      "Passasjerer som reiser i transitt eller transfer, er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-15-paragraf-5",
+     "nummer": "§ 15-5",
+     "tittel": "Avgiftsfritak for ansatte",
+     "ledd": [
+      "Luftfartsselskapets ansatte på tjenestereise er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-15-paragraf-6",
+     "nummer": "§ 15-6",
+     "tittel": "Avgiftsfritak for barn",
+     "ledd": [
+      "Barn under to år er fritatt for avgift."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-16",
+   "navn": "kap16",
+   "overskrift": "Kapittel 16 Avgift på NOX",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-16-paragraf-1",
+     "nummer": "§ 16-1",
+     "tittel": "Avgiftsplikt",
+     "ledd": [
+      "Det skal beregnes avgift for utslipp av NOX ved energiproduksjon i følgende kilder:\na. framdriftsmaskineri med effekt over 750 kW\nb. motorer, kjeler og turbiner med effekt over 10 MW\nc. flammetårn.",
+      "Det skal beregnes avgift for utslipp av NOX i særavgiftsområdet.",
+      "For fartøy skal det beregnes avgift også for utslipp fra fart mellom havner i særavgiftsområdet, og mellom havner i særavgiftsområdet og Svalbard, Jan Mayen, bilandene og innretninger på kontinentalsokkelen. For norskregistrerte fartøy skal det beregnes avgift også for utslipp fra fart innenfor 250 nautiske mil fra grunnlinjen.",
+      "For luftfartøy skal det beregnes avgift også for utslipp fra fart mellom landingsplasser i særavgiftsområdet og landingsplasser på Svalbard, Jan Mayen, bilandene og innretninger på kontinentalsokkelen. For fly skal det bare beregnes avgift for utslipp ved avgang og landing.",
+      "For innretninger som driver virksomhet på kontinentalsokkelen, skal det beregnes avgift for utslipp på kontinentalsokkelen.",
+      "Avgiften skal beregnes når utslippet skjer."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-16-paragraf-2",
+     "nummer": "§ 16-2",
+     "tittel": "Registrering i Særavgiftsregisteret",
+     "ledd": [
+      "Eiere av avgiftspliktige enheter skal registreres i Særavgiftsregisteret. Dette gjelder ikke for enheter som bare har avgiftsfrie utslipp, med mindre de er omfattet av miljøavtale med staten om reduksjon av NOX-utslipp.",
+      "Operatører av avgiftspliktige enheter på kontinentalsokkelen skal registreres i Særavgiftsregisteret.",
+      "Eiere og operatører som ikke har forretningssted eller hjemsted i særavgiftsområdet, skal registreres ved representant."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-16-paragraf-3",
+     "nummer": "§ 16-3",
+     "tittel": "Avgiftspliktig",
+     "ledd": [
+      "Avgiften skal beregnes av den som er eller skal være registrert i Særavgiftsregisteret. Eiere og operatører som ikke har forretningssted eller hjemsted i særavgiftsområdet, og deres representanter, er solidarisk ansvarlige for avgiften."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-16-paragraf-4",
+     "nummer": "§ 16-4",
+     "tittel": "Avgiftsfritak ved miljøavtale",
+     "ledd": [
+      "Utslipp fra enheter som er omfattet av miljøavtale med staten om reduksjon av NOX-utslipp, er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-16-paragraf-5",
+     "nummer": "§ 16-5",
+     "tittel": "Avgiftsfritak for utenriksfart",
+     "ledd": [
+      "Utslipp fra fartøy og luftfartøy i utenriksfart er fritatt for avgift for hele farten."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-16-paragraf-6",
+     "nummer": "§ 16-6",
+     "tittel": "Avgiftsfritak for fiske og fangst",
+     "ledd": [
+      "Utslipp fra fartøy som driver fiske eller fangst, er fritatt for avgift for utslipp utenfor 250 nautiske mil fra grunnlinjen."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-17",
+   "navn": "kap17",
+   "overskrift": "Kapittel 17 Avgift på elektrisk kraft",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-17-paragraf-1",
+     "nummer": "§ 17-1",
+     "tittel": "Avgiftsplikt",
+     "ledd": [
+      "Det skal beregnes avgift for elektrisk kraft.",
+      "Avgiften skal beregnes når kraften leveres til forbruker."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-17-paragraf-2",
+     "nummer": "§ 17-2",
+     "tittel": "Registrering i Særavgiftsregisteret",
+     "ledd": [
+      "Nettselskaper skal registreres i Særavgiftsregisteret. Med nettselskaper menes transportører av elektrisk kraft.",
+      "Produsenter av elektrisk kraft som leverer eller tar ut avgiftspliktig elektrisk kraft, skal registreres i Særavgiftsregisteret."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-17-paragraf-3",
+     "nummer": "§ 17-3",
+     "tittel": "Avgiftspliktig",
+     "ledd": [
+      "Avgiften skal beregnes av den som er eller skal være registrert i Særavgiftsregisteret.",
+      "Brukere og produsenter av avgiftsfri elektrisk kraft eller elektrisk kraft med redusert sats skal beregne avgift dersom vilkårene for avgiftsfritaket eller den reduserte satsen ikke oppfylles."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-17-paragraf-4",
+     "nummer": "§ 17-4",
+     "tittel": "Avgiftsfritak for innsatssonen",
+     "ledd": [
+      "Elektrisk kraft til husholdninger og offentlig forvaltning i innsatssonen er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-17-paragraf-5",
+     "nummer": "§ 17-5",
+     "tittel": "Avgiftsfritak for enkelte produksjonsanlegg",
+     "ledd": [
+      "Elektrisk kraft som produseres i energigjenvinningsanlegg, mikrokraftverk, nødstrømsaggregat og mottrykksanlegg, er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-17-paragraf-6",
+     "nummer": "§ 17-6",
+     "tittel": "Avgiftsfritak for enkelte bruksområder",
+     "ledd": [
+      "Elektrisk kraft til produksjon av elektrisk kraft er fritatt for avgift.",
+      "Elektrisk kraft til kjemisk reduksjon og i elektrolytiske, metallurgiske og mineralogiske prosesser er fritatt for avgift.",
+      "Elektrisk kraft til veksthusnæringen er fritatt for avgift.",
+      "Elektrisk kraft til skinnegående transportmidler og trolleybuss er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-17-paragraf-7",
+     "nummer": "§ 17-7",
+     "tittel": "Avgiftsfritak for fornybar kraft",
+     "ledd": [
+      "Elektrisk kraft som produseres i solceller, er fritatt for avgift.",
+      "Elektrisk kraft som produseres fra fornybare energikilder, og som brukes på henholdsvis den eiendom eller det næringsområde hvor den er produsert, er fritatt for avgift."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-18",
+   "navn": "kap18",
+   "overskrift": "Kapittel 18 Avgift på vindkraft",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-18-paragraf-1",
+     "nummer": "§ 18-1",
+     "tittel": "Avgiftsplikt",
+     "ledd": [
+      "Det skal beregnes avgift for elektrisk kraft som produseres i konsesjonspliktige vindkraftverk på land.",
+      "Avgiften skal beregnes når kraften produseres."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-18-paragraf-2",
+     "nummer": "§ 18-2",
+     "tittel": "Registrering i Særavgiftsregisteret",
+     "ledd": [
+      "Produsenter av avgiftspliktig vindkraft skal registreres i Særavgiftsregisteret."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-18-paragraf-3",
+     "nummer": "§ 18-3",
+     "tittel": "Avgiftspliktig",
+     "ledd": [
+      "Avgiften skal beregnes av den som er eller skal være registrert i Særavgiftsregisteret."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-19",
+   "navn": "kap19",
+   "overskrift": "Kapittel 19 Avgift på oppdrettsfisk",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-19-paragraf-1",
+     "nummer": "§ 19-1",
+     "tittel": "Avgiftsplikt",
+     "ledd": [
+      "Det skal beregnes avgift for laks, ørret og regnbueørret som produseres i territorialfarvannet.",
+      "Avgiften skal beregnes når fisken slaktes."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-19-paragraf-2",
+     "nummer": "§ 19-2",
+     "tittel": "Registrering i Særavgiftsregisteret",
+     "ledd": [
+      "Produsenter av avgiftspliktig fisk skal registreres i Særavgiftsregisteret."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-19-paragraf-3",
+     "nummer": "§ 19-3",
+     "tittel": "Avgiftspliktig",
+     "ledd": [
+      "Avgiften skal beregnes av den som er eller skal være registrert i Særavgiftsregisteret."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-19-paragraf-4",
+     "nummer": "§ 19-4",
+     "tittel": "Avgiftsfritak for utdeling på veldedig grunnlag",
+     "ledd": [
+      "Fisk som leveres vederlagsfritt til mottaker for utdeling på veldedig grunnlag, er fritatt for avgift."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-20",
+   "navn": "kap20",
+   "overskrift": "Kapittel 20 Avgift på viltlevende marine ressurser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-20-paragraf-1",
+     "nummer": "§ 20-1",
+     "tittel": "Avgiftsplikt",
+     "ledd": [
+      "Det skal beregnes avgift for viltlevende marine ressurser som høstes av norskregistrerte fartøy.",
+      "Avgiften skal beregnes når ressursene omsettes i førstehånd i samsvar med fiskesalslagslova."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-20-paragraf-2",
+     "nummer": "§ 20-2",
+     "tittel": "Registrering i Særavgiftsregisteret",
+     "ledd": [
+      "Fiskesalgslag som førstehåndsomsetter marine ressurser og er godkjent etter fiskesalslagslova, skal registreres i Særavgiftsregisteret."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-20-paragraf-3",
+     "nummer": "§ 20-3",
+     "tittel": "Avgiftspliktig",
+     "ledd": [
+      "Avgiften skal beregnes av den som er eller skal være registrert i Særavgiftsregisteret."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-20-paragraf-4",
+     "nummer": "§ 20-4",
+     "tittel": "Avgiftsfritak for utdeling på veldedig grunnlag",
+     "ledd": [
+      "Viltlevende marine ressurser som leveres vederlagsfritt til mottaker for utdeling på veldedig grunnlag, er fritatt for avgift."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-21",
+   "navn": "kap21",
+   "overskrift": "Kapittel 21 Dokumentavgift",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-21-paragraf-1",
+     "nummer": "§ 21-1",
+     "tittel": "Avgiftsplikt",
+     "ledd": [
+      "Det skal beregnes avgift for dokument som ved tinglysing overfører hjemmel som eier til fast eiendom. Det skal også beregnes avgift ved overføring av hjemmel til bygg mv. på festet grunn.",
+      "Avgiften skal beregnes når dokumentet tinglyses i grunnboken."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-21-paragraf-2",
+     "nummer": "§ 21-2",
+     "tittel": "Avgiftspliktig",
+     "ledd": [
+      "Avgiften skal betales av den eiendommen overføres til. Den eiendommen overføres til, og meglere og andre som krever tinglysing på vegne av denne, er solidarisk ansvarlige for avgiften."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-21-paragraf-3",
+     "nummer": "§ 21-3",
+     "tittel": "Avgiftsfritak for ektefelle mv.",
+     "ledd": [
+      "Overføring av hjemmel til fast eiendom til ektefelle er fritatt for avgift.",
+      "Overføring av hjemmel til felles bolig til samboer ved samlivsbrudd er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-21-paragraf-4",
+     "nummer": "§ 21-4",
+     "tittel": "Avgiftsfritak ved arv",
+     "ledd": [
+      "Overføring av ideell arveandel etter arveloven i den enkelte eiendom ved skifte av arv eller fra uskiftet bo er fritatt for avgift. Fritaket gjelder ikke ved overføring av eiendom som forskudd på arv.",
+      "Overføring av eiendom til testamentsarving er fritatt for avgift dersom eiendommen overføres videre til ny eier samme dag."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-21-paragraf-5",
+     "nummer": "§ 21-5",
+     "tittel": "Avgiftsfritak ved oppløsning av sameie",
+     "ledd": [
+      "Overføring av egen sameieandel ved oppløsning av sameie er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-21-paragraf-6",
+     "nummer": "§ 21-6",
+     "tittel": "Avgiftsfritak for kongen mfl.",
+     "ledd": [
+      "Overføring av hjemmel til fast eiendom mellom kongen, dronningen, den nærmeste arveberettigede til tronen i hvert etterfølgende slektsledd og deres ektefeller, samt disses felles barn under 20 år, er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-21-paragraf-7",
+     "nummer": "§ 21-7",
+     "tittel": "Avgiftsfritak for gave til det offentlige mv.",
+     "ledd": [
+      "Overføring av hjemmel til fast eiendom som gave til det offentlige og nærmere bestemte organisasjoner mv. er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-21-paragraf-8",
+     "nummer": "§ 21-8",
+     "tittel": "Avgiftsfritak ved omorganisering mv.",
+     "ledd": [
+      "Overføring av hjemmel til fast eiendom ved omorganisering som kan gjennomføres med skattemessig kontinuitet etter skatteloven § 11-2 til § 11-5, § 11-11 og § 11-20, er fritatt for avgift.",
+      "Overføring av hjemmel til fast eiendom ved omdanning etter helseforetaksloven § 50 er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-21-paragraf-9",
+     "nummer": "§ 21-9",
+     "tittel": "Avgiftsfritak etter Finnmarksloven og veglova",
+     "ledd": [
+      "Overføring av hjemmel til fast eiendom etter Finnmarksloven § 45 andre ledd er fritatt for avgift.",
+      "Overføring av hjemmel til fast eiendom i forbindelse med overføring av vegmyndighet etter veglova er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-21-paragraf-10",
+     "nummer": "§ 21-10",
+     "tittel": "Avgiftsfritak for kommunal stiftelse",
+     "ledd": [
+      "Overføring av hjemmel til fast eiendom fra kommunal stiftelse til kommunen som opprettet stiftelsen, er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-21-paragraf-11",
+     "nummer": "§ 21-11",
+     "tittel": "Avgiftsfritak ved tvangssalg",
+     "ledd": [
+      "Overføring av hjemmel til fast eiendom til forrige hjemmelshaver eller dennes ektefelle etter tvangsfullbyrdelsesloven er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-21-paragraf-12",
+     "nummer": "§ 21-12",
+     "tittel": "Avgiftsfritak ved ugyldig avtale",
+     "ledd": [
+      "Overføring av hjemmel til fast eiendom på grunnlag av en avtale som var ugyldig på avtaletidspunktet, er fritatt for avgift. Overføring av eiendom tilbake til den opprinnelige eieren er også fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-21-paragraf-13",
+     "nummer": "§ 21-13",
+     "tittel": "Forholdet til forvaltningsloven",
+     "ledd": [
+      "Forvaltningsloven gjelder for dokumentavgiften.",
+      "Departementet kan gi forskrift som utfyller og fraviker reglene i forvaltningsloven, også om taushetsplikt, opplysningsplikt, kontroll, endring av fastsatt avgift og klageinstans."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-21-paragraf-14",
+     "nummer": "§ 21-14",
+     "tittel": "Betaling av avgift",
+     "ledd": [
+      "Departementet kan gi forskrift om betaling av dokumentavgift, også om renter og om bankers plikt til å avvise betalingsoppdrag med mangelfulle opplysninger."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-21-paragraf-15",
+     "nummer": "§ 21-15",
+     "tittel": "Tilleggsavgift",
+     "ledd": [
+      "Avgiftspliktig som forsettlig eller grovt uaktsomt gir uriktige eller ufullstendige opplysninger til skattemyndighetene, kan ilegges tilleggsavgift når de uriktige eller ufullstendige opplysningene kan føre til avgiftsfordeler.",
+      "Tilleggsavgiften beregnes inntil det dobbelte, i gjentakelsestilfelle inntil det firedobbelte, av den unndratte avgiften."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-21-paragraf-16",
+     "nummer": "§ 21-16",
+     "tittel": "Tvangsgrunnlag",
+     "ledd": [
+      "Krav på avgift og tilleggsavgift er tvangsgrunnlag for utlegg."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-21-paragraf-17",
+     "nummer": "§ 21-17",
+     "tittel": "Straff",
+     "ledd": [
+      "Den som unnlater å medvirke til kontroll, straffes med bot eller fengsel inntil to år."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-22",
+   "navn": "kap22",
+   "overskrift": "Kapittel 22 Engangsavgift på motorvogner mv.",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-22-paragraf-1",
+     "nummer": "§ 22-1",
+     "tittel": "Avgiftsplikt",
+     "ledd": [
+      "Det skal beregnes avgift for motorvogner som registreres i Kjøretøyregisteret for første gang. Avgiften skal beregnes når motorvognen registreres.",
+      "Det skal også beregnes avgift for motorvogner som skal registreres, men likevel brukes uten å være registrert.",
+      "Dersom en motorvogn etter registrering endres slik at det påvirker grunnlaget for avgiftsberegningen, skal det beregnes engangsavgift for endringen.",
+      "Det skal beregnes avgift dersom vilkår for avgiftsfritak ikke oppfylles."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-22-paragraf-2",
+     "nummer": "§ 22-2",
+     "tittel": "Avgiftspliktig",
+     "ledd": [
+      "Avgiften skal betales av den som melder motorvognen til registrering i Kjøretøyregisteret. Dersom det skal beregnes avgift før eller etter registrering, skal avgiften betales av den som eier motorvognen.",
+      "Departementet kan gi forskrift om at brukeren av motorvognen skal betale avgiften."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-22-paragraf-3",
+     "nummer": "§ 22-3",
+     "tittel": "Tilbakebetaling av avgift ved utførsel",
+     "ledd": [
+      "Vrakpantavgiften og en andel av engangsavgiften betales tilbake dersom motorvognen utføres fra særavgiftsområdet.",
+      "Departementet kan gi forskrift om beregning av og vilkår for tilbakebetaling av avgift ved utførsel."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-22-paragraf-4",
+     "nummer": "§ 22-4",
+     "tittel": "Avgiftsfritak for spesialkjøretøy mv.",
+     "ledd": [
+      "Ambulanser, brannbiler, lett pansrede motorvogner til offentlig bruk, begravelsesbiler, amatørbygde motorvogner og motorvogner registrert som lisensiert rallybil, trial- eller enduromotorsykkel er fritatt for engangsavgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-22-paragraf-5",
+     "nummer": "§ 22-5",
+     "tittel": "Avgiftsfritak for motorvogner til enkelte anvendelser",
+     "ledd": [
+      "Minibusser klasse 1 og 2 til transport av personer med funksjonsnedsettelse, snøskutere i ambulansetjeneste, motorsykler og snøskutere til bruk i reindriftsnæringen og drosjer tilpasset transport av rullestolbrukere er fritatt for engangsavgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-22-paragraf-6",
+     "nummer": "§ 22-6",
+     "tittel": "Avgiftsfritak for midlertidig bruk",
+     "ledd": [
+      "Motorvogner som innføres til særavgiftsområdet for midlertidig bruk, er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-22-paragraf-7",
+     "nummer": "§ 22-7",
+     "tittel": "Avgiftsfritak ved arv",
+     "ledd": [
+      "Arvede motorvogner som innføres til særavgiftsområdet, er fritatt for engangsavgift."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-23",
+   "navn": "kap23",
+   "overskrift": "Kapittel 23 Omregistreringsavgift",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-23-paragraf-1",
+     "nummer": "§ 23-1",
+     "tittel": "Avgiftsplikt",
+     "ledd": [
+      "Det skal beregnes avgift for kjøretøy som omregistreres på ny eier i Kjøretøyregisteret.",
+      "Avgiften skal beregnes når motorvognen omregistreres."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-23-paragraf-2",
+     "nummer": "§ 23-2",
+     "tittel": "Avgiftspliktig",
+     "ledd": [
+      "Avgiften skal betales av den som melder motorvognen til omregistrering i Kjøretøyregisteret."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-23-paragraf-3",
+     "nummer": "§ 23-3",
+     "tittel": "Avgiftsfritak for ektefelle",
+     "ledd": [
+      "Omregistrering av kjøretøy på ektefelle er fritatt for avgift. Fritaket gjelder også omregistrering av kjøretøy på ektefelle ved separasjon, skilsmisse og dødsfall."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-23-paragraf-4",
+     "nummer": "§ 23-4",
+     "tittel": "Avgiftsfritak ved arv",
+     "ledd": [
+      "Omregistrering av kjøretøy mellom foreldre og barn ved arv er fritatt for avgift. Fritaket gjelder ikke omregistrering av kjøretøy ved forskudd på arv."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-23-paragraf-5",
+     "nummer": "§ 23-5",
+     "tittel": "Avgiftsfritak ved omorganisering mv.",
+     "ledd": [
+      "Omregistrering av kjøretøy ved omorganisering som gjennomføres med lovfestet selskapsrettslig kontinuitet, eller kan gjennomføres med skattemessig kontinuitet etter skatteloven §§ 11-2 til 11-5, § 11-11 og § 11-20, er fritatt for avgift.",
+      "Omregistrering av kjøretøy ved omdanning etter helseforetaksloven § 50 er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-23-paragraf-6",
+     "nummer": "§ 23-6",
+     "tittel": "Avgiftsfritak ved kortvarig registrering",
+     "ledd": [
+      "Omregistrering av kjøretøy på ny eier innen to måneder er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-23-paragraf-7",
+     "nummer": "§ 23-7",
+     "tittel": "Avgiftsfritak ved heving mv.",
+     "ledd": [
+      "Omregistrering av kjøretøy i forbindelse med heving eller omlevering er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-23-paragraf-8",
+     "nummer": "§ 23-8",
+     "tittel": "Avgiftsfritak for eldre kjøretøy",
+     "ledd": [
+      "Omregistrering av kjøretøy som er 30 år eller eldre, er fritatt for avgift."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-24",
+   "navn": "kap24",
+   "overskrift": "Kapittel 24 Avgift på tunge kjøretøy",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-24-paragraf-1",
+     "nummer": "§ 24-1",
+     "tittel": "Avgiftsplikt",
+     "ledd": [
+      "Det skal beregnes vektgradert årsavgift for motorvogner og kombinasjoner av kjøretøy (vogntog) med tillatt totalvekt på minst 7 500 kg som er registrert i Kjøretøyregisteret. For kjøretøy med dieselmotor skal det i tillegg beregnes miljødifferensiert årsavgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-24-paragraf-2",
+     "nummer": "§ 24-2",
+     "tittel": "Avgiftspliktig",
+     "ledd": [
+      "Avgiften skal betales av den som er registrert som eier i Kjøretøyregisteret."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-24-paragraf-3",
+     "nummer": "§ 24-3",
+     "tittel": "Avgiftsfritak for traktorer mv.",
+     "ledd": [
+      "Traktorer, anleggskjøretøy og motorredskaper er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-24-paragraf-4",
+     "nummer": "§ 24-4",
+     "tittel": "Avgiftsfritak for eldre kjøretøy",
+     "ledd": [
+      "Kjøretøy som er 30 år eller eldre, er fritatt for avgift."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-25",
+   "navn": "kap25",
+   "overskrift": "Kapittel 25 Avgift på trafikkforsikringer",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-25-paragraf-1",
+     "nummer": "§ 25-1",
+     "tittel": "Avgiftsplikt",
+     "ledd": [
+      "Det skal beregnes avgift for trafikkforsikringer for motorvogner som er registrert i Kjøretøyregisteret, jf. bilansvarslova § 15, og for gebyrer for uforsikrede motorvogner som er mottatt av Trafikkforsikringsforeningen, jf. bilansvarslova § 17a.",
+      "Det skal ikke beregnes avgift for trafikkforsikringer og gebyrer som gjelder motorvogner som er avgiftspliktige etter § 24-1.",
+      "For trafikkforsikringer skal avgiften beregnes når forsikringsselskapets ansvar begynner å løpe. For gebyrer skal avgiften beregnes når Trafikkforsikringsforeningen har mottatt gebyret."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-25-paragraf-2",
+     "nummer": "§ 25-2",
+     "tittel": "Registrering i Særavgiftsregisteret",
+     "ledd": [
+      "Trafikkforsikringsforeningen og forsikringsselskaper som skal være medlem av Trafikkforsikringsforeningen, skal registreres i Særavgiftsregisteret. Forsikringsselskaper som ikke har forretningssted eller hjemsted i særavgiftsområdet, skal registreres ved representant."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-25-paragraf-3",
+     "nummer": "§ 25-3",
+     "tittel": "Avgiftspliktig",
+     "ledd": [
+      "Avgiften skal beregnes av den som er eller skal være registrert i Særavgiftsregisteret. Forsikringsselskaper som ikke har forretningssted eller hjemsted i særavgiftsområdet, og deres representanter, er solidarisk ansvarlige for avgiften."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-25-paragraf-4",
+     "nummer": "§ 25-4",
+     "tittel": "Avgiftsfritak for Svalbard",
+     "ledd": [
+      "Trafikkforsikringer og gebyrer som gjelder motorvogn som er registrert til bruk på Svalbard, er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-25-paragraf-5",
+     "nummer": "§ 25-5",
+     "tittel": "Avgiftsfritak for stjålet motorvogn",
+     "ledd": [
+      "Trafikkforsikringer og gebyrer som gjelder motorvogn som er stjålet, er fritatt for avgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-25-paragraf-6",
+     "nummer": "§ 25-6",
+     "tittel": "Avgiftsfritak for tapte krav",
+     "ledd": [
+      "Trafikkforsikringer er fritatt for avgift dersom kravet på forsikringspremie er endelig tapt."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-26",
+   "navn": "kap26",
+   "overskrift": "Kapittel 26 Sluttbestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-26-paragraf-1",
+     "nummer": "§ 26-1",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Loven trer i kraft fra det tidspunkt[1] Kongen bestemmer. Fra samme tidspunkt oppheves",
+      "a. lov 19. mai 1933 nr. 11 om særavgifter\nb. lov 19. juni 1959 nr. 2 om avgifter vedrørende motorkjøretøyer og båter\nc. lov 12. desember 1975 nr. 59 om dokumentavgift."
+     ],
+     "fotnoter": [
+      {
+       "nr": "1",
+       "tekst": "Fra 1. januar 2027 iflg. res. 30 okt 2026 nr. 2205."
+      }
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-26-paragraf-2",
+     "nummer": "§ 26-2",
+     "tittel": "Endringer i andre lover",
+     "ledd": [
+      "Fra det tidspunkt loven trer i kraft, gjøres følgende endringer i andre lover:",
+      "1. I lov 1. juli 1927 nr. 1 om registrering av elektriske kraftledninger [kraftledningsregisterloven] gjøres følgende endringer:\n§ 14 oppheves.",
+      "2. I lov 21. juni 1963 nr. 23 om vegar (veglova) gjøres følgende endringer:\n§ 52 andre ledd andre punktum skal lyde:\nDet skal ikkje betalast rettsgebyr etter tinglysingsloven § 12 b ved overføringa.",
+      "3. I lov 15. juni 2001 nr. 93 om helseforetak m.m. (helseforetaksloven) gjøres følgende endringer:\n§ 50 tredje ledd skal lyde:\nDet skal ikke betales rettsgebyr etter tinglysingsloven § 12 b i forbindelse med omdanninger i medhold av denne bestemmelsen.\n§ 52 nr. 8 oppheves.",
+      "4. I lov 17. juni 2005 nr. 85 om rettsforhold og forvaltning av grunn og naturressurser i Finnmark (Finnmarksloven) gjøres følgende endringer:\n§ 45 andre ledd skal lyde:\nFor rettigheter som er fastslått i en rettskraftig dom fra utmarksdomstolen eller i en erklæring eller avtale i samsvar med Finnmarkskommisjonens konklusjoner, er offentligrettslige begrensninger i adgangen til å stifte eller overdra slike rettigheter ikke til hinder for at rettigheten tinglyses. Det betales ikke gebyr ved tinglysingen.",
+      "5. I lov 17. juni 2005 nr. 67 om betaling og innkreving av skatte- og avgiftskrav (skattebetalingsloven) gjøres følgende endringer:\n§ 1-1 andre ledd bokstav h skal lyde:\nh. særavgifter etter særavgiftsloven, unntatt dokumentavgift\n§ 1-1 andre ledd bokstav i oppheves.\n§ 3-3 første ledd skal lyde:\n(1) Forvaltningsloven §§ 16, 24, 25 og 42 gjelder ikke for vedtak som treffes under avregningen.\n§ 3-3 tredje ledd oppheves.\n§ 3-3 gjeldende fjerde ledd blir nytt tredje ledd.\nGjeldende §§ 10-31 og 10-32 blir nye §§ 10-40 og 10-41.\nOverskriften til §§ 10-30, 10-31 og 10-32 skal lyde:\nMerverdiavgift, særavgifter og tollavgift\n§§ 10-30 til 10-32 skal lyde:\n§ 10-30. Merverdiavgift\n(1) Merverdiavgift forfaller til betaling samme dag som det skal leveres skattemelding etter skatteforvaltningsloven § 8-3 første og annet ledd.\n(2) Merverdiavgift for varer som innføres, forfaller til betaling samtidig som avgiften i henhold til tollavgiftsloven § 2-1 skal beregnes. Avgift som belastes kreditten ved innførsel, jf. § 14-20 første ledd, eller månedsoppgjørsordningen en kalendermåned, jf. § 14-20 andre ledd, forfaller til betaling den 18. i neste måned. Avgift som belastes dagsoppgjørsordningen, forfaller til betaling første virkedag etter frigjøring for prosedyren overgang til fri disponering. Skattekontoret kan fastsette en nærmere frist for når på forfallsdagen betaling av dagsoppgjør må ha skjedd.\n(3) Beløp som uriktig er oppgitt som merverdiavgift, jf. merverdiavgiftsloven § 11-4 annet ledd, forfaller til betaling samme dag som det skal leveres melding etter merverdiavgiftsloven § 15-11 annet ledd.\n(4) Departementet kan i forskrift gi regler om avvikende forfallstidspunkt for enkelte situasjoner.\n§ 10-31. Særavgifter\n(1) Særavgifter forfaller til betaling samme dag som det skal leveres skattemelding etter skatteforvaltningsloven § 8-4 første eller fjerde ledd.\n(2) Særavgifter for varer som innføres, forfaller til betaling etter reglene i § 10-30 annet ledd med mindre den avgiftspliktige er registrert i Særavgiftsregisteret.\n(3) Veibruksavgift på drivstoff ved bruk av merket mineralolje og merket biodiesel til formål som ikke er fritatt for avgift, jf. særavgiftsloven § 7-1 annet ledd, forfaller til betaling tre uker etter at avgiftskravet er sendt.\n(4) Engangsavgift på motorvogner mv. forfaller til betaling når kjøretøyet registreres for første gang i Kjøretøyregisteret. Dersom det benyttes kreditt, jf. § 14-21, forfaller avgiften til betaling den 18. i måneden etter registreringen. Engangsavgift som skal betales før eller etter første gangs registrering, forfaller til betaling samme dag som det skal leveres skattemelding etter skatteforvaltningsloven § 8-4 sjette ledd.\n(5) Omregistreringsavgift forfaller til betaling når kjøretøyet omregistreres i Kjøretøyregisteret.\n(6) Avgift på tunge kjøretøy som er registrert i Kjøretøyregisteret 1. januar, forfaller til betaling 20. februar. Avgift på tunge kjøretøy som er registrert i Kjøretøyregisteret 1. juli, forfaller til betaling 20. august.\n(7) Departementet kan i forskrift gi regler om forfallstidspunktene og avvikende forfallstidspunkt i enkelte situasjoner.\n§ 10-32. Tollavgift\nTollavgift forfaller til betaling etter reglene i § 10-30 annet ledd.\nOverskriften til §§ 10-40 og 10-41 skal lyde:\nArveavgift\n§ 11-2 syvende ledd skal lyde:\n(7) Dersom arveavgift i medhold av § 10-40 fjerde ledd blir betalt senere enn den forfallstid som følger av § 10-40 første og annet ledd, skal det betales rente av avgiftsbeløpet for tiden fra ordinært forfall og fram til endelig avgiftsfastsettelse skjer.\n§ 14-11 første og andre ledd skal lyde:\n(1) Dersom krav på avgift på tunge kjøretøy, engangsavgift på motorvogner mv. eller omregistreringsavgift ikke betales til rett tid, kan skattekontoret bestemme at bruken av det kjøretøy som kravene knytter seg til, skal stanses inntil avgiftene er betalt. Det samme gjelder dersom merket mineralolje og merket biodiesel brukes til formål som ikke er fritatt for avgift etter særavgiftsloven § 7-4 første og annet ledd.\n(2) Dersom krav som nevnt i første ledd ikke betales til rett tid, kan registreringsmyndigheten nekte på- eller omregistrering i Kjøretøyregisteret.\n§ 14-11 fjerde ledd andre punktum skal lyde:\nDette gjelder likevel ikke overfor personer som er ansvarlige for avgiften etter § 16-40 og særavgiftsloven § 7-3.\nOverskriften til § 14-20 skal lyde:\n§ 14-20. Kreditt for avgift ved innførsel\n§ 14-20 første ledd skal lyde:\n(1) Skattekontoret kan innvilge kreditt for merverdiavgift, særavgifter og tollavgift som oppstår ved innførsel.\n§ 14-20 fjerde ledd første punktum skal lyde:\nFor bruk av kreditt etter første ledd skal det betales en særskilt godtgjørelse til statskassen.\n§ 14-21 skal lyde:\n§ 14-21. Kreditt for engangsavgift\n(1) Skattekontoret kan innvilge kreditt for engangsavgift. Det er et vilkår for kreditt at virksomheten stiller sikkerhet for skyldig avgift. De nærmere kravene til sikkerheten, herunder sikkerhetens omfang, fastsettes av skattekontoret og kan senere endres.\n(2) Departementet kan i forskrift stille vilkår for kreditt, herunder krav til sikkerhetsstillelsen, samt gi regler om opphør av kreditt.\nNy § 14-22 skal lyde:\n§ 14-22. Sikkerhetsstillelse for særavgifter\n(1) Skattekontoret kan kreve at virksomheter som er registrert i Særavgiftsregisteret, stiller sikkerhet for fremtidig skyldig avgift. Krav om sikkerhetsstillelse kan stilles ved registreringen eller senere. De nærmere kravene til sikkerhet, herunder sikkerhetens omfang, fastsettes av skattekontoret i det enkelte tilfellet.\n(2) Departementet kan i forskrift sette nærmere vilkår for sikkerhetsstillelsen og angi hvilke momenter som skal vektlegges ved vurderingen av om sikkerhet skal kreves.\n§ 16-40 skal lyde:\n§ 16-40. Ansvar for erverver av motorvogn\nVed overdragelse av motorvogn og tilhenger til motorvogn er erverver ansvarlig for siste termin av avgift på tunge kjøretøy og for slik avgift som er påløpt etter utløpet av siste termin fram til overdragelsestidspunktet.\n§§ 16-41 og 16-42 oppheves.",
+      "6. I lov 29. juni 2007 nr. 73 om eiendomsmegling (eiendomsmeglingsloven) gjøres følgende endringer:\n§ 6-10 andre ledd skal lyde:\n(2) Oppdragstakere som bistår med oppgaver som nevnt i første ledd nr. 1, 2 eller 4 er etter særavgiftsloven kapittel 21, lov 6. juni 2003 nr. 39 om burettslag og lov 7. juni 1935 nr. 2 om tinglysing, ansvarlig for at avgifter, gebyrer og renter knyttet til tinglysing av skjøte og andre dokumenter som har sammenheng med salget, blir betalt.",
+      "7. I lov 19. juni 2009 nr. 58 om merverdiavgift (merverdiavgiftsloven) gjøres følgende endringer:\n§ 6-7 første ledd andre punktum skal lyde:\nFritaket omfatter også lastebiler, trekkbiler, varebiler, kombinerte biler, campingbiler, beltebiler og busser som har tillatt totalvekt på 7 500 kg eller mer.",
+      "8. I lov 27. mai 2016 nr. 14 om skatteforvaltning (skatteforvaltningsloven) gjøres følgende endringer:\n§ 1-1 bokstav h skal lyde:\nh. særavgifter etter særavgiftsloven, unntatt dokumentavgift (særavgifter)\n§ 1-1 bokstav i oppheves.\n§ 2-6 oppheves.\n§ 8-4 første ledd skal lyde:\n(1) Den som er eller skal være registrert i Særavgiftsregisteret, skal levere skattemelding med opplysninger om uttak fra virksomhetens registrerte lokale av avgiftspliktige varer, uttak av varer som er fritatt for avgift, innførte varer som ikke er lagt på registrert lokale, og andre opplysninger som har betydning for fastsetting av særavgifter.\n§ 8-4 andre ledd bokstav b skal lyde:\nb. registrerte importører av avgiftspliktige varer som skal brukes til råvarer, eller er til avgiftsfri bruk etter bestemmelsene i særavgiftsloven.\n§ 8-4 fjerde ledd nytt andre punktum skal lyde:\nPlikten til å levere skattemelding gjelder også den som bruker merket mineralolje og merket biodiesel til formål som ikke er fritatt for avgift etter særavgiftsloven § 7-5 første og andre ledd.\n§ 8-4 femte ledd skal lyde:\n(5) Skattepliktig som ikke er registrert i Særavgiftsregisteret, skal levere skattemelding med opplysninger som har betydning for fastsettingen av særavgift som oppstår ved innførsel.\n§ 8-4 sjette ledd skal lyde:\n(6) Den som er skattepliktig for engangsavgift på motorvogner mv., avgift på tunge kjøretøy og omregistreringsavgift, skal levere skattemelding med opplysninger om bruk eller endring av motorvognen og andre opplysninger som har betydning for fastsetting av avgiften. Dette gjelder likevel ikke når den skattepliktige har gitt riktige og fullstendige opplysninger til vegmyndighetene.\nGjeldende § 8-4 sjette ledd blir nytt syvende ledd.\n§ 8-5 oppheves.\n§ 9-1 første og andre ledd skal lyde:\n(1) Skattepliktige fastsetter grunnlaget for formues- og inntektsskatt, petroleumsskatt, merverdiavgift, arbeidsgiveravgift, finansskatt på lønn, svalbardskatt etter Svalbardskatteloven § 3-2, merverdiavgiftskompensasjon, suppleringsskatt og særavgifter unntatt dokumentavgift og avgiftene nevnt i annet ledd ved levering av skattemelding som nevnt i kapittel 8.\n(2) Skattemyndighetene fastsetter grunnlaget for engangsavgift på motorvogner mv., avgift på tunge kjøretøy og omregistreringsavgift.\n§ 9-2 første ledd skal lyde:\n(1) Skattepliktige beregner merverdiavgift, arbeidsgiveravgift, finansskatt på lønn, merverdiavgiftskompensasjon, suppleringsskatt og særavgifter unntatt dokumentavgift, engangsavgift på motorvogner mv., avgift på tunge kjøretøy og omregistreringsavgift av grunnlaget som er fastsatt etter § 9-1 første ledd.\n§ 9-4 første ledd første punktum skal lyde:\nSkattepliktige kan endre opplysninger i tidligere leverte skattemeldinger for formues- og inntektsskatt, svalbardskatt, petroleumsskatt, merverdiavgift, arbeidsgiveravgift, finansskatt på lønn og særavgifter unntatt dokumentavgift, engangsavgift på motorvogner mv., avgift på tunge kjøretøy og omregistreringsavgift ved levering av endringsmelding.\n§ 10-8 første ledd skal lyde:\n(1) Skattemyndighetene, tollmyndighetene, Statens vegvesen og politiet kan når som helst uten varsel kontrollere motorvogner for å påse at bestemmelsene om avgift på tunge kjøretøy og engangsavgift på motorvogner mv. og bruk av merket biodiesel og merket mineralolje blir overholdt."
+     ]
+    }
+   ]
+  }
+ ]
+}

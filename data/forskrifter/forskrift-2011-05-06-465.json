@@ -1,0 +1,146 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2011-05-06-465",
+ "dokumentid": "SF/forskrift/2011-05-06-465",
+ "departement": [
+  "Arbeids- og inkluderingsdepartementet"
+ ],
+ "etat": [
+  "Pensjonsavdelingen"
+ ],
+ "kunngjort_i": "I 2011 hefte 5",
+ "ikraft": "2011-05-01",
+ "siste_endring_ikraft": "2022-04-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2022-04-01-501",
+   "tekst": "forskrift/2022-04-01-501"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1997-02-28-19/§1-4",
+   "tekst": "lov/1997-02-28-19/§1-4"
+  },
+  {
+   "ref": "lov/1997-02-28-19/§19-14",
+   "tekst": "lov/1997-02-28-19/§19-14"
+  },
+  {
+   "ref": "lov/1997-02-28-19/§20-18",
+   "tekst": "lov/1997-02-28-19/§20-18"
+  }
+ ],
+ "kunngjort": "2011-05-10 14:40",
+ "siste_rettelse": "2021-05-03 (tegnsetting i lister tilpasset universell utforming)",
+ "korttittel": "Forskrift om beregning av lønnsveksten",
+ "tittel": "Forskrift om beregning av lønnsveksten som skal benyttes ved regulering av grunnbeløpet og alderspensjon i folketrygden",
+ "annet": "Hjemmel: Fastsatt ved kgl.res. 6. mai 2011 med hjemmel i lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven) § 1-4, § 4-4 femte ledd, § 19-14 og § 20-18. Fremmet av Arbeidsdepartementet.\nEndret ved forskrifter 11 mai 2012 nr. 414, 5 des 2014 nr. 1513, 4 sep 2020 nr. 1718, 30 april 2021 nr. 1322, 19 nov 2021 nr. 3225 (med virkning fra 1 mai 2021), 1 april 2022 nr. 501.\nRettelser: 03.05.2021 (tegnsetting i lister tilpasset universell utforming).",
+ "refid": "forskrift/2011-05-06-465",
+ "eli": "/eli/forskrift/2011/05/06/465",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2011-05-06-465",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Virkeområde",
+   "ledd": [
+    "Forskriften inneholder nærmere bestemmelser om beregning av lønnsveksten som skal benyttes ved reguleringen av\na. grunnbeløpet etter folketrygdloven § 1-4 første ledd,\nb. restpensjon etter folketrygdloven § 19-14 første ledd,\nc. pensjon under utbetaling etter folketrygdloven § 19-14 andre ledd,\nd. satsene for minste pensjonsnivå etter folketrygdloven § 19-14 tredje ledd,\ne. pensjonsbeholdning etter folketrygdloven § 20-18 første ledd,\nf. pensjon under utbetaling etter folketrygdloven § 20-18 andre ledd og\ng. satsene for garantipensjon etter folketrygdloven § 20-18 tredje ledd."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Lønnsvekst i reguleringsåret og avvik mellom forventet og faktisk lønnsutvikling siste to år",
+   "ledd": [
+    "Til grunn for reguleringen legges forventet lønnsutvikling i reguleringsåret, justert for eventuelt avvik mellom forventet og faktisk lønnsutvikling siste to år.",
+    "Forventet lønnsutvikling i reguleringsåret settes lik regjeringens anslag for veksten i gjennomsnittlig årslønn for alle sektorer slik det framkommer i revidert nasjonalbudsjett.",
+    "Faktisk lønnsutvikling for siste to år settes til veksten i gjennomsnittlig årslønn for lønnstakere under ett ifølge nasjonalregnskapet fra Statistisk sentralbyrå.",
+    "Det skal vurderes om det foreligger særlige forhold som har påvirket lønnsutviklingen for enkeltgrupper, og om effekten av dette skal holdes utenfor ved beregningen av lønnsveksten."
+   ],
+   "endringer": [
+    "Endret ved forskrifter 11 mai 2012 nr. 414 (i kraft straks med virkning fra 1 mai 2012), 1 april 2022 nr. 501."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 2a",
+   "tittel": "Særskilt om fastsettelse av forventet lønnsutvikling for 2020",
+   "ledd": [
+    "Forventet lønnsutvikling for 2020 settes til 1,7 prosent."
+   ],
+   "endringer": [
+    "Tilføyd ved forskrift 4 sep 2020 nr. 1718."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 3",
+   "tittel": "Beregning av lønnsveksten som skal benyttes ved reguleringen",
+   "ledd": [
+    "Dersom den faktiske lønnsveksten er høyere eller lavere enn forventet lønnsvekst siste to år (avvik), skal det fastsettes en samlet lønnsvekst for forventet lønnsutvikling, justert for avviket. Ved fastsettelsen av den samlede prosentvise årslønnsveksten (sl) skal det først tas hensyn til avvikene ( a1 og a2) i prosentpoeng og deretter til den forventede prosentvise lønnsvekst (f) i inneværende år: sl = ((1 + a1/100) x (1 + a2/100) x (1 + f/100) – 1) x 100.",
+    "Samlet årslønnsvekst, avvik og forventet lønnsvekst fastsettes i prosent med to desimaler.",
+    "Nytt grunnbeløp fra 1. mai settes slik at den prosentvise veksten i det gjennomsnittlige grunnbeløpet fra forrige kalenderår til inneværende kalenderår blir lik samlet årslønnsvekst.",
+    "Med lønnsveksten etter § 1 menes den prosentvise økningen i grunnbeløpet fra april til mai i inneværende år som følger av beregningen omtalt ovenfor. Lønnsveksten fastsettes med to desimaler."
+   ],
+   "endringer": [
+    "Endret ved forskrift 11 mai 2012 nr. 414 (i kraft straks med virkning fra 1 mai 2012)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 3a",
+   "tittel": "Lønnsvekst som skal benyttes ved reguleringen i 2021",
+   "ledd": [
+    "Lønnsveksten som skal benyttes ved regulering av folketrygdens alderspensjon under utbetaling etter § 19-14 andre ledd og § 20-18 andre ledd i 2021, fastsettes slik at pensjonene ved regulering får en vekst tilsvarende det som er nødvendig for at årsveksten blir lik årsveksten i grunnbeløpet. Lønnsveksten som skal benyttes ved regulering av minsteytelsene etter § 19-14 tredje ledd og § 20-18 tredje ledd i 2021, fastsettes slik at reguleringen fra 1. mai 2021 blir lik reguleringen fra 1. mai 2021 etter første punktum.",
+    "Første ledd gjelder også ytelser fra lovfestede offentlige tjenestepensjonsordninger som reguleres med et fast fratrekk med 0,75 prosent. Det samme gjelder ytelser som reguleres med et fast fratrekk med 0,75 prosent etter lov 16. desember 2011 nr. 60 om pensjonsordning for stortingsrepresentanter og regjeringsmedlemmer, lov 13. desember 1946 nr. 21 om krigspensjonering for militærpersoner, lov om 13. desember 1946 nr. 22 krigspensjonering for hjemmestyrkepersonell og sivilpersoner, lov 12. desember 1958 nr. 10 om yrkesskadetrygd og forskrift 23. august 2013 nr. 1006 om pensjonsordning for sametingsrepresentanter."
+   ],
+   "endringer": [
+    "Tilføyd ved forskrift 30 april 2021 nr. 1322, endret ved forskrift 19 nov 2021 nr. 3225 (med virkning fra 1 mai 2021)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 4",
+   "tittel": "Prisvekst i reguleringsåret og avvik mellom forventet og faktisk prisvekst året før reguleringsåret",
+   "ledd": [
+    "Til grunn for reguleringen legges forventet prisvekst i reguleringsåret justert for eventuelle avvik mellom forventet og faktisk prisvekst året før reguleringsåret. Forventet prisvekst settes lik anslaget i konsumprisene slik det framkommer i revidert nasjonalbudsjett. Faktisk prisvekst for året før reguleringsåret settes lik veksten i konsumprisindeksen (KPI) fastsatt av Statistisk sentralbyrå."
+   ],
+   "endringer": [
+    "Tilføyd ved forskrift 1 april 2022 nr. 501."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 5",
+   "tittel": "Drøfting med organisasjonene",
+   "ledd": [
+    "Før fastsetting av lønnsveksten som skal benyttes i reguleringen av grunnbeløpet og alderspensjonen, skal tallgrunnlaget som beskrevet i § 2 drøftes med pensjonistenes, de funksjonshemmedes og arbeidstakernes organisasjoner. Med pensjonistenes organisasjoner menes organisasjoner som får statstilskudd etter forskrift 31. oktober 2012 nr. 1016 om tilskudd til pensjonistenes organisasjoner."
+   ],
+   "endringer": [
+    "Endret ved forskrifter 5 des 2014 nr. 1513, 1 april 2022 nr. 501 (tidligere § 4)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-8",
+   "nummer": "§ 6",
+   "tittel": "Ikraftsetting",
+   "ledd": [
+    "Forskriften trer i kraft 1. mai 2011."
+   ],
+   "endringer": [
+    "Endret ved forskrift 1 april 2022 nr. 501 (tidligere § 5)."
+   ]
+  }
+ ]
+}

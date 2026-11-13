@@ -1,0 +1,88 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2018-12-05-1807",
+ "dokumentid": "SF/forskrift/2018-12-05-1807",
+ "departement": [
+  "Samferdselsdepartementet"
+ ],
+ "etat": [
+  "Luftfartstilsynet"
+ ],
+ "ikraft": "2019-01-01",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1993-06-11-101/§9-1",
+   "tekst": "lov/1993-06-11-101/§9-1"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§9-1a",
+   "tekst": "lov/1993-06-11-101/§9-1a"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§15-4",
+   "tekst": "lov/1993-06-11-101/§15-4"
+  },
+  {
+   "ref": "forskrift/1999-12-10-1273",
+   "tekst": "forskrift/1999-12-10-1273"
+  }
+ ],
+ "kunngjort": "2018-12-06 13:40",
+ "korttittel": "Forskrift om opprettelse av permanente restriksjonsområder over åtte fengsler",
+ "tittel": "Forskrift om opprettelse av permanente restriksjonsområder over åtte fengsler",
+ "annet": "Hjemmel: Fastsatt av Luftfartstilsynet 5. desember 2018 med hjemmel i lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven) § 9-1, § 9-1a og § 15-4, jf. delegeringsvedtak 10. desember 1999 nr. 1273.",
+ "refid": "forskrift/2018-12-05-1807",
+ "eli": "/eli/forskrift/2018/12/05/1807",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2018-12-05-1807",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Formål",
+   "ledd": [
+    "Formålet med forskriften er å opprette åtte permanente restriksjonsområder over åtte fengsler for å ivareta viktige samfunnsmessige interesser."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Stedlig virkeområde",
+   "ledd": [
+    "Horisontal utstrekning for restriksjonsområdene er begrenset av sirkler, definert med et senterpunkt angitt med koordinater oppgitt i grader, minutter og sekunder i WGS84, med en radius på 0,5 nautiske mil rundt:\na. EN R205 Bergen fengsel (603000.1584N-0052221.1548E)\nVertikal utstrekning fra bakken/vannet og opp til 1000 fot AMSL (Above Mean Sea Level).\nb. EN R104 Halden fengsel (590826.1816N-0111713.8444E)\nVertikal utstrekning fra bakken/vannet og opp til 1000 fot AMSL.\nc. EN R105 Ila fengsel (595715.7212N-0103457.5652E)\nVertikal utstrekning fra bakken/vannet og opp til 1500 fot AMSL.\nd. EN R106 Ringerike fengsel (600418.9228N-0100538.5584E)\nVertikal utstrekning fra bakken/vannet og opp til 1500 fot AMSL.\ne. EN R206 Stavanger fengsel (585937.3092N-0053924.8328E)\nVertikal utstrekning fra bakken/vannet og opp til 1000 fot AMSL.\nf. EN R107 Telemark fengsel, Skien avdeling (591003.5544N-0093614.1264E)\nVertikal utstrekning fra bakken/vannet og opp til 1500 fot AMSL.\ng. EN R404 Trondheim fengsel (632518.1452N-0102835.1948E)\nVertikal utstrekning fra bakken/vannet og opp til 1500 fot AMSL.\nh. EN R108 Ullersmo fengsel (600413.4688N-0110837.1256E)\nVertikal utstrekning fra bakken/vannet og opp til 1500 fot AMSL."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Luftromsrestriksjoner",
+   "ledd": [
+    "All flyging i restriksjonsområdene er forbudt. Restriksjonene gjelder all luftfart inkludert ubemannet luftfartøy og modellfly. Fengselsledelsen eller Luftfartstilsynet kan gi særskilt tillatelse til flyging.",
+    "Forbudet gjelder ikke flyging i forbindelse med militær-, politi-, ambulanse-, søke- og redningsoppdrag eller øvelser på slike oppdrag. I slike tilfeller skal Kriminalomsorgsdirektoratet eller fengselsledelsen være orientert på forhånd, eller så snart som mulig etter at oppdraget er påbegynt.",
+    "Forbudet gjelder heller ikke flyging etter Avtalen om det åpne luftrom."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Overtredelsesgebyr",
+   "ledd": [
+    "Luftfartstilsynet kan gi pålegg om et overtredelsesgebyr etter luftfartsloven § 13a-5 nr. 6, for overtredelse av luftromsrestriksjonene i § 2 og § 3."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Ikrafttredelse og opphør",
+   "ledd": [
+    "Forskriften trer i kraft 1. januar 2019."
+   ]
+  }
+ ]
+}

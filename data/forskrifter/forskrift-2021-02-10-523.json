@@ -1,0 +1,2238 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2021-02-10-523",
+ "dokumentid": "SF/forskrift/2021-02-10-523",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "etat": [
+  "Avdeling for maritim politikk og kystutvikling, Kystverket"
+ ],
+ "ikraft": "2021-04-01",
+ "siste_endring_ikraft": "2026-07-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2026-06-29-1454",
+   "tekst": "forskrift/2026-06-29-1454 fra 2026-07-01"
+  }
+ ],
+ "endrer": "forskrift/2015-09-23-1094",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2019-06-21-70/§2",
+   "tekst": "lov/2019-06-21-70/§2"
+  },
+  {
+   "ref": "lov/2019-06-21-70/§7",
+   "tekst": "lov/2019-06-21-70/§7"
+  },
+  {
+   "ref": "lov/2019-06-21-70/§11",
+   "tekst": "lov/2019-06-21-70/§11"
+  },
+  {
+   "ref": "lov/2019-06-21-70/§13",
+   "tekst": "lov/2019-06-21-70/§13"
+  },
+  {
+   "ref": "forskrift/2010-12-17-1607",
+   "tekst": "forskrift/2010-12-17-1607"
+  },
+  {
+   "ref": "forskrift/2021-03-26-1180",
+   "tekst": "forskrift/2021-03-26-1180"
+  }
+ ],
+ "kunngjort": "2021-02-24 15:45",
+ "korttittel": "Sjøtrafikkforskriften",
+ "tittel": "Forskrift om bruk av sjøtrafikksentralenes tjenesteområde og bruk av bestemte farvann (sjøtrafikkforskriften)",
+ "annet": "Hjemmel: Fastsatt av Samferdselsdepartementet 10. februar 2021 med hjemmel i lov 21. juni 2019 nr. 70 om havner og farvann (havne- og farvannsloven) § 2, § 7, § 11 og § 13, jf. forskrift 17. desember 2010 nr. 1607 om utvidelse av det geografiske virkeområdet for lov 17. april 2009 nr. 19 om havner og farvann.\nTilføyd hjemmel: Delegeringsvedtak 26. mars 2021 nr. 1180.\nEndret ved forskrifter 5 mars 2021 nr. 634, 31 mai 2021 nr. 1740 (i kraft 1 juni 2021), 20 des 2021 nr. 3776 (i kraft 1 jan 2022), 6 okt 2022 nr. 1734 (i kraft 1 nov 2022), 30 jan 2023 nr. 113 (i kraft 1 feb 2023), 29 okt 2025 nr. 2159 (i kraft 1 jan 2026, endringen endret ved forskrift 28 nov 2025 nr. 2403), 29 juni 2026 nr. 1454 (i kraft 1 juli 2026).",
+ "refid": "forskrift/2021-02-10-523",
+ "eli": "/eli/forskrift/2021/02/10/523",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2021-02-10-523",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "(definisjoner)",
+     "ledd": [
+      "I denne forskriften forstås med\na. særlig farlig eller forurensende last:\n- last som nevnt i den internasjonale koden for bygging og utrustning av skip som frakter flytende gasser i bulk (IGC-koden) kapittel 19, med unntak av laster som kun krever skipstype 3G\n- laster i forurensningskategori X, jf. den internasjonale konvensjon om hindring av forurensning fra skip, 1973, slik den er endret ved tilleggsprotokollen av 1978 (MARPOL) bilag 2. Dette gjelder også last som foreløpig er kategorisert som slikt stoff\n- last som krever skipstype 1 eller 2, jf. den internasjonale kjemikaliekoden for bygging og utrustning av skip som frakter skadelige kjemikalier i bulk (IBC-koden) kapittel 17 eller den internasjonale koden for transport av fast bulklast (IMSBC-koden)\nb. farlig eller forurensende last:\n- last definert som særlig farlig eller forurensende under bokstav a, så langt det ikke er strengere regler for disse\n- oljelaster som nevnt i MARPOL bilag 1. Dette gjelder også last som foreløpig er kategorisert som slikt stoff\n- laster som krever skipstype 3, jf. IBC-koden eller BC-koden\n- væsker med flammepunkt under 23 grader celsius\nc. rutefart: en rekke seilaser mellom de samme to eller flere havner, enten i henhold til en offentliggjort tidtabell eller med en slik regelmessighet eller hyppighet at seilasene fremstår som en systematisk rekke med seilaser\nd. gjennomseiling: at fartøyet ikke anløper kai, fortøyningsplass eller ankrer i farvannet\ne. posisjonsangivelser: posisjonsangivelser er oppgitt i World Geodetic System 1984 (WGS-84)\nf. dagslys: solsenteret er høyere enn seks grader under horisonten\ng. eskortefartøy: en taubåt med klassenotifikasjon som eskortefartøy\nh. trafikkseparasjonssystem: et geografisk avgrenset område i sjøen bestående av trafikkfelt for motsatte trafikkstrømmer, atskilt av en separasjonssone\ni. toveis farled: et geografisk avgrenset område i sjøen etablert for toveis trafikk\nj. passere: at et fartøy seiler forbi et annet fartøy det møter eller innhenter.\nk. lengde: fartøyets største lengde (LOA)"
+     ],
+     "endringer": [
+      "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "(dispensasjon)",
+     "ledd": [
+      "Kystverket kan, etter søknad fra skipsføreren, gi dispensasjon fra bestemmelsene i forskriftens kapittel 3 når særlige grunner taler for det og det er sikkerhetsmessig forsvarlig."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "(unntak fra forvaltningsloven)",
+     "ledd": [
+      "Forvaltningsloven § 24 om begrunnelse og § 28 om klage gjelder ikke enkeltvedtak som treffes av sjøtrafikksentralene dersom enkeltvedtaket ikke er særskilt byrdefullt eller inngripende. Unntaket gjelder ikke enkeltvedtak om at fartøy skal bruke taubåt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 4",
+     "tittel": "(forholdet til kommunale forskrifter etter havne- og farvannsloven § 8)",
+     "ledd": [
+      "Bestemmelsene i denne forskriften går foran bestemmelser i kommunale forskrifter om ferdsel med fritidsfartøy etter havne- og farvannsloven § 8."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-5",
+     "nummer": "§ 5",
+     "tittel": "(nasjonal koordinator for navigasjonsvarsler)",
+     "ledd": [
+      "Melding om farer av betydning for sikker navigasjon eller ferdsel skal gis til Kystverket, som er nasjonal koordinator for navigasjonsvarsler."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Bruk av farvann i sjøtrafikksentralenes tjenesteområde",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 6",
+     "tittel": "(tjenesteområder)",
+     "ledd": [
+      "Sjøtrafikksentralenes tjenesteområder er definert i Kystverkets digitale kart «Kystinfo», som er en del av forskriften:\na. Horten tjenesteområde\nb. Brevik tjenesteområde\nc. Kvitsøy tjenesteområde\nd. Fedje tjenesteområde\ne. Kinn tjenesteområde\nf. Melkøya tjenesteområde."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 5 mars 2021 nr. 634, 31 mai 2021 nr. 1740 (i kraft 1 juni 2021)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 7",
+     "tittel": "(saklig virkeområde)",
+     "ledd": [
+      "Bestemmelsene i dette kapittelet gjelder følgende fartøy:\na. fartøy med største lengde 24 meter eller mer\nb. fartøy som skyver et fartøy og fartøy som blir skjøvet, der total lengde er 24 meter eller mer\nc. fartøy som sleper en gjenstand med lengde på 24 meter eller mer\nd. fartøy som sleper en gjenstand eller gjenstander der total lengde av fartøyet og gjenstandene er 35 meter eller mer\ne. fartøy som sleper en gjenstand eller gjenstander der total bredde av fartøyet og gjenstandene er 24 meter eller mer\nf. fartøy med særlig farlig eller forurensende last.",
+      "Bestemmelsene i § 8 og § 12 gjelder også for fiske- og fangstfartøy når de driver ervervsmessig fiske, fangst eller tang- og taretråling. Bestemmelsen i § 9 kommer tilsvarende til anvendelsene når disse fartøyene utøver ervervsmessig fiske, fangst eller tang- og taretråling i trafikkseparasjonssystem."
+     ],
+     "endringer": [
+      "Endret ved forskrift 5 mars 2021 nr. 634."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 8",
+     "tittel": "(kommunikasjon i tjenesteområdet)",
+     "ledd": [
+      "Kommunikasjon mellom sjøtrafikksentralen og fartøy skal skje på sjøtrafikksentralens VHF-kanaler.",
+      "Kommunikasjon mellom fartøy angående passering eller annen koordinering av seilasen skal skje på sjøtrafikksentralenes VHF-kanaler.",
+      "Skipsføreren eller den som fører kommandoen i skipsførerens sted må kunne kommunisere på skandinavisk eller engelsk dersom fartøyet ikke bruker los.",
+      "Fartøy under militær kommando kan kommunisere med sjøtrafikksentralen med mobiltelefon når dette er nødvendig."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 9",
+     "tittel": "(krav om tillatelse)",
+     "ledd": [
+      "Bruk av tjenesteområdet krever tillatelse fra sjøtrafikksentralen. Fartøy som sleper eller skyver et fartøy som har tillatelse til bruk av tjenesteområdet, trenger ikke egen tillatelse.",
+      "Ved bruk av Melkøya tjenesteområde gjelder krav om tillatelse kun for fartøy med farlig eller forurensende last og for fartøy med lengde over 150 meter.",
+      "Ved bruk av Kvitsøy tjenesteområde gjelder krav om tillatelse ikke for fartøy under 100 meters lengde når fartøyet kun bruker farvannet øst for en linje fra Toftøy lykt–Storholmen lanterne–Plentinggrunnen lanterne-linje rett sør til land på Ryfylkekaien. Unntaket gjelder ikke for fartøy som skal bruke farvannet innenfor en rett linje mellom Vardneset lanterne og Holeneset (59° 20,28′ N 006° 01,31′ Ø)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 10",
+     "tittel": "(krav til søknad om tillatelse)",
+     "ledd": [
+      "Søknad skal fremsettes på sjøtrafikksentralens VHF-kanaler eller ved bruk av SafeSeaNet Norway før innseiling i tjenesteområdet eller avgang fra kai eller ankringsplass, og skal inneholde fartøyets internasjonale kjenningssignal, navn og planlagt seilingsrute.",
+      "Søknad fra fartøy med større lengde enn 100 meter eller fra fartøy med farlig eller forurensende last skal fremsettes minst en time før antatt avgang fra havn, fortøyningsplass eller ankringsområde. Slik søknad kan fremsettes på telefon.",
+      "Annet ledd gjelder ikke for passasjerfartøy i rutefart."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-6",
+     "nummer": "§ 11",
+     "tittel": "(vilkår for tillatelse)",
+     "ledd": [
+      "Når det er nødvendig for å sikre trygg ferdsel og forsvarlig bruk av farvannet, kan det stilles vilkår til en tillatelse, herunder:\na. at seilas skal gjennomføres på angitt tidspunkt\nb. at spesifikk rute skal følges\nc. at andre fartøy skal passeres i angitt rekkefølge\nd. at angitt avstand til andre fartøy skal holdes\ne. at taubåt skal brukes\nf. at maskineri skal være klargjort ved ankring\ng. at ankerplass skal forlates ved varsel om sterk vind."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-7",
+     "nummer": "§ 12",
+     "tittel": "(lytte- og opplysningsplikt)",
+     "ledd": [
+      "Fartøy som bruker sjøtrafikksentralens tjenesteområde har lytteplikt på sjøtrafikksentralens VHF-kanaler.",
+      "Fartøy som bruker sjøtrafikksentralens tjenesteområde skal gi opplysninger til sjøtrafikksentralen om forhold som kan ha betydning for trygg ferdsel og effektiv trafikkavvikling, herunder at fartøyet går fra kai eller ankerplass eller foretar endringer i planlagt seilas."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Seilingsregler i bestemte farvann",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 13",
+     "tittel": "(geografisk virkeområde)",
+     "ledd": [
+      "Kapittel 3 gjelder i de bestemte farvann som er angitt i kapitlet."
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-1",
+     "navn": "kapI",
+     "overskrift": "I Seilingsregler for Oslofjorden i Oslo, Akershus, Buskerud, Vestfold og Østfold",
+     "innhold": [
+      {
+       "type": "endring",
+       "tekst": "Endret ved forskrift 29 okt 2025 nr. 2159 (i kraft 1 jan 2026)."
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-1",
+       "nummer": "§ 14",
+       "tittel": "(krav om bruk av trafikkseparasjonssystem i Oslofjorden)",
+       "ledd": [
+        "Fartøy med lengde 24 meter eller mer skal benytte de trafikkseparasjonssystem som er beskrevet i Kystverkets digitale kart «Kystinfo», som er en del av forskriften."
+       ],
+       "endringer": [
+        "Endret ved forskrift 20 des 2021 nr. 3776 (i kraft 1 jan 2022)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-2",
+       "nummer": "§ 15",
+       "tittel": "(forbud mot bruk av farvannet på strekningen Singlefjorden–Svinesund–Ringdalsfjorden)",
+       "ledd": [
+        "Fartøy med større lengde enn 160 meter, større bredde enn 20 meter eller større dypgående enn 7,3 meter skal ikke bruke farvannet øst for Sponvikskansen lykt."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-3",
+       "nummer": "§ 16",
+       "tittel": "(krav om seilas i dagslys på strekningen Singlefjorden–Svinesund–Ringdalsfjorden)",
+       "ledd": [
+        "Fartøy med større lengde enn 125 meter, større bredde enn 19 meter eller større dypgående enn 6,5 meter skal kun bruke farvannet øst for Sponvikskansen lykt i dagslys."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-4",
+       "nummer": "§ 17",
+       "tittel": "(krav om siktforhold på strekningen Singlefjorden–Svinesund–Ringdalsfjorden)",
+       "ledd": [
+        "Fartøy med større lengde enn 80 meter, større bredde enn 15 meter, større dypgående enn 5 meter eller fartøy med særlig farlig eller forurensende last skal ikke bruke farvannet øst for Sponvikskansen lykt når sikten er under 0,5 nautisk mil."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-5",
+       "nummer": "§ 18",
+       "tittel": "(forbud mot passering på strekningen Singlefjorden–Svinesund – Ringdalsfjorden)",
+       "ledd": [
+        "Fartøy med større lengde enn 24 meter skal ikke passere andre fartøy i farvannet mellom Sponvikskansen lykt og Kråkenebbet lanterne, og i sundet sør av Knivsøyholmen lykt.",
+        "I de tilfeller som nevnt i første ledd, skal et fartøy holde en avstand på minst 0,5 nautisk mil til fartøy som seiler i samme retning."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-6",
+       "nummer": "§ 19",
+       "tittel": "(forbud mot passering i Løperen, Østerelva og Glomma)",
+       "ledd": [
+        "I farvannet innenfor en rett linje trukket fra sydpynten av Vikertangen via Vidgrunnen lanterne til Rødshuet skal fartøy med større lengde enn 24 meter kun passere andre fartøy i områdene:\na. Kvernskjærgrunnen lykt–Lubbegrunnen lykt\nb. ved Løperungen lykt, når fartøyene seiler på hver sin side av Løperungen\nc. ved Vestre Fugleskjærgrunnen lykt, når fartøyene seiler på hver sin side av Vestre Fugleskjærgrunnen\nd. Vestre Fugleskjærgrunnen lykt–Belgen lanterne\ne. i farvannet mellom Kallera lykt i sør og Møllerodden lanterne i nord\nf. i Glomma, nord for Fredrikstad bro til Tangen og fra Greåker til Vestenodden lanterne.",
+        "I de tilfeller som nevnt i første ledd, skal et fartøy holde en avstand på minst 0,5 nautisk mil til fartøy som seiler i samme retning."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-7",
+       "nummer": "§ 20",
+       "tittel": "(forbud mot bruk av farvannet i Løperen og Østerelva)",
+       "ledd": [
+        "Fartøy med større dypgående enn 10,5 meter skal ikke bruke farvannet på strekningen mellom Vidgrunnen lanterne i sør og Flyndregrunnen lanterne i nord."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-8",
+       "nummer": "§ 21",
+       "tittel": "(forbud mot bruk av farvannet i Østerelva)",
+       "ledd": [
+        "Fartøy med større dypgående enn 9,2 meter skal ikke bruke farvannet ved Titanbrygga nord av 59° 11,15′ N.",
+        "Sjøtrafikksentralen kan, når det er tilstrekkelig høy vannstand og sikkerhetsmessig forsvarlig, gi tillatelse til at fartøy med dypgående inntil 9,9 meter kan bruke farvannet nord av Titanbrygga."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-9",
+       "nummer": "§ 22",
+       "tittel": "(krav om siktforhold i Løperen og Østerelva)",
+       "ledd": [
+        "Fartøy med særlig farlig eller forurensende last og fartøy med større lengde enn 125 meter eller større dypgående enn 7 meter skal ikke bruke farvannet nord for Vidgrunnen lanterne når sikten er under 1 nautisk mil."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-10",
+       "nummer": "§ 23",
+       "tittel": "(krav om seilas i dagslys i Løperen og Østerelva)",
+       "ledd": [
+        "Fartøy med større lengde enn 170 meter eller større dypgående enn 9 meter skal kun bruke farvannet nord for Vidgrunnen lanterne i dagslys."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-11",
+       "nummer": "§ 24",
+       "tittel": "(forbud mot bruk av farvannet i Østerelva og Glomma)",
+       "ledd": [
+        "Fartøy med større lengde enn 150 meter skal ikke bruke farvannet nord for Møllerodden lanterne."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-12",
+       "nummer": "§ 25",
+       "tittel": "(krav om siktforhold i farvannet i Østerelva og Glomma)",
+       "ledd": [
+        "Fartøy med særlig farlig eller forurensende last og fartøy med større lengde enn 80 meter skal ikke bruke farvannet nord for Møllerodden lanterne når sikten er under 0,5 nautisk mil."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-13",
+       "nummer": "§ 26",
+       "tittel": "(krav om seilas i dagslys i Østerelva og Glomma)",
+       "ledd": [
+        "Fartøy med større lengde enn 135 meter, større dypgående enn 7 meter eller med særlig farlig eller forurensende last skal kun bruke farvannet nord for Møllerodden lanterne i dagslys.",
+        "Ved beregning av fartøyets dypgående skal det legges til grunn at det er ferskvann."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-14",
+       "nummer": "§ 27",
+       "tittel": "(forbud mot bruk av farvannet ved Melløs)",
+       "ledd": [
+        "Fartøy med større lengde enn 100 meter eller større dypgående enn 5,65 meter skal ikke bruke farvannet ved Berggrenodden nord for Spinnerodden lanterne (59° 16,17′ N 011° 05,35′ Ø).",
+        "Fartøy med større dypgående enn 4,6 meter skal ikke bruke farvannet ved Melløs sør av en rett linje trukket fra lykt under Sannesund bro (59° 16,23′ N 011° 05,74′ Ø) og Tømmerkaia (59° 16,19′ N 011° 06,02′ Ø).",
+        "Når vannstanden er under null ved Borg havnevesens vannstandsmåler reduseres tillatt dypgående med antall centimeter som vannstanden er under 0. Ved beregning av fartøyets dypgående skal det legges til grunn at det er ferskvann."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-15",
+       "nummer": "§ 28",
+       "tittel": "(krav om siktforhold ved Melløs)",
+       "ledd": [
+        "Fartøy med større lengde enn 24 meter skal ikke bruke farvannet nord for Berggrenodden (59° 16,17′ N 011° 05,35′ Ø) når sikten er under 0,5 nautisk mil."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-16",
+       "nummer": "§ 29",
+       "tittel": "(krav om bruk av taubåt ved Melløs)",
+       "ledd": [
+        "Fartøy med større lengde enn 24 meter skal ha taubåt fastgjort i farvannet mellom Berggrenodden (59° 16,17′ N 011° 05,35′ Ø) og Melløs (59° 16,21′ N 011° 05,99′ Ø)."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-17",
+       "nummer": "§ 30",
+       "tittel": "(forbud mot bruk av farvannet i Rauerfjorden–Krokstadleira–Larkollsundet)",
+       "ledd": [
+        "Fartøy med større dypgående enn 7 meter skal ikke bruke farvannet øst av Rauer og Eldøya, fra Garnholmen lykt i sør til nordpynten av Kollen (59° 20,17′ N 010° 38,96′ Ø) i nord."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-18",
+       "nummer": "§ 31",
+       "tittel": "(krav om siktforhold i Søsterløpet–Lera–Rauerfjorden–Larkollsundet)",
+       "ledd": [
+        "Fartøy med farlig eller forurensende last eller fartøy med større lengde enn 90 meter skal ikke bruke farvannet fra sydpynt av Guttormstangen på Vesterøy via 3,5-metergrunnen på Seikrakk, vestkant av Struten, vestkant av søndre Missingen, vestkant av Eldøya, nordpynt av Kollen til Brentetangen når sikten er under 1 nautisk mil."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-19",
+       "nummer": "§ 32",
+       "tittel": "(forbud mot bruk av farvann på strekningen Tenneskjæret–Kjøkøysundet)",
+       "ledd": [
+        "Fartøy med større lengde enn 100 meter, større bredde enn 16 meter eller større dypgående enn 5,2 meter skal ikke bruke farvannet mellom Tenneskjær lykt og Tømmerhella lanterne."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-20",
+       "nummer": "§ 33",
+       "tittel": "(forbud mot passering på strekningen Tenneskjæret–Kjøkøysundet)",
+       "ledd": [
+        "Fartøy med større lengde enn 24 meter skal ikke passere andre fartøy på strekningen mellom Stangeskjær lanterne og Flyndregrunnen lanterne.",
+        "I de tilfeller som nevnt i første ledd, skal et fartøy holde en avstand på minst 0,5 nautisk mil til fartøy som seiler i samme retning."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-21",
+       "nummer": "§ 34",
+       "tittel": "(krav om siktforhold på strekningen Tenneskjæret–Kjøkøysundet)",
+       "ledd": [
+        "Fartøy med større lengde enn 24 meter skal ikke bruke farvannet på strekningen mellom Stangeskjær lanterne og Tømmerhella lanterne når sikten er under 1 nautisk mil."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-22",
+       "nummer": "§ 35",
+       "tittel": "(forbud mot passering på strekningen Lera og Vesterelva til Fredrikstad)",
+       "ledd": [
+        "Fartøy med større lengde enn 24 meter skal ikke passere andre fartøy på strekningen Vesterelva til Fredrikstad, nord for Gåsungane lykt.",
+        "Første ledd gjelder ikke fartøy som avtaler å passere hverandre på hver sin side av Huthholmen og Kjerringholmen.",
+        "I de tilfeller som nevnt i første ledd, skal et fartøy holde en avstand på minst 0,5 nautisk mil til fartøy som seiler i samme retning."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-23",
+       "nummer": "§ 36",
+       "tittel": "(forbud mot bruk av farvannet på strekningen Lera–Vesterelva)",
+       "ledd": [
+        "Fartøy som har større dypgående enn 7,3 meter skal ikke bruke farvannet i Vesterelva, nord for Gåsungane lykt."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-24",
+       "nummer": "§ 37",
+       "tittel": "(krav om seilas i dagslys på strekningen Lera–Vesterelva)",
+       "ledd": [
+        "Fartøy med større lengde enn 100 meter eller større dypgående enn 6 meter skal kun bruke farvannet i Vesterelva, nord for Gåsungane lykt, i dagslys."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-25",
+       "nummer": "§ 38",
+       "tittel": "(forbud mot bruk av farvannet Vesterelva–Fredrikstad)",
+       "ledd": [
+        "Fartøy som har større dypgående enn 5,5 meter skal ikke bruke farvannet nord for sydpynten på Huthholmen (59° 12,26′ N 010° 54,08′ Ø).",
+        "Fartøy som har større lengde enn 85 meter, større bredde enn 15 meter eller større dypgående enn 5 meter skal ikke bruke farvannet nord for Åsgårdsøra (59° 12,70′ N 010° 54,78′ Ø)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-26",
+       "nummer": "§ 39",
+       "tittel": "(krav om siktforhold på strekningen Vesterelva–Fredrikstad)",
+       "ledd": [
+        "Fartøy med større lengde enn 24 meter skal ikke bruke farvannet i Vesterelva, nord for Gåsungane lykt, når sikten er under 0,5 nautisk mil."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-27",
+       "nummer": "§ 40",
+       "tittel": "(krav om siktforhold for farvannet rundt Tønsberg)",
+       "ledd": [
+        "Fartøy med større lengde enn 90 meter og fartøy som har særlig farlig eller forurensende last skal ikke bruke farvannet innenfor rette linjer fra østpynten av Slagenstangen via Fulehuk fyr, Færder fyr og Tjømeboen til sydpynten av landet ved Tønsberg Tønne når sikten er under 0,5 nautisk mil."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-28",
+       "nummer": "§ 41",
+       "tittel": "(forbud mot bruk av farvann for strekningen Sydostgrunnen–Tjømekjæla–Tønsbergfjorden og Vestfjorden til Tønsberg)",
+       "ledd": [
+        "Fartøy med større bredde enn 40 meter eller større dypgående enn 7 meter skal ikke bruke leden gjennom Tjømekjæla eller farvannet nord for Kausen lykt.",
+        "Fartøy med større bredde enn 40 meter eller større dypgående enn 9 meter skal ikke bruke leden vest av Veierland."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-29",
+       "nummer": "§ 42",
+       "tittel": "(krav om seilas i dagslys for strekningen Sydostgrunnen–Tjømekjæla–Tønsbergfjorden og Vestfjorden til Tønsberg)",
+       "ledd": [
+        "Fartøy med større lengde enn 100 meter, større bredde enn 16 meter eller større dypgående enn 5,5 meter skal kun bruke leden gjennom Tjømekjæla og farvannet nord for Kausen lykt når det er dagslys.",
+        "Fartøy skal kun bruke leden vest av Veierland når det er dagslys."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-30",
+       "nummer": "§ 43",
+       "tittel": "(forbud mot passering på strekningen Sydostgrunnen–Tjømekjæla–Tønsbergfjorden og Vestfjorden til Tønsberg)",
+       "ledd": [
+        "Fartøy med større lengde enn 24 meter skal ikke passere andre fartøy i farvannet nord for Kausen lykt.",
+        "I de tilfeller som nevnt i første ledd, skal et fartøy holde en avstand på minst 0,5 nautisk mil til fartøy som seiler i samme retning."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-31",
+       "nummer": "§ 44",
+       "tittel": "(forbud mot bruk av farvann i Leisteinsløpet)",
+       "ledd": [
+        "Fartøy med større lengde enn 150 meter, større bredde enn 20 meter eller større dypgående enn 5,5 meter skal ikke bruke farvannet i Leisteinsløpet, nord av breddeparallellen 59° 06,50′ N og vest av Leistein lykt."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-32",
+       "nummer": "§ 45",
+       "tittel": "(krav om seilas i dagslys i Leisteinsløpet)",
+       "ledd": [
+        "Fartøy med større lengde enn 100 meter, større bredde enn 16,5 meter eller større dypgående enn 5 meter skal kun bruke farvannet i Leisteinsløpet, nord av breddeparallellen 59° 06,50′ N og vest av Leistein lykt, i dagslys."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-33",
+       "nummer": "§ 46",
+       "tittel": "(krav om seilas i dagslys i farvannet ved Drillen)",
+       "ledd": [
+        "Fartøy med større lengde enn 24 meter skal kun bruke farvannet på strekningen mellom Svarten varde i øst og Galiotbåen i vest når det er dagslys."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-34",
+       "nummer": "§ 47",
+       "tittel": "(forbud mot bruk av farvann på strekningen Granabåsundet–Måkerøyflaket)",
+       "ledd": [
+        "Fartøy med større lengde enn 150 meter, større bredde enn 20 meter eller større dypgående enn 5,5 meter skal ikke bruke farvannet fra båken på Tørgersøy i nord til Årøybåen i sør."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-35",
+       "nummer": "§ 48",
+       "tittel": "(krav om seilas i dagslys på strekningen Granabåsundet–Måkerøyflaket)",
+       "ledd": [
+        "Fartøy med større lengde enn 100 meter, større bredde enn 16,5 meter eller større dypgående enn 5 meter skal kun bruke farvannet fra båken på Tørgersøy i nord til Årøybåen i sør når det er dagslys."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-36",
+       "nummer": "§ 49",
+       "tittel": "(forbud mot bruk av farvann på strekningen Måkerøyflaket–Tjømekjæla)",
+       "ledd": [
+        "Fartøy med større lengde enn 125 meter, større bredde enn 20 meter eller større dypgående enn 5,5 meter skal ikke bruke farvannet fra Mågerøtangen lykt i øst til Saltbuflua lanterne i vest."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-37",
+       "nummer": "§ 50",
+       "tittel": "(krav om seilas i dagslys på strekningen Måkerøyflaket–Tjømekjæla)",
+       "ledd": [
+        "Fartøy med større lengde enn 100 meter, større bredde enn 16,5 meter eller større dypgående enn 5 meter skal kun bruke farvannet fra Mågerøtangen lykt i øst til Saltbuflua lanterne i vest når det er dagslys."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-38",
+       "nummer": "§ 51",
+       "tittel": "(forbud mot bruk av farvann i Torgersøygapet)",
+       "ledd": [
+        "Fartøy med større dypgående enn 5,5 meter skal ikke bruke farvannet mellom Torgersøya og Valløy."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-39",
+       "nummer": "§ 52",
+       "tittel": "(forbud mot passering på strekningen Torgersøygapet–Valløbukta–Jersøy)",
+       "ledd": [
+        "Fartøy med større lengde enn 24 meter skal ikke passere andre fartøy på strekningen fra Batteriet på Valløy (59° 15,32′ N 010° 30,21′ Ø) i øst til nordpynten av Ormøya (59° 14,78′ N 010° 29,52′ Ø) i sør.",
+        "I de tilfeller som nevnt i første ledd, skal et fartøy holde en avstand på minst 0,5 nautisk mil til fartøy som seiler i samme retning."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-40",
+       "nummer": "§ 53",
+       "tittel": "(forbud mot bruk av farvann på strekningen Jersøy lykt–Tønsberg kanal)",
+       "ledd": [
+        "Fartøy med større lengde enn 110 meter, større bredde enn 17 meter eller større dypgående enn 5 meter skal ikke bruke farvannet fra Jersøy lykt i øst til Brua lanterne i vest."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-41",
+       "nummer": "§ 54",
+       "tittel": "(forbud mot bruk av farvann i Tønsberg kanal)",
+       "ledd": [
+        "Fartøy med større bredde enn 17 meter eller større dypgående enn 5 meter skal ikke bruke farvannet under Kanalbrua i Tønsberg.",
+        "Fartøy med større dypgående enn 5,7 meter skal ikke bruke farvannet mellom Kalnes lykt i vest og Kanalbrua i Tønsberg i øst."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-42",
+       "nummer": "§ 55",
+       "tittel": "(forbud mot passering på strekningen Jersøy lykt–Tønsberg kanal)",
+       "ledd": [
+        "Fartøy med større lengde enn 24 meter skal på strekningen bare passere andre fartøy i farvannet mellom Kalvetangen lykt i øst og det sørligste punktet på Teigen (59° 15, 31′ N 010° 26,79′ Ø) i nord.",
+        "I de tilfeller som nevnt i første ledd, hvor fartøy ikke skal passere andre fartøy, skal et fartøy holde en avstand på minst 0,5 nautisk mil til fartøy som seiler i samme retning."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-43",
+       "nummer": "§ 56",
+       "tittel": "(forbud mot bruk av farvannet ved Slagentangen oljeraffineri)",
+       "ledd": [
+        "Fartøy skal ikke ferdes innenfor en radius på 500 meter målt fra nordligste punkt på utstikkerkai ved Slagentangen oljeraffineri. Dette gjelder ikke for fartøy som skal anløpe Slagentangen oljeraffineri og fartøy som assisterer andre fartøy ved anløp til og avgang fra Slagentangen oljeraffineri."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-44",
+       "nummer": "§ 57",
+       "tittel": "(forbud mot bruk av farvann i Vealøsrenna og Horten indre havn)",
+       "ledd": [
+        "Fartøy med større dypgående enn 6,4 meter skal ikke bruke farvannet mellom Østøya og Vealøs, sør for Østøybåen lanterne.",
+        "Fartøy med større lengde enn 130 meter og med større dypgående enn 5,8 meter skal ikke bruke farvannet mellom Østøya og Vealøs, sør for Østøybåen lanterne."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-45",
+       "nummer": "§ 58",
+       "tittel": "(krav om siktforhold i Vealøsrenna og Horten indre havn)",
+       "ledd": [
+        "Fartøy med større lengde enn 24 meter skal ikke bruke farvannet mellom Østøya og Vealøs, sør for Østøybåen lanterne, når sikten er under 1 nautisk mil."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-46",
+       "nummer": "§ 59",
+       "tittel": "(forbud mot bruk av farvannet på strekningen Rødtangen–Drammen)",
+       "ledd": [
+        "Følgende fartøy skal ikke bruke farvannet gjennom Svelvikstrømmen, nord av Rødtangen lykt:\na. fartøy med større lengde enn 250 meter, større bredde enn 40 meter eller større dypgående enn 9,5 meter\nb. fartøy med større lengde enn 225 meter og større dypgående enn 9 meter.",
+        "Ved beregning av fartøyets dypgående skal det legges til grunn at det er ferskvann."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-47",
+       "nummer": "§ 60",
+       "tittel": "(krav om siktforhold i Svelvikstrømmen)",
+       "ledd": [
+        "Fartøy med særlig farlig eller forurensende last, fartøy med farlig eller forurensende last og større lengde enn 90 meter, fartøy med større lengde enn 125 meter eller med større dypgående enn 7 meter skal ikke bruke farvannet på strekningen mellom Rødtangen lykt i sør og Blindeskjæra lykt i nord når sikten er under 0,5 nautisk mil.",
+        "Når det ikke er dagslys gjelder tilsvarende begrensninger som i første ledd når sikten er under 1 nautisk mil."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-48",
+       "nummer": "§ 61",
+       "tittel": "(forbud mot passering på strekningen Svelvikstrømmen–Drammen)",
+       "ledd": [
+        "Fartøy med større lengde enn 24 meter skal ikke passere hverandre i farvannet på strekningen mellom Bjørneskjær lykt i sør og Blindeskjær lykt i nord eller i Tangenrenna vest for Risgarden molo lanterne.",
+        "Fartøy skal ikke passere hverandre på strekningen Rødtangen lykt i sør og Bjørneskjær lykt i nord når sikten er under 0,5 nautisk mil.",
+        "I de tilfeller som nevnt i første og annet ledd, skal et fartøy holde en avstand på minst 0,5 nautisk mil til fartøy som seiler i samme retning."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-49",
+       "nummer": "§ 62",
+       "tittel": "(krav om bruk av taubåt i Svelvikstrømmen)",
+       "ledd": [
+        "Fartøy med større lengde enn 170 meter eller større dypgående enn 8,5 meter skal ha taubåt fastgjort i farvannet mellom Bjørneskjær lykt i sør til Blindeskjæra lykt i nord.",
+        "Fartøy med større lengde enn 200 meter eller større dypgående enn 9 meter skal ha 2 taubåter fastgjort i farvannet som nevnt i første ledd."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-50",
+       "nummer": "§ 63",
+       "tittel": "(forbud mot bruk av Drøbaksundet)",
+       "ledd": [
+        "Fartøy med større dypgående enn tolv meter skal ikke bruke farvannet nord for Storskjær (59° 39,50′ N 010° 36,58′ Ø)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-51",
+       "nummer": "§ 64",
+       "tittel": "(krav om sikt i Drøbaksundet og Dynaløpet)",
+       "ledd": [
+        "Fartøy med større lengde enn 300 meter skal ikke bruke farvannet nord av Elle lykt når sikten er under 0,5 nautisk mil."
+       ],
+       "endringer": [
+        "Tilføyd ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-52",
+       "nummer": "§ 65",
+       "tittel": "(forbud mot passering på strekningen Drøbaksundet–Oslo)",
+       "ledd": [
+        "Fartøy med større lengde enn 24 meter skal ikke passere andre fartøy på strekningen mellom Småskjærene lykt i sør til Aspond lykt i nord dersom:\na. sikten er under 1 nautisk mil,\nb. fartøyet har større dypgående enn 7 meter,\nc. fartøyet har farlig eller forurensende last, eller\nd. fartøyet følger leden vest for Askholmgrunnen lanterne og vest for Torskekrakken lanterne.",
+        "I de tilfeller som nevnt i første ledd, skal et fartøy holde en avstand på minst 0,5 nautisk mil til fartøy som seiler i samme retning."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 64)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-53",
+       "nummer": "§ 66",
+       "tittel": "(krav om siktforhold på strekningen Kaholmen–Engene)",
+       "ledd": [
+        "Fartøy med farlig eller forurensende last skal ikke bruke farvannet mellom Kaholmen og Håøya eller farvannet i Håøyfjorden mellom Håøya og Engene når sikten er under 0,5 nautisk mil."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 65)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-54",
+       "nummer": "§ 67",
+       "tittel": "(forbud mot bruk av farvannet på strekningen Steilene–Sandvika)",
+       "ledd": [
+        "Fartøy med større dypgående enn 5 meter skal ikke bruke farvannet nord for Haraholmen lanterne."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 66)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-55",
+       "nummer": "§ 68",
+       "tittel": "(krav om siktforhold på strekningen Steilene–Sandvika)",
+       "ledd": [
+        "Fartøy med farlig eller forurensende last skal ikke bruke farvannet nord for Haraholmen lanterne når sikten er under 1 nautisk mil."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 67)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-56",
+       "nummer": "§ 69",
+       "tittel": "(forbud mot bruk av Dynaløpet)",
+       "ledd": [
+        "Fartøy med større dypgående enn 10,5 meter skal ikke bruke farvannet mellom Bygdøy og Nakholmen."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 68)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-57",
+       "nummer": "§ 70",
+       "tittel": "(forbud mot bruk av Heggholmløpet)",
+       "ledd": [
+        "Fartøy med større dypgående enn 5,5 meter skal ikke bruke farvannet mellom Heggholmen og Lindøya."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 69)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-58",
+       "nummer": "§ 71",
+       "tittel": "(forbud mot bruk av Sjursøyløpet og Springeren)",
+       "ledd": [
+        "Fartøy med større lengde enn 200 meter eller større bredde enn 33 meter skal ikke bruke farvannet mellom Sjursøya og Bleikøya eller farvannet mellom Lindøya og Hovedøya og mellom Gressholmen og Bleikøya."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 70)."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-2",
+     "navn": "kapII",
+     "overskrift": "II Seilingsregler for Grenland i Vestfold og Telemark",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-2-paragraf-1",
+       "nummer": "§ 72",
+       "tittel": "(forbud mot bruk av farvannet på strekningen Fugløya–Porsgrunn–Skien)",
+       "ledd": [
+        "Fartøy med større lengde enn 300 meter eller med større dypgående enn 13,5 meter skal ikke bruke farvannet nord for Fugløyskjær lanterne."
+       ],
+       "endringer": [
+        "Endret ved forskrifter 6 okt 2022 nr. 1734 (i kraft 1 nov 2022), 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 71)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-2-paragraf-2",
+       "nummer": "§ 73",
+       "tittel": "(krav om siktforhold i Brevik tjenesteområde)",
+       "ledd": [
+        "Fartøy med farlig eller forurensende last eller fartøy med større lengde enn 160 meter skal ikke bruke farvannet nord for Fugløyskjær lanterne når sikten er under 1 nautisk mil.",
+        "Første ledd gjelder ikke for:\na. fartøy uten farlig eller forurensende last med større lengde enn 160 meter som kun skal bruke farleden gjennom Gamle Langesund, Langesundfjorden, Brevikfjorden, Eidangerfjorden.\nb. fartøy som seiler mellom ankerplass, fortøyningsinnretning eller kai og som har fri sikt til det sted som skal anløpes."
+       ],
+       "endringer": [
+        "Endret ved forskrifter 6 okt 2022 nr. 1734 (i kraft 1 nov 2022), 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 72)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-2-paragraf-3",
+       "nummer": "§ 74",
+       "tittel": "(forbud mot passering på strekningen Fugløya–Porsgrunn–Skien)",
+       "ledd": [
+        "Fartøy med farlig eller forurensende last skal ikke passere andre fartøy i farvannet mellom Fugløyskjær lanterne i sør og Øvre Ringsholmen lanterne i nord.",
+        "Første ledd gjelder ikke i farvannet i Langesundsfjorden mellom det sydligste punktet på Risøya (59° 01,41′ N 009° 45,20′ Ø) i sør og Gjermundsholmen lykt i nord.",
+        "Første ledd gjelder ikke ved passering av fartøy med lengde mindre enn 50 meter når sjøtrafikksentralen har gitt tillatelse til slik passering.",
+        "I de tilfeller som nevnt i første ledd, skal et fartøy holde en avstand på minst 0,5 nautisk mil til fartøy som seiler i samme retning."
+       ],
+       "endringer": [
+        "Endret ved forskrifter 6 okt 2022 nr. 1734 (i kraft 1 nov 2022), 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 73)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-2-paragraf-4",
+       "nummer": "§ 75",
+       "tittel": "(krav om bruk av eskortefartøy på strekningen Fugløya–Porsgrunn–Skien)",
+       "ledd": [
+        "Fartøy med særlig farlig eller forurensende last som er større enn 500 BT og fartøy med farlig eller forurensende last som er større enn 5000 BT skal ha eskortefartøy fastgjort på strekningen fra Fugløyskjær lanterne i sør til Øvre Ringsholmen lanterne i nord. Nord for Øvre Ringsholmen lanterne skal disse fartøyene ha assistanse fra eskortefartøy.",
+        "Krav til assistanse fra eskortefartøy i første ledd gjelder ikke for fartøy som får assistanse fra taubåt ved forflytning mellom kai og ankerplass eller fortøyningsinnretning nord for Øvre Ringsholmen lanterne.",
+        "Fartøy med større lengde enn 195 meter, større bredde enn 30 meter eller større dypgående enn 10 meter, skal ha eskortefartøy fastgjort i farvannet fra Gjermundsholmen lykt i øst og til Midtfjordskjær lykt i vest.",
+        "Første ledd gjelder ikke for inngående fartøy som skal bruke farvannet i Helgerofjorden, sør av Åmlirogna lykt eller for utgående fartøy som har passert Kjørtingløpet, og er lagt på kurs ut Dypingen."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 74)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-2-paragraf-5",
+       "nummer": "§ 76",
+       "tittel": "(krav om seilas i dagslys i Helgerofjorden, Håøyfjorden og Kalvsundet)",
+       "ledd": [
+        "Fartøy med større lengde enn 205 meter skal kun bruke farvannet øst for Fugløyskjær lanterne i sør og Bjørkøybåen lanterne i nord i dagslys."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 75)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-2-paragraf-6",
+       "nummer": "§ 77",
+       "tittel": "(forbud mot gjennomseiling av farvannet mellom Langesund by og Langøya)",
+       "ledd": [
+        "Fartøy med farlig eller forurensende last eller med større bredde enn 14 meter eller større dypgående enn 5 meter skal ikke bruke farvannet mellom Langesund by og Langøya til gjennomseiling.",
+        "Fartøy som nevnt i første ledd som skal anløpe til eller avgå fra Langesund, skal bruke innløpet i sør. Dette gjelder ikke taubåter, lektere eller kranlektere."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 76)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-2-paragraf-7",
+       "nummer": "§ 78",
+       "tittel": "(krav om siktforhold i farvannet mellom Langesund by og Langøya)",
+       "ledd": [
+        "Fartøy med farlig eller forurensende last skal ikke bruke farvannet mellom Langesund by og Langøya nord for Tangenskjær lanterne når sikten er under 0,5 nautisk mil."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 77)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-2-paragraf-8",
+       "nummer": "§ 79",
+       "tittel": "(forbud mot passering på strekningen Langesund by og Langøya)",
+       "ledd": [
+        "Fartøy som er større enn 2000 BT skal ikke passere andre fartøy i farvannet mellom Langesund by og Langøya nord for Tangenskjær lanterne."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 78)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-2-paragraf-9",
+       "nummer": "§ 80",
+       "tittel": "(forbud mot bruk av farvannet i Gamle Langesund)",
+       "ledd": [
+        "Fartøy med større bredde enn 32,5 meter eller større dypgående enn 12,5 meter skal ikke bruke farvannet i Gamle Langesund mellom Langøytangen lykt i sør og Råholmbåen lanterne i nord."
+       ],
+       "endringer": [
+        "Endret ved forskrifter 6 okt 2022 nr. 1734 (i kraft 1 nov 2022), 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 79)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-2-paragraf-10",
+       "nummer": "§ 81",
+       "tittel": "(forbud mot bruk av Dypingen og Kjørtingen)",
+       "ledd": [
+        "Fartøy med større lengde enn 200 meter, større bredde enn 30 meter eller større dypgående enn 10,5 meter skal ikke bruke farvannet i Dypingen, mellom Arøy lykt i sør og Kjørtingen NV lykt i nord."
+       ],
+       "endringer": [
+        "Endret ved forskrifter 6 okt 2022 nr. 1734 (i kraft 1 nov 2022), 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 80)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-2-paragraf-11",
+       "nummer": "§ 82",
+       "tittel": "(krav om siktforhold i Dypingen og Kjørtingen)",
+       "ledd": [
+        "Fartøy med større lengde enn 24 meter skal ikke bruke farvannet mellom Arøy lykt i sør og Kjørtingen NV lykt i nord når sikten er under 0,5 nautisk mil."
+       ],
+       "endringer": [
+        "Endret ved forskrifter 6 okt 2022 nr. 1734 (i kraft 1 nov 2022), 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 81)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-2-paragraf-12",
+       "nummer": "§ 83",
+       "tittel": "(forbud mot passering i Gamle Langesund, Dypingen og Kjørtingen)",
+       "ledd": [
+        "Fartøy med større lengde enn 100 meter skal ikke passere andre fartøy i farvannet mellom Langøytangen lykt i sør og Råholmbåen lanterne i nord.",
+        "Fartøyer skal ikke passere hverandre i farvannet mellom Kjørtingen NV lykt og Kjørtingen SØ lykt."
+       ],
+       "endringer": [
+        "Endret ved forskrifter 6 okt 2022 nr. 1734 (i kraft 1 nov 2022), 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 82)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-2-paragraf-13",
+       "nummer": "§ 84",
+       "tittel": "(forbud mot passering i Kalvsundet)",
+       "ledd": [
+        "Fartøy med større lengde enn 70 meter eller større bredde enn 20 meter skal ikke passere andre fartøy i farvannet mellom Kisteholmen lanterne i øst og Bjørkøybåen lanterne i vest."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 83)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-2-paragraf-14",
+       "nummer": "§ 85",
+       "tittel": "(forbud mot bruk av Brevikstrømmen)",
+       "ledd": [
+        "Fartøy med større lengde enn 235 meter, større dypgående enn 12,5 meter eller større bredde enn 33 meter skal ikke bruke farvannet mellom Gjermundsholmen lykt i øst og Midtfjordskjær lykt i vest."
+       ],
+       "endringer": [
+        "Endret ved forskrifter 30 jan 2023 nr. 113 (i kraft 1 feb 2023), 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 84)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-2-paragraf-15",
+       "nummer": "§ 86",
+       "tittel": "(krav om seilas i dagslys i Brevikstrømmen)",
+       "ledd": [
+        "Fartøy med farlig eller forurensende last med større dypgående enn 10,2 meter eller fartøy med større lengde enn 205 meter skal kun bruke farvannet mellom Gjermundsholmen lykt i øst og Midtfjordskjær lykt i vest i dagslys."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 85)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-2-paragraf-16",
+       "nummer": "§ 87",
+       "tittel": "(forbud mot passering i Brevikstrømmen)",
+       "ledd": [
+        "Fartøy med større lengde enn 100 meter skal ikke passere andre fartøy i farvannet mellom Gjermundsholmen lykt i øst og Midtfjordskjær lykt i vest.",
+        "Første ledd gjelder ikke ved passering av fartøy med lengde mindre enn 50 meter når sjøtrafikksentralen har gitt tillatelse til slik passering."
+       ],
+       "endringer": [
+        "Endret ved forskrifter 20 des 2021 nr. 3776 (i kraft 1 jan 2022), 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 86)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-2-paragraf-17",
+       "nummer": "§ 88",
+       "tittel": "(krav om siktforhold på strekningen Torsbergrenna–Skien)",
+       "ledd": [
+        "Fartøy med større lengde enn 24 meter skal ikke bruke Torsbergrenna eller Skienselva når sikten er under 0,5 nautisk mil."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 87)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-2-paragraf-18",
+       "nummer": "§ 89",
+       "tittel": "(forbud mot bruk av Torsbergrenna)",
+       "ledd": [
+        "Fartøy med større bredde enn 28,5 meter skal ikke bruke farvannet i Torsbergrenna."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 88)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-2-paragraf-19",
+       "nummer": "§ 90",
+       "tittel": "(forbud mot bruk av farvannet nord for Frednesbrua)",
+       "ledd": [
+        "Fartøy med større lengde enn 110 meter, større bredde enn 16 meter eller større dypgående enn 5,5 meter skal ikke bruke farvannet nord for Frednesbrua."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 89)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-2-paragraf-20",
+       "nummer": "§ 91",
+       "tittel": "(krav om dagslys i farvannet nord for Frednesbrua)",
+       "ledd": [
+        "Fartøy med større lengde enn 50 meter skal kun bruke farvannet nord for Frednesbrua i dagslys."
+       ],
+       "endringer": [
+        "Tilføyd ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-2-paragraf-21",
+       "nummer": "§ 92",
+       "tittel": "(forbud mot bruk av Gråtenløpet)",
+       "ledd": [
+        "Fartøy med større lengde enn 85 meter, større bredde enn 14 meter eller større dypgående enn 5 meter skal ikke bruke farvannet i Gråtenløpet."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 90)."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-3",
+     "navn": "kapIII",
+     "overskrift": "III Seilingsregler i Rogaland",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-3-paragraf-1",
+       "nummer": "§ 93",
+       "tittel": "(krav om bruk av trafikkseparasjonssystem i Rogaland)",
+       "ledd": [
+        "Fartøy med lengde på 24 meter eller mer skal bruke trafikkseparasjonssystemene i Rogaland som er beskrevet i Kystverkets digitale kart «Kystinfo», som er en del av forskriften."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 91)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-3-paragraf-2",
+       "nummer": "§ 94",
+       "tittel": "(krav om bruk av Skudenesfjorden for fartøy med farlig eller forurensende last)",
+       "ledd": [
+        "Fartøy med farlig eller forurensende last, som skal anløpe til eller avgå fra gassterminalen på Kårstø, skal bruke trafikkseparasjonssystemene i Skudenesfjorden/Boknafjorden ved seilas mellom gassterminalen og grunnlinjen.",
+        "Første ledd gjelder uavhengig av om fartøyet anløper kai, fortøyningsinnretning eller ankringsplass underveis."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 92)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-3-paragraf-3",
+       "nummer": "§ 95",
+       "tittel": "(forbud mot bruk av leden nord for Arsgrunnen)",
+       "ledd": [
+        "Fartøy med farlig eller forurensende last skal ikke bruke farvannet mellom Arsgrunnen lanterne og Drivsund lykt ved seilas mellom gassterminalen på Kårstø og grunnlinjen."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 93)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-3-paragraf-4",
+       "nummer": "§ 96",
+       "tittel": "(forbud mot bruk av farvannet på strekningen Feistein–Sveinane)",
+       "ledd": [
+        "Fartøy med større dypgående enn 10 meter skal i farvannet mellom Fladholmen lykt i sør og Tananger lykt i nord, ikke bruke farvannet øst om Midtfjæra lanterne."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 94)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-3-paragraf-5",
+       "nummer": "§ 97",
+       "tittel": "(forbud mot gjennomseiling på strekningen Feistein–Sveinane)",
+       "ledd": [
+        "Følgende fartøy skal ikke bruke leden gjennom Rottsfjorden, fra Feistein lykt i sør til Sveinane lanterne i nord, til gjennomseiling:\na. fartøy med farlig eller forurensende last som har større lengde enn 140 meter eller har større dypgående enn 8 meter\nb. fartøy med større lengde enn 180 meter eller med større dypgående enn 8,5 meter\nc. passasjerfartøy med større lengde enn 210 meter eller større dypgående enn 8,5 meter.",
+        "Anløp til eller avgang fra kai, ankringsplass eller fortøyningsplass i alt farvann mellom Jærens merke i sør og Sveinane lanterne i nord regnes ikke som gjennomseiling."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 95)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-3-paragraf-6",
+       "nummer": "§ 98",
+       "tittel": "(krav om siktforhold for strekningen Feistein–Sveinane)",
+       "ledd": [
+        "Fartøy med større dypgående enn 10 meter skal ikke bruke Rottsfjorden mellom Kolnesholmane lykt og Oksafotskjær lykt når sikten er under 0,5 nautisk mil.",
+        "Første ledd gjelder ikke fartøy som skal anløpe til eller avgå fra kai i Risavika."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 96)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-3-paragraf-7",
+       "nummer": "§ 99",
+       "tittel": "(forbud mot bruk av farvannet i Risavika)",
+       "ledd": [
+        "Fartøy med større dypgående enn 15,8 meter skal ikke bruke farvannet i Risavika øst for Laksholmbåen lanterne."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 97)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-3-paragraf-8",
+       "nummer": "§ 100",
+       "tittel": "(forbud mot passering i innløpet til Risavika)",
+       "ledd": [
+        "Fartøy skal ikke passere andre fartøy i farvannet mellom Laksholmboen lanterne i vest og Melingholmen lanterne i øst dersom:\na. sikten er under 0,5 nautisk mil\nb. fartøyet har større lengde enn 120 meter eller større dypgående enn syv meter.",
+        "I de tilfeller som nevnt i første ledd, skal et fartøy holde en avstand på minst 0,5 nautisk mil til fartøy som seiler i samme retning."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 98)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-3-paragraf-9",
+       "nummer": "§ 101",
+       "tittel": "(forbud mot bruk av farvann på strekningen Plentinggrunnen–Stavanger havn)",
+       "ledd": [
+        "Fartøy med større dypgående enn 7 meter skal ikke bruke farvannet mellom Søre Plentinggrunnen lanterne og Bybrua."
+       ],
+       "endringer": [
+        "Endret ved forskrifter 20 des 2021 nr. 3776 (i kraft 1 jan 2022), 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 99)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-3-paragraf-10",
+       "nummer": "§ 102",
+       "tittel": "(forbud mot bruk av Straumsteinsundet)",
+       "ledd": [
+        "Fartøy med større lengde enn 70 meter skal ikke bruke farvannet under Bybrua. Dette gjelder ikke fartøy i rutefart eller passasjerfartøy med mindre lengde enn 90 meter."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 100)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-3-paragraf-11",
+       "nummer": "§ 103",
+       "tittel": "(forbud mot gjennomseiling på strekningen Dusaviga–Bybrua)",
+       "ledd": [
+        "Fartøy med farlig eller forurensende last og fartøy med større lengde enn 50 meter skal ikke bruke farvannet mellom Dusaviga lykt i nord og Bybrua i sør til gjennomseiling.",
+        "Første ledd gjelder ikke fartøy i rutefart."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 101)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-3-paragraf-12",
+       "nummer": "§ 104",
+       "tittel": "(forbud mot passering på strekningen Ulsneset–Bybrua)",
+       "ledd": [
+        "Fartøy skal ikke passere andre fartøy i farvannet mellom Ulsneset (58° 59,45′ N 005° 42,70′ Ø) i nord og Bybrua i øst dersom:\na. fartøyet har farlig eller forurensende last\nb. fartøyet har større lengde enn 120 meter eller større dypgående enn 7 meter.",
+        "Første ledd gjelder ikke ved passering av fartøy med lengde mindre enn 50 meter når sjøtrafikksentralen har gitt tillatelse til slik passering.",
+        "I de tilfeller som er nevnt i første ledd skal et fartøy holde en avstand på minst 0,5 nautisk mil til fartøy som seiler i samme retning."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 102)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-3-paragraf-13",
+       "nummer": "§ 105",
+       "tittel": "(krav om seilas i dagslys på strekningen Ulsneset–Bybrua)",
+       "ledd": [
+        "Fartøy med større lengde enn 180 meter eller større dypgående enn ti meter skal kun bruke farvannet Ulsneset (58° 59,45′ N 005° 42,70′ Ø) i nord og Bybrua i øst i dagslys.",
+        "Første ledd gjelder ikke passasjerfartøy."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 103)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-3-paragraf-14",
+       "nummer": "§ 106",
+       "tittel": "(krav om siktforhold på strekningen Ulsneset–Bybrua)",
+       "ledd": [
+        "Fartøy skal ikke bruke farvannet mellom Ulsneset (58° 59,45′ N 005° 42,70′ Ø) i nord og Bybrua i øst når sikten er under 0,5 nautisk mil dersom:\na. fartøyet har særlig farlig eller forurensende last\nb. fartøyet har farlig eller forurensende last og har større lengde enn 90 meter\nc. fartøyet har større lengde enn 180 meter eller større dypgående enn 10 meter."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 104)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-3-paragraf-15",
+       "nummer": "§ 107",
+       "tittel": "(forbud mot passering i Vågholmsundet og Storholmsundet)",
+       "ledd": [
+        "Fartøy med farlig eller forurensende last og fartøy med større lengde enn 120 meter eller større dypgående enn 7 meter, skal ikke passere andre fartøy i farvannet mellom Vågholmen og Storholmen eller i farvannet mellom Litle Storholmen og Kuppholmen på strekningen mellom vestkanten av Vågholmen i vest og Galten varde i øst.",
+        "I de tilfeller som er nevnt i første ledd skal et fartøy holde en avstand på minst 0,5 nautisk mil til fartøy som seiler i samme retning."
+       ],
+       "endringer": [
+        "Endret ved forskrifter 20 des 2021 nr. 3776 (i kraft 1 jan 2022), 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 105)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-3-paragraf-16",
+       "nummer": "§ 108",
+       "tittel": "(forbud mot passering i Lindøysundet)",
+       "ledd": [
+        "Fartøy med farlig eller forurensende last, fartøy med større lengde enn 120 meter eller større dypgående enn 7 meter, skal ikke passere andre fartøy i farvannet mellom en linje rett vest fra Lindøysund lykt til land på Vassøy og en rett linje fra vestpynten av Lindøy til sydpynten av Vassøykalven.",
+        "I de tilfeller som er nevnt i første ledd skal et fartøy holde en avstand på minst 0,5 nautisk mil til fartøy som seiler i samme retning."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 106)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-3-paragraf-17",
+       "nummer": "§ 109",
+       "tittel": "(forbud mot passering i farvannet vest om Marøyane)",
+       "ledd": [
+        "Fartøy med farlig eller forurensende last, fartøy med større lengde enn 120 meter eller større dypgående enn 7 meter, skal ikke passere andre fartøy i farvannet mellom en rett linje fra nordpynten av lille Marøy til land ved Sirigrunnen og en rett linje fra sydpynten av store Marøy via Gansflu lykt og rett vest til land ved Hillevågneset.",
+        "I de tilfeller som er nevnt i første ledd skal et fartøy holde en avstand på minst 0,5 nautisk mil til fartøy som seiler i samme retning."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 107)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-3-paragraf-18",
+       "nummer": "§ 110",
+       "tittel": "(forbud mot bruk av farvann i Klovningløpet)",
+       "ledd": [
+        "Fartøy med farlig eller forurensende last, fartøy med større lengde enn 100 meter eller fartøy med større dypgående enn 6 meter skal ikke bruke farvannet mellom Kuppholmen og Klovningen."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 108)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-3-paragraf-19",
+       "nummer": "§ 111",
+       "tittel": "(forbud mot bruk av farvann i Langøyosen)",
+       "ledd": [
+        "Fartøy med farlig eller forurensende last, fartøy med større lengde enn 100 meter eller større dypgående enn 5,5 meter skal ikke bruke farvannet mellom en rett linje fra Sandnes (59° 00,69′ N 005° 45,19′ Ø) til vestpynten av Langøy (59° 00,59′ N 005° 45,77′ Ø) og en rett linje fra sydpynten av Vassøy (58° 59,35′ N 005° 47,24′ Ø) til Kobbstein (58° 59,37′ N 005° 46,23 Ø′)."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 109)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-3-paragraf-20",
+       "nummer": "§ 112",
+       "tittel": "(forbud mot bruk av farvann på strekningen Fognafjorden til Årdal)",
+       "ledd": [
+        "Fartøy med større lengde enn 120 meter eller større dypgående enn 7 meter skal ikke bruke farvannet øst for Skoraneset lanterne."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 110)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-3-paragraf-21",
+       "nummer": "§ 113",
+       "tittel": "(forbud mot passering på strekningen Fognafjorden til Årdal)",
+       "ledd": [
+        "Fartøy med større lengde enn 24 meter skal ikke passere andre fartøy i farvannet på strekningen mellom Skoraneset lanterne i vest og Kvannholmen lanterne i øst.",
+        "I de tilfeller som er nevnt i første ledd skal et fartøy holde en avstand på minst 0,5 nautisk mil til fartøy som seiler i samme retning."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 111)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-3-paragraf-22",
+       "nummer": "§ 114",
+       "tittel": "(krav om siktforhold på strekningen Fognafjorden til Årdal)",
+       "ledd": [
+        "Fartøy med større lengde enn 90 meter skal ikke bruke farvannet på strekningen mellom Skoraneset lanterne i vest og Kvannholmen lanterne i øst når sikten er under 0,5 nautisk mil."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 112)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-3-paragraf-23",
+       "nummer": "§ 115",
+       "tittel": "(forbud mot bruk av farvann på strekningen Sandsfjorden–Saudafjorden til Sauda)",
+       "ledd": [
+        "Fartøy med større lengde enn 200 meter skal ikke bruke farvannet nord for Kviteholmen lykt.",
+        "Fartøy med større lengde enn 180 meter skal bruke taubåt når de bruker farvannet nord for Kviteholmen lykt."
+       ],
+       "endringer": [
+        "Endret ved forskrifter 20 des 2021 nr. 3776 (i kraft 1 jan 2022), 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 113)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-3-paragraf-24",
+       "nummer": "§ 116",
+       "tittel": "(krav om dagslys på strekningen Nedstrandsfjorden–Sandsfjorden–Saudafjorden til Sauda)",
+       "ledd": [
+        "Fartøy større enn 7000 BT skal kun bruke farvannet på strekningen mellom Kviteholmen lykt i vest og Nevøya lykt i øst i dagslys."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 114)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-3-paragraf-25",
+       "nummer": "§ 117",
+       "tittel": "(forbud mot passering på strekningen Nedstrandsfjorden–Sandsfjorden–Saudafjorden til Sauda)",
+       "ledd": [
+        "Fartøy med større lengde enn 24 meter skal i farvannet mellom en rett linje trukket fra vestpynten av Tjørnaneset til sydpynten av Reiphammarodden og en rett linje trukket fra Øynestangen i retning 310° til land ved Brattberg, kun passere andre fartøy på følgende strekninger:\na. i Kallvikhavet på strekningen Skorpeskjæret–Ottøya lykt.\nb. på strekning Fureholmen–Åsarøyholmen.\nc. på strekningen Hamborgneset–Sydvestpynten av Nevøyna.",
+        "Første ledd gjelder ikke ved passering av fartøy med lengde mindre enn 50 meter når sjøtrafikksentralen har gitt tillatelse til slik passering.",
+        "I de tilfeller som er nevnt i første ledd skal et fartøy holde en avstand på minst 0,5 nautisk mil til fartøy som seiler i samme retning."
+       ],
+       "endringer": [
+        "Endret ved forskrifter 20 des 2021 nr. 3776 (i kraft 1 jan 2022), 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 115)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-3-paragraf-26",
+       "nummer": "§ 118",
+       "tittel": "(krav om siktforhold på strekningen Nedstrandsfjorden–Sandsfjorden–Saudafjorden til Sauda)",
+       "ledd": [
+        "Fartøy med farlig eller forurensende last og fartøy større enn 7000 BT skal ikke bruke farvannet mellom en rett linje fra vestpynten av Tjørnaneset til sydpynten av Reiphammarodden og en rett linje fra Øynestangen i retning 310° til land ved Brattberg dersom sikten er under 0,5 nautisk mil."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 116)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-3-paragraf-27",
+       "nummer": "§ 119",
+       "tittel": "(forbud mot bruk av farvann på strekningen Skudenesfjorden–Karmsundet–Sletta)",
+       "ledd": [
+        "Fartøy med større dypgående enn 11 meter skal ikke bruke farvannet på strekningen mellom en linje rett øst fra Bøneset til land ved Moksheim og en linje rett vest fra Nordheimskjær til land på Karmøy."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 117)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-3-paragraf-28",
+       "nummer": "§ 120",
+       "tittel": "(forbud mot passering på strekningen Skudenesfjorden–Karmsundet– Sletta)",
+       "ledd": [
+        "Fartøy skal ikke passere andre fartøy under Karmsundbrua, i farvannet 300 meter nord og syd for brua eller i sundet ved Bukkøy på strekningen mellom en linje i retning 050° fra nordpynten av Bukkøy til land nord om Vormedal og en rett linje fra sydøstpynten av Bukkøy til Snikspynten lykt dersom:\na. fartøyet har farlig eller forurensende last og har større lengde enn 100 meter\nb. fartøyet har større lengde enn 120 meter\nc. sikten er under 0,5 nautisk mil.",
+        "I de tilfeller som er nevnt i første ledd skal et fartøy holde en avstand på minst 0,5 nautisk mil til fartøy som seiler i samme retning."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 118)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-3-paragraf-29",
+       "nummer": "§ 121",
+       "tittel": "(forbud mot gjennomseiling i Karmsundet)",
+       "ledd": [
+        "Følgende fartøy skal ikke bruke Karmsundet til gjennomseiling:\na. fartøy med farlig eller forurensende last og større lengde enn 140 meter eller større dypgående enn 8 meter\nb. fartøy med større lengde enn 180 meter eller større dypgående enn 8,5 meter\nc. passasjerfartøy med større lengde enn 210 meter eller større dypgående enn 8,5 meter.",
+        "Anløp til eller avgang fra kai, ankringsplass eller fortøyningsplass i alt farvann mellom Skudenes lykt i sør og Kvalen lykt i nord regnes ikke som gjennomseiling."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 119)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-3-paragraf-30",
+       "nummer": "§ 122",
+       "tittel": "(krav om siktforhold i Karmsundet)",
+       "ledd": [
+        "Fartøy med større lengde enn 120 meter eller større dypgående enn 7 meter skal ikke bruke Karmsundet til gjennomseiling når sikten er under 0,5 nautisk mil.",
+        "Anløp til eller avgang fra kai, ankringsplass eller fortøyningsplass i alt farvann mellom Skudenes lykt i sør og Kvalen lykt i nord regnes ikke som gjennomseiling."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 120)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-3-paragraf-31",
+       "nummer": "§ 123",
+       "tittel": "(krav om siktforhold på Falkeidflæet på strekningen Billingen–Kårstøterminalen)",
+       "ledd": [
+        "Fartøy med farlig eller forurensende last skal ikke bruke farvannet innenfor rette linjer trukket fra Billingen lanterne i retning rett nord til land på Kårstø og fra Billingen lanterne i retning 235° til land på Austre Bokn når sikten er under 0,5 nautisk mil."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 121)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-3-paragraf-32",
+       "nummer": "§ 124",
+       "tittel": "(forbud mot passering på Falkeidflæet på strekningen Billingen–Kårstøterminalen)",
+       "ledd": [
+        "Fartøy med farlig eller forurensende last, skal i farvannet innenfor rette linjer trukket fra Billingen lanterne i retning rett nord til land på Kårstø og fra Billingen lanterne i retning 235° til land på Austre Bokn, kun passere andre fartøy etter tillatelse fra sjøtrafikksentralen. Det skal alltid holdes en sikkerhetsavstand på minst 500 meter ved passering. Unntatt fra dette er taubåter som assisterer fartøy ved ankomst og avgang ved Kårstøterminalen."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 122)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-3-paragraf-33",
+       "nummer": "§ 125",
+       "tittel": "(krav om bruk av taubåt på Falkeidflæet på strekningen Billingen–Kårstøterminalen)",
+       "ledd": [
+        "Fartøy med farlig eller forurensende last skal ha taubåt fastgjort i farvannet innenfor rette linjer trukket fra Billingen lanterne i retning rett nord til land på Kårstø og fra Billingen lanterne i retning 235° til land på Austre Bokn."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 123)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-3-paragraf-34",
+       "nummer": "§ 126",
+       "tittel": "(forbud mot bruk av farvannet ved gassterminalen på Kårstø)",
+       "ledd": [
+        "Fartøy skal ikke bruke farvannet innenfor følgende posisjoner:\na. 59°16.57′ N 5°28.79′ Ø\nb. 59°16.16′ N 5°29.25′ Ø\nc. 59°16.10′ N 5°29.47′ Ø\nd. 59°16.12′ N 5°30.99′ Ø\ne. 59°16.15′ N 5°31.45′ Ø\nf. 59°16.48′ N 5°31.89′ Ø.",
+        "Første ledd gjelder ikke fartøy som skal anløpe eller avgå gassterminalen på Kårstø og fartøy som assisterer ved ankomst eller avgang."
+       ],
+       "endringer": [
+        "Tilføyd ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026)."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-4",
+     "navn": "kapIV",
+     "overskrift": "IV Seilingsregler i Vestland",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-4-paragraf-1",
+       "nummer": "§ 127",
+       "tittel": "(krav om bruk av taubåt i Fedje tjenesteområde)",
+       "ledd": [
+        "Fartøy med farlig eller forurensende last som er større enn 20 000 BT, skal bruke taubåt når de bruker farvann innenfor grunnlinjen i Fedje tjenesteområde."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 124)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-4-paragraf-2",
+       "nummer": "§ 128",
+       "tittel": "(krav om bruk av toveis farled)",
+       "ledd": [
+        "Fartøy med farlig eller forurensende last skal bruke toveis farled ved Marstein som er beskrevet i Kystverkets digitale kart «Kystinfo», som er en del av forskriften.",
+        "Fartøy med farlig eller forurensende last og fartøy med større lengde enn 150 meter skal bruke toveis farled ved Fedjeosen og Holmengrå som er gjengitt i Kystverkets digitale kart «Kystinfo», som er en del av forskriften."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 125)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-4-paragraf-3",
+       "nummer": "§ 129",
+       "tittel": "(forbud mot gjennomseiling i Kobbeleia)",
+       "ledd": [
+        "Følgende fartøy skal ikke bruke farvannet fra Kjærringskjæret lanterne i vest til Vonflua lykt i øst til gjennomseiling:\na. fartøy med farlig eller forurensende last som har større lengde enn 120 meter\nb. fartøy med større lengde enn 150 meter\nc. fartøy med større lengde enn 120 meter og større dypgående enn 7 meter\nd. fartøy med større dypgående enn 8 meter."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 126)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-4-paragraf-4",
+       "nummer": "§ 130",
+       "tittel": "(krav om bruk av bestemt farvann ved seilas i Kobbeleia)",
+       "ledd": [
+        "Sørgående fartøy med større lengde enn 24 meter skal bruke farvannet nord om Kjerringholmen og nordgående fartøy med større lengde enn 24 meter skal bruke farvannet sør om Kjerringholmen."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 127)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-4-paragraf-5",
+       "nummer": "§ 131",
+       "tittel": "(forbud mot passering i Kobbeleia og Vatlestraumen)",
+       "ledd": [
+        "Fartøy med farlig eller forurensende last som har større lengde enn 100 meter og fartøy med større lengde enn 120 meter skal ikke passere andre fartøy i farvannet:\na. fra Kjærringskjæret lanterne i sør til Håkonshella lanterne i nord\nb. fra Hilleren lykt i sør til Håkonshella lanterne i nord.",
+        "Ved sikt under 0,5 nautisk mil skal ikke fartøy med større lengde enn 70 meter passere andre fartøy.",
+        "I de tilfeller som nevnt i første og annet ledd, skal et fartøy holde en avstand på minst 0,5 nautisk mil til fartøy som seiler i samme retning.",
+        "Første til tredje ledd gjelder ikke ved passering av fartøy med lengde mindre enn 50 meter når sjøtrafikksentralen har gitt tillatelse til slik passering."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 128)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-4-paragraf-6",
+       "nummer": "§ 132",
+       "tittel": "(forbud mot gjennomseiling av farvannet på strekningen Vatlestraumen til Sotra bro)",
+       "ledd": [
+        "Følgende fartøy skal ikke bruke farvannet fra Hilleren lykt i sør til Sotra bro i nord til gjennomseiling:\na. fartøy med farlig eller forurensende last og med større lengde enn 150 meter\nb. fartøy med større lengde enn 200 meter\nc. passasjerfartøy med større lengde enn 255 meter.",
+        "Anløp til eller avgang fra kai, ankringsplass eller fortøyningsplass i alt farvann mellom Hilleren lykt i sør og til Skjeljanger lykt i nord, regnes ikke som gjennomseiling."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 129)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-4-paragraf-7",
+       "nummer": "§ 133",
+       "tittel": "(forbud mot gjennomseiling i farvannet på strekningen Det naua–Skjeljanger)",
+       "ledd": [
+        "Fartøy med farlig eller forurensende last som har større lengde enn 70 meter og fartøy med større dypgående enn 6 meter skal ikke bruke farvannet fra Det naua lanterne i sør til Skjeljanger lykt i nord til gjennomseiling."
+       ],
+       "endringer": [
+        "Endret ved forskrifter 20 des 2021 nr. 3776 (i kraft 1 jan 2022), 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 130)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-4-paragraf-8",
+       "nummer": "§ 134",
+       "tittel": "(forbud mot passering i Det naua)",
+       "ledd": [
+        "Fartøy med større lengde enn 50 meter skal ikke passere andre fartøy i farvannet mellom Det naua lanterne og Parisholmen lanterne."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 131)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-4-paragraf-9",
+       "nummer": "§ 135",
+       "tittel": "(forbud mot passering i Ringholmsundet)",
+       "ledd": [
+        "Fartøy med større lengde enn 100 meter skal ikke passere andre fartøy i farvannet fra Ringholmsundet lanterne i sør til Skjeljanger lykt i nord."
+       ],
+       "endringer": [
+        "Endret ved forskrifter 30 jan 2023 nr. 113 (i kraft 1 feb 2023), 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 132)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-4-paragraf-10",
+       "nummer": "§ 136",
+       "tittel": "(forbud mot bruk av farvannet ved Stureterminalen)",
+       "ledd": [
+        "Fartøy skal ikke bruke farvannet innenfor følgende posisjoner:\na. 60° 37,49′ N 004° 51,25′ Ø\nb. 60° 37,56′ N 004° 51,48′ Ø\nc. 60° 37,38′ N 004° 51,78′ Ø\nd. 60° 36,69′ N 004° 52,01′ Ø\ne. 60° 36,50′ N 004° 51,89′ Ø\nf. 60° 36,51′ N 004° 51,85′ Ø\ng. 60° 36,53′ N 004° 51,80′ Ø\nh. 60° 36,63′ N 004° 51,66′ Ø.",
+        "Første ledd gjelder ikke fartøy som skal anløpe eller avgå Stureterminalen og fartøy som assisterer ved ankomst eller avgang."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 133)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-4-paragraf-11",
+       "nummer": "§ 137",
+       "tittel": "(forbud mot bruk av farvannet ved Rongeværosen)",
+       "ledd": [
+        "Fartøy med farlig eller forurensende last og fartøy med større lengde enn 100 meter skal ikke bruke farvannet fra Rongevær lykt i sør til Rongeværsund lykt i nord."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 134)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-4-paragraf-12",
+       "nummer": "§ 138",
+       "tittel": "(forbud mot bruk av farvannet ved Rongeværskallen)",
+       "ledd": [
+        "Fartøy med farlig eller forurensende last skal ikke bruke farvannet mellom Rongeværskallen (60° 50,08′ N 004° 45,72′ Ø) og Røvelskjæret varde."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 135)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-4-paragraf-13",
+       "nummer": "§ 139",
+       "tittel": "(forbud mot bruk av farvannet ved Mongstad oljeraffineri)",
+       "ledd": [
+        "Ferdsel i farvannet som strekker seg fra land ved Dyrøy og rett nord til 200 meter nord for raffineriets vestligste punkt (kai nr. 7), og videre i en avstand på 200 meter fra raffineriets kaiområde, fram til 200 meter øst for kaiområdets østligste punkt (kai nr. 14) er forbudt for alle fartøy, med unntak av fartøy som skal anløpe eller avgå Mongstad oljeraffineri og fartøy som assisterer ved ankomst eller avgang ved raffineriet."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 136)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-4-paragraf-14",
+       "nummer": "§ 140",
+       "tittel": "(forbud mot gjennomseiling i Hillesøyosen)",
+       "ledd": [
+        "Fartøy med større lengde enn 120 meter skal ikke bruke farvannet mellom Hillesøyna og Åra til gjennomseiling."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 137)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-4-paragraf-15",
+       "nummer": "§ 141",
+       "tittel": "(forbud mot gjennomseiling i Brosmeosen)",
+       "ledd": [
+        "Følgende fartøy skal ikke bruke farvannet mellom Brosmeskjærene lanterne og Røytingkalven lykt til gjennomseiling:\na. fartøy med farlig eller forurensende last som har større lengde enn 150 meter\nb. fartøy med større lengde enn 180 meter\nc. passasjerfartøy med større lengde enn 210 meter."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 138)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-4-paragraf-16",
+       "nummer": "§ 142",
+       "tittel": "(forbud mot passering i Brosmeosen)",
+       "ledd": [
+        "Fartøy med større lengde enn 120 meter skal ikke passere andre fartøy i farvannet vest av Røytingekalven hvis sikten er under 0,5 nautisk mil."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 139)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-4-paragraf-17",
+       "nummer": "§ 143",
+       "tittel": "(forbud mot gjennomseiling av Mjømnesundet og Ånnelandsundet)",
+       "ledd": [
+        "Fartøy med farlig eller forurensende last og større lengde enn 70 meter og fartøy med større lengde enn 100 meter, skal ikke bruke farvannet til gjennomseiling."
+       ],
+       "endringer": [
+        "Endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 140)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-4-paragraf-18",
+       "nummer": "§ 144",
+       "tittel": "(forbud mot passering i farvannet øst av Nordre Nærøya)",
+       "ledd": [
+        "Fartøy med større lengde enn 120 meter skal ikke passere andre fartøy i farvannet mellom Nærøysundet lanterne i sør og Drågjaskjerflua lykt i nord.",
+        "Første ledd gjelder ikke ved passering av fartøy med lengde mindre enn 50 meter når sjøtrafikksentralen har gitt tillatelse til slik passering."
+       ],
+       "endringer": [
+        "Tilføyd ved forskrift 31 mai 2021 nr. 1740 (i kraft 1 juni 2021), endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 141)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-4-paragraf-19",
+       "nummer": "§ 145",
+       "tittel": "(forbud mot passering på strekningen Gulen–Nordgulen)",
+       "ledd": [
+        "Fartøy med større lengde enn 120 meter skal ikke passere andre fartøy i farvannet mellom Leirvikneset lanterne i vest og Holmane lykt i nord."
+       ],
+       "endringer": [
+        "Tilføyd ved forskrift 31 mai 2021 nr. 1740 (i kraft 1 juni 2021), endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 142)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-4-paragraf-20",
+       "nummer": "§ 146",
+       "tittel": "(forbud mot bruk av farvannet i Skatestraumen)",
+       "ledd": [
+        "Fartøy med større lengde enn 225 meter skal ikke bruke farvannet mellom Hornelsneset lanterne i sør og Gangsøya lykt i nord."
+       ],
+       "endringer": [
+        "Tilføyd ved forskrift 31 mai 2021 nr. 1740 (i kraft 1 juni 2021), endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 143)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-4-paragraf-21",
+       "nummer": "§ 147",
+       "tittel": "(forbud mot passering i Skatestraumen)",
+       "ledd": [
+        "Fartøy med større lengde enn 120 meter skal ikke passere andre fartøy i farvannet mellom Hornelsneset lanterne i sør og Hornelsflua lanterne i vest.",
+        "Fartøy med større lengde enn 120 meter eller større dypgående enn 8,5 meter skal ikke passere andre fartøy i farvannet mellom Kalveholmen lykt i øst og Mjåholmen lanterne i vest.",
+        "Første og andre ledd gjelder ikke passering av fartøy med lengde mindre enn 50 meter når sjøtrafikksentralen har gitt tillatelse til slik passering."
+       ],
+       "endringer": [
+        "Tilføyd ved forskrift 31 mai 2021 nr. 1740 (i kraft 1 juni 2021), endret ved forskrifter 20 des 2021 nr. 3776 (i kraft 1 jan 2022), 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 144)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-4-paragraf-22",
+       "nummer": "§ 148",
+       "tittel": "(forbud mot passering i Djupsundet og Risøystraumen)",
+       "ledd": [
+        "Fartøy med større lengde enn 24 meter skal ikke passere andre fartøy i farvannet mellom Risøy lykt i sør og Gangsøya lykt i nord."
+       ],
+       "endringer": [
+        "Tilføyd ved forskrift 31 mai 2021 nr. 1740 (i kraft 1 juni 2021), endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 145)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-4-paragraf-23",
+       "nummer": "§ 149",
+       "tittel": "(forbud mot passering i Måløysundet)",
+       "ledd": [
+        "Fartøy med større lengde enn 120 meter skal ikke passere andre fartøy på strekningen mellom Måløysundet lykt i sør og nordligste punkt på Østre Fiskarkai (61° 55,89′ N 005° 07,17′ Ø) i nord.",
+        "Første ledd gjelder ikke ved passering av fartøy med lengde mindre enn 50 meter når sjøtrafikksentralen har gitt tillatelse til slik passering."
+       ],
+       "endringer": [
+        "Tilføyd ved forskrift 31 mai 2021 nr. 1740 (i kraft 1 juni 2021), endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 146)."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-5",
+     "navn": "kapV",
+     "overskrift": "V Seilingsregler i Møre og Romsdal",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-5-paragraf-1",
+       "nummer": "§ 150",
+       "tittel": "(krav om bruk av farvann ved innseilingen til Nyhamna)",
+       "ledd": [
+        "Fartøy med farlig eller forurensende last med større lengde enn 200 meter og større dypgående enn 9 meter skal bruke Budadjupet og Harøyfjorden ved seilas mellom Nyhamna og losbordingsfeltet ved Ona."
+       ],
+       "endringer": [
+        "Endret ved forskrifter 31 mai 2021 nr. 1740 (i kraft 1 juni 2021, tidligere § 141), 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 147)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-5-paragraf-2",
+       "nummer": "§ 151",
+       "tittel": "(krav om bruk av farvann på strekningen Nyhamna og ankringsplassene i Karlsøyfjorden og Midfjorden)",
+       "ledd": [
+        "Fartøy med farlig eller forurensede last som seiler mellom Nyhamna og ankringsplassene i Karlsøyfjorden og Midfjorden skal bruke farvannet gjennom Julsundet."
+       ],
+       "endringer": [
+        "Endret ved forskrifter 31 mai 2021 nr. 1740 (i kraft 1 juni 2021, tidligere § 142), 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 148)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-5-paragraf-3",
+       "nummer": "§ 152",
+       "tittel": "(forbud mot bruk av farvann ved terminalen på Nyhamna)",
+       "ledd": [
+        "Fartøy skal ikke bruke farvannet i et område avgrenset av rette linjer mellom følgende posisjoner:\na. 62° 51,50′ N 006° 56,73′ Ø (Selsneset)\nb. 62° 51,20′ N 006° 58,00′ Ø\nc. 62° 51,05′ N 006° 57,96′ Ø (Steinneset).",
+        "Første ledd gjelder ikke fartøy som har tillatelse fra terminalen på Nyhamna eller fartøy som assisterer annet fartøy som har slik tillatelse."
+       ],
+       "endringer": [
+        "Endret ved forskrifter 31 mai 2021 nr. 1740 (i kraft 1 juni 2021, tidligere § 143), endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 149)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-5-paragraf-4",
+       "nummer": "§ 153",
+       "tittel": "(krav om siktforhold i farvannet ved Nyhamna)",
+       "ledd": [
+        "Fartøy med farlig eller forurensende last med større lengde enn 170 meter skal ikke bruke aktsomhetsområdet som vist i Kystverkets digitale kart «Kystinfo» når sikten er under 1 nautisk mil."
+       ],
+       "endringer": [
+        "Endret ved forskrifter 31 mai 2021 nr. 1740 (i kraft 1 juni 2021, tidligere § 144), 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 150)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-5-paragraf-5",
+       "nummer": "§ 154",
+       "tittel": "(krav om bruk av eskortefartøy i farvannet ved Nyhamna)",
+       "ledd": [
+        "Fartøy med farlig eller forurensende last på vei til eller fra Nyhamna skal ha eskortefartøy fastgjort når fartøyet er underveis i aktsomhetsområdet som vist i Kystverkets digitale kart «Kystinfo».",
+        "Fartøy med farlig eller forurensende last på vei til eller fra Nyhamna som bruker Harøyfjorden eller Midfjorden ved seilas mellom aktsomhetsområdet som vist i Kystverkets digitale kart «Kystinfo» og losbordingsfeltet i Breisundet, skal ha assistanse av eskortefartøy øst av Hogsteinen fyr."
+       ],
+       "endringer": [
+        "Endret ved forskrifter 31 mai 2021 nr. 1740 (i kraft 1 juni 2021, tidligere § 145), 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 151)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-5-paragraf-6",
+       "nummer": "§ 155",
+       "tittel": "(krav om bruk av ankringsplasser for fartøy med farlig eller forurensende last på vei til eller fra Nyhamna)",
+       "ledd": [
+        "Fartøy med farlig eller forurensende last på vei til eller fra Nyhamna, og som har behov for ankring, skal bruke en av følgende ankringsplasser:\na. ankringsplass i Karlsøyfjorden som er angitt av rette linjer mellom følgende posisjoner:\n- 62° 42,61′ N 007° 22,26′ Ø\n- 62° 41,95′ N 007° 17,40′ Ø\n- 62° 42,96′ N 007° 17,40′ Ø\n- 62° 43,66′ N 007° 22,26′ Ø\nb. ankringsplass i Midfjorden som er angitt av rette linjer mellom følgende posisjoner:\n- 62° 39,41′ N 006° 56,82′ Ø\n- 62° 38,83′ N 006° 53,54′ Ø\n- 62° 39,60′ N 006° 53,20′ Ø\n- 62° 39,82′ N 006° 55,62′ Ø."
+       ],
+       "endringer": [
+        "Endret ved forskrifter 31 mai 2021 nr. 1740 (i kraft 1 juni 2021, tidligere § 146), 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 152)."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-6",
+     "navn": "kapVI",
+     "overskrift": "VI Seilingsregler i Nordland",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-6-paragraf-1",
+       "nummer": "§ 156",
+       "tittel": "(krav om tildelt ankringsplass før passering av grunnlinjen i Vestfjorden)",
+       "ledd": [
+        "Fartøy med større lengde enn 150 meter som skal ankre i Ofotfjorden, Herjangfjorden eller Narvikbukta, øst av Fornes lykt, skal ikke passere grunnlinjen i Vestfjorden før fartøyet er tildelt ankringsplass av sjøtrafikksentralen i Vardø."
+       ],
+       "endringer": [
+        "Endret ved forskrifter 31 mai 2021 nr. 1740 (i kraft 1 juni 2021, tidligere § 147), 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 153)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-6-paragraf-2",
+       "nummer": "§ 157",
+       "tittel": "(krav om bruk av ankringsplasser i Ofotfjorden, Herjangsfjorden og Narvikbukta)",
+       "ledd": [
+        "Fartøy med større lengde enn 70 meter som skal ankre i Ofotfjorden, Herjangsfjorden og Narvikbukta, øst av Fornes lykt, skal ikke ankre opp før fartøyet er tildelt ankringsplass av sjøtrafikksentralen i Vardø.",
+        "Ved tildeling av ankringsplass kan sjøtrafikksentralen i Vardø sette vilkår for ankringen. Når det er nødvendig sjøsikkerhetsmessig kan sjøtrafikksentralen begrense hvor mange ankringsposisjoner som kan brukes.",
+        "Fartøy som nevnt i første ledd skal bruke en av følgende ankringsplasser\na. ankringsplass ved Herjangen 1 (68° 29.50′ N 017° 25.85 Ø)\nb. ankringsplass ved Herjangen 2 (68° 28.9′ N 017° 25.60 Ø)\nc. ankringsplass ved Herjangen 3 (68° 28.2′ N 017° 25.10 Ø)\nd. ankringsplasser utpekt i forskrift 17. desember 2020 nr. 3277 om ankring, Narvik kommune, Nordland."
+       ],
+       "endringer": [
+        "Endret ved forskrifter 31 mai 2021 nr. 1740 (i kraft 1 juni 2021, tidligere § 148), 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 154)."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-7",
+     "navn": "kapVII",
+     "overskrift": "VII Seilingsregler i Troms og Finnmark",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-7-paragraf-1",
+       "nummer": "§ 158",
+       "tittel": "(krav om bruk av farvann ved innseilingen til Melkøya)",
+       "ledd": [
+        "Fartøy med farlig eller forurensende last, som skal anløpe eller avgå fra terminalen på Melkøya, eller som skal ankre eller avgå fra ankerplass i farvannet, skal bruke farvannet vest av Rolvsøya og øst om Sørøya på seilas mellom Melkøya og losbordingsfeltet vest av Fruholmen."
+       ],
+       "endringer": [
+        "Endret ved forskrifter 31 mai 2021 nr. 1740 (i kraft 1 juni 2021, tidligere § 149), 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 155)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-7-paragraf-2",
+       "nummer": "§ 159",
+       "tittel": "(forbud mot bruk av farvann ved terminalen på Melkøya)",
+       "ledd": [
+        "Fartøy skal ikke bruke farvannet innenfor en radius på 200 meter rundt Melkøya. Dette gjelder ikke fartøy som har tillatelse fra terminalen på Melkøya."
+       ],
+       "endringer": [
+        "Endret ved forskrifter 31 mai 2021 nr. 1740 (i kraft 1 juni 2021, tidligere § 150), 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 156)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-7-paragraf-3",
+       "nummer": "§ 160",
+       "tittel": "(forbud mot bruk av farvann rundt terminalen på Melkøya)",
+       "ledd": [
+        "Fartøy skal ikke bruke farvannet innenfor en rett linje fra Meland (70° 40,63′ N 023° 38,40′ Ø) i retning 220° til koordinatene 70° 39,30′ N og 023° 34,50′ Ø og derfra i en radius av 1,5 nautiske mil fra sydvestpynten av Melkøya, når sjøtrafikksentralen i Vardø utsteder forbud mot bruk av farvannet i forbindelse med ankomst og avgang fra terminalen på Melkøya.",
+        "Første ledd gjelder ikke fartøy som har tillatelse fra terminalen på Melkøya eller fartøy som assisterer fartøy som har tillatelse."
+       ],
+       "endringer": [
+        "Endret ved forskrifter 31 mai 2021 nr. 1740 (i kraft 1 juni 2021, tidligere § 151), 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 157)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-7-paragraf-4",
+       "nummer": "§ 161",
+       "tittel": "(krav om siktforhold på strekning Lopphavet–Sørøysundet–Fruholmen)",
+       "ledd": [
+        "Fartøy med farlig eller forurensende last skal ikke bruke farvannet mellom Karken lykt i sør og Fruholmen lykt i nord når sikten er under 1 nautisk mil."
+       ],
+       "endringer": [
+        "Endret ved forskrifter 31 mai 2021 nr. 1740 (i kraft 1 juni 2021, tidligere § 152), 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 158)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-7-paragraf-5",
+       "nummer": "§ 162",
+       "tittel": "(krav om bruk av eskortefartøy ved terminalen på Melkøya)",
+       "ledd": [
+        "Fartøy med farlig eller forurensende last skal bruke eskortefartøy ved anløp til eller avgang fra terminalen på Melkøya.",
+        "Fartøy som nevnt i første ledd skal ved seilas i tjenesteområdet til Vardø sjøtrafikksentral ha eskortefartøy fastgjort i farvannet mellom Karken lykt i sør og Litlenæringen lykt i nord. Eskortefartøy skal være fastgjort før fartøyet forlater kai eller ankerplass."
+       ],
+       "endringer": [
+        "Endret ved forskrifter 31 mai 2021 nr. 1740 (i kraft 1 juni 2021, tidligere § 153), 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 159)."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-8",
+     "navn": "kapVIII",
+     "overskrift": "VIII Seilingsregler på Svalbard",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-8-paragraf-1",
+       "nummer": "§ 163",
+       "tittel": "(krav til fartøy som bruker Akselsundet)",
+       "ledd": [
+        "Fartøy som bruker Akselsundet skal ha ankrene klare til umiddelbar bruk. Det skal være utplassert mannskap ved ankeret."
+       ],
+       "endringer": [
+        "Endret ved forskrifter 31 mai 2021 nr. 1740 (i kraft 1 juni 2021, tidligere § 154), 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 160)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-8-paragraf-2",
+       "nummer": "§ 164",
+       "tittel": "(forbud mot bruk av Akselsundet)",
+       "ledd": [
+        "Fartøy med større lengde enn 160 meter skal ikke bruke farvannet i Akselsundet øst for Millarodden (77° 44,05′ N 014° 23,76′ Ø) når strømmen gjennom sundet er større enn 1,5 knop eller vindstyrken er over 14 meter per sekund.",
+        "Farvannet nevnt i første ledd skal ikke brukes av fartøy med større lengde enn 250 meter eller større dypgående enn 15 meter."
+       ],
+       "endringer": [
+        "Endret ved forskrifter 31 mai 2021 nr. 1740 (i kraft 1 juni 2021, tidligere § 155), 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 161)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-8-paragraf-3",
+       "nummer": "§ 165",
+       "tittel": "(krav om siktforhold i Akselsundet)",
+       "ledd": [
+        "Fartøy med større lengde enn 160 meter skal ikke bruke farvannet i Akselsundet øst for Millarodden (77° 44,05′ N 014° 23,76′ Ø) når sikten er under 1 nautisk mil."
+       ],
+       "endringer": [
+        "Endret ved forskrifter 31 mai 2021 nr. 1740 (i kraft 1 juni 2021, tidligere § 156), 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 162)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-8-paragraf-4",
+       "nummer": "§ 166",
+       "tittel": "(forbud mot passering i Akselsundet)",
+       "ledd": [
+        "Fartøy med større lengde enn 50 meter eller fartøy med farlig eller forurensende last skal ikke passere andre fartøy i Akselsundet.",
+        "I de tilfeller som nevnt i første ledd, skal et fartøy holde en avstand på minst 0,5 nautisk mil til fartøy som seiler i samme retning."
+       ],
+       "endringer": [
+        "Endret ved forskrifter 31 mai 2021 nr. 1740 (i kraft 1 juni 2021, tidligere § 157), 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 163)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-8-paragraf-5",
+       "nummer": "§ 167",
+       "tittel": "(krav om bruk av taubåt i Akselsundet)",
+       "ledd": [
+        "Fartøy med større lengde enn 160 meter skal ha assistanse av 2 taubåter ved passering Akselsundet, hvor av en skal være fastgjort før passering Akselsundet og under hele passeringen av sundet. Fartøy skal ikke påbegynne sin innseiling før det er innhentet bekreftelse på at posisjonen til lysbøyene i farvannet er kontrollert."
+       ],
+       "endringer": [
+        "Endret ved forskrifter 31 mai 2021 nr. 1740 (i kraft 1 juni 2021, tidligere § 158), 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 164)."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Seilingsregler for passasjerskip i bestemte farvann",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Kapittel 4 tilføyd ved forskrift 29 okt 2025 nr. 2159 (i kraft 1 jan 2026)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 168",
+     "tittel": "(forbud mot bruk av farvann for passasjerskip over 150 meter ved sterk kuling)",
+     "ledd": [
+      "Passasjerfartøy med større lengde enn 150 meter som frakter passasjerer, skal ikke bruke farvann som beskrevet i andre ledd ved varslet vindhastighet (10 minutt middelvind) på 17,2 m/s eller mer.",
+      "Forbudet i første ledd gjelder i følgende farvann, som er nærmere beskrevet i Kystverkets digitale kart «Kystinfo», og er en del av forskriften:\na. Stad, strekningen Sildegapet til Runde fyr\nb. Hustadvika, strekningen Buadjupet til Grip fyr\nc. Folda, strekningen Buholmråsa fyr til Rørvik\nd. Fugløykalven, strekningen Hekkingen til Fugløykalven\ne. Sørøya, strekningen Hasvik til Tarhalsen\nf. Honningsvåg, strekningen Fruholmen til Helneset.",
+      "Ved fastsettelse av vindhastighet skal den offisielle kuling- og stormvarslingen til Meteorologisk institutt legges til grunn.",
+      "Forbudet i første ledd gjelder ikke for fremmede fartøy som er i uskyldig gjennomfart i sjøterritoriet."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 29 okt 2025 nr. 2159 (i kraft 1 jan 2026), endret ved forskrift 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 165)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Rutetiltak i Norges økonomiske sone",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrift 29 okt 2025 nr. 2159 (i kraft 1 jan 2026, tidligere kapittel 4)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 169",
+     "tittel": "(geografisk virkeområde)",
+     "ledd": [
+      "Kapittel 5 gjelder i Norges økonomiske sone og berørte deler av Norges territorialfarvann med de begrensninger som følger av folkeretten. Rutetiltakene gjelder områder angitt i kapitlet."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 31 mai 2021 nr. 1740 (i kraft 1 juni 2021, tidligere § 159), 29 okt 2025 nr. 2159 (i kraft 1 jan 2026, endringen endret ved forskrift 28 nov 2025 nr. 2403, tidligere § 165), 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 166)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 170",
+     "tittel": "(hvem rutetiltakene i § 171 gjelder for)",
+     "ledd": [
+      "Rutetiltakene i § 171 gjelder for følgende kategorier fartøy:\na. oljetankfartøy som definert i MARPOL 73/78, vedlegg I\nb. kjemikalietankfartøy som transporterer skadelige flytende stoffer i bulk når stoffene er vurdert eller foreløpig vurdert som Kategori X eller Y i henhold til MARPOL 73/78, vedlegg II,\nc. fartøy som fører radioaktive stoffer som definert i den internasjonale koden for sikker transport av bestrålt nukleært brensel, plutonium og sterkt radioaktivt avfall i beholdere (INF-koden)\nd. atomdrevne fartøy, og\ne. fartøy på 5 000 bruttotonn og mer.",
+      "Første ledd gjelder ikke for fartøy som går mellom havner i Fastlands-Norge, eller for passasjerfartøy som går i rutefart mellom norsk og internasjonal havn med anløp minst en gang i uken."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 31 mai 2021 nr. 1740 (i kraft 1 juni 2021, tidligere § 160), 29 okt 2025 nr. 2159 (i kraft 1 jan 2026, endringen endret ved forskrift 28 nov 2025 nr. 2403, tidligere § 166), 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 167)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 171",
+     "tittel": "(bruk av rutetiltakene i norske farvann)",
+     "ledd": [
+      "For fartøy nevnt i § 170 som ferdes på strekningene Egersund–Risør, Halten–Utsira og Træna–Vardø gjelder trafikkseparasjonssystemene som beskrevet i Kystverkets digitale kart «Kystinfo», som er en del av forskriften.",
+      "Fartøy skal så vidt mulig følge de anbefalte seilingsrutene på strekningene mellom trafikkseparasjonssystemene.",
+      "Fartøy skal så vidt mulig følge rutetiltakene frem til en tydelig kurs, som ivaretar en sikker avstand fra land, kan settes mot havn."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 31 mai 2021 nr. 1740 (i kraft 1 juni 2021, tidligere § 161), 29 okt 2025 nr. 2159 (i kraft 1 jan 2026, endringen endret ved forskrift 28 nov 2025 nr. 2403, tidligere § 167), 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 168)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-4",
+     "nummer": "§ 172",
+     "tittel": "(tilsyn)",
+     "ledd": [
+      "Kystverket fører tilsyn med at bestemmelsene i dette kapitlet overholdes.",
+      "Fartøy som ikke følger rutetiltakene vil bli anmodet av Kystverket om å følge tiltakene. Fartøy som etter anmodning likevel ikke følger rutetiltakene vil bli rapportert til sin flaggstat."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 31 mai 2021 nr. 1740 (i kraft 1 juni 2021, tidligere § 163), 29 okt 2025 nr. 2159 (i kraft 1 jan 2026, tidligere § 168), 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 169)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Sanksjoner",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrift 29 okt 2025 nr. 2159 (i kraft 1 jan 2026, tidligere kapittel 5)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 173",
+     "tittel": "(sanksjoner)",
+     "ledd": [
+      "Overtredelse av forskriftens kapittel 2, 3 og 4 eller enkeltvedtak gitt i medhold av disse kan ilegges overtredelsesgebyr etter havne og farvannsloven § 50.",
+      "Overtredelse av forskriftens kapittel 2, 3 og 4 eller enkeltvedtak gitt i medhold av disse kan ilegges straff etter havne og farvannsloven § 51."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 31 mai 2021 nr. 1740 (i kraft 1 juni 2021, tidligere § 164), 29 okt 2025 nr. 2159 (i kraft 1 jan 2026, tidligere § 169), 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 170)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kap7",
+   "overskrift": "Kapittel 7. Ikrafttredelse. Opphevelse av andre forskrifter",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrift 29 okt 2025 nr. 2159 (i kraft 1 jan 2026, tidligere kapittel 6)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 174",
+     "tittel": "(ikrafttredelse)",
+     "ledd": [
+      "Forskriften trer i kraft 1. april 2021.",
+      "Fra samme tidspunkt oppheves forskrift 23. september 2015 nr. 1094 om bruk av sjøtrafikksentralenes tjenesteområde og bruk av bestemte farvann (sjøtrafikkforskriften)."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 31 mai 2021 nr. 1740 (i kraft 1 juni 2021, tidligere § 165), 29 okt 2025 nr. 2159 (i kraft 1 jan 2026, tidligere § 170), 29 juni 2026 nr. 1454 (i kraft 1 juli 2026, tidligere § 171)."
+     ]
+    }
+   ]
+  }
+ ]
+}

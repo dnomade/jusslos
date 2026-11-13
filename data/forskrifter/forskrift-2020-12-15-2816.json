@@ -1,0 +1,69 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2020-12-15-2816",
+ "dokumentid": "SF/forskrift/2020-12-15-2816",
+ "departement": [
+  "Helse- og omsorgsdepartementet"
+ ],
+ "etat": [
+  "Primærhelsetjenesten"
+ ],
+ "ikraft": "2021-01-01",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1997-02-28-19/§22-2",
+   "tekst": "lov/1997-02-28-19/§22-2"
+  }
+ ],
+ "kunngjort": "2020-12-18 10:55",
+ "korttittel": "Forskrift om direkte oppgjør for stønad etter folketrygdloven kapittel 5",
+ "tittel": "Forskrift om direkte oppgjør for stønad etter folketrygdloven kapittel 5",
+ "annet": "Hjemmel: Fastsatt av Helse- og omsorgsdepartementet 15. desember 2020 med hjemmel i lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven) § 22-2.",
+ "refid": "forskrift/2020-12-15-2816",
+ "eli": "/eli/forskrift/2020/12/15/2816",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2020-12-15-2816",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Virkeområde",
+   "ledd": [
+    "Forskriften gjelder behandling av krav om direkte oppgjør fra behandlere og tjenesteytere i Norge for utgifter til helsetjenester etter kapittel 5 i lov om folketrygd med tilhørende forskrifter."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Digital fremsettelse av oppgjørskrav",
+   "ledd": [
+    "Digital fremsettelse av krav skal utføres ved å sende kryptert standardisert melding med oppgjørskrav og egenandelsopplysninger over sikkert nett i henhold til Norm for informasjonssikkerhet og personvern i helse- og omsorgstjenesten.",
+    "Helsedirektoratet kan gjøre unntak fra første ledd for:\n1. Behandlere og tjenesteytere med gjennomsnittlig refusjonsinntekt inntil det beløp som Helsedirektoratet fastsetter. Beløpsgrensen er lik for alle behandlere og tjenesteytere.\n2. Behandlere og tjenesteytere som ikke er helsepersonell.\n3. Kommuner.",
+    "Behandlere eller tjenesteytere som er unntatt etter annet ledd må fremsette sine krav og egenandelsopplysninger gjennom en sikker opplastningstjeneste.",
+    "Behandler eller tjenesteyter skal fremsette krav om oppgjør til det organ Helsedirektoratet bestemmer."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Formkrav",
+   "ledd": [
+    "Oppgjørskrav skal utformes i samsvar med format fastsatt av Helsedirektoratet eller det organ direktoratet bestemmer, med mindre annet er bestemt i særlovgivning.",
+    "Oppgjørskrav som ikke utformes som er bestemt etter første ledd, avvises. Avviste krav kan, innenfor gjeldende frister, fremmes på nytt i henhold til forskriftens bestemmelser."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Forskriften trer i kraft 1. januar 2021."
+   ]
+  }
+ ]
+}

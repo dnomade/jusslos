@@ -1,0 +1,68 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-1992-01-24-4316",
+ "dokumentid": "SF/forskrift/1992-01-24-4316",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "etat": [
+  "Konkurransepolitisk avd."
+ ],
+ "siste_endring_ikraft": "2004-04-28",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2004-04-28-672",
+   "tekst": "forskrift/2004-04-28-672"
+  }
+ ],
+ "endrer": "forskrift/1950-12-22-8656",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1993-06-11-65/§7-2",
+   "tekst": "lov/1993-06-11-65/§7-2"
+  },
+  {
+   "ref": "forskrift/1993-11-12-1022",
+   "tekst": "forskrift/1993-11-12-1022"
+  }
+ ],
+ "korttittel": "Forskrift om det alm. prisreguleringsfond",
+ "tittel": "Forskrift om det alminnelige prisreguleringsfond.",
+ "annet": "Fastsatt av Arbeids- og administrasjonsdepartementet 24. januar 1992 med hjemmel i lov 11. juni 1993 nr. 65 om konkurranse i ervervsvirksomhet (konkurranseloven) § 7-2 og delegeringsvedtak 12. november 1993 nr. 1022. Endret 28 april 2004 nr. 672 (forskriften kunngjort i sin helhet etter endringer og for første gang).",
+ "refid": "forskrift/1992-01-24-4316",
+ "eli": "/eli/forskrift/1992/01/24/4316",
+ "url": "https://lovdata.no/dokument/SF/forskrift/1992-01-24-4316",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Fondets anvendelse",
+   "ledd": [
+    "Midlene i fondet kan etter vedtak av Arbeids- og administrasjonsdepartementet nyttes innenfor formål angitt i prisloven § 25.",
+    "Fondets midler må ikke overføres til statskassen. Staten er ikke ansvarlig for fondets forpliktelser."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Fondets administrasjon",
+   "ledd": [
+    "Konkurransetilsynet skal administrere fondets midler i samsvar med de nærmere bestemmelser som Arbeids- og administrasjonsdepartementet gir. Har departementet ikke bestemt noe annet, skal midlene være plassert i Norges Bank."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Regnskap",
+   "ledd": [
+    "Konkurransetilsynet skal forestå regnskapsføring for fondet. Inn- og utbetalinger, regnskapsføring og rapportering skal skje etter bestemmelsene i økonomiregelverket med rundskriv fra Finansdepartementet og i overensstemmelse med retningslinjer fra Arbeids- og administrasjonsdepartementet.",
+    "Dersom regnskapet ikke blir revidert av Riksrevisjonen, treffer Arbeids- og administrasjonsdepartementet bestemmelse om revisjon og oppnevner revisor."
+   ]
+  }
+ ]
+}

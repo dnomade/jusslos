@@ -1,0 +1,81 @@
+{
+ "skjema": "1.0",
+ "type": "stortingsvedtak",
+ "datokode": "FOR-2025-12-18-2749",
+ "dokumentid": "STV/forskrift/2025-12-18-2749",
+ "departement": [
+  "Stortinget"
+ ],
+ "ikraft": "Inntektsåret 2026",
+ "siste_endring_ikraft": "2026-06-19",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2026-06-19-1245",
+   "tekst": "forskrift/2026-06-19-1245"
+  }
+ ],
+ "hjemmel": [
+  {
+   "ref": "lov/1814-05-17/§75",
+   "tekst": "lov/1814-05-17/§75"
+  },
+  {
+   "ref": "lov/1997-02-28-19/§23-2a",
+   "tekst": "lov/1997-02-28-19/§23-2a"
+  }
+ ],
+ "kunngjort": "2025-12-22 11:30",
+ "tittel": "Stortingsvedtak om fastsetting av finansskatt på lønn for 2026",
+ "annet": "Hjemmel: Vedtatt av Stortinget 18. desember 2025 med hjemmel i Kongeriket Norges Grunnlov 17. mai 1814 § 75 bokstav a, jf. lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven) § 23-2a.\nEndret ved vedtak 19 juni 2026 nr. 1245.",
+ "refid": "forskrift/2025-12-18-2749",
+ "eli": "/eli/forskrift/2025/12/18/2749",
+ "url": "https://lovdata.no/dokument/STV/forskrift/2025-12-18-2749",
+ "innhold": [
+  {
+   "type": "tekst",
+   "tekst": "For inntektsåret 2026 svares finansskatt på lønn etter følgende regler og satser, jf. lov 28. februar 1997 nr. 19 om folketrygd § 23-2a:"
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Finansielle aktiviteter",
+   "ledd": [
+    "Arbeidsgivere som utøver aktiviteter omfattet av næringshovedområde L «Finansiell tjenesteyting» i Statistisk sentralbyrås standard for næringsgruppering anses å utøve finansielle aktiviteter."
+   ],
+   "endringer": [
+    "Endret ved vedtak 19 juni 2026 nr. 1245."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Unntak fra plikten til å svare finansskatt på lønn",
+   "ledd": [
+    "(1) Arbeidsgivere som utøver finansielle aktiviteter, er unntatt fra skatteplikten etter folketrygdloven § 23-2a dersom andelen av arbeidsgiverens lønnskostnader mv. knyttet til finansielle aktiviteter utgjør mindre enn 30 pst. av arbeidsgiverens totale lønnskostnader, jf. folketrygdloven § 23-2a annet ledd.",
+    "(2) Beregningen av andelen av arbeidsgiverens samlede lønnskostnader mv. knyttet til finansielle aktiviteter etter første ledd, skal enten basere seg på samlet lønn mv. omfattet av folketrygdloven § 23-2a annet ledd for foregående inntektsår eller på det tilsvarende beløpet for januar 2026. For arbeidsgivere som etableres etter 31. januar 2026, og virksomheter som av andre årsaker ikke har lønnsgrunnlag som nevnt i forrige punktum, skal samlet lønn mv. for den første hele opplysningspliktige kalendermåneden legges til grunn for beregningen.",
+    "(3) Arbeidsgivere med finansielle aktiviteter hvor andelen lønn mv. knyttet til merverdiavgiftspliktig, finansiell aktivitet utgjør mer enn 70 pst. av arbeidsgiverens samlede lønn mv. knyttet til finansielle aktiviteter, er unntatt fra skatteplikten etter folketrygdloven § 23-2a. Annet ledd gjelder tilsvarende for beregningen av andelen lønn mv. knyttet til merverdiavgiftspliktig, finansiell aktivitet.",
+    "(4) Arbeidsgivere som driver ikke-økonomisk aktivitet kan, dersom de har et klart regnskapsmessig skille mellom lønn mv. knyttet til henholdsvis ikke-økonomisk aktivitet og økonomisk aktivitet, beregne finansskatt på lønn etter folketrygdloven § 23-2a bare for den delen av lønn mv. som knytter seg til virksomhetens økonomiske aktivitet."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Sats for finansskatt på lønn",
+   "ledd": [
+    "Satsen for finansskatt på lønn for inntektsåret 2026 er 5 pst."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Forskriftsfullmakt",
+   "ledd": [
+    "Departementet kan gi regler til utfylling og gjennomføring av bestemmelsene i dette vedtaket."
+   ]
+  }
+ ]
+}

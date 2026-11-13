@@ -1,0 +1,682 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2011-03-28-337",
+ "dokumentid": "SF/forskrift/2011-03-28-337",
+ "departement": [
+  "Justis- og beredskapsdepartementet"
+ ],
+ "etat": [
+  "Sivilavdelingen"
+ ],
+ "kunngjort_i": "I 2011 hefte 3",
+ "ikraft": "2011-04-01, 2018-01-01, 2023-10-01",
+ "siste_endring_ikraft": "2023-10-18",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2023-10-18-1648",
+   "tekst": "forskrift/2023-10-18-1648"
+  }
+ ],
+ "endrer": "forskrift/2004-05-25-787",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2001-01-05-1/§19",
+   "tekst": "lov/2001-01-05-1/§19"
+  }
+ ],
+ "kunngjort": "2011-04-01 13:50",
+ "siste_rettelse": "2013-10-23 (EØS-henvisningsfeltet oppdatert)",
+ "korttittel": "Vaktvirksomhetsforskriften",
+ "tittel": "Forskrift om vaktvirksomhet (vaktvirksomhetsforskriften)",
+ "annet": "Hjemmel: Fastsatt av Justis- og politidepartementet 28. mars 2011 med hjemmel i lov 5. januar 2001 nr. 1 om vaktvirksomhet (vaktvirksomhetsloven) § 19.\nEØS-henvisninger: EØS-avtalen vedlegg VII nr. 1 (direktiv 2005/36/EF endret ved direktiv 2006/100/EF, forordning (EF) nr. 1430/2007, forordning (EF) nr. 755/2008, forordning (EF) nr. 279/2009, forordning (EU) nr. 213/2011 og forordning (EU) nr. 623/2012).\nEndret ved forskrifter 19 juni 2015 nr. 673, 20 mars 2013 nr. 323 som endret ved forskrift 20 des 2017 nr. 2315, 20 des 2017 nr. 2316, 25 mai 2021 nr. 1628, 25 mai 2021 nr. 1628 (i kraft 1 mars 2023), 21 april 2023 nr. 526, 9 aug 2023 nr. 1315, 18 okt 2023 nr. 1648.\nRettelser: 23.10.2013 (EØS-henvisningsfeltet oppdatert).",
+ "refid": "forskrift/2011-03-28-337",
+ "eli": "/eli/forskrift/2011/03/28/337",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2011-03-28-337",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Virkeområde",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Med egenvakthold etter vaktvirksomhetsloven § 2 forstås vakttjenester knyttet til egen privat eiendom, egne statlige og kommunale eiendommer med tilliggende bygninger og ansatte og leiet og festet eiendom så lenge vakttjenestene utføres av virksomhetens egne ansatte eller innleid personell. Vaktvirksomhetsloven gjelder ikke for egenvakthold av eiendom som benyttes av fremmed stat for ambassadeformål.",
+      "Unntaket etter vaktvirksomhetsloven § 2 tredje ledd første punktum omfatter døgnbemannet egenvakthold når det ordensmessige behovet for tjenesten er sporadisk og har lite omfang. Unntaket etter vaktvirksomhetsloven § 2 tredje ledd annet punktum omfatter ikke personkontroll ved havnenes cruise- og passasjerterminaler."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Særlig om vakttjenester",
+     "ledd": [
+      "Ved vurderingen av om en tjeneste skal regnes som vakttjeneste etter vaktvirksomhetsloven § 2 skal det legges vekt på tjenestens formål og karakter, særlig på risikoen for bruk av makt og om andre kvalitets-, sikkerhets- og rettssikkerhetshensyn tilsier at tjenesten omfattes av vaktvirksomhetsloven.",
+      "Som vakttjeneste regnes ordensvakttjeneste og andre tjenester som er innrettet for å håndtere ordensmessige problemer eller oppfyller politiets pålegg om vakthold. Som ordensvakttjeneste regnes tjeneste på serveringssted for å ivareta ro og orden, utføre ordensrettet adgangskontroll, bortvise personer, hindre og dempe konflikter uten bruk av vold og bistå ved krisesituasjoner.",
+      "Dersom det kreves tilgang til sensitive opplysninger for å utføre bestemte oppgaver, skal oppgavene regnes som direkte knyttet til vakttjeneste etter vaktvirksomhetsloven § 8.",
+      "Som vakttjeneste regnes ikke:\na. nabohjelp eller lignende vederlagsfritt forebyggende oppsyn med egne verdier,\nb. tjenester som utøves på mindre arrangementer der det ikke forventes ordensmessige problemer, og\nc. tjenester som i hovedsak er innrettet for å ivareta servicehensyn, som vaktmestertjeneste, vilkårsparkeringsvakt, resepsjons- og portnertjeneste, bartender- og garderobetjeneste, ryddehjelp, innslippkontroll og annen veiledende vertsfunksjon."
+     ],
+     "endringer": [
+      "Endret ved forskrift 9 aug 2023 nr. 1315."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Søknad, vandelskrav og politiattest",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 3",
+     "tittel": "Søknad og tillatelse til å utøve vaktvirksomhet",
+     "ledd": [
+      "Søknad om tillatelse til å utøve vaktvirksomhet skrives på søknadsskjema fastsatt av Politidirektoratet. Søknaden sendes til politidistriktet der virksomheten skal utøves. Omfatter søknaden tillatelse til å utøve vaktvirksomhet i flere politidistrikt, sendes søknaden til politidistriktet der foretaket har sitt hovedkontor. Alle politidistrikt som berøres av søknaden skal uttale seg før tillatelse gis. Politidistrikt som utpekes av Politidirektoratet skal uttale seg før tillatelse til å drive opplæring i vakttjenester gis.",
+      "Det skal søkes om tillatelse for hvert enkelt foretak som er registrert i foretaks- eller enhetsregisteret. Søknad om tillatelse til å utøve egenvakthold kan baseres på foretaksregistreringen for primærvirksomheten når del av virksomheten som utøver egenvakthold er etablert som en egen avdeling.",
+      "Virksomhet som bare driver opplæring av sikkerhetskontrollør på lufthavn med godkjenning fra Luftfartstilsynet trenger ikke tillatelse til å drive opplæring i vakttjeneste etter vaktvirksomhetsloven."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 4",
+     "tittel": "Vandelskravet for vaktvirksomhet",
+     "ledd": [
+      "Kravet til tilfredsstillende vandel etter vaktvirksomhetsloven § 3 omfatter:\na. samtlige medlemmer av styret i et aksjeselskap eller annen sammenslutning med begrenset ansvar og samtlige fullt ansvarlige deltakere i ansvarlig selskap eller kommandittselskap,\nb. innehaver av enkeltpersonforetak,\nc. daglig leder i foretaket eller enkeltpersonforetaket,\nd. personer som eier en vesentlig del av virksomheten eller av foretaket som driver virksomheten eller som oppebærer en vesentlig del av dens avkastning eller innehar en lederfunksjon i den, og\ne. andre personer som har vesentlig innflytelse på virksomheten.",
+      "Kravet til tilfredsstillende vandel gjelder forhold som kan anmerkes på uttømmende og utvidet politiattest.",
+      "Personene i første ledd bokstav a til c skal ha nødvendig tillit og være skikket til å utøve vaktvirksomhet på forsvarlig måte."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 5",
+     "tittel": "Utstedelse av politiattest og dokumentasjon",
+     "ledd": [
+      "Politiattest skal bare utstedes når det foreligger et konkret tilbud om stilling i vaktvirksomhet eller en avtale mellom en skole og en opplæringsbedrift. Virksomheten skal kunne dokumentere at politiattest er fremlagt og vurdert før ansettelse, påbegynt lærlingperiode eller oppstart av praksis."
+     ],
+     "endringer": [
+      "Endret ved forskrift 9 aug 2023 nr. 1315."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 6",
+     "tittel": "Vurdering av tilfredsstillende vandel",
+     "ledd": [
+      "Ved vurderingen av om kravet til tilfredsstillende vandel er oppfylt skal det legges vekt på karakteren av anmerkede forhold, på tidspunktet for lovbruddet og på dets betydning for oppgavene som omfattes av ansettelsesforholdet eller vedkommendes egnethet som vekter. Det skal legges særlig vekt på anmerkninger om ulovlig bruk og befatning med rusmidler, ordensforstyrrelser, vinningskriminalitet, voldsforbrytelser og lovbrudd som nevnt i straffeloven § 222 til § 226."
+     ],
+     "endringer": [
+      "Endret ved forskrift 19 juni 2015 nr. 673 (i kraft 1 okt 2015)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Utdanning",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 7",
+     "tittel": "Krav til utdanning",
+     "ledd": [
+      "Vekterutdanningens grunndel omfatter teoretisk grunnkurs, praksisopplæring for vektere, oppsummeringskurs og eksamen, vedlikehold av grunndelen gjennom regodkjenning og tilleggsopplæring for utførelse av spesialtjeneste.",
+      "Vekterutdanningen skal gjennomføres etter læreplan fastsatt av Politidirektoratet. Fagbrev som vekter fra videregående opplæring oppfyller kravene til vekterutdanningens grunndel.",
+      "Politidirektoratet nedsetter en faggruppe og utpeker faggruppens leder. Faggruppen skal gi råd til politiet, ajourføre læreplaner og pensum, utarbeide eksamensoppgaver og avgjøre klager over eksamen."
+     ],
+     "endringer": [
+      "Endret ved forskrift 20 mars 2013 nr. 323 som endret ved forskrift 20 des 2017 nr. 2315 (i kraft 20 des 2017)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 8",
+     "tittel": "Teoretisk grunnkurs",
+     "ledd": [
+      "Teoretisk grunnkurs skal bygge på kompetansemålene i læreplan for Vg2 salg, service og sikkerhet – programfaget sikkerhet i utdanningsprogram for service og samferdsel.",
+      "Kurset skal omfatte introduksjon til vekterbransjen, relevant regelverk, herunder internasjonale menneskerettigheter og internasjonal humanitær rett, holdninger og etikk, konflikthåndtering, rapportering, førstehjelp, brannvern, HMS, egensikkerhet og risikoanalyse på generelt nivå og på tekniske sikringsanlegg. Kurset kan gjennomføres som fulltids- eller deltidsopplæring, og skal være innledet i samsvar med læreplan før praksisopplæring kan starte.",
+      "Ordensvakter kan gjennomføre begrenset teoretisk grunnkurs til bruk i egenvakthold etter særlig læreplan fastsatt av Politidirektoratet. Begrenset teoretisk grunnkurs oppfyller ikke kravet til teoretisk opplæring for vekterutdanningens grunndel."
+     ],
+     "endringer": [
+      "Endret ved forskrift 20 mars 2013 nr. 323 som endret ved forskrift 20 des 2017 nr. 2315 (i kraft 20 des 2017)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 9",
+     "tittel": "Praksisopplæring",
+     "ledd": [
+      "Praksisopplæring for vektere skal bygge på kompetansemålene fra læreplanen i sikkerhetsfaget Vg3 – opplæring i bedrift.",
+      "Ordensvakter kan gjennomføre begrenset praksisopplæring til bruk i egenvakthold etter særlig læreplan fastsatt av Politidirektoratet. Begrenset praksisopplæring oppfyller ikke kravet til praksisopplæring for vekterutdanningens grunndel.",
+      "Praksisopplæring skal gjennomføres under ledelse av ansvarlig praksisinstruktør. Gjennomføringen og resultatet av praksisopplæringen skal dokumenteres.",
+      "I tillegg til praksisopplæring skal eleven gis særskilt objektopplæring for sin tjenesteutførelse."
+     ],
+     "endringer": [
+      "Endret ved forskrift 20 mars 2013 nr. 323 som endret ved forskrift 20 des 2017 nr. 2315 (i kraft 20 des 2017)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 10",
+     "tittel": "Oppsummeringskurs og eksamen",
+     "ledd": [
+      "Etter avsluttet praksisopplæring for vektere skal det gjennomføres et oppsummeringskurs som knytter den praktiske og teoretiske opplæringen sammen.",
+      "Vekterutdanningens grunndel avsluttes med en eksamen som skal omfatte teoretiske og praktiske oppgaver og være avlagt innen 6 måneder etter at utdanningen ble påbegynt. Politidirektoratet bestemmer hvordan eksamen skal avlegges og dokumenteres. Eksamen skal være bestått før det kan utføres ansvarlig vakttjeneste.",
+      "Klage over eksamensresultat fremsettes til Politidirektoratet innen 3 uker. Klagen behandles og avgjøres av minst to av faggruppens medlemmer."
+     ],
+     "endringer": [
+      "Endret ved forskrift 20 mars 2013 nr. 323 som endret ved forskrift 20 des 2017 nr. 2315 (i kraft 20 des 2017)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 11",
+     "tittel": "Regodkjenning av grunndelen",
+     "ledd": [
+      "Regodkjenningsprøve for grunndelen skal avlegges og bestås innen fire år etter bestått eksamen eller regodkjenningsprøve. Den enkelte virksomhet skal bidra til at ansatte vektere til enhver tid har nødvendig utdanning og kunnskap til å utføre tildelte oppgaver på forsvarlig måte."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 25 mai 2021 nr. 1628, 25 mai 2021 nr. 1628 (i kraft 1 mars 2023)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-6",
+     "nummer": "§ 12",
+     "tittel": "Tilleggsopplæring for utførelse av spesialtjeneste",
+     "ledd": [
+      "Utførelse av verditransporttjeneste og ledsagertjeneste krever tilleggsopplæring. Tilleggsopplæringen skal følge læreplan fastsatt av Politidirektoratet og regodkjennes ved avlagt og bestått regodkjenningsprøve hvert fjerde år. Eksamen for grunndelen skal være bestått før tilleggsopplæring påbegynnes.",
+      "Utførelse av tjeneste som sikkerhetskontrollør på lufthavn krever tilleggsopplæring som fastsatt av Luftfartstilsynet etter luftfartsloven. Eksamen for vekterutdanningens grunndel skal være bestått før det kan utføres ansvarlig tjeneste.",
+      "Virksomheten kan stille strengere krav til tilleggsopplæring, kreve særskilt opplæring for andre vakttjenester, og kreve at regodkjenning for tilleggsopplæring gjennomføres oftere enn hvert fjerde år."
+     ],
+     "endringer": [
+      "Endret ved forskrift 20 mars 2013 nr. 323 som endret ved forskrift 20 des 2017 nr. 2315 (i kraft 20 des 2017)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-7",
+     "nummer": "§ 13",
+     "tittel": "Særlig om verditransporttjeneste",
+     "ledd": [
+      "Transport og håndtering av store verdier krever tilleggsopplæring i rutiner, håndtering av verdisaker, etikk, trusselbilde, risikoanalyse, trusselhåndtering, kjøreopplæring, opptreden på skadested og opptreden i forbindelse med trafikk og politikontroller. Vekteren skal ha førerkort.",
+      "Opplæringen skal være teoretisk og praktisk og avsluttes med eksamen. Eksamen skal være bestått før det kan utføres ansvarlig verditransporttjeneste."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-8",
+     "nummer": "§ 14",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Opphevet ved forskrift 20 des 2017 nr. 2316 (i kraft 1 jan 2018)."
+     ],
+     "opphevet": "2018-01-01"
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-9",
+     "nummer": "§ 15",
+     "tittel": "Særlig om ledsagertjeneste",
+     "ledd": [
+      "Tjeneste for å sikre privatliv, reiser, opphold og arrangementer for personer som gjennom yrke eller status har behov for beskyttelse mot publikum eller omgivelser, krever tilleggsopplæring i regelverk, trusselvurdering, sårbarhetsanalyse, sikkerhetsanalyse, tiltaksplanlegging, rekognosering, fysisk og teknisk sikring av bolig, arbeidsplass og bedrift, samband, etikk og etikette, førstehjelp og brannvern. Opplæringen skal ikke omfatte våpenopplæring.",
+      "Opplæringen skal være teoretisk og praktisk og avsluttes med eksamen. Eksamen skal være bestått før det kan utføres ansvarlig ledsagertjeneste."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-10",
+     "nummer": "§ 16",
+     "tittel": "Dispensasjon fra utdanningskravet",
+     "ledd": [
+      "Politidirektoratet skal gi dispensasjon fra kravet til utdanning etter vaktvirksomhetsloven for søkere som har fullført politiutdanning eller som er under politiutdanning og har fullført minst ett år i Norge eller annen EØS-stat. Forskriften § 23, § 25 og § 26 gjelder tilsvarende."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Opplæringsvirksomhet",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 17",
+     "tittel": "Krav til virksomhet som driver opplæring i vakttjenester",
+     "ledd": [
+      "Virksomhet som driver opplæring i vakttjenester utenfor den offentlige skole skal ha tillatelse etter vaktvirksomhetsloven § 3, jf. § 2 første ledd bokstav f. Opplæring i teoretisk grunnkurs skal være åpen for alle, med mindre krav etter sikkerhetsloven tilsier at opplæringen forbeholdes egne ansatte.",
+      "Virksomheten skal ha tilgang til tilfredsstillende undervisningslokaler og fasiliteter som gir mulighet for praktiske øvelser, herunder i brannvern og førstehjelp. Virksomheten skal ha instruktører som oppfyller kvalifikasjonskravene i § 18.",
+      "Virksomhet som tilbyr teoretisk grunnkurs og tilleggsopplæring skal ha en hovedinstruktør som oppfyller kvalifikasjonskravene i § 19. Virksomhet som driver praksisopplæring skal ha en ansvarlig praksisinstruktør som oppfyller kvalifikasjonskravene i § 20.",
+      "Alle instruktører skal være godkjent av tillatelses- og kontrollmyndigheten før de kan drive opplæring i virksomheten."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 18",
+     "tittel": "Krav til instruktørene",
+     "ledd": [
+      "Instruktører i vekterfag skal ha instruktøropplæring og oppdatert faglig kompetanse, ha fagbrev som vekter fra videregående skole eller minst fire års relevant erfaring som vekter og være ansatt som vekter eller instruktør i virksomhet med tillatelse etter vaktvirksomhetsloven. Instruktører i brannvern, førstehjelp, internasjonale menneskerettigheter, internasjonal humanitær rett, strafferett, straffeprosess og bruk av makt og maktmidler skal ha oppdatert faglig kompetanse, relevant erfaring og fortsatt tilknytning til fagfeltet.",
+      "Praksisinstruktører skal ha minst fire års relevant erfaring som vekter og være ansatt som vekter eller instruktør i virksomhet med tillatelse etter vaktvirksomhetsloven."
+     ],
+     "endringer": [
+      "Endret ved forskrift 20 des 2017 nr. 2316 (i kraft 1 jan 2018)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 19",
+     "tittel": "Særlige krav til hovedinstruktør",
+     "ledd": [
+      "Hovedinstruktør for teoriundervisningen skal dokumentere kjennskap til innholdet i læreplaner som gjelder for undervisningen og påse at kursene gjennomføres i samsvar med de krav som til enhver tid stilles."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 20",
+     "tittel": "Særlige krav til ansvarlig praksisinstruktør",
+     "ledd": [
+      "Ansvarlig praksisinstruktør skal dokumentere kjennskap til innholdet i læreplan for praksisopplæringen og påse at den enkelte elev får nødvendig praktisk opplæring."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Godkjenning av yrkeskvalifikasjoner fra annen stat",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 21",
+     "tittel": "Krav om godkjenning av yrkeskvalifikasjoner fra annen stat",
+     "ledd": [
+      "Det kreves godkjenning etter dette kapittelet dersom yrkeskvalifikasjoner fra annen stat skal gi adgang til å utføre tjeneste som omfattes av vaktvirksomhetsloven. Slik godkjenning gir adgang til å utføre tjeneste på samme vilkår som personer med kvalifikasjoner etter vaktvirksomhetsloven og forskriften.",
+      "Godkjenning av yrkeskvalifikasjoner fra annen stat gis av Politidirektoratet, likevel slik at godkjenning av yrkeskvalifikasjoner fra annen EØS-stat for å utføre tjeneste som sikkerhetskontrollør på lufthavn gis av Luftfartstilsynet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 22",
+     "tittel": "Vilkår for godkjenning av yrkeskvalifikasjoner for statsborgere fra EØS",
+     "ledd": [
+      "For å få godkjenning må søker fra EØS framlegge kvalifikasjonsbevis som viser et kvalifikasjonsnivå som minst tilsvarer kvalifikasjonsnivået umiddelbart under kvalifikasjonskravene for vektere etter vaktvirksomhetsloven § 9 bokstav a til d og kvalifikasjonskravet for instruktører etter forskriften § 18. For vurderingen gjelder følgende kvalifikasjonsnivåer, hvorav kravene etter vaktvirksomhetsloven ligger på nivå a i eller b ii:\na. Et kvalifikasjonsbevis utstedt av myndighet i hjemstaten utpekt etter lov eller forskrift i vedkommende medlemsstat, på grunnlag av\ni. et opplæringskurs som ikke utgjør noen del av en attest eller et diplom i betydningen i bokstav b, c, d eller e, eller en særlig eksamen uten forutgående opplæring, eller utøvelse av yrket på heltid i en medlemsstat i tre sammenhengende år eller av tilsvarende varighet på deltid i løpet av de siste ti årene, eller\nii. generell utdanning fra grunnskole eller videregående skole, med bevitnelse om at innehaveren har ervervet generell kunnskap.\nb. En attest som viser fullført og bestått videregående opplæring,\ni. enten av generell karakter, supplert av annet studium eller annen yrkeskompetansegivende utdanning enn den det er vist til under bokstav c og/eller av en praktisk eller faglig praksisperiode som krevdes i tillegg til nevnte studium, eller\nii. av teknisk eller faglig karakter, eventuelt supplert av et studium eller en yrkeskompetansegivende utdanning som vist til under punkt i og /eller av en praktisk eller faglig praksisperiode som krevdes i tillegg til nevnte studium.\nc. Et diplom som viser at søker\ni. enten har bestått en annen utdanning ut over videregående opplæring enn det som er nevnt i bokstav d eller e, av minst ett års varighet, eller av tilsvarende varighet på deltid, hvor opptakskravet til studiet er normalt avsluttet videregående opplæring som er nødvendig for å få adgang til universitet, annen høyere utdanning på tilsvarende nivå, samt den yrkesrettede opplæring som måtte kreves i tillegg til utdanning ut over videregående opplæring, eller\nii. bestått utdanning av en særskilt struktur for et lovregulert yrke, jf. direktiv 2005/36/EF vedlegg 2.\nd. Et diplom som viser bestått utdanning ut over videregående opplæring fra universitet, høyskoleinstitusjon eller en annen institusjon med tilsvarende opplæringsnivå. Utdanningen må være av minst tre års og ikke mer enn fire års varighet, eller av tilsvarende varighet på deltid.\ne. Et diplom som viser bestått utdanning utover videregående opplæring fra universitet, høyskoleinstitusjon eller en annen institusjon med tilsvarende opplæringsnivå. Utdanningen må være av minst fire års varighet, eller av tilsvarende varighet på deltid.",
+      "Søker som har utøvd yrket i en EØS-stat hvor yrket ikke er lovregulert har rett til godkjenning dersom yrket er utøvd på heltid i minst 2 år i løpet av de siste ti år. Søkeren må framlegge bevis på yrkeskvalifikasjoner som dokumenterer at søker kan utøve yrket. Yrkeserfaring kreves ikke for godkjenning av yrkeskvalifikasjoner på bakgrunn av en lovregulert utdanning som beskrevet i bokstav b."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 23",
+     "tittel": "Utlikningstiltak for statsborgere fra EØS",
+     "ledd": [
+      "Selv om kravene i § 22 er oppfylt kan Politidirektoratet kreve at søkeren gjennomgår og består en prøveperiode på høyst tre år under veiledning, eller består en egnethetsprøve dersom:\na. utdanningen er minst ett år kortere enn utdanningen som kreves i Norge,\nb. utdanningens innhold avviker vesentlig fra utdanningen som kreves i Norge, eller\nc. søkers virksomhet i Norge kan omfatte tjenester som ikke inngår i en sammenlignbar form i det tilsvarende yrket i søkers hjemstat, og det i Norge kreves en særskilt utdanning som er vesentlig forskjellig fra søkers utdanning.",
+      "Utdanningen er vesentlig forskjellig fra søkerens utdanning når søkeren mangler kunnskap på områder som er avgjørende for utøvelsen av yrket og søkerens utdanning viser viktige forskjeller når det gjelder varighet eller innhold i forhold til den utdanning som kreves i Norge.",
+      "Før vedtak om prøveperiode eller egnethetsprøve treffes må det vurderes om den kunnskap søkeren har ervervet ved yrkeserfaring helt eller delvis oppveier det vesentlige avviket mellom utdanningene.",
+      "Søkeren kan selv velge mellom prøveperiode og egnethetsprøve.",
+      "Politidirektoratet kan kreve at søkeren behersker språk som gjør det mulig å kommunisere med publikum og offentlige myndigheter."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-4",
+     "nummer": "§ 24",
+     "tittel": "Vilkår for godkjenning av yrkeskvalifikasjoner for statsborgere fra EØS med utdanning fra tredjestat og for statsborgere fra tredjestat",
+     "ledd": [
+      "Statsborgere fra EØS med kvalifikasjonsbevis for kvalifikasjoner etter § 22 utstedt i en stat utenfor EØS kan få godkjenning etter forskriften.",
+      "Statsborger fra en stat utenfor EØS må for å få godkjenning etter forskriften dokumentere yrkeskvalifikasjoner med tilsvarende nivå som følger av vaktvirksomhetsloven § 9 bokstav a til d. Beviset skal være utstedt av kompetent myndighet i en stat utpekt i samsvar med lov, forskrift- eller administrativ bestemmelse i vedkommende stat.",
+      "Forskriften § 23, § 25 og § 26 gjelder tilsvarende."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-5",
+     "nummer": "§ 25",
+     "tittel": "Søknadens innhold",
+     "ledd": [
+      "Søknad om godkjenning av yrkeskvalifikasjoner skal skrives på søknadsskjema fastsatt av Politidirektoratet.",
+      "Søknaden skal inneholde bekreftet kopi av kvalifikasjonsbevis eller attest og bevis for nasjonalitet.",
+      "Politidirektoratet kan kreve bevis for at søker har arbeidserfaring etter § 22 annet ledd dersom det er aktuelt å vurdere søkers arbeidserfaring."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-6",
+     "nummer": "§ 26",
+     "tittel": "Saksbehandlingsregler",
+     "ledd": [
+      "Politidirektoratet skal bekrefte at søknaden er mottatt innen en måned, og informere søkeren om eventuelle mangler ved søknaden.",
+      "Søknaden skal avgjøres så raskt som mulig og senest innen fire måneder etter at all nødvendig dokumentasjon er framlagt.",
+      "Politidirektoratets vedtak eller mangel på vedtak kan påklages til Justis- og politidepartementet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-7",
+     "nummer": "§ 27",
+     "tittel": "Utøvelse av vakttjeneste på midlertidig grunnlag",
+     "ledd": [
+      "Vakttjeneste kan utføres av personer fra annen medlemsstat som ønsker å utøve, på midlertidig og tilfeldig grunnlag, yrke som vekter i Norge, dersom:\na. yrket er lovregulert eller har vært utøvd i medlemsstaten i minst to år i løpet av de siste ti år før ytelsen av tjenesten, og\nb. det på forhånd avgis en erklæring som informerer Politidirektoratet om tjenesteutøvelsen, inkludert detaljer vedrørende en eventuell forsikringsdekning eller andre former for personlig eller kollektiv beskyttelse med hensyn til yrkesansvar. Erklæringen skal fornyes hvert år dersom tjenesteyteren har til hensikt å yte midlertidige eller tilfeldige tjenester i den aktuelle medlemsstaten i løpet av året. Tjenesteyteren kan selv velge hvordan erklæringen meddeles.",
+      "Første gang tjenestene ytes, eller dersom det foreligger en vesentlig endring av de forhold som omhandles av dokumentene, skal erklæringen ledsages av:\na. bevis på tjenesteyterens nasjonalitet,\nb. bevis på tjenesteyterens yrkeskvalifikasjoner,\nc. alle former for dokumentasjon på at tjenesteyteren har utøvd den aktuelle virksomheten i minst to år i løpet av de siste ti årene dersom yrket ikke er lovregulert, og\nd. dokumentasjon på at tjenesteutøveren ikke er dømt for noe straffbart forhold.",
+      "Tjenesteytelsens midlertidige og tilfeldige art skal vurderes fra sak til sak, særlig i forhold til ytelsens varighet, hyppighet, regelmessighet og kontinuitet.",
+      "En yrkesutøver som midlertidig utøver virksomhet i Norge etter denne bestemmelsen, skal benytte yrkestittelen i EØS-staten der vedkommende er etablert. Denne tittelen skal angis på etableringsstatens offisielle språk på en slik måte at det unngås forveksling med yrkestittelen i Norge. Hvis det ikke finnes noen yrkestittel i etableringsstaten, skal utøveren angi sine formelle kvalifikasjoner på etableringsstatens offisielle språk."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Uniformering, legitimasjon og kommunikasjon",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 28",
+     "tittel": "Krav til uniformen",
+     "ledd": [
+      "Uniformen skal være tilpasset tjenesten som utføres og være tydelig merket med virksomhetens navn. På venstre brystside skal uniformen ha merket «vekter» eller «vekter under opplæring» for personell under opplæring. På uniform som benyttes av ansatte i Statens forvaltningstjeneste, Domstoladministrasjonen og Stortinget kan «vekter» erstattes med «security». Uniform som benyttes av ordensvakt uten vekterkompetanse skal være merket med «ordensvakt» eller «ordensvakt under opplæring» for personell under opplæring."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 29",
+     "tittel": "Fritak fra plikten til å bære uniform",
+     "ledd": [
+      "Tillatelses- og kontrollmyndigheten kan gi fritak fra plikten til å bære uniform, og fra plikten til å bære legitimasjonskortet synlig, når bruk av uniform vil vanskeliggjøre formålet med oppdraget.",
+      "Tillatelse skal innhentes på forhånd og gis for en enkelt anledning eller for et nærmere angitt tidsrom."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-3",
+     "nummer": "§ 30",
+     "tittel": "Utforming av legitimasjonskort",
+     "ledd": [
+      "Legitimasjonskortet skal være 54 x 85 mm og inneholde på forsiden:\na. virksomhetens navn og organisasjonsnummer,\nb. «vekter» eller «vekter under opplæring»,\nc. bilde av vekteren,\nd. ansettelsesnummer i virksomheten, og\ne. gyldighetsdato.",
+      "På baksiden skal kortet inneholde:\na. dato for bestått eksamen eller siste regodkjenning, og\nb. utstedelsesdato.",
+      "Kortet skal ha gyldighet på inntil fire år fra bestått eksamen eller siste regodkjenning. Ved endringer i opplysningene på kortet skal det utstedes nytt kort.",
+      "Kortet kan vise virksomhetens logo og farger. Fargebruken skal ikke gjøre opplysningene på kortet vanskelige å lese.",
+      "På legitimasjonskort for ansatte i Statens forvaltningstjeneste, Domstoladministrasjonen og Stortinget kan «vekter» erstattes med «security». På legitimasjonskort for ordensvakt uten vekterkompetanse skal det stå «ordensvakt» eller «ordensvakt under opplæring»."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-4",
+     "nummer": "§ 31",
+     "tittel": "Utstedelse av legitimasjonskort",
+     "ledd": [
+      "Legitimasjonskort kan utstedes av virksomhet som har fått godkjenning fra tillatelses- og kontrollmyndigheten. Godkjenning gis bare til virksomhet som også kan utstede legitimasjonskort til selvkost for mindre foretak.",
+      "Ved utstedelse av legitimasjonskort skal opplysningene på kortet straks meldes til tillatelses- og kontrollmyndigheten. Tilsvarende gjelder ved tap og tyveri av legitimasjonskort."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-5",
+     "nummer": "§ 32",
+     "tittel": "Innlevering og tilbakekall av legitimasjonskort",
+     "ledd": [
+      "Legitimasjonskortet skal innleveres når vekteren slutter i virksomheten eller når gyldighetstiden utløper. Arbeidsgiver skal sørge for at vekteren innleverer kortet til utsteder, og straks gi melding om innleveringen til tillatelses- og kontrollmyndigheten.",
+      "Legitimasjonskortet skal tilbakekalles når innehaveren ikke lenger fyller vilkårene for å være vekter. Dersom vekter ikke anses skikket til å utføre vakttjeneste skal politiet eller arbeidsgiver frata legitimasjonskortet på stedet. Arbeidsgiver som fratar ansatte legitimasjonskortet skal straks sende melding til tillatelses- og kontrollmyndighetene og uten ugrunnet opphold avgjøre om kortet skal tilbakekalles."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-6",
+     "nummer": "§ 33",
+     "tittel": "Krav til kommunikasjonsutstyr",
+     "ledd": [
+      "Vektere skal kunne kommunisere med betjent vakt- eller alarmsentral mens vakttjenesten utføres. Virksomheten er ansvarlig for at det etableres en forsvarlig kommunikasjonsordning."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kap7",
+   "overskrift": "Kapittel 7. Bruk av hund m.m.",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 34",
+     "tittel": "Krav ved bruk av hund",
+     "ledd": [
+      "Bruk av hund under utførelse av vakttjeneste skal godkjennes av virksomheten. Ekvipasjen (hund og fører) som godkjennes utgjør en fast enhet. Virksomheten skal loggføre hvilke ekvipasjer som til enhver tid er i tjeneste og hvor disse benyttes. Alle hendelser ved bruk av hund skal føres i egen logg.",
+      "Hund skal ikke brukes under utførelse av publikumsrettede vakttjenester. Hund skal heller ikke brukes til rundering, sporing eller søk etter personer, gjenstander, narkotiske stoffer, sprenglegemer og lignende."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-2",
+     "nummer": "§ 35",
+     "tittel": "Krav til merking, opplæring og instruks",
+     "ledd": [
+      "Hunden skal være identitetsmerket med microchip, jf. hundeloven § 13. I tjeneste skal hunden bære vest merket med «vekterhund» og virksomhetens navn. Hunden skal føres i line på maksimalt 1 meter, lystre føreren og til enhver tid kunne kontrolleres.",
+      "Virksomheten skal utarbeide egen instruks som angir krav til veterinærkontroll, merking, opplæring, båndføring, linelengde og godkjenningsprosedyre. Instruksen kan kreves fremlagt ved kontroll av virksomheten."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-3",
+     "nummer": "§ 36",
+     "tittel": "Bruk av håndjern",
+     "ledd": [
+      "Håndjern kan medbringes dersom tjenesten tilsier det og kan bare benyttes til egenbeskyttelse, jf. straffeloven § 18."
+     ],
+     "endringer": [
+      "Endret ved forskrift 19 juni 2015 nr. 673 (i kraft 1 okt 2015)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-8",
+   "navn": "kap8",
+   "overskrift": "Kapittel 8. Opplysnings- og rapporteringsplikt",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-1",
+     "nummer": "§ 37",
+     "tittel": "Opplysnings- og rapporteringsplikt",
+     "ledd": [
+      "Vaktvirksomhetene skal hvert år innen utløpet av mars sende skriftlig rapport til tillatelses- og kontrollmyndigheten etter vaktvirksomhetsloven § 16. Dersom tillatelsen omfatter vaktvirksomhet i flere politidistrikt, skal rapporten sendes i kopi til disse."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-2",
+     "nummer": "§ 38",
+     "tittel": "Innholdet i virksomhetenes årlige rapport",
+     "ledd": [
+      "Virksomhetenes årlige rapport til tillatelses- og kontrollmyndigheten skal redegjøre for virksomheten i perioden siden oppstart eller siste rapportering og følge mal fra Politidirektoratet. Tillatelses- og kontrollmyndigheten kan kreve tilleggsopplysninger om virksomheten dersom det er nødvendig av kontrollhensyn.",
+      "Den årlige rapporten skal også inneholde:\na. elektronisk liste over ansatte som utfører vakttjeneste eller har oppgaver direkte knyttet til vakttjeneste, herunder over instruktører som driver opplæring,\nb. kopi av nye eller endrede rutiner og handlingsplaner for virksomheten,\nc. kopi av logg for bruk av fysisk makt, og\nd. kopi av logg for hendelser ved bruk av hund."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-3",
+     "nummer": "§ 39",
+     "tittel": "Loggførings- og rapporteringsplikt ved bruk av fysisk makt",
+     "ledd": [
+      "Virksomhetene skal føre skriftlig logg over alle situasjoner som har medført bruk av fysisk makt under utføring av vakttjeneste. Loggen skal føres snarest mulig etter hendelsen og undertegnes av den som har utført vakttjenesten og virksomhetens daglige leder."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-4",
+     "nummer": "§ 40",
+     "tittel": "Særskilt rapporteringsplikt ved endringer i virksomhetens eierskap",
+     "ledd": [
+      "Endringer i virksomhetens eierskap, styre, deltakere eller daglige leder skal rapporteres skriftlig til tillatelses- og kontrollmyndigheten snarest og innen 1 måned etter endringen."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-9",
+   "navn": "kap9",
+   "overskrift": "Kapittel 9. Kontroll med utøvelse av vaktvirksomhet",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-1",
+     "nummer": "§ 41",
+     "tittel": "Om kontrollen og kontrollmyndigheten",
+     "ledd": [
+      "Politidistrikt som har gitt tillatelse til å utøve vaktvirksomhet skal kontrollere at virksomheten drives i samsvar med vaktvirksomhetsloven og forskriften, og på en måte som er forenlig med å utøve næringsvirksomhet. Når tillatelsen omfatter flere politidistrikt, skal disse holde seg orientert om virksomheten i sitt distrikt og bistå ansvarlig politidistrikt med informasjon og gjennomføring av kontroll.",
+      "Politidirektoratet skal utarbeide rutiner for samarbeid med myndigheter som har meldeplikt etter vaktvirksomhetsloven § 17, herunder om utveksling av informasjon om kontaktpersoner, kontrollrutiner og behovet for samordning av kontrollvirksomhet mv."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-2",
+     "nummer": "§ 42",
+     "tittel": "Gjennomføring av kontrollen",
+     "ledd": [
+      "Kontroll med foretak og forvaltningsorgan som utøver vaktvirksomhet skal utføres etter behov og minst en gang årlig med utgangspunkt i virksomhetenes årlige rapport.",
+      "Kontrollen gjennomføres som en kombinasjon av dokumentkontroll, vandelskontroll og besøkskontroll, og skal planlegges etter en vurdering av den enkelte virksomhet. Kontroll med foretak som utøver vaktvirksomhet på lufthavn skal planlegges i samråd med Luftfartstilsynet.",
+      "Kontrollen skal omfatte virksomheten både ved hovedkontor og andre kontorer. Behovet for besøkskontroll samordnes med øvrige politidistrikt som omfattes av tillatelsen. For større virksomheter kan kontroll utføres i flere omganger over tid.",
+      "Politidirektoratet utarbeider skjema til bruk for gjennomføring av kontrollen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-3",
+     "nummer": "§ 43",
+     "tittel": "Besøkskontroll",
+     "ledd": [
+      "Politiet kan uanmeldt eller med kort forhåndsvarsel kreve adgang til virksomhetens lokaler for å kontrollere at lovens krav er oppfylt, og at gitte opplysninger er korrekte og fullstendige. Besøkskontroll gjennomføres hvert annet år, med mindre det fremkommer opplysninger som tilsier hyppigere kontroll.",
+      "Etter gjennomført besøkskontroll skal kontrollmyndigheten gi en muntlig redegjørelse for inntrykket av virksomheten. Avdekkes det feil eller mangler skal kontrollmyndigheten snarest mulig etter besøket utarbeide skriftlig rapport som sendes den kontrollerte virksomheten med informasjon om retten til å uttale seg innen en uke. Ved pålegg om retting skal det settes en frist for gjennomføring."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-4",
+     "nummer": "§ 44",
+     "tittel": "Avslutning av kontrollen – kontrollrapport",
+     "ledd": [
+      "Kontrollmyndigheten utarbeider en avsluttende rapport som dokumenterer kontrolltidspunkt, kontrollform og resultatet av kontrollen. Rapporten sendes den kontrollerte virksomheten med informasjon om retten til å uttale seg innen to uker.",
+      "Endelig kontrollrapport sendes den kontrollerte virksomheten og alle berørte politidistrikter."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-5",
+     "nummer": "§ 45",
+     "tittel": "Klageadgang",
+     "ledd": [
+      "Avslag på søknad om tillatelse og avgjørelse om tilbakekall av tillatelse kan påklages til Politidirektoratet."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-10",
+   "navn": "kap10",
+   "overskrift": "Kapittel 10. Gebyr, forsikring, ikrafttredelse og overgangsregler",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-1",
+     "nummer": "§ 46",
+     "tittel": "Gebyrplikt",
+     "ledd": [
+      "Det skal betales gebyr til dekning av politiets kostnader forbundet med søknadsbehandling og kontroll. Gebyrene skal ta hensyn til virksomhetenes størrelse og kontrollbehov.",
+      "Søknadsgebyr betales forskuddsvis og tilbakebetales ikke ved avslag. Kontrollgebyr betales ved innsendelse av årlig rapport etter § 37."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-2",
+     "nummer": "§ 47",
+     "tittel": "Plikt til å betale gebyr til dekning av politiets kostnader ved feilutrykning",
+     "ledd": [
+      "Det skal betales gebyr til dekning av politiets kostnader hver gang det rykkes ut på feilalarm meldt fra vaktforetak."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-3",
+     "nummer": "§ 48",
+     "tittel": "Fastsettelse og innbetaling av gebyr",
+     "ledd": [
+      "Nærmere bestemmelser om gebyrenes størrelse og innbetaling fastsettes av Politidirektoratet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-4",
+     "nummer": "§ 49",
+     "tittel": "Forsikringsplikt",
+     "ledd": [
+      "Foretak og forvaltningsorgan som skal utøve vaktvirksomhet skal ha forsikring som dekker ansvar som kan pådras under utførelse av vaktvirksomheten. Forsikringen må tegnes før virksomheten settes i gang og opprettholdes så lenge den pågår. Dersom forvaltningsorgan kan dokumentere at et mulig ansvar kan dekkes på annen måte, kan Politidirektoratet etter søknad frita organet fra forsikringsplikten."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-5",
+     "nummer": "§ 50",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Forskriften trer i kraft 1. april 2011, med unntak av § 7 og § 10 til § 15 som trer i kraft 1. januar 2018[1] og § 8 tredje ledd og § 9 annet ledd som trer i kraft 1. oktober 2023. Fra 1. april 2011 oppheves forskrift 25. mai 2004 nr. 787 om vaktvirksomhet."
+     ],
+     "endringer": [
+      "Endret ved forskrift 21 april 2023 nr. 526."
+     ],
+     "fotnoter": [
+      {
+       "nr": "1",
+       "tekst": "Kapittel 3 med unntak av § 8 tredje ledd og § 9 andre ledd i kraft 1 jan 2018 jf. forskrift 20 des 2017 nr. 2316."
+      }
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-6",
+     "nummer": "§ 51",
+     "tittel": "Overgangsregler",
+     "ledd": [
+      "Til gjennomføring av vaktvirksomhetsloven og forskriften fastsettes følgende overgangsregler:\na. Inntil § 7 til § 15 trer i kraft gjelder forskrift 25. mai 2004 nr. 787 § 5.\nb. For vektere som har gjennomført vekterutdanning før 1. januar 2018 gjelder bare krav om regodkjenning etter § 11 og § 12.\nc. For ordensvakter i egenvakthold som har godkjenning som ordensvakt før 1. oktober 2023 gjelder bare krav om regodkjenning etter § 11. Regodkjenning må gjennomføres før utløp av godkjenningsperioden, og senest innen 1. oktober 2027.\nd. Virksomhet som per 1. april 2011 driver opplæring i vakttjenester med godkjenning fra Politidirektoratet skal søke tillatelse etter vaktvirksomhetsloven før 1. oktober 2011. Virksomheten kan fortsette inntil søknaden er avgjort.\ne. Vaktvirksomhetsloven får virkning for egenvakthold fra 1. april 2012. Søknad om tillatelse til å utøve egenvakthold skal fremsettes før 1. oktober 2011.\nf. Søknadsgebyr etter § 46 betales etterskuddsvis når Politidirektoratet har fastsatt gebyrets størrelse etter § 48.\ng. Kravet til legitimasjonskort utformet etter § 30 gjelder for vektere som utdannes eller regodkjennes etter denne forskriften."
+     ],
+     "endringer": [
+      "Endret ved forskrift 18 okt 2023 nr. 1648"
+     ]
+    }
+   ]
+  }
+ ]
+}

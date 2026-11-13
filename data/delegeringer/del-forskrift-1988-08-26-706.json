@@ -1,0 +1,57 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-1988-08-26-706",
+ "dokumentid": "DEL/forskrift/1988-08-26-706",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Økonomiavd."
+ ],
+ "kunngjort_i": "I 1988 s 695",
+ "ikraft": "1988-09-01",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1961-05-24-1/§2",
+   "tekst": "lov/1961-05-24-1/§2"
+  },
+  {
+   "ref": "lov/1987-06-12-40",
+   "tekst": "lov/1987-06-12-40"
+  }
+ ],
+ "korttittel": "Forskrift om delegering etter sparebankloven",
+ "tittel": "Ikrafttredelse av pkt. I i lov av 12. juni 1987 nr. 40 om endring i lov av 24. mai 1961 nr. 1 om sparebanker m.m. (grunnfondsbevis). Delegering av myndighet.",
+ "annet": "Fastsatt ved kgl.res. 26. august 1988. Fremmet av Finans- og tolldepartementet.",
+ "refid": "forskrift/1988-08-26-706",
+ "eli": "/eli/forskrift/1988/08/26/706",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/1988-08-26-706",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Lov av 12. juni 1987 nr. 40 om endringer i lov av 24. mai 1961 nr. 1 om sparebanker m.m. (grunnfondsbevis) pkt. I trer i kraft fra 1. september 1988."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Kongens myndighet etter bestemmelsene i lov om sparebanker § 2 annet ledd fjerde og sjette punktum delegeres til Finansdepartementet."
+    }
+   ]
+  }
+ ]
+}

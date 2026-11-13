@@ -1,0 +1,78 @@
+{
+ "skjema": "1.0",
+ "type": "stortingsvedtak",
+ "datokode": "FOR-2005-02-18-888",
+ "dokumentid": "STV/forskrift/2005-02-18-888",
+ "departement": [
+  "Energidepartementet"
+ ],
+ "etat": [
+  "Energi- og vassdragsavd."
+ ],
+ "kunngjort_i": "I 2005 hefte 11",
+ "ikraft": "2005-02-18",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2000-11-24-82/§32",
+   "tekst": "lov/2000-11-24-82/§32"
+  },
+  {
+   "ref": "lov/2000-11-24-82/§33",
+   "tekst": "lov/2000-11-24-82/§33"
+  },
+  {
+   "ref": "lov/2000-11-24-82/§34",
+   "tekst": "lov/2000-11-24-82/§34"
+  },
+  {
+   "ref": "lov/2000-11-24-82/§35",
+   "tekst": "lov/2000-11-24-82/§35"
+  }
+ ],
+ "kunngjort": "2005-08-19",
+ "korttittel": "Vedtak om supplering av Verneplan for vassdrag",
+ "tittel": "Vedtak om supplering av Verneplan for vassdrag.",
+ "annet": "Kunngjøring fra Olje- og energidepartementet av stortingsvedtak 18. februar 2005 med hjemmel i lov 24. november 2000 nr. 82 om vassdrag og grunnvann (vannressursloven) kapittel 5, jf. St.prp.nr.75 (2003–2004) og Innst.S.nr.116 (2004–2005).",
+ "refid": "forskrift/2005-02-18-888",
+ "eli": "/eli/forskrift/2005/02/18/888",
+ "url": "https://lovdata.no/dokument/STV/forskrift/2005-02-18-888",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Følgende vassdrag tas inn i Verneplan for vassdrag:\n| Objekt | Fylke | Vassdrag\n| 002/29 | Hedmark | Imsa\n| 002/30 | | Sølna\n| 002/31 | | Tunna\n| 002/13 | Oppland | Tora\n| 002/32 | | Glitra\n| 002/34 | | Måråi\n| 002/35 | | Åfåtgrovi\n| 002/14 | | Jora\n| 012/1 | Buskerud | Nedalselva\n| 015/10 | Vestfold | Dalelva\n| 016/8 | Telemark | Kåla\n| 016/9 | | Rauda\n| 016/11 | | Digeråi\n| 020/3 | Aust-Agder | Tovdalsvassdraget ovenfor Herefossfjorden\n| 022/5 | Vest-Agder | Kosåna\n| 025/1 | | Litleåna ovenfor Eftestøl\n| 027/2 | Rogaland | Bjerkreimsvassdraget\n| – | | Åbødalsvassdraget\n| 059/1 | Hordaland | Rylandselva\n| 060/1 | | Loneelvi\n| 062/2 | | Øvstedalsvassdraget\n| 063/1 | | Hesjedalsvassdraget\n| – | | Vaulo m/Langfossen og Saltåna\n| 071/2 | Sogn og Fjordane | Nærøydalselvi med unntak av sideelva Jordalselvi\n| 073/1 | | Erdalselvi\n| 082/4 | | Sørebøelva i Guddalsvassdraget\n| 084/1 | | Nausta\n| 103/1 | Møre og Romsdal | Måna\n| 121/1 | Sør-Trøndelag | Svorka\n| 123/5 | | Hena\n| 123/2 | | Homla\n| 133/1 | | Nordelva\n| 127/2 | Nord-Trøndelag | Verdalsvassdraget\n| 128/2 | | Jørstadelva\n| 139/7 | | Nesåa\n| 141/1 | | Kvistaelva\n| 142/1 | | Kongsmoelva m/Nordfolda\n| 144/2 | Nordland | Urdvollelva\n| 156/2 | | Glomdalselva\n| 161/1 | | Beiarelva\n| 162/2 | | Lakselva (Misvær)\n| 166/1 | | Laksåga (Rago)\n| 171/1 | | Forsaelva\n| 175/2 | | Østervikelva\n| 177/4 | | Sneiselva\n| 185/3 | | Nykvågvassdraget\n| 197/2 | Troms | Straumselva\n| 211/3 | Finnmark | Sør-Tverrfjordvassdraget\n| 213/2 | | Skillefjordelva"
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Vernegrensene for følgende vassdrag justeres i tråd med det som er beskrevet i St.prp.nr.75 (2003–2004) og Innst.S.nr.116 (2004–2005):\n| Objekt | Fylke | Vassdrag\n| 016/6 | Telemark | Lifjellområdet\n| 017/1 | | Bamble-Solum-Drangedal\n| 017/3 | | Rørholtfjorden\n| 016/2 | | Området mellom Seljordsvatn og Flåvatn"
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kapIII",
+   "overskrift": "III",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Vedtaket trer i kraft straks."
+    }
+   ]
+  }
+ ]
+}

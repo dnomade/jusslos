@@ -1,0 +1,329 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-1999-05-28-654",
+ "dokumentid": "SF/forskrift/1999-05-28-654",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Finansmarkedsavd."
+ ],
+ "kunngjort_i": "I 1999 1452",
+ "ikraft": "1999-07-01",
+ "siste_endring_ikraft": "2024-11-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2024-11-01-2614",
+   "tekst": "forskrift/2024-11-01-2614"
+  }
+ ],
+ "endrer": "forskrift/1998-12-16-1243",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1998-07-17-56/§10-1",
+   "tekst": "lov/1998-07-17-56/§10-1"
+  }
+ ],
+ "siste_rettelse": "2022-02-08 (struktur)",
+ "korttittel": "Forskrift om årsregnskap for verdipapirfond",
+ "tittel": "Forskrift om årsregnskap m.m. for verdipapirfond",
+ "annet": "Hjemmel: Fastsatt av Finans- og tolldepartementet (nå Finansdepartementet) 28. mai 1999 med hjemmel i lov 17. juli 1998 nr. 56 om årsregnskap m.v. (regnskapsloven) § 10-1 tredje ledd.\nEØS-henvisninge: EØS-avtalen art. 36 og 40 og vedlegg IX nr. 30 (direktiv 85/611/EØF med senere endringer).\nEndret ved forskrifter 13 aug 2003 nr. 1047, 20 des 2005 nr. 1599, 29 juni 2007 nr. 876, 26 mars 2010 nr. 466, 20 des 2011 nr. 1422, 21 des 2011 nr. 1467, 1 nov 2024 nr. 2614.\nRettelser: 08.02.2022 (nummerering av lister)",
+ "refid": "forskrift/1999-05-28-654",
+ "eli": "/eli/forskrift/1999/05/28/654",
+ "url": "https://lovdata.no/dokument/SF/forskrift/1999-05-28-654",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Alminnelige bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1-1",
+     "tittel": "Forskriftens virkeområde",
+     "ledd": [
+      "Forskriften gjelder for verdipapirfond, jf. lov 25. november 2011 nr. 44 om verdipapirfond § 1-2 første ledd. For spesialfond som nevnt i verdipapirfondloven § 1-2 første ledd nr. 6 gjelder i tillegg til de øvrige bestemmelsene i forskriften her, følgende bestemmelser:\na. Det skal gis opplysninger i noter om de lån som er opptatt gjennom året. Det skal redegjøres for spesielle risikofaktorer knyttet til slike lån.\nb. Det skal gis opplysninger i noter om de salg av finansielle instrumenter fondet ikke eier som er foretatt gjennom året. Det skal redegjøres for spesielle risikofaktorer knyttet til slike salg.",
+      "Regnskapslovens bestemmelser om små foretak gjelder ikke for verdipapirfond.",
+      "Plikter som er pålagt den regnskapspliktige i regnskapsloven kapittel 2, § 3-1, § 3-5 og kapittel 8 påhviler forvaltningsselskapet for verdipapirfondet, jf. lov om verdipapirfond § 2-1 første ledd, § 2-4 første ledd og § 8-1 første ledd nr. 1."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 26 mars 2010 nr. 466 (i kraft 1 juli 2010), 21 des 2011 nr. 1467 (i kraft 1 jan 2012)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Årsregnskap og årsberetning",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 2-1",
+     "tittel": "Fastsettelse av årsregnskap og årsberetning",
+     "ledd": [
+      "Årsregnskapet og årsberetningen skal fastsettes av forvaltningsselskapets styre senest fire måneder etter regnskapsårets slutt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 2-1a",
+     "tittel": "Rettvisende bilde",
+     "ledd": [
+      "Hvis anvendelsen av en bestemmelse i kapittel 3 til 5 i denne forskrift i særlige unntakstilfeller er uforenlig med plikten til å gi et rettvisende bilde av årsregnskapet, skal bestemmelsen fravikes for å gi et rettvisende bilde som fastsatt i regnskapsloven § 3-2a første ledd."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 20 des 2005 nr. 1599 (i kraft 1 jan 2006 med virkning for regnskapsår som starter 1 jan 2005 eller senere)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 2-2",
+     "tittel": "Årsberetningens innhold",
+     "ledd": [
+      "I årsberetningen skal det gis følgende opplysninger i tillegg til det som følger av regnskapsloven § 2-2:\n1. Det skal opplyses om hvilket forvaltningsselskap som er forretningsfører og hvem som er depotmottaker for verdipapirfondet.\n2. Det skal redegjøres for den finansielle risikoen som har vært knyttet til virksomheten i regnskapsåret. Det skal redegjøres for verdipapirfondets risikostyring og organisering av denne.\n3. Det skal gis informasjon om verdiutviklingen for en andel i perioden. Det skal kommenteres særskilt om verdiutviklingen står i forhold til verdipapirfondets risikoprofil. Dersom verdipapirfondet har andelsklasser skal det redegjøres for verdiutviklingen for en andel i hver av andelsklassene.\n4. Det skal redegjøres for om det har vært ekstraordinært store innløsninger i perioden og håndteringen av disse. Dersom ekstraordinært store innløsninger har hatt innvirkning på andelenes verdiutvikling skal dette kommenteres.",
+      "Opplysninger om forutsetningen om fortsatt drift etter regnskapsloven § 2-2 åttende ledd nr. 2–4, skal også gis om forvaltningsselskapet for verdipapirfondet."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 20 des 2005 nr. 1599 (i kraft 1 jan 2006 med virkning for regnskapsår som starter 1 jan 2005 eller senere), 21 des 2011 nr. 1467 (i kraft 1 jan 2012), 1 nov 2024 nr. 2614."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Vurderingsregler",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 3-1",
+     "tittel": "Finansielle instrumenter",
+     "ledd": [
+      "Regnskapsloven § 5-8 gjelder ikke. Finansielle instrumenter (fondets verdipapirportefølje) skal vurderes til virkelig verdi."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Resultatregnskap og balanse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 4-1",
+     "tittel": "Resultatregnskap",
+     "ledd": [
+      "Regnskapsloven § 6-1 gjelder ikke. Resultatregnskapet skal ha følgende oppstillingsplan:\nA. Porteføljeinntekter og porteføljekostnader\n1. Renteinntekter\n2. Utbytte\n3. Gevinst/tap ved realisasjon\n4. Netto endring urealiserte kursgevinster/kurstap\n5. Andre porteføljeinntekter\nI. Porteføljeresultat\nB. Forvaltningsinntekter og forvaltningskostnader mv\n6. Provisjonsinntekter fra salg og innløsning av andeler\n7. Kostnader ved salg og innløsning av andeler\n8. Forvaltningshonorar\n9. Andre inntekter\n10. Andre kostnader\nII. Forvaltningsresultat\nIII. Resultat før skattekostnad\n11. Skattekostnad\nIV Årsresultat",
+      "I tilknytning til resultatregnskapet skal det gis følgende opplysninger om anvendelse av årsresultatet/dekning av tap:\n1. Netto utdelt til andelseiere i året\n2. Avsatt til utdeling til andelseiere\n3. Overført til/fra opptjent egenkapital"
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 4-2",
+     "tittel": "Balanse",
+     "ledd": [
+      "Regnskapsloven § 6-2 gjelder ikke. Balansen skal ha følgende oppstillingsplan:\nA. EIENDELER\nI. Fondets verdipapirportefølje\nII. Fordringer\n1. Opptjente, ikke mottatte inntekter\n2. Andre fordringer\nIII. Bankinnskudd\nB. EGENKAPITAL\nI. Innskutt egenkapital\n1. Andelskapital til pålydende\n2. Overkurs/underkurs\nII. Opptjent egenkapital\nC. GJELD\nI. Avsatt til utdeling til andelseiere\nII. Annen gjeld",
+      "Verdipapirporteføljen skal spesifiseres på de ulike kategorier finansielle instrumenter.",
+      "Det skal i tilknytning til balansen opplyses om garantiforpliktelser.",
+      "Regnskapsloven § 6-3 første ledd gjelder slik at også post C II skal deles opp dersom verdipapirfondets forhold tilsier det."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 4-3",
+     "tittel": "Ingen kontantstrømoppstilling",
+     "ledd": [
+      "Regnskapsloven § 6-4 gjelder ikke."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Noteopplysninger",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 5-1",
+     "tittel": "Opplysningsplikt",
+     "ledd": [
+      "Regnskapsloven kapittel 7 om noteopplysninger gjelder med de unntak og tillegg som følger av bestemmelsene i dette kapittel. Opplysninger som nevnt i dette kapittel kan utelates når de ikke er av betydning for å bedømme verdipapirfondets stilling og resultat. Det skal likevel alltid gis opplysninger som nevnt i §§ 5-3 og 5-9."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 5-1a",
+     "tittel": "Rettvisende bilde",
+     "ledd": [
+      "Hvis anvendelsen av bestemmelsene i regnskapsloven og denne forskrift ikke er tilstrekkelig for å gi et rettvisende bilde som nevnt i regnskapsloven § 3-2a første ledd, skal det gis tilleggsopplysninger.",
+      "Dersom verdipapirfondet er engasjert i aktiviteter med vesentlig risiko eller vesentlige fordeler som ikke er innregnet i balansen, skal tilleggsopplysningene etter første ledd omfatte en beskrivelse av aktivitetenes finansielle virkning og formålet med dem.",
+      "Ethvert fravik som nevnt i § 2-1a i denne forskrift skal angis. Regnskapsloven § 7-1 sjette ledd annet punktum gjelder tilsvarende."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 20 des 2005 nr. 1599 (i kraft 1 jan 2006 med virkning for regnskapsår som starter 1 jan 2005 eller senere), endret ved forskrift 20 des 2011 nr. 1422 (fom regnskapsår påbegynt 1 jan 2011 eller senere)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 5-2",
+     "tittel": "Regnskapsprinsipper",
+     "ledd": [
+      "Opplysninger om anvendte regnskapsprinsipper etter regnskapsloven § 7-2 skal minst omfatte følgende opplysninger:\n1. Prinsippene for regnskapsmessig behandling av finansielle instrumenter, herunder spesielt regnskapsmessig behandling av finansielle derivater.\n2. Prinsippene for fastsettelse av virkelig verdi, herunder om beregning av virkelig verdi bygger på observerbare markedsverdier eller om den er beregnet på en annen måte. Det skal opplyses om usikkerheter i beregningene.\n3. Prinsippene for regnskapsmessig behandling av transaksjonskostnader.\n4. Prinsippene for regnskapsmessig behandling av utdelinger til andelseierne."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-4",
+     "nummer": "§ 5-3",
+     "tittel": "Virkningen av feil i tidligere årsregnskap",
+     "ledd": [
+      "Opplysninger etter regnskapsloven § 7-3 skal omfatte opplysninger om konsekvensen for andelseierne av feil i tidligere årsregnskap og korrigering av slike feil."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-5",
+     "nummer": "§ 5-4",
+     "tittel": "Finansiell markedsrisiko",
+     "ledd": [
+      "Verdipapirfond skal gi opplysninger som nevnt i regnskapsloven § 7-5."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-6",
+     "nummer": "§ 5-5",
+     "tittel": "Aksjer, andeler og rentebærende verdipapirer",
+     "ledd": [
+      "Regnskapsloven §§ 7-17, 7-18 og 7-20 gjelder ikke. Aksjer, andeler og rentebærende verdipapirer skal spesifiseres fordelt på de børser eller markeder verdipapiret omsettes på. Spesifikasjonen skal vise:\n- selskap/utsteder\n- pålydende/antall aksjer\n- valuta\n- anskaffelseskost\n- virkelig verdi\n- urealisert gevinst/tap\n- tegningsrettigheter\n- verdipapirets prosentvise andel av verdipapirfondets totale forvaltningskapital\n- for aksjer og andeler: næring og eierandel i selskapet\n- for rentebærende papirer: risikoklasse",
+      "For rentebærende verdipapirer skal det opplyses om rentereguleringstidspunkter og gjennomsnittlig effektiv rente, samt hvordan denne er beregnet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-7",
+     "nummer": "§ 5-6",
+     "tittel": "Finansielle derivater",
+     "ledd": [
+      "Det skal gis en beskrivelse av de finansielle derivatene som er benyttet gjennom året. Det skal redegjøres for spesielle risikofaktorer som er knyttet til de enkelte typer av finansielle derivater.",
+      "Det skal gis opplysninger om nominelt beløp og virkelig verdi per årsslutt for henholdsvis renterelaterte derivater, valutarelaterte derivater, egenkapitalrelaterte derivater samt andre finansielle derivater. Dersom nominelt beløp ikke er representativt for aktiviteten gjennom året skal gjennomsnittlig nominelt beløp for året oppgis. Virkningen av motregning, jf. verdipapirhandelloven kapittel 14, skal fremkomme. Det skal redegjøres for definisjon av nominelt beløp."
+     ],
+     "endringer": [
+      "Endret ved forskrift 29 juni 2007 nr. 876 (i kraft 1 nov 2007)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-8",
+     "nummer": "§ 5-7",
+     "tittel": "Verdipapirporteføljens omløpshastighet mv",
+     "ledd": [
+      "Omløpshastigheten på fondets verdipapirportefølje skal oppgis med beskrivelse av beregningsmetode.",
+      "Årets transaksjonskostnader i forbindelse med kjøp og salg av finansielle instrumenter skal spesifiseres."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-9",
+     "nummer": "§ 5-8",
+     "tittel": "Egenkapital",
+     "ledd": [
+      "Regnskapsloven § 7-25 annet punktum gjelder ikke.",
+      "Opplysninger om endringer i egenkapitalen i løpet av regnskapsåret, skal minst angi årsresultat, utdelinger til andelseierne, økning i egenkapital ved utstedelse av andeler og reduksjon i egenkapital ved innløsning av andeler."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-10",
+     "nummer": "§ 5-9",
+     "tittel": "Andeler og andelsklasser",
+     "ledd": [
+      "Det skal opplyses om antall utstedte andeler i verdipapirfondet. Dersom verdipapirfondet har andelsklasser skal det opplyses om antall andelsklasser, hva som kjennetegner den enkelte andelsklasse og antall utstedte andeler i hver andelsklasse.",
+      "Det skal opplyses om størrelsen på innløsningskursen per andel med fradrag av innløsningskostnader ved regnskapsårets slutt og hvordan innløsningskursen er beregnet. Det skal gis tilsvarende opplysninger for de to siste regnskapsår.",
+      "Det skal gis opplysninger om eventuelle særskilte avtaler som er inngått med større andelseiere med hensyn til begrensing i verdipapirfondets plikt til innløsning."
+     ],
+     "endringer": [
+      "Endret ved forskrift 21 des 2011 nr. 1467 (i kraft 1 jan 2012)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-11",
+     "nummer": "§ 5-10",
+     "tittel": "Provisjonsinntekter fra salg og innløsning av andeler",
+     "ledd": [
+      "Det skal opplyses om grunnlaget for beregning av provisjonsinntekter fra salg og innløsning av andeler i verdipapirfondet og hvilken prosentsats som benyttes, samt hvilken andel av salgs- og innløsningsprovisjonen som tilfaller verdipapirfondet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-12",
+     "nummer": "§ 5-11",
+     "tittel": "Kostnader ved salg og innløsning av andeler",
+     "ledd": [
+      "Det skal opplyses om grunnlaget for beregning av den godtgjørelse som depotmottaker har belastet verdipapirfondet og hvilken prosentsats som benyttes."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-13",
+     "nummer": "§ 5-12",
+     "tittel": "Forvaltningshonorar",
+     "ledd": [
+      "Det skal opplyses om grunnlaget for beregning av den godtgjørelse som forvaltningsselskapet har belastet verdipapirfondet og hvilken prosentsats som benyttes. I tillegg skal det opplyses om hvilke prosentsatser som har blitt belastet henholdsvis fondet og de enkelte verdipapirfondene som fondet eventuelt har plassert sine midler i."
+     ],
+     "endringer": [
+      "Endret ved forskrift 13 aug 2003 nr. 1047."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-14",
+     "nummer": "§ 5-13",
+     "tittel": "Andre porteføljeinntekter, andre inntekter og andre kostnader",
+     "ledd": [
+      "Det skal opplyses om innholdet i postene andre porteføljeinntekter, andre inntekter og andre kostnader."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Avsluttende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 6-1",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Denne forskrift trer i kraft 1. juli 1999. Fra samme tidspunkt oppheves forskrift 16. desember 1998 nr. 1243 om årsregnskap m.m. for verdipapirfond."
+     ]
+    }
+   ]
+  }
+ ]
+}

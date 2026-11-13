@@ -1,0 +1,65 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-1959-07-24-7",
+ "dokumentid": "SF/forskrift/1959-07-24-7",
+ "departement": [
+  "Arbeids- og inkluderingsdepartementet"
+ ],
+ "etat": [
+  "Trygdeavd."
+ ],
+ "kunngjort_i": "I 1959 s 970",
+ "ikraft": "1960-01-01",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1958-12-12-10/§10",
+   "tekst": "lov/1958-12-12-10/§10"
+  }
+ ],
+ "korttittel": "Forsk. om epidemisk sykdom mm som yrkesskade",
+ "tittel": "Forskrifter om epidemiske sykdommer og klimatsykdommer som stilles likt med yrkesskade.",
+ "annet": "Fastsatt med hjemmel i § 10 i lov om yrkesskadetrygd av 12. desember 1958. – Gjelder fremdeles for yrkesskader som er inntruffet før 01.01.1971.",
+ "refid": "forskrift/1959-07-24-7",
+ "eli": "/eli/forskrift/1959/07/24/07",
+ "url": "https://lovdata.no/dokument/SF/forskrift/1959-07-24-7",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I.",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Følgende klimat-sykdommer og epidemiske sykdommer skal stilles likt med yrkesskade etter nevnt lov:\nA. Epidemiske eller smittsomme sykdommer i fordøyelsesorganene:\nCholera asiatica\nAmoebiasis\nB. Andre bakterielle smittsomme sykdommer:\nPestis\nC. Sykdommer som skyldes spirocheter:\nLeptospirosis (smittsom gulsot)\nD. Virussykdommer:\nVariola (kopper)\nFebris flava (gul feber)\nE. Rickettsioser:\nFebris exanthematica (typhus exanthematicus)\nFebris exanthematica per pulicem muris (flekktyfus ved rottelopper)\nFebris exanthematica, Typhus tropicus (herunder Tsutsugamushi eller japansk flodfeber)\nF. Malaria og andre protozoinfeksjoner (unntatt amoebiasis):\nMalaria vivax\nMalaria quartana\nMalaria tertiana (maligna)\nMalaria ovalis\nMalaria mixta\nMalaria haemoglobinurica (blackwaterfeber)\nMalaria alia et non definita\nG. Følger av kulde og lav temperatur under arbeid i ishavsstrøk.\nH. Følger av sterk varme og sol under arbeid i tropiske eller subtropiske strøk."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II.",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Sosialdepartementet kan bestemme at andre klimat-sykdommer og epidemiske sykdommer enn nevnt under I skal stilles likt med yrkesskade i lovens forstand."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kapIII",
+   "overskrift": "III.",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Disse bestemmelser trer i kraft 1. januar 1960."
+    }
+   ]
+  }
+ ]
+}

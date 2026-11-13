@@ -1,0 +1,209 @@
+{
+ "skjema": "1.0",
+ "type": "lov",
+ "datokode": "LOV-1985-12-20-108",
+ "dokumentid": "NL/lov/1985-12-20-108",
+ "departement": [
+  "Kultur- og likestillingsdepartementet"
+ ],
+ "ikraft": "1986-01-01",
+ "siste_endring_ikraft": "2014-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "lov/2013-06-21-95",
+   "tekst": "lov/2013-06-21-95 fra 2014-01-01"
+  }
+ ],
+ "rettsomrade": [
+  "Kultur, idrett og underholdning > Bibliotek"
+ ],
+ "siste_rettelse": "2021-09-09 (faglige fotnoter fjernet)",
+ "korttittel": "Folkebibliotekloven",
+ "tittel": "Lov om folkebibliotek (folkebibliotekloven)",
+ "annet": "Lovens tittel endret ved lov 21 juni 2013 nr. 95 (ikr. 1 jan 2014 iflg. res. 21 juni 2013 nr. 747). – Jf. lov 29 mai 1987 nr. 23. – Jf. tidligere lover 16 mai 1935 nr. 1, 12 des 1947 nr. 12, 18 juni 1971 nr. 80.",
+ "refid": "lov/1985-12-20-108",
+ "eli": "/eli/lov/1985/12/20/108",
+ "url": "https://lovdata.no/dokument/NL/lov/1985-12-20-108",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "Kapittel I. Folkebibliotekenes formål og virksomhet.",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Målsetting",
+     "ledd": [
+      "Folkebibliotekene skal ha til oppgave å fremme opplysning, utdanning og annen kulturell virksomhet, gjennom aktiv formidling og ved å stille bøker og andre medier gratis til disposisjon for alle som bor i landet.",
+      "Folkebibliotekene skal være en uavhengig møteplass og arena for offentlig samtale og debatt.",
+      "Det enkelte bibliotek skal i sine tilbud til barn og voksne legge vekt på kvalitet, allsidighet og aktualitet.",
+      "Bibliotekenes innhold og tjenester skal gjøres kjent.",
+      "Folkebibliotekene er ledd i et nasjonalt biblioteksystem."
+     ],
+     "endringer": [
+      "Endret ved lov 21 juni 2013 nr. 95 (ikr. 1 jan 2014 iflg. res. 21 juni 2013 nr. 747)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Lovens virkeområde",
+     "ledd": [
+      "Loven gjelder for den offentlige folkebibliotekvirksomheten, herunder de lokale folkebibliotekene som kommunen har ansvaret for (lovens kap. II), fylkeskommunens bibliotekoppgaver (lovens kap. III), og særlige bibliotekformål som staten har ansvaret for (lovens kap. IV).",
+      "Folkebibliotekvirksomheten omfatter bibliotektjenester for alle som har spesielle vansker med å bruke biblioteket."
+     ],
+     "endringer": [
+      "Endret ved lov 21 juni 2013 nr. 95 (ikr. 1 jan 2014 iflg. res. 21 juni 2013 nr. 747)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Lånesamarbeid, registrering mv.",
+     "ledd": [
+      "Bibliotekene skal følge felles regler om lånesamarbeid og registrering, og for innlevering av statistikk. Departementet kan gi nærmere forskrift."
+     ],
+     "endringer": [
+      "Endret ved lov 21 juni 2013 nr. 95 (ikr. 1 jan 2014 iflg. res. 21 juni 2013 nr. 747)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "Kapittel II. Kommunale folkebibliotek.",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 4",
+     "tittel": "Generelt",
+     "ledd": [
+      "Til formål nevnt i kapittel I skal alle kommuner ha et folkebibliotek.",
+      "Folkebiblioteket kan drives av kommunen alene, eller i helt eller delvis driftsfellesskap med annen kommune, fylkeskommunen eller statlig institusjon.",
+      "Kommunen fastsetter reglement for folkebiblioteket."
+     ],
+     "endringer": [
+      "Endret ved lover 11 juni 1993 nr. 85, 4 juli 2003 nr. 82 (ikr. 1 aug 2003 iflg. res. 4 juli 2003 nr. 898), 21 juni 2013 nr. 95 (ikr. 1 jan 2014 iflg. res. 21 juni 2013 nr. 747)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 5",
+     "tittel": "Kompetanse",
+     "ledd": [
+      "Alle kommuner skal ha fagutdannet biblioteksjef.",
+      "Departementet kan dispensere fra bestemmelsen i særskilte tilfeller og gir nærmere forskrifter om kvalifikasjonskrav."
+     ],
+     "endringer": [
+      "Endret ved lov 21 juni 2013 nr. 95 (ikr. 1 jan 2014 iflg. res. 21 juni 2013 nr. 747)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kapIII",
+   "overskrift": "Kapittel III. Fylkeskommunens bibliotekoppgaver.",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Overskriften endret ved lov 21 juni 2013 nr. 95 (ikr. 1 jan 2014 iflg. res. 21 juni 2013 nr. 747)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 6",
+     "tittel": "Generelt",
+     "ledd": [
+      "Fylkeskommunen skal ivareta regionale bibliotekoppgaver og regional bibliotekutvikling, herunder gi råd til lokale myndigheter, yte bibliotekfaglig veiledning og assistanse, og arrangere møter og kurs om bibliotekspørsmål.",
+      "Fylkeskommunen kan opprette avtaler om felles bibliotekdrift og lånesamarbeid med en eller flere kommuner."
+     ],
+     "endringer": [
+      "Endret ved lov 21 juni 2013 nr. 95 (ikr. 1 jan 2014 iflg. res. 21 juni 2013 nr. 747), tidligere § 9."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 7",
+     "tittel": "Kompetanse",
+     "ledd": [
+      "Fylkeskommunen skal ha bibliotekfaglig kompetanse på ledernivå til å gjennomføre fylkeskommunale bibliotekoppgaver. Departementet gir nærmere forskrifter om kvalifikasjonskrav."
+     ],
+     "endringer": [
+      "Opphevet ved lov 11 juni 1993 nr. 85, tilføyd ved lov 21 juni 2013 nr. 95 (ikr. 1 jan 2014 iflg. res. 21 juni 2013 nr. 747)."
+     ],
+     "opphevet": "2014-01-01"
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kapIV",
+   "overskrift": "Kapittel IV. Statlige oppgaver.",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 8",
+     "tittel": "Statlige bibliotekoppgaver",
+     "ledd": [
+      "Departementet, eller den departementet bestemmer, ivaretar statlige bibliotekoppgaver etter denne lov."
+     ],
+     "endringer": [
+      "Endret ved lover 4 juli 2003 nr. 82 (ikr. 1 aug 2003 iflg. res. 4 juli 2003 nr. 898), 6 jan 2012 nr. 3, 21 juni 2013 nr. 95 (ikr. 1 jan 2014 iflg. res. 21 juni 2013 nr. 747), tidligere § 13."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 9",
+     "tittel": "Særlige bibliotekformål",
+     "ledd": [
+      "Statlige oppgaver omfatter bibliotekformål som ikke naturlig hører inn under den enkelte kommunes ansvarsområde, eller som er av særlig betydning for opprettholdelse av et nasjonalt biblioteksystem."
+     ],
+     "endringer": [
+      "Endret ved lov 21 juni 2013 nr. 95 (ikr. 1 jan 2014 iflg. res. 21 juni 2013 nr. 747), tidligere § 14."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kapV",
+   "overskrift": "Kapittel V. Lovens ikrafttreden. Endringer i andre lover.",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 10",
+     "tittel": null,
+     "ledd": [
+      "Denne lov trer i kraft fra den tid Kongen bestemmer.[1] Fra samme dag endres følgende lover slik: – – –"
+     ],
+     "endringer": [
+      "Endret ved lov 21 juni 2013 nr. 95 (ikr. 1 jan 2014 iflg. res. 21 juni 2013 nr. 747), tidligere § 16."
+     ],
+     "fotnoter": [
+      {
+       "nr": "1",
+       "tekst": "Fra 1 jan 1986 iflg. res. 20 des 1985 nr. 2236."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

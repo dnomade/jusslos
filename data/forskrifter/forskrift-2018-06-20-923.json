@@ -1,0 +1,196 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2018-06-20-923",
+ "dokumentid": "SF/forskrift/2018-06-20-923",
+ "departement": [
+  "Samferdselsdepartementet"
+ ],
+ "etat": [
+  "Luftfartstilsynet"
+ ],
+ "ikraft": "2018-07-01",
+ "siste_endring_ikraft": "2020-11-23",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2020-11-23-2437",
+   "tekst": "forskrift/2020-11-23-2437"
+  }
+ ],
+ "endrer": "forskrift/2005-02-01-216",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1993-06-11-101/§5-1",
+   "tekst": "lov/1993-06-11-101/§5-1"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§5-3",
+   "tekst": "lov/1993-06-11-101/§5-3"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§9-1",
+   "tekst": "lov/1993-06-11-101/§9-1"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§15-4",
+   "tekst": "lov/1993-06-11-101/§15-4"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§4-1",
+   "tekst": "lov/1993-06-11-101/§4-1"
+  },
+  {
+   "ref": "forskrift/1999-12-10-1273",
+   "tekst": "forskrift/1999-12-10-1273"
+  }
+ ],
+ "kunngjort": "2018-06-21 15:00",
+ "korttittel": "Forskrift om helikopter offshoreoperasjoner",
+ "tittel": "Forskrift om helikopter offshoreoperasjoner",
+ "annet": "Hjemmel: Fastsatt av Luftfartstilsynet 20. juni 2018 med hjemmel i lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven) § 5-1, § 5-3, § 9-1, § 15-4 og § 4-1, jf. delegeringsvedtak 10. desember 1999 nr. 1273.\nEndret ved forskrift 23 nov 2020 nr. 2437.",
+ "refid": "forskrift/2018-06-20-923",
+ "eli": "/eli/forskrift/2018/06/20/923",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2018-06-20-923",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Virkeområde",
+   "ledd": [
+    "Forskriften gjelder for helikopteroperatører som utfører offshoreoperasjoner. Reglene gjelder i tillegg til reglene for slik flyging i forskrift 7. august 2013 nr. 956 om luftfartsoperasjoner."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Definisjoner",
+   "ledd": [
+    "a. Helikopteroperatør: foretak som innehar AOC utstedt av Luftfartstilsynet eller har erklært virksomheten sin til Luftfartstilsynet etter bestemmelsen i forordning (EU) nr. 965/2012, ORO.DEC.100.\nb. Offshoreoperasjon: en helikopteroperasjon hvor en vesentlig del av flygingen skjer over åpent havområde til eller fra et offshore bestemmelsessted.\nc. Offshore bestemmelsessted: et sted på en fast eller flytende innretning, eller på et skip, som menes brukt for helikopteroperasjoner."
+   ],
+   "endringer": [
+    "Endret ved forskrift 23 nov 2020 nr. 2437."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Ekstra simulatortrening",
+   "ledd": [
+    "Simulatortrening som gjennomføres etter bestemmelsen ORO.FC.230 i forordning (EU) nr. 965/2012 skal bestå av minst åtte timers besetningstid, og minst tre av disse timene skal være utviklende trening."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 3a",
+   "tittel": "Trening i bruk av nødpusteutstyr",
+   "ledd": [
+    "Besetning og passasjerer skal gis nødvendig instruksjon og trening i å benytte nødpusteutstyr (EBS) sikkert i en nødsituasjon."
+   ],
+   "endringer": [
+    "Tilføyd ved forskrift 23 nov 2020 nr. 2437."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 4",
+   "tittel": "Av-/anti-isingsutstyr",
+   "ledd": [
+    "Helikopter som brukes til offshoreoperasjoner skal være utstyrt med av-/anti-isingsutstyr i perioden 1. september til 1. mai. Luftfartstilsynet kan likevel tillate at flyginger uten slik utstyr gjennomføres sør for 60 grader nord."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 5",
+   "tittel": "Begrensinger for nattoperasjoner",
+   "ledd": [
+    "Landing på skip med baumontert helidekk skal ikke gjennomføres under nattforhold med mindre dette skjer etter særskilt prosedyre godkjent av Luftfartstilsynet og besetningen har gjennomført særskilt trening for slik landing."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 6",
+   "tittel": "Høyttaleranlegg",
+   "ledd": [
+    "Helikopter som brukes til offshoreoperasjoner skal være utstyrt med fastmontert høyttaleranlegg. Høyttaleranlegget skal være dimensjonert slik at meldinger fra besetningen skal kunne høres tydelig for alle passasjerer om bord.",
+    "Kravet om høyttaleranlegg gjelder likevel ikke når passasjerene er tilknyttet helikopterets internkommunikasjonssystem."
+   ],
+   "endringer": [
+    "Endret ved forskrift 23 nov 2020 nr. 2437."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-8",
+   "nummer": "§ 7",
+   "tittel": "Terrengvarslingssystem",
+   "ledd": [
+    "Helikopter som brukes til offshoreoperasjoner skal være utstyrt med et helicopter terrain awareness warning system (HTAWS) som oppfyller kravene i forordning (EU) nr. 965/2012, SPA.HOFO.160 (c)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-9",
+   "nummer": "§ 8",
+   "tittel": "Antikollisjonssystem",
+   "ledd": [
+    "Helikopter som brukes til offshoreoperasjoner skal være utstyrt med et airborne collision avoidance system klasse II (ACAS II) versjon 7.1."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-10",
+   "nummer": "§ 9",
+   "tittel": "Halekamera",
+   "ledd": [
+    "Helikopter som har luftdyktighetsbevis utstedt etter forskriftens ikrafttredelse, og som brukes til offshoreoperasjoner, skal være utstyrt med fremover rettet halekamera med presentasjon av bilde i cockpit."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-11",
+   "nummer": "§ 10",
+   "tittel": "Krav om to flygere",
+   "ledd": [
+    "Ved passasjerflyging skal besetningen bestå av minst to flygere."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-12",
+   "nummer": "§ 11",
+   "tittel": "Dispensasjon",
+   "ledd": [
+    "Luftfartstilsynet kan dispensere fra bestemmelsene i denne forskriften dersom kravene til sikkerhet etter en konkret vurdering kan anses ivaretatt. Søknaden skal inneholde en risikovurdering sammen med en beskrivelse av eventuelle risikoreduserende tiltak og forventet effekt av disse. Det kan settes vilkår for en dispensasjon."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-13",
+   "nummer": "§ 12",
+   "tittel": "Sanksjoner og gebyr",
+   "ledd": [
+    "Ved overtredelse av forskriftens bestemmelser kan Luftfartstilsynet begrense, midlertidig oppheve og tilbakekalle helikopteroperatørens godkjenning til å utføre offshoreoperasjoner.",
+    "Overtredelsesgebyr etter luftfartsloven § 13a-5 kan ilegges for brudd på reglene i § 3 til og med § 10."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-14",
+   "nummer": "§ 13",
+   "tittel": "Ikrafttredelse, endringer i andre forskrifter og overgangsregel",
+   "ledd": [
+    "Forskriften trer i kraft 1. juli 2018.",
+    "Fra samme tidspunkt oppheves forskrift 1. februar 2005 nr. 216 om vibrasjonsovervåkningssystemer for helikopter (BSL D 1-16).",
+    "Frem til 1. januar 2022 kan Luftfartstilsynet tillate at helikopter som ved tidspunktet for forskriftens ikrafttredelse ikke oppfyller kravet i § 7 eller § 8, likevel benyttes. Søknad om slik tillatelse skal inneholde en risikovurdering sammen med en vurdering av eventuelle kompenserende tiltak."
+   ]
+  }
+ ]
+}

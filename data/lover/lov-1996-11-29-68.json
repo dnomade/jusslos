@@ -1,0 +1,426 @@
+{
+ "skjema": "1.0",
+ "type": "lov",
+ "datokode": "LOV-1996-11-29-68",
+ "dokumentid": "NL/lov/1996-11-29-68",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "ikraft": "1998-01-01",
+ "siste_endring_ikraft": "2026-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "lov/2025-12-22-118",
+   "tekst": "lov/2025-12-22-118 fra 2026-01-01"
+  }
+ ],
+ "endrer": "lov/1925-07-15",
+ "rettsomrade": [
+  "Skatte- og avgiftsrett > Svalbardskatt",
+  "Svalbard og biland > Generelt"
+ ],
+ "siste_rettelse": "2021-08-25 (faglige fotnoter fjernet, UU-tilpasset)",
+ "korttittel": "Svalbardskatteloven – svalbsktl",
+ "tittel": "Lov om skatt til Svalbard (Svalbardskatteloven)",
+ "annet": "Jf. tidligere lov 15 juli 1925. Lovens tittel endret ved lov 17 juni 2016 nr. 37.",
+ "refid": "lov/1996-11-29-68",
+ "eli": "/eli/lov/1996/11/29/68",
+ "url": "https://lovdata.no/dokument/NL/lov/1996-11-29-68",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Alminnelige bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1-1",
+     "tittel": "Lovens virkeområde",
+     "ledd": [
+      "Denne lov gjelder skatt til Svalbard av formue og inntekt, herunder fastsetting, betaling og innkreving av slik skatt.",
+      "Svalbard omfatter de områder av kongeriket Norge som er nevnt i lov om Svalbard av 17. juli 1925 nr. 11 § 1 annet ledd."
+     ],
+     "endringer": [
+      "Endret ved lov 27 mai 2016 nr. 14 (ikr. 1 jan 2017 iflg. res. 27 mai 2016 nr. 531)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 1-2",
+     "tittel": "Skattesatser",
+     "ledd": [
+      "Stortinget fastsetter for hver budsjettermin skattesatsene etter denne lov."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 1-3",
+     "tittel": "Skattesubjekter",
+     "ledd": [
+      "Med person menes i denne lov fysiske personer samt boer etter slike.",
+      "Med selskap menes aksjeselskap og allmennaksjeselskap samt likestilt selskap og sammenslutning som nevnt i skatteloven kapittel 10, samt boer etter slike."
+     ],
+     "endringer": [
+      "Endret ved lover 13 juni 1997 nr. 44 (ikr. 1 jan 1999), 26 mars 1999 nr. 14 (ikr. 1 jan 2000), 25 juni 2024 nr. 63."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 1-4",
+     "tittel": "Fritak for skatt",
+     "ledd": [
+      "Formues- og inntektsskatt etter denne lov kan ikke pålegges institusjoner mv. som omfattes av skatteloven § 2-30 første ledd bokstavene b og d og § 2-32 første og fjerde ledd.",
+      "Den norske stat er likevel skattepliktig for formue og inntekt knyttet til statens bergverksdrift på Svalbard."
+     ],
+     "endringer": [
+      "Endret ved lover 26 mars 1999 nr. 14 (ikr. 1 jan 2000), 25 juni 2024 nr. 63."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-5",
+     "nummer": "§ 1-5",
+     "tittel": "Fullmaktshjemmel",
+     "ledd": [
+      "Kongen kan gi forskrifter til utfylling og gjennomføring av denne lov."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Skatteplikt til Svalbard",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 2-1",
+     "tittel": "Personer bosatt på Svalbard",
+     "ledd": [
+      "Personer som er bosatt på Svalbard, skal svare skatt av hele sin formue og inntekt når ikke annet følger av denne lov. En person anses som bosatt på Svalbard når vedkommende har tatt varig opphold der. Opphold av minst 12 måneders varighet regnes som bosettelse fra begynnelsen av oppholdet.",
+      "For personer som før oppholdet på Svalbard ikke har vært skattemessig bosatt i Norge (herunder Svalbard) i løpet av de siste 10 årene, gjelder følgende:\na. De første 5 årene vedkommende anses bosatt på Svalbard, er skattepliktens omfang begrenset tilsvarende som etter § 2-2.\nb. Dersom begrensningen i skatteplikt etter dette ledd leder til at et betydelig beløp unntas fra beskatning til Svalbard i et inntektsår, kan skattekontoret velge å sette begrensningen til side for det aktuelle året. Som betydelig beløp regnes 12 ganger folketrygdens grunnbeløp.",
+      "Skatteplikten etter denne paragraf faller bort fra og med det inntektsår personen har oppholdt seg utenfor Svalbard mer enn 183 dager i en tolvmånedersperiode.",
+      "Lønn og annen godtgjørelse for arbeid utført utenfor Svalbard er unntatt fra skatteplikten dersom det godtgjøres at inntekten er skattepliktig ved annen norsk skattlegging eller i fremmed stat.",
+      "Det samme gjelder inntekt vunnet ved næringsvirksomhet som er utøvet utenfor Svalbard.",
+      "Skatt skal ikke svares av formue i eller inntekt av fast eiendom eller anlegg med tilbehør som ligger utenfor Svalbard."
+     ],
+     "endringer": [
+      "Endret ved lover 17 des 1999 nr. 91 (f o m inntektsåret 2000), 10 des 2010 nr. 64 (f o m inntektsåret 2011), 27 mai 2016 nr. 14 (ikr. 1 jan 2017 iflg. res. 27 mai 2016 nr. 531), 25 juni 2024 nr. 63."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 2-2",
+     "tittel": "Personer som ikke er bosatt på Svalbard",
+     "ledd": [
+      "Personer som tar midlertidig opphold på Svalbard og der utfører arbeid eller utøver næringsvirksomhet, skal svare skatt til Svalbard av inntekt vunnet ved slikt arbeid eller virksomhet dersom oppholdet varer sammenhengende i minst 30 dager.",
+      "Personer som tar midlertidig opphold på Svalbard og der mottar ytelser som nevnt i skatteloven § 5-10 bokstav c, skal svare skatt til Svalbard av ytelsene dersom oppholdet varer sammenhengende i minst 30 dager, og vedkommende var i aktivt arbeid på Svalbard da retten til utbetaling oppstod. Departementet kan gi forskrift om at skatteplikten til Svalbard skal bestå ved midlertidig opphold utenfor Svalbard.",
+      "Personer hjemmehørende utenfor Svalbard skal svare skatt av formue i og inntekt av fast eiendom og anlegg med tilbehør som ligger på Svalbard. Det kan kreves fradrag for gjeld stiftet til erverv av slik formue og renter av denne gjelden."
+     ],
+     "endringer": [
+      "Endret ved lover 27 mars 1998 nr. 17 (f o m inntektsåret 1998), 26 mars 1999 nr. 14 (ikr. 1 jan 2000), 10 des 2010 nr. 64 (f o m inntektsåret 2011), 25 juni 2024 nr. 63."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 2-3",
+     "tittel": "Selskaper hjemmehørende på Svalbard",
+     "ledd": [
+      "Selskaper som er hjemmehørende på Svalbard, skal svare skatt av hele sin inntekt når ikke annet følger av denne lov. Et selskap anses som hjemmehørende på Svalbard dersom det har kontor på Svalbard og selskapet ledes derfra.",
+      "Inntekt av næringsvirksomhet utøvet utenfor Svalbard unntas fra skatteplikt dersom det godtgjøres at inntekten er skattepliktig ved annen norsk skattlegging eller i fremmed stat.",
+      "Skatt skal ikke svares av inntekt av fast eiendom eller anlegg med tilbehør som ligger utenfor Svalbard."
+     ],
+     "endringer": [
+      "Endret ved lover 21 des 2000 nr. 110, 10 des 2010 nr. 64 (f o m inntektsåret 2011), 27 mai 2016 nr. 14 (ikr. 1 jan 2017 iflg. res. 27 mai 2016 nr. 531), 25 juni 2024 nr. 63."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 2-4",
+     "tittel": "Selskaper som ikke er hjemmehørende på Svalbard",
+     "ledd": [
+      "Selskaper som er hjemmehørende utenfor Svalbard, skal svare skatt av inntekt vunnet ved virksomhet utøvet på Svalbard, dersom virksomheten varer sammenhengende i minst 30 dager. § 2-2 tredje ledd gjelder tilsvarende."
+     ],
+     "endringer": [
+      "Endret ved lover 10 des 2010 nr. 64 (f o m inntektsåret 2011), 25 juni 2024 nr. 63."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Skatt av formue og inntekt",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 3-1",
+     "tittel": "Skattlegging ved lønnstrekk",
+     "ledd": [
+      "Skatt av lønn, pensjoner og annen ytelse som nevnt i skatteloven § 12-2 bokstavene a, b, c, j og k, beregnes med en prosentvis fastsatt del av ytelsens bruttoverdi, jf. § 5-2. Skatten beregnes med en lav sats for inntekt opp til 12 ganger folketrygdens grunnbeløp, og med en høyere sats for overskytende inntekt. I det samlede inntektsgrunnlaget etter forrige punktum inngår også inntekt som nevnt i § 3-2 fjerde ledd bokstav b. Det benyttes det grunnbeløp som sist ble fastsatt for inntektsåret.",
+      "Ved utflytting fra Svalbard gjelder skatteloven § 14-3 fjerde ledd bokstav b tilsvarende."
+     ],
+     "endringer": [
+      "Endret ved lover 26 mars 1999 nr. 14 (ikr. 1 jan 2000), 14 des 2007 nr. 104 (f o m inntektsåret 2008), 10 des 2010 nr. 64 (f o m inntektsåret 2011), 19 juni 2015 nr. 51 (i kraft 19 juni 2015 med virkning fra inntektsåret 2015), 27 mai 2016 nr. 14 (ikr. 1 jan 2017 iflg. res. 27 mai 2016 nr. 531, tidligere § 3-2), 25 juni 2024 nr. 63 (med virkning fra inntektsåret 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 3-2",
+     "tittel": "Formue og annen inntekt enn lønn",
+     "ledd": [
+      "Formue og inntekt av annen art enn nevnt i § 3-1 skattlegges etter reglene i skatteloven, med mindre annet er bestemt.",
+      "I skatteloven unntas fra anvendelse bestemmelsene om vilkår for skatteplikt til riket, om fordeling av beskatningsretten mellom kommuner, om sambeskatning av ektefeller, om minstefradrag og særfradrag, om skipsaksjeselskaper og skipsallmennaksjeselskaper og om beregning av personinntekt. Skattepliktig utdeling fra selskap og gevinst eller tap ved realisasjon av selskapsandel skal ikke oppjusteres etter reglene i skatteloven. Videre unntas §§ 2-30 til 2-32 fjerde ledd, § 4-10 annet ledd første punktum og tredje ledd første punktum, § 6-13 første ledd, §§ 6-18 til 6-20, §§ 6-42 til 6-44, §§ 6-47 til 6-49, § 6-61, § 10-12, § 10-31 første ledd annet punktum, reglene i § 10-34 gjelder bare i forhold til endring av aksjens kostpris, § 10-42 femte til tiende ledd, § 10-44 annet ledd annet punktum, § 16-10, samt kapittel 15 og 17. Ved anvendelsen av bestemmelsene om gjelds- og gjeldsrentefordeling i skatteloven §§ 4-31 og 6-91 likestilles unntak fra skattlegging på Svalbard etter denne lov med unntak fra skattlegging i Norge etter overenskomst med fremmed stat.",
+      "Departementet kan gi nærmere regler om at forretningsbygg på Svalbard og bygg med kort levetid kan avskrives med inntil dobbel prosentsats.",
+      "For enkeltpersonforetak mv. gjelder følgende:\na. Ved fastsettelsen av alminnelig inntekt fra enkeltpersonforetak gis det fradrag for renter på gjeld til finansinstitusjoner og gjeld som knytter seg til mengdegjeldsbrev. Fradrag gis i den utstrekning gjelden ikke overstiger verdien av eiendelene i virksomheten. Ved fastsettelsen av verdien av eiendelene i virksomheten, gjelder skatteloven § 12-12 annet ledd tilsvarende, med unntak av § 12-12 annet ledd bokstav c.\nb. Skatt av alminnelig inntekt fra enkeltpersonforetak beregnes med en prosentvis fastsatt del av denne inntekten og med samme satser som er fastsatt for lønnsinntekt, jf. § 3-1. Slik inntekt inngår ikke ved fastsettelsen av ordinær alminnelig inntekt. Særskilt godtgjørelse etter selskapsloven § 2-26 første ledd skattlegges på tilsvarende måte.\nc. Underskudd i enkeltpersonforetak fremføres til fradrag i senere års inntekt fra enkeltpersonforetak. Når det ved opphør av virksomhet i enkeltpersonforetak er udekket underskudd, kan slikt underskudd kreves avregnet mot alminnelig inntekt ved bruk av en avregningsfaktor på 0,5."
+     ],
+     "endringer": [
+      "Endret ved lover 26 mars 1999 nr. 14 (ikr. 1 jan 2000), 17 des 1999 nr. 91 (f o m inntektsåret 2000), 21 des 2000 nr. 110 (f o m inntektsåret 2000 for skattytere som nevnt i § 1-3 annet ledd, f o m inntektsåret 2001 for skattytere som nevnt i § 1-3 første ledd), 9 des 2005 nr. 110 (f o m inntektsåret 2006), 14 des 2007 nr. 104 (f o m inntektsåret 2008), 10 des 2010 nr. 64 (f o m inntektsåret 2010), 18 des 2015 nr. 113 (f o m inntektsåret 2016), 27 mai 2016 nr. 14 (ikr. 1 jan 2017 iflg. res. 27 mai 2016 nr. 531, tidligere § 3-1), 18 juni 2021 nr. 104."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 3-3",
+     "tittel": "Fribeløp for ungdom",
+     "ledd": [
+      "Ungdom som ved utløpet av inntektsåret er fra og med 13 til og med 19 år, skal ikke betale skatt av lønn, feriepenger, annen godtgjørelse vunnet ved arbeid i tjenesteforhold og sykepenger innenfor et beløp svarende til beløpsgrensen for frikort på det norske fastlandet, jf. skattebetalingsloven kapittel 5 med forskrifter. Arbeidsgiver trekker skatt etter § 3-1 uten hensyn til fribeløpet. Trukket skatt innenfor fribeløpet refunderes fra skattemyndighetene. Refusjonsbeløpet utbetales så snart som mulig og senest tre uker etter at vedtaket om tilbakebetaling ble truffet. Skattebetalingsloven § 11-3 gjelder tilsvarende. Skattebetalingsloven § 11-4 gjelder ikke."
+     ],
+     "endringer": [
+      "Tilføyd ved lov 22 des 2025 nr. 118 (i kraft 1 jan 2026)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Skatteforvaltning mv.",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Kapitlet endret ved lov 27 mai 2016 nr. 14 (ikr. 1 jan 2017 iflg. res. 27 mai 2016 nr. 531)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 4-1",
+     "tittel": "Skatteforvaltningslovens anvendelse på Svalbard",
+     "ledd": [
+      "Skatteforvaltningsloven gjelder ved fastsetting av skatt og trygdeavgift til Svalbard jf. skatteforvaltningsloven § 1-1 bokstav b."
+     ],
+     "endringer": [
+      "Endret ved lov 27 mai 2016 nr. 14 (ikr. 1 jan 2017 iflg. res. 27 mai 2016 nr. 531)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 4-2",
+     "tittel": "Særlige bestemmelser for visse grupper skattepliktige",
+     "ledd": [
+      "Departementet kan fastsette nærmere regler om\na. forenklet felles skatteoppgjør for prosjektgrupper mv. med kortere opphold på Svalbard,\nb. krav til registrering og dokumentasjon av regnskapsopplysninger, årsregnskap og årsberetning for næringsdrivende selskaper, eller for grupper av slike."
+     ],
+     "endringer": [
+      "Endret ved lover 14 des 2007 nr. 104 (ikr. 1 jan 2008), 19 des 2014 nr. 78 (ikr. 1 juli 2016 iflg. res. 22 jan 2016 nr. 43), 27 mai 2016 nr. 14 (ikr. 1 jan 2017 iflg. res. 27 mai 2016 nr. 531)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 4-3",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Endret ved lover 25 juni 2004 nr. 42, 17 juni 2005 nr. 72 (ikr. 1 aug 2005 iflg. vedtak 30 juni 2005 nr. 780), 14 des 2007 nr. 104 (ikr. 1 jan 2008), 26 apr 2013 nr. 16 (ikr. 1 juli 2013 iflg. res. 26 apr 2013 nr. 413), opphevet ved lov 27 mai 2016 nr. 14 (ikr. 1 jan 2017 iflg. res. 27 mai 2016 nr. 531)."
+     ],
+     "opphevet": "2017-01-01"
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 4-4",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Endret ved lover 14 des 2007 nr. 104 (ikr. 1 jan 2008), 12 des 2008 nr. 95 (ikr. 1 jan 2009), 10 des 2010 nr. 64 (f o m inntektsåret 2011), opphevet ved lov 27 mai 2016 nr. 14 (ikr. 1 jan 2017 iflg. res. 27 mai 2016 nr. 531)."
+     ],
+     "opphevet": "2017-01-01"
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-5",
+     "nummer": "§ 4-5",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Endret ved lover 14 des 2007 nr. 104 (ikr. 1 jan 2008), 26 apr 2013 nr. 16 (ikr. 1 juli 2013 iflg. res. 26 apr 2013 nr. 413), 19 des 2014 nr. 78 (ikr. 1 jan 2015), opphevet ved lov 27 mai 2016 nr. 14 (ikr. 1 jan 2017 iflg. res. 27 mai 2016 nr. 531)."
+     ],
+     "opphevet": "2017-01-01"
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-6",
+     "nummer": "§ 4-6",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Endret ved lover 14 des 2007 nr. 104 (ikr. 1 jan 2008), 19 des 2014 nr. 78 (ikr. 1 jan 2015), opphevet ved lov 27 mai 2016 nr. 14 (ikr. 1 jan 2017 iflg. res. 27 mai 2016 nr. 531)."
+     ],
+     "opphevet": "2017-01-01"
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-7",
+     "nummer": "§ 4-7",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Endret ved lov 14 des 2007 nr. 104 (ikr. 1 jan 2008), opphevet ved lov 27 mai 2016 nr. 14 (ikr. 1 jan 2017 iflg. res. 27 mai 2016 nr. 531)."
+     ],
+     "opphevet": "2017-01-01"
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-8",
+     "nummer": "§ 4-8",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Endret ved lov 17 des 1999 nr. 91 (ikr. 1 jan 2000), opphevet ved lov 27 mai 2016 nr. 14 (ikr. 1 jan 2017 iflg. res. 27 mai 2016 nr. 531)."
+     ],
+     "opphevet": "2017-01-01"
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-9",
+     "nummer": "§ 4-9",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Endret ved lover 17 juli 1998 nr. 56 (ikr. 1 jan 1999), 10 des 2010 nr. 64 (f o m inntektsåret 2011), 19 des 2014 nr. 78 (ikr. 1 jan 2015), opphevet ved lov 27 mai 2016 nr. 14 (ikr. 1 jan 2017 iflg. res. 27 mai 2016 nr. 531)."
+     ],
+     "opphevet": "2017-01-01"
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Betaling og innkreving av skatt",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 5-1",
+     "tittel": "Skattebetalingslovens og innkrevingslovens anvendelse på Svalbard",
+     "ledd": [
+      "Skattebetalingsloven og innkrevingsloven gjelder ved betaling og innkreving av skatt og trygdeavgift til Svalbard."
+     ],
+     "endringer": [
+      "Endret ved lover 19 juni 1997 nr. 76 (f o m inntektsåret 1998), 15 des 2000 nr. 93 (ikr. 1 jan 2001), 14 des 2007 nr. 104 (ikr. 1 jan 2008), 17 juni 2005 nr. 67 (ikr. 1 jan 2009 iflg. res. 21 des 2007 nr. 1616) som endret ved lov 12 des 2008 nr. 100, 27 mai 2016 nr. 14 (ikr. 1 jan 2017 iflg. res. 27 mai 2016 nr. 531), 25 april 2025 nr. 12 (i kraft 1 jan 2026 iflg. res. 10 juni 2025 nr. 967)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 5-2",
+     "tittel": "Skatt fastsatt ved lønnstrekk",
+     "ledd": [
+      "Ved utbetaling av lønn og annen godtgjørelse for arbeid skal arbeidsgiver gjøre fradrag i ytelsens verdi for skatt etter § 3-1. Arbeidsgiver trekker skatt med høy sats når samlet utbetaling fra arbeidsgiveren til den ansatte i inntektsåret overstiger 12 ganger folketrygdens grunnbeløp.",
+      "Ansatte som sannsynliggjør samlet inntekt over 12 ganger folketrygdens grunnbeløp fra flere arbeidsgivere i inntektsåret, kan kreve at det fastsettes forskuddsskatt etter bestemmelsene i skattebetalingsloven på dette grunnlag.",
+      "Når den ansatte mottar naturalytelser gjøres fradrag for skatt så langt kontante ytelser rekker. Resterende skattebeløp skal innbetales fra den ansatte til arbeidsgiveren på ytelsestidspunktet.",
+      "Skattebetalingsloven kapittel 5 om forskuddstrekk får ikke anvendelse for lønnstrekk.",
+      "Arbeidsgiveren skal levere melding om foretatt lønnstrekk og dato for utbetaling av ytelser det skal foretas trekk i, etter reglene i skatteforvaltningsloven § 8-8 første ledd. Opplysninger om foretatt lønnstrekk skal også leveres når arbeidsgiver opphører med virksomhet på Svalbard eller aktiviteten der på annen måte opphører. Forhåndsutfylte opplysninger om arbeidsgiveren etter denne bestemmelsen kan gjøres tilgjengelig for arbeidsgiveren ved elektronisk kommunikasjon. Departementet kan i forskrift gi regler som fraviker regelen i første punktum.",
+      "Er lønnstrekket for lavt, skal arbeidsgiver innbetale differansen. Arbeidsgiver som dekker en ansatts skatt etter foregående punktum, kan motregne regresskravet i lønn og annen godtgjørelse til den ansatte. Den ansatte kan holdes ansvarlig for beløpet når kravet i forhold til arbeidsgiver må anses som uerholdelig. Er lønnstrekket for høyt, skal differansen tilbakebetales den ansatte.",
+      "Når samlet lønn og annen ytelse som omfattes av § 3-2 overstiger 12 ganger folketrygdens grunnbeløp, skjer avregning og innkreving mv. etter bestemmelsene i skattebetalingsloven og innkrevingsloven, med de unntak og presiseringer som følger av § 5-1.",
+      "Bestemmelsene i denne paragraf gjelder tilsvarende ved utbetaling av andre ytelser som nevnt i § 3-2.",
+      "Departementet kan fastsette nærmere regler om gjennomføring av lønnstrekkordningen, herunder om lønnstrekk i naturalytelser og utgiftsgodtgjørelser."
+     ],
+     "endringer": [
+      "Endret ved lover 14 des 2007 nr. 104 (f o m inntektsåret 2008), 17 juni 2005 nr. 67 (ikr. 1 jan 2009 iflg. res. 21 des 2007 nr. 1616) som endret ved lov 12 des 2008 nr. 100, 10 des 2010 nr. 64 (ikr. 10 des 2010 for femte ledd fjerde punktum, f o m inntektsåret 2011 for femte ledd tredje punktum), 19 des 2014 nr. 78 (ikr. 1 jan 2015), 27 mai 2016 nr. 14 (ikr. 1 jan 2017 iflg. res. 27 mai 2016 nr. 531), 25 juni 2024 nr. 63, 25 april 2025 nr. 12 (i kraft 1 jan 2026 iflg. res. 10 juni 2025 nr. 967), 20 juni 2025 nr. 48 (i kraft 1 jan 2026 iflg. res. 20. juni 2025 nr. 1086)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 5-3",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Endret ved lov 17 juni 2005 nr. 67 (ikr. 1 jan 2009 iflg. res. 21 des 2007 nr. 1616), tidligere § 5-4, opphevet ved lov 27 mai 2016 nr. 14 (ikr. 1 jan 2017 iflg. res. 27 mai 2016 nr. 531)."
+     ],
+     "opphevet": "2017-01-01"
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Ikrafttredelse og overgangsbestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 6-1",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Denne lov trer i kraft med virkning fra 1. januar 1998. Samtidig oppheves lov av 15. juli 1925 om skatt til Svalbard på formue og inntekt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 6-2",
+     "tittel": "Overgangsbestemmelser",
+     "ledd": [
+      "Departementet kan i forskrift fastsette overgangsregler til denne lov."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-3",
+     "nummer": "§ 6-3",
+     "tittel": "Avvikling av forenklet fellesoppgjør",
+     "ledd": [
+      "Denne paragraf gjelder for ansatte i virksomhet som har fulgt særskilt praksis med forenklet felles skatteoppgjør. Bestemmelsen gjelder ikke for forenklet oppgjør etter § 4-2 bokstav a.",
+      "§ 3-3 gjelder tilsvarende.",
+      "Ordningen med forenklet felles skatteoppgjør avvikles fra den tid Kongen bestemmer. Etter avvikling skattlegges denne gruppen etter ordinære regler og skattesatser. Overgang til ordinær beskatning skal tidligst skje for inntektsåret 2015.",
+      "Ved forenklet felles skatteoppgjør i overgangsperioden benyttes skattesatser fastsatt av Stortinget."
+     ],
+     "endringer": [
+      "Tilføyd ved lov 15 des 2006 nr. 79 (med virkning for inntektsårene 2006 og 2007), endret ved lover 10 des 2010 nr. 64 (f o m inntektsåret 2011), 27 mai 2016 nr. 14 (ikr. 1 jan 2017 iflg. res. 27 mai 2016 nr. 531), 22 des 2025 nr. 118 (i kraft 1 jan 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-4",
+     "nummer": "§ 6-4",
+     "tittel": "Avvikling av særskilt praksis for pendlere",
+     "ledd": [
+      "Denne paragraf gjelder for ansatte som ikke er bosatt på Svalbard, og som er ansatt i stillinger som har gått inn under særskilt praksis for skatt til Svalbard for pendlere. Gjeldende praksis videreføres ut inntektsåret 2014, og avsluttes deretter. Følgende vilkår må være oppfylt for den enkelte ansatte:\na. det første arbeidsoppholdet på Svalbard varer sammenhengende i 30 dager, og\nb. påfølgende arbeidsopphold er ledd i en turnusordning med regelmessige arbeidsopphold på Svalbard, og\nc. vedkommende har ikke inntekt fra selvstendige arbeidsforhold utenfor Svalbard."
+     ],
+     "endringer": [
+      "Tilføyd ved lov 10 des 2010 nr. 64 (f o m inntektsåret 2011)."
+     ]
+    }
+   ]
+  }
+ ]
+}

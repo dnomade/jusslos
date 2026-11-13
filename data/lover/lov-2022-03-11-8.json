@@ -1,0 +1,827 @@
+{
+ "skjema": "1.0",
+ "type": "lov",
+ "datokode": "LOV-2022-03-11-8",
+ "dokumentid": "NL/lov/2022-03-11-8",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "ikraft": "2023-01-01",
+ "siste_endring_ikraft": "2026-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "lov/2025-04-25-12",
+   "tekst": "lov/2025-04-25-12 fra 2026-01-01"
+  }
+ ],
+ "rettsomrade": [
+  "Skatte- og avgiftsrett > Toll"
+ ],
+ "kunngjort": "2022-03-11 14:25",
+ "korttittel": "Tollavgiftsloven – tavl",
+ "tittel": "Lov om tollavgift (tollavgiftsloven)",
+ "annet": "Prop.237 L (2020–2021), Innst.173 L (2021–2022), Lovvedtak 44 (2021–2022). Stortingets første og andre gangs behandling hhv. 3. og 8. mars 2022. Fremmet av Finansdepartementet.",
+ "refid": "lov/2022-03-11-8",
+ "eli": "/eli/lov/2022/03/11/08",
+ "url": "https://lovdata.no/dokument/NL/lov/2022-03-11-8",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1 Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1-1",
+     "tittel": "Lovens virkeområde",
+     "ledd": [
+      "(1) Loven gjelder plikt til å beregne tollavgift for varer som innføres til tollområdet, og fastsetting av tollavgift.",
+      "(2) Loven gjelder i tollområdet. Tollområdet er det norske fastland og territorialfarvann, men ikke Svalbard, Jan Mayen og Norges biland."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 1-2",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "I denne loven menes med\na. deklarasjonspliktig: den som leverer en deklarasjon i eget navn, eller den som deklarasjonen leveres på vegne av\nb. deklarasjon: en melding om at en vare skal underlegges en bestemt tollprosedyre\nc. innførsel: at en vare føres inn i tollområdet\nd. utførsel: at en vare føres ut av tollområdet\ne. vare: alt som er omfattet av forskrift om klassifisering av varer."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 1-3",
+     "tittel": "Samarbeid med annen stat",
+     "ledd": [
+      "Vareførselsloven kapittel 9 om samarbeid med annen stat gjelder tilsvarende for samarbeid om håndhevelse av bestemmelser om fastsetting og kontroll av tollavgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 1-4",
+     "tittel": "Forholdet til forvaltningsloven",
+     "ledd": [
+      "Forvaltningsloven gjelder for tollmyndighetenes virksomhet, hvis ikke annet er bestemt i denne loven."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2 Plikt til å beregne tollavgift",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 2-1",
+     "tittel": "Når tollavgift skal beregnes",
+     "ledd": [
+      "(1) Tollavgift skal beregnes når en vare går over til fri disponering etter vareførselsloven § 4-1. Dersom en vare ved overgang til fri disponering er helt eller delvis fritatt for tollavgift på vilkår om at varen skal brukes på en bestemt måte, skal tollavgift beregnes dersom vilkåret om bruk ikke oppfylles.",
+      "(2) For vare som er innført under en prosedyre etter vareførselsloven §§ 4-2 til 4-8, skal tollavgift beregnes dersom vilkårene for bruk av prosedyren ikke oppfylles.",
+      "(3) Tollavgift skal beregnes ved brudd på plikter etter vareførselsloven kapittel 2 som fører til at en vare ikke blir tollbehandlet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 2-2",
+     "tittel": "Tidfesting",
+     "ledd": [
+      "(1) Tollavgift etter § 2-1 første ledd første punktum skal beregnes etter de reglene og satsene som gjelder på det tidspunktet tollmyndighetene aksepterer deklarasjonen etter vareførselsloven § 3-4. For tollavgift som skal beregnes etter § 2-1 første ledd annet punktum, skal tidspunktet for brudd på vilkåret om bruk legges til grunn.",
+      "(2) Tollavgift etter § 2-1 annet ledd skal ved brudd på vilkår for prosedyrer etter vareførselsloven §§ 4-2 til 4-5, beregnes etter de reglene og satsene som gjaldt da brudd på vilkårene tok til. For brudd på vilkår for prosedyrer etter vareførselsloven §§ 4-6 til 4-8, skal tollavgift beregnes etter de reglene og satsene som gjaldt da tollmyndighetene aksepterte deklarasjonen. Tollavgiften skal likevel ikke være lavere enn den hadde vært om varen hadde blitt disponert over på lovlig måte.",
+      "(3) Tollavgift etter § 2-1 tredje ledd skal beregnes etter de reglene og satsene som gjaldt på innførselstidspunktet.",
+      "(4) Dersom en vare er underlagt prosedyren midlertidig innførsel etter vareførselsloven § 4-6, og varen senere deklareres for prosedyren overgang til fri disponering, skal tollavgift beregnes etter de reglene og satsene som gjaldt da deklarasjonen for midlertidig innførsel ble akseptert. Første punktum gjelder tilsvarende ved overgang til fri disponering for en vare eller en del av en vare som er underlagt prosedyren innenlands bearbeiding av industrivarer etter vareførselsloven § 4-7, og for restprodukter som fremkommer mens en vare er underlagt prosedyren innenlands bearbeiding av landbruksvarer etter vareførselsloven § 4-8."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 2-3",
+     "tittel": "Hvem som er tollavgiftspliktig",
+     "ledd": [
+      "(1) Den som leverer melding for tollavgift etter § 9-2, er tollavgiftspliktig.",
+      "(2) Den som er ansvarlig for å oppfylle vilkårene for å innføre en vare under en prosedyre etter vareførselsloven §§ 4-2 til 4-8, er tollavgiftspliktig ved brudd på vilkårene for prosedyren.",
+      "(3) For tollavgift etter § 2-1 tredje ledd er den som er ansvarlig for å oppfylle pliktene, tollavgiftspliktig."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 2-4",
+     "tittel": "Medansvar for tollavgift",
+     "ledd": [
+      "(1) Tollrepresentant som ved levering av melding for tollavgift etter § 9-2 har medvirket til å gi opplysninger som fører til at tollavgift ikke blir riktig fastsatt, er medansvarlig for tollavgift dersom vedkommende visste eller burde ha visst at opplysningene var uriktige eller ufullstendige.",
+      "(2) Den som har medvirket til manglende overholdelse av vilkår som nevnt i § 2-1 annet ledd, og plikter som nevnt i § 2-1 tredje ledd, er medansvarlig for tollavgift dersom vedkommende visste eller burde ha visst at vilkår eller plikter ikke er oppfylt. Det samme gjelder den som har ervervet eller oppbevart varen. For den som har ervervet eller oppbevart varen, vurderes kunnskapen på tidspunktet for mottak av varen.",
+      "(3) Den som har benyttet tollrepresentant som i eget navn har levert melding for tollavgift, jf. § 8-9 første ledd tredje punktum, er medansvarlig for tollavgift.",
+      "(4) Departementet kan gi forskrift om at rederiet er medansvarlig for tollavgift ved innførsel av proviant i strid med vilkår for fritak."
+     ],
+     "endringer": [
+      "Endret ved lov 20 des 2022 nr. 110."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 2-5",
+     "tittel": "Solidaransvar for tollavgift",
+     "ledd": [
+      "Dersom flere plikter å beregne tollavgift for den samme varen, er de solidarisk ansvarlige for tollavgiften."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-6",
+     "nummer": "§ 2-6",
+     "tittel": "Tollavgiftspliktig ved erverv av vare med nedsatt tollavgift på vilkår om sluttbruk",
+     "ledd": [
+      "Den som erverver en vare som er innført med nedsatt tollavgift etter § 5-3 på vilkår om at varen brukes på en bestemt måte, blir tollavgiftspliktig ved brudd på vilkåret."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-7",
+     "nummer": "§ 2-7",
+     "tittel": "Tollavgift for vare som sendes i henhold til internasjonal avtale om forenklinger ved grensekryssende vareførsel",
+     "ledd": [
+      "(1) For vare som i henhold til internasjonal avtale om forenklinger ved grensekryssende vareførsel som Norge har tiltrådt, tillates innført uten å anvende prosedyren overgang til fri disponering, plikter garantisten å svare tollavgift dersom det disponeres over varen i strid med tillatelsen.",
+      "(2) Garantistens ansvar etter første ledd gjelder uten hensyn til de øvrige bestemmelsene om tollavgiftsplikt i dette kapitlet.",
+      "(3) Departementet kan gi forskrift om hvilke avtaler som omfattes av denne paragrafen."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3 Satser og beregningsgrunnlag for tollavgift",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 3-1",
+     "tittel": "Satser for tollavgift – tolltariffen",
+     "ledd": [
+      "(1) Følgende satser fastsettes i Stortingets vedtak om tollavgift:\na. ordinær tollavgiftssats for varer\nb. preferansetollavgiftsats for varer med opprinnelse i land Norge har frihandelsavtale med\nc. preferansetollavgiftsats for varer med opprinnelse i utviklingsland som Norge ensidig gir tollbegunstigelse (GSP).",
+      "(2) Kongen kan fastsette særskilt sats for tollavgift etter vareførselsloven kapittel 13 om handelstiltak.",
+      "(3) Departementet kan gi forskrift om kunngjøring av satsene i forskrift om klassifisering av varer (tolltariffen), fastsatt i medhold av vareførselsloven § 6-1. Departementet kan gi forskrift om vilkår for å benytte preferansetollavgiftssatsene etter første ledd bokstav b og c, herunder om sikkerhetsmekanisme for tilfeller der preferansesystemet utløser vesentlige markedsforstyrrelser etter første ledd bokstav c."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 3-2",
+     "tittel": "Nedsettelse av tollavgiftssatser i budsjettåret",
+     "ledd": [
+      "For å legge til rette for innførsel av landbruksvarer som supplement til norsk produksjon, og for å møte forbrukernes og næringsmiddelindustriens behov, kan departementet sette ned de ordinære tollavgiftssatsene såfremt avtale med fremmed stat eller internasjonal organisasjon ikke er til hinder for det. Nedsettelse av tollavgiftsatser skal ivareta hensynet til avsetningsgrunnlaget for norsk produksjon av landbruksvarer og hindre uønskede markedsforstyrrelser. Nedsettelse skjer etter kapittel 5."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 3-3",
+     "tittel": "Beregningsgrunnlag for tollavgift",
+     "ledd": [
+      "(1) Når tollavgift skal beregnes på grunnlag av vekt, skal varens faktiske nettovekt benyttes, med mindre det følger av tolltariffen at varens innpakning skal inngå i grunnlaget.",
+      "(2) Når tollavgift skal beregnes på grunnlag av volum, skal varens faktiske volum benyttes.",
+      "(3) Når tollavgift skal beregnes på grunnlag av antall, skal det faktiske antall enheter benyttes.",
+      "(4) Når tollavgift skal beregnes på grunnlag av verdi, skal verdien fastsettes etter vareførselsloven §§ 6-2 flg. om tollverdi.",
+      "(5) Departementet kan gi forskrift om beregningsgrunnlaget for tollavgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 3-4",
+     "tittel": "Beregningsgrunnlag for vare som gjeninnføres etter bearbeiding eller reparasjon mv. (utenlands bearbeiding)",
+     "ledd": [
+      "(1) Dersom en vare som tidligere er gått over til fri disponering eller har norsk opprinnelse, blir gjeninnført etter at den er bearbeidet, reparert eller brukt til fremstilling av annen vare utenfor landet, skal beregningsgrunnlaget fastsettes slik:\na. Dersom tollavgift skal beregnes på grunnlag av verdi, svares tollavgift av kostnaden ved at varen ble reparert eller bearbeidet, tillagt transportkostnaden.\nb. Dersom tollavgift skal beregnes på grunnlag av vekt, volum eller stykk, beregnes tollavgift med åtte prosent av beregningsgrunnlaget som nevnt i bokstav a.\nc. Dersom reparasjon eller bearbeiding er utført uten vederlag, settes beregningsgrunnlaget til null.",
+      "(2) Vilkår for beregning etter første ledd er at\na. varen gjeninnføres innen ett år etter utførselen\nb. gjeninnførselen foretas av den samme fysiske eller juridiske person som utførte varen\nc. det ikke er refundert tollavgift ved utførselen og\nd. eventuelt krav om refusjon av tollavgift frafalles.",
+      "(3) For landbruksvarer som gjeninnføres etter bearbeiding i utlandet, beregnes tollavgift i samsvar med bestemmelser fastsatt av departementet i forskrift.",
+      "(4) Departementet kan gi forskrift om beregningsgrunnlaget for vare som gjeninnføres etter bestemmelsene her, herunder om adgangen til å dispensere fra vilkårene, og om at slike varer på visse vilkår kan innføres uten tollavgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 3-5",
+     "tittel": "Nedsettelse av beregningsgrunnlaget når varen er skadet eller bedervet",
+     "ledd": [
+      "Dersom varen er forringet som følge av skade eller bedervelse før varen er frigjort for prosedyren overgang til fri disponering, settes beregningsgrunnlaget ned forholdsmessig etter verdiforringelsen som skaden eller bedervelsen har medført."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4 Opprinnelse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 4-1",
+     "tittel": "Preferensiell opprinnelse",
+     "ledd": [
+      "(1) En vares opprinnelse fastsettes i samsvar med den frihandelsavtalen som påberopes, eller i samsvar med det generelle preferansesystemet for utviklingsland (GSP).",
+      "(2) Varens opprinnelse skal dokumenteres med opprinnelsesbevis i samsvar med den aktuelle frihandelsavtalen, eller i samsvar med det generelle preferansesystemet for utviklingsland (GSP).",
+      "(3) Departementet kan gi forskrift om krav til og vilkår for preferensiell opprinnelse."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 4-2",
+     "tittel": "Ikke-preferensiell opprinnelse",
+     "ledd": [
+      "(1) Med ikke-preferensiell opprinnelse menes fastsetting av opprinnelsesland på annet grunnlag enn frihandelsavtale eller ensidig preferanseordning.",
+      "(2) Regler om ikke-preferensiell opprinnelse får anvendelse ved bestevilkårsbehandling etter Generalavtalen om tolltariffer og handel artikkel I og ved iverksettelse av handelstiltak etter vareførselsloven kapittel 13.",
+      "(3) Departementet kan gi forskrift om krav til og vilkår for ikke-preferensiell opprinnelse."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5 Nedsettelse av tollavgiftssats for landbruksvarer",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 5-1",
+     "tittel": "Nedsettelse av tollavgiftssats for landbruksvarer",
+     "ledd": [
+      "(1) Departementet kan sette ned tollavgiftssatsene for landbruksvarer etter § 3-1 første ledd bokstav b og c og § 3-2 ved generell nedsettelse etter § 5-2, individuell nedsettelse etter § 5-3 eller fastsetting av tollkvoter der kvoteandeler tildeles ved auksjon eller på annen måte etter § 5-4.",
+      "(2) Departementet skal på egnet måte kunngjøre forvaltningsvedtak i budsjettåret om generelle endringer i de tollavgiftssatsene som Stortinget har fastsatt. Tilsvarende gjelder ved tildeling av tollkvoteandeler ved auksjon etter § 5-4. Kunngjøring i Norsk Lovtidend etter forvaltningsloven § 38 kan unnlates for slike kunngjøringer."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 5-2",
+     "tittel": "Generell nedsettelse av tollavgiftssatser for landbruksvarer",
+     "ledd": [
+      "(1) Departementet kan treffe vedtak om generell nedsettelse av tollavgiftssatsen for en bestemt landbruksvare, uten kvantitative begrensninger og for en nærmere angitt periode begrenset til utgangen av vedkommende budsjettår. Departementet kan treffe vedtak med virkning utover budsjettåret med forbehold om at tolltariffen ikke endres.",
+      "(2) Departementet kan på forhånd kunngjøre vedtak om endring av tollavgiftssats etter denne paragrafen. Kunngjøringen skal angi tidspunktet for iverksettelsen av vedtaket.",
+      "(3) Departementet kan gi forskrift om generell nedsettelse av tollavgiftssats, herunder om saksbehandling, opplysningsplikt, kontroll, administrative sanksjoner, gyldighetsperiode og kunngjøring av vedtak."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 5-3",
+     "tittel": "Individuell nedsettelse av tollavgiftssatser for landbruksvarer og bearbeidede landbruksvarer etter søknad",
+     "ledd": [
+      "(1) Departementet kan treffe enkeltvedtak om å sette ned tollavgiftssatsen på en angitt mengde av en bestemt landbruksvare eller bearbeidet landbruksvare, innenfor et angitt tidsrom. Vedtaket skal være rettet mot én eller flere bestemte fysiske eller juridiske personer som har søkt om dette.",
+      "(2) Departementet kan treffe enkeltvedtak uten mengdebegrensning når det anses hensiktsmessig. Departementet kan også treffe enkeltvedtak med virkning utover budsjettåret med forbehold om at tolltariffen ikke endres.",
+      "(3) Departementet kan gi forskrift om nedsettelse av tollavgiftssats, herunder om saksbehandling, opplysningsplikt, kontroll, administrative sanksjoner og gyldighetsperiode. Departementet kan også gi forskrift om leveringsmåten for søknader."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-4",
+     "nummer": "§ 5-4",
+     "tittel": "Tildeling av tollkvoteandeler for landbruksvarer ved auksjon eller på annen måte",
+     "ledd": [
+      "(1) Departementet kan på grunnlag av avtale med fremmed stat eller organisasjon eller av eget tiltak fastsette tollkvoter. Med tollkvote menes en fastsatt mengde av en vare som tillates innført med nedsatt tollavgiftssats, innenfor et angitt tidsrom. Med tollkvoteandel menes en rettighet til å innføre en viss mengde av en vare innenfor en tollkvote.",
+      "(2) Tollkvoteandeler skal tildeles ved auksjon dersom departementet anser at markedsforholdene ligger til rette for det, og avtale med fremmed stat eller organisasjon ikke er til hinder for det.",
+      "(3) Auksjon over tollkvoteandeler skal utlyses i god tid før auksjonen holdes. I utlysningen skal det opplyses om fristen for å melde seg på auksjonen, tidspunktet for auksjonsåpning og auksjonsavslutning og om hvordan tollkvoteandelene skal fordeles blant dem som får tilslag. Det skal ikke opplyses om hvem som deltar i budrundene. Umiddelbart etter auksjonsavslutning skal det opplyses om antall budgivere, høyeste bud og hvem som fikk tilslag.",
+      "(4) Tollkvoteandel kjøpt på auksjon kan overdras.",
+      "(5) Departementet kan gi forskrift om tildeling av tollkvoteandeler, herunder om saksbehandling, opplysningsplikt, kontroll, administrative sanksjoner, gyldighetsperiode og forhåndsgodkjenning av budgivere og om overdragelse av kvoteandel. Departementet kan også gi forskrift om tildeling av tollkvoter på annen måte enn ved auksjon."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6 Fritak for tollavgift",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 6-1",
+     "tittel": "Tollavgiftsfritak som følge av unntak fra plikten til å levere deklarasjon etter vareførselsloven § 4-1",
+     "ledd": [
+      "Det skal ikke beregnes tollavgift ved innførsel av varer som omfattes av unntak fra plikten til å levere deklarasjon for prosedyren overgang til fri disponering etter vareførselsloven § 4-1 tredje ledd."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 6-2",
+     "tittel": "Tollavgiftsfritak for varer som det er fritak fra å beregne merverdiavgift av",
+     "ledd": [
+      "Departementet kan i forskrift bestemme at det ikke skal beregnes tollavgift ved innførsel av varer omfattet av fritak for beregning av merverdiavgift etter merverdiavgiftsloven §§ 7-3 til 7-5."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-3",
+     "nummer": "§ 6-3",
+     "tittel": "Tollavgiftsfritak for kjøtt fra egen jakt",
+     "ledd": [
+      "(1) Det skal ikke beregnes tollavgift for kjøtt fra egen jakt til bruk i egen husholdning.",
+      "(2) Departementet kan gi forskrift om vilkår for og omfanget av fritaket."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-4",
+     "nummer": "§ 6-4",
+     "tittel": "Andre tollavgiftsfritak",
+     "ledd": [
+      "(1) Det skal ikke beregnes tollavgift ved innførsel av\na. vare som er fremstilt her i landet eller tidligere er innført under prosedyren overgang til fri disponering etter vareførselsloven § 4-1 og som gjeninnføres i uforandret stand, dersom tollavgift ikke er refundert ved utførselen\nb. landbruksvarer til teknisk bruk\nc. vare til undervisning og vitenskapelig bruk ved universiteter, høyskoler og Meteorologisk institutt og dets stasjoner\nd. vare av utdannende, vitenskapelig og kulturell art\ne. bakkeutstyr, undervisningsmateriell, flysimulatorer og deler til disse\nf. luftfartøyer og utstyr og deler til disse.",
+      "(2) Varer som er omfattet av fritak etter første ledd bokstav b til d kan bare benyttes av berettiget bruker og kan ikke overdras til andre.",
+      "(3) Departementet kan gi forskrift om vilkår for og omfanget av fritak."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kap7",
+   "overskrift": "Kapittel 7 Refusjon av tollavgift ved gjenutførsel",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 7-1",
+     "tittel": "Refusjon av tollavgift ved gjenutførsel av vare benyttet ved reparasjon eller bearbeiding",
+     "ledd": [
+      "(1) Tollavgift kan refunderes for vare som næringsdrivende tidligere har innført under prosedyren overgang til fri disponering, dersom varen benyttes som råvare, hjelpestoff eller halvfabrikata i næringsvirksomhet i forbindelse med virksomhetens fremstilling, reparasjon eller bearbeiding av ferdigvare, og ferdigvaren\na. utføres under prosedyren utførsel etter vareførselsloven § 5-9\nb. deklareres for prosedyren tollager etter vareførselsloven § 4-4, når varen er bestemt for slik utførsel som nevnt i denne paragrafen eller\nc. utføres til bruk utenfor tollområdet som angitt i § 7-2 første ledd bokstav b og c.",
+      "(2) Refusjonen skal svare til den tollavgiften som er betalt for de anvendte varene som nevnt i første ledd. Tollavgift kan også refunderes for svinn dersom svinnet ikke kan utnyttes for andre formål. Tollavgift kan refunderes også der det er benyttet andre varer enn de som er dokumentert innført, dersom varene er av samme slag som de innførte.",
+      "(3) Departementet kan gi forskrift om refusjon av tollavgift ved gjenutførsel av vare, herunder om nærmere vilkår for refusjon."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-2",
+     "nummer": "§ 7-2",
+     "tittel": "Refusjon av tollavgift ved gjenutførsel av vare i uendret tilstand mv.",
+     "ledd": [
+      "(1) Tollavgift kan refunderes for vare som er innført under prosedyren overgang til fri disponering, dersom varen i uendret og ubrukt tilstand gjenutføres etter tollprosedyren utførsel\na. i forbindelse med salg til kjøper utenfor tollområdet\nb. til bruk eller salg om bord i fartøy eller luftfartøy dersom slike varer og mengder kunne vært levert uten plikt til å svare tollavgift eller\nc. til bruk i forbindelse med utforskning og utnyttelse av undersjøiske naturforekomster i havområder utenfor tollområdet dersom slike varer og mengder kunne vært levert uten plikt til å svare tollavgift.",
+      "(2) Tollavgift kan også refunderes når varen deklareres for prosedyren tollager etter vareførselsloven § 4-4, og varen er bestemt for utførsel som nevnt i denne paragrafen.",
+      "(3) Departementet kan gi forskrift om refusjon av tollavgift ved gjenutførsel, herunder om nærmere vilkår for refusjon."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-3",
+     "nummer": "§ 7-3",
+     "tittel": "Delvis refusjon av tollavgift",
+     "ledd": [
+      "(1) Tollavgift kan delvis refunderes ved gjenutførsel av rullende jernbanemateriell og reservedeler til slikt materiell som har vært innført til midlertidig bruk, og som ikke kan deklareres for prosedyren midlertidig innførsel etter vareførselsloven § 4-6. Tollavgift skal refunderes med fradrag av to prosent for hver måned eller del av måned regnet fra tidspunktet da varen ble innført.",
+      "(2) Tollavgift kan delvis refunderes ved gjenutførsel av vare som har vært innført midlertidig til leie eller lån, eller som utenlandske foretak, institusjoner eller personer har innført og benyttet i forbindelse med et oppdrag i tollområdet, og varen ikke kunne deklareres forprosedyren midlertidig innførsel etter vareførselsloven § 4-6. Tollavgift skal refunderes med fradrag av fem prosent for hver måned eller del av måned regnet fra tidspunktet da varen ble innført.",
+      "(3) Departementet kan gi forskrift om delvis refusjon av tollavgift, herunder om nærmere vilkår for refusjon."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-4",
+     "nummer": "§ 7-4",
+     "tittel": "Refusjon ved feil eller særlige grunner",
+     "ledd": [
+      "(1) Tollavgift kan refunderes for vare som gjenutføres fordi den er feilsendt, feilbestilt, levert for sent eller ikke er i samsvar med bestillingen. Tollavgift kan også refunderes dersom det foreligger særlige grunner.",
+      "(2) Departementet kan gi forskrift om refusjon, herunder om nærmere vilkår for refusjon."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-5",
+     "nummer": "§ 7-5",
+     "tittel": "Generelle bestemmelser om refusjon av tollavgift",
+     "ledd": [
+      "(1) Refusjon av tollavgift er betinget av at den innførte varen utføres under prosedyren utførsel etter vareførselsloven § 5-9 eller deklareres for prosedyren tollager etter vareførselsloven § 4-4 innen to år etter innførselen. Tollmyndighetene kan i særlige tilfeller forlenge fristene.",
+      "(2) Tollmyndighetene kan tillate at varen blir destruert under kontroll av eller etter avtale med tollmyndighetene i stedet for at den blir gjenutført. Den som ber om destruksjon, må bære kostnadene ved destruksjonen.",
+      "(3) Departementet kan gi forskrift om adgangen til refusjon, herunder om adgangen til å forlenge fristen, fastsette minstebeløp for refusjon og frafalle vilkåret om at varen må utføres etter vareførselsloven kapittel 5 eller deklareres for prosedyren tollager etter vareførselsloven § 4-4."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-8",
+   "navn": "kap8",
+   "overskrift": "Kapittel 8 Særlige forvaltningsregler",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-1",
+     "nummer": "§ 8-1",
+     "tittel": "Taushetsplikt",
+     "ledd": [
+      "(1) Enhver som har eller har hatt verv, stilling eller oppdrag knyttet til tollmyndighetene, skal hindre at uvedkommende får adgang eller kjennskap til det vedkommende i sitt arbeid har fått vite om noens formues- eller inntektsforhold eller andre økonomiske, bedriftsmessige eller personlige forhold. Taushetsplikten er ikke til hinder for at opplysningene i en sak gjøres kjent for sakens parter eller deres representanter. Den som tiltrer verv, stilling eller oppdrag skal gi skriftlig erklæring om at denne kjenner og vil overholde taushetsplikten.",
+      "(2) Taushetsplikten omfatter ikke registreringspliktig statsstøtte etter lov 4. mars 2022 nr. 7 om nasjonale saksbehandlingsregler i saker om offentlig støtte (støtteprosessloven) § 7 første ledd.",
+      "(3) Informasjonsutveksling med fremmed stat eller til organisasjon på mandat fra De forente nasjoner (FN) som Norge har akseptert som offentlig myndighet, er ikke omfattet av denne bestemmelsen.",
+      "(4) Departementet kan uten hinder av taushetsplikten etter første ledd godkjenne at opplysninger gis til forskningsformål i samsvar med forvaltningsloven § 13 d.",
+      "(5) Forvaltningsloven §§ 13, 13 b, 13 c og 13 e gjelder ikke som utfyllende bestemmelser for taushetsplikten etter denne paragrafen."
+     ],
+     "endringer": [
+      "Endret ved lov 16 juni 2023 nr. 53."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-2",
+     "nummer": "§ 8-2",
+     "tittel": "Utlevering av opplysninger til offentlige myndigheter",
+     "ledd": [
+      "(1) Taushetsplikten etter § 8-1 første ledd første punktum er ikke til hinder for at opplysninger utleveres til andre offentlige myndigheter dersom dette er nødvendig for å utføre mottakerorganets oppgaver etter lov, eller for å hindre at virksomhet blir utøvd på en uforsvarlig måte.",
+      "(2) Utleveringen må ikke være uforholdsmessig ut fra de ulempene den medfører i form av inngrep i personvernet og fare for at opplysninger av konkurransemessig betydning kommer på avveie.",
+      "(3) Departementet kan gi forskrift om utlevering av opplysninger til andre offentlige myndigheter i deres interesse, blant annet om hvem det skal utleveres opplysninger til, hvilke opplysninger som kan utleveres, hvilke kriterier som skal vektlegges ved vurderingen av om utleveringen er forholdsmessig og om at opplysninger i enkelte tilfeller alltid skal kunne utleveres."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-3",
+     "nummer": "§ 8-3",
+     "tittel": "Overført taushetsplikt",
+     "ledd": [
+      "Hvis opplysninger gis i tilfeller som nevnt i § 8-1 første ledd annet punktum eller fjerde ledd eller § 8-2, til noen som ikke selv har taushetsplikt etter annen lov, gjelder taushetsplikten etter § 8-1 tilsvarende for den som får opplysningene. Den som gir opplysningene, skal samtidig gjøre oppmerksom på dette. Opplysningene kan likevel brukes til det formålet som begrunnet at de ble gitt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-4",
+     "nummer": "§ 8-4",
+     "tittel": "Ubekreftede personopplysninger i tips mv.",
+     "ledd": [
+      "Tollmyndighetene må innen fire måneder avklare om personopplysninger som kommer inn ved tips mv., er korrekte og relevante. Kildene for personopplysningene kan være anonyme."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-5",
+     "nummer": "§ 8-5",
+     "tittel": "Sammenstilling av personopplysninger og automatiserte avgjørelser",
+     "ledd": [
+      "(1) Når det er nødvendig for kontroll med tollavgift, kan tollmyndighetene sammenstille innhentede personopplysninger, også helseopplysninger som nevnt i personvernforordningen artikkel 9 nr. 1 og personopplysninger som nevnt i personvernforordningen artikkel 10. Adgangen til sammenstilling omfatter profilering som nevnt i personvernforordningen artikkel 4 nr. 4. Graden av personidentifikasjon skal ikke være større enn det som er nødvendig for formålet.",
+      "(2) Tollmyndighetene kan treffe avgjørelser hvor personopplysninger inngår, som utelukkende er basert på automatisert behandling, dersom partens krav om forsvarlig saksbehandling ivaretas. Den registrerte har rett til manuell overprøving av avgjørelsen.",
+      "(3) Departementet kan gi forskrift om vilkårene for profilering etter personvernforordningen artikkel 4 nr. 4 og om bruk av automatiserte avgjørelser."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-6",
+     "nummer": "§ 8-6",
+     "tittel": "Bruk av personopplysninger ved utvikling og testing av IT-systemer",
+     "ledd": [
+      "Tollmyndighetene kan behandle innhentede personopplysninger for å utvikle og teste IT-systemer dersom det vil være umulig eller uforholdsmessig vanskelig å oppnå formålet ved å bruke anonyme eller fiktive opplysninger."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-7",
+     "nummer": "§ 8-7",
+     "tittel": "Klagefrist",
+     "ledd": [
+      "Fristen for å klage over tollmyndighetenes vedtak etter denne loven er seks uker fra det tidspunktet underretning om vedtaket er kommet frem til vedkommende part. Forvaltningsloven § 29 første ledd første punktum gjelder ikke for tollmyndighetenes vedtak etter denne loven."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-8",
+     "nummer": "§ 8-8",
+     "tittel": "Riksrevisjonens innhenting av dokumentasjon",
+     "ledd": [
+      "Riksrevisjonen kan kreve at den opplysningspliktige legger frem dokumenter og erklæringer som dokumenterer opplysninger som er overført elektronisk til tollmyndighetene."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-9",
+     "nummer": "§ 8-9",
+     "tittel": "Tollrepresentant",
+     "ledd": [
+      "(1) Enhver som har rettigheter eller plikter overfor tollmyndighetene, har rett til å la seg bistå eller representere av en tollrepresentant. Tollrepresentanten handler på vegne av den representerte og i den representertes navn. Den som leverer melding for tollavgift etter § 9-2 i eget navn, men på vegne av en annen fysisk eller juridisk person, er også tollrepresentant.",
+      "(2) Tollrepresentanten skal opplyse tollmyndighetene om at vedkommende handler på vegne av den representerte. Dersom tollrepresentanten leverer melding for tollavgift i eget navn, men handler på vegne av en annen fysisk eller juridisk person, skal vedkommende opplyse om det.",
+      "(3) Tollmyndighetene kan kreve at tollrepresentanten sannsynliggjør at vedkommende handler på vegne av den representerte. Dersom dette ikke kan sannsynliggjøres, anses vedkommende for å handle i eget navn og på egne vegne.",
+      "(4) Departementet kan gi forskrift om tollrepresentantens opplysningsplikt etter annet ledd og om unntak fra plikten."
+     ],
+     "endringer": [
+      "Tilføyd ved lov 20 des 2022 nr. 110."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-9",
+   "navn": "kap9",
+   "overskrift": "Kapittel 9 Opplysningsplikt, fastsetting og beregning av tollavgift",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-1",
+     "nummer": "§ 9-1",
+     "tittel": "Alminnelig opplysningsplikt",
+     "ledd": [
+      "Den som leverer melding for tollavgift etter § 9-2, skal gi riktige og fullstendige opplysninger. Vedkommende skal opptre aktsomt og lojalt slik at tollavgiftsplikten i rett tid blir klarlagt og oppfylt, og varsle tollmyndighetene om eventuelle feil."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-2",
+     "nummer": "§ 9-2",
+     "tittel": "Melding for tollavgift",
+     "ledd": [
+      "(1) Melding for tollavgift skal leveres av den deklarasjonspliktige når en vare deklareres for prosedyren overgang til fri disponering etter vareførselsloven § 4-1. Meldingen skal gis som del av deklarasjonen og inneholde alle opplysninger som har betydning for fastsetting av tollavgift.",
+      "(2) Departementet kan gi forskrift om innholdet i melding for tollavgift."
+     ],
+     "endringer": [
+      "Endret ved lov 20 des 2022 nr. 110."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-3",
+     "nummer": "§ 9-3",
+     "tittel": "Fastsetting og beregning av tollavgift",
+     "ledd": [
+      "Den som leverer en melding for tollavgift etter § 9-2, fastsetter grunnlaget for tollavgift ved levering av meldingen, og beregner tollavgift av det fastsatte grunnlaget."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-4",
+     "nummer": "§ 9-4",
+     "tittel": "Endring av egen fastsetting",
+     "ledd": [
+      "(1) Den som har levert melding for tollavgift etter § 9-2, og den som kan bli tollavgiftspliktig etter § 2-6, kan endre opplysninger i tidligere leverte meldinger ved levering av endringsmelding. Dette gjelder likevel ikke grunnlag som er fastsatt av tollmyndighetene, eller på områder hvor myndighetene har varslet om at fastsettingen er under kontroll.",
+      "(2) Endringsmelding som nevnt i første ledd, må være kommet frem til tollmyndighetene senest tre år etter at melding etter § 9-2 ble levert.",
+      "(3) Departementet kan gi forskrift om innholdet i og leveringsmåten for endringsmelding."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-10",
+   "navn": "kap10",
+   "overskrift": "Kapittel 10 Kontroll",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-1",
+     "nummer": "§ 10-1",
+     "tittel": "Kontrollopplysninger fra tollavgiftspliktige mv. og tredjeparter",
+     "ledd": [
+      "(1) Den som er eller kan bli tollavgiftspliktig etter §§ 2-3, 2-4 og 2-6, skal etter krav fra tollmyndighetene gi opplysninger som kan ha betydning for vedkommendes plikt til å beregne tollavgift og for kontrollen av denne. Opplysningsplikt etter første punktum går foran taushetsplikt som vedkommende er pålagt ved lov eller på annen måte. Opplysninger som angår rikets sikkerhet, kan likevel bare kreves fremlagt etter samtykke fra Kongen.",
+      "(2) Med unntak av fysiske personer som ikke driver næringsvirksomhet, skal enhver etter krav fra tollmyndighetene gi opplysninger som kan ha betydning for kontroll av noens plikt til å beregne tollavgift. Innhenting av opplysninger for målretting av kontroller kan bare foretas når det foreligger særlige grunner.",
+      "(3) Bestemmelsene i vareførselsloven §§ 8-10 og 8-11 om hvordan opplysningene kan dokumenteres, gjelder tilsvarende ved utlevering av opplysninger etter denne paragrafen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-2",
+     "nummer": "§ 10-2",
+     "tittel": "Kontroll hos den opplysningspliktige",
+     "ledd": [
+      "(1) Tollmyndighetene kan foreta kontroll hos den som skal gi opplysninger etter § 10-1 første og annet ledd. Den opplysningspliktige plikter ikke å gi adgang til kontroll i sitt private hjem, med mindre vedkommende driver næringsvirksomhet fra hjemmet.",
+      "(2) Bestemmelsene i vareførselsloven § 8-13 om gjennomføring av kontroll gjelder tilsvarende for kontroll etter denne paragrafen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-3",
+     "nummer": "§ 10-3",
+     "tittel": "Kontrollopplysninger fra offentlige myndigheter",
+     "ledd": [
+      "(1) Offentlige myndigheter, innretninger og tjenestepersonell plikter etter krav fra tollmyndighetene å gi opplysninger som kan ha betydning for kontroll med tollavgift. I nødvendig utstrekning skal opplysningene gis i form av utskrift av protokoll, kopi av dokumenter mv.",
+      "(2) Uten hinder av taushetsplikt skal skattemyndighetene, folkeregistermyndigheten og landbruksmyndighetene gi opplysninger av betydning for tollmyndighetenes kontroll med tollavgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-4",
+     "nummer": "§ 10-4",
+     "tittel": "Pålegg om bokføring",
+     "ledd": [
+      "(1) Tollmyndighetene kan pålegge bokføringspliktige som omfattes av § 10-2 å oppfylle sin plikt til å innrette bokføringen, spesifikasjonen, dokumentasjonen og oppbevaringen av regnskapsopplysninger i samsvar med regler gitt i eller i medhold av bokføringsloven.",
+      "(2) Pålegg om bokføring rettes til styret i selskap, samvirkeforetak, forening, innretning eller organisasjon og sendes hvert medlem. Det skal settes en frist for oppfyllelse. Fristen skal være minimum fire uker og ikke lengre enn ett år."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-5",
+     "nummer": "§ 10-5",
+     "tittel": "Klage over pålegg om bokføring",
+     "ledd": [
+      "(1) Den som får pålegg om bokføring etter § 10-4 kan klage over pålegget.",
+      "(2) Klage, som kan være muntlig, må fremsettes straks når den pålegget angår er til stede, og ellers innen tre dager.",
+      "(3) Den som har gitt pålegget skal enten omgjøre det eller snarest mulig legge klagen frem for nærmeste overordnet forvaltningsorgan til avgjørelse.",
+      "(4) Pålegget skal etterkommes selv om klagen ikke er avgjort, hvis ikke den som ga pålegget gir utsetting. Utsetting bør gis, hvis den som ga pålegget finner at klagen reiser rimelig tvil om lovligheten av pålegget."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-11",
+   "navn": "kap11",
+   "overskrift": "Kapittel 11 Endring uten klage og endringsfrister",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-11-paragraf-1",
+     "nummer": "§ 11-1",
+     "tittel": "Tollmyndighetenes endring av tollavgiftsfastsetting mv.",
+     "ledd": [
+      "(1) Tollmyndighetene kan endre enhver tollavgiftsfastsetting når fastsettingen er uriktig. Reglene gjelder tilsvarende dersom det ikke foreligger noen tollavgiftsfastsetting etter § 9-3.",
+      "(2) Før fastsettingen tas opp til endring, skal tollmyndighetene vurdere om det er grunn til det under hensyn til blant annet forhold knyttet til den som skal beregne tollavgift, den tid som er gått, spørsmålets betydning og sakens opplysning.",
+      "(3) Tollmyndighetene skal ta opp fastsettingen til endring når endringen følger av eller forutsettes i utfallet av et søksmål."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-11-paragraf-2",
+     "nummer": "§ 11-2",
+     "tittel": "Frister for endring av tollavgiftsfastsetting mv.",
+     "ledd": [
+      "(1) Fristen for å ta opp saker til endring etter § 11-1 er fem år fra utgangen av det kalenderåret da den ordinære fristen for å gjennomføre fastsettingen etter § 9-3 løp ut.",
+      "(2) Fristen er ti år dersom den tollavgiftspliktige ilegges skjerpet tilleggsavgift eller anmeldes for brudd på straffeloven §§ 378 til 380. Vedtak om endring som er truffet i medhold av tiårsfristen, bortfaller dersom vedtaket om skjerpet tilleggsavgift oppheves eller anmeldelsen ikke leder til straffereaksjon for brudd på de nevnte bestemmelsene. Fristen er ti år også i saker hvor det ikke ilegges tilleggsavgift fordi vilkårene i § 12-4 bokstav b er oppfylt.",
+      "(3) Med mindre det foreligger nye opplysninger i saken, må sak om endring av tollavgiftsgrunnlaget i vedtak etter § 11-1 tas opp senest fire måneder etter vedtakstidspunktet dersom endringen er til ugunst for den tollavgiftspliktige eller medansvarlige. Saken må uansett tas opp innenfor fristene i første og annet ledd."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-11-paragraf-3",
+     "nummer": "§ 11-3",
+     "tittel": "Unntak fra fristene for å ta opp tollavgiftsfastsetting mv. til endring",
+     "ledd": [
+      "Fristene i § 11-2 er ikke til hinder for at fastsettingen tas opp til endring\na. når endringen følger av, eller forutsettes i, utfallet av et søksmål\nb. som følge av uttalelsen fra Stortingets ombud for kontroll med forvaltningen, i en sak der tollavgiftspliktig eller medansvarlig er part."
+     ],
+     "endringer": [
+      "Endret ved lov 22 juni 2022 nr. 78."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-11-paragraf-4",
+     "nummer": "§ 11-4",
+     "tittel": "Nedsettelse av tollavgift",
+     "ledd": [
+      "Tollmyndighetene kan treffe enkeltvedtak om nedsettelse av tollavgift dersom det oppstår tilfeller eller situasjoner som ikke var overveid da Stortingets vedtak om tollavgift ble truffet, og tollavgiften i det enkelte tilfellet får en utilsiktet og klart urimelig virkning."
+     ],
+     "endringer": [
+      "Endret ved lov 16 juni 2023 nr. 53."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-12",
+   "navn": "kap12",
+   "overskrift": "Kapittel 12 Administrative reaksjoner, straff og søksmål",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-12-paragraf-1",
+     "nummer": "§ 12-1",
+     "tittel": "Tvangsmulkt",
+     "ledd": [
+      "(1) For å fremtvinge levering av pliktige opplysninger, kan tollmyndighetene ilegge den som har plikt til å gi opplysninger etter § 10-1, en daglig løpende tvangsmulkt når opplysningene ikke gis innen de fastsatte frister. Det samme gjelder når det er åpenbare mangler ved de opplysningene som er gitt. Tvangsmulkt kan også ilegges den som ikke retter seg etter et pålegg om bokføring etter § 10-4 innen den fastsatte fristen.",
+      "(2) Samlet tvangsmulkt etter første ledd første og annet punktum kan ikke overstige 50 ganger rettsgebyret, jf. rettsgebyrloven § 1 annet ledd.",
+      "(3) Tvangsmulkt etter første ledd tredje punktum skal utgjøre ett rettsgebyr per dag. I særlige tilfeller kan tvangsmulkten settes lavere eller høyere, men ikke høyere enn ti rettsgebyr per dag. Samlet tvangsmulkt kan ikke overstige én million kroner.",
+      "(4) For vedtak om tvangsmulkt kan forhåndsvarsel etter forvaltningsloven § 16 unnlates. I melding om vedtak om tvangsmulkt skal tollmyndighetene opplyse om hvilke plikter som ikke anses å være oppfylt, frist for når tvangsmulkten begynner å løpe og størrelsen på tvangsmulkten."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-12-paragraf-2",
+     "nummer": "§ 12-2",
+     "tittel": "Overtredelsesgebyr",
+     "ledd": [
+      "(1) Tollmyndighetene kan ilegge overtredelsesgebyr overfor den som ikke medvirker til kontroll etter § 10-2.",
+      "(2) Overtredelsesgebyr kan utgjøre inntil 50 ganger rettsgebyret, jf. rettsgebyrloven § 1 annet ledd.",
+      "(3) Overtredelsesgebyr ilegges ikke dersom oppfyllelse var umulig på grunn av forhold som ikke skyldtes den ansvarlige.",
+      "(4) Departementet kan gi forskrift om utmåling av overtredelsesgebyr."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-12-paragraf-3",
+     "nummer": "§ 12-3",
+     "tittel": "Tilleggsavgift",
+     "ledd": [
+      "(1) Tilleggsavgift ilegges tollavgiftspliktig som gir uriktige eller ufullstendige opplysninger til tollmyndighetene eller unnlater å gi pliktige opplysninger, når opplysningssvikten eller pliktbruddet kan føre til avgiftsmessige fordeler.",
+      "(2) Tilleggsavgift beregnes med 20 prosent av den avgiftsmessige fordelen som er eller kunne ha vært oppnådd.",
+      "(3) Tilleggsavgift ilegges ikke når den tollavgiftspliktiges forhold må anses unnskyldelig.",
+      "(4) Tilleggsavgift kan fastsettes samtidig med den tollavgiften den skal beregnes av, eller ved en senere særskilt fastsetting. Fristene i §§ 11-2 og 11-3 gjelder tilsvarende."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-12-paragraf-4",
+     "nummer": "§ 12-4",
+     "tittel": "Unntak fra tilleggsavgift",
+     "ledd": [
+      "(1) Tilleggsavgift fastsettes ikke\na. når de uriktige eller ufullstendige opplysningene skyldes åpenbare regne- eller skrivefeil\nb. når den tollavgiftspliktige frivillig retter eller utfyller opplysninger som er gitt eller lagt til grunn tidligere, slik at det kan fastsettes riktig tollavgift. Dette gjelder ikke hvis rettingen kan anses fremkalt ved kontrolltiltak som er eller vil bli satt i verk, eller ved opplysninger som tollmyndighetene har fått fra andre.\nc. når den tollavgiftspliktige er død\nd. når tilleggsavgiften for det enkelte forhold vil bli under 1 000 kroner.",
+      "(2) Tollmyndighetene kan unnlate å ilegge tilleggsavgift når tollavgift er fastsatt med satser som er betydelig høyere enn det som er nødvendig for å ivareta nasjonale beskyttelsesbehov, og tollavgiften er av en slik størrelse at det er urimelig å ilegge tilleggsavgift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-12-paragraf-5",
+     "nummer": "§ 12-5",
+     "tittel": "Skjerpet tilleggsavgift",
+     "ledd": [
+      "(1) Skjerpet tilleggsavgift ilegges tollavgiftspliktig som forsettlig eller grovt uaktsomt gir tollmyndighetene uriktige eller ufullstendige opplysninger, eller unnlater å gi pliktige opplysninger, når vedkommende forstår eller bør forstå at det kan føre til avgiftsmessige fordeler. Skjerpet tilleggsavgift kan bare ilegges i tillegg til tilleggsavgift etter § 12-3.",
+      "(2) Skjerpet tilleggsavgift kan fastsettes i et eget vedtak samtidig med eller etter fastsetting av tilleggsavgift etter § 12-3. Bestemmelsen i § 12-3 fjerde ledd annet punktum gjelder tilsvarende.",
+      "(3) Skjerpet tilleggsavgift beregnes med 20 eller 40 prosent av den avgiftsmessige fordelen som er eller kunne ha vært unndratt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-12-paragraf-6",
+     "nummer": "§ 12-6",
+     "tittel": "Straff for unnlatt medvirkning til kontroll",
+     "ledd": [
+      "Med bot eller fengsel inntil seks måneder eller begge deler straffes den som unnlater å medvirke til kontroll etter § 10-2."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-12-paragraf-7",
+     "nummer": "§ 12-7",
+     "tittel": "Utsatt iverksetting av vedtak om sanksjon",
+     "ledd": [
+      "(1) Vedtak om tilleggsavgift og vedtak om overtredelsesgebyr skal ikke iverksettes før klagefristen er ute eller klagen er avgjort.",
+      "(2) Dersom den som er ilagt tilleggsavgift eller overtredelsesgebyr vil prøve vedtakets gyldighet for domstolene, skal vedtaket, dersom partene ber om det, ikke iverksettes før etter utløpet av søksmålsfristen eller endelig rettsavgjørelse foreligger."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-12-paragraf-8",
+     "nummer": "§ 12-8",
+     "tittel": "Frist for søksmål mot tollmyndighetenes vedtak",
+     "ledd": [
+      "(1) Søksmål som gjelder enkeltvedtak om fastsetting av tollavgift, må reises innen seks måneder etter at vedtaket ble sendt tollavgiftspliktig eller medansvarlig. Det kan gis oppfriskning for oversittelse av fristen etter tvisteloven §§ 16-12 til 16-14.",
+      "(2) Søksmålsfristen avbrytes dersom det omtvistede spørsmålet klages inn for Stortingets ombud for kontroll med forvaltningen. Ny søksmålsfrist på seks måneder løper fra ombudets melding om avsluttet behandling er kommet frem til tollavgiftspliktig eller medansvarlig, eller fra denne blir varslet om myndighetenes svar på ombudets anmodning om fornyet behandling. Søksmålsfristen etter første ledd avbrytes likevel ikke dersom klagen ikke fører til realitetsavgjørelse hos ombudet og dette skyldes forsettlig forhold fra tollavgiftspliktiges eller medansvarliges side.",
+      "(3) Søksmålsfristen i første ledd første punktum gjelder ikke når søksmål reises mot førsteinstansens vedtak i medhold av forvaltningsloven § 27 b annet punktum."
+     ],
+     "endringer": [
+      "Endret ved lover 22 juni 2022 nr. 78, 25 april 2025 nr. 12 (i kraft 1 jan 2026 iflg. res. 10 juni 2025 nr. 967)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-13",
+   "navn": "kap13",
+   "overskrift": "Kapittel 13 Ikrafttredelse, overgangsbestemmelser og endringer i andre lover",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-13-paragraf-1",
+     "nummer": "§ 13-1",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Loven trer i kraft fra den tid[1] Kongen bestemmer."
+     ],
+     "fotnoter": [
+      {
+       "nr": "1",
+       "tekst": "Fra 1 jan 2023 iflg. res. 16 sep 2022 nr. 1575."
+      }
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-13-paragraf-2",
+     "nummer": "§ 13-2",
+     "tittel": "Overgangsbestemmelser",
+     "ledd": [
+      "Departementet kan gi forskrift om overgangsbestemmelser."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-13-paragraf-3",
+     "nummer": "§ 13-3",
+     "tittel": "Endringer i andre lover",
+     "ledd": [
+      "Fra det tidspunktet loven trer i kraft, gjøres følgende endringer i andre lover: – – –"
+     ],
+     "endringer": [
+      "Endret ved lov 20 des 2022 nr. 110."
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,260 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2025-07-09-1509",
+ "dokumentid": "SF/forskrift/2025-07-09-1509",
+ "departement": [
+  "Justis- og beredskapsdepartementet"
+ ],
+ "etat": [
+  "Sivilavdelingen"
+ ],
+ "ikraft": "2026-01-01, 2027-01-01",
+ "siste_endring_ikraft": "2026-07-22",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2026-07-22-1580",
+   "tekst": "forskrift/2026-07-22-1580"
+  }
+ ],
+ "endrer": "forskrift/1992-12-21-1185\nforskrift/2010-06-25-977",
+ "hjemmel": [
+  {
+   "ref": "lov/1992-06-26-86/§1-10",
+   "tekst": "lov/1992-06-26-86/§1-10"
+  },
+  {
+   "ref": "lov/1992-06-26-86/§5-2",
+   "tekst": "lov/1992-06-26-86/§5-2"
+  },
+  {
+   "ref": "lov/1992-06-26-86/§6-1",
+   "tekst": "lov/1992-06-26-86/§6-1"
+  },
+  {
+   "ref": "lov/1992-06-26-86/§7-3",
+   "tekst": "lov/1992-06-26-86/§7-3"
+  },
+  {
+   "ref": "lov/1915-08-13-5/§197a",
+   "tekst": "lov/1915-08-13-5/§197a"
+  },
+  {
+   "ref": "forskrift/1992-12-18-1076",
+   "tekst": "forskrift/1992-12-18-1076"
+  },
+  {
+   "ref": "forskrift/2012-02-03-119",
+   "tekst": "forskrift/2012-02-03-119"
+  },
+  {
+   "ref": "forskrift/2023-11-17-1856",
+   "tekst": "forskrift/2023-11-17-1856"
+  },
+  {
+   "ref": "forskrift/2025-06-20-1130",
+   "tekst": "forskrift/2025-06-20-1130"
+  }
+ ],
+ "kunngjort": "2025-07-10 13:45",
+ "tittel": "Forskrift om elektronisk kommunikasjon med alminnelig namsmann og Innkrevingsmyndigheten",
+ "annet": "Hjemmel: Fastsatt av Justis- og beredskapsdepartementet 9. juli 2025 med hjemmel i lov 26. juni 1992 nr. 86 om tvangsfullbyrdelse (tvangsfullbyrdelsesloven) § 1-10 første ledd, § 6-1 annet ledd, § 5-2 femte ledd og § 7-3 sjette ledd jf. lov 13. august 1915 nr. 5 om domstolene (domstolloven) § 197a og delegeringsvedtak 18. desember 1992 nr. 1076, delegeringsvedtak 3. februar 2012 nr. 119, delegeringsvedtak 17. november 2023 nr. 1856 og delegeringsvedtak 20. juni 2025 nr. 1130.\nEndret ved forskrifter 19 mars 2026 nr. 441 (ikrafttredelse), 22 juli 2026 nr. 1580 (ikrafttredelse).",
+ "refid": "forskrift/2025-07-09-1509",
+ "eli": "/eli/forskrift/2025/07/09/1509",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2025-07-09-1509",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Generell elektronisk kommunikasjon",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Innledning",
+     "ledd": [
+      "Forskriften gjelder elektronisk kommunikasjon med alminnelig namsmann og Innkrevingsmyndigheten i nettportal og ved systemintegrasjon. For Innkrevingsmyndigheten gjelder forskriften kun i saker om utlegg og tvangsdekning i enkle pengekrav.",
+      "eForvaltningsforskriften gjelder for Innkrevingsmyndigheten, jf. forvaltningsloven § 15a. For alminnelig namsmann gjelder eForvaltningsforskriften tilsvarende så langt den passer. Ved motstrid går reglene i forskriften her foran reglene i eForvaltningsforskriften."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Elektronisk kommunikasjon i nettportal",
+     "ledd": [
+      "Elektronisk kommunikasjon med alminnelig namsmann og Innkrevingsmyndigheten kan skje ved bruk av nettportal i de sakstyper som løsningen åpner for. Ved innsending av dokumenter kan det kun benyttes de formater som nettportalen åpner for."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Løsninger for systemintegrasjon",
+     "ledd": [
+      "Det kan etableres løsninger for direkte kommunikasjon mellom namsmyndighetenes og andre aktørers fagsystemer.",
+      "Det kan stilles krav til systemene som skal kommunisere med fagsystemene til namsmyndighetene, herunder til teknisk og praktisk innretning, sikkerhet og vedlikehold.",
+      "eForvaltningsforskriften § 8 andre til sjette ledd gjelder ikke ved bruk av løsning for systemintegrasjon."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 4",
+     "tittel": "Obligatorisk bruk av elektronisk løsning for kommunikasjon",
+     "ledd": [
+      "Foretak med inkassobevilling skal benytte de løsningene for systemintegrasjon som namsmyndighetene tilbyr.",
+      "Øvrige upersonlige rettssubjekter skal benytte nettportalen til å kommunisere med namsmyndighetene. Plikten gjelder såfremt den tekniske løsningen åpner for det. Kommunikasjon som skjer gjennom løsning for systemintegrasjon oppfyller krav om obligatorisk bruk av nettportal.",
+      "Andre ledd gjelder tilsvarende for innehaver av enkeltpersonforetak der denne opptrer som ledd i næringsvirksomhet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-5",
+     "nummer": "§ 5",
+     "tittel": "Krav til elektronisk signatur",
+     "ledd": [
+      "Er det krav i lov om underskrift på meddelelse som skal innleveres elektronisk, er signering i nettportal eller i løsning for systemintegrasjon likestilt med underskrift.",
+      "Nettportalen eller løsningen for systemintegrasjon skal sikre tilstrekkelig notoritet for signaturen på meddelelsen ved integritetsbeskyttelse, sporbarhet og at det i ettertid ikke er mulig å benekte at meddelelsen er sendt.",
+      "Dokumenter som etter krav i lov skal være underskrevet, kan signeres uten ytterligere autentisering dersom betryggende autentisering er benyttet ved innlogging i nettportalen eller løsningen for systemintegrasjon. Autentisering benyttet ved innlogging skal arkiveres sammen med det signerte dokumentet."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Elektronisk begjæring om utlegg",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 6",
+     "tittel": "Elektronisk begjæring om utlegg uten angitt namsmann",
+     "ledd": [
+      "Saksøker kan sette frem begjæring om utlegg elektronisk, uten å angi hvilken namsmann som skal være adressat for begjæringen. Valg av namsmann kan skje automatisk basert på opplysninger som saksøker gir i begjæringen, eller som saksbehandlingssystemet henter inn om saksøkte. Blir kompetent namsmann ikke identifisert automatisk, skal saksøker få melding om det og om at begjæring må settes frem på nytt for angitt namsmann."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 7",
+     "tittel": "Elektronisk begjæring om utlegg",
+     "ledd": [
+      "Begjæring om utlegg kan settes frem elektronisk for namsmannen gjennom nettportal, jf. § 2, eller løsning for systemintegrasjon, jf. § 3. Begjæring om utlegg skal fremsettes elektronisk der dette følger av § 4.",
+      "Vedlegg til begjæring som settes frem elektronisk skal ha det format som løsningene nevnt i første ledd åpner for. Overfor foretak med inkassobevilling kan namsmannen stille ytterligere krav til format og maskinell lesbarhet."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Elektronisk kommunikasjon med namsmannen som sekretariat for forliksrådet",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 8",
+     "tittel": "Saklig virkeområde",
+     "ledd": [
+      "Kapitlet regulerer elektronisk kommunikasjon mellom namsmannen som sekretariat for forliksrådet og godkjente brukere i saker for forliksrådet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 9",
+     "tittel": "Adgang til elektronisk innsending",
+     "ledd": [
+      "Bare brukere som er godkjent av Skatteetaten kan sende inn dokumenter elektronisk i saker for forliksrådet.",
+      "Klager kan sende inn følgende dokumenter elektronisk:\na. forliksklager,\nb. kopi av vedlegg til forliksklager, og\nc. andre dokumenter som Skatteetaten har fastsatt kan sendes inn elektronisk.",
+      "Ved elektronisk innsending av dokumenter benyttes den form og adresse som Skatteetaten fastsetter."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 10",
+     "tittel": "Bekreftelse på at dokumentet er mottatt",
+     "ledd": [
+      "Avsender av elektroniske dokumenter skal motta en bekreftelse fra namsmannen på at dokumentene er mottatt. Bekreftelsen skal inneholde saks- eller referansenummer, dato og tidspunktet for mottakelse."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 11",
+     "tittel": "Elektronisk kommunikasjon fra namsmannen til klageren",
+     "ledd": [
+      "Namsmannen kan sende dokumenter fra forliksrådet i elektronisk form til klagere som er godkjente brukere og har benyttet elektronisk kommunikasjon i saken. For forkynning av dom eller beslutning avsagt av forliksrådet overfor slike brukere, gjelder forskrift 11. oktober 1985 nr. 1810 om postforkynning § 4 annet ledd annet punktum, jf. § 7 første og annet ledd."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 12",
+     "tittel": "Fristavbrudd",
+     "ledd": [
+      "Skal en forliksklage eller annen meddelelse avgis i løpet av en frist, avbrytes fristen ved innsending til riktig elektronisk adresse."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-6",
+     "nummer": "§ 13",
+     "tittel": "Krav til elektronisk signatur",
+     "ledd": [
+      "Når det i eller i medhold av tvisteloven er krav om underskrift på dokumenter, skal det ved elektronisk kommunikasjon etter kapittel 3 i forskriften her benyttes elektronisk signatur som er basert på en eID-ordning på nivå høy eller betydelig, og som er oppført på publisert liste i henhold til § 13 første ledd i forskrift 21. november 2019 nr. 1578 om selvdeklarasjon av ordninger for elektronisk identifikasjon. Det kan alternativt benyttes elektronisk signatur eller segl basert på sertifikat fra kvalifisert tilbyder av tillitstjenester som oppfyller kravene i lov 15. juni 2018 nr. 44 om elektroniske tillitstjenester. Skatteetaten fastsetter hvilken sertifikatklasse som skal benyttes for de enkelte dokumenttyper og brukere."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-7",
+     "nummer": "§ 14",
+     "tittel": "Informasjonssikkerhet",
+     "ledd": [
+      "Skatteetaten skal gjennom planlagte og systematiske tiltak sørge for tilfredsstillende informasjonssikkerhet med hensyn til konfidensialitet, integritet og tilgjengelighet.",
+      "I saker for forliksrådet skal elektronisk kommunikasjon mellom namsmyndigheten og godkjente brukere sikres med tilfredsstillende kryptering og betryggende metode for autentisering av kommunikasjonspartene. Det skal etableres metoder for å sikre ikke-benekting."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-8",
+     "nummer": "§ 15",
+     "tittel": "Arkivering av elektroniske dokumenter og signaturer",
+     "ledd": [
+      "Elektroniske dokumenter i saker for forliksrådet skal oppbevares i henhold til de regler som er fastsatt i eller i medhold av lov 4. desember 1992 nr. 126 om arkiv.",
+      "For arkivering av elektroniske signaturer gjelder forskrift 25. juni 2004 nr. 988 om elektronisk kommunikasjon med og i forvaltningen § 28 tilsvarende."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Ikrafttredelse og overgangsbestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 16",
+     "tittel": "Ikrafttredelse og overgangsbestemmelser m.m.",
+     "ledd": [
+      "Forskriften trer i kraft 1. januar 2026, med unntak av § 4 som trer i kraft 1. januar 2027.",
+      "Fra 1. januar 2026 oppheves forskrift 21. desember 1992 nr. 1185 om bruk av skjemaer ved begjæring av tvangsforretninger og forskrift 25. juni 2010 nr. 977 om elektronisk kommunikasjon med namsmannen og Statens innkrevingssentral i saker etter tvangsfullbyrdelsesloven og i saker for forliksrådet.",
+      "For kommunikasjon med alminnelig namsmann og Innkrevingsmyndigheten i saker om utlegg gjelder forskriften bare for saker som blir behandlet etter nytt regelverk for utlegg, jf. delegering 10. juni 2025 nr. 968 av Kongens myndighet etter innkrevingsloven § 40 andre og tredje ledd til Finansdepartementet. For saker som behandles etter tidligere regelverk for utlegg, gjelder tidligere bestemmelser om kommunikasjon."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 19 mars 2026 nr. 441, 22 juli 2026 nr. 1580."
+     ]
+    }
+   ]
+  }
+ ]
+}

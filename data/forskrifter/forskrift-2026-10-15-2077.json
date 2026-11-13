@@ -1,0 +1,73 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2026-10-15-2077",
+ "dokumentid": "SF/forskrift/2026-10-15-2077",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Tolletaten"
+ ],
+ "ikraft": "2026-11-01, 2026-12-01, 2027-02-01",
+ "endrer": "forskrift/2022-10-27-1938",
+ "hjemmel": [
+  {
+   "ref": "lov/2022-03-11-8/§3-1",
+   "tekst": "lov/2022-03-11-8/§3-1"
+  },
+  {
+   "ref": "lov/2022-03-11-8/§4-1",
+   "tekst": "lov/2022-03-11-8/§4-1"
+  },
+  {
+   "ref": "forskrift/2022-10-19-1760",
+   "tekst": "forskrift/2022-10-19-1760"
+  }
+ ],
+ "kunngjort": "2026-10-19 14:25",
+ "korttittel": "Endr. i tollavgiftsforskriften",
+ "tittel": "Forskrift om endring i forskrift om tollavgift (tollavgiftsforskriften)",
+ "annet": "Hjemmel: Fastsatt av Tolletaten 15. oktober 2026 med hjemmel i lov 11. mars 2022 nr. 8 om tollavgift (tollavgiftsloven) § 3-1 tredje ledd og § 4-1 tredje ledd, jf. delegeringsvedtak 19. oktober 2022 nr. 1760.",
+ "refid": "forskrift/2026-10-15-2077",
+ "eli": "/eli/forskrift/2026/10/15/2077",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2026-10-15-2077",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "I forskrift 27. oktober 2022 nr. 1938 om tollavgift (tollavgiftsforskriften) gjøres følgende endringer:\n§ 4-1-1 første ledd nr. 24 skal lyde: – – –"
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "I vedlegg 1 til tollavgiftsforskriften gjøres følgende endringer:\nKosovo fjernes fra listen Land med preferansetollavgift som lavere mellominntektsland med mindre enn 75 millioner innbyggere, jf. tollavgiftsforskriften § 3-1-2 annet ledd bokstav b.\nBrasil fjernes fra listen Land med preferansetollavgift som øvrige land etter OECDs DAC-liste, jf. tollavgiftsforskriften § 3-1-2 annet ledd bokstav c."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kapIII",
+   "overskrift": "III",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Endringen under I trer i kraft 1. november 2026. Under II trer endringen for Kosovo i kraft 1. desember 2026 og for Brasil 1. februar 2027."
+    }
+   ]
+  }
+ ]
+}

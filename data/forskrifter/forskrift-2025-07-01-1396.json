@@ -1,0 +1,691 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2025-07-01-1396",
+ "dokumentid": "SF/forskrift/2025-07-01-1396",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Skattedirektoratet"
+ ],
+ "ikraft": "2026-01-01, 2027-01-01",
+ "siste_endring_ikraft": "2026-08-24",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2026-08-24-1662",
+   "tekst": "forskrift/2026-08-24-1662"
+  }
+ ],
+ "hjemmel": [
+  {
+   "ref": "lov/2025-04-25-12/§2",
+   "tekst": "lov/2025-04-25-12/§2"
+  },
+  {
+   "ref": "lov/2025-04-25-12/§3",
+   "tekst": "lov/2025-04-25-12/§3"
+  },
+  {
+   "ref": "lov/2025-04-25-12/§11",
+   "tekst": "lov/2025-04-25-12/§11"
+  },
+  {
+   "ref": "lov/2025-04-25-12/§14",
+   "tekst": "lov/2025-04-25-12/§14"
+  },
+  {
+   "ref": "lov/2025-04-25-12/§15",
+   "tekst": "lov/2025-04-25-12/§15"
+  },
+  {
+   "ref": "lov/2025-04-25-12/§16",
+   "tekst": "lov/2025-04-25-12/§16"
+  },
+  {
+   "ref": "lov/2025-04-25-12/§21",
+   "tekst": "lov/2025-04-25-12/§21"
+  },
+  {
+   "ref": "lov/2025-04-25-12/§23",
+   "tekst": "lov/2025-04-25-12/§23"
+  },
+  {
+   "ref": "lov/2025-04-25-12/§25",
+   "tekst": "lov/2025-04-25-12/§25"
+  },
+  {
+   "ref": "lov/2025-04-25-12/§26",
+   "tekst": "lov/2025-04-25-12/§26"
+  },
+  {
+   "ref": "lov/2025-04-25-12/§27",
+   "tekst": "lov/2025-04-25-12/§27"
+  },
+  {
+   "ref": "lov/2025-04-25-12/§31",
+   "tekst": "lov/2025-04-25-12/§31"
+  },
+  {
+   "ref": "lov/2025-04-25-12/§34",
+   "tekst": "lov/2025-04-25-12/§34"
+  },
+  {
+   "ref": "lov/2025-04-25-12/§36",
+   "tekst": "lov/2025-04-25-12/§36"
+  },
+  {
+   "ref": "lov/2025-04-25-12/§40",
+   "tekst": "lov/2025-04-25-12/§40"
+  },
+  {
+   "ref": "forskrift/2025-06-12-1053",
+   "tekst": "forskrift/2025-06-12-1053"
+  }
+ ],
+ "kunngjort": "2025-07-02 14:25",
+ "korttittel": "Innkrevingsforskriften",
+ "tittel": "Forskrift om innkreving av statlige krav mv. (innkrevingsforskriften)",
+ "annet": "Hjemmel: Fastsatt av Skattedirektoratet 1. juli 2025 med hjemmel i lov 25. april 2025 nr. 12 om innkreving av statlige krav mv. (innkrevingsloven) §§ 2, 3, 11, 14, 15, 16, 21, 23, 25, 26, 27, 31, 34, 36 og 40 og delegeringsvedtak 12. juni 2025 nr. 1053.\nEndret ved forskrifter 11 des 2025 nr. 2494 (i kraft 1 jan 2026), 24 feb 2026 nr. 274, 24 aug 2026 nr. 1662.",
+ "refid": "forskrift/2025-07-01-1396",
+ "eli": "/eli/forskrift/2025/07/01/1396",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2025-07-01-1396",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "seksjon",
+     "id": "kapittel-1-kapittel-1",
+     "navn": null,
+     "overskrift": "Virkeområde og innkrevingsmyndighet",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-1-paragraf-1",
+       "nummer": "§ 2-1",
+       "tittel": "Krav som Innkrevingsmyndigheten skal kreve inn",
+       "ledd": [
+        "Innkrevingsmyndigheten krever inn de krav som nevnes i §§ 2-2 til 2-10. Dette inkluderer renter for kravene, gebyrer, omkostninger og sakskostnader tilkjent ved rettergang eller i sak om tvangsfullbyrdelse."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-1-paragraf-2",
+       "nummer": "§ 2-2",
+       "tittel": "Ansvarskrav ved misligholdt trekkplikt",
+       "ledd": [
+        "Innkrevingsmyndigheten krever inn ansvarskrav mot trekkpliktige etter innkrevingsloven §§ 31 og 39 tredje ledd."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-1-paragraf-3",
+       "nummer": "§ 2-3",
+       "tittel": "Krav på skatt og avgift mv.",
+       "ledd": [
+        "Innkrevingsmyndigheten krever inn\na. skatte- og avgiftskrav som nevnt i skattebetalingsloven § 1-1 andre ledd\nb. krav som nevnt i skattebetalingsloven § 1-1 tredje ledd\nc. tilbakesøkingskrav som nevnt i skattebetalingsloven § 1-3\nd. ansvarskrav etter skattebetalingsloven kapittel 16\ne. avgifter som skal kreves inn ved innførsel eller utførsel av varer etter forskrift 13. desember 2000 nr. 1253 om samordnet innkreving av avgift på fiskeeksport og forskrift 20. desember 2012 nr. 1417 om forskningsavgift på landbruksprodukter."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-1-paragraf-4",
+       "nummer": "§ 2-4",
+       "tittel": "Underholdsbidrag mv.",
+       "ledd": [
+        "Innkrevingsmyndigheten krever inn\na. underholdsbidrag som påhviler noen etter barnelova, ekteskapsloven eller barnevernsloven\nb. folketrygdens regresskrav (refusjonskrav) ved utbetaling av bidragsforskudd etter forskotteringsloven § 10\nc. feilutbetalt bidrag etter bidragsinnkrevingsloven § 26\nd. pålegg om å betale bidrag på nytt etter bidragsinnkrevingsloven § 27\ne. gebyr som påløper ved fastsetting av bidrag etter barnelova § 70\nf. feilutbetalt bidragsforskudd etter forskotteringsloven § 8."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-1-paragraf-5",
+       "nummer": "§ 2-5",
+       "tittel": "Strafferelaterte krav og erstatningskrav mv.",
+       "ledd": [
+        "Innkrevingsmyndigheten krever inn\na. bøter og andre pengekrav som er tilkjent staten i en offentlig straffesak\nb. erstatningskrav og regresskrav ved inntreden, tilkjent staten ved dom eller i avtale\nc. sakskostnader tilkjent staten i sivile saker\nd. erstatning og andre pengekrav som er tilkjent en fornærmet eller annen skadelidt i en offentlig straffesak, dersom den berettigete ønsker det\ne. erstatning og andre pengekrav tilkjent en skadelidt eller dennes etterlatte i sivil sak på grunn av en straffbar handling som krenker liv, helse eller frihet, etter begjæring fra den berettigede."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-1-paragraf-6",
+       "nummer": "§ 2-6",
+       "tittel": "Tvangsmulkt og overtredelsesgebyr",
+       "ledd": [
+        "(1) Innkrevingsmyndigheten krever inn tvangsmulkt ilagt med hjemmel i\n- alkoholloven\n- anskaffelsesloven\n- a-opplysningsloven\n- apotekloven\n- arbeidsmiljøloven\n- brann- og eksplosjonsvernloven\n- deltakerloven\n- diskrimineringsombudsloven\n- el-tilsynsloven\n- energiloven\n- finansforetaksloven\n- finanstilsynsloven\n- folketrygdloven § 25-3\n- forbrukermerkeloven\n- forsikringsvirksomhetsloven\n- forurensningsloven\n- havressurslova\n- hvitvaskingsloven\n- klimakvoteloven\n- kringkastingsloven\n- legemiddelloven\n- likestillings- og diskrimineringsloven\n- lotteriloven\n- lov 24. juni 2011 nr. 39 om elsertifikater\n- lov 12. januar 1995 nr. 6 om medisinsk utstyr\n- lov 7. mai 2020 nr. 37 om medisinsk utstyr\n- lov 21. desember 2005 nr. 124 om obligatorisk tjenestepensjon\n- lov 1. mars 2019 nr. 2 om register over reelle rettighetshavere\n- lov 17. juni 2016 nr. 64 om åpenhet om eierskap i medier\n- luftfartsloven\n- markedsføringsloven\n- mineralloven\n- naturmangfoldloven\n- pengespilloven\n- personopplysningsloven\n- plan- og bygningsloven\n- produktkontrolloven\n- referanseverdiloven\n- sivilbeskyttelsesloven\n- skipssikkerhetsloven\n- statistikkloven\n- svalbardmiljøloven\n- tobakksskadeloven\n- vannressursloven\n- vassdragsreguleringsloven\n- vegtrafikkloven\n- verdipapirhandelloven\n- åpenhetsloven.",
+        "(2) Innkrevingsmyndigheten krever inn overtredelsesgebyr ilagt med hjemmel i\n- advokatloven\n- angrerettloven\n- anskaffelsesloven\n- a-opplysningsloven\n- apotekloven\n- arbeidsmiljøloven\n- avtaleloven\n- bildeprogramloven\n- deltakerloven\n- ehandelsloven\n- el-tilsynsloven\n- energiloven\n- finansavtaleloven\n- folkeregisterloven\n- folketrygdloven §§ 25-3 og 25-6a\n- forbrukerkjøpsloven\n- forbrukermerkeloven\n- forsikringsavtaleloven\n- forurensningsloven\n- havenergilova\n- havne- og farvannsloven\n- havressurslova\n- hvitvaskingsloven\n- klimakvoteloven\n- kringkastingsloven\n- lakse- og innlandsfiskloven\n- legemiddelloven\n- lov 24. juni 2011 nr. 39 om elsertifikater\n- lov 12. januar 1995 nr. 6 om medisinsk utstyr\n- lov 7. mai 2020 nr. 37 om medisinsk utstyr\n- luftfartsloven\n- markedsføringsloven\n- mesterbrevloven\n- mineralloven\n- motorferdselloven\n- naturmangfoldloven\n- pakkereiseloven\n- pengespilloven\n- personopplysningsloven\n- plan- og bygningsloven\n- produktkontrolloven\n- referanseverdiloven\n- regnskapsførerloven\n- revisorloven\n- sivilbeskyttelsesloven\n- skipssikkerhetsloven\n- svalbardmiljøloven\n- tjenesteloven\n- universitets- og høyskoleloven\n- valgloven\n- vannressursloven\n- vassdragsreguleringsloven\n- vegtrafikkloven\n- verdipapirfondloven\n- verdipapirhandelloven\n- yrkestransportlova § 40a\n- åpenhetsloven."
+       ],
+       "endringer": [
+        "Endret ved forskrift 11 des 2025 nr. 2494 (i kraft 1 jan 2026)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-1-paragraf-7",
+       "nummer": "§ 2-7",
+       "tittel": "Gebyrer og avgifter mv.",
+       "ledd": [
+        "Innkrevingsmyndigheten krever inn\n- avgift med hjemmel i el-tilsynsloven\n- finanstilsynsavgift ilagt av Finanstilsynet med hjemmel i finanstilsynsloven\n- årsavgift og tilleggsavgift med hjemmel i motorkjøretøy- og båtavgiftsloven § 1\n- gebyr og tilleggsavgift med hjemmel i vegtrafikkloven\n- avgift med hjemmel i lov 21. mai 1971 nr. 47 om brannfarlige varer samt væsker og gasser under trykk § 43\n- dokumentavgift og tilleggsavgift med hjemmel i dokumentavgiftsloven\n- krav som nevnt i rettsgebyrloven § 3 første ledd\n- tinglysningsgebyr med hjemmel i tinglysingsloven § 12b\n- gebyr for grunnbokutskrifter med hjemmel i forskrift om gebyr for tinglysing, registrering eller anmerkning i grunnboken og kraftledningsregisteret § 5\n- gebyr og avgift med hjemmel i lov 15. mai 1987 nr. 21 om film og videogram\n- gebyr med hjemmel i lov 12. juni 1987 nr. 48 om norsk internasjonalt skipsregister\n- inkassobevillingsgebyr med hjemmel i inkassoloven\n- skjenkebevillingsgebyr og omsetningsgebyr med hjemmel i alkoholloven\n- kringkastingsavgift og tilleggsavgift med hjemmel i kringkastingsloven\n- gebyr med hjemmel i sjøloven § 11 og § 198\n- gebyr med hjemmel i småbåtloven § 26a\n- forsinkelsesgebyr med hjemmel i regnskapsloven\n- gebyr etter stiftelsesloven § 7\n- avgift og gebyr med hjemmel i brann- og eksplosjonsvernloven § 28\n- gebyr for innregistrering, anmerkning, etterregistrering og utskrift av borettsandeler med hjemmel i burettslagslova\n- byggesaksgebyr med hjemmel i arbeidsmiljøloven\n- årsavgift for tilsyn med hjemmel i lov 26. januar 2007 nr. 4 om målenheter, måling og normaltid\n- gebyr med hjemmel i skipssikkerhetsloven\n- prospektgebyr med hjemmel i verdipapirhandelloven § 7-11 første ledd\n- årsgebyr for edelmetall med hjemmel i edelmetalloven\n- avgift med hjemmel i tobakksskadeloven\n- kontroll og tilsynsavgift med hjemmel i forskrift 21. desember 2001 nr. 1597 om gebyr og avgift i forbindelse med akvakulturvirksomhet § 3, jf. akvakulturloven § 26\n- gebyr ved innføring i merkeregisteret og en årlig avgift så lenge fartøyet står i merkeregisteret med hjemmel i deltakerloven\n- forsinkelsesgebyr ilagt med hjemmel i aksjeloven av 1976\n- gebyr for etterkontroll av deaktiverte våpen og gebyr for våpentillatelser med hjemmel i våpenlova § 37, jf. våpenforskrifta § 12-2."
+       ],
+       "endringer": [
+        "Endret ved forskrift 11 des 2025 nr. 2494 (i kraft 1 jan 2026)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-1-paragraf-8",
+       "nummer": "§ 2-8",
+       "tittel": "Øvrige krav",
+       "ledd": [
+        "Innkrevingsmyndigheten krever inn\n- krav om refusjon ved fri rettshjelp og egenandel ved fri sakførsel og fritt rettsråd med hjemmel i rettshjelploven\n- refselsesbot med hjemmel i disiplinærloven\n- miljøerstatning med hjemmel i svalbardmiljøloven\n- refselsesbot med hjemmel i sivilbeskyttelsesloven\n- refusjonskrav med hjemmel i personopplysningsloven\n- krav på tilskudd og regresskrav med hjemmel i pasientskadeloven\n- gjeldskrav med hjemmel i utdanningsstøtteloven som er besluttet overført til Innkrevingsmyndigheten\n- administrativ inndragning med hjemmel i verdipapirhandelloven og referanseverdiloven\n- tilbakebetalingskrav for utbetalt bostøtte med hjemmel i bustøttelova\n- refusjonskrav ved hjemtransport etter vedtak av Helsedirektoratet\n- tilbakebetaling av feilaktig utbetaling med hjemmel i pasient- og brukerrettighetsloven\n- tvangsbot fastsatt med hjemmel i barnelova\n- krav om utgiftsdekning og miljøerstatning med hjemmel i naturmangfoldloven\n- tilbakebetaling av utbetalt erstatning med hjemmel i straffeprosessloven\n- tilbakebetaling av utbetalt tilskudd etter lov 17. april 2020 nr. 23 om midlertidig tilskuddsordning for foretak med stort omsetningsfall\n- tilbakebetaling av utbetalt tilskudd etter lov 23. juni 2020 nr. 110 om midlertidig kompensasjonsordning for arbeidsgivere med nullsats for beregning av arbeidsgiveravgift (Sone V og Svalbard)\n- tilbakebetalingskrav med hjemmel i privatskolelova med forskrifter\n- tilbakebetalingskrav fra Lotteri- og stiftelsestilsynet\n- tilbakebetalingskrav med hjemmel i folkehøgskoleloven\n- regresskrav og krav på tilbakebetaling av voldsoffererstatning med hjemmel i voldsoffererstatningsloven\n- regresskrav og krav på tilbakebetaling av voldserstatning med hjemmel i voldserstatningsloven\n- tilbakebetaling av tilskudd gitt av Helsedirektoratet\n- feilaktig utbetalt barnetrygd etter barnetrygdloven § 13\n- feilaktig utbetalt kontantstøtte etter kontantstøtteloven § 11\n- tilbakekreving etter feilaktig utbetaling etter folketrygdloven § 22-15\n- tilbakekreving av utbetalinger etter direkte oppgjørsordning etter folketrygdloven § 22-15a\n- etteroppgjør uførepensjon etter folketrygdloven § 12-14\n- etteroppgjør omstillingsstønad etter folketrygdloven § 17-9\n- krav på tilbakebetaling av sykepenger fra arbeidsgiver etter folketrygdloven § 8-22\n- refusjonskrav etter forvalteroppdrag og tilsyn med hjemmel i domstolloven og advokatloven\n- årlig bidrag, bidrag ved oppstart og gebyr ved forsinket betaling av årlig bidrag med hjemmel i advokatloven og advokatforskriften\n- tilbakebetalingskrav for tilskudd gitt av Medietilsynet, Utenriksdepartementet, Norsk filminstitutt, Norec, Utdanningsdirektoratet, Kulturdirektoratet, Barne-, ungdoms- og familiedirektoratet og Enova SF\n- krav med grunnlag i avtale med Direktoratet for samfunnssikkerhet og beredskap Utenriksdepartementet og Forsvarsbygg\n- krav på grunnlag av nødlidenhetslån etter gjeldsbrev utstedt av Utenriksdepartementet\n- misligholdte lån og restkrav fra Husbanken med grunnlag i gjeldsbrev/låneavtale\n- krav etter lønnsgarantiloven §§ 6 og 8\n- krav på tilbakebetaling etter innkrevingsloven § 7\n- krav på tilbakebetaling av trygdeytelser mv. med hjemmel i ulovfestet rett (condictio indebiti)\n- krav på tilbakebetaling etter lov 29. april 2005 nr. 21 om supplerande stønad til personar med kort butid i Noreg\n- regresskrav med hjemmel i svalbardskatteloven § 5-2 sjette ledd\n- ansvarskrav etter tvangsfullbyrdelsesloven § 7-22 som bestemmelsen lød før endringer ved innkrevingsloven\n- egenandel etter folketrygdloven § 10-6 og tilskudd og lån etter folketrygdloven § 10-7 (gjeldsbrev)\n- premie etter lov 28. juni 1957 nr. 12 om pensjonstrygd for fiskere § 16\n- krav om innbetaling ved tvangsdekning i enkle pengekrav etter innkrevingsloven § 24 andre ledd."
+       ],
+       "endringer": [
+        "Endret ved forskrifter 11 des 2025 nr. 2494 (i kraft 1 jan 2026), 24 feb 2026 nr. 274."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-1-paragraf-9",
+       "nummer": "§ 2-9",
+       "tittel": "Utenlandske krav",
+       "ledd": [
+        "Innkrevingsmyndigheten krever inn\na. bøter, inndragninger og sakskostnader som er fastsatt i straffesak i Danmark, Finland, Island eller Sverige etter anmodning fra vedkommende myndighet, jf. lov 15. november 1963 om fullbyrding av nordiske dommer på straff m.v.\nb. krav på underholdsbidrag, bidrag til utgifter ved fødsel og kostnader som er pålagt den bidragspliktige i forbindelse med bidragssaken, og som kan kreves inn i Norge etter overenskomst med fremmed stat eller område innenfor et stats territorium som er gitt myndighet til å inngå slik overenskomst, dersom kravet følger av rettskraftig dom, annen rettsavgjørelse, forvaltningsvedtak eller skriftlig vedtakelse, og kan tvangsfullbyrdes etter reglene i vedkommende fremmede stat\nc. avgjørelser om økonomiske administrative sanksjoner og bøter ilagt av ansvarlig myndighet eller domstol i annen EØS-stat, hvis avgjørelsen gjelder manglende overholdelse av nasjonale regler som gjennomfører EØS-avtalens vedlegg XVIII nr. 30 (direktiv 96/71/EF) om utsending av arbeidstakere i forbindelse med tjenesteyting, eller direktiv 2014/67/EU om håndheving av direktiv 96/71/EF og om endring av forordning (EU) nr. 1024/2012 om administrativt samarbeid i informasjonssystemet for det indre marked, slik dette er innlemmet i EØS-avtalen, og avgjørelsen ikke kan påklages eller er rettskraftig\nd. krav på skyldige avgifter og tilbakekreving av uriktig utbetalt ytelse som kan kreves inn i Norge etter forordning (EF) nr. 883/2004 artikkel 84\ne. krav på skyldige avgifter og tilbakekreving av uriktig utbetalt ytelse som kan kreves inn i Norge etter konvensjon om trygdekoordinering mellom Island, Fyrstedømmet Liechtenstein, Kongeriket Norge og Det forente kongeriket Storbritannia og Nord-Irland av 30. juni 2023\nf. krav på offentlige skatter og avgifter som er utskrevet i fremmed stat, der innkreving skjer etter overenskomst inngått med hjemmel i dobbeltbeskatningsavtaleloven § 1 nr. 3\ng. krav oppstått i forbindelse med inn- og utførsel som omfattes av overenskomst med fremmed stat, der tollmyndighetene er kompetent myndighet, men hvor ansvaret for innkreving etter avtale tilligger Skatteetaten."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-1-paragraf-10",
+       "nummer": "§ 2-10",
+       "tittel": "Krav Innkrevingsmyndigheten kun avregner",
+       "ledd": [
+        "Innkrevingsmyndigheten kan beslutte avregning for\na. krav etter folketrygdloven § 22-16\nb. etteroppgjør med hjemmel i AFP-tilskottsloven § 15\nc. etteroppgjør med hjemmel i lov om AFP for medlemmer av Statens pensjonskasse § 3 bokstav d."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-1-kapittel-2",
+     "navn": null,
+     "overskrift": "Utøvelse av kreditorposisjon",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-2-paragraf-1",
+       "nummer": "§ 3-1",
+       "tittel": "Misligholdte lån som kreves inn på vegne av Husbanken og Lånekassen",
+       "ledd": [
+        "(1) For misligholdte husbanklån og oppsagte studielån kan Innkrevingsmyndighetens utøvelse av kreditorrollen begrenses i oppdragsavtalen.",
+        "(2) Husbanken skal selv ivareta gjeldsordninger etter gjeldsordningsloven for misligholdte husbanklån."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-2-paragraf-2",
+       "nummer": "§ 3-2",
+       "tittel": "Klagebehandling",
+       "ledd": [
+        "(1) Dersom det ved en klage som gjelder innkrevingen anføres at kravet som kreves inn er helt eller delvis feil, skal Innkrevingsmyndigheten vurdere om kravseier, eller den som har ansvaret for å fastsette eller ilegge kravet, bør få mulighet til å uttale seg før klagen blir behandlet.",
+        "(2) Klage som utelukkende gjelder riktigheten av kravet, og som fremmes uavhengig av innkrevingen, skal behandles av kravseier eller den som har ansvaret for å fastsette eller ilegge kravet."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-2-paragraf-3",
+       "nummer": "§ 3-3",
+       "tittel": "Ettergivelse",
+       "ledd": [
+        "(1) Innkrevingsmyndighetens kompetanse til å ettergi krav etter innkrevingsloven §§ 18 og 19 gjelder ikke\na. bot, jf. straffeloven kapittel 9\nb. inndragning, jf. straffeloven kapittel 13\nc. krav som kreves inn på vegne av utenlandsk myndighet, med mindre slik myndighet er uttrykkelig delegert\nd. ansvarskrav etter innkrevingsloven § 31 som er knyttet til et krav som Innkrevingsmyndigheten ikke selv har innkrevingsansvar for\ne. krav på feilutbetalt bidragsforskudd etter forskotteringsloven dersom den bidragspliktige har bidragsgjeld for barnet for samme periode\nf. krav på underholdsbidrag etter barnelova eller etter utenlandsk rett dersom det også er løpende bidrag mot den bidragspliktige. Et bidrag fastsatt til kr 0, anses i denne sammenheng også som et løpende bidrag.",
+        "(2) Innkrevingsmyndighetens kompetanse til å ettergi krav etter innkrevingsloven § 20 gjelder ikke\na. forsinkelsesrenter og gebyr ved forsinket betaling mv. som kreves inn på vegne av utenlandsk myndighet, med mindre slik myndighet er uttrykkelig delegert\nb. forsinkelsesrenter på ansvarskrav etter innkrevingsloven § 31 som er knyttet til et krav Innkrevingsmyndigheten ikke selv har innkrevingsansvar for."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-2-paragraf-4",
+       "nummer": "§ 3-4",
+       "tittel": "Adgang til å avslutte innkrevingen av krav til privat kreditor og enkelte ansvarskrav",
+       "ledd": [
+        "(1) Innkrevingsmyndigheten kan avslutte innkrevingen av den delen av et bidragskrav som tilfaller en privat bidragsmottaker når det ikke er registrert innbetalinger på kravet de siste 10 årene. Dette gjelder likevel ikke dersom det fortsatt er løpende bidrag mot den bidragspliktige.",
+        "(2) Når det er gjort ett forsøk på å sikre kravet ved utlegg, kan Innkrevingsmyndigheten avslutte innkrevingen av et ansvarskrav etter innkrevingsloven § 31 som er knyttet til et krav som Innkrevingsmyndigheten ikke selv har innkrevingsansvar for. Innkrevingsmyndigheten kan i særlige tilfeller overlate gjennomføringen av tvangsdekningen til privat kreditor. Innkrevingsmyndigheten kan også avslutte innkrevingen, uten å ha gjort et forsøk på å innkreve kravet, når det samlede ansvarskravet utgjør et beløp under to ganger rettsgebyret, eller dersom det åpnes konkurs, rekonstruksjon eller gjeldsordning mot den trekkpliktige."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Taushetsplikt, opplysningsplikt og informasjonsbehandling",
+   "innhold": [
+    {
+     "type": "seksjon",
+     "id": "kapittel-2-kapittel-1",
+     "navn": null,
+     "overskrift": "Tredjeparts opplysningsplikt",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-1",
+       "nummer": "§ 11-1",
+       "tittel": "Opplysningsplikt for offentlige myndigheter, innretninger mv. og tjenestemenn",
+       "ledd": [
+        "(1) Uten hinder av taushetsplikt som de ellers har, og etter krav fra Innkrevingsmyndigheten, skal\na. skattemyndighetene gi opplysninger om beregnet forskuddstrekk, skattetrekk, forskuddsskatt, beløp til utbetaling, inntektsopplysninger, formuesgoder, eierforhold og rettighetshavere samt øvrige opplysninger som fremgår av skattemeldingen og skatte- og avgiftsoppgjør, og grunnlaget for dem\nb. tollmyndighetene gi opplysninger om beløp til utbetaling samt opplysninger om tilbakeholdte eller beslaglagte pengebeløp mv.\nc. offentlige myndigheter og innretninger som fastsetter offentlige avgifter eller utbetaler erstatninger, tilskudd, refusjoner, bidrag, trygder, stønader, lån mv., gi opplysninger om de fastsatte krav, renter, gjeld, utbetalte beløp og beløp til utbetaling samt grunnlaget for dem\nd. Arbeids- og velferdsdirektoratet gi opplysninger om arbeidsforhold registrert i Arbeidsgiver- og arbeidstakerregisteret (Aa-registeret)\ne. politiet gi opplysninger om tilbakeholdte og beslaglagte formuesgoder mv., samt formuesgoder det er tatt heftelse i.",
+        "(2) Når Innkrevingsmyndigheten krever det, skal opplysninger som nevnt i første ledd bokstav a også gis om skyldners ektefelle eller samboer."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-2",
+       "nummer": "§ 11-2",
+       "tittel": "Levering av opplysninger",
+       "ledd": [
+        "(1) Når opplysninger etter innkrevingsloven § 11 skal gis, kan Innkrevingsmyndigheten\na. bestemme at opplysningene skal leveres i et strukturert, alminnelig anvendt og maskinlesbart format\nb. bestemme at opplysningene skal gis muntlig.",
+        "(2) Opplysningene skal leveres innen den frist som Innkrevingsmyndigheten fastsetter."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-3",
+       "nummer": "§ 11-3",
+       "tittel": "Innhenting av opplysninger gjennom en automatisert oppslagstjeneste",
+       "ledd": [
+        "(1) Banker og andre finansforetak kan gi opplysninger etter innkrevingsloven § 11 første ledd gjennom en automatisert oppslagstjeneste. Med automatisert oppslagstjeneste menes en teknisk løsning der opplysninger gjøres tilgjengelige gjennom et felles teknisk grensesnitt mellom innkrevingsmyndigheten og finansforetaket, i et forhåndsdefinert format og uten manuell behandling fra finansforetakets side.",
+        "(2) Oppslagstjenesten kan benyttes til innhenting av følgende opplysninger:\na. kontoeierskap\nb. kontotype\nc. saldo og beholdning\nd. registrerte heftelser.",
+        "(3) Innkrevingsmyndigheten skal blant annet sørge for sikker autentisering av forespørselen, angivelse av hjemmelen for forespørselen og logging av forespørsler og svar. Innkrevingsmyndigheten skal ha rutiner for å minimere og slette overskuddsinformasjon. Opplysningene som gis gjennom oppslagstjenesten, skal krypteres. Innkrevingsmyndigheten skal begrense hvilke ansatte som har tilgang til oppslagstjenesten, og tilgangen skal begrenses i omfang og tid etter den ansattes tjenstlige behov. Innkrevingsmyndigheten skal jevnlig føre kontroll med bruken av oppslagstjenesten, herunder ved bruk av automatisert logganalyse."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-2-kapittel-2",
+     "navn": null,
+     "overskrift": "Forskrift om adgangen til utlevering av opplysninger og annen behandling av taushetsbelagte opplysninger",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-2-paragraf-1",
+       "nummer": "§ 14-1",
+       "tittel": "Utlevering av opplysninger til offentlige myndigheter",
+       "ledd": [
+        "Innkrevingsmyndigheten kan uten hinder av taushetsplikten etter innkrevingsloven § 9 utlevere opplysninger knyttet til innkrevingsarbeidet til\na. skattemyndighetene til bruk i sitt arbeid med skatt og avgift\nb. tollmyndighetene til bruk i sitt arbeid med vareførsel og tollavgift\nc. Arbeids- og velferdsetaten til bruk i sitt arbeid med trygder, tilskudd eller bidrag av offentlige midler, samt underholdsbidrag\nd. namsfogden til bruk i sitt arbeid med tvangsfullbyrdelse, midlertidig sikring og gjeldsordninger\ne. Direktoratet for byggkvalitet til bruk i sitt arbeid med sentral godkjenning for ansvarsrett\nf. Statistisk sentralbyrå til bruk i sitt arbeid med statistikk\ng. Norges Bank når det er nødvendig for å oppfylle formålet med sentralbankvirksomheten, for å løse oppgaver banken er pålagt etter annen lov eller for å overholde Norges avtaler med fremmed stat eller internasjonal organisasjon\nh. kommunene til bruk i sitt arbeid med utleggstrekk\ni. Kriminalomsorgen til bruk i sitt arbeid med bøtesoning\nj. Nasjonal sikkerhetsmyndighet til bruk i sitt arbeid med personkontroll\nk. Folkeregistermyndigheten til bruk i sitt arbeid med registerføringen\nl. offentlige myndigheter som nevnt i a-kriminformasjonsforskriften § 3 til bruk i sitt arbeid med å forebygge, avdekke, forhindre eller sanksjonere arbeidslivskriminalitet."
+       ],
+       "endringer": [
+        "Endret ved forskrift 24 aug 2026 nr. 1662."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-2-paragraf-2",
+       "nummer": "§ 14-2",
+       "tittel": "Opplysninger som kan utleveres",
+       "ledd": [
+        "Når det er nødvendig for å løse oppgaver som nevnt i § 14-1, kan blant annet opplysninger om følgende forhold utleveres:\na. krav til innkreving og beløp til utbetaling\nb. betalingsavtaler og ettergivelse\nc. fordringsanmeldelser i forbindelse med gjeldsordning, konkurs eller rekonstruksjon\nd. avregning eller motregning\ne. utlegg\nf. beslagsfrihet og avsetning til livsopphold etter dekningsloven kapittel 2\ng. formuesforhold\nh. adresser og geografiske steder der en skyldner eller et formuesgode antas å befinne seg."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-2-paragraf-3",
+       "nummer": "§ 14-3",
+       "tittel": "Utlevering av opplysninger til kravseier",
+       "ledd": [
+        "(1) Innkrevingsmyndigheten kan, uten hinder av taushetsplikt etter innkrevingsloven § 9, utlevere opplysninger knyttet til innkrevingsarbeidet, til organ som eier krav som Innkrevingsmyndigheten er pålagt å kreve inn etter innkrevingsforskriften § 2-1.",
+        "(2) Utlevering av opplysninger etter første ledd kan blant annet omfatte opplysninger om restanser, betalingsavtaler, ettergivelse, tvangsfullbyrdelse og midlertidig sikring."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Renter og dekningsrekkefølge",
+   "innhold": [
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-1",
+     "navn": null,
+     "overskrift": "Renter og gebyr mv. ved forsinket betaling",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-1",
+       "nummer": "§ 15-1",
+       "tittel": "Renter ved forsinket betaling",
+       "ledd": [
+        "Det skal ikke løpe rente etter innkrevingsloven § 15 første ledd for følgende krav:\n- byggesaksgebyr ilagt av Arbeidstilsynet med hjemmel i arbeidsmiljøloven\n- etteroppgjør uførepensjon etter folketrygdloven § 12-14\n- etteroppgjør omstillingsstønad etter folketrygdloven § 17-9\n- etteroppgjør med hjemmel i AFP-tilskottsloven § 15\n- etteroppgjør med hjemmel i lov om AFP for medlemmer av Statens pensjonskasse § 3 bokstav d\n- feilutbetalt bidrag etter bidragsinnkrevingsloven § 26\n- feilutbetalt bidragsforskudd etter forskotteringsloven § 8\n- folketrygdens regresskrav (refusjonskrav) ved utbetaling av bidragsforskudd etter forskotteringsloven § 10\n- forsinkelsesgebyr med hjemmel i aksjeloven av 1976\n- forsinkelsesgebyr med hjemmel i regnskapsloven\n- inndragning ilagt i en offentlig straffesak\n- krav som kun avregnes etter folketrygdloven § 22-16\n- overtredelsesgebyr ilagt av Arbeidstilsynet med hjemmel i arbeidsmiljøloven\n- overtredelsesgebyr med hjemmel i folkeregisterloven\n- overtredelsesgebyr med hjemmel i havne- og farvannsloven\n- overtredelsesgebyr med hjemmel i kassasystemlova\n- overtredelsesgebyr med hjemmel i klimakvoteloven\n- overtredelsesgebyr med hjemmel i skatteforvaltningsloven\n- overtredelsesgebyr med hjemmel i vegtrafikkloven\n- pålegg om å betale bidrag på nytt etter bidragsinnkrevingsloven § 27\n- tilbakebetalingskrav for utbetalt bostøtte med hjemmel i bustøttelova\n- tvangsbot fastsatt med hjemmel i barnelova\n- tvangsmulkt ilagt av Arbeidstilsynet med hjemmel i arbeidsmiljøloven\n- tvangsmulkt ilagt av Sjøfartsdirektoratet med hjemmel i produktkontrolloven\n- tvangsmulkt ilagt av Statens vegvesen med hjemmel i forbrukermerkeloven\n- tvangsmulkt med hjemmel i kassasystemlova\n- tvangsmulkt med hjemmel i likestillings- og diskrimineringsloven\n- tvangsmulkt med hjemmel i lov om register over reelle rettighetshavere\n- tvangsmulkt med hjemmel i plan- og bygningsloven\n- tvangsmulkt med hjemmel i sivilbeskyttelsesloven\n- tvangsmulkt med hjemmel i skatteforvaltningsloven\n- tvangsmulkt med hjemmel i skipssikkerhetsloven\n- tvangsmulkt med hjemmel i svalbardmiljøloven\n- tvangsmulkt med hjemmel i vegtrafikkloven\n- underholdsbidrag som påhviler noen etter barnelova, ekteskapsloven eller barnevernsloven."
+       ],
+       "endringer": [
+        "Endret ved forskrifter 11 des 2025 nr. 2494 (i kraft 1 jan 2026), 24 feb 2026 nr. 274."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-1-paragraf-2",
+       "nummer": "§ 15-2",
+       "tittel": "Gebyr ved mislighold av underholdsbidrag",
+       "ledd": [
+        "(1) Det påløper gebyr ved mislighold av løpende underholdsbidrag for ektefelle eller barn når bidraget kreves inn etter reglene i innkrevingsloven. Det samme gjelder ved mislighold av nedbetalingsavtale for bidragsgjeld. Gebyret tilfaller staten.",
+        "(2) Gebyr påløper når den enkelte termin av løpende underholdsbidrag eller den enkelte termin i henhold til nedbetalingsordning av bidragsgjeld helt eller delvis ikke er betalt ved forfall. Det påløper ikke gebyr der det løpende underholdsbidraget kreves inn ved utleggstrekk etter innkrevingsloven § 27.",
+        "(3) Gebyret er på 1/3 av rettsgebyret."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-2",
+     "navn": null,
+     "overskrift": "Innkrevingsmyndighetens dekningsrekkefølge",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-2-paragraf-1",
+       "nummer": "§ 16-1",
+       "tittel": "Dekningsrekkefølge ved motregning",
+       "ledd": [
+        "(1) Der Innkrevingsmyndigheten har adgang til å dekke flere krav ved motregning, men hvor disponibelt beløp ikke er tilstrekkelig til å dekke alle kravene, dekkes disse i den rekkefølgen som er satt opp i dekningsloven § 2-8 første og andre ledd. Der flere motkrav har lik rett til dekning etter første punktum, fordeles disponibelt beløp som angitt i §§ 16-2 til 16-6.",
+        "(2) Innkrevingsmyndigheten er ikke forpliktet til å dekke krav som den har betryggende sikkerhet for.",
+        "(3) Der det foreligger en særlig tilknytning mellom hovedkrav og motkrav, kan Innkrevingsmyndigheten fravike dekningsrekkefølgen som følger av første ledd."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-2-paragraf-2",
+       "nummer": "§ 16-2",
+       "tittel": "Dekningsrekkefølge ved motregning – lovbestemt underholdsbidrag",
+       "ledd": [
+        "(1) Dersom det er flere motkrav som nevnt i dekningsloven § 2-8 første ledd bokstav a, fordeles disponibelt beløp slik:\na. forfalt underholdsbidrag for siste 6 måneder, slik at kravet for nyeste periode dekkes først\nb. særtilskudd etter barnelova § 67 andre ledd\nc. øvrige krav, slik at krav for eldste periode dekkes først.",
+        "(2) Har flere motkrav lik rett til dekning etter første ledd, fordeles disponibelt beløp forholdsmessig utfra kravenes størrelse på tidspunkt for fordeling."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-2-paragraf-3",
+       "nummer": "§ 16-3",
+       "tittel": "Dekningsrekkefølge ved motregning – erstatningskrav",
+       "ledd": [
+        "(1) Dersom det er flere motkrav som nevnt i dekningsloven § 2-8 første ledd bokstav b, fordeles disponibelt beløp slik:\na. hovedstoler\nb. forsinkelsesrenter.",
+        "(2) Har flere motkrav lik rett til dekning etter første ledd, fordeles disponibelt beløp forholdsmessig utfra kravenes størrelse på tidspunktet for fordeling."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-2-paragraf-4",
+       "nummer": "§ 16-4",
+       "tittel": "Dekningsrekkefølge ved motregning – bøter",
+       "ledd": [
+        "(1) Dersom det er flere motkrav som nevnt i dekningsloven § 2-8 første ledd bokstav c, fordeles disponibelt beløp slik:\na. bøtekrav yngre enn 5 år\nb. øvrige bøtekrav\nc. omkostninger\nd. forsinkelsesrenter og gebyrer ved forsinket betaling.",
+        "(2) Har flere motkrav lik rett til dekning etter første ledd, dekkes kravet med det tidligste forfallstidspunktet først. For forsinkelsesrenter benyttes forfallstidspunktet for hovedstolen. Har flere motkrav lik forfallsdato, fordeles disponibelt beløp forholdsmessig utfra kravenes størrelse på tidspunktet for fordeling."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-2-paragraf-5",
+       "nummer": "§ 16-5",
+       "tittel": "Dekningsrekkefølge ved motregning – regresskrav, skatte- og avgiftskrav mv.",
+       "ledd": [
+        "(1) Dersom det er flere motkrav som nevnt i dekningsloven § 2-8 bokstav d, fordeles disponibelt beløp slik:\na. hovedstoler\nb. forsinkelsesrenter og gebyrer ved forsinket betaling.",
+        "(2) Har flere motkrav lik rett til dekning etter første ledd, dekkes kravet med det tidligste forfallstidspunktet først. For forsinkelsesrenter benyttes forfallstidspunktet for hovedstolen. Har flere motkrav lik forfallsdato, fordeles disponibelt beløp forholdsmessig utfra kravenes størrelse på tidspunktet for fordeling."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-3-kapittel-2-paragraf-6",
+       "nummer": "§ 16-6",
+       "tittel": "Dekningsrekkefølge ved motregning – andre krav",
+       "ledd": [
+        "(1) Dersom det er flere motkrav som nevnt i dekningsloven § 2-8 bokstav e, fordeles disponibelt beløp slik:\na. hovedstoler\nb. forsinkelsesrenter og gebyrer ved forsinket betaling.",
+        "(2) Har flere motkrav lik rett til dekning etter første ledd, dekkes kravet med det tidligste forfallstidspunktet først. For forsinkelsesrenter benyttes forfallstidspunktet for hovedstolen. Har flere motkrav lik forfallsdato, fordeles disponibelt beløp forholdsmessig utfra kravenes størrelse på tidspunktet for fordeling."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Motregning, avregning, utlegg samt tvangsdekning i enkle pengekrav",
+   "innhold": [
+    {
+     "type": "seksjon",
+     "id": "kapittel-4-kapittel-1",
+     "navn": null,
+     "overskrift": "Motregning",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-4-kapittel-1-paragraf-1",
+       "nummer": "§ 21-1",
+       "tittel": "Innmelding av kommunale motkrav",
+       "ledd": [
+        "Innkrevingsmyndigheten gjennomfører motregning for kommunale krav med motregningsadgang etter innkrevingsloven § 21 sjuende ledd så langt motkravene er meldt inn og oppdatert på den måten Innkrevingsmyndigheten bestemmer."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-4-kapittel-1-paragraf-2",
+       "nummer": "§ 21-2",
+       "tittel": "Saker om beslagsfrihet ved dekning av kommunale motkrav",
+       "ledd": [
+        "(1) Har en motregning dekket både motkrav som innkreves av Innkrevingsmyndigheten og kommunale motkrav, er det Innkrevingsmyndigheten som skal treffe avgjørelser om beslagsfrihet etter dekningsloven kapittel 2.",
+        "(2) Har en motregning kun dekket kommunale motkrav, er det kommunen som skal treffe avgjørelser om beslagsfrihet etter dekningsloven kapittel 2."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-4-kapittel-2",
+     "navn": null,
+     "overskrift": "Utlegg",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-4-kapittel-2-paragraf-1",
+       "nummer": "§ 23-1",
+       "tittel": "Gebyr ved utlegg",
+       "ledd": [
+        "(1) Når Innkrevingsmyndigheten sender varsel om utlegg som nevnt i innkrevingsloven § 25, skal skyldneren betale et gebyr på 0,345 ganger rettsgebyret. Det betales ikke gebyr ved gjentatt varsel etter innkrevingsloven § 26 første ledd tredje punktum.",
+        "(2) Når Innkrevingsmyndigheten treffer beslutning om utleggspant, utleggstrekk eller intet til utlegg etter innkrevingsloven § 23, skal skyldneren betale et gebyr på 0,345 ganger rettsgebyret. Ved unnlatt varsel etter innkrevingsloven § 25 tredje ledd er gebyret etter første punktum 0,69 ganger rettsgebyret.",
+        "(3) Det betales ikke gebyr ved varsel og beslutning som utelukkende gjelder utlegg for underholdsbidrag mv. og tvangsbot etter barnelova § 65."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-4-kapittel-3",
+     "navn": null,
+     "overskrift": "Varsel før avregning, utlegg og tvangsdekning i enkle pengekrav",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-4-kapittel-3-paragraf-1",
+       "nummer": "§ 25-1",
+       "tittel": "Krav til varsel før beslutning om utlegg",
+       "ledd": [
+        "(1) Varsel om utlegg skal inneholde informasjon om at ytterligere gebyr kan påløpe, og at skyldner kan unngå utlegg hvis kravet med renter og kostnader blir betalt før fristen i varselet er utløpt. Skyldner skal oppfordres til å uttale seg om forhold av betydning for om utlegg skal tas og om valg av gjenstand for utlegget, samt gjøres oppmerksom på bestemmelsene i dekningsloven kapittel 2 om hva som kan unntas fra utlegg. Skal Innkrevingsmyndigheten gjennomføre utlegg der et formuesgode er, må skyldneren varsles om tid og sted for oppmøtet.",
+        "(2) Skyldner skal få vite hvilke opplysninger Innkrevingsmyndigheten har om vedkommende, og som er av betydning for en beslutning der utleggstrekkets størrelse skal fastsettes. Innkrevingsmyndigheten skal gi skyldner opplysninger om\na. skyldnerens inntekt og om hvordan inntekten er beregnet\nb. forskuddstrekk i skyldnerens inntekt som er lagt til grunn ved beregningen\nc. hvilke livsoppholdssatser som gjelder for skyldneren og skyldnerens husstand\nd. skyldnerens øvrige utgifter til et rimelig livsopphold som Innkrevingsmyndigheten kjenner til eller har stipulert.",
+        "(3) Innkrevingsmyndigheten skal gjøre skyldner oppmerksom på at opplysningene nevnt i andre ledd vil bli lagt til grunn, med mindre andre opplysninger blir sannsynliggjort.",
+        "(4) Løper det allerede et utleggstrekk mot skyldner, skal Innkrevingsmyndigheten i varselet opplyse om trekkets størrelse og gi opplysningene etter andre ledd bokstav c og d. Samtidig skal skyldneren få opplysninger om hvor beregningsgrunnlaget for trekket finnes tilgjengelig, og hvordan skyldner skal gå frem dersom skyldner er uenig i opplysningene som er lagt til grunn i beregningsgrunnlaget."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-4-kapittel-3-paragraf-2",
+       "nummer": "§ 25-2",
+       "tittel": "Krav til varsel før beslutning om avregning",
+       "ledd": [
+        "(1) I varsel om avregning skal skyldner oppfordres til å uttale seg om forhold av betydning for avregningen.",
+        "(2) Skyldner skal få vite hvilke opplysninger Innkrevingsmyndigheten har om vedkommende, og som har betydning for beslutningen om størrelsen på avregningen. Skyldner skal få de opplysninger som følger av § 25-1 andre ledd. Innkrevingsmyndigheten skal gjøre skyldner oppmerksom på at disse opplysningene vil bli lagt til grunn, med mindre andre opplysninger blir sannsynliggjort. Løper det et utleggstrekk mot skyldner, kan Innkrevingsmyndigheten unnlate å gi skyldner opplysninger som følger av § 25-1 andre ledd."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-4-kapittel-4",
+     "navn": null,
+     "overskrift": "Beslutning og underretning mv.",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-4-kapittel-4-paragraf-1",
+       "nummer": "§ 26-1",
+       "tittel": "Krav til nedtegning av opplysninger og begrunnelse",
+       "ledd": [
+        "(1) Når Innkrevingsmyndigheten beslutter utlegg etter innkrevingsloven § 23, skal den nedtegne datoen og tidspunktet beslutningen ble tatt og angi partene i saken. Blir beslutning om utlegg tatt ved skyldnerens bopel, forretningssted, driftssted, eller andre steder der formuesgodet befinner seg, skal stedet angis. Ved beslutning om utleggspant skal en vurdering av eierforholdene til formuesgodet nedtegnes. Der Innkrevingsmyndigheten beslutter utleggstrekkets størrelse, skal beregningen som ligger til grunn for beslutningen fremkomme.",
+        "(2) Når Innkrevingsmyndigheten tar en beslutning som nevnt i innkrevingsloven § 22, skal krav som innkreves ved avregningen angis. Det skal opplyses om hvordan avregningen vil bli gjennomført. Beregningen som ligger til grunn for avregningens størrelse, skal fremkomme.",
+        "(3) Når Innkrevingsmyndigheten beslutter tvangsdekning etter innkrevingsloven § 24, skal den nedtegne datoen beslutningen ble tatt og angi partene i saken. Utlegget som er tvangsgrunnlag ved tvangsdekningen og de krav som er sikret ved utlegget, skal angis."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-4-kapittel-5",
+     "navn": null,
+     "overskrift": "Utleggstrekk for bidragsforpliktelser",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-4-kapittel-5-paragraf-1",
+       "nummer": "§ 27-1",
+       "tittel": "Unnlatelse av varsel og beslutning mv.",
+       "ledd": [
+        "(1) Hvis en bidragsforpliktelse allerede deltar i et utleggstrekk, kan Innkrevingsmyndigheten melde ytterligere bidragsforpliktelser inn i utleggstrekket uten at kravet er misligholdt etter tvangsfullbyrdelsesloven § 4-4, og uten at det er sendt varsel etter tvangsfullbyrdelsesloven § 4-18 og innkrevingsloven § 25.",
+        "(2) Innkrevingsmyndigheten kan unnlate å fatte beslutning etter innkrevingsloven § 26 når den melder inn krav i trekket etter første ledd, dersom den ytterligere bidragsforpliktelsen knytter seg til de samme personer som den bidragsforpliktelsen som allerede deltar i trekket.",
+        "(3) Første og andre ledd gjelder ikke ved innkreving av særtilskudd etter barnelova § 67 andre ledd. Ved økning av et særtilskudd som deltar i et utleggstrekk, gjelder første og andre ledd når økningen meldes inn i trekket."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap7",
+   "overskrift": "Kapittel 7. Gjennomføring av utleggstrekk",
+   "innhold": [
+    {
+     "type": "seksjon",
+     "id": "kapittel-5-kapittel-1",
+     "navn": null,
+     "overskrift": "Den trekkpliktiges ansvar",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-5-kapittel-1-paragraf-1",
+       "nummer": "§ 31-1",
+       "tittel": "Renter ved forsinket betaling av trekkbeløp",
+       "ledd": [
+        "(1) Den trekkpliktige skal betale rente av trekkbeløp som ikke betales innen forfall, jf. innkrevingsloven § 30 andre ledd. Dette gjelder likevel bare der skyldneren er godskrevet trekkbeløpet etter innkrevingsloven § 34. Dersom Innkrevingsmyndigheten ikke er kjent med forfallstidspunktet for trekkbeløpet, skal rente beregnes fra den første virkedagen i måneden etter at trekket skulle ha vært gjennomført.",
+        "(2) Innbetalte forsinkelsesrenter tilfaller kreditorene som hadde krav på dekning gjennom utleggstrekket på tidspunktet trekket skulle ha vært gjennomført. Rentene fordeles på samme måte som trekkbeløpet, jf. dekningsloven § 2-8.",
+        "(3) Rentesatsen er satsen fastsatt etter forsinkelsesrenteloven § 3 første ledd første punktum. Forsinkelsesrenteloven § 2 andre ledd gjelder tilsvarende."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-5-kapittel-2",
+     "navn": null,
+     "overskrift": "Trekkets frigjørende virkning",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-5-kapittel-2-paragraf-1",
+       "nummer": "§ 34-1",
+       "tittel": "Tidspunktet for godskriving av trekkbeløpet",
+       "ledd": [
+        "Skyldneren skal godskrives trekkbeløpet fra den 1. i måneden utleggstrekket er gjennomført i skyldners lønn mv."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-5-kapittel-2-paragraf-2",
+       "nummer": "§ 34-2",
+       "tittel": "Beslutning om at utleggstrekk ikke skal ha frigjørende virkning",
+       "ledd": [
+        "Innkrevingsmyndigheten kan beslutte at et utleggstrekk som er foretatt i en utbetaling til skyldneren ikke skal ha frigjørende virkning, dersom skyldner ut fra sin tilknytning til den trekkpliktige hadde eller kunne øve innflytelse på de forhold som førte til trekkmisligholdet."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap8",
+   "overskrift": "Kapittel 8. Rettergang og straff",
+   "innhold": [
+    {
+     "type": "seksjon",
+     "id": "kapittel-6-kapittel-1",
+     "navn": null,
+     "overskrift": "Rettergang",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-6-kapittel-1-paragraf-1",
+       "nummer": "§ 36-1",
+       "tittel": "Utøvelse av partsstilling",
+       "ledd": [
+        "(1) Innkrevingsmyndigheten utøver partsstillingen til staten og privat kreditor i saker for domstolene og de alminnelige namsmyndighetene om tvangsfullbyrdelse, avregning, motregning, konkurs, gjeldsforhandling, gjeldsordning, midlertidig sikring, dødsboskifte, tvangsakkord og rekonstruksjon.",
+        "(2) Innkrevingsmyndigheten utøver partsstillingen til staten ved søksmål for domstolene i forbindelse med innkrevingen, og kan herunder reise og ta imot søksmål."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kap9",
+   "overskrift": "Kapittel 9. Sluttbestemmelser",
+   "innhold": [
+    {
+     "type": "seksjon",
+     "id": "kapittel-7-kapittel-1",
+     "navn": null,
+     "overskrift": "Ikrafttredelse og overgangsbestemmelser",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-7-kapittel-1-paragraf-1",
+       "nummer": "§ 40-1",
+       "tittel": "Ikrafttredelse",
+       "ledd": [
+        "Denne forskrift trer i kraft 1. januar 2026, med unntak for §§ 16-1 til 16-6, 21-1, 21-2, 23-1, 25-2 andre ledd, 26-1 andre ledd tredje punktum og 31-1, hvor forskriften gjelder fra 1. januar 2027. §§ 27-1, 34-1 og 34-2 kommer gradvis til anvendelse samtidig med innkrevingsloven §§ 27 og 34."
+       ],
+       "endringer": [
+        "Endret ved forskrift 11 des 2025 nr. 2494 (i kraft 1 jan 2026)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-7-kapittel-1-paragraf-2",
+       "nummer": "§ 40-2",
+       "tittel": "Overgangsbestemmelse",
+       "ledd": [
+        "Frem til 1. januar 2027 kan Innkrevingsmyndigheten unnlate å fatte beslutning etter innkrevingsloven § 26 når den melder inn krav i trekket etter innkrevingsforskriften § 27-1 første ledd."
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

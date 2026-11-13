@@ -1,0 +1,599 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2007-10-05-1112",
+ "dokumentid": "SF/forskrift/2007-10-05-1112",
+ "departement": [
+  "Samferdselsdepartementet"
+ ],
+ "etat": [
+  "Luft-, post- og teleavd."
+ ],
+ "kunngjort_i": "I 2007 hefte 10 (Vedlegg i pdf-format)",
+ "ikraft": "2007-10-05",
+ "siste_endring_ikraft": "2009-03-19",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2009-03-19-345",
+   "tekst": "forskrift/2009-03-19-345"
+  }
+ ],
+ "endrer": "forskrift/2007-06-05-582",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1993-06-11-101/§4-8",
+   "tekst": "lov/1993-06-11-101/§4-8"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§13-1",
+   "tekst": "lov/1993-06-11-101/§13-1"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§15-4",
+   "tekst": "lov/1993-06-11-101/§15-4"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§16-1",
+   "tekst": "lov/1993-06-11-101/§16-1"
+  }
+ ],
+ "kunngjort": "2007-10-10 11:10",
+ "korttittel": "Forskrift om bakkeinspeksjoner av luftfartøy",
+ "tittel": "Forskrift om inspeksjoner på bakken av luftfartøy",
+ "annet": "Hjemmel: Fastsatt av Samferdselsdepartementet 5. oktober 2007 med hjemmel i lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven) § 4-8, § 13-1, § 15-4 og § 16-1.\nEØS-henvisninger: EØS-avtalen vedlegg XIII nr. 66r (direktiv 2004/36/EF), nr. 66ra (forordning (EF) nr. 768/2006) og nr. 66rb (forordning (EF) nr. 351/2008).\nEndret ved forskrift 19 mars 2009 nr. 345.",
+ "refid": "forskrift/2007-10-05-1112",
+ "eli": "/eli/forskrift/2007/10/05/1112",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2007-10-05-1112",
+ "innhold": [
+  {
+   "type": "tekst",
+   "tekst": "Til forskriften er knyttet følgende vedlegg som gjelder som forskrift:\nVedlegg I: Inspeksjonsprosedyre for inspeksjoner på bakken (SAFA-inspeksjon)."
+  },
+  {
+   "type": "endring",
+   "tekst": "Endret ved forskrift 19 mars 2009 nr. 345."
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Formål",
+   "ledd": [
+    "Denne forskriften har til formål å etablere og opprettholde et høyt og ensartet sikkerhetsnivå i sivil luftfart i Europa. Den skal bidra til å innføre en harmonisert tilnærming til effektiv håndheving av internasjonale sikkerhetsstandarder, ved å harmonisere reglene og fremgangsmåtene for inspeksjoner på bakken."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Virkeområde",
+   "ledd": [
+    "(1) Forskriften gjelder for inspeksjoner på bakken av tredjestats luftfartøy som lander på norske lufthavner, med unntak av statlige luftfartøy som definert i konvensjonen om internasjonal sivil luftfart, undertegnet 7. desember 1944 (heretter Chicago-konvensjonen) og luftfartøy med en største tillatte startvekt på under 5 700 kg, som ikke driver kommersiell lufttransport.",
+    "(2) Forskriften gjelder ikke for Svalbard."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Gjennomføring av bestemmelser i EØS-avtalen",
+   "ledd": [
+    "EØS-avtalens vedlegg XIII nr. 66rb (forordning (EF) nr. 351/2008) om gjennomføring av europaparlaments- og rådsdirektiv 2004/36/EF når det gjelder prioritering av inspeksjoner på bakken for luftfartøyer som benytter lufthavner i Fellesskapet, gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig."
+   ],
+   "endringer": [
+    "Endret ved forskrift 19 mars 2009 nr. 345."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Definisjoner",
+   "ledd": [
+    "I denne forskrift menes:\na. startforbud: formelt forbud for et luftfartøy mot å forlate en lufthavn, samt de tiltak som er nødvendige for å tilbakeholde det,\nb. internasjonale sikkerhetsstandarder: de av sikkerhetsstandardene fastsatt i Chicago-konvensjonen og dens vedlegg som er i kraft når inspeksjonen finner sted,\nc. inspeksjoner på bakken: inspeksjon av luftfartøy utført i samsvar med § 6 og vedlegg I,\nd. tredjestats luftfartøy: et luftfartøy som ikke brukes eller drives under tilsyn av vedkommende myndighet i en medlemsstat."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Innhenting av opplysninger",
+   "ledd": [
+    "(1) Luftfartstilsynet skal etablere en ordning for innsamling av alle de opplysningene som kan være nyttige for å nå målet beskrevet i § 1, herunder følgende:\na. viktige sikkerhetsopplysninger som særlig kan innhentes gjennom:\n1. rapporter fra flygere,\n2. rapporter fra vedlikeholdsorganisasjoner,\n3. rapporter om hendelser,\n4. andre organisasjoner, uavhengig av vedkommende myndigheter i medlemsstatene,\n5. klager.\nb. opplysninger om tiltak iverksatt som følge av en gjennomført inspeksjon på bakken, for eksempel:\n1. startforbud for et luftfartøy,\n2. utestenging av et luftfartøy eller luftfartsselskap fra den aktuelle medlemsstaten,\n3. krav om korrigerende tiltak,\n4. kontakt med luftfartsselskapets vedkommende myndighet.\nc. oppfølgende opplysninger om luftfartsselskapet, for eksempel:\n1. om korrigerende tiltak som er iverksatt,\n2. om gjentatte avvik.",
+    "(2) Disse opplysningene skal registreres på et standard rapporteringsskjema som inneholder punktene oppført i standardrapporten i vedlegg I."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "Inspeksjoner på bakken",
+   "ledd": [
+    "(1) Luftfartstilsynet skal sikre at det foretas inspeksjon på bakken av alle tredjestaters luftfartøyer som mistenkes for ikke å oppfylle internasjonale sikkerhetsstandarder, og som lander på en av medlemsstatenes lufthavner som er åpen for internasjonal lufttrafikk. Ved gjennomføringen av slike framgangsmåter skal Luftfartstilsynet kontrollere luftfartøyet særlig grundig i følgende tilfeller:\na. når det er mottatt opplysninger som tyder på dårlig vedlikeholdstilstand eller åpenbare mangler eller feil ved luftfartøyet,\nb. når det er rapportert at luftfartøyet har vist unormale manøvrer etter innflyging i en medlemsstats luftrom, slik at det gir grunn til alvorlig bekymring for sikkerheten,\nc. når en tidligere inspeksjon på bakken av luftfartøyet har avdekket mangler som gir grunn til alvorlig usikkerhet om hvorvidt det oppfyller internasjonale sikkerhetsstandarder, og når medlemsstaten frykter at manglene ikke er blitt utbedret,\nd. når det foreligger indikasjoner på at vedkommende myndigheter i registreringslandet ikke fører tilstrekkelig sikkerhetstilsyn, eller\ne. når opplysninger innhentet i samsvar med § 5 gir grunn til betenkeligheter med hensyn til luftfartsselskapet, eller når en tidligere inspeksjon på bakken av et luftfartøy som benyttes av samme luftfartsselskap, har avdekket mangler.",
+    "(2) Luftfartstilsynet skal gjennomføre inspeksjoner på bakken i form av stikkprøvekontroller når det ikke foreligger noen bestemt mistanke, forutsatt at slike regler er i samsvar med fellesskapsretten og folkeretten. Slike stikkprøvekontroller skal gjennomføres på en ikke-diskriminerende måte.",
+    "(3) Inspeksjoner på bakken skal gjennomføres i samsvar med framgangsmåten fastsatt i § 7. Etter at inspeksjonen på bakken er gjennomført, skal fartøysjefen eller en representant for luftfartøyet underrettes om resultatene av inspeksjonen, og dersom det ble avdekket betydelige mangler, skal rapporten sendes til luftfartøyets luftfartsselskap og til de berørte vedkommende myndigheter.",
+    "(4) Luftfartstilsynet skal gjøre sitt ytterste for å unngå å forsinke luftfartøyet unødig."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 7",
+   "tittel": "Gjennomføring av inspeksjoner på bakken",
+   "ledd": [
+    "Inspeksjoner på bakken skal gjennomføres iht. inspeksjonsprosedyre for inspeksjoner på bakken (SAFA-inspeksjon), jf. vedlegg I til denne forskriften."
+   ],
+   "endringer": [
+    "Endret ved forskrift 19 mars 2009 nr. 345."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-8",
+   "nummer": "§ 7a",
+   "tittel": "Kvalifikasjonskrav for SAFA-inspektører",
+   "ledd": [
+    "Luftfartstilsynet skal sikre at alle SAFA-inspektører oppfyller kvalifikasjonskrav som fremkommer i vedlegg I til denne forskriften."
+   ],
+   "endringer": [
+    "Tilføyd ved forskrift 19 mars 2009 nr. 345."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-9",
+   "nummer": "§ 8",
+   "tittel": "Utveksling av opplysninger",
+   "ledd": [
+    "(1) Luftfartstilsynet skal delta i en gjensidig utveksling av opplysninger. Disse opplysningene skal på anmodning fra vedkommende myndighet omfatte en liste over den aktuelle medlemsstatens lufthavner som er åpne for internasjonal lufttrafikk, med angivelse av antall inspeksjoner på bakken for hvert kalenderår samt antallet flybevegelser for tredjestaters luftfartøyer på hver av lufthavnene i denne listen.",
+    "(2) Resultatene av inspeksjonen skal gjøres kjent for fartøysjefen eller en representant for operatøren. Registreres det betydelige mangler, skal inspeksjonsrapporten også sendes til operatøren, og berørte kompetente myndigheter.",
+    "(3) Luftfartstilsynet skal uten opphold gjøre alle inspeksjonsrapporter tilgjengelig for det europeiske flysikkerhetsbyrået (EASA) i henhold til forordning (EF) nr. 768/2006 om gjennomføring av europaparlaments- og rådsdirektiv 2004/36/EF når det gjelder innsamling og utveksling av opplysninger om sikkerheten til luftfartøy som benytter lufthavner i Fellesskapet og styring av informasjonssystemet artikkel 3 nr. 1 og oversende de opplysningene som er omtalt i artikkel 3 nr. 2."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-10",
+   "nummer": "§ 9",
+   "tittel": "Konsekvenser ved alvorlige avvik",
+   "ledd": [
+    "(1) Luftfartstilsynet kan, i tilfeller hvor det avdekkes alvorlige avvik fra de krav og standarder som regulerer flygningen, fastsette begrensninger på hvordan påfølgende flygning skal gjennomføres.",
+    "(2) I tilfeller der manglende overholdelse av internasjonale sikkerhetsstandarder åpenbart utgjør en risiko for flysikkerheten, skal luftfartsselskapet treffe tiltak for å utbedre manglene før luftfartøyets avgang. Dersom Luftfartstilsynet ikke er overbevist om at de korrigerende tiltakene vil bli utført før avgang, skal den pålegge luftfartøyet startforbud inntil risikoen er opphevet, og umiddelbart underrette vedkommende myndigheter for det aktuelle luftfartsselskapet, samt vedkommende myndigheter i luftfartøyets registreringsstat.",
+    "(3) Luftfartstilsynet kan i samarbeid med staten som har ansvaret for driften av det aktuelle luftfartøyet, eller med luftfartøyets registreringsstat, fastsette nødvendige vilkår som luftfartøyet må oppfylle for å få tillatelse til å fly til en annen lufthavn hvor manglene kan utbedres. Dersom manglene har en betydning for gyldigheten av luftfartøyets luftdyktighetsbevis, kan ikke startforbudet heves med mindre luftfartsselskapet innhenter tillatelse fra staten eller statene som luftfartøyet vil fly over i den aktuelle flygingen."
+   ],
+   "endringer": [
+    "Endret ved forskrift 19 mars 2009 nr. 345."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-11",
+   "nummer": "§ 10",
+   "tittel": "Vern av opplysninger",
+   "ledd": [
+    "(1) Luftfartstilsynet skal behandle innkommet informasjon i henhold til denne forskriften og forordning (EF) nr. 768/2006 fortrolig, jf. offentleglova § 13 og forvaltningslovens § 13 første ledd nr 2.",
+    "(2) Ved frivillig rapportering av mangler på et luftfartøy skal kilden til disse opplysningene anonymiseres i rapportene fra inspeksjoner på bakken nevnt i § 6, nr. 3."
+   ],
+   "endringer": [
+    "Endret ved forskrift 19 mars 2009 nr. 345."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-12",
+   "nummer": "§ 11",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Denne forskriften trer i kraft straks. Fra samme tidspunkt oppheves forskrift 5. juni 2007 nr. 582 om gjennomføring av kommisjonsforordning (EF) nr. 768/2006 av 19. mai 2006 om gjennomføring av europaparlaments- og rådsdirektiv 2004/36/EF når det gjelder innsamling og utveksling av opplysninger om sikkerheten til luftfartøy som benytter lufthavner i Fellesskapet og styring av informasjonssystemet."
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "vedleggI",
+   "overskrift": "Vedlegg I. Inspeksjonsprosedyrer for inspeksjoner på bakken (SAFA-inspeksjon)",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Vedlegg I endret ved forskrift 19 mars 2009 nr. 345."
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-1-kapittel-1",
+     "navn": "kap1",
+     "overskrift": "Kapittel 1. Kvalifikasjonskrav til SAFA-inspektører",
+     "innhold": [
+      {
+       "type": "endring",
+       "tekst": "Tilføyd ved forskrift 19 mars 2009 nr. 345."
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-1-paragraf-1",
+       "nummer": "§ 1",
+       "tittel": "Inspektørenes kvalifikasjonskrav",
+       "ledd": [
+        "Luftfartstilsynet skal, med virkning fra den 1. januar 2009, sikre at alle SAFA-inspeksjoner på norske lufthavner utføres av kvalifiserte inspektører."
+       ],
+       "endringer": [
+        "Tilføyd ved forskrift 19 mars 2009 nr. 345."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-1-paragraf-2",
+       "nummer": "§ 2",
+       "tittel": "Sikring av kvalifikasjonskrav",
+       "ledd": [
+        "Luftfartstilsynet skal sikre at alle SAFA-inspektører oppfyller kvalifikasjonskriterier jf. § 3."
+       ],
+       "endringer": [
+        "Tilføyd ved forskrift 19 mars 2009 nr. 345."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-1-paragraf-3",
+       "nummer": "§ 3",
+       "tittel": "Kvalifikasjonskriterier for inspektører",
+       "ledd": [
+        "(1) Inspektører skal ha nødvendig utdanning og/eller praksis som er relevant for det faglige inspeksjonsområdet, dvs.:\na. flyoperasjoner\nb. besetningssertifikater\nc. luftfartøyers luftdyktighet\nd. farlig gods.",
+        "(2) Kandidatene skal ha bestått utdannelse bestående av:\na. teoretisk undervisning av en SAFA-utdannelsesorganisasjon, jf. § 5.\nb. praktisk undervisning av en SAFA-utdannelsesorganisasjon, jf. § 5 til § 8, eller av en seniorinspektør som er utpekt av Luftfartstilsynet jf. § 10 og som opptrer uavhengig av en SAFA-utdannelsesorganisasjon.\nc. praktisk trening: gjennomføres i form av en rekke inspeksjoner utført sammen med en seniorinspektør, jf. § 10."
+       ],
+       "endringer": [
+        "Tilføyd ved forskrift 19 mars 2009 nr. 345."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-1-paragraf-4",
+       "nummer": "§ 4",
+       "tittel": "Opprettholdelse av rettigheter som SAFA-inspektør",
+       "ledd": [
+        "En SAFA-inspektør skal opprettholde sine kvalifikasjoner ved å:",
+        "(1) gjennomføre etterutdannelse bestående av teoretisk undervisning av en SAFA-utdannelsesorganisasjon, jf. § 5",
+        "(2) gjennomføre et minste antall SAFA-inspeksjoner per tolv måneders periode etter den siste gjennomgang av SAFA-utdannelsen, med mindre inspektøren også er kvalifisert som flyoperativ eller flyteknisk inspektør hos Luftfartstilsynet og regelmessig deltar i inspeksjoner av norske operatørers luftfartøyer."
+       ],
+       "endringer": [
+        "Tilføyd ved forskrift 19 mars 2009 nr. 345."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-1-paragraf-5",
+       "nummer": "§ 5",
+       "tittel": "SAFA-utdannelsesorganisasjon",
+       "ledd": [
+        "En SAFA-utdannelsesorganisasjon kan være en del av en tilsynsmyndighet eller en frittstående organisasjon. Med frittstående organisasjon menes enten:\n1. en del av en annen medlemsstats kompetente myndighet\n2. en uavhengig enhet."
+       ],
+       "endringer": [
+        "Tilføyd ved forskrift 19 mars 2009 nr. 345."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-1-paragraf-6",
+       "nummer": "§ 6",
+       "tittel": "Utdannelseskurs",
+       "ledd": [
+        "Tilsynsmyndigheten skal sikre at de utdannelseskurs som gjennomføres i regi av tilsynsmyndighetene som er nevnt i § 3 og § 4, blir gjennomført i overensstemmelse med de relevante utdanningsplaner som EASA har fastsatt og offentliggjort."
+       ],
+       "endringer": [
+        "Tilføyd ved forskrift 19 mars 2009 nr. 345."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-1-paragraf-7",
+       "nummer": "§ 7",
+       "tittel": "Bruk av ekstern organisasjon til utdannelse",
+       "ledd": [
+        "Dersom tilsynsmyndigheten benytter en ekstern organisasjon til SAFA-relatert utdannelse, skal det etableres et system som evaluerer den eksterne organisasjonen. Systemet skal være enkelt og gjennomsiktig, og skal stå i forhold til og ta hensyn til eventuelt relevant veiledende materiale som er utarbeidet og offentliggjort av EASA. Et slikt system kan ta hensyn til andre medlemsstaters evaluering."
+       ],
+       "endringer": [
+        "Tilføyd ved forskrift 19 mars 2009 nr. 345."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-1-paragraf-8",
+       "nummer": "§ 8",
+       "tittel": "Vilkår for bruk av eksterne organisasjoner",
+       "ledd": [
+        "En uavhengig organisasjon kan kun benyttes dersom det fremkommer av evalueringen at utdannelsen vil foregå i samsvar med de relevante utdannelsesplaner slik disse er fastsatt og offentliggjort av EASA.",
+        "Tilsynsmyndigheten skal sikre at egne utdannelsesprogram og/eller system for evaluering av eksterne utdannelsesprogrammer blir tilpasset eventuelle anbefalinger fra EASAs standardiseringsauditer i overensstemmelse med de arbeidsmetoder som følger av forordning (EF) nr. 736/2006."
+       ],
+       "endringer": [
+        "Tilføyd ved forskrift 19 mars 2009 nr. 345."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-1-paragraf-9",
+       "nummer": "§ 9",
+       "tittel": "Evaluering av utdannelsesorganisasjonen",
+       "ledd": [
+        "Samferdselsdepartementet kan anmode EASA om å gjøre evaluering av utdannelsesorganisasjon og gi anbefalinger som Samferdselsdepartementet kan benytte som grunnlag for egen evaluering."
+       ],
+       "endringer": [
+        "Tilføyd ved forskrift 19 mars 2009 nr. 345."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-1-paragraf-10",
+       "nummer": "§ 10",
+       "tittel": "Seniorinspektører",
+       "ledd": [
+        "Luftfartstilsynet kan oppnevne senior SAFA-inspektører. For å kunne bli senior SAFA-inspektør må vedkommende oppfylle følgende minstekrav:\n1. Vedkommende må ha vært en kvalifisert SAFA-inspektør i de siste tre år forut for oppnevningen.\n2. Vedkommende må ha utført minst 36 SAFA-inspeksjoner i de tre siste årene forut for oppnevningen."
+       ],
+       "endringer": [
+        "Tilføyd ved forskrift 19 mars 2009 nr. 345."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-1-paragraf-11",
+       "nummer": "§ 11",
+       "tittel": "Luftfartstilsynets evaluering",
+       "ledd": [
+        "Luftfartstilsynet skal sikre at den praktiske undervisning og/eller undervisning på arbeidsplassen som gis av senior SAFA-inspektører bygger på de relevante utdanningsplaner som EASA har fastsatt og offentliggjort."
+       ],
+       "endringer": [
+        "Tilføyd ved forskrift 19 mars 2009 nr. 345."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-1-paragraf-12",
+       "nummer": "§ 12",
+       "tittel": "Bruk av seniorinspektører",
+       "ledd": [
+        "Luftfartstilsynet kan tillate egne senior SAFA-inspektører å gi praktisk undervisning og/eller undervisning på arbeidsplassene til andre medlemsstaters praktikanter."
+       ],
+       "endringer": [
+        "Tilføyd ved forskrift 19 mars 2009 nr. 345."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-1-paragraf-13",
+       "nummer": "§ 13",
+       "tittel": "Overgangsbestemmelser",
+       "ledd": [
+        "SAFA-inspektører som oppfyller utvelgelseskriteriet jf. § 3 og kriteriet for nylig opparbeidet erfaring jf. § 4 på datoen fastsatt i artikkel 3 i Kommisjonens direktiv 2008/49/EF, skal anses kvalifiserte som inspektører i henhold til kravene fastsatt i dette kapittel.",
+        "Uten hensyn til bestemmelsene i § 4 nr 1, skal inspektører som er kvalifisert i henhold til 1. ledd gjennomgå videreutdanning. Videreutdanningen skal gis fortløpende og innen 1. juni 2010 av en SAFA-opplæringsinstitusjon, deretter skal videreutdanningen gjennomføres som fastsatt i § 4."
+       ],
+       "endringer": [
+        "Tilføyd ved forskrift 19 mars 2009 nr. 345."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-1-kapittel-2",
+     "navn": "kap2",
+     "overskrift": "Kapittel 2. Generell instruks for gjennomføring av SAFA-inspeksjoner",
+     "innhold": [
+      {
+       "type": "endring",
+       "tekst": "Tilføyd ved forskrift 19 mars 2009 nr. 345."
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-2-paragraf-1",
+       "nummer": "§ 14",
+       "tittel": "Innledning",
+       "ledd": [
+        "SAFA-inspeksjoner skal gjennomføres med utgangspunkt i og i samsvar med ICAOs standarder og ICAOs European Regional Supplementary Procedures. I tillegg til inspeksjonen med hensyn til luftfartøyets tekniske tilstand, inspiseres luftfartøyet i forhold til luftfartøyfabrikantens standarder."
+       ],
+       "endringer": [
+        "Tilføyd ved forskrift 19 mars 2009 nr. 345."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-2-paragraf-2",
+       "nummer": "§ 15",
+       "tittel": "Inspeksjonens innhold",
+       "ledd": [
+        "SAFA-inspeksjon skal utføres av inspektører med relevant og nødvendig kunnskap for inspeksjonsområdet. Inspektørene skal inneha kunnskap om tekniske forhold, luftdyktighet og operasjonelle forhold, såfremt alle punkter på sjekklisten kontrolleres. Dersom en SAFA-inspeksjon gjennomføres av to eller flere inspektører, kan de sentrale elementene i inspeksjonen, besiktigelse av luftfartøyet fra utsiden, inspeksjon av cockpit og inspeksjon av passasjerkabin og/eller lasterom, fordeles mellom inspektørene."
+       ],
+       "endringer": [
+        "Tilføyd ved forskrift 19 mars 2009 nr. 345."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-2-paragraf-3",
+       "nummer": "§ 16",
+       "tittel": "Inspektørenes oppgaver",
+       "ledd": [
+        "Inspektørene skal identifisere seg overfor fartøysjefen eller, i vedkommendes fravær, overfor et medlem av flybesetningen eller den høyest rangerte representant for operatøren, før de igangsetter den del av inspeksjonen, som foregår inne i luftfartøyet. Dersom det ikke er mulig å informere en representant for operatøren, eller det ikke finnes en representant i eller nær ved luftfartøyet, skal det i prinsippet ikke utføres en SAFA-inspeksjon. Under særlige omstendigheter kan det likevel besluttes å utføre en SAFA-inspeksjon, men denne skal begrenses til en besiktigelse av luftfartøyet utenfra."
+       ],
+       "endringer": [
+        "Tilføyd ved forskrift 19 mars 2009 nr. 345."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-2-paragraf-4",
+       "nummer": "§ 17",
+       "tittel": "Inspeksjonens innhold",
+       "ledd": [
+        "SAFA-inspeksjonen skal være så fullstendig som tiden tillater. Dersom tids- eller personalressurser er begrenset, kan det gjøres et utvalg av inspeksjonspunkter. Ved utvalget skal det tas hensyn til de målsettinger som følger av EFs SAFA-program."
+       ],
+       "endringer": [
+        "Tilføyd ved forskrift 19 mars 2009 nr. 345."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-2-paragraf-5",
+       "nummer": "§ 18",
+       "tittel": "Forsinkelse som følge av inspeksjonen",
+       "ledd": [
+        "En SAFA-inspeksjon skal ikke forårsake en urimelig forsinkelse av det inspiserte luftfartøyets planlagte avgang. Ved vurderingen av om en forsinkelse er urimelig skal det tas hensyn til hvorvidt det kan være tvil om en flygning er tilstrekkelig forberedt, luftfartøyets luftdyktighet eller andre forhold som kan påvirke sikkerheten for luftfartøyet, personer som befinner seg i luftfartøyet eller tredjemann."
+       ],
+       "endringer": [
+        "Tilføyd ved forskrift 19 mars 2009 nr. 345."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-1-kapittel-3",
+     "navn": "kap3",
+     "overskrift": "Kapittel 3. Inspeksjonsprosessen",
+     "innhold": [
+      {
+       "type": "endring",
+       "tekst": "Tilføyd ved forskrift 19 mars 2009 nr. 345."
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-3-paragraf-1",
+       "nummer": "§ 19",
+       "tittel": "Sjekklisten",
+       "ledd": [
+        "SAFA-inspektørene velger hvilke punkter på sjekklisten, se tillegg I, som skal gjøres til gjenstand for inspeksjon i det enkelte tilfelle."
+       ],
+       "endringer": [
+        "Tilføyd ved forskrift 19 mars 2009 nr. 345."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-3-paragraf-2",
+       "nummer": "§ 20",
+       "tittel": "Inspeksjonsrapport",
+       "ledd": [
+        "SAFA-inspeksjonen og eventuelle avvik som fremkommer gjennom denne skal fremgå av SAFA-inspeksjonsrapporten etter at inspeksjonen er gjennomført."
+       ],
+       "endringer": [
+        "Tilføyd ved forskrift 19 mars 2009 nr. 345."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-3-paragraf-3",
+       "nummer": "§ 21",
+       "tittel": "Rapportering til SAFA-database",
+       "ledd": [
+        "Rapport fra SAFA-inspeksjon skal overføres til den sentrale SAFA-databasen så snart som mulig, og aldri senere enn 15 dager etter inspeksjonen er avsluttet. Dette gjelder også rapporter hvor det ikke er avdekket avvik ved inspeksjonsobjektet."
+       ],
+       "endringer": [
+        "Tilføyd ved forskrift 19 mars 2009 nr. 345."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-3-paragraf-4",
+       "nummer": "§ 22",
+       "tittel": "Kategorisering av avvik",
+       "ledd": [
+        "Ved inspeksjon skal eventuelle avvik fra det som følger av EFs SAFA-program kategoriseres innenfor en av følgende tre kategorier:\n1. Avvik kategori 1: avviket ansees for å ha mindre betydning for sikkerheten på flygningen\n2. Avvik kategori 2: avviket ansees for å ha betydelig innflytelse på sikkerheten på flygningen\n3. Avvik kategori 3: avviket ansees å ha alvorlig innflytelse på sikkerheten."
+       ],
+       "endringer": [
+        "Tilføyd ved forskrift 19 mars 2009 nr. 345."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-1-kapittel-4",
+     "navn": "kap4",
+     "overskrift": "Kapittel 4. Oppfølging av SAFA-inspeksjoner",
+     "innhold": [
+      {
+       "type": "endring",
+       "tekst": "Tilføyd ved forskrift 19 mars 2009 nr. 345."
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-4-paragraf-1",
+       "nummer": "§ 23",
+       "tittel": "Inspeksjonsbevis",
+       "ledd": [
+        "Etter at SAFA-inspeksjonen er avsluttet skal det fylles ut et inspeksjonsbevis, jf. tillegg I. Ett eksemplar av inspeksjonsbeviset skal gis til fartøysjefen, eller i dennes fravær, et medlem av flyets besetning eller den høyest rangerte representant for operatøren. Mottakeren skal signere på at han har mottatt inspeksjonsbeviset. Dersom mottakeren nekter å signere på mottak av inspeksjonsbeviset skal dette noteres av SAFA-inspektøren på skjemaet."
+       ],
+       "endringer": [
+        "Tilføyd ved forskrift 19 mars 2009 nr. 345."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-4-paragraf-2",
+       "nummer": "§ 24",
+       "tittel": "Oppfølging av inspeksjon på nivå 1",
+       "ledd": [
+        "Oppfølgingsnivå 1 skal gjennomføres etter hver SAFA-inspeksjon, uavhengig av om det er funnet avvik eller ikke. Oppfølgingsnivå 1 skal sørge for at fartøysjefen, eller i vedkommendes fravær, et medlem av flybesetningen eller den høyest rangerte representant for operatøren, blir gjort kjent med resultatene fra SAFA-inspeksjonen, samt at vedkommende får overlevert inspeksjonsbeviset."
+       ],
+       "endringer": [
+        "Tilføyd ved forskrift 19 mars 2009 nr. 345."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-4-paragraf-3",
+       "nummer": "§ 25",
+       "tittel": "Oppfølging av inspeksjon på nivå 2",
+       "ledd": [
+        "Oppfølgingsnivå 2 skal benyttes dersom det er funnet avvik i kategori 2 eller 3. Oppfølgingsnivå 2 består av:\n1. en brevveksling med den aktuelle operatør som skal inneholde en anmodning om dokumentasjon for at det er foretatt korrigerende tiltak av påpekte avvik.\n2. en brevveksling med den ansvarlige stat (operatørens hjemstat eller registreringsstat), vedrørende resultatene av den eller de utførte inspeksjoner på luftfartøy som opererer under den aktuelle statens sikkerhetstilsyn. Denne brevveksling skal, hvis det ansees nødvendig, inneholde en anmodning om at angjeldende myndighet bekrefter at korrigerende tiltak som er dokumentert iht. 1. ledd nr. 1 er foretatt.",
+        "Luftfartstilsynet skal månedlig rapportere til EASA status over oppfølgingsforanstaltninger som er truffet under SAFA-inspeksjonene siste periode."
+       ],
+       "endringer": [
+        "Tilføyd ved forskrift 19 mars 2009 nr. 345."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-4-paragraf-4",
+       "nummer": "§ 26",
+       "tittel": "Oppfølging av inspeksjon på nivå 3",
+       "ledd": [
+        "Oppfølgingsnivå 3 skal benyttes dersom det under en SAFA-inspeksjon konstateres avvik i kategori 3.",
+        "Basert på alvorlighetsgraden i konstateringen, herunder med særlig hensyn til avvikets potensielle innflytelse på sikkerheten for luftfartøyet og personer som befinner seg i dette, benyttes følgende undernivåer:\n1. Nivå 3a – Begrensninger i bruken av luftfartøyet. Luftfartstilsynet kan bestemme at flygningen, som følge av de konstaterte avvik, kun kan gjennomføres underlagt visse begrensninger.\n2. Nivå 3b – Korrigerende tiltak. Korrigerende tiltak må gjennomføres før den planlagte flyging tillates.\n3. Nivå 3c – Startnekt. Luftfartøyet tillates ikke å gjennomføre den planlagte flyging. Nivå 3c skal benyttes i tilfeller hvor SAFA-inspektørene mener at avvikene utgjør en umiddelbar sikkerhetsrisiko og samtidig ikke er overbevist om at luftfartøyets operatør vil foreta nødvendige utbedringer før avgang. I slike tilfeller skal flyging ikke tillates før avviket er korrigert. Luftfartstilsynet skal umiddelbart underrette operatørens kompetente myndighet og registreringsstaten.\n4. Nivå 3d – Øyeblikkelig driftsforbud. Luftfartstilsynet kan reagere på umiddelbare og åpenbare sikkerhetsrisikoer ved å pålegge et driftsforbud som fastsatt iht. gjeldende lovgivning.",
+        "SAFA-inspektørene kan ved oppfølging av nivå 2 og 3 tillate ikke-inntektsgivende flygning til vedlikeholdsbase."
+       ],
+       "endringer": [
+        "Tilføyd ved forskrift 19 mars 2009 nr. 345."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-1-kapittel-5",
+     "navn": "kapI",
+     "overskrift": "Tillegg I. SAFA-standardrapport",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "For å lese tillegget se her: (pdf)"
+      },
+      {
+       "type": "endring",
+       "tekst": "Tilføyd ved forskrift 19 mars 2009 nr. 345."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "vedleggII",
+   "overskrift": "Vedlegg II. Direktiv 2004/36/EF",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Se her for å lese direktiv 2004/36/EF:\n(pdf)\nPdf-versjonen er en uoffisiell oversettelse."
+    }
+   ]
+  }
+ ]
+}

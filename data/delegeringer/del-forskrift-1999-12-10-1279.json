@@ -1,0 +1,58 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-1999-12-10-1279",
+ "dokumentid": "DEL/forskrift/1999-12-10-1279",
+ "departement": [
+  "Samferdselsdepartementet"
+ ],
+ "etat": [
+  "Transportavd."
+ ],
+ "kunngjort_i": "Avd I 1999 2910",
+ "ikraft": "2000-01-01",
+ "endrer": "forskrift/1996-03-15-270\nforskrift/1996-03-15-273\nforskrift/1996-03-15-274",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "forskrift/1999-12-10-1265",
+   "tekst": "forskrift/1999-12-10-1265"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§15-3",
+   "tekst": "lov/1993-06-11-101/§15-3"
+  }
+ ],
+ "korttittel": "Delegering etter luftfartsloven",
+ "tittel": "Delegering av myndighet til Luftfartstilsynet etter luftfartsloven vedrørende luftfart på Svalbard og Jan Mayen.",
+ "annet": "Fastsatt av Samferdselsdepartementet 10. desember 1999 med hjemmel i kgl.res. av 10. desember 1999 nr. 1265 om delegering av myndighet til Samferdselsdepartementet etter luftfartsloven, jf. lov av 11. juni 1993 nr. 101 om luftfart (luftfartsloven) § 15-3.",
+ "refid": "forskrift/1999-12-10-1279",
+ "eli": "/eli/forskrift/1999/12/10/1279",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/1999-12-10-1279",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Med hjemmel i lov av 11. juni 1993 nr. 101 om luftfart § 15-3, vedtas at myndighet delegert til Luftfartsverket etter kgl.res. 15. mars 1996 nr. 270 om iverksetting av lov av 11. juni 1993 nr. 101 om luftfart på Svalbard og Jan Mayen og endringar i forskrifter om luftfart for så vidt gjelder Svalbard og Jan Mayen, vedtakets pkt. 3 med henvisning til vedlegg – forskrift av 15. mars 1996 nr. 273 og forskrift av 15. mars 1996 nr. 274 – oppheves og myndigheten delegeres til Luftfartstilsynet."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Vedtaket trer i kraft 1. januar 2000."
+    }
+   ]
+  }
+ ]
+}

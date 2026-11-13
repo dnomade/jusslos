@@ -1,0 +1,114 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2019-04-01-444",
+ "dokumentid": "SF/forskrift/2019-04-01-444",
+ "departement": [
+  "Digitaliserings- og forvaltningsdepartementet"
+ ],
+ "etat": [
+  "Avdeling for digitaliseringspolitikk"
+ ],
+ "ikraft": "2019-04-02",
+ "siste_endring_ikraft": "2020-10-16",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2020-10-16-2063",
+   "tekst": "forskrift/2020-10-16-2063"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2016-06-17-73/§16",
+   "tekst": "lov/2016-06-17-73/§16"
+  }
+ ],
+ "kunngjort": "2019-04-03 15:20",
+ "siste_rettelse": "2026-06-03 (departementstilhørighet)",
+ "korttittel": "Forskrift om elektronisk faktura i offentlige anskaffelser",
+ "tittel": "Forskrift om elektronisk faktura i offentlige anskaffelser",
+ "annet": "Hjemmel: Fastsatt av Kommunal- og moderniseringsdepartementet 1. april 2019 med hjemmel i lov 17. juni 2016 nr. 73 om offentlige anskaffelser (anskaffelsesloven) § 16 tredje ledd.\nEØS-henvisninger: EØS-avtalen vedlegg XVI nr. 6e (direktiv 2014/55/EU).\nEndret ved forskrift 16 okt 2020 nr. 2063.\nRettet 03.06.2026 (departementstilhørighet).",
+ "refid": "forskrift/2019-04-01-444",
+ "eli": "/eli/forskrift/2019/04/01/444",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2019-04-01-444",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Formål",
+   "ledd": [
+    "Forskriften skal fremme effektiv og miljøvennlig fakturahåndtering i offentlige anskaffelser."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Virkeområde",
+   "ledd": [
+    "Forskriften gjelder fakturering knyttet til anskaffelser som er omfattet av anskaffelsesloven.",
+    "Forskriften gjelder for oppdragsgivere som angitt i anskaffelsesloven § 2 annet ledd."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Elektronisk faktura",
+   "ledd": [
+    "Med elektronisk faktura menes betalingskrav som er utformet, oversendt og mottatt elektronisk fra fakturautsteder til fakturamottaker, og som kan behandles automatisk i fakturamottakers økonomisystem."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Godkjente standardformater",
+   "ledd": [
+    "Godkjente standardformater for fakturaer knyttet til kontrakter under EØS-terskelverdi er EHF (Elektronisk handelsformat) fakturering versjon 3.0 eller nyere og PEPPOL BIS (PEPPOL Business Interoperability Specification) Billing v3.0 eller nyere.",
+    "Godkjente standarder for fakturaer knyttet til kontrakter over EØS-terskelverdi er EHF fakturering versjon 3.0 eller nyere, PEPPOL BIS Billing v3.0 eller nyere og andre godkjente standardformater som implementerer den europeiske normen for elektronisk faktura (EN16931).",
+    "Digitaliseringsdirektoratet skal sørge for at lenker til godkjente standardformater finnes på sine nettsider som del av Referansekatalogen for IT-standarder som er obligatoriske eller anbefalte for offentlig sektor."
+   ],
+   "endringer": [
+    "Endret ved forskrift 16 okt 2020 nr. 2063."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Oppdragsgiverens forpliktelser",
+   "ledd": [
+    "Oppdragsgiveren skal i sine kontrakter stille krav om bruk av elektronisk faktura i godkjent standardformat.",
+    "Dersom leverandøren ikke etterkommer krav om bruk av elektronisk faktura stilt i medhold av første ledd, kan oppdragsgiveren holde tilbake betaling inntil elektronisk faktura i godkjent standardformat leveres. Oppdragsgiveren skal uten unødig opphold gi melding om dette. Dersom slik melding er gitt, løper opprinnelig betalingsfrist fra tidspunktet elektronisk faktura i godkjent standardformat er levert.",
+    "Oppdragsgiveren skal kunne ta imot elektronisk faktura i standardformat gjennom PEPPOL-nettverket.",
+    "Oppdragsgiveren skal behandle faktura elektronisk.",
+    "Oppdragsgiveren skal kunne rapportere til Direktoratet for forvaltning og økonomistyring hvor mange fakturaer de mottar totalt og på godkjent standardformat."
+   ],
+   "endringer": [
+    "Endret ved forskrift 16 okt 2020 nr. 2063."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "Faktura eller fakturagrunnlag med sensitivt innhold",
+   "ledd": [
+    "Dersom opplysninger i faktura eller fakturagrunnlag inneholder opplysninger som er underlagt lovbestemt taushetsplikt, og det vil være fare for avsløring av slike opplysninger, kan krav om elektronisk faktura fravikes, med mindre det finnes tilfredsstillende tekniske sikringsløsninger som ivaretar konfidensialitet."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 7",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Forskriften trer i kraft 2. april 2019.",
+    "Forskriften gjelder fakturering knyttet til anskaffelser iverksatt etter forskriftens ikrafttredelse. En anskaffelse er iverksatt når den er kunngjort. En anskaffelse som ikke kunngjøres, er iverksatt når oppdragsgiveren har sendt ut en forespørsel til en eller flere leverandører om å melde sin interesse eller inngi tilbud i forbindelse med en planlagt anskaffelse."
+   ]
+  }
+ ]
+}

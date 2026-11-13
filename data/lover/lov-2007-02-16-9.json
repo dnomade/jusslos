@@ -1,0 +1,1044 @@
+{
+ "skjema": "1.0",
+ "type": "lov",
+ "datokode": "LOV-2007-02-16-9",
+ "dokumentid": "NL/lov/2007-02-16-9",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "ikraft": "2007-07-01, 2008-07-01 (§ 74 nr. 12)",
+ "siste_endring_ikraft": "2026-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "lov/2025-04-25-12",
+   "tekst": "lov/2025-04-25-12 fra 2026-01-01,"
+  },
+  {
+   "ref": "lov/2025-06-20-110",
+   "tekst": "lov/2025-06-20-110 fra 2025-08-01"
+  }
+ ],
+ "endrer": "lov/1903-06-09-7\nlov/1964-06-19-20\nlov/1966-06-17-2\nlov/1971-06-18-90\nlov/1977-06-03-50\nlov/1981-06-05-42",
+ "rettsomrade": [
+  "Arbeidsrett > Arbeidsmiljø",
+  "EU/EØS-rett > Transport",
+  "Transport og kommunikasjoner > Skipsfart"
+ ],
+ "kunngjort": "2007-02-16",
+ "siste_rettelse": "2025-09-26 (metainformasjon om direktiv 2009/15/EF)",
+ "eos_henvisning": "EØS-avtalen vedlegg II kap. XXXII\nnr. 2 (direktiv 2014/90/EU).\nEØS-avtalen vedlegg VII\nnr. 1 (direktiv 2005/36/EF).\nEØS-avtalen vedlegg XIII\nnr. 55a (direktiv 2002/59/EF),\nnr. 55b (direktiv 2009/15/EF),\nnr. 55e (forordning (EF) nr. 391/2009),\nnr. 56b (direktiv 2009/16/EF),\nnr. 56ca (direktiv (EU) 2017/2110),\nnr. 56cb (direktiv 2003/25/EF),\nnr. 56e (direktiv 98/41/EF),\nnr. 56f (direktiv 2009/45/EF),\nnr. 56g (direktiv 97/70/EF),\nnr. 56h (direktiv 1999/95/EF),\nnr. 56i (direktiv (EU) 2019/883),\nnr. 56j (direktiv (EU) 2022/993),\nnr. 56k (direktiv 2001/96/EF),\nnr. 56m (forordning (EU) 530/2012),\nnr. 56p (forordning (EF) 782/2003),\nnr. 56q (forordning (EF) nr. 789/2004),\nnr. 56u (forordning (EF) 336/2006).\nEØS-avtalen vedlegg XVIII\nnr. 5 (direktiv 2009/148/EF),\nnr. 8 (direktiv 89/391/EØF),\nnr. 10 (direktiv 2009/104/EF),\nnr. 11 (direktiv 89/656/EØF),\nnr. 14a (direktiv 2004/37/EF),\nnr. 15 (direktiv 2000/54/EF),\nnr. 16 (direktiv 91/383/EØF),\nnr. 16a (direktiv 92/29/EØF),\nnr. 16d (direktiv 92/85/EØF),\nnr. 16g (direktiv 93/103/EF),\nnr. 16h (direktiv 98/24/EF),\nnr. 16j (direktiv 2000/39/EF),\nnr. 16ja (direktiv 2002/44/EF),\nnr. 16jb (direktiv 2003/10/EF),\nnr. 16je (direktiv 2006/25/EF),\nnr. 29 (direktiv 94/33/EF),\nnr. 32b (direktiv 1999/63/EF),\nnr. 32f (direktiv 2002/14/EF),\nnr. 32h (direktiv 2003/88/EF),\nnr. 32j (direktiv 2009/13/EF).",
+ "korttittel": "Skipssikkerhetsloven",
+ "tittel": "Lov om skipssikkerhet (skipssikkerhetsloven)",
+ "annet": "Jf. tidligere lover 9 juni 1903 nr. 7, 19 juni 1964 nr. 20, 17 juni 1966 nr. 2, 18 juni 1971 nr. 90, 3 juni 1977 nr. 50, 5 juni 1981 nr. 42. Jf. nå lov 26 juni 1998 nr. 47.\nSe meddelelse 25 sep 2025 nr. 1921 om gjennomføring av direktiv 2009/15/EF.",
+ "refid": "lov/2007-02-16-9",
+ "eli": "/eli/lov/2007/02/16/09",
+ "url": "https://lovdata.no/dokument/NL/lov/2007-02-16-9",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Lovens formål",
+     "ledd": [
+      "Loven skal trygge liv og helse, miljø og materielle verdier ved å legge til rette for god skipssikkerhet og sikkerhetsstyring, herunder hindre forurensning fra skip, sikre et fullt forsvarlig arbeidsmiljø og trygge arbeidsforhold om bord på skipet, samt et godt og tidsmessig tilsyn."
+     ],
+     "endringer": [
+      "Endret ved lov 21 juni 2013 nr. 102 (ikr. 20 aug 2013 iflg. res. 21 juni 2013 nr. 730)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Lovens saklige virkeområde",
+     "ledd": [
+      "Loven får anvendelse for norske og utenlandske skip. For skip under 24 meter største lengde som brukes utenfor næringsvirksomhet, gjelder loven likevel ikke.",
+      "Kongen kan gi forskrift om at loven i tillegg til skip som nevnt i første ledd, også skal gjelde for:\na. boreplattformer og andre flyttbare innretninger for undersøkelse etter, utnyttelse, lagring eller transport av undersjøiske naturforekomster samt flyttbare innretninger til hjelp for slik virksomhet,\nb. flytekran, mudderapparat og lignende flytende innretninger,\nc. skip som nevnt i første ledd annet punktum hvor noen har sitt arbeid om bord.",
+      "Kongen kan også gi forskrift om at loven helt eller delvis ikke skal gjelde for:\na. skip under 24 meter største lengde,\nb. skip som kan føre inntil tolv passasjerer,\nc. spesialskip,\nd. skip som utelukkende benyttes på elver og innsjøer,\ne. skip som er vernet,\nf. skip som tilhører Forsvaret eller som benyttes i dets tjeneste,\ng. andre statlige skip som brukes utenfor næringsvirksomhet,\nh. utenlandske skip.",
+      "Kongen kan for skip som nevnt i tredje ledd, gi særlige regler om sikkerhetsstyring, sikkerhet, miljø, sikkerhets- og terrorberedskap og tilsyn samt forvaltningstiltak og administrative sanksjoner som fraviker reglene i loven her."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Lovens geografiske virkeområde",
+     "ledd": [
+      "Loven gjelder for norske skip uansett hvor de befinner seg.",
+      "Med de begrensninger som følger av folkeretten, gjelder loven for utenlandske skip:\na. i Norges territorialfarvann, herunder ved Svalbard og Jan Mayen,\nb. i Norges økonomiske sone,\nc. på norsk kontinentalsokkel.",
+      "Kongen kan gi forskrift om lovens anvendelse på utenlandske skip også utenfor områdene nevnt i annet ledd, så langt folkeretten tillater det."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Rederiets plikter. Sikkerhetsstyring",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 4",
+     "tittel": "Rederiet",
+     "ledd": [
+      "Med rederiet menes den som i det sikkerhetsstyringssertifikatet som skipet skal ha etter bestemmelser gitt i eller i medhold av § 7, jf. § 5 i denne loven, er opplyst å være driftsansvarlig selskap.",
+      "Dersom det for skipet ikke gjelder krav om sikkerhetsstyringssertifikat som nevnt i første ledd, eller sikkerhetsstyringssertifikatet er blitt ugyldig eller er trukket tilbake, regnes skipets eier som rederiet. Er skipet registrert, regnes den registrerte eieren som skipets eier. Dersom skipets eier i tilfelle som nevnt i første punktum har innsendt dokumentasjon i henhold til § 5 med samtykke fra den driftsansvarlige eller byggeansvarlige, skal vedkommende anses som rederi etter denne loven.",
+      "Annet ledd gjelder tilsvarende dersom den som er opplyst å være driftsansvarlig selskap i skipets sikkerhetsstyringssertifikat, ikke eksisterer.",
+      "Departementet kan gi forskrifter om hvem som skal anses som «rederi» etter reglene i første til tredje ledd."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 5",
+     "tittel": "Plikt til innsendelse av opplysninger",
+     "ledd": [
+      "Dersom skipets eier overlater ansvaret for driften av skipet til en annen, skal det opplyses om navnet på den driftsansvarlige og gis andre nødvendige opplysninger til den departementet bestemmer. Den driftsansvarlige skal få en bekreftelse på at opplysningene er mottatt og fullstendige. Første og annet punktum gjelder tilsvarende under byggingen av skipet dersom skipets eier overlater ansvaret for byggingen av skipet til en annen.",
+      "Departementet kan gi forskrifter med nærmere bestemmelser om plikten til å gi opplysninger etter første ledd."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 6",
+     "tittel": "Rederiets alminnelige plikter",
+     "ledd": [
+      "Rederiet har en overordnet plikt til å påse at byggingen og driften av skipet skjer i samsvar med reglene gitt i eller i medhold av denne loven, herunder at skipsføreren og andre som har sitt arbeid om bord, etterlever regelverket.",
+      "Rederiet skal sørge for at lovens krav oppfylles, bortsett fra i tilfelle der skipsføreren i loven er gitt en selvstendig plikt til å sørge for dette. Rederiet skal sørge for at forholdene legges til rette for at alle de som har sitt arbeid om bord, har mulighet for å oppfylle sine forpliktelser etter loven.",
+      "Departementet kan gi forskrifter med nærmere bestemmelser om rederiets plikter etter denne bestemmelsen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 7",
+     "tittel": "Rederiets plikt til å etablere, gjennomføre og videreutvikle sikkerhetsstyringssystem",
+     "ledd": [
+      "Rederiet skal sørge for å etablere, gjennomføre og videreutvikle et dokumenterbart og verifiserbart sikkerhetsstyringssystem i rederiets organisasjon og på det enkelte skip, for å kartlegge og kontrollere risiko samt sikre etterlevelse av krav fastsatt i eller i medhold av lov eller i sikkerhetsstyringssystemet selv. Sikkerhetsstyringssystemets innhold, omfang og dokumentasjon skal være tilpasset behovet til rederiet og den aktiviteten det driver.",
+      "Rederiet skal sørge for at skipsføreren og andre som har sitt arbeid om bord, får anledning til å medvirke ved etableringen, gjennomføringen og videreutviklingen av sikkerhetsstyringssystemet.",
+      "Departementet kan gi nærmere forskrifter om kravene til sikkerhetsstyringssystem, herunder om:\na. innhold, omfang og dokumentasjon,\nb. sikkerhetsstyringssertifikater for skip,\nc. godkjenningsbevis for sikkerhetsstyring for rederier,\nd. adgang til å fravike kravet til sikkerhetsstyringssystem for visse skip og adgang til å fravike første og annet ledd når dette er nødvendig som følge av gjennomføring av EØS-avtalen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 8",
+     "tittel": "Medvirkningsplikt for skipsføreren og andre som har sitt arbeid om bord",
+     "ledd": [
+      "Skipsføreren skal medvirke ved etableringen, gjennomføringen og videreutviklingen av sikkerhetsstyringssystem etter § 7, og skal videre medvirke til at sikkerhetsstyringssystemet blir fulgt om bord og fungerer etter sin hensikt.",
+      "Andre som har sitt arbeid om bord, skal så langt dette følger av vedkommendes stilling, medvirke til at sikkerhetsstyringssystemet blir fulgt om bord.",
+      "Departementet kan gi forskrifter om medvirkningsplikten, herunder adgang til å fravike første og annet ledd når dette er nødvendig som følge av gjennomføring av EØS-avtalen."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Teknisk og operativ sikkerhet",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 9",
+     "tittel": "Teknisk sikkerhet",
+     "ledd": [
+      "Et skip skal være prosjektert, bygget og utrustet på en slik måte at det ut fra skipets formål og fartsområde gir betryggende sikkerhet for liv og helse, miljø og materielle verdier.",
+      "Departementet kan gi forskrifter om hvordan skip skal være prosjektert, bygget og utrustet for å tilfredsstille kravene etter første ledd, herunder om:\na. skrogstyrke og vanntett integritet,\nb. stabilitet og flyteevne,\nc. maskineri og elektriske installasjoner,\nd. brannsikring,\ne. navigasjonsutstyr,\nf. kommunikasjonsutstyr,\ng. redningsmidler."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 10",
+     "tittel": "Måling av skip",
+     "ledd": [
+      "Et skip skal måles og være utstyrt med målebrev.",
+      "Departementet kan gi forskrifter om måling, herunder om:\na. hvilke skip som er målepliktige,\nb. ommåling,\nc. hvem som skal forestå målingen,\nd. målebrevet og annen dokumentasjon vedrørende måling,\ne. anerkjennelse av utenlandske målebrev."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 11",
+     "tittel": "Drift og vedlikehold",
+     "ledd": [
+      "Et skip skal drives og vedlikeholdes på en slik måte at det ut fra skipets formål og det fartsområdet det er bestemt for, gir betryggende sikkerhet for liv og helse, miljø og materielle verdier.",
+      "Departementet kan gi forskrifter med nærmere bestemmelser om hvordan et skip skal drives og vedlikeholdes for å tilfredsstille kravene i første ledd."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 12",
+     "tittel": "Last og ballast",
+     "ledd": [
+      "Et skip skal være lastet eller ballastet på en slik måte at stabiliteten og flyteevnen ikke settes i fare, og slik at sikkerheten for liv og helse, miljø og materielle verdier ikke trues på annen måte. Departementet kan gi forskrifter med nærmere bestemmelser om last og ballast, herunder om farlig last, sikring av last, fribord og lastemerker.",
+      "Lasting og lossing skal skje på en slik måte at sikkerheten for liv og helse, miljø og materielle verdier ikke trues. Departementet kan gi forskrifter om lasting og lossing, herunder om laste- og losseinnretninger."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 13",
+     "tittel": "Sertifikater",
+     "ledd": [
+      "Departementet kan i forskrift stille krav om at skipet skal ha sertifikater utstedt av tilsynsmyndigheten eller den departementet bestemmer, som dokumentasjon på at skipet på utstedelsestidspunktet tilfredsstiller krav fastsatt i eller i medhold av loven.",
+      "Sertifikater kan inneholde særskilte vilkår, og skal til enhver tid være tilgjengelig om bord.",
+      "Departementet kan gi forskrift om krav til sertifikater, herunder om:\na. hvilke sertifikater et skip skal være utstyrt med,\nb. utstedelse, gyldighet og vilkår,\nc. adgang til å fravike kravene i første og annet ledd,\nd. anerkjennelse av utenlandske sertifikater."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-6",
+     "nummer": "§ 14",
+     "tittel": "Navigering",
+     "ledd": [
+      "Et skip skal navigeres slik at det ikke oppstår fare for liv og helse, miljø eller materielle verdier.",
+      "Departementet kan gi forskrift om krav til sikker navigering, herunder om:\na. sjøveisregler,\nb. bruk av navigasjonshjelpemidler,\nc. skipsbøker samt andre skipspapirer,\nd. tiltak hvor skipet eller et annet skip er i havsnød,\ne. tiltak for å trygge skipet under krig, krigsfare og lignende forhold."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-7",
+     "nummer": "§ 15",
+     "tittel": "Bemanning og vakthold",
+     "ledd": [
+      "Et skip skal være bemannet på en sikkerhetsmessig forsvarlig måte.",
+      "Vaktholdet om bord skal være tilstrekkelig til å opprettholde sikker navigering og andre sikkerhets- og driftsfunksjoner.",
+      "Departementet kan gi nærmere forskrift om kravene til bemanning og vakthold."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-8",
+     "nummer": "§ 16",
+     "tittel": "Kvalifikasjonskrav og personlige sertifikater",
+     "ledd": [
+      "Den som har sitt arbeid om bord, må ha de kvalifikasjoner og eventuelle sertifikater som kreves for den aktuelle stillingen eller det arbeidet som skal utføres. Sertifikatet skal vise at de nødvendige kravene var oppfylt ved sertifikatets utstedelse, herunder krav til alder, tjeneste, helsetilstand, utdanning, språk og opplæring for stillingen.",
+      "Departementet kan gi forskrifter med nærmere bestemmelser om sertifikatpliktige stillinger og om kvalifikasjoner, herunder om:\na. utstedelse og gradering av sertifikater,\nb. nødvendig dokumentasjon,\nc. anerkjennelse av utenlandske sertifikater,\nd. kvalifikasjonskontroll,\ne. adgang til å inndra sertifikater,\nf. adgang til å fravike kravene etter første ledd,\ng. mønstring."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-9",
+     "nummer": "§ 17",
+     "tittel": "Helsekrav",
+     "ledd": [
+      "Den som har sitt arbeid om bord, må være fysisk og psykisk skikket til tjenesten og ikke utgjøre en fare for andre om bord. Vedkommende skal legge frem helseerklæring som viser at vilkårene i første punktum er oppfylt, og har plikt til å la seg undersøke av lege når skipsføreren finner grunn til å kreve det.",
+      "Departementet kan gi nærmere forskrift om kravene i første ledd til fysisk og psykisk skikkethet, helseerklæring og legeundersøkelser, herunder om:\na. minimumskrav til helse, syn og hørsel for ulike stillinger,\nb. helseerklæring,\nc. godkjenning av leger,\nd. klagenemnd,\ne. innberetning av yrkesskader og yrkessykdommer,\nf. adgang til å fravike kravene etter første ledd."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-10",
+     "nummer": "§ 18",
+     "tittel": "Minstealder",
+     "ledd": [
+      "Den som har sitt arbeid om bord må ha fylt 16 år. Departementet kan gi forskrift om minstealder, herunder om:\na. høyere minstealder for visse fartsområder, skip og stillinger,\nb. særskilte vilkår for at personer mellom 16 og 18 år kan tjenestegjøre om bord, og særlige vernetiltak for disse,\nc. adgang til å fravike kravene etter første ledd."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-11",
+     "nummer": "§ 19",
+     "tittel": "Skipsførerens plikter etter dette kapitlet",
+     "ledd": [
+      "Skipsføreren skal sørge for at:\na. skipet er lastet og ballastet på en sikkerhetsmessig forsvarlig måte og at lasting og lossing av skipet skjer på en sikker måte, jf. § 12, sjølovens § 131 første ledd og forskrifter gitt i medhold av bestemmelsene,\nb. navigeringen av skipet og føringen av skipsbøker skjer i henhold til § 14, jf. sjøloven §§ 132 og 133 og forskrifter gitt i medhold av bestemmelsene,\nc. vaktholdet om bord er sikkerhetsmessig forsvarlig, jf. § 15 annet ledd og forskrifter gitt i medhold av bestemmelsen,\nd. andre som har sitt arbeid om bord ved tiltredelsen eller ved tildelingen av arbeidsoppgaver får nødvendig kunnskap om skipet, om sine plikter, om grunnleggende miljø- og sikkerhetsbestemmelser og om tiltak ved en sjøulykke.",
+      "Skipsføreren skal medvirke til at:\na. driften og vedlikeholdet av skipet til enhver tid er sikkerhetsmessig forsvarlig, jf. § 11 og forskrifter gitt i medhold av bestemmelsen,\nb. skipet har de sertifikatene som kreves, jf. § 13 og forskrifter gitt i medhold av bestemmelsen,\nc. bemanningen av skipet er sikkerhetsmessig forsvarlig, jf. § 15 første ledd og sjøloven § 131 første ledd, samt forskrifter gitt i medhold av bestemmelsene,\nd. vedkommende selv og andre som har sitt arbeid om bord er behørig kvalifisert og har gyldig helseerklæring, jf. § 16 og § 17 og forskrifter gitt i medhold av bestemmelsene.",
+      "Departementet kan gi nærmere forskrift om kravene som i første og annet ledd stilles til skipsføreren."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-12",
+     "nummer": "§ 20",
+     "tittel": "Plikter etter dette kapitlet for andre som har sitt arbeid om bord",
+     "ledd": [
+      "Andre som har sitt arbeid om bord, skal så langt dette følger av vedkommendes stilling, medvirke til at:\na. driften og vedlikeholdet av skipet til enhver tid er sikkerhetsmessig forsvarlig, jf. § 11 og forskrifter gitt i medhold av bestemmelsen,\nb. skipet er lastet eller ballastet på en sikkerhetsmessig forsvarlig måte og at lasting og lossing av skipet skjer på en sikker måte, jf. § 12 og forskrifter gitt i medhold av bestemmelsen,\nc. navigeringen av skipet skjer på en sikker måte og at føring av skipsbøker skjer på korrekt måte, jf. § 14 og forskrifter gitt i medhold av bestemmelsen,\nd. vaktholdet om bord er sikkerhetsmessig forsvarlig, jf. § 15 annet ledd og forskrifter gitt i medhold av bestemmelsen,\ne. vedkommende selv er behørig kvalifisert og har gyldig helseerklæring, jf. § 16 og § 17 og forskrifter gitt i medhold av bestemmelsene.",
+      "Departementet kan gi nærmere forskrift om kravene i første ledd til andre som har sitt arbeid om bord."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Arbeidsmiljø og personlig sikkerhet",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Overskriften endret ved lov 21 juni 2013 nr. 102 (ikr. 20 aug 2013 iflg. res. 21 juni 2013 nr. 730)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 21",
+     "tittel": "Sikkerhetsinnretninger og utstyr",
+     "ledd": [
+      "Et skip skal ha nødvendige innretninger og utstyr og det skal treffes slike sikkerhetstiltak og andre forholdsregler som er nødvendige for å unngå eller redusere fare for liv og helse og sikre et fullt forsvarlig arbeidsmiljø for dem som har sitt arbeid om bord.",
+      "Departementet kan gi nærmere forskrift om kravene i første ledd, herunder om:\na. lysforhold,\nb. klima,\nc. forurensning,\nd. fysiske faktorer,\ne. rømningsveier,\nf. verne- og sikkerhetsinnretninger."
+     ],
+     "endringer": [
+      "Endret ved lov 21 juni 2013 nr. 102 (ikr. 20 aug 2013 iflg. res. 21 juni 2013 nr. 730)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 22",
+     "tittel": "Tilrettelegging og utføring av arbeidet om bord",
+     "ledd": [
+      "Arbeidet om bord skal tilrettelegges og utføres slik at hensynet til liv, helse og arbeidsmiljø blir ivaretatt på en god og hensiktsmessig måte. Ved tilretteleggingen skal det tas hensyn til den enkeltes forutsetninger for å kunne utføre arbeidet på en måte som er sikkerhetsmessig forsvarlig.",
+      "Departementet kan gi forskrifter med nærmere bestemmelser om de kravene som stilles etter første ledd for å unngå eller redusere farer forbundet med arbeidet eller for å sikre et fullt forsvarlig arbeidsmiljø, herunder om:\na. kartlegging av farene og iverksettelse av hensiktsmessige tiltak,\nb. nødvendige tiltak til opplæring og øvelse samt instruksjon av dem som har sitt arbeid om bord,\nc. tilgjengelighet av hensiktsmessig sikkerhets- og verneutstyr,\nd. plikt til å informere og drøfte farer forbundet med arbeidet og sikkerheten med dem som har sitt arbeid om bord,\ne. tilrettelegging av arbeidssituasjonen for dem som har sitt arbeid om bord for å gi mulighet for variasjon, for faglig og personlig utvikling og for selvbestemmelse,\nf. nødvendig informasjon, medvirkning og kompetanseutvikling under omstillingsprosesser,\ng. tiltak for å sikre et godt psykososialt arbeidsmiljø,\nh. plikt til å samarbeide med andre om arbeidsmiljøet om bord,\ni. plikt til å legge forholdene til rette for varsling."
+     ],
+     "endringer": [
+      "Endret ved lov 21 juni 2013 nr. 102 (ikr. 20 aug 2013 iflg. res. 21 juni 2013 nr. 730)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 22 a",
+     "tittel": "Sertifikat for arbeids- og levevilkår",
+     "ledd": [
+      "Et skip skal ha sertifikat for arbeids- og levevilkår som dokumentasjon på at skipet på tidspunktet for utstedelsen tilfredsstiller krav til arbeids- og levevilkår fastsatt i eller i medhold av denne lov og skipsarbeidsloven.",
+      "Sertifikatet utstedes av tilsynsmyndigheten eller den departementet bestemmer og skal til enhver tid være tilgjengelig om bord. Sertifikatet kan inneholde særskilte vilkår.",
+      "Departementet kan gi forskrift om krav til sertifikatet, herunder om:\na. hvilke skip som skal være utstyrt med sertifikat,\nb. utstedelse, gyldighet og vilkår,\nc. erklæring om samsvar med relevante konvensjoner for skip og fiskefartøyer,\nd. adgang til å fravike kravene i første og annet ledd,\ne. anerkjennelse av utenlandske sertifikater."
+     ],
+     "endringer": [
+      "Tilføyd ved lov 21 juni 2013 nr. 102 (ikr. 20 aug 2013 iflg. res. 21 juni 2013 nr. 730)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 23",
+     "tittel": "Arbeidstid",
+     "ledd": [
+      "Den alminnelige arbeidstiden skal være 8 timer i døgnet, med ett døgns hvile i hver uke og hvile på offentlige fridager.",
+      "Departementet kan gi forskrift om arbeidstiden, herunder om unntak fra bestemmelsene i første ledd, enten generelt eller for visse stillinger, samt om ekstraarbeid som følge av sikkerhetsmessige forhold."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-5",
+     "nummer": "§ 24",
+     "tittel": "Hviletid",
+     "ledd": [
+      "Hviletiden skal minst være 10 timer i løpet av en hvilken som helst periode på 24 timer, og 77 timer i en hvilken som helst periode på 168 timer. Hviletiden kan deles opp i to perioder, hvorav én skal være på minst 6 timer. Intervallet mellom fortløpende hvileperioder skal ikke overstige 14 timer.",
+      "Bestemmelsene i første ledd gjelder ikke ved nødssituasjoner eller ved arbeid som følger av mønstringer eller øvelser pålagt i eller i medhold av lov. Bestemmelsene i første ledd gjelder heller ikke for vaktgående personell eller personell som har spesielle oppgaver knyttet til sikkerhet, beredskap eller hindring av forurensning ved arbeid som følge av overordnede driftsforhold.",
+      "Unntak fra bestemmelsene i første ledd kan fastsettes i bindende tariffavtale. Ved fastsettelsen skal det tas hensyn til sjøfolkenes helse og sikkerhet, herunder behovet for hvile.",
+      "For sjøfolk som inngår i brovakt eller maskinvakt, eller som har spesielle oppgaver knyttet til sikkerhet, beredskap eller hindring av forurensning, kan det i tariffavtale kun fastsettes unntak fra første ledd på følgende vilkår:\na. Den ukentlige hviletiden kan reduseres til 70 timer i perioder av inntil to ukers varighet. Tidsrommet mellom to unntaksperioder skal minst være dobbelt så langt som unntaksperioden.\nb. For inntil to døgn per uke kan den daglige hviletiden deles opp i inntil tre perioder hvorav én skal være minst seks timer, og ingen av de andre to mindre enn én time. Tidsrommet mellom to påfølgende hvileperioder skal ikke overstige 14 timer.",
+      "For personell på passasjerskip med skiftordning i fartsområde 1 og 2 kan tilsynsmyndigheten fastsette unntak fra første ledd utover de begrensninger som er nevnt i fjerde ledd. Det kan fastsettes nærmere vilkår for unntaket, og det skal foreligge en begrunnet uttalelse fra berørte sjømanns- og rederiorganisasjoner før unntak fastsettes.",
+      "Departementet kan gi forskrift om hviletiden, herunder unntak fra første ledd for personell på fiske- og fangstfartøy."
+     ],
+     "endringer": [
+      "Endret ved lov 20 apr 2012 nr. 21 (ikr. 20 apr 2012 iflg. res. 20 apr 2012 nr. 337)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-6",
+     "nummer": "§ 25",
+     "tittel": "Bo- og fritidsmiljø",
+     "ledd": [
+      "De som har sitt arbeid om bord skal ha tilfredsstillende bo- og fritidsmiljø. Det skal finnes tilstrekkelig med lugarer, oppholdsrom, spiserom, rom for å tilberede mat, rom for personlig hygiene og sykerom. Alle rom skal være tilstrekkelig store, og innredet og utstyrt slik at et godt arbeidsmiljø sikres.",
+      "Departementet kan gi nærmere forskrifter om kravene i første ledd, under hensyn til hvor mange som arbeider om bord og skipets størrelse, konstruksjon, fartsområde og øvrige forhold."
+     ],
+     "endringer": [
+      "Endret ved lov 21 juni 2013 nr. 102 (ikr. 20 aug 2013 iflg. res. 21 juni 2013 nr. 730)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-7",
+     "nummer": "§ 26",
+     "tittel": "Forpleining",
+     "ledd": [
+      "De som har sitt arbeid om bord, skal få god og tilstrekkelig kost som skal være i samsvar med lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) og forskrifter gitt i medhold av loven.",
+      "Departementet kan gi nærmere forskrift om kravene i første ledd, herunder krav til proviant-, kjøle- og fryserom."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-8",
+     "nummer": "§ 27",
+     "tittel": "Legemidler og rett til behandling av syke",
+     "ledd": [
+      "Et skip skal være utstyrt med legemidler og annet som er nødvendig til behandling av syke og skadede og til forebyggelse av sykdom om bord.",
+      "Syke og skadede kan i nødvendig utstrekning tas under behandling.",
+      "Departementet kan gi nærmere forskrift om kravene i første og annet ledd, herunder om hvem som kan utføre behandlingen."
+     ],
+     "endringer": [
+      "Endret ved lov 21 juni 2013 nr. 102 (ikr. 20 aug 2013 iflg. res. 21 juni 2013 nr. 730)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-9",
+     "nummer": "§ 28",
+     "tittel": "Verneombud og arbeidsmiljøutvalg",
+     "ledd": [
+      "På skip skal det være organisert verne- og miljøarbeid. Det skal velges verneombud av og blant dem som har sitt arbeid om bord, og opprettes et arbeidsmiljøutvalg.",
+      "Departementet kan gi forskrift om verne- og miljøarbeid, herunder om:\na. verneombuds oppgaver og rettigheter,\nb. arbeidsmiljøutvalgets sammensetning og oppgaver,\nc. samordning av verne- og miljøarbeidet,\nd. unntak fra bestemmelsene i første ledd for visse skip."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-10",
+     "nummer": "§ 28 a",
+     "tittel": "Arbeidsgiverens plikter etter dette kapitlet",
+     "ledd": [
+      "Er arbeidsgiveren en annen enn rederiet, skal vedkommende medvirke til at skipet har et fullt forsvarlig arbeidsmiljø etter reglene i dette kapittel.",
+      "Departementet kan gi nærmere forskrift om kravene som stilles til arbeidsgiveren etter første ledd, herunder om plikt til å samarbeide med andre om arbeidsmiljøet om bord."
+     ],
+     "endringer": [
+      "Tilføyd ved lov 21 juni 2013 nr. 102 (ikr. 20 aug 2013 iflg. res. 21 juni 2013 nr. 730)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-11",
+     "nummer": "§ 29",
+     "tittel": "Skipsførerens plikter etter dette kapitlet",
+     "ledd": [
+      "Skipsføreren skal sørge for at:\na. arbeidet om bord er tilrettelagt slik at det kan utføres sikkerhetsmessig forsvarlig og at kravene til arbeidsmiljøet ivaretas, jf. § 22 og forskrifter gitt i medhold av bestemmelsen,\nb. den fastsatte hviletiden overholdes, jf. § 24 og forskrifter gitt i medhold av bestemmelsen.",
+      "Skipsføreren skal medvirke til at:\na. skipet har nødvendige innretninger og utstyr og at det er truffet nødvendige sikkerhetstiltak og andre forholdsregler for å sikre liv, helse og et fullt forsvarlig arbeidsmiljø for de som arbeider om bord, jf. § 21 og forskrifter gitt i medhold av bestemmelsen,\nb. bo- og fritidsmiljø og forpleining er i samsvar med §§ 25 og 26 og forskrifter gitt i medhold av bestemmelsene,\nc. skipet er utstyrt med nødvendige legemidler mv., jf. § 27 og forskrifter gitt i medhold av bestemmelsen,\nd. verne- og miljøarbeidet om bord organiseres og gjennomføres på en forsvarlig måte, jf. § 28 og forskrifter gitt i medhold av bestemmelsen.",
+      "Departementet kan gi nærmere forskrift om kravene som stilles til skipsføreren etter første og annet ledd."
+     ],
+     "endringer": [
+      "Endret ved lov 21 juni 2013 nr. 102 (ikr. 20 aug 2013 iflg. res. 21 juni 2013 nr. 730)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-12",
+     "nummer": "§ 30",
+     "tittel": "Plikter etter dette kapitlet for andre som har sitt arbeid om bord",
+     "ledd": [
+      "Andre som har sitt arbeid om bord, skal så langt dette følger av vedkommendes stilling, medvirke til at:\na. det treffes nødvendige sikkerhetstiltak for å sikre liv og helse for de som arbeider om bord, jf. § 21 første ledd og forskrifter gitt i medhold av bestemmelsen,\nb. arbeidet om bord tilrettelegges slik at det kan utføres sikkerhetsmessig forsvarlig og at kravene til arbeidsmiljøet ivaretas, jf. § 22 og forskrifter gitt i medhold av bestemmelsen,\nc. verne- og miljøarbeidet gjennomføres på en forsvarlig måte, jf. § 28 og forskrifter gitt i medhold av bestemmelsen.",
+      "Departementet kan gi forskrifter med nærmere bestemmelser om kravene i første ledd til andre som har sitt arbeid om bord."
+     ],
+     "endringer": [
+      "Endret ved lov 21 juni 2013 nr. 102 (ikr. 20 aug 2013 iflg. res. 21 juni 2013 nr. 730)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Miljømessig sikkerhet",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 31",
+     "tittel": "Forbud mot forurensning",
+     "ledd": [
+      "Forurensning av det ytre miljø ved utslipp eller dumping fra skipet, eller ved forbrenning av skadelige stoffer eller på annen måte i forbindelse med driften av skipet er forbudt, med mindre annet fremgår av lov eller forskrift fastsatt med hjemmel i lov.",
+      "Forbudet mot utslipp eller dumping fastsatt i medhold av dette kapitlet gjelder ikke:\na. ved utslipp av skadelige stoffer eller dumping som er nødvendig av hensyn til skips sikkerhet, de ombordværendes helse eller for å redde liv, eller\nb. ved utslipp av skadelige stoffer eller dumping som skyldes skade på skip, når alle rimelige forholdsregler er tatt både før og etter uhellet for å hindre eller begrense utslippet.",
+      "Dette kapitlet og forskrifter gitt i medhold av det, kommer ikke til anvendelse på forurensning som utelukkende skyldes utforskning, utvinning og utnyttelse til sjøs av undersjøiske naturforekomster.",
+      "Departementet kan gi forskrift om hva som skal anses som:\na. skadelige stoffer, herunder organismer,\nb. utslipp,\nc. dumping,\nd. forbrenning."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 32",
+     "tittel": "Teknisk miljømessig sikkerhet",
+     "ledd": [
+      "Et skip skal være prosjektert, bygget og utrustet slik at det ikke skjer forurensning av det ytre miljø fra skipet i strid med § 31.",
+      "Departementet kan gi forskrifter med nærmere krav til hvordan et skip skal være prosjektert, bygget og utrustet for å unngå forurensning."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 33",
+     "tittel": "Driften av skipet",
+     "ledd": [
+      "Driften av et skip skal legges opp og gjennomføres slik at det ikke skjer forurensning av det ytre miljø fra skipet i strid med § 31.",
+      "Departementet kan gi forskrift med nærmere krav til hvordan et skip skal drives for å unngå forurensning, herunder om:\na. utslipp, dumping og forbrenning,\nb. bunkers og bunkring,\nc. ballasthåndtering,\nd. miljøsertifikater,\ne. dagbokføring av behandling av skadelige stoffer."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-4",
+     "nummer": "§ 34",
+     "tittel": "Beredskap, varsling og rapportering",
+     "ledd": [
+      "Et skip skal ha nødvendig beredskap, herunder en beredskapsplan, for å kunne avverge eller eventuelt begrense virkningene av forurensning av det ytre miljø fra skipet.",
+      "Ved forurensning eller fare for forurensning, skal det umiddelbart varsles om hendelsen og om de tiltakene som er eller vil bli truffet for å avverge eller begrense virkningene. En etterfølgende rapport om ulykken skal sendes tilsynsmyndigheten.",
+      "Departementet kan gi nærmere forskrift om kravene i første og annet ledd, herunder om:\na. den beredskapen skipet skal ha,\nb. hva en beredskapsplan skal inneholde,\nc. hvordan og til hvem varsling og rapportering skal skje,\nd. unntak fra bestemmelsen i første ledd for visse skip."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-5",
+     "nummer": "§ 35",
+     "tittel": "Levering av skadelige stoffer til mottaksanlegg",
+     "ledd": [
+      "Et skip skal levere skadelige stoffer til særskilte mottaksanlegg i land, så langt slike stoffer ikke kan håndteres forsvarlig om bord eller kan leveres til andre for forsvarlig håndtering.",
+      "Departementet kan gi nærmere forskrift om kravene i første ledd, herunder om meldeplikt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-6",
+     "nummer": "§ 36",
+     "tittel": "Skip som tas endelig ut av drift",
+     "ledd": [
+      "Et skip som skal tas endelig ut av drift skal håndteres på en forsvarlig måte, slik at det ikke oppstår fare for liv, helse eller miljø.",
+      "Departementet kan gi nærmere forskrift om kravene i første ledd, herunder om meldeplikt og om fjerning av skadelige stoffer om bord."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-7",
+     "nummer": "§ 37",
+     "tittel": "Skipsførerens plikter etter dette kapitlet",
+     "ledd": [
+      "Skipsføreren skal sørge for at:\na. det varsles umiddelbart om forurensning eller fare for forurensning og settes i verk rimelige tiltak for å hindre slik forurensning eller begrense virkningen av den, samt at etterfølgende rapport innsendes, jf. § 34 annet ledd og forskrifter gitt i medhold av bestemmelsen,\nb. skadelige stoffer behandles i overensstemmelse med § 35 og forskrifter gitt i medhold av bestemmelsen.\nc. dagbøker som nevnt i § 33 annet ledd bokstav e føres på en korrekt måte.",
+      "Skipsføreren skal medvirke til at:\na. skipets utrustning er egnet til å hindre forurensning, jf. § 32 og forskrifter gitt i medhold av bestemmelsen,\nb. driften av skipet legges opp og gjennomføres slik at forurensning hindres, jf. § 33 og forskrifter gitt i medhold av bestemmelsen,\nc. skipet har nødvendig beredskap for å avverge eller begrense forurensning fra skipet, jf. § 34 første ledd og forskrifter gitt i medhold av bestemmelsen.",
+      "Departementet kan gi nærmere forskrift om kravene til skipsføreren i første og annet ledd."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-8",
+     "nummer": "§ 38",
+     "tittel": "Plikter etter dette kapitlet for andre som har sitt arbeid om bord",
+     "ledd": [
+      "Andre som har sitt arbeid om bord, skal så langt dette følger av vedkommendes stilling, medvirke til at driften av skipet legges opp og gjennomføres slik at forurensning hindres, jf. § 33 og forskrifter gitt i medhold av bestemmelsen.",
+      "Departementet kan gi nærmere forskrift om de kravene som første ledd stiller til andre som har sitt arbeid om bord."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Sikkerhets- og terrorberedskap",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 39",
+     "tittel": "Forebyggende tiltak mot angrep mv. på skip",
+     "ledd": [
+      "Det skal treffes tiltak for å hindre og beskytte skipet mot terrorhandlinger, piratvirksomhet, blindpassasjerer og andre ulovlige handlinger.",
+      "De som har sitt arbeid om bord skal være utstyrt med et identifikasjonsbevis.",
+      "Departementet kan gi forskrifter med nærmere bestemmelser om kravene til sikkerhets- og terrorberedskapen på skip, herunder om:\na. hvilke skip som skal være omfattet av reglene,\nb. plikt til å foreta en sårbarhetsvurdering,\nc. plikt til å ha en godkjent sikkerhets- og terrorberedskapsplan for skipet,\nd. plikt til å utpeke og lære opp særskilt personell med ansvar for sikkerhets- og terrorberedskap på skipet og i rederiet,\ne. terroralarmsystem på skipet,\nf. kontroll av personer og gjenstander som er eller skal om bord på skipet,\ng. utstedelse og utforming av identifikasjonsbevis,\nh. sikkerhets- og terrorberedskapssertifikater."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 40",
+     "tittel": "Bruk av maktmidler",
+     "ledd": [
+      "Når det er nødvendig for å hindre eller beskytte mot handlinger som nevnt i § 39 første ledd, kan det fra skipets side iverksettes tiltak og anvendes maktmidler.",
+      "I andre situasjoner der dette er nødvendig for å opprettholde ro og orden om bord, kan det anvendes tiltak og maktmidler som nevnt i første ledd, så langt de er forholdsmessige.",
+      "Retten til å iverksette tiltak og anvende maktmidler tilligger skipsføreren. Enhver som befinner seg om bord, plikter å yte hjelp og respektere de tiltak som treffes.",
+      "Departementet kan gi forskrift om bruk av tiltak og maktmidler i henhold til første og annet ledd."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kap7",
+   "overskrift": "Kapittel 7. Tilsyn",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 41",
+     "tittel": "Tilsynsmyndighet",
+     "ledd": [
+      "Kongen fastsetter hvem som skal ha tilsynsmyndighet etter loven.",
+      "Departementet kan inngå avtale med ett eller flere klasseselskap om at tilsynsmyndighet kan overlates til vedkommende institusjon. Avtalen skal regulere omfanget av og vilkårene for slik overlatelse.",
+      "Departementet kan gi forskrift med nærmere bestemmelser om krav til anerkjente klasseselskap m.m.",
+      "Departementet kan gi forskrift eller inngå avtale om at tilsyn eller tilsynsmyndighet i enkelttilfeller eller på avgrensede områder kan overlates til private eller til utenlandske eller internasjonale myndigheter."
+     ],
+     "endringer": [
+      "Endret ved lover 21 juni 2013 nr. 102 (ikr. 20 aug 2013 iflg. res. 21 juni 2013 nr. 730), 20 juni 2025 nr. 110 (i kraft 1 aug 2025 iflg. res. 20 juni 2025 nr. 1116)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-2",
+     "nummer": "§ 41 a",
+     "tittel": "Myndighet lagt til EFTAs overvåkningsorgan og EFTA-domstolen",
+     "ledd": [
+      "EFTAs overvåkningsorgan og EFTA-domstolen kan ilegge foretak eller sammenslutninger av foretak økonomiske reaksjoner som nevnt i artikkel 6 i forordning (EF) nr. 391/2009 av 23. april 2009 om felles regler og standarder for klasseselskap og inspeksjon av skip, slik denne er tatt inn i EØS-avtalen vedlegg XIII, kapittel V, pkt. 55e.",
+      "Departementet kan gi forskrift om gjennomføring av bestemmelser som utfyller bestemmelsen nevnt i første ledd."
+     ],
+     "endringer": [
+      "Tilføyd ved lov 20 juni 2025 nr. 110 (i kraft 1 aug 2025 iflg. res. 20 juni 2025 nr. 1116)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-3",
+     "nummer": "§ 42",
+     "tittel": "Tilsyn med sikkerhetsstyringssystem",
+     "ledd": [
+      "Det skal føres tilsyn med sikkerhetsstyringssystem, jf. § 7. Tilsynet kan blant annet omfatte følgende elementer:\na. systemrevisjon av dokumentasjonen for at rederiet har etablert nødvendige og hensiktsmessige systematiske tiltak,\nb. verifikasjon av at de systematiske tiltakene under bokstav a er til stede og fungerer i praksis og at aktiviteten når det gjelder slike tiltak er i overensstemmelse med krav fastsatt i lov og forskrift.",
+      "Tilsynet etter første ledd kan skje gjennom intervjuer med ledelsen og personalet på forskjellig nivåer i rederiet, ved inspeksjoner eller på annen hensiktsmessig måte.",
+      "Departementet kan gi nærmere forskrift om gjennomføringen av tilsynet med sikkerhetsstyringssystem."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-4",
+     "nummer": "§ 43",
+     "tittel": "Tilsynet med norske skip",
+     "ledd": [
+      "Det skal føres tilsyn med norske skip, herunder med arbeidsvilkår og arbeidsmiljø for dem som har sitt arbeid om bord.",
+      "Departementet kan i forskrift bestemme at tilsyn ikke skal finne sted helt eller delvis, med mindre Norges folkerettslige forpliktelser er til hinder for slikt unntak.",
+      "Tilsynet etter første og annet ledd kan omfatte forhold som nevnt i skipsarbeidsloven og i kapittel 3, 4, 5 og 6 i denne loven og skal ha som formål å bringe på det rene om de kravene som fremgår i eller i medhold av disse lovene, er oppfylt.",
+      "Rederiet har plikt til å be om tilsyn etter første ledd når dette er nødvendig for å oppfylle krav i eller i medhold av skipsarbeidsloven eller denne lov.",
+      "Departementet kan gi forskrifter om tilsynet, herunder om:\na. hyppighet, innhold og omfang, herunder besiktelse,\nb. den praktiske gjennomføringen, herunder besiktelse,\nc. rett for den som har sitt arbeid om bord til å kreve tilsyn, herunder besiktelse."
+     ],
+     "endringer": [
+      "Endret ved lov 21 juni 2013 nr. 102 (ikr. 20 aug 2013 iflg. res. 21 juni 2013 nr. 730)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-5",
+     "nummer": "§ 44",
+     "tittel": "Tilsynet med utenlandske skip",
+     "ledd": [
+      "Det kan foretas tilsyn av utenlandske skip, herunder med arbeidsvilkår og arbeidsmiljø for dem som har sitt arbeid om bord.",
+      "Departementet kan gi forskrifter med nærmere bestemmelser om slikt tilsyn, herunder om:\na. hyppigheten, innholdet og omfanget av tilsynet,\nb. den praktiske gjennomføringen av tilsynet."
+     ],
+     "endringer": [
+      "Endret ved lov 21 juni 2013 nr. 102 (ikr. 20 aug 2013 iflg. res. 21 juni 2013 nr. 730)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-6",
+     "nummer": "§ 45",
+     "tittel": "Plikt til å medvirke til tilsynet",
+     "ledd": [
+      "Rederiet, arbeidsgiveren, skipsføreren og andre som har sitt arbeid om bord skal medvirke til tilsynet etter dette kapittel, og skal blant annet:\na. gi alle opplysninger som er nødvendige for utøvelsen av tilsynet,\nb. utlevere skipsbøker, rapporter, tegninger og annet materiale.",
+      "Plikt til medvirkning som nevnt i første ledd påhviler også andre, så langt slik medvirkning ikke kommer i strid med deres taushetsplikt i henhold til lov eller avtale.",
+      "Tilsynsmyndigheten skal til enhver tid ha adgang til skipet og rederi- og arbeidsgiverkontorer.",
+      "Departementet kan gi forskrifter med nærmere bestemmelser om innholdet, omfanget og gjennomføringen av medvirkningen og om tilsynets adgang til skipet og rederi- og arbeidsgiverkontorer."
+     ],
+     "endringer": [
+      "Endret ved lov 21 juni 2013 nr. 102 (ikr. 20 aug 2013 iflg. res. 21 juni 2013 nr. 730)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-7",
+     "nummer": "§ 46",
+     "tittel": "Bistandsplikt",
+     "ledd": [
+      "Rederiet, arbeidsgiveren og skipsføreren skal yte bistand til utenlandske og internasjonale tilsynsmyndigheter på en slik måte og i et slikt omfang som følger av Norges folkerettslige forpliktelser.",
+      "Departementet kan gi forskrift om bistandsplikten etter første ledd."
+     ],
+     "endringer": [
+      "Endret ved lov 21 juni 2013 nr. 102 (ikr. 20 aug 2013 iflg. res. 21 juni 2013 nr. 730)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-8",
+     "nummer": "§ 47",
+     "tittel": "Rederiets melde- og rapporteringsplikt",
+     "ledd": [
+      "Rederiet skal gi tilsynsmyndigheten melding når det har inngått avtale om:\na. bygging av skip,\nb. ombygging av skip,\nc. kjøp av skip.",
+      "Rederiet eller skipsføreren skal gi den myndighet Kongen bestemmer melding og rapport ved skade eller sykdom som rammer den som har sitt arbeid om bord. Skyldes skaden en arbeidsulykke eller skipsulykke som er omfattet av reglene om sjøulykker i kapittel 18 avsnitt II i lov 24. juni 1994 nr. 39 om sjøfarten (sjøloven), skal melding og rapport om skade skje etter regler gitt i eller i medhold av sjøloven § 475.",
+      "Rederiet skal også gi rapport om andre forhold som det er av betydning for tilsynsmyndigheten å kjenne til, herunder om verne- og miljøarbeid.",
+      "Departementet kan gi forskrift om melde- og rapporteringsplikten etter denne paragrafen."
+     ],
+     "endringer": [
+      "Endret ved lov 27 juni 2008 nr. 72 (ikr. 1 juli 2008 iflg. res. 27 juni 2008 nr. 743)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-9",
+     "nummer": "§ 48",
+     "tittel": "Gebyrer",
+     "ledd": [
+      "Tilsynsmyndighetens utgifter ved tilsyn, sertifikatutstedelse, måling og lignende kan kreves dekket av rederiet eller av den som ber om vedkommende tjeneste gjennom gebyr. Gebyr fastsatt med hjemmel i første ledd er tvangsgrunnlag for utlegg.",
+      "Departementet kan gi nærmere forskrift om gebyrer og innkrevingen av disse."
+     ],
+     "endringer": [
+      "Endret ved lov 11 jan 2013 nr. 3 (ikr. 1 juni 2013 iflg. res. 24 mai 2013 nr. 533)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-8",
+   "navn": "kap8",
+   "overskrift": "Kapittel 8. Forvaltningstiltak",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-1",
+     "nummer": "§ 49",
+     "tittel": "Pålegg om tiltak",
+     "ledd": [
+      "Er krav som følger av lov eller forskrift ikke etterkommet, kan tilsynsmyndigheten pålegge rederiet eller arbeidsgiveren å gjennomføre nødvendige tiltak innen en bestemt frist.",
+      "Er pålegg ikke etterkommet innen den fastsatte tidsfristen, kan det iverksettes tiltak som nevnt i § 50 til § 54.",
+      "Departementet kan gi forskrifter med nærmere bestemmelser om rederiets og arbeidsgiverens plikt til å gjennomføre tiltak etter første ledd."
+     ],
+     "endringer": [
+      "Endret ved lov 21 juni 2013 nr. 102 (ikr. 20 aug 2013 iflg. res. 21 juni 2013 nr. 730)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-2",
+     "nummer": "§ 50",
+     "tittel": "Tvangsmulkt",
+     "ledd": [
+      "Hvis rederiet eller eventuelt arbeidsgiveren ikke har etterkommet et pålegg etter § 49 innen den fastsatte fristen, kan tilsynsmyndigheten treffe vedtak om tvangsmulkt for å sikre at pålegget blir etterkommet. I vedtaket om tvangsmulkt skal det settes en ny tidsfrist for å oppfylle pålegget etter § 49, slik at tvangsmulkten begynner å løpe først når pålegget ikke er oppfylt innen denne nye fristen.",
+      "Tvangsmulkten kan fastsettes som et enkeltbeløp eller som en løpende mulkt. Ved fastsettelse av tvangsmulktens størrelse skal det blant annet legges vekt på viktigheten av rettigheter og hensyn til sikkerhet, miljø og arbeidsmiljø som pålegget skal ivareta og kostnadene med å oppfylle pålegget.",
+      "Tvangsmulkten tilfaller statskassen.",
+      "Departementet kan gi forskrifter med nærmere bestemmelser om tvangsmulkt, herunder om tvangsmulktens størrelse og varighet."
+     ],
+     "endringer": [
+      "Endret ved lover 26 mars 2010 nr. 10, 11 jan 2013 nr. 3 (ikr. 1 juni 2013 iflg. res. 24 mai 2013 nr. 533), 21 juni 2013 nr. 102 (ikr. 20 aug 2013 iflg. res. 21 juni 2013 nr. 730), 25 april 2025 nr. 12 (i kraft 1 jan 2026 iflg. res. 10 juni 2025 nr. 967)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-3",
+     "nummer": "§ 51",
+     "tittel": "Tilbaketrekking av sertifikater",
+     "ledd": [
+      "Hvis rederiet eller arbeidsgiveren ikke etterkommer pålegg etter § 49 eller betaler gebyrer i henhold til § 48 innen den fastsatte tidsfristen, kan tilsynsmyndigheten trekke tilbake relevante sertifikater.",
+      "Departementet kan gi forskrifter med nærmere bestemmelser om tilbaketrekking av sertifikater."
+     ],
+     "endringer": [
+      "Endret ved lov 21 juni 2013 nr. 102 (ikr. 20 aug 2013 iflg. res. 21 juni 2013 nr. 730)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-4",
+     "nummer": "§ 52",
+     "tittel": "Tvangstiltak overfor skip",
+     "ledd": [
+      "Tilsynsmyndigheten kan forby et skip å forlate havn eller pålegge det å gå til havn eller fastsette andre nødvendige tiltak overfor skipet, om nødvendig med bruk av tvang, innenfor de grensene som følger av folkeretten, såfremt:\na. skipet ikke oppfyller krav i lov eller forskrift til teknisk, operativ eller miljømessig sikkerhet eller til arbeidsmiljø og personlig sikkerhet, og manglene klart utgjør en fare for de interessene som vedkommende krav er satt til å beskytte,\nb. det foreligger alvorlige brudd på bestemmelser i skipsarbeidsloven, allmenngjøringsloven eller forskrifter gitt i medhold av disse lovene,\nc. skipet ikke har nødvendige sertifikater om bord,\nd. rederiet eller noen i dets tjeneste hindrer tilsynsmyndigheten i å gå om bord i skipet for å foreta tilsyn som ikke er etterkommet etter § 45.",
+      "Vedtak etter første ledd skal inneholde eventuelle pålegg som skipet må etterkomme for at forbud, pålegg eller andre tiltak som nevnt i første ledd kan oppheves eller endres. Dersom tilsynsmyndigheten har gitt pålegg som nevnt i første punktum, og dette ikke etterkommes, kan tilsynsmyndigheten om nødvendig besørge at pålegget gjennomføres for rederiets regning og risiko.",
+      "Departementet kan gi nærmere forskrift om vedtak som nevnt i første ledd, herunder om de påleggene som skipet må etterkomme og om vilkårene for bruken av tvang samt om gjennomføringen av pålegg for rederiets regning og risiko."
+     ],
+     "endringer": [
+      "Endret ved lover 21 juni 2013 nr. 102 (ikr. 20 aug 2013 iflg. res. 21 juni 2013 nr. 730), 9 mai 2014 nr. 16 (ikr. 9 mai 2014 iflg. res. 9 mai 2014 nr. 625), 20 juni 2025 nr. 109 (i kraft 1 juli 2025)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-5",
+     "nummer": "§ 53",
+     "tittel": "Stansing og bording av skip i fart",
+     "ledd": [
+      "Når det foreligger grunn til mistanke om at skip har opptrådt i strid med relevante internasjonale bestemmelser eller krav gitt i eller i medhold av lov eller forskrift som gjelder for skipet, jf. § 3, kan tilsynsmyndigheten innenfor de grensene som følger av folkeretten, stanse og borde skipet i fart for besiktelse med sikte på å undersøke forholdet nærmere, om nødvendig med bruk av tvang. Departementet kan gi forskrifter med nærmere bestemmelser om besiktelse som nevnt i første punktum, herunder om når slik besiktelse kan skje og om vilkårene for bruken av tvang."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-6",
+     "nummer": "§ 54",
+     "tittel": "Nektelse av adgang til norsk sjøterritorium for utenlandsk skip",
+     "ledd": [
+      "Oppfyller ikke et utenlandsk skip de krav som stilles til det etter relevante internasjonale bestemmelser, lov eller forskrift, kan det nektes adgang til norsk sjøterritorium.",
+      "Departementet kan gi forskrifter om gjennomføring etter første ledd herunder bestemmelser om nektelse av anløp til norsk havn på bakgrunn av tidligere tilbakeholdelser, forhold ved skipets flaggstat og andre sikkerhetsmessige forhold."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-9",
+   "navn": "kap9",
+   "overskrift": "Kapittel 9. Administrative sanksjoner",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-1",
+     "nummer": "§ 55",
+     "tittel": "Overtredelsesgebyr",
+     "ledd": [
+      "Tilsynsmyndigheten kan ilegge administrativ sanksjon (overtredelsesgebyr) til den som på vegne av rederiet forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av §§ 6, 9, 11, 12 og 13, § 15 første ledd, § 16, §§ 21, 22 og 24, §§ 32 til 36, § 39 eller § 45.",
+      "Tilsynsmyndigheten kan ilegge overtredelsesgebyr til en skipsfører som, i strid med sine plikter etter §§ 19, 29 og 37, forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av § 12, § 14, § 15 annet ledd, § 16, § 22, § 24, §§ 32 til 35 eller § 45.",
+      "Tilsynsmyndigheten kan dessuten ilegge overtredelsesgebyr til andre som har sitt arbeid om bord som, i strid med sine plikter etter bestemmelser gitt i eller i medhold av § 20 første ledd bokstav c, d og e samt § 38, forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av § 14, § 15 annet ledd, § 16 eller § 33.",
+      "Overtredelsesgebyr kan ilegges etter faste satser eller utmåles i det enkelte tilfellet. Der det skal anvendes faste satser, må disse fremgå av forskrift gitt i medhold av loven. Dersom det ikke skal anvendes faste satser, skal det i forskrift angis hvilke momenter det særlig skal legges vekt på ved utmålingen, og det skal fastsettes et maksimum. Oppfyllelsesfristen for overtredelsesgebyr er fire uker fra vedtaket ble truffet.",
+      "Departementet kan gi nærmere forskrift om ilegging av overtredelsesgebyr, herunder om:\na. faste satser for overtredelsesgebyret,\nb. hvilke momenter det skal legges vekt på ved utmålingen når det ikke anvendes faste satser, og maksimumsbeløp for slike tilfeller,\nc. adgang til i enkeltvedtak å fastsette en kortere oppfyllelsesfrist enn i fjerde ledd, eller å utsette fristen,\nd. renter og tilleggsgebyr dersom overtredelsesgebyret ikke blir betalt ved forfall."
+     ],
+     "endringer": [
+      "Endret ved lover 19 juni 2015 nr. 65 (ikr. 1 okt 2015), 20 des 2023 nr. 115 (i kraft 1 jan 2024 iflg. res. 20 des 2023 nr. 2168)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-2",
+     "nummer": "§ 56",
+     "tittel": "Overtredelsesgebyr mot foretak",
+     "ledd": [
+      "Hvis noen som har handlet på vegne av rederiet, har overtrådt en bestemmelse som nevnt i § 55 første til tredje ledd, kan tilsynsmyndigheten ilegge rederiet overtredelsesgebyr. Dette gjelder selv om overtredelsesgebyr ikke kan ilegges noen enkeltperson.",
+      "Tilsynsmyndigheten kan også ilegge arbeidsgiveren og rederiet overtredelsesgebyr ved manglende utbetaling av lønn i henhold til vedtak om allmenngjøring for arbeidstakere på skip, jf. allmenngjøringsloven § 5.",
+      "Ved avgjørelsen av om rederiet eller arbeidsgiveren skal ilegges overtredelsesgebyr, og ved utmålingen av gebyret skal det særlig legges vekt på:\na. hvor alvorlig overtredelsen er\nb. om rederiet gjennom sikkerhetsstyringssystemet eller ved instruksjon, opplæring, kontroll eller andre tiltak kunne ha forebygget overtredelsen\nc. om overtredelsen er begått for å fremme rederiets eller arbeidsgiverens interesser\nd. om rederiet eller arbeidsgiveren har hatt eller kunne oppnådd noen fordel ved overtredelsen\ne. om det foreligger gjentakelse\nf. rederiets eller arbeidsgiverens økonomiske evne.",
+      "Rederiet er også solidarisk ansvarlig for overtredelsesgebyr som ilegges skipsføreren eller andre som har sitt arbeid om bord, etter bestemmelser gitt i eller i medhold av § 55.",
+      "Departementet kan gi forskrift om overtredelsesgebyr mot rederiet eller arbeidsgiveren etter første til tredje ledd og om det solidariske ansvaret etter fjerde ledd."
+     ],
+     "endringer": [
+      "Endret ved lov 20 juni 2025 nr. 109 (i kraft 1 juli 2025)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-3",
+     "nummer": "§ 57",
+     "tittel": "Inndrivelse av overtredelsesgebyr",
+     "ledd": [
+      "Vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg.",
+      "For å sikre betaling av overtredelsesgebyr etter §§ 55 og 56 som rederiet, arbeidsgiveren, skipsføreren eller andre som har sitt arbeid om bord, er eller antas å ville bli ilagt, kan tilsynsmyndigheten forby skipet å forlate havn, pålegge det å gå til havn eller fastsette andre nødvendige tiltak inntil overtredelsesgebyret er betalt, eller det er stilt tilstrekkelig sikkerhet for beløpet. Tilsynsmyndigheten kan kreve at før tiltak etter første punktum avsluttes, skal rederiet stille tilstrekkelig sikkerhet for eller betale utgiftene ved tiltaket."
+     ],
+     "endringer": [
+      "Endret ved lover 11 jan 2013 nr. 3 (ikr. 1 juni 2013 iflg. res. 24 mai 2013 nr. 533), 20 juni 2025 nr. 109 (i kraft 1 juli 2025)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-10",
+   "navn": "kap10",
+   "overskrift": "Kapittel 10. Straffansvar",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-1",
+     "nummer": "§ 58",
+     "tittel": "Brudd på rederiets plikter når det gjelder sikkerhetsstyringssystem",
+     "ledd": [
+      "Med bøter eller fengsel inntil 2 år straffes den som på vegne av rederiet forsettlig eller uaktsomt vesentlig unnlater å etablere, gjennomføre og videreutvikle et sikkerhetsstyringssystem i samsvar med § 7 og forskrifter gitt i medhold av bestemmelsen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-2",
+     "nummer": "§ 59",
+     "tittel": "Brudd på rederiets plikter når det gjelder den tekniske og operative sikkerheten om bord",
+     "ledd": [
+      "Med bøter eller fengsel inntil 2 år straffes den som på vegne av rederiet forsettlig eller grovt uaktsomt:\na. vesentlig overtrer bestemmelser gitt i eller i medhold av § 9, jf. § 6 om prosjekteringen, byggingen og utrustningen av skipet,\nb. vesentlig overtrer bestemmelser gitt i eller i medhold av § 11, jf. § 6 om driften og vedlikeholdet av skipet,\nc. vesentlig overtrer bestemmelser gitt i eller i medhold av § 13, jf. § 6 om sertifikater,\nd. vesentlig overtrer bestemmelser gitt i eller i medhold av § 15 første ledd, jf. § 6 om bemanningen av skipet,\ne. vesentlig overtrer bestemmelser gitt i eller i medhold av § 16, jf. § 6 med krav om å påse og sørge for at de som har sitt arbeid om bord har de nødvendige kvalifikasjoner og sertifikater."
+     ],
+     "endringer": [
+      "Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-3",
+     "nummer": "§ 60",
+     "tittel": "Brudd på skipsførerens plikter når det gjelder den tekniske og operative sikkerheten om bord",
+     "ledd": [
+      "Med bøter eller fengsel inntil 2 år straffes en skipsfører som forsettlig eller uaktsomt vesentlig overtrer sine plikter etter bestemmelser gitt i eller i medhold av § 19 første ledd bokstav b til å sørge for at navigeringen av skipet skjer på sikker måte eller at føring av skipsbøker skjer på korrekt måte i henhold til kravene i § 14 med forskrifter.",
+      "Med bøter eller fengsel inntil 1 år straffes en skipsfører som forsettlig eller uaktsomt vesentlig overtrer sine plikter etter bestemmelser gitt i eller i medhold av § 19 første ledd bokstav c til å sørge for at vaktholdet om bord er sikkerhetsmessig forsvarlig i henhold til kravene i § 15 annet ledd med forskrifter.",
+      "Med bøter eller fengsel inntil 1 år straffes en skipsfører som forsettlig eller grovt uaktsomt:\na. vesentlig overtrer sin plikt etter bestemmelser gitt i eller i medhold av § 19 første ledd bokstav a til å sørge for at skipet er lastet eller ballastet på en sikkerhetsmessig forsvarlig måte i henhold til kravene i § 12 første ledd med forskrifter,\nb. vesentlig overtrer sin plikt etter bestemmelser gitt i eller i medhold av § 19 annet ledd bokstav a til å medvirke til at driften og vedlikeholdet av skipet til enhver tid er sikkerhetsmessig forsvarlig i henhold til kravene i § 11 med forskrifter,\nc. vesentlig overtrer sin plikt etter bestemmelser gitt i eller i medhold av § 19 annet ledd bokstav d til å medvirke til at vedkommende selv og andre som har sitt arbeid om bord er behørig kvalifisert i henhold til kravene i § 16 med forskrifter."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-4",
+     "nummer": "§ 61",
+     "tittel": "Brudd på pliktene til andre som har sitt arbeid om bord når det gjelder den tekniske og operative sikkerheten om bord",
+     "ledd": [
+      "Med bøter eller fengsel inntil 2 år straffes andre som har sitt arbeid om bord, som forsettlig eller uaktsomt vesentlig overtrer sin plikt etter § 20 første ledd bokstav c, til å medvirke til at navigeringen av skipet skjer på sikker måte eller at føring av skipsbøker skjer på korrekt måte i henhold til kravene i § 14 med forskrifter.",
+      "Med bøter eller fengsel inntil 1 år straffes andre som har sitt arbeid om bord, som forsettlig eller uaktsomt vesentlig overtrer sin plikt etter § 20 første ledd bokstav d til å medvirke til at vaktholdet om bord er sikkerhetsmessig forsvarlig i henhold til kravene i § 15 annet ledd med forskrifter.",
+      "Med bøter eller fengsel inntil 1 år straffes andre som har sitt arbeid om bord, som forsettlig eller grovt uaktsomt:\na. vesentlig overtrer sin plikt etter bestemmelser gitt i eller i medhold av § 20 første ledd bokstav a til å medvirke til at driften og vedlikeholdet av skipet til enhver tid er sikkerhetsmessig forsvarlig i henhold til kravene i § 11 med forskrifter,\nb. vesentlig overtrer sin plikt etter bestemmelser gitt i eller i medhold av § 20 første ledd bokstav b til å medvirke til at skipet er lastet eller ballastet på en sikkerhetsmessig forsvarlig måte i henhold til kravene i § 12 første ledd med forskrifter,\nc. vesentlig overtrer sin plikt etter bestemmelser gitt i eller i medhold av § 20 første ledd bokstav e til å medvirke til å være behørig kvalifisert i henhold til kravene i § 16 med forskrifter."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-5",
+     "nummer": "§ 62",
+     "tittel": "Brudd på rederiets plikter når det gjelder den personlige sikkerheten om bord",
+     "ledd": [
+      "Med bøter eller fengsel inntil 1 år straffes den som på vegne av rederiet forsettlig eller grovt uaktsomt:\na. vesentlig overtrer bestemmelser gitt i eller i medhold av § 21, jf. § 6 med krav til innretninger, utstyr og sikkerhetstiltak om bord på skipet,\nb. vesentlig overtrer bestemmelser gitt i eller i medhold av § 22, jf. § 6 med krav til tilrettelegging og utføring av arbeidet om bord og ivaretakelse av det psykososiale arbeidsmiljøet.",
+      "Med bøter straffes den som på vegne av rederiet forsettlig eller grovt uaktsomt vesentlig overtrer bestemmelser gitt i eller i medhold av § 6, jf. § 24 med krav om å påse at reglene om hviletid overholdes."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-6",
+     "nummer": "§ 63",
+     "tittel": "Brudd på skipsførerens plikter når det gjelder den personlige sikkerheten om bord",
+     "ledd": [
+      "Med bøter eller fengsel inntil 1 år straffes en skipsfører som forsettlig eller grovt uaktsomt vesentlig overtrer sin plikt etter bestemmelser gitt i eller i medhold av § 29 første ledd bokstav a til å sørge for at arbeidet om bord er tilrettelagt slik at det kan utføres sikkerhetsmessig forsvarlig og ivaretar det psykososiale arbeidsmiljøet i henhold til kravene i § 22 med forskrifter.",
+      "Med bøter straffes en skipsfører som forsettlig eller grovt uaktsomt vesentlig overtrer sin plikt etter bestemmelser gitt i eller i medhold av § 29 første ledd bokstav b til å sørge for at den fastsatte hviletiden overholdes i henhold til kravene i § 24 med forskrifter."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-7",
+     "nummer": "§ 64",
+     "tittel": "Brudd på rederiets plikter når det gjelder den miljømessige sikkerheten",
+     "ledd": [
+      "Med bøter eller fengsel inntil 2 år straffes den som på vegne av rederiet forsettlig eller grovt uaktsomt vesentlig overtrer bestemmelser gitt i eller i medhold av §§ 32 og 33, jf. § 6 med krav til den tekniske miljømessige sikkerheten og til driften av skipet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-8",
+     "nummer": "§ 65",
+     "tittel": "Brudd på skipsførerens plikter når det gjelder den miljømessige sikkerheten",
+     "ledd": [
+      "Med bøter eller fengsel inntil 2 år straffes en skipsfører som forsettlig eller grovt uaktsomt:\na. vesentlig overtrer sin plikt etter bestemmelser gitt i eller i medhold av § 37 første ledd bokstav a til å sørge for at det foretas varsling, tiltak og etterfølgende rapport ved forurensning i henhold til kravene i § 34 annet ledd med forskrifter,\nb. vesentlig overtrer sin plikt etter bestemmelser gitt i eller i medhold av § 37 annet ledd bokstav b til å medvirke til at driften av skipet legges opp og gjennomføres i henhold til kravene i § 33 med forskrifter, slik at det ikke skjer forurensning av det ytre miljø fra skipet i strid med § 31.",
+      "Med bøter eller fengsel inntil 1 år straffes en skipsfører som forsettlig eller grovt uaktsomt:\na. vesentlig overtrer sin plikt etter bestemmelser gitt i eller i medhold av § 37 første ledd bokstav c til å sørge for korrekt dagbokføring, jf. § 33 annet ledd bokstav e med forskrifter,\nb. vesentlig overtrer sin plikt etter bestemmelser gitt i eller i medhold av § 37 annet ledd bokstav a til å medvirke til at skipet er utrustet i henhold til kravene i § 32 med forskrifter slik at det ikke skjer forurensning av det ytre miljøet fra skipet i strid med § 31."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-9",
+     "nummer": "§ 66",
+     "tittel": "Brudd på pliktene til andre som har sitt arbeid om bord når det gjelder den miljømessige sikkerheten",
+     "ledd": [
+      "Med bøter eller fengsel inntil 1 år straffes andre som har sitt arbeid om bord som forsettlig eller grovt uaktsomt vesentlig overtrer sin plikt etter bestemmelser gitt i eller i medhold av § 38 til å medvirke til at driften av skipet legges opp og gjennomføres i henhold til § 33 med forskrifter, slik at det ikke skjer forurensning av det ytre miljø fra skipet i strid med § 31."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-10",
+     "nummer": "§ 67",
+     "tittel": "Brudd på rederiets og skipsførerens plikt til å følge tilsynsmyndighetens vedtak",
+     "ledd": [
+      "Med bøter eller fengsel inntil 1 år straffes en skipsfører eller den som på vegne av rederiet forsettlig unnlater å følge tilsynsmyndighetens vedtak etter bestemmelser gitt i eller i medhold av §§ 52 og 53."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-11",
+     "nummer": "§ 68",
+     "tittel": "Straffansvar for den som ikke er offentlig tjenestemann",
+     "ledd": [
+      "Benyttes under utøvelsen av tilsynet personer som ikke er offentlige tjenestemenn, gjelder for disse samme strafferettslige ansvar som for offentlige tjenestemenn i henhold til straffeloven."
+     ],
+     "endringer": [
+      "Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-12",
+     "nummer": "§ 69",
+     "tittel": "Fellesbestemmelser",
+     "ledd": [
+      "Ved vurderingen av om en overtredelse av bestemmelsene i dette kapittel er vesentlig, skal det særlig legges vekt på overtredelsens omfang og virkninger og graden av utvist skyld.",
+      "Dersom en annen enn den som er å anse som rederi i henhold til § 4 reelt sett ivaretar aktuelle driftsfunksjoner av skipet, kommer bestemmelsene i §§ 58, 59, 62, 64, 67 og 70 tilsvarende til anvendelse.",
+      "Fengselsstraff kan ikke anvendes når overtredelsen i henhold til folkeretten bare kan straffes med bøter.",
+      "Bestemmelsene i dette kapitlet får ikke anvendelse dersom forholdet rammes av en strengere straffebestemmelse."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-13",
+     "nummer": "§ 70",
+     "tittel": "Inndrivelse av bot eller foretaksstraff",
+     "ledd": [
+      "For å sikre betaling av bot etter dette kapitlet eller foretaksstraff etter straffeloven § 27 som rederiet, skipsføreren eller andre som har sitt arbeid om bord er eller antas å ville bli ilagt, kan retten etter begjæring fra påtalemyndigheten beslutte å forby skipet å forlate havn, pålegge det å gå til havn eller fastsette andre nødvendige tiltak, inntil boten eller foretaksstraffen er betalt eller det er stilt tilstrekkelig sikkerhet for beløpet.",
+      "Etter begjæring fra påtalemyndigheten, kan retten også beslutte at rederiet skal stille tilstrekkelig sikkerhet for eller betale utgiftene som er forbundet med tiltak som fastsettes etter første ledd før tiltaket avsluttes."
+     ],
+     "endringer": [
+      "Endret ved lov 19 juni 2015 nr. 65 (ikr. 1 okt 2015)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-11",
+   "navn": "kap11",
+   "overskrift": "Kapittel 11. Øvrige bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-11-paragraf-1",
+     "nummer": "§ 71",
+     "tittel": "Sjøassurandørers taushetsplikt",
+     "ledd": [
+      "Uten hensyn til taushetsplikt som følger av lov 10. april 2015 nr. 17 om finansforetak og finanskonsern §§ 9-6, 9-7 og 16-2, har forsikringsselskaper adgang til å utlevere opplysninger som er av direkte betydning for sikkerheten til skip som er forsikret i vedkommende selskap, til andre forsikringsselskaper samt til besiktigelsesinstitusjoner, internasjonale forsikrings- og sjøfartsorganisasjoner eller norske og utenlandske sjøfartsmyndigheter. Første punktum gjelder tilsvarende for skip som har vært forsikret i vedkommende selskap i løpet av de siste tre årene før den datoen det anmodes om utlevering av opplysninger eller den datoen forsikringsselskapet utleverer opplysninger uten forutgående anmodning.",
+      "Forsikringsselskapet plikter å sende forsikringstakeren gjenpart av opplysningene som utleveres etter første ledd. Dersom opplysningene er utlevert muntlig, er det tilstrekkelig å sende forsikringstakeren melding om at slike opplysninger er utlevert og hvem som er mottaker av opplysningene."
+     ],
+     "endringer": [
+      "Endret ved lov 20 des 2022 nr. 122."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-11-paragraf-2",
+     "nummer": "§ 71a",
+     "tittel": "Rett til å fremsette klage og vern mot gjengjeldelse",
+     "ledd": [
+      "For rett til å fremsette klage gjelder det som er bestemt i eller i medhold av skipsarbeidsloven § 9-7."
+     ],
+     "endringer": [
+      "Tilføyd ved lov 21 juni 2013 nr. 102 (ikr. 20 aug 2013 iflg. res. 21 juni 2013 nr. 730)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-11-paragraf-3",
+     "nummer": "§ 72",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Loven gjelder fra den tid[1] Kongen bestemmer, med mindre annet følger av reglene i annet ledd. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.",
+      "Endringen i § 74 annet ledd nr. 8 i lov 24. juni 1994 nr. 39 om sjøfarten § 475 trer i kraft fra det tidspunkt lov 7. januar 2005 nr. 2 om endringer i lov 24. juni 1994 nr. 39 om sjøfarten (sjøloven) og enkelte andre lover blir satt i kraft. Fra samme tidspunkt trer opphevingen av lov 9. juni 1903 nr. 7 om Statskontrol med Skibes Sjødygtighed m.v. § 4 første ledd bokstav a, § 5 og §§ 17 til 23 i kraft."
+     ],
+     "fotnoter": [
+      {
+       "nr": "1",
+       "tekst": "Fra 1 juli 2007 iflg. res. 16 feb 2007 nr. 170."
+      }
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-11-paragraf-4",
+     "nummer": "§ 73",
+     "tittel": "Overgangsbestemmelser",
+     "ledd": [
+      "Forskrifter gitt i medhold av lover og bestemmelser som oppheves, jf. § 74, skal gjelde inntil annet er bestemt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-11-paragraf-5",
+     "nummer": "§ 74",
+     "tittel": "Opphevelse av og endring i andre lover",
+     "ledd": [
+      "Fra den tid loven trer i kraft oppheves følgende lover: – – –",
+      "Fra den tid loven trer i kraft gjøres følgende endringer i andre lover: – – –"
+     ]
+    }
+   ]
+  }
+ ]
+}

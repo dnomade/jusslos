@@ -1,0 +1,96 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-1977-11-24-1",
+ "dokumentid": "SF/forskrift/1977-11-24-1",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Skattelovavd."
+ ],
+ "kunngjort_i": "I 1977 919",
+ "ikraft": "1978-01-01",
+ "siste_endring_ikraft": "1987-10-21",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/1987-10-21-830",
+   "tekst": "forskrift/1987-10-21-830"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1947-03-21-2/§4",
+   "tekst": "lov/1947-03-21-2/§4"
+  }
+ ],
+ "korttittel": "Forskrift om sjømenns fagforeningskontingent",
+ "tittel": "Forskrifter om sjømenns fradrag for foreningskontingent ved beregning og trekk av sjømannsskatt og ved ligning.",
+ "annet": "Fastsatt av Finansdepartementet 24. november 1972 med hjemmel i lov om skattelegging av sjømenn av 21. mars 1947 nr. 2 § 4 nr. 1 bokstav a annet ledd og § 16 nr. 1 og 2 og skatteloven § 44 fjerde ledd nr. 4. Endret 17 des 1982 nr. 1793, 18 des 1985 nr. 2260, 21 okt 1987 nr. 830.",
+ "refid": "forskrift/1977-11-24-1",
+ "eli": "/eli/forskrift/1977/11/24/01",
+ "url": "https://lovdata.no/dokument/SF/forskrift/1977-11-24-1",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Skattytere som svarer sjømannsskatt etter lov nr. 2 av 21. mars 1947 skal ved beregning av skatten ha et fradrag i inntekten om bord, dersom det godtgjøres at de betaler kontingent til organisasjon som har forhandlingsrett etter lov om offentlige tjenestetvister eller har inngått tariffavtale på vegne av medlemmene, jfr. skatteloven § 44 fjerde ledd nr. 1."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Fradraget etter punkt 1 skal være kr. 150 pr. måned."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kapIII",
+   "overskrift": "III",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Har sjømannen inntekt som er gjenstand for ligning etter de alminnelige skattelover, skal inntekten reduseres med den del av fradragsberettiget kontingent som overstiger fradrag gitt om bord. Reduksjonen kan likevel ikke overstige differansen mellom kr. 1.800 og fradrag gitt om bord."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kapIV",
+   "overskrift": "IV",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Direktoratet for sjømenn kan gi nærmere regler om den praktiske gjennomføring av fradrag for foreningskontingent ved beregning og oppgjør for sjømannsskatt."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kapV",
+   "overskrift": "V",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Disse forskrifter gjelder ved beregning og trekk av sjømannskatt fra 1. januar 1978, og ved ligning fra og med inntektsåret 1978 av sjømenn som har vært undergitt trekk av sjømannsskatt."
+    }
+   ]
+  }
+ ]
+}

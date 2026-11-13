@@ -1,0 +1,72 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2011-08-31-892",
+ "dokumentid": "SF/forskrift/2011-08-31-892",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Skattedirektoratet"
+ ],
+ "kunngjort_i": "I 2011 hefte 8",
+ "ikraft": "2011-08-31",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2009-06-19-58/§22-1",
+   "tekst": "lov/2009-06-19-58/§22-1"
+  },
+  {
+   "ref": "forskrift/2009-12-15-1523",
+   "tekst": "forskrift/2009-12-15-1523"
+  }
+ ],
+ "kunngjort": "2011-09-02 14:20",
+ "korttittel": "Forskrift om overgangsregler for veterinærer",
+ "tittel": "Forskrift om overgangsregler for veterinærer som etter søknad har oppgavefritak for 1.–5. termin",
+ "annet": "Hjemmel: Fastsatt av Skattedirektoratet 31. august 2011 med hjemmel i lov 19. juni 2009 nr. 58 om merverdiavgift (merverdiavgiftsloven) § 22-1 tredje ledd, jf. delegeringsvedtak 15. desember 2009 nr. 1523.",
+ "refid": "forskrift/2011-08-31-892",
+ "eli": "/eli/forskrift/2011/08/31/892",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2011-08-31-892",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": null,
+     "ledd": [
+      "Ordningen med oppgavefritak for veterinærer bortfaller fra og med 1. januar 2012."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": null,
+     "ledd": [
+      "Veterinærer som etter søknad inntil videre har hatt oppgavefritak for 1.–5. termin, innrømmes tilsvarende oppgavefritak for 2011."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Denne forskrift trer i kraft straks."
+    }
+   ]
+  }
+ ]
+}

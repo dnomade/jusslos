@@ -1,0 +1,105 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2017-12-08-1952",
+ "dokumentid": "SF/forskrift/2017-12-08-1952",
+ "departement": [
+  "Helse- og omsorgsdepartementet"
+ ],
+ "etat": [
+  "Helserettsavd."
+ ],
+ "ikraft": "2019-01-01, departementet bestemmer",
+ "siste_endring_ikraft": "2019-03-08",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2019-03-08-205",
+   "tekst": "forskrift/2019-03-08-205"
+  }
+ ],
+ "endrer": "forskrift/2007-12-21-1610",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2014-06-20-42/§7",
+   "tekst": "lov/2014-06-20-42/§7"
+  },
+  {
+   "ref": "lov/2014-06-20-42/§10",
+   "tekst": "lov/2014-06-20-42/§10"
+  },
+  {
+   "ref": "lov/2014-06-20-42/§12",
+   "tekst": "lov/2014-06-20-42/§12"
+  },
+  {
+   "ref": "lov/2014-06-20-42/§14",
+   "tekst": "lov/2014-06-20-42/§14"
+  },
+  {
+   "ref": "lov/2014-06-20-42/§19",
+   "tekst": "lov/2014-06-20-42/§19"
+  }
+ ],
+ "kunngjort": "2017-12-08 15:20",
+ "siste_rettelse": "2022-05-12 (redigert bort ikraftsatte endringer i § 3-3)",
+ "korttittel": "Endr. i reseptformidlerforskriften",
+ "tittel": "Forskrift om endringer i forskrift 21. desember 2007 nr. 1610 om behandling av helseopplysninger i nasjonal database for elektroniske resepter (Reseptformidlerforskriften)",
+ "annet": "Hjemmel: Fastsatt ved kgl.res. 8. desember 2017 med hjemmel i lov 20. juni 2014 nr. 42 om behandling av helseopplysninger ved ytelse av helsehjelp (pasientjournalloven) § 7, § 10, § 12, § 14 og § 19. Fremmet av Helse- og omsorgsdepartementet.\nEndret ved forskrifter 15 juni 2018 nr. 876, vedtak 23 nov 2018 nr. 1906 (ikrafttredelse), 8 mars 2019 nr. 205.\nRettelser: 12.05.2022 (redigert bort ikraftsatte endringer i § 3-3).",
+ "refid": "forskrift/2017-12-08-1952",
+ "eli": "/eli/forskrift/2017/12/08/1952",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2017-12-08-1952",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "I forskrift 21. desember 2007 nr. 1610 om behandling av helseopplysninger i nasjonal database for elektroniske resepter (Reseptformidlerforskriften) gjøres følgende endringer:\n– – –\n§ 2-1 nytt sjette ledd skal lyde:\nNår en lege gjør endring i en pasients legemiddelbehandling, skal endringen også registreres i pasientens legemiddelliste, med mindre pasienten har motsatt seg at pasientens legemiddelliste gjøres tilgjengelig for legen. Fjerde og femte ledd gjelder tilsvarende.\n§ 3-3 skal lyde:"
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-foreslåttparagraf-1",
+     "nummer": null,
+     "tittel": null,
+     "ledd": [
+      "§ 3-3. Tilgjengeliggjøring av reseptopplysninger og legemiddelliste og tilbakekalling av reseptopplysninger",
+      "– – –",
+      "– – –",
+      "– – –",
+      "Når det er nødvendig, skal leger, ved oppdatering av legemiddellisten, kalle tilbake resepter ved å sende melding om dette til Reseptformidleren. Tannleger, jordmødre og helsesykepleiere med rekvireringsrett, som har fått tilgjengeliggjort reseptoversikt eller legemiddelliste etter tredje ledd, kan kalle tilbake resepter utstedt av rekvirent med samme rett til rekvirering, jf. forskrift 27. april 1998 nr. 455 om rekvirering og utlevering av legemidler fra apotek § 2-2 og § 2-5 andre ledd."
+     ],
+     "endringer": [
+      "Endret ved forskrift 8 mars 2019 nr. 205."
+     ],
+     "fremtidig": true
+    },
+    {
+     "type": "tekst",
+     "tekst": "– – –"
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Endringene trer i kraft på det tidspunktet departementet bestemmer.[1]"
+    }
+   ]
+  }
+ ],
+ "fotnoter": [
+  {
+   "nr": "1",
+   "tekst": "Fra 1 jan 2019 med unntak av § 2-1 nytt sjette ledd og § 3-3 fjerde ledd, jf. vedtak 23 nov 2018 nr. 1906."
+  }
+ ]
+}

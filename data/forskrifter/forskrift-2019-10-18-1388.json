@@ -1,0 +1,130 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2019-10-18-1388",
+ "dokumentid": "SF/forskrift/2019-10-18-1388",
+ "departement": [
+  "Justis- og beredskapsdepartementet"
+ ],
+ "etat": [
+  "Sivilavd."
+ ],
+ "ikraft": "2019-11-01",
+ "endrer": "forskrift/2012-09-21-896",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2012-01-20-4/§5",
+   "tekst": "lov/2012-01-20-4/§5"
+  },
+  {
+   "ref": "lov/2012-01-20-4/§7",
+   "tekst": "lov/2012-01-20-4/§7"
+  },
+  {
+   "ref": "lov/1981-05-22-25/§62",
+   "tekst": "lov/1981-05-22-25/§62"
+  }
+ ],
+ "kunngjort": "2019-10-21 14:50",
+ "korttittel": "Arrestordreforskrifta",
+ "tittel": "Forskrift til arrestordreloven (arrestordreforskrifta)",
+ "annet": "Hjemmel: Fastsett ved kgl.res. 18. oktober 2019 med heimel i lov 20. januar 2012 nr. 4 om pågriping og overlevering til og frå Noreg for straffbare forhold på grunnlag av ein arrestordre (arrestordreloven) § 5 og § 7 og lov 22. mai 1981 nr. 25 om rettergangsmåten i straffesaker (Straffeprosessloven) § 62. Fremja av Justis- og beredskapsdepartementet.",
+ "refid": "forskrift/2019-10-18-1388",
+ "eli": "/eli/forskrift/2019/10/18/1388",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2019-10-18-1388",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Utforminga av arrestordrar",
+   "ledd": [
+    "Ein nordisk arrestordre skal førast i skjemaet som følgjer som vedlegg I til forskrifta. Ein nordisk–europeisk arrestordre skal førast i skjemaet som følgjer som vedlegg II til forskrifta."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Kompetanse til å avgjere om ein nordisk arrestordre skal etterkomast eller ikkje",
+   "ledd": [
+    "Politijuristar som er tildelt utvida påtalekompetanse i medhald av straffeprosessloven § 67 tredje ledd andre punktum, kan avgjere om ein nordisk arrestordre skal etterkomast eller ikkje, jf. arrestordreloven § 21.",
+    "Statsadvokaten tek avgjerda dersom vedkomande er sikta i Noreg for eit forhold der statsadvokaten eller riksadvokaten har tiltalekompetansen. Har riksadvokaten teke ut tiltale, skal riksadvokaten informerast før avgjerda blir teke. Politijuristar som er tildelt utvida påtalekompetanse tek likevel avgjerda dersom retten har treft rettskraftig ordskurd om at vilkåra for overlevering ikkje er oppfylte, jf. arrestordreloven § 21.",
+    "Statsadvokaten tek også avgjerda dersom det ligg føre ein, to eller fleire nordiske arrestordrar frå fleire statar som gjeld same person. Dersom det ligg føre både ein nordisk arrestordre og eit krav om utlevering frå ein stat utanfor Norden, skal saka sendast via statsadvokaten og riksadvokaten til departementet for avgjerd, jf. arrestordreloven § 29."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Kompetanse til å utferde ein nordisk arrestordre",
+   "ledd": [
+    "Ein nordisk arrestordre kan utferdast av politijuristar som er tildelt utvida påtalekompetanse i medhald av straffeprosessloven § 67 tredje ledd andre punktum.",
+    "Dersom det er utferda sikting for ei handling eller forsøk på ei handling som kan medføre fengsel i meir enn 10 år, eller for brot på straffeloven §§ 104, 105, 108, 109, 135, 136 eller føresegner i straffeloven kapittel 17, skal det innhentast samtykke frå statsadvokaten. Samtykket skal normalt vere skriftleg."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Kompetanse til å avgjere om ein nordisk–europeisk arrestordre skal etterkomast eller ikkje",
+   "ledd": [
+    "Politijuristar som er tildelt utvida påtalekompetanse i medhald av straffeprosessloven § 67 tredje ledd andre punktum, kan avgjere om ein nordisk–europeisk arrestordre skal etterkomast eller ikkje når den ettersøkte har samtykt til overlevering, jf. arrestordreloven § 14 tredje ledd.",
+    "Statsadvokaten tek avgjerda når den ettersøkte ikkje har samtykt til overlevering, eller vedkomande er sikta i Noreg for eit forhold der statsadvokaten eller riksadvokaten har tiltalekompetansen. Har riksadvokaten teke ut tiltale, skal riksadvokaten informerast før avgjerda blir teke. Politijuristar som er tildelt utvida påtalekompetanse tek likevel avgjerda dersom retten har treft rettskraftig ordskurd om at vilkåra for overlevering ikkje er oppfylte, jf. arrestordreloven § 14.",
+    "Statsadvokaten tek også avgjerda dersom det ligg føre to eller fleire nordisk–europeiske arrestordrar frå ulike statar, eller ein nordisk–europeisk og ein nordisk arrestordre, som gjeld same person. Dersom det ligg føre både ein nordisk–europeisk arrestordre og eit krav om utlevering frå ein stat utanfor EU, skal saka sendast via statsadvokaten og riksadvokaten til departementet for avgjerd, jf. arrestordreloven § 29."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Kompetanse til å utferde ein nordisk–europeisk arrestordre",
+   "ledd": [
+    "Ein nordisk–europeisk arrestordre utferdast av statsadvokaten."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "Unntak frå kravet om dobbel strafflegging",
+   "ledd": [
+    "Kravet til dobbel strafflegging skal på vilkår som nemnde i arrestordreloven § 7 tredje ledd første punktum ikkje gjelde for desse handlingane:\n1. deltaking i ein kriminell organisasjon\n2. terrorisme\n3. menneskehandel\n4. seksuell utnytting av barn og framstilling av seksuelle overgrep mot barn\n5. ulovleg handel med narkotiske og psykotrope stoff\n6. ulovleg handel med våpen, ammunisjon eller sprengstoff\n7. korrupsjon\n8. bedrageri, medrekna bedrageri som råkar dei økonomiske interessene til Det europeiske fellesskapet etter konvensjonen 26. juli 1995 om beskyttelse av De europeiske fellesskaps økonomiske interesser\n9. kvitvasking av utbyte frå straffbare handlingar\n10. pengefalsk, medrekna av euroen\n11. datarelatert kriminalitet\n12. miljøkriminalitet, medrekna ulovleg handel med trua dyreartar, planteartar og plantevariantar\n13. tilrettelegging for ulovleg innvandring eller ulovleg opphald\n14. drap\n15. grov kroppsskade\n16. ulovleg handel med organ, vev og liknande frå menneske\n17. kidnapping, ulovleg fridomskrenking og gisseltaking\n18. rasisme og framandfrykt\n19. organisert eller væpna ran\n20. ulovleg handel med kulturgjenstandar, medrekna antikvitetar og kunstverk\n21. svindel\n22. innkreving av vernepengar og utpressing\n23. forfalsking og piratomsetnad av produkt\n24. forfalsking av administrative dokument og handel med desse\n25. forfalsking av betalingsmiddel\n26. ulovleg handel med hormonpreparat eller andre vekstfremjande stoff\n27. ulovleg handel med kjernefysisk eller radioaktivt materiale\n28. ulovleg omsetnad av stolne køyretøy\n29. valdtekt\n30. påsetting av brann\n31. brot som fell innunder domsmakta til Den internasjonale straffedomstolen\n32. kapring av fly eller skip\n33. sabotasje."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 7",
+   "tittel": "Ikraftsetjing",
+   "ledd": [
+    "Forskrifta tek til å gjelde 1. november 2019. Frå same tid blir forskrift 21. september 2012 nr. 896 til arrestordreloven oppheva."
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "vedleggI",
+   "overskrift": "Vedlegg I til arrestordreforskrifta",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Skjema for utferding av nordisk arrestordre (pdf)"
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "vedleggII",
+   "overskrift": "Vedlegg II til arrestordreforskrifta",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Skjema for utferding av nordisk–europeisk arrestordre (pdf)"
+    }
+   ]
+  }
+ ]
+}

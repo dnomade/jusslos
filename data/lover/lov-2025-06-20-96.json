@@ -1,0 +1,341 @@
+{
+ "skjema": "1.0",
+ "type": "lov",
+ "datokode": "LOV-2025-06-20-96",
+ "dokumentid": "NL/lov/2025-06-20-96",
+ "departement": [
+  "Kultur- og likestillingsdepartementet"
+ ],
+ "ikraft": "2026-01-01, Kongen fastset",
+ "endrer": "lov/1992-12-04-126",
+ "rettsomrade": [
+  "Kultur, idrett og underholdning > Arkiv"
+ ],
+ "kunngjort": "2025-06-20 12:45",
+ "korttittel": "Arkivlova",
+ "tittel": "Lov om dokumentasjon og arkiv (arkivlova)",
+ "annet": "Prop. 52 L (2024–2025), Innst. 304 L (2024–2025), Lovvedtak 79 (2024–2025). Stortingets første og andre gongs behandling hvv. 2. og 6. juni 2025. Fremja av Kultur- og likestillingsdepartementet.",
+ "refid": "lov/2025-06-20-96",
+ "eli": "/eli/lov/2025/06/20/96",
+ "url": "https://lovdata.no/dokument/NL/lov/2025-06-20-96",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Innleiande føresegner",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Formålet med lova",
+     "ledd": [
+      "Lova skal medverke til ei forsvarleg og etterretteleg offentleg forvaltning ved at\na. dokumentasjonen i offentlege organ skal bli forvalta som arkiv\nb. dokumentasjonen skal vere tilgjengeleg, for å kunne føre kontroll med forvaltninga, styrkje rettstryggleiken og fremje ein open og opplyst offentleg samtale.",
+      "Lova skal leggje til rette for at arkiva kan tene som kulturarv, kjelde til historisk kunnskap og grunnlag for forsking, og at allmenta kan ta arkiva i bruk.",
+      "Lova skal òg leggje til rette for bevaring og tilgjengeleggjering av privatarkiv med rettsleg, historisk, kulturell eller vitskapleg verdi."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Definisjonar",
+     "ledd": [
+      "I lova her gjeld følgjande definisjonar:\na. arkiv: dokumentasjon som skal takast vare på i eit avgrensa tidsrom eller for ettertida\nb. avlevere: overføre arkiv til langtidsbevaring i ein bevaringsinstitusjon, med den følgja at råderetten går over til bevaringsinstitusjonen\nc. bevaringsinstitusjon: institusjon eller organisatorisk eining som tek imot og har ansvar for å langtidsbevare arkiva og gjere dei tilgjengelege for bruk\nd. deponere: overføre arkiv mellombels til ein bevaringsinstitusjon, der organ held fram med å ha råderetten over arkiva sine og arkiveigarar held fram med å ha eigedomsretten til privatarkiva sine\ne. dokumentasjon: dokument som nemnt i offentleglova § 4 første ledd og annan informasjon som organet sjølv har lagra i informasjonssystema sine, og som gjeld sakshandsaminga, oppgåveløysinga eller andre vesentlege tilhøve ved verksemda\nf. informasjonssystem: eit system for å organisere og handtere informasjon\ng. kassere: å gjere til inkjes dokumentasjon slik at han ikkje lenger finst\nh. organ: verksemder som lova gjeld for, utanom rettssubjekt som berre er omfatta av kapittel 3\ni. privatarkiv: arkiv som er skapt av andre enn eit organ."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Verkeområde",
+     "ledd": [
+      "Lova gjeld for\na. staten, fylkeskommunane og kommunane\nb. andre rettssubjekt i saker der dei gjer enkeltvedtak eller utferdar forskrift.",
+      "Lova gjeld ikkje for Stortinget, Riksrevisjonen, Sivilombodet og andre organ for Stortinget.",
+      "Departementet kan gi forskrift om at lova skal gjelde heilt eller delvis for sjølvstendige rettssubjekt som er omfatta av offentleglova § 2 første ledd første punktum bokstav c eller d, og som ikkje hovudsakleg driv næring i direkte konkurranse med og på same vilkår som private.",
+      "Kapittel 3 gjeld for dei som eig eller forvaltar privatarkiv.",
+      "Lova gjeld i Noreg, medrekna på Svalbard og Jan Mayen. Kongen kan gi forskrift om at lova også skal gjelde på dei norske bilanda i Antarktis."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 4",
+     "tittel": "Nasjonalarkivet",
+     "ledd": [
+      "Nasjonalarkivet er den nasjonale arkivstyresmakta og bevaringsinstitusjon for statlege arkiv. Samisk arkiv og Norsk helsearkiv er òg delar av Nasjonalarkivet.",
+      "Nasjonalarkivet skal rettleie organ om pliktene deira etter lova her.",
+      "Når Nasjonalarkivet ber om det, skal organa uhindra av teieplikt gi opplysningar som gjeld oppfyllinga av plikter etter lova her.",
+      "Nasjonalarkivet kan uhindra av teieplikt hente inn opplysningar frå Folkeregisteret som er naudsynte for å løyse oppgåver etter lova her.",
+      "Nasjonalarkivet kan krevje at personar som skal tilsetjast der, legg fram ordinær politiattest."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Forvaltninga av dokumentasjon og arkiv",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 5",
+     "tittel": "Arkivplikta",
+     "ledd": [
+      "Organa skal forvalte dokumentasjon som blir til som ledd i verksemda, som arkiv. Dokumentasjonen skal sikrast slik at informasjonen ikkje går tapt, og forvaltast slik at\na. opphavet til informasjonen alltid er kjent\nb. det går fram i kva samanheng informasjonen er skapt, og kva samanheng han inngår i\nc. informasjonen ikkje blir endra\nd. informasjonen er tilgjengeleg på ein måte som ikkje avgrensar framtidig nytte.",
+      "Departementet kan gi forskrift om kva organa skal ta omsyn til når dei skal avgjere kva dei skal forvalte som arkiv etter første ledd."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 6",
+     "tittel": "Forskrift om forvaltninga av dokumentasjon og arkiv",
+     "ledd": [
+      "Departementet kan gi forskrift om kva som skal inngå i arkivplikta etter § 5 første ledd. Dette kan omfatte:\na. føring av journal og anna registrering av metadata\nb. retting av feil opplysningar i arkiv og vilkåra for dette\nc. handsaming av naudsynte personopplysningar, også personopplysningar som er nemnde i personvernforordninga artikkel 9, og krava til slik handsaming\nd. ansvar for pliktene etter lova her knytt til dokumentasjon som blir til når organ samarbeider om å løyse oppgåver i eit felles system\ne. krav til informasjonssystem\nf. krav til skildringar av informasjonssystem\ng. vedlikehald av digitale arkiv\nh. fysisk sikring av arkiv\ni. konvertering av analoge arkiv til digitalt format\nj. overføring av arkiv mellom organ i samband med oppgåveoverføring eller endringar i den administrative inndelinga av Noreg."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 7",
+     "tittel": "Dokumentasjon av lovpålagde oppgåver som er løyste på vegner av organet",
+     "ledd": [
+      "Eit organ som inngår avtale om at eit rettssubjekt som ikkje er omfatta av lova, skal løyse lovpålagde oppgåver på organet sine vegner, skal sørgje for at dei pliktene organet har etter lova, blir følgde opp i oppgåveløysinga.",
+      "Organet har plikt til å ta imot dokumentasjon som gjeld oppgåveløysinga, når rettssubjektet som har løyst oppgåvene, ikkje lenger treng eller har rettmessig krav til dokumentasjonen.",
+      "Departementet kan gi forskrift om unntak frå føresegner gitt i eller i medhald av lova for rettssubjekt som løyser oppgåver på vegner av eit organ."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 8",
+     "tittel": "Dokumentasjonsplan og internkontroll",
+     "ledd": [
+      "Eit organ skal ha ein oppdatert dokumentasjonsplan som viser korleis organet har organisert arbeidet med å etterleve pliktene etter lova her.",
+      "Planen skal\na. vere utforma slik at han kan tene som ein reiskap i internkontrollen\nb. gi oversyn over kva slags dokumentasjon som blir til som ledd i verksemda\nc. gi oversyn over kva dokumentasjon organet forvaltar som arkiv\nd. gjere greie for korleis dokumentasjon etter bokstav b og c blir lagra.",
+      "Departementet kan gi forskrift om innhaldet i dokumentasjonsplanen, internkontroll med dokumentasjons- og arkivforvaltninga og offentleggjering av informasjon frå dokumentasjonsplanen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 9",
+     "tittel": "Unntak for særskilde organ",
+     "ledd": [
+      "Departementet kan gi forskrift om unntak frå føresegnene gitt i eller i medhald av §§ 5, 6, 8, 14 og 15 for\na. offentlege utval som er oppretta ved lov eller kongeleg resolusjon\nb. organ som er omfatta av lova her etter § 3 første ledd bokstav b."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-6",
+     "nummer": "§ 10",
+     "tittel": "Forbod mot å overdra eigedomsrett til eller råderett over arkiv",
+     "ledd": [
+      "Eit organ kan ikkje overdra eigedomsretten til eller råderetten over arkiv som er omfatta av lova her. Dette gjeld ikkje overføring til eit anna organ som ledd i overføring av oppgåver og ansvar eller ved endringar i den administrative inndelinga av Noreg.",
+      "Private kan berre få eigedomsrett til arkiv skapt av organa nemnde i § 3 første ledd ved overføring av oppgåver og ansvar."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-7",
+     "nummer": "§ 11",
+     "tittel": "Vilkår for utførsle og lagring av arkiv utanfor Noreg",
+     "ledd": [
+      "Det er forbode å føre ut av landet dokumentasjon i arkiv som er lagra på fysiske medium.",
+      "Forbodet gjeld ikkje\na. for arkivfagleg forsvarleg mellombels bruk til forvaltningsformål eller rettslege formål\nb. for arkivfagleg forsvarleg mediekonvertering, konservering eller sikring innanfor EØS-området i avgrensa tidsrom\nc. i andre særlege tilfelle når Nasjonalarkivet gir løyve.",
+      "Departementet kan gi forskrift om kva vilkår som skal gjelde ved lagring av digitale arkiv utanfor Noreg."
+     ],
+     "fotnoter": [
+      {
+       "nr": "1",
+       "tekst": "Paragrafen gjeld frå den tida Kongen fastset. Lov 4. desember 1992 nr. 126 om arkiv § 9 innleiingsteksten og bokstav b held fram å gjelde fram til § 11 i denne lova tek til å gjelde iflg. res. 12 des 2025 nr. 2510."
+      }
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-8",
+     "nummer": "§ 12",
+     "tittel": "Dokumentasjon som skal takast vare på for ettertida",
+     "ledd": [
+      "Dokumentasjon med stor kulturell eller vitskapleg verdi og viktig dokumentasjon om rettslege tilhøve eller om forvaltninga si verksemd skal takast vare på og gjerast tilgjengeleg for ettertida.",
+      "Departementet kan gi forskrift om overordna prinsipp, metodar og kriterium som skal leggjast til grunn for Nasjonalarkivet sine vurderingar om kva som skal takast vare på etter første ledd. Nasjonalarkivet kan gi forskrift om kva dokumentasjon som skal takast vare på.",
+      "Dokumentasjon som skal takast vare på, skal avleverast eller overførast til langtidsbevaring i tråd med § 14."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-9",
+     "nummer": "§ 13",
+     "tittel": "Kassasjon av dokumentasjon som ikkje skal takast vare på",
+     "ledd": [
+      "Eit organ kan berre kassere dokumentasjon som\na. ikkje skal takast vare på i medhald av forskrift gitt av Nasjonalarkivet med heimel i § 12 andre ledd, eller\nb. det er gitt løyve frå Nasjonalarkivet til å kassere.",
+      "Føresegner i andre lover om plikt til å slette opplysningar gir berre grunnlag for kassasjon når det er klart fastsett eller føresett at opplysningane ikkje skal finnast i arkiva for ettertida. Plikta til å slette opplysningar skal elles oppfyllast på andre måtar enn ved kassasjon.",
+      "Nasjonalarkivet kan gjere vedtak om kassasjon av enkeltopplysningar i særlege høve. Departementet kan gi forskrift om slik kassasjon."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-10",
+     "nummer": "§ 14",
+     "tittel": "Avlevering, overføring og deponering av arkiv til langtidsbevaring",
+     "ledd": [
+      "Statlege organ skal avlevere arkiva sine til Nasjonalarkivet.",
+      "Fylkeskommunar og kommunar skal ha ordningar for langtidsbevaring av arkiva sine. Fylkeskommunar og kommunar held fram med å ha råderetten over arkiva etter overføring til ein bevaringsinstitusjon. Bevaringsinstitusjonane skal følgje arkivlova når dei løyser oppgåver i samband med langtidsbevaringa.",
+      "Nasjonalarkivet kan fastsetje i enkelttilfelle at fylkeskommunale eller kommunale arkiv skal overførast til Nasjonalarkivet eller ein annan bevaringsinstitusjon dersom det må til for å sikre arkivet, eller dersom det er andre særlege grunnar til det.",
+      "Nasjonalarkivet fastset i enkelttilfelle kvar følgjande arkiv skal avleverast:\na. arkiv med opphav i både statleg og kommunal sektor\nb. arkiva til organ omfatta av § 3 første ledd bokstav b\nc. arkiva til andre organ som er omfatta av lova, om dette ikkje følgjer av anna lov.",
+      "Når eit arkiv blir avlevert til Nasjonalarkivet, skal berre dokumentasjonen som skal takast vare på for ettertida, følgje med. Når arkivet har blitt avlevert, får Nasjonalarkivet råderetten over det om ikkje noko anna er avtalt. Det avleverande organet skal dekkje kostnadene for avleveringa.",
+      "Nasjonalarkivet kan samtykke til at eit organ som skal avlevere arkiva sine til Nasjonalarkivet, i staden kan avlevere dei til andre bevaringsinstitusjonar, eller at arkiva blir verande hos organet sjølv. Det skal då setjast krav til langtidsbevaringa. Nasjonalarkivet kan når som helst trekkje samtykket attende.",
+      "Eit organ kan avtale å deponere eit arkiv for teknisk sikring hos bevaringsinstitusjonen før avleveringa."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-11",
+     "nummer": "§ 15",
+     "tittel": "Forskrift om avlevering mv.",
+     "ledd": [
+      "Departementet kan gi forskrift om\na. tidspunktet for avleveringa av arkiv\nb. kva for opplysningar som skal følgje arkivet ved avleveringa\nc. korleis avleveringa til Nasjonalarkivet skal skje\nd. krav til kva for format arkiva til statlege organ skal avleverast i\ne. Nasjonalarkivet sitt høve til å inngå avtaler med eit organ om forvaltninga av og råderetten over avleverte og deponerte arkiv\nf. krav til handsaminga av personopplysningar\ng. refusjon av kostnader Nasjonalarkivet har når dei gjer oppgåver som etter lova her eller forskrift med heimel i lova skal løysast av andre organ."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-12",
+     "nummer": "§ 16",
+     "tittel": "Tilgjengeleggjering av arkiv som er avleverte eller overførte til langtidsbevaring",
+     "ledd": [
+      "Arkiv som er avleverte til Nasjonalarkivet eller overførte til fylkeskommunale eller kommunale bevaringsinstitusjonar, og arkiva som er nemnde i § 14 sjette ledd, skal vere offentleg tilgjengelege dersom ikkje anna lovgiving eller rettane til tredjepersonar er til hinder for det.",
+      "Alle bevaringsinstitusjonar skal leggje til rette for bruk av arkiva.",
+      "Departementet kan gi forskrift om tilgjengeleggjering av arkiv og om at bevaringsinstitusjonane kan krevje betaling for tenester som ligg utanfor innsynsretten etter offentleglova, forvaltningsloven eller anna lov."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-13",
+     "nummer": "§ 17",
+     "tittel": "Teieplikt og innsynsrett hos Nasjonalarkivet",
+     "ledd": [
+      "Når råderetten over eit arkiv har gått over til Nasjonalarkivet etter § 14, gjeld teieplikta etter forvaltningsloven dersom det ikkje er fastsett i eller i medhald av lov at ei anna teieplikt skal gjelde. Dersom organet som har avlevert arkivet, var omfatta av ei mindre omfattande teieplikt enn det som gjeld etter forvaltningsloven, skal Nasjonalarkivet ha same høve til å gi innsyn.",
+      "Retten til partsinnsyn, retten til innsyn etter offentleglova og andre særskilde lovfesta innsynsrettar gjeld òg etter at råderetten over eit arkiv går over til Nasjonalarkivet."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Privatarkiv",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 18",
+     "tittel": "Ansvar for oversyn, rettleiing og samordning knytt til privatarkiv",
+     "ledd": [
+      "Nasjonalarkivet skal\na. halde oversyn over privatarkiv som er vurderte å ha verdi for ettertida\nb. føre eit register for privatarkiv som er tekne vare på i offentlege og private bevaringsinstitusjonar\nc. rettleie bevaringsinstitusjonar om arbeid med privatarkiv\nd. samordne og medverke til det faglege utviklingsarbeidet med privatarkiv.",
+      "Statlege, fylkeskommunale og kommunale bevaringsinstitusjonar og bevaringsinstitusjonar med offentleg tilskot som tek vare på privatarkiv, skal gi Nasjonalarkivet dei opplysningane som må til for å kunne halde oversyn og føre register etter første ledd bokstav a og b."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 19",
+     "tittel": "Avtaler om privatarkiv som skal takast vare på",
+     "ledd": [
+      "Statlege, fylkeskommunale og kommunale bevaringsinstitusjonar skal forvalte privatarkiv etter § 16 når ein arkiveigar har inngått avtale med dei om avlevering eller deponering. Arkiveigaren kan likevel fastsetje avgrensingar på sakleg grunnlag i tilgangen til privatarkivet i opp til 100 år.",
+      "Når eit privatarkiv er avlevert, går eigedomsretten over til bevaringsinstitusjonen.",
+      "Når eit privatarkiv er deponert, kan den som har deponert arkivet, krevje å få det attende. Eigedomsretten til eit deponert privatarkiv går likevel over til bevaringsinstitusjonen når det har gått 100 år frå deponeringa, om det ikkje er avtalt eit tidlegare tidspunkt for overføring av eigedomsretten."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 20",
+     "tittel": "Særskilt bevaringsverdig privatarkiv",
+     "ledd": [
+      "Nasjonalarkivet kan fastsetje at eit privatarkiv er særskilt bevaringsverdig.",
+      "Arkiveigaren eller bevaringsinstitusjonen som forvaltar det særskilt bevaringsverdige privatarkivet, skal melde frå til Nasjonalarkivet dersom:\na. arkivet skiftar eigar eller blir overført til andre\nb. det er planar om å føre arkivet eller delar av det ut av landet\nc. arkivet står i fare for å gå tapt.",
+      "Særskilt bevaringsverdige privatarkiv skal ikkje delast opp, førast ut av landet, skadast eller kasserast utan at Nasjonalarkivet har samtykt til det. Som vilkår for samtykke kan Nasjonalarkivet krevje å få kopiere arkivet, medrekna metadata og annan kontekstinformasjon, vederlagsfritt. Det same gjeld dersom nokon som har deponert eit særskilt bevaringsverdig privatarkiv, krev å få det attende. Dersom det er fastsett avgrensingar i samsvar med § 19 første ledd, gjeld dette òg for kopien."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Handheving og straff",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 21",
+     "tittel": "Tilsyn",
+     "ledd": [
+      "Nasjonalarkivet fører tilsyn med at organa rettar seg etter føresegnene i §§ 5 til 15 og forskrifter gitt med heimel i desse føresegnene. Når tilsynet krev det, har Nasjonalarkivet rett til innsyn i dokumentasjon uavhengig av teieplikt.",
+      "Nasjonalarkivet fører tilsyn med at fylkeskommunane og kommunane rettar seg etter føresegnene i kommuneloven § 25-1. Tilsynet med fylkeskommunar og kommunar skal førast i samsvar med kommuneloven kapittel 30. Nasjonalarkivet fører også tilsyn med bevaringsinstitusjonar som løyser oppgåver i samband med langtidsbevaring på vegner av fylkeskommunar eller kommunar."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 22",
+     "tittel": "Pålegg om retting og tvangsmulkt",
+     "ledd": [
+      "Nasjonalarkivet kan gi eit organ pålegg om å rette på tilhøve som er i strid med §§ 5 til 15 eller forskrift gitt med heimel i desse føresegnene.",
+      "Dersom dokumentasjon har gått tapt som følgje av brot på føresegner nemnde i første ledd, kan Nasjonalarkivet påleggje organet å rekonstruere dokumentasjonen. Rekonstruksjonen skal vere eigna til å kompensere for skaden ved tapet, og kostnadene med rekonstruksjonen skal stå i eit rimeleg høve til den informasjonsverdien dokumentasjonen har.",
+      "Dersom eit organ ikkje rettar seg etter eit pålegg som er gitt på grunn av alvorlege brot på føresegnene nemnde i første ledd, kan Nasjonalarkivet påleggje organet tvangsmulkt til det har retta seg etter pålegget. Forvaltningsloven § 51 gjeld tilsvarande.",
+      "Første til tredje ledd gjeld ikkje overfor domstolane og forliksråda."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 23",
+     "tittel": "Straff",
+     "ledd": [
+      "Den som forsettleg eller grovt aktlaust handlar i strid med § 5 første ledd, § 10 første ledd, § 11 første ledd, § 12 første ledd, § 13 første ledd, § 14 første ledd eller § 14 andre ledd tredje punktum, eller i strid med føresegner i forskrift gitt med heimel i § 6 bokstav a, b, e, f, g eller h eller § 11 andre ledd, kan straffast med bot."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Sluttføresegner",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 24",
+     "tittel": "Iverksetjing og overgangsreglar",
+     "ledd": [
+      "Lova gjeld frå den tida[1] Kongen fastset. Kongen kan setje i verk dei ulike føresegnene til ulik tid.",
+      "Frå den tida lova tek til å gjelde, blir lov 4. desember 1992 nr. 126 om arkiv oppheva. Forskrifter gitt med heimel i lov 4. desember 1992 nr. 126 om arkiv gjeld òg etter at lova her tek til å gjelde."
+     ],
+     "fotnoter": [
+      {
+       "nr": "1",
+       "tekst": "Frå 1. januar 2026 for §§ 1 til 10 og §§ 12 til 25 iflg. res. 12 des 2025 nr. 2510."
+      }
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 25",
+     "tittel": "Endringar i andre lover",
+     "ledd": [
+      "Frå den tida lova tek til å gjelde, blir desse endringane gjorde i andre lover: – – –"
+     ]
+    }
+   ]
+  }
+ ]
+}

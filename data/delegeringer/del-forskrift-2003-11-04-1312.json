@@ -1,0 +1,62 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-2003-11-04-1312",
+ "dokumentid": "DEL/forskrift/2003-11-04-1312",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Skattelovavd."
+ ],
+ "kunngjort_i": "I 2003 hefte 15",
+ "ikraft": "2003-11-04",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1980-06-13-24/§4-2",
+   "tekst": "lov/1980-06-13-24/§4-2"
+  },
+  {
+   "ref": "lov/1980-06-13-24/§4-3",
+   "tekst": "lov/1980-06-13-24/§4-3"
+  },
+  {
+   "ref": "lov/1980-06-13-24/§4-5",
+   "tekst": "lov/1980-06-13-24/§4-5"
+  }
+ ],
+ "kunngjort": "2003-11-11",
+ "korttittel": "Deleg. av myndighet til Skattedirektorat",
+ "tittel": "Delegering av myndighet til Skattedirektoratet etter ligningsloven § 4-2, § 4-3 og § 4-5.",
+ "annet": "Fastsatt av Finansdepartementet 4. november 2003 med hjemmel i lov av 13. juni 1980 nr. 24 om ligningsforvaltning (ligningsloven) § 4-2, § 4-3 og § 4-5.",
+ "refid": "forskrift/2003-11-04-1312",
+ "eli": "/eli/forskrift/2003/11/04/1312",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/2003-11-04-1312",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Finansdepartementets myndighet etter lov av 13. juni 1980 nr. 24 om ligningsforvaltning (ligningsloven) § 4-2, § 4-3 og § 4-5 til i forskrift å gi regler om elektronisk oppgaveinnlevering for næringsdrivende, delegeres til Skattedirektoratet. Samtidig delegeres myndighet til å oppheve departementets forskrift av 2. februar 2001 nr. 103 om prøvedrift med elektronisk oppgaveinnlevering for næringsdrivende."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Delegeringen av myndighet trer i kraft straks."
+    }
+   ]
+  }
+ ]
+}

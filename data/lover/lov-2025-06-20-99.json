@@ -1,0 +1,352 @@
+{
+ "skjema": "1.0",
+ "type": "lov",
+ "datokode": "LOV-2025-06-20-99",
+ "dokumentid": "NL/lov/2025-06-20-99",
+ "departement": [
+  "Kunnskapsdepartementet"
+ ],
+ "ikraft": "2025-08-01, 2026-08-01",
+ "siste_endring_ikraft": "2026-06-19",
+ "sist_endret_ved": [
+  {
+   "ref": "lov/2026-06-19-59",
+   "tekst": "lov/2026-06-19-59"
+  }
+ ],
+ "endrer": "lov/2002-12-06-72",
+ "rettsomrade": [
+  "Skoler, universiteter og forskning > Skoler. Privatskoler"
+ ],
+ "kunngjort": "2025-06-20 12:45",
+ "siste_rettelse": "2025-11-12 (samisk versjon tilføyd)",
+ "korttittel": "Folkehøgskoleloven",
+ "tittel": "Lov om folkehøgskoler (folkehøgskoleloven)",
+ "annet": "Prop. 111 L (2024–2025), Innst. 496 L (2024–2025), Lovvedtak 88 (2024–2025). Stortingets første og andre gangs behandling hhv. 3. og 6. juni 2025. Fremmet av Kunnskapsdepartementet.",
+ "refid": "lov/2025-06-20-99",
+ "eli": "/eli/lov/2025/06/20/99",
+ "url": "https://lovdata.no/dokument/NL/lov/2025-06-20-99",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1 Formål og anvendelsesområde",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Formål",
+     "ledd": [
+      "Lovens formål er å bidra til at det kan opprettes og drives folkehøgskoler i Norge.",
+      "Folkehøgskolen skal fremme allmenndanning, folkelig opplysning, aktivt medborgerskap og menneskeverd. Folkehøgskolen skal bidra til mangfold og være åpen for alle. Den enkelte folkehøgskole har ansvar for å fastsette sitt verdigrunnlag innenfor denne rammen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Lovens anvendelse for Svalbard",
+     "ledd": [
+      "Loven gjelder også for Svalbard."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2 Godkjenning og statstilskudd",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 3",
+     "tittel": "Godkjenning av folkehøgskoler",
+     "ledd": [
+      "Departementet kan godkjenne en skole for tilskudd.",
+      "Vertskommunen og vertsfylket må støtte en søknad om godkjenning av en skole før departementet kan fatte vedtak om godkjenning. Første punktum gjelder ikke søknad om godkjenning av en kommunal eller fylkeskommunal skole.",
+      "Dersom driften etter loven blir nedlagt, faller godkjenningen bort.",
+      "Departementet kan gi forskrift om frister i forbindelse med søknad om godkjenning."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 4",
+     "tittel": "Tilskuddsmodell",
+     "ledd": [
+      "Tilskuddsmodellen skal bestå av basistilskudd, tilskudd per elev og tilskudd til rentebetaling.",
+      "Departementet skal gi forskrift om offentlige tilskudd til godkjente folkehøgskoler. Tilskuddet justeres årlig i takt med kostnadsutviklingen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 5",
+     "tittel": "Krav til bruken av offentlige tilskudd og elevbetalinger",
+     "ledd": [
+      "Alle offentlige tilskudd og elevbetalinger skal komme elevene til gode. Dette innebærer blant annet at skolen ikke kan\na. gi utbytte eller på annen måte overføre overskudd til eierne eller deres nærstående, verken når skolen er i drift, eller om driften blir nedlagt\nb. pådra seg kostnader i form av leieutgifter for eiendom eller lokale som tilhører skolens eiere eller deres nærstående, eller på annen måte pådra seg kostnader som kan innebære at alle offentlige tilskudd eller elevbetalinger ikke kommer elevene til gode.",
+      "Ved opphør av skoledriften kan departementet kreve tilbakeført gjenstående midler som skriver seg fra det offentlige tilskuddet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 6",
+     "tittel": "Elevtall",
+     "ledd": [
+      "Skolen skal ha minst 35 elever årlig i gjennomsnitt over fire år."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3 Organisering, ledelse og personale",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 7",
+     "tittel": "Folkehøgskolens organisering",
+     "ledd": [
+      "Folkehøgskole skal være med i skolens navn, og bare skoler som er godkjent etter § 3, kan bruke navnet folkehøgskole.",
+      "Skoler skal være registrert med eget organisasjonsnummer i Enhetsregisteret.",
+      "Skoler som godkjennes etter § 3, skal være aksjeselskap etter aksjeloven eller stiftelser etter stiftelsesloven.",
+      "Andre og tredje ledd gjelder ikke for kommunale og fylkeskommunale skoler."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 8",
+     "tittel": "Styret",
+     "ledd": [
+      "Folkehøgskolen skal ha et styre som er det øverste ansvarlige organet. Eieren av skolen fastsetter sammensetningen av styret.",
+      "Elever og ansatte skal være sikret representasjon i styret og skal selv velge sine representanter. Representantene skal ha tale-, forslags- og stemmerett på styremøtene.",
+      "Et mindretall i styret kan klage på vedtak i styret. I saker som gjelder skolens verdigrunnlag, er skoleeier klageinstans, og i forvaltningssaker er departementet klageinstans. Reglene i forvaltningsloven kap. IV, V og VI gjelder ved klagebehandlingen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 9",
+     "tittel": "Styrets ansvar",
+     "ledd": [
+      "Styret har ansvar for at skolen drives i samsvar med lover og forskrifter.",
+      "Styret skal\na. sørge for at elevene får det kurstilbudet som er forutsatt som grunnlag for godkjenningen\nb. sørge for at vilkår for offentlige tilskudd oppfylles\nc. fastsette opptaks- og skoleregler\nd. etablere et organ for behandling av saker om brudd på skolereglene\ne. etablere og sørge for gjennomføring av systematiske kontrolltiltak for å sikre at krav fastsatt i eller med hjemmel i denne loven oppfylles (internkontroll)\nf. sørge for et system for kvalitetssikring og kvalitetsutvikling og for at dette systemet er forsvarlig og tilpasset skolens egenart og aktiviteter\ng. ansette rektor og sørge for at skolens ansatte har riktig kompetanse\nh. sørge for at skolen har et elevråd, og utover dette fastsette hvilke råd og organer som er nødvendige for å sikre demokratiske rettigheter og forsvarlig drift\ni. være åpent om arbeidet sitt\nj. før oppstart av skoleåret fatte vedtak om at det er forsvarlig å starte opp et nytt skoleår, og gjøre vedtaket offentlig tilgjengelig\nk. fastsette størrelsen på elevbetalingen.",
+      "Andre ledd bokstav e gjelder ikke for kommunale og fylkeskommunale skoler."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 10",
+     "tittel": "Rektor",
+     "ledd": [
+      "Skolen skal ha en rektor som er pedagogisk og administrativt ansvarlig leder."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 11",
+     "tittel": "Elevombud",
+     "ledd": [
+      "Elevene skal ha tilgang til et nasjonalt elevombud.",
+      "Elevombudet skal gi elever råd og veiledning i saker knyttet til elevsituasjonen. Elevombudet kan ikke instrueres i sitt virke.",
+      "Departementet ansetter elevombudet på åremål for en periode på fire til seks år. Ingen kan være ansatt på åremål etter denne bestemmelsen i en sammenhengende periode på mer enn tolv år.",
+      "Forvaltningslovens regler om taushetsplikt gjelder for elevombudet, jf. forvaltningsloven §§ 13 til 13 e og 13 g."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-6",
+     "nummer": "§ 12",
+     "tittel": "Politiattest og forbud mot ansettelse",
+     "ledd": [
+      "Den som skal ansettes fast eller midlertidig ved en folkehøgskole, skal legge fram politiattest som nevnt i politiregisterloven § 39 første ledd. Personer som er dømt for seksuelle overgrep mot mindreårige, skal ikke ansettes fast eller midlertidig i slike skoler. I andre tilfeller må konsekvensene av merknader på politiattesten vurderes konkret."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4 Kurs, bo- og læringsmiljøet, opptak, skoleregler og reaksjoner ved brudd på skolereglene mv.",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Endret ved lov 19 juni 2026 nr. 59 (i kraft 19 juni 2026 iflg. res. 19 juni 2026 nr. 1137)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 13",
+     "tittel": "Kvalitetssikring og rapportering",
+     "ledd": [
+      "Folkehøgskolen skal utarbeide en prosedyre for selvevaluering og kvalitetsutvikling. Skolen skal utarbeide en årlig selvevalueringsrapport som skal være offentlig tilgjengelig. Ansatte og elever skal medvirke i arbeidet med kvalitetssikring.",
+      "Skolen skal utarbeide en årsrapport som skal være offentlig tilgjengelig. Første punktum gjelder ikke for kommunale eller fylkeskommunale skoler. Departementet kan gi forskrift om årsrapporten, blant annet om krav til innholdet i rapporten og hvordan den skal utformes."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 14",
+     "tittel": "Kurs",
+     "ledd": [
+      "Folkehøgskolen skal være eksamensfri. Skoler kan likevel legge til rette for at elever kan ta videregående opplæring i fag som en del av kursopplegget.",
+      "Skolen skal ha et internat som en integrert del av læringsprogrammet. Departementet kan gi forskrift om hvor stor andel av elevene som skal bo på internat.",
+      "Skolen skal ha kurs som varer minimum 16,5 uker. Skolen skal utarbeide en kursplan for hvert kurs som skal inneholde en beskrivelse av kurset opp mot formålet med folkehøgskole, jf. § 1 andre ledd. Kursplanen skal være offentlig tilgjengelig. Departementet kan gi forskrift om kursordninger.",
+      "Studiereiser med overnatting som gjennomføres som en del av et kurs, skal settes inn i en pedagogisk sammenheng. For- og etterarbeid til en studiereise skal gjennomføres ved skolen. Departementet kan gi forskrift om lengde på studiereiser.",
+      "Skolen skal utarbeide dokumentasjon over elevenes læringsprogram og deltakelse. Dokumentasjonen skal være utformet slik at den gir grunnlag for en vurdering av realkompetanse inn mot utdanningssystem og arbeidsliv. Departementet kan gi forskrift om dokumentasjon."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 15",
+     "tittel": "Bo- og læringsmiljø",
+     "ledd": [
+      "Folkehøgskolen skal sørge for at bo- og læringsmiljøet er forsvarlig ut fra en samlet vurdering av hensynet til elevenes helse, sikkerhet og velferd. Skolen skal samarbeide med elevrådet om bo- og læringsmiljøet.",
+      "Arbeidstilsynet fører tilsyn med at kravene i første ledd overholdes. Arbeidsmiljøloven kapittel 18 om tilsyn gjelder tilsvarende så langt det passer.",
+      "Departementet kan gi forskrift om bo- og læringsmiljøet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 16",
+     "tittel": "Opptak av elever",
+     "ledd": [
+      "Folkehøgskolen skal fastsette opptaksregler som viser prioriteringen av søkere dersom det er flere søkere enn kapasitet ved skolen. Opptaksreglene skal være offentlig tilgjengelige. Opptaksreglene skal gi regler for prioritering av søkere ut fra saklige hensyn.",
+      "Skolen avgjør i samsvar med opptaksreglene hvilke søkere som får tilbud om skoleplass.",
+      "Departementet kan gi forskrift med nærmere regler om opptak, blant annet om søknadsfrist og tilbudsdato.",
+      "Avgjørelser om opptak er enkeltvedtak, og reglene i forvaltningsloven gjelder."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-5",
+     "nummer": "§ 17",
+     "tittel": "Skoleregler",
+     "ledd": [
+      "Folkehøgskolen skal fastsette skoleregler med rettigheter og plikter til elevene. Skolereglene skal regulere orden og oppførsel, hvilke tiltak som kan benyttes mot elever som bryter reglene, og hvordan slike saker skal behandles.",
+      "Skolereglene skal være offentlig tilgjengelige."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-6",
+     "nummer": "§ 18",
+     "tittel": "Forbud mot bruk av klesplagg som helt eller delvis dekker ansiktet",
+     "ledd": [
+      "Elever skal ikke bruke klesplagg som helt eller delvis dekker ansiktet, i undervisningen og på turer i skolens regi, med mindre bruken av slike plagg er begrunnet i klimatiske, pedagogiske, helsemessige eller sikkerhetsmessige forhold.",
+      "Styret fastsetter hvilke reaksjoner som skal gjelde ved brudd på første ledd. Reaksjonene skal gjøres kjent for elevene på forhånd. Reaksjonene kan ikke innebære fysisk refsing eller annen krenkende behandling.",
+      "De som underviser på skolen, skal ikke bruke klesplagg som helt eller delvis dekker ansiktet når de underviser elevene, med mindre bruken av slike plagg er begrunnet i klimatiske, pedagogiske, helsemessige eller sikkerhetsmessige forhold. Dersom noen bruker klesplagg i strid med forbudet, skal styret gi personen pålegg om å fjerne plagget. Gjentatte brudd på forbudet kan være grunnlag for oppsigelse."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-7",
+     "nummer": "§ 19",
+     "tittel": "Bortvisning og utvisning",
+     "ledd": [
+      "Styret kan fastsette i skolereglene at elever som i alvorlig grad eller gjentatte ganger bryter reglene, kan bortvises fra undervisningen eller skolens område.",
+      "Styret kan fastsette i skolereglene at elever som i særlig alvorlig grad bryter reglene, kan utvises for resten av kurset.",
+      "Før det fattes vedtak om bortvisning eller utvisning, skal andre tiltak ha vært vurdert. Vedtak etter første og andre ledd fattes av organet for behandling av saker om brudd på skolereglene, og rektor skal delta i behandlingen.",
+      "Avgjørelser om bortvisning og utvisning er enkeltvedtak, og reglene i forvaltningsloven gjelder. Styret ved skolen er klageinstans."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5 Diverse bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 20",
+     "tittel": "Forsøksvirksomhet",
+     "ledd": [
+      "Etter søknad fra en folkehøgskole kan departementet godkjenne et tidsavgrenset unntak fra loven eller forskrifter gitt med hjemmel i loven dersom det er nødvendig for å gjennomføre et pedagogisk eller organisatorisk forsøk. Departementet kan også på eget initiativ vedta forsøk ved én eller flere skoler.",
+      "Forsøkene skal være etisk forsvarlige og godt faglig underbygd. Forsøkene skal evalueres og rapporteres. Forsøkene skal ikke svekke elevenes grunnleggende rettigheter etter loven."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 21",
+     "tittel": "Tilsyn",
+     "ledd": [
+      "Departementet fører tilsyn med skoler godkjent etter denne loven og skal i den sammenhengen ha tilgang til skoleanlegg og dokumentasjon. Når skolens eiere og deres nærstående handler med skolen, skal departementet ved gjennomføringen av tilsyn ha tilgang til dokumentasjon fra eieren av skolen eller nærstående til eieren når dette er nødvendig for å kunne føre tilsyn med om skolen oppfyller kravene i loven. Departementets rett til dokumentasjon gjelder uten hinder av taushetsplikt.",
+      "Departementet kan gi forskrift om kontroll med offentlige tilskudd, regnskap og revisjon."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 22",
+     "tittel": "Mulige reaksjonsformer",
+     "ledd": [
+      "Dersom det blir oppdaget forhold i strid med loven, forskrifter gitt med hjemmel i loven eller vilkår i vedtaket om godkjenning, kan departementet gi pålegg om å rette forholdene.",
+      "Departementet kan holde tilbake tilskuddet eller trekke tilbake godkjenningen dersom vilkårene i loven, forskrifter gitt med hjemmel i loven eller vedtaket om godkjenning ikke blir oppfylt.",
+      "Departementet kan kreve tilbake for mye utbetalt tilskudd og tilskudd som er brukt i strid med loven, forskrifter gitt med hjemmel i loven eller vilkår i vedtaket om godkjenning.",
+      "Første til tredje ledd gjelder også dersom det blir oppdaget forhold i strid med andre lover og forskrifter og forholdet svekker tilliten til skolen.",
+      "Ved bruken av reglene i første til tredje ledd skal det legges vekt på de verdiene som følger av § 1."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-4",
+     "nummer": "§ 23",
+     "tittel": "Kvalifikasjonskrav for undervisningspersonalet",
+     "ledd": [
+      "Departementet kan gi forskrift om kvalifikasjonskrav for undervisningspersonalet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-5",
+     "nummer": "§ 24",
+     "tittel": "Ikrafttredelse, opphevelse og overgangsregler",
+     "ledd": [
+      "Loven gjelder fra den tiden[1] Kongen bestemmer. Fra det tidspunktet loven trer i kraft, oppheves lov 6. desember 2002 nr. 72 om folkehøyskoler (folkehøyskoleloven). Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.",
+      "Dispensasjoner gitt med hjemmel i lov 8. juni 1984 nr. 64 om folkehøgskolar § 3 tredje ledd fortsetter å gjelde."
+     ],
+     "fotnoter": [
+      {
+       "nr": "1",
+       "tekst": "Fra 1. august 2025 for §§ 1 til 10, §§ 12 til 15 og §§ 18 til 24,\nfra 1. august 2026 for §§ 11, 16 og 17 iflg. res. 20 juni 2025 nr. 1098."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "vedlegg",
+   "overskrift": "Vedlegg. Samisk oversettelse",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Se her for å lese loven på nordsamisk: pdf-versjon"
+    },
+    {
+     "type": "endring",
+     "tekst": "Oversettelsen av folkehøgskoleloven til nordsamisk er levert av Kunnskapsdepartementet og er oppdatert per 1. august 2025.\nDette er en uoffisiell oversettelse av den norske versjonen av loven. Hvis det er forskjeller mellom samisk og norsk versjon, så gjelder den norske versjonen slik den er kunngjort i Norsk Lovtidend."
+    }
+   ]
+  }
+ ]
+}

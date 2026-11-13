@@ -1,0 +1,177 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2024-09-27-2348",
+ "dokumentid": "SF/forskrift/2024-09-27-2348",
+ "departement": [
+  "Kommunal- og distriktsdepartementet"
+ ],
+ "etat": [
+  "Kommunalavdelingen"
+ ],
+ "ikraft": "2025-01-01",
+ "hjemmel": [
+  {
+   "ref": "lov/2018-06-22-83/§14-10",
+   "tekst": "lov/2018-06-22-83/§14-10"
+  },
+  {
+   "ref": "lov/2018-06-22-83/§14-18",
+   "tekst": "lov/2018-06-22-83/§14-18"
+  },
+  {
+   "ref": "lov/1999-01-29-6/§22",
+   "tekst": "lov/1999-01-29-6/§22"
+  }
+ ],
+ "kunngjort": "2024-10-02 14:30",
+ "tittel": "Forskrift om minimumsavdrag på lån for kommuner, fylkeskommuner, kommunale og fylkeskommunale foretak, interkommunale samarbeid og interkommunale selskaper",
+ "annet": "Hjemmel: Fastsatt av Kommunal- og distriktsdepartementet 27. september 2024 med hjemmel i lov 22. juni 2018 nr. 83 om kommuner og fylkeskommuner (kommuneloven) § 14-10 og § 14-18 og lov 29. januar 1999 nr. 6 om interkommunale selskaper (IKS-loven) § 22.",
+ "refid": "forskrift/2024-09-27-2348",
+ "eli": "/eli/forskrift/2024/09/27/2348",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2024-09-27-2348",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Virkeområde",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1-1",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Forskriften gjelder for\na. kommuner og fylkeskommuner\nb. kommunale og fylkeskommunale foretak etter kommuneloven kapittel 9\nc. interkommunale politiske råd etter kommuneloven kapittel 18\nd. kommunale oppgavefellesskap etter kommuneloven kapittel 19\ne. lånefond etter kommuneloven § 14-14 tredje ledd\nf. interkommunale selskaper etter IKS-loven."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Dekning av minimumsavdrag på lån i årsbudsjettet og årsregnskapet",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 2-1",
+     "tittel": "Budsjettmessig dekning og utgiftsføring av minimumsavdraget",
+     "ledd": [
+      "Følgende budsjett- og regnskapsenheter skal ha et driftsbudsjett som minst dekker enhetens minimumsavdrag beregnet etter forskriften kapittel 3:\na. kommunekassen og fylkeskommunekassen\nb. kommunale og fylkeskommunale foretak\nc. interkommunale politiske råd\nd. kommunale oppgavefellesskap\ne. interkommunale selskaper.",
+      "Første punktum gjelder også for det enkelte år i enhetens økonomiplan. I driftsregnskapet til enheten skal det utgiftsføres avdrag minst lik minimumsavdraget i tråd med forskrift 7. juni 2019 nr. 714 om økonomiplan, årsbudsjett, årsregnskap og årsberetning for kommuner og fylkeskommuner mv. § 2-5 første ledd andre punktum.",
+      "Første ledd gjelder ikke for kommunale og fylkeskommunale foretak som utarbeider årsregnskap etter regnskapsloven i tråd med forskrift 7. juni 2019 nr. 714 om økonomiplan, årsbudsjett, årsregnskap og årsberetning for kommuner og fylkeskommuner mv. kapittel 7 og interkommunale selskaper som utarbeider årsregnskap etter regnskapsloven i tråd med IKS-loven § 27 første ledd."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 2-2",
+     "tittel": "Unntak fra kravet om budsjettmessig dekning og utgiftsføring av minimumsavdraget",
+     "ledd": [
+      "Et kommunalt eller fylkeskommunalt foretak kan ha avdrag i driftsbudsjettet og driftsregnskapet som er lavere enn foretakets minimumsavdrag, hvis kommunekassen eller fylkeskommunekassen, et annet eller andre kommunale eller fylkeskommunale foretak i den samme kommunen eller fylkeskommunen til sammen har avdrag som er tilsvarende høyere. Første punktum gjelder bare dersom kommunestyret eller fylkestinget selv har fastsatt at et foretak skal kunne ha avdrag som er lavere enn minimumsavdraget.",
+      "Hvis et kommunalt eller fylkeskommunalt foretak benytter unntaket i første ledd, gjelder ikke forskrift 7. juni 2019 nr. 714 om økonomiplan, årsbudsjett, årsregnskap og årsberetning for kommuner og fylkeskommuner mv. § 2-5 første ledd andre punktum.",
+      "Hvis et kommunalt eller fylkeskommunalt foretak benytter unntaket i første ledd, skal det i foretakets årsregnskap gis opplysninger i note om at foretaket har benyttet seg av unntaket, om det er kommunekassen eller fylkeskommunekassen eller hvilke andre foretak som har tilsvarende høyere avdrag, og tilhørende beløp."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Beregning av minimumsavdraget",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 3-1",
+     "tittel": "Beregningsgrunnlag og beregningsformel",
+     "ledd": [
+      "Minimumsavdraget til den enkelte budsjett- og regnskapsenhet som nevnt i § 2-1 første ledd skal beregnes ut fra avskrivningene, de avskrivbare anleggsmidlene og lånegjelden i enhetens årsregnskap.",
+      "Minimumsavdraget er lik avskrivningene multiplisert med forholdet mellom lånegjelden og de avskrivbare anleggsmidlene.",
+      "Beregningen foretas ut fra avskrivningene i regnskapsåret og størrelsen på lånegjelden og de avskrivbare anleggsmidlene ved inngangen av regnskapsåret."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 3-2",
+     "tittel": "Avskrivbare anleggsmidler",
+     "ledd": [
+      "Avskrivbare anleggsmidler omfatter kun varige driftsmidler med begrenset levetid slik disse skal regnskapsføres i årsregnskapet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 3-3",
+     "tittel": "Avskrivninger",
+     "ledd": [
+      "Avskrivninger omfatter kun avskrivninger av varige driftsmidler med begrenset levetid slik disse skal beregnes og regnskapsføres i årsregnskapet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 3-4",
+     "tittel": "Lånegjeld",
+     "ledd": [
+      "Lånegjeld omfatter lån til\na. egne investeringer i varige driftsmidler etter i kommuneloven § 14-15 første ledd eller IKS-loven § 22 andre ledd\nb. kjøp av aksjene i eiendomsselskap etter kommuneloven § 14-15 andre ledd eller IKS-loven § 22 tredje ledd\nc. tilskudd til andres investeringer i varige driftsmidler etter kommuneloven § 14-16 første og andre ledd\nd. innfrielse av kausjonsansvar etter kommuneloven § 14-16 tredje ledd\ne. tilskudd til investeringer i kirkebygg og tilhørende varige driftsmidler etter trossamfunnsloven § 14 fjerde ledd\nf. tilskudd til investeringer i gravplasser og tilhørende varige driftsmidler etter gravplassloven § 3 tredje ledd\ng. refinansiering av lån til formål som nevnt foran etter kommuneloven § 14-14 første ledd andre punktum eller IKS-loven § 22 femte ledd\nh. andre formål tatt opp med hjemmel i annen lov enn kommuneloven eller IKS-loven.",
+      "For en budsjett- og regnskapsenhet i en kommune eller fylkeskommune, omfatter lånegjeld også interne innlån til formål som nevnt i første ledd. For en budsjett- og regnskapsenhet i en kommune eller fylkeskommune, skal interne utlån til formål som nevnt i første ledd redusere lånegjelden med tilsvarende beløp.",
+      "Hvis mottatte avdrag på videreutlån etter kommuneloven § 14-17 er brukt til å betale ned på lån til formål som nevnt i første ledd, skal lånegjelden økes med et beløp som er lik nedbetalingen.",
+      "Ubrukte lånemidler i lånefond skal fordeles på og øke lånegjelden til de øvrige budsjett- og regnskapsenhetene i kommunen eller fylkeskommunen. Kommunestyret eller fylkestinget selv avgjør hvordan fordelingen av de ubrukte lånemidlene på enhetene skal være."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 3-5",
+     "tittel": "Beregning av minimumsavdraget ved lån til tomter og lån til kirkebygg",
+     "ledd": [
+      "Lån til tomter og andre varige driftsmidler som ikke er avskrivbare, kan holdes utenfor lånegjelden ved beregningen av minimumsavdraget etter § 3-1 andre ledd, og i stedet gis en særskilt avdragstid på 50 år. Det samlete minimumsavdraget er da lik summen av minimumsavdraget beregnet etter § 3-1 andre ledd og minimumsavdraget for lånegjelden som er beregnet med særskilt avdragstid.",
+      "Hvis en budsjett- og regnskapsenhet som nevnt i § 2-1 første ledd ikke har avskrivninger og avskrivbare anleggsmidler i årsregnskapet slik at minimumsavdraget ikke kan beregnes ut fra formelen i § 3-1 andre ledd, skal minimumsavdraget for enhetens lån til tomter og andre varige driftsmidler som ikke er avskrivbare, beregnes ut fra en avdragstid på 50 år.",
+      "Lån til kirkebygg som har en regnskapsmessig levetid som er vesentlig lengre enn levetiden på kommunens egne anleggsmidler, kan holdes utenfor lånegjelden ved beregningen av minimumsavdraget etter § 3-1 andre ledd, og i stedet gis en særskilt avdragstid lik kirkebyggets regnskapsmessige levetid. Det samlete minimumsavdraget er da lik summen av minimumsavdraget beregnet etter § 3-1 andre ledd og minimumsavdraget for lånegjelden som er beregnet med særskilt avdragstid."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Betaling av minimumsavdraget",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 4-1",
+     "tittel": "Årlig betaling av minimumsavdraget",
+     "ledd": [
+      "Kommunen eller fylkeskommunen som rettssubjekt skal årlig foreta nedbetaling av lån til formål som nevnt i § 3-4 første ledd. Nedbetalingene skal minst tilsvare kommunens eller fylkeskommunens samlete minimumsavdrag. Det samlete minimumsavdraget er lik summen av minimumsavdragene for de enkelte budsjett- og regnskapsenhetene i kommunen eller fylkeskommunen slik det følger av forskriften kapittel 2 og 3.",
+      "Interkommunalt politisk råd som er eget rettssubjekt, kommunalt oppgavefellesskap som er eget rettssubjekt og interkommunale selskaper skal årlig foreta nedbetaling av lån til formål som nevnt i § 3-4 første ledd. Nedbetalingene skal minst tilsvare enhetens minimumsavdrag slik det følger av forskriften kapittel 2 og 3."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Ikrafttredelse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 5-1",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Forskriften trer i kraft 1. januar 2025."
+     ]
+    }
+   ]
+  }
+ ]
+}

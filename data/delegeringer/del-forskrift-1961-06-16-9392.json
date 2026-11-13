@@ -1,0 +1,71 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-1961-06-16-9392",
+ "dokumentid": "DEL/forskrift/1961-06-16-9392",
+ "departement": [
+  "Helse- og omsorgsdepartementet"
+ ],
+ "etat": [
+  "Helsedirektoratet"
+ ],
+ "kunngjort_i": "I 1961 s 597",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1933-05-19-3",
+   "tekst": "lov/1933-05-19-3"
+  },
+  {
+   "ref": "lov/1860-05-16/§4",
+   "tekst": "lov/1860-05-16/§4"
+  },
+  {
+   "ref": "lov/1952-12-19-1",
+   "tekst": "lov/1952-12-19-1"
+  }
+ ],
+ "korttittel": "Forskr. om del. av myndighet til Sosialdep.",
+ "tittel": "Delegasjon av myndighet til Sosialdepartementet.",
+ "refid": "forskrift/1961-06-16-9392",
+ "eli": "/eli/forskrift/1961/06/16/9392",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/1961-06-16-9392",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I.",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Sosialdepartementet bemyndiges til å oppheve, foreta endringer i og gi tilføyelser til forskrifter gitt med hjemmel i lov nr. 3 av 19. mai 1933 om tilsyn med næringsmidler m.v."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II.",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Sosialdepartementet bemyndiges til å oppheve, foreta endringer i og gi tilføyelse til forskrifter gitt med hjemmel i § 4, 3. ledd i lov av 16. mai 1860 om sunnhetskommisjoner og om foranstaltninger i anledning av epidemiske og smittsomme sykdommer."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kapIII",
+   "overskrift": "III.",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Sosialdepartementet bemyndiges til å foreta endringer i og gi tilføyelser til forskrifter gitt med hjemmel i lov nr. 1 av 19. desember 1952 om vern mot overføring av smittsom sykdom fra utlandet m.v."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,842 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2005-10-07-1219",
+ "dokumentid": "SF/forskrift/2005-10-07-1219",
+ "departement": [
+  "Samferdselsdepartementet"
+ ],
+ "etat": [
+  "Veg-, by- og trafikksikkerhetsavdelingen"
+ ],
+ "kunngjort_i": "I 2005 hefte 13",
+ "ikraft": "2005-10-07, 2006-06-01",
+ "siste_endring_ikraft": "2026-08-12",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2026-08-12-1625",
+   "tekst": "forskrift/2026-08-12-1625"
+  }
+ ],
+ "endrer": "forskrift/1980-10-10-1",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1965-06-18-4/§5",
+   "tekst": "lov/1965-06-18-4/§5"
+  },
+  {
+   "ref": "lov/1965-06-18-4/§6",
+   "tekst": "lov/1965-06-18-4/§6"
+  },
+  {
+   "ref": "lov/1965-06-18-4/§43",
+   "tekst": "lov/1965-06-18-4/§43"
+  },
+  {
+   "ref": "forskrift/1967-03-17-3462",
+   "tekst": "forskrift/1967-03-17-3462"
+  }
+ ],
+ "rettsomrade": [
+  "Transport og kommunikasjoner > Veitrafikk"
+ ],
+ "kunngjort": "2005-10-21",
+ "siste_rettelse": "2025-01-30 (strukturforbedring for skiltoppsett)",
+ "korttittel": "Skiltforskriften",
+ "tittel": "Forskrift om offentlige trafikkskilt, vegoppmerking, trafikklyssignaler og anvisninger (skiltforskriften)",
+ "annet": "Hjemmel: Fastsatt av Samferdselsdepartementet 7. oktober 2005 med hjemmel i lov 18. juni 1965 nr. 4 om vegtrafikk (vegtrafikkloven) § 5, § 6 og § 43, jf. delegeringsvedtak 17. mars 1967 nr. 3462.\nEndret ved forskrifter 8 jan 2007 nr. 8, 9 april 2008 nr. 334, 17 juli 2008 nr. 812, 21 aug 2008 nr. 939, 8 feb 2008 nr. 117. 27 nov 2008 nr. 1262 jf. 17 april 2009 nr. 425, 18 feb 2009 nr. 201, 16 okt 2009 nr. 1277, 9 des 2009 nr. 1517, 22 juni 2010 nr. 934, 24 mai 2011 nr. 543, 21 nov 2011 nr. 1125, 14 jan 2013 nr. 40, 25 sep 2014 nr. 1241, 18 mars 2016 nr. 265, 5 mai 2017 nr. 531, 19 des 2019 nr. 2042 (i kraft 1 jan 2020), 30 jan 2020 nr. 91, 6 des 2019 nr. 1647 (i kraft 1 juli 2020), 27 okt 2020 nr. 2144, 15 april 2021 nr. 1161, 7 mai 2021 nr. 1453 (i kraft 18 mai 2021), 26 aug 2021 nr. 2579, 19 april 2022 nr. 583, 30 mai 2022 nr. 933 (i kraft 15 juni 2022), 22 des 2022 nr. 2460, 22 juli 2024 nr. 1801, 22 juli 2024 nr. 1801 (i kraft 1 jan 2025), 12 aug 2026 nr. 1625.\nRettelser: 01.11.2005 (§ 6, tekst til skilt 202), 03.11.2005, 14.11.2005 (skilt 106.3), 04.11.2006 (skilt 1094, overskrift), 26.05.2006 (skilt 904V), 21.06.2022 (tekst for skilt 382), 07.08.2024 (struktur i § 39 og § 40), 30.01.2025 (strukturforbedring for skiltoppsett).",
+ "refid": "forskrift/2005-10-07-1219",
+ "eli": "/eli/forskrift/2005/10/07/1219",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2005-10-07-1219",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Innledning",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Innledende bestemmelser",
+     "ledd": [
+      "1. Offentlige trafikkskilt, vegoppmerkinger og trafikklyssignaler er de skilt, oppmerkinger og signaler som fremgår av denne forskrift, med utforming, farge og betydning som fastsatt her.",
+      "2. Det er forbudt å feste til skilt eller til annen offentlig trafikkontrollinnretning noe som ikke gjelder skiltets eller innretningens formål.",
+      "3. Definisjonene i trafikkreglene og i forskriftene om tekniske krav til kjøretøy gjelder for denne forskrift dersom ikke annet er uttrykkelig fastsatt. Det samme gjelder bestemmelsene i trafikkreglene om hvem som regnes som kjørende og gående.",
+      "4. Denne forskrift gjelder så langt den passer også for fører av sporvogn."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Gyldighet, virkeområde m.m.",
+     "ledd": [
+      "1. Offentlig trafikkskilt, vegoppmerking og trafikklyssignal er gyldig bare når de er plassert etter vedtak av vedkommende myndighet. Offentlig trafikkskilt gjelder etter sitt innhold fra det øyeblikk det er satt opp og avdekket.",
+      "2. Offentlig trafikkskilt, vegoppmerking og trafikklyssignal gjelder for vegen i den tillatte kjøreretning og for den trafikantgruppe som de retter seg mot.\nDersom det er flere kjørefelt i kjøreretningen og offentlig trafikkskilt er plassert over midten av et kjørefelt, gjelder skiltet bare for vedkommende felt.\nUnntak fra bestemmelsene i nummeret her kan være fastsatt for enkelte skilt eller skiltgrupper.",
+      "3. Offentlig trafikkskilt kan være utført slik at skiltet kan veksle mellom to eller flere forskjellige symboler eller tekster. I slike tilfeller kan utforming og farge avvike fra det som er angitt i denne forskrift."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Fareskilt",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 3",
+     "tittel": "Alminnelige bestemmelser",
+     "ledd": [
+      "1. Fareskilt varsler om særlig fare.",
+      "2. Fareskilt som nyttes til midlertidig skilting i forbindelse med vegarbeid, kan ha gul bunnfarge.",
+      "3. Fareskilt kan ha underskilt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 4",
+     "tittel": "De enkelte fareskilt",
+     "ledd": [
+      "|\n100.1 |\n100.2 | | 100 Farlig sving\n|\n102.1 |\n102.2 | | 102 Farlige svinger\n|\n104.1 |\n104.2 | | 104 Bratt bakke\n|\n106.1 |\n106.2 |\n106.3 | 106 Smalere veg\n|\n108 | | | 108 Ujevn veg\n|\n109 | | | 109 Fartshump\n|\n110 | | | 110 Vegarbeid\n|\n112 | | | 112 Steinsprut\n|\n114 | | | 114 Rasfare\nSkiltet varsler om fare for ras av stein, jord, snø e.l., og at rasmaterialer kan ligge på kjørebanen.\n|\n116 | | | 116 Glatt kjørebane\nSkiltet varsler om fare for glatt kjørebane på grunn av særlige forhold.\n|\n117 | | | 117 Farlig vegskulder\n|\n118 | | | 118 Bevegelig bru\n|\n120 | | | 120 Kai, strand eller ferjeleie\n|\n122 | | | 122 Tunnel\n|\n124 | | | 124 Farlig vegkryss\nSkiltet varsler om farlig vegkryss hvor det gjelder vanlig vikeplikt overfor kjørende fra høyre.\n|\n126 | | | 126 Rundkjøring\n|\n132 | | | 132 Trafikklyssignal\n|\n134 | | | 134 Planovergang med bom\n|\n135 | | | 135 Planovergang uten bom\n|\n136.1 |\n136.2 |\n136.3 | 136 Avstandsskilt\nSkiltet gir forvarsel om planovergang varslet med skilt 134 eller 135.\n|\n138.1 Enkeltsporet |\n138.2 Flersporet | | 138 Jernbanespor\nSkiltet angir stedet hvor jernbane eller forstadsbane krysser vegen i plan.\n|\n139 | | | 139 Sporvogn\n|\n140 | | | 140 Avstand til gangfelt\n|\n142 | | | 142 Barn\nSkiltet varsler om sted på eller langs veg hvor barn ofte ferdes eller oppholder seg i forbindelse med skole, barnehage, lekeplass e.l.\n|\n144 | | | 144 Syklende\nSkiltet varsler om sted hvor syklende ofte krysser eller kjører ut på vegen, eller om syklende i tunnel.\n|\n146.1 |\n146.2 |\n146.3 | 146 Dyr\nSkiltet varsler at dyr ofte ferdes over eller langs vegen.\n|\n146.4 |\n146.5 |\n|\n148 | | | 148 Møtende trafikk\nSkiltet varsler at kjørebanen har kjørende trafikk i begge retninger.\n|\n149 | | | 149 Kø\n|\n150 | | | 150 Fly\nSkiltet varsler at fly kan fly lavt over eller nær vegen.\n|\n151 | | | 151 Militær aktivitet\n|\n152 | | | 152 Sidevind\nSkiltet varsler om sted hvor det ofte forekommer sterk sidevind.\n|\n153 | | | 153 Trafikkulykke\n|\n154 | | | 154 Skiløpere\nSkiltet varsler om sted hvor skiløpere ofte krysser vegen.\n|\n155 | | | 155 Ridende\nSkiltet varsler om sted hvor ridende ofte krysser eller rir ut i vegen.\n|\n156 | | | 156 Annen fare\nFarens art er angitt på underskilt."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 21 nov 2011 nr. 1125 (i kraft 1 jan 2012), 30 jan 2020 nr. 91, 19 april 2022 nr. 583."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Vikeplikt- og forkjørsskilt",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 5",
+     "tittel": "Alminnelige bestemmelser",
+     "ledd": [
+      "1. Vikeplikt- og forkjørsskilt regulerer vikepliktforholdene på vedkommende strekning eller sted.",
+      "2. Vikeplikt- og forkjørsskilt kan ha underskilt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 6",
+     "tittel": "De enkelte vikeplikt- og forkjørsskilt",
+     "ledd": [
+      "|\n202 | 202 Vikeplikt\nSkiltet angir at kjørende har vikeplikt for kjørende trafikk i begge retninger på kryssende veg.\n|\n204 | 204 Stopp\nSkiltet angir at kjørende skal stanse helt før kjøring inn på kryssende veg eller før kryssing av planovergang, og at den kjørende har vikeplikt for kjørende trafikk i begge retninger på kryssende veg eller at den kjørende skal gi fri veg for sporvogn og jernbanetog på kryssende planovergang.\nStansen skal skje foran og inntil stopplinje, eller dersom stopplinje mangler, så nær den kryssende veg som mulig.\n|\n206 | 206 Forkjørsveg\nSkiltet angir at kjørende som kommer fra sideveg eller kryssende veg, er pålagt vikeplikt med skilt 202 «Vikeplikt» eller 204 «Stopp».\nSkiltet gjelder til det blir opphevet med skilt 208 «Slutt på forkjørsveg» eller skilt 202 «Vikeplikt» eller skilt 204 «Stopp».\nI kjørefelt med skilt 531 «Felt for fartsøkning» gjelder likevel trafikkreglenes bestemmelser om kjøring i slikt felt.\n|\n208 | 208 Slutt på forkjørsveg\n|\n210 | 210 Forkjørskryss\nSkiltet varsler om farlig vegkryss hvor kjørende fra sideveg eller kryssende veg er pålagt vikeplikt med skilt 202 «Vikeplikt» eller 204 «Stopp».\n|\n212 | 212 Vikeplikt overfor møtende kjørende\nSkiltet angir forbud mot å kjøre inn på smal vegstrekning dersom slik kjøring medfører at møtende kjørende blir hindret.\n|\n214 | 214 Møtende kjørende har vikeplikt\nSkiltet angir at møtende kjørende er pålagt vikeplikt med skilt 212 «Vikeplikt overfor møtende kjørende»."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Forbudsskilt",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 7",
+     "tittel": "Alminnelige bestemmelser",
+     "ledd": [
+      "1. Forbudsskilt angir at det gjelder et forbud på vedkommende vegstrekning eller sted, eller at tidligere angitt forbud slutter å gjelde.",
+      "2. Forbudsskilt gjelder i kjøreretningen fra der skiltet er satt opp og fram til nærmeste vegkryss, dersom ikke annet er bestemt i § 8 for de enkelte skilt.",
+      "3. Forbudsskilt kan ha underskilt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 8",
+     "tittel": "De enkelte forbudsskilt",
+     "ledd": [
+      "|\n302 | 302 Innkjøring forbudt\nSkiltet angir forbud mot å kjøre forbi skiltet. Sykling og bruk av liten elektrisk motorvogn på fortau kan likevel foregå i samsvar med trafikkreglene.\n| 306 Trafikkforbud\n|\n306.0 | 306.0 Forbudt for alle kjøretøy\n|\n306.1 | 306.1 Forbudt for motorvogn med unntak av liten elektrisk motorvogn\n|\n306.3 | 306.3 Forbudt for alle traktorer og for motorredskap konstruert for fart mindre enn 40 km/t.\n|\n306.4 | 306.4 Forbudt for motorsykkel og moped\n|\n306.5 | 306.5 Forbudt for lastebil og trekkbil\n|\n306.6 | 306.6 Forbudt for syklende og fører av liten elektrisk motorvogn\n|\n306.7 | 306.7 Forbudt for gående\n|\n306.8 | 306.8 Forbudt for gående, syklende og fører av liten elektrisk motorvogn\n|\n306.9 | 306.9 Forbudt for ridende\n|\n306.10 | 306.10 Forbudt for liten elektrisk motorvogn\nForbudet gjelder ferdsel på veg og fortau med liten elektrisk motorvogn.\n|\n308 | 308 Forbudt for transport av farlig gods\nForbudet gjelder for kjøretøy som transporterer farlig gods hvor merking med oransje skilter i henhold til avsnitt 5.3.2 i ADR kreves for transportenheten. I de tilfeller hvor forbudet gjelder for vegtunneler, omfatter forbudet de kjøretøy som angis i avsnitt 1.9.5.3.6 i ADR.\n|\n310 | 310 Forbudt for motorvogn med flere enn to hjul og med tillatt totalvekt høyere enn angitt\n|\n312 | 312 Breddegrense\nForbudet gjelder kjøretøy, medregnet gods, med større bredde enn angitt.\n|\n314 | 314 Høydegrense\nForbudet gjelder kjøretøy, medregnet gods, med større høyde enn angitt.\n|\n316 | 316 Lengdegrense\nForbudet gjelder kjøretøy eller vogntog, medregnet gods, med større lengde enn angitt.\n| | 318 Totalvektgrense\n|\n318.1 | 318.1 for kjøretøy\nForbudet gjelder kjøretøy hvor aktuell totalvekt er høyere enn angitt. For vogntog gjelder forbudet hvert enkelt kjøretøy.\n|\n318.2 | 318.2 for vogntog\nForbudet gjelder vogntog hvor samlet aktuell totalvekt er høyere enn angitt. Forbudet gjelder også enkelt kjøretøy hvor aktuell totalvekt er høyere enn angitt.\n|\n320 | 320 Aksellastgrense\nForbudet gjelder kjøretøy med aktuell aksellast høyere enn angitt, aktuell boggilast høyere enn 1,5 ganger angitt aksellast eller aktuell trippelboggilast høyere enn 2 ganger angitt aksellast.\n|\n322 | 322 Boggilastgrense\nForbudet gjelder kjøretøy med aktuell boggilast høyere enn angitt.\n|\n324 | 324 Stopp for angitt formål\nSkiltet angir forbud mot å kjøre videre før det er foretatt stans for det formål som er angitt i tekst på skiltet.\n|\n326 | 326 Stopp for toll\nSkiltet angir plikt til å stanse for tollklarering i samsvar med gjeldende tollbestemmelser.\n|\n330.1 |\n330.2 | 330 Svingeforbud\nForbudet gjelder bare for det vegkryss som skiltet er plassert i eller ved, eventuelt for første vegkryss etter skiltet. Annet virkeområde kan fastsettes ved underskilt.\n|\n332 | 332 Vendingsforbud\nForbudet gjelder til og med første vegkryss.\n|\n334 | 334 Forbikjøringsforbud\nForbudet gjelder forbikjøring av motorvogn som har flere enn to hjul.\nForbudet gjelder ikke forbikjøring som etter trafikkreglene lovlig kan skje til høyre. Forbudet gjelder fram til skilt 336 «Slutt på forbikjøringsforbud», eller over en strekning som angitt med underskilt.\n|\n335 | 335 Forbikjøringsforbud for lastebil\nForbudet gjelder lastebil med tillatt totalvekt over 3.500 kg som kjører forbi motorvogn som har flere enn to hjul.\nForbudet gjelder ikke forbikjøring som etter trafikkreglene lovlig kan skje til høyre. Forbudet gjelder fram til skilt 337 «Slutt på forbikjøringsforbud for lastebil», eller over en strekning som angitt med underskilt.\n|\n336 | 336 Slutt på forbikjøringsforbud\n|\n337 | 337 Slutt på forbikjøringsforbud for lastebil\n|\n362 | 362 Fartsgrense\nForbudet gjelder kjøring med høyere fart enn angitt antall km/t.\nForbudet gjelder på vedkommende vegstrekning fram til annen fartsgrense er angitt ved\na) nytt skilt 362 «Fartsgrense» eller\nb) skilt 366 «Fartsgrensesone» eller til der ett av følgende skilt er satt opp:\nc) skilt 364 «Slutt på særskilt fartsgrense»\nd) skilt 540 «Gatetun»\ne) skilt 548 «Gågate».\nNår skiltet nyttes til midlertidig regulering, kan det ha gul bunnfarge.\n|\n364 | 364 Slutt på særskilt fartsgrense\n|\n366 | 366 Fartsgrensesone\nSkiltet angir grense for område hvor det gjelder forbud mot kjøring med større fart enn angitt antall km/t.\nForbudet gjelder til det blir opphevet ved skilt 368 «Slutt på fartsgrensesone», skilt 540 «Gatetun» eller skilt 548 «Gågate».\nSkiltet varsler også at fysiske fartsdempende anordninger kan være plassert i kjørebanen.\n|\n367 | 367 Fartsgrensesone for liten elektrisk motorvogn\nSkiltet angir grense for område hvor det gjelder forbud mot kjøring på veg og fortau med større fart enn 6 km/t med liten elektrisk motorvogn. Forbudet gjelder til det blir opphevet ved skilt 369 «slutt på fartsgrensesone for liten elektrisk motorvogn».\n|\n368 | 368 Slutt på fartsgrensesone\n|\n369 | 369 Slutt på fartsgrensesone for liten elektrisk motorvogn\n|\n370 | 370 Stans forbudt\nSkiltet angir forbud mot å stanse kjøretøy på den side av vegen hvor skiltet er satt opp.\nSkiltet gjelder fram til nærmeste vegkryss, eller til nytt skilt 370 «Stans forbudt», 372 «Parkering forbudt», 376 «Parkeringssone», 378 «Slutt på parkeringssone» og 552 «Parkering».\n|\n372 | 372 Parkering forbudt\nSkiltet angir forbud mot parkering på den side av vegen hvor skiltet er satt opp.\nSkiltet gjelder fram til nærmeste vegkryss, eller til nytt skilt 372 «Parkering forbudt», 370 «Stans forbudt», 376 «Parkeringssone», 378 «Slutt på parkeringssone» og 552 «Parkering».\n|\n376.1 (Eks.) |\n376.2 (Eks.) | 376 Parkeringssone\nSkiltet angir grense for område hvor det gjelder særlige bestemmelser om parkering eller stans av kjøretøy. De særlige bestemmelser som gjelder, framgår av symboler og tekst på skiltet.\nSkiltet gjelder til det blir opphevet av skilt 378 «Slutt på parkeringssone».\nFor bestemte vegstrekninger innenfor området kan det ved skilt være fastsatt avvikende bestemmelser om parkering eller stans. For disse vegstrekninger gjelder ikke soneskiltets bestemmelser.\n|\n377 | | 377 Sone med parkeringsforbud for liten elektrisk motorvogn\nSkiltet angir grense for område hvor det er forbudt å parkere liten elektrisk motorvogn. Skiltet gjelder til det blir opphevet av skilt 379 «slutt på sone med parkeringsforbud for liten elektrisk motorvogn». Innenfor området kan det være fastsatt avvikende bestemmelser om parkering eller stans. For disse stedene gjelder ikke soneskiltets bestemmelser.\n|\n378.1 |\n378.2 | 378 Slutt på parkeringssone\n|\n379 | | 379 Slutt på sone med parkeringsforbud for liten elektrisk motorvogn\n|\n380 | | 380 Sone med bruksforbud for liten elektrisk motorvogn\nSkiltet angir grense for område hvor det er forbudt å bruke liten elektrisk motorvogn. Skiltet gjelder til det blir opphevet av skilt 382 «slutt på sone med bruksforbud for liten elektrisk motorvogn».\n|\n382 | | 382 Slutt på sone med bruksforbud for liten elektrisk motorvogn"
+     ],
+     "endringer": [
+      "Endret ved forskrifter 8 jan 2007 nr. 8, 21 nov 2011 nr. 1125 (i kraft 1 jan 2012), 25 sep 2014 nr. 1241, 30 jan 2020 nr. 91, 7 mai 2021 nr. 1453 (i kraft 18 mai 2021), 30 mai 2022 nr. 933 (i kraft 15 juni 2022)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Påbudsskilt",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 9",
+     "tittel": "Alminnelige bestemmelser",
+     "ledd": [
+      "1. Påbudsskilt angir at det gjelder et påbud på vedkommende vegstrekning eller sted.",
+      "2. Påbudsskilt kan ha underskilt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 10",
+     "tittel": "De enkelte påbudsskilt",
+     "ledd": [
+      "|\n402.1 |\n402.2 |\n402.3 |\n|\n402.4 |\n402.5 |\n402.6 |\n|\n402.7 |\n402.8 | | 402 Påbudt kjøreretning\nSkiltet angir at kjørende skal forlate vegkrysset i den retning som er angitt på skiltet.\n|\n404.1 |\n404.2 | | 404 Påbudt kjørefelt\nSkiltet angir at kjørende skal passere skiltet på den side som pilen peker mot.\n|\n406 | | | 406 Påbudt rundkjøring\n|\n408 | | 408 Påbudt kjøreretning i rundkjøring"
+     ],
+     "endringer": [
+      "Endret ved forskrift 25 sep 2014 nr. 1241."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Opplysningsskilt",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 11",
+     "tittel": "Alminnelige bestemmelser",
+     "ledd": [
+      "1. Opplysningsskilt angir at særlige regler, herunder forbud og påbud, gjelder eller slutter å gjelde for vedkommende vegstrekning eller sted, dersom ikke annet framgår av § 12 for de enkelte skilt.",
+      "2. Opplysningsskilt kan ha underskilt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 12",
+     "tittel": "De enkelte opplysningsskilt",
+     "ledd": [
+      "|\n502 | 502 Motorveg\nSkiltet angir at trafikkreglenes bestemmelser om motorveg gjelder fra skiltet og til skilt 504 «Slutt på motorveg», til skilt 503 «Motortrafikkveg» eller til kryss mellom avkjøringsveg fra motorveg og veg som ikke er motorveg.\n|\n503 | 503 Motortrafikkveg\nSkiltet angir at trafikkreglenes bestemmelser om motortrafikkveg gjelder fra skiltet og til skilt 505 «Slutt på motortrafikkveg», til skilt 502 «Motorveg» eller til kryss mellom avkjøringsveg fra motortrafikkveg og veg som ikke er motortrafikkveg.\n|\n504 | 504 Slutt på motorveg\n|\n505 | 505 Slutt på motortrafikkveg\n|\n506 (Eksempel) | 506 Tungtrafikkfelt\nKjørefelt for motorvogn med tillatt totalvekt høyere enn angitt. Skiltet angir at kjørefelt for tungtrafikk begynner og at trafikkreglenes bestemmelser om tungtrafikkfelt gjelder. Skiltet gjelder fram til skilt 507 «Slutt på tungtrafikkfelt» eller til første vegkryss. Skiltet oppheves også av vegvisningsskilt som angir annen bruk av feltet.\n|\n507 (Eksempel) | 507 Slutt på tungtrafikkfelt\n|\n508.1 |\n508.2 | 508 Kollektivfelt\n508.1 for buss\n508.2 for buss og drosje\nSkiltet angir at kollektivfelt begynner og at trafikkreglenes bestemmelser om kollektivfelt gjelder. Buss med inntil 16 passasjerplasser i tillegg til førerplass kan bare brukes i kollektivfelt ved utøvelse av løyvepliktig persontransport eller med minst 7 passasjerer i tillegg til fører. Drosje kan bare brukes i kollektivfelt når drosjen er utstyrt med taklykt. Skiltet gjelder fram til skilt 510 «Slutt på kollektivfelt» eller til første vegkryss. Skiltet oppheves også av vegvisningsskilt som angir annen bruk av feltet.\n|\n509 | 509 Sambruksfelt\nSkiltet angir at sambruksfelt begynner og at trafikkreglenes bestemmelser om sambruksfelt gjelder. Feltet kan brukes av drosje utstyrt med taklykt og buss, samt av motorvogn som transporterer minst det antall personer som er angitt ved tall på skiltet. Buss med inntil 16 passasjerplasser i tillegg til førerplass, og som ikke brukes i løyvepliktig persontransport, omfattes også av skiltets krav om antall personer. Skiltet gjelder fram til skilt 511 «Slutt på sambruksfelt» eller til første vegkryss. Skiltet oppheves også av vegvisningsskilt som angir annen bruk av feltet.\n|\n510.1 |\n510.2 | 510 Slutt på kollektivfelt\n|\n511 | 511 Slutt på sambruksfelt\n|\n512 | 512 Holdeplass for buss\nSkiltet angir at det er holdeplass for buss på stedet og at trafikkreglenes bestemmelser om holdeplass gjelder. Skiltet kan plasseres på leskur og på rutetavle.\n|\n513 | 513 Holdeplass for sporvogn\nSkiltet angir at det er holdeplass for sporvogn på stedet og at trafikkreglenes bestemmelser om holdeplass gjelder. Skiltet kan plasseres på leskur og på rutetavle.\n|\n514 | 514 Holdeplass for drosje\nSkiltet angir at det er holdeplass for drosje på stedet og at trafikkreglenes bestemmelser om holdeplass gjelder. Skiltet kan plasseres på leskur.\n|\n516 | 516 Gangfelt\nSkiltet angir kryssingssted for gående hvor trafikkreglenes bestemmelser om gangfelt gjelder.\n|\n518 | 518 Gangveg\nSkiltet angir veg som er anlagt for gående. Skiltet angir dessuten at trafikkreglenes bestemmelser om bruk av slik veg gjelder.\n|\n520 | 520 Sykkelveg\nSkiltet angir veg som er anlagt for syklende og fører av liten elektrisk motorvogn. Skiltet angir dessuten at trafikkreglenes bestemmelser om bruk av slik veg gjelder.\n|\n521.1 | 521.1 Sykkelfelt – sideplassert\nSkiltet angir at kjørebanen har eget kjørefelt for syklende og fører av liten elektrisk motorvogn. Skiltet angir dessuten at trafikkreglenes bestemmelser om bruk av sykkelfelt gjelder.\n|\n521.2 | 521.2 Sykkelfelt – Midtstilt\nSkiltet angir at kjørebanen har eget kjørefelt for syklende og fører av liten elektrisk motorvogn. Skiltet angir dessuten at trafikkreglenes bestemmelser om bruk av sykkelfelt gjelder.\n|\n522 | 522 Gang- og sykkelveg\nSkiltet angir veg som er anlagt for gående, syklende og fører av liten elektrisk motorvogn. Skiltet angir dessuten at trafikkreglenes bestemmelser om bruk av slik veg gjelder.\n|\n524 | 524 Møteplass\nSkiltet angir sted hvor trafikkreglenes bestemmelser om møteplass gjelder.\n|\n526.1 |\n526.2 | 526 Envegskjøring\nSkiltet angir at kjøring bare er tillatt i pilens retning fram til første vegkryss.\n|\n527.1\n527.3 |\n527.2\n527.4 | 527 Blindveg\n527.1 Skiltet viser at vegen er fysisk stengt.\n527.2 Skiltet viser at kryssende veg er fysisk stengt.\nSkiltets utforming tilpasses forholdene på stedet.\n527.3 Skiltet viser at vegen er stengt for biltrafikk, men åpen for gående og syklende.\n527.4 Skiltet viser at kryssende veg er stengt for biltrafikk, men åpen for gående og syklende. Skiltets utforming tilpasses forholdet på stedet.\nSykkelsymbolet på skiltene 527.3 og 527.4 kan erstattes av symbol for gående dersom vegen videre bare er beregnet for gående.\n|\n528 | 528 Valgfritt kjørefelt\n| | | 530 Sammenfletting\nSkiltet angir at kjørefelt føres sammen til ett med gjensidig tilpassing i samsvar med trafikkreglenes bestemmelser (fletting).\n| 530 (Eksempler)\n|\n531.1 (Eks.) |\n531.2 (Eks.) | 531 Felt for fartsøkning\nSkiltet angir at felt for fartsøkning føres inn på annet kjørefelt med gjensidig tilpassing i samsvar med trafikkreglenes bestemmelser (fletting).\n| | | 532 Kjørefelt slutter\nKjørende i felt som slutter, skal skifte felt og har vikeplikt i samsvar med trafikkreglenes bestemmelser.\n| 532 (Eksempler)\n| | | 534 Kjørefelt begynner\n| 534 (Eksempler)\n|\n536.1 (Eks.) |\n536.2 (Eks.) | 536 Påkjøring fortsetter i eget kjørefelt\n|\n538 (Eksempel) | | 538 Kjørefeltinndeling\nSkiltet angir antall kjørefelt på kjørebanen, og kjøreretningen for de enkelte felt.\nSpesielle reguleringer som gjelder for enkelte felt, kan være vist på skiltet.\n|\n539 (Eksempel) | | 539 Endret kjøremønster",
+      "Skiltene 530-539 har utforming som er tilpasset kjørefeltenes antall og retning på stedet. Når skiltene nyttes til midlertidig skilting i forbindelse med vegarbeid, kan de ha gul bunnfarge.\n|\n540 | 540 Gatetun\nSkiltet angir grense for område hvor trafikkreglenes bestemmelser om gatetun gjelder. Hindringer er ikke særskilt merket eller varslet.\nSkiltet gjelder til det blir opphevet av skilt 542 «Slutt på gatetun».\n|\n542 | 542 Slutt på gatetun\n|\n548 | 548 Gågate\nSkiltet angir grense for område hvor det er forbudt å kjøre motorvogn unntatt liten elektrisk motorvogn og hvor trafikkreglenes bestemmelser om gågate gjelder. Skiltet gjelder til det blir opphevet av skilt 550 «Slutt på gågate».\n|\n550 | 550 Slutt på gågate\n|\n552 | 552 Parkering\nSkiltet angir at parkering er tillatt på stedet, dersom parkeringen ikke er i strid med trafikkreglenes bestemmelser om stans eller parkering.\nHar skiltet underskilt 828 «Utstrekning av stans- eller parkeringsregulering», er det likevel tillatt å parkere i anvist retning selv om parkeringen er i strid med trafikkreglenes bestemmelser om stans og parkering.\nDersom underskilt angir at parkering er forbeholdt bestemte kjøretøy- eller trafikantgrupper, er parkering forbudt for andre.\nEr skiltet plassert på eller ved særskilt avgrenset område, f.eks. parkeringsplass, gjelder skiltet for hele området. Ellers gjelder skiltet bare på den side av vegen hvor det er satt opp. Skiltet gjelder da fram til nærmeste vegkryss eller til nytt skilt 552 «Parkering», skilt 370 «Stans forbudt», skilt 372 «Parkering forbudt» eller til skilt 376 «Parkeringssone».\nDersom miniatyr av skiltet, eventuelt med underskilt, er anbrakt på parkometer, er parkering tillatt i overensstemmelse med særlige regler om avgiftsparkering. Skiltet gjelder da for vedkommende parkeringsfelt uten hensyn til trafikkreglenes bestemmelser om stans og parkering.\n|\n555 | 555 Havarilomme\n|\n556.1 | 556.1 Automatisk trafikkontroll – punktmåling\n|\n556.2 | 556.2 Automatisk trafikkontroll – strekningsmåling\n|\n558 | 558 Videokontroll/-overvåking\n|\n560 (Eksempel) | 560 Opplysningstavle\nSkiltet kan gi opplysning om veg- og trafikkforhold som ikke kan formidles ved andre trafikkskilt.\nVed opplysning om planlagt eller pågående vegarbeid kan aktuell vegmyndighet angis ved bruk av navn.\nVed opplysning av særlig interesse for turisttrafikk kan skiltet ha brun bunnfarge.\nVed midlertidig opplysning kan skiltet ha gul bunn, sort bord og sort symbol eller tekst.\nVed opplysning om omkjøring kan skiltet ha oransje bunn, sort bord og sort symbol eller tekst.\n|\n565 | 565 Feil kjøreretning\n|\n570.1V |\n570.1H | 570 Nødutgangsskilt for tunnel\n570.1 Nødutgang\n|\n570.2V |\n570.2H | 570.2 Retning og avstand til nødutgang"
+     ],
+     "endringer": [
+      "Endret ved forskrifter 9 april 2008 nr. 334, 8 feb 2008 nr. 117 (i kraft 1 jan 2009), 22 juni 2010 nr. 934 (i kraft 1 sep 2010), 21 nov 2011 nr. 1125 (i kraft 1 jan 2012), 25 sep 2014 nr. 1241, 6 des 2019 nr. 1647 (i kraft 1 juli 2020), 27 okt 2020 nr. 2144, 26 aug 2021 nr. 2579, 30 mai 2022 nr. 933 (i kraft 15 juni 2022)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kap6a",
+   "overskrift": "Kapittel 6a. Skilt med trafikksikkerhetsinformasjon",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Tilføyd ved forskrift 27 nov 2008 nr. 1262 (i kraft 1 juli 2009, jf. vedtak 17 april 2009 nr. 425)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 12a",
+     "tittel": "Alminnelige bestemmelser",
+     "ledd": [
+      "1. Skiltet viser budskap knyttet til trafikksikkerhet.\n2. Skiltet har ikke underskilt."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 27 nov 2008 nr. 1262 (i kraft 1 juli 2009, jf. vedtak 17 april 2009 nr. 425)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-2",
+     "nummer": "§ 12b",
+     "tittel": "De enkelte skilt",
+     "ledd": [
+      "590 Trafikksikkerhetsinformasjon",
+      "590 (eksempel)"
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 27 nov 2008 nr. 1262 (i kraft 1 juli 2009, jf. vedtak 17 april 2009 nr. 425)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-8",
+   "navn": "kap7",
+   "overskrift": "Kapittel 7. Serviceskilt",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-1",
+     "nummer": "§ 13",
+     "tittel": "Alminnelige bestemmelser",
+     "ledd": [
+      "1. Serviceskilt gir opplysninger om nødhjelp, vegservice, severdighet m.m.",
+      "2. To eller flere symboler kan kombineres på samme skilt. Avstand og nærmere informasjon om servicestedet kan angis på skiltet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-2",
+     "nummer": "§ 14",
+     "tittel": "De enkelte serviceskilt",
+     "ledd": [
+      "A. Skilt for nødhjelp og vegservice\n|\n601 | 601 Lytt til radio\n|\n602 | 602 Førstehjelp\n|\n605 | 605 Nødtelefon\n|\n606 | 606 Brannslokningsapparat\n|\n608 | 608 Kjøretøyverksted\n|\n609 | 609 Hurtiglading av motorvogn",
+      "610 Drivstoff\n|\n610.1 | 610.1 Drivstoff\n|\n610.2 | 610.2 Eksempel\n|\n611 | 611 Toalettømmeanlegg\nSkiltet angir mottaksanlegg for toalettavfall fra campingvogner, bobiler og busser.\n|\n612 | 612 Toalett\n|\n613.1 |\n613.2 | 613 Rasteplass\n|\n614 | 614 Enklere servering\n|\n616 | 616 Spisested\n|\n618 | 618 Campingplass\n|\n621 | 621 Bobilplass\n|\n622 | 622 Campinghytter\n|\n624 | 624 Vandrerhjem\n|\n625 | 625 Rom og frokost\n|\n626 | 626 Overnattingssted\n|\n635 | 635 Informasjon\n|\n637 | 637 Turistkontor\n|\n638 | 638 Døgnhvileplass",
+      "B. Skilt for severdigheter, aktiviteter, friluftsliv m.m.",
+      "640 Severdigheter\n|\n640.10 | 640.10 Severdighet\nFor severdighet av særlig stor betydning kan symbolet erstattes av symbol tilpasset severdigheten.\n|\n640.12 | 640.12 Museum/galleri\n|\n640.20 | 640.20 Utsiktspunkt\n|\n640.30 | 640.30 Naturvernområde\n|\n640.101 | 640.101 Verdensarv\n|\n640.102 | 640.102 Nasjonale festningsverk",
+      "650 Aktiviteter, friluftsliv m.m.\n|\n650.10 | 650.10 Badeplass\n|\n650.11 | 650.11 Fiskeplass\n|\n650.20 | 650.20 Tursti\n|\n650.21 | 650.21 Skiløype\n|\n650.22 | 650.22 Sykkelløype\n|\n650.40 | 650.40 Gardsmat/bygdeturisme\n|\n650.41 | 650.41 Olavsrosa"
+     ],
+     "endringer": [
+      "Endret ved forskrifter 18 feb 2009 nr. 201 (i kraft 1 juli 2009), 21 nov 2011 nr. 1125 (i kraft 1 jan 2012), 25 sep 2014 nr. 1241, 5 mai 2017 nr. 531, 30 jan 2020 nr. 91, 22 juli 2024 nr. 1801."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-9",
+   "navn": "kap8",
+   "overskrift": "Kapittel 8. Vegvisningsskilt",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-1",
+     "nummer": "§ 15",
+     "tittel": "Alminnelige bestemmelser",
+     "ledd": [
+      "1. Vegvisningsskilt gir opplysninger om stedsnavn, virksomheter, vegruter, valg av kjørefelt, valg av veg og avstand til reisemål.",
+      "2. Skiltene 701-719 og 725 har følgende farger:\n- For geografiske mål: Blå bunn og hvit tekst for motorveger, gul bunn og sort tekst for andre veger.\n- For andre mål: Hvit bunn og sort tekst.\n- For midlertidig vegvisning: Oransje bunn og sort tekst.\nFor mål av særlig interesse for turisttrafikk kan skiltene ha brun bunn og hvit tekst.",
+      "3. Vegvisningsskilt har ikke underskilt. I stedet kan tekst, tall og symboler som beskrevet i denne forskrift, være anbrakt på vegvisningsskiltet. Dersom offentlig trafikkskilt er gjengitt på vegvisningsskilt, betyr det at tilsvarende skilt er satt opp på den veg det vises til."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-2",
+     "nummer": "§ 16",
+     "tittel": "De enkelte vegvisningsskilt",
+     "ledd": [
+      "A. Alminnelige vegvisningsskilt",
+      "I. Skilt for forvarsling av kryss eller avkjøringsveg",
+      "Skiltene 701-709 forvarsler vegkryss eller avkjøringsveg, og viser vegens nummer og/eller reisemål. Navn på vegkryss kan også angis.\n|\n701 (Eksempler) | 701 Tabellorienteringstavle\n|\n703 (Eksempler) | 703 Diagramorienteringstavle\n|\n705 (Eksempler) | 705 Avkjøringstavle\n|\n707 (Eksempler) | 707 Kjørefeltorienteringstavle\nSkiltet viser antall kjørefelt fram mot kryss eller avkjøringsveg, og hvilke kjøreretninger eller reisemål de enkelte kjørefelt er beregnet for.\n|\n709 (Eksempler) | 709 Portalorienteringstavle\nSkiltet viser hvilke kjøreretninger eller reisemål kjørefelt er beregnet for.",
+      "II. Skilt for vegvisning i kryss eller avkjøringsveg",
+      "Skiltene 711-719 viser vegnummer og/eller reisemål for de enkelte vegarmer i kryss eller for avkjøringsveg.\n|\n711 (Eksempel) | 711 Tabellvegviser\n|\n713 (Eksempler) | 713 Vanlig vegviser\n|\n715 (Eksempler) | 715 Avkjøringsvegviser\n|\n717 (Eksempel) | 717 Kjørefeltvegviser\nSkiltet viser hvilke reisemål kjørefelt er beregnet for.\n|\n719 (Eksempler) | 719 Portalvegviser\nSkiltet viser hvilke reisemål kjørefelt er beregnet for.",
+      "III. Skilt for rutebekreftelse og orientering",
+      "723 Vegruteskilt",
+      "Symboler på vegruteskilt kan vises på andre vegvisningsskilt. Vegruteskilt som angir vegnummer kan vise bokstavene N (nord), S (syd), Ø (øst) eller V (vest) for å angi rutens hovedretning. Stiplet bord angir rute som leder til vedkommende veg.\n|\n723.11 |\n723.12 | 723.11-12 Vegnummer for europaveg\n|\n723.13 |\n723.14 | 723.13-14 Vegnummer for riksveg som ikke er europaveg\n|\n723.15 |\n723.16 | 723.15-16 Vegnummer for nummerert fylkesveg\n|\n723.21 |\n723.22 | 723.21-22 Ringveg/ringrute\n|\n723.31 | | 723.31 Nasjonal turistveg\nSymbolet kan vises på serviceskilt\n|\n723.41 | | 723.41 Omkjøringsrute for store kjøretøy\n|\n723.51 | | 723.51 Rute for transport av farlig gods\n|\n723.61 |\n723.62 |\n723.63 | 723.61-66 Andre omkjøringsruter\n|\n723.64 |\n723.65 |\n723.66\n|\n723.71 |\n723.72 | 723.71-72 Kryssnummer på flerfeltsveg\n|\n723.73 | 723.73 Kryssnummer på tofeltsveg\n|\n725 (Eksempler) | 725 Avstandsskilt\nSkiltet viser avstanden i km til angitte mål eller til nærmeste kryss eller avkjøringsmulighet.\n|\n727 (Eksempler) | 727 Stedsnavnskilt\nSkiltet viser by, tettsted, administrativ grense eller annet sted av betydning for orienteringen.\n|\n729 | 729 Gate-/vegnavnskilt",
+      "B. Spesielle vegvisningsskilt\n|\n731 | 731 Samleskilt for vegvisning\nSkiltet viser steder eller virksomheter som kan nås via et felles vegvalg i etterfølgende vegkryss eller avkjøring.\n|\n741 | 741 Omkjøring for bestemte kjøretøygrupper\nSkiltet varsler om at vegen er stengt for bestemte kjøretøygrupper, og at slike kjøretøy må følge omkjøring.\n|\n743 | 743 Midlertidig omkjøring\nSkiltet varsler om at vegen er midlertidig stengt, og at gjennomgående trafikk må følge omkjøring.\n|\n745 | 745 Slutt på midlertidig omkjøring\n|\n749 | 749 Vegviser for gangtrafikk\nSkiltet kan vise symbol for forflytningshemmet.\n|\n751 | 751 Vegviser for sykkelrute\n|\n753 | 753 Tabellvegviser for sykkelrute\n|\n755 | 755 Sykkelruteskilt\n|\n757 | 757 Avstandsskilt for sykkelrute",
+      "C. Vegvisningssymboler\n|\n761 Motorveg |\n763 Motortrafikkveg |\n765 Bomveg/brukerbetaling på veg\n|\n767 Parkering |\n769 Parkeringshus |\n771 Lufthavn/flyplass\n|\n772 Helikopterplass |\n773 Busstasjon/bussterminal |\n774 Jernbanestasjon/togterminal\n|\n775 Bilferje\n|\n776 Godshavn\n|\n780 Kjetting",
+      "790 Andre reisemål\n|\n790.10 Kirke |\n790.15 Næringsområde |\n790.16 Kjøpesenter\n|\n790.20 Svømmehall |\n790.30 Alpinanlegg |\n790.31 Hoppbakke\n|\n790.32 Skistadion |\n790.40 Golfbane",
+      "792 Betalingsmåte i bomstasjon/betalingssystem på veg\n|\n792.11 Betaling med elektronisk brikke |\n792.12 Betaling til betjent |\n792.13 Betaling med mynter til automat\n|\n792.14 Betaling med kort til automat |\n792.15 Betaling med sedler til automat |\n792.16 Ta billett i et lukket betalingssystem\n|\n792.17 Lever billett i et lukket betalingssystem |\n792.30 Helautomatisk bomstasjon som passeres uten å stanse |\n792.31 Betaling med AutoPASS"
+     ],
+     "endringer": [
+      "Endret ved forskrifter 21 aug 2008 nr. 939, 16 okt 2009 nr. 1277 (i kraft 1 jan 2010), 21 nov 2011 nr. 1125 (i kraft 1 jan 2012), 25 sep 2014 nr. 1241, 30 jan 2020 nr. 91."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-10",
+   "navn": "kap9",
+   "overskrift": "Kapittel 9. Underskilt",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-1",
+     "nummer": "§ 17",
+     "tittel": "Alminnelige bestemmelser",
+     "ledd": [
+      "1. Underskilt er bare gyldig når det nyttes sammen med hovedskilt, og gir nærmere klargjøring, utviding, utfylling eller begrensning av hovedskiltets betydning eller gyldighetsområde.",
+      "2. Underskilt til hovedskilt som nyttes til midlertidig skilting i forbindelse med vegarbeid, kan ha gul bunnfarge."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-2",
+     "nummer": "§ 18",
+     "tittel": "De enkelte underskilt",
+     "ledd": [
+      "A. Alminnelige underskilt\n|\n802 | 802 Avstand\nUnderskiltet angir avstanden til det sted hvor hovedskiltet begynner å gjelde, eller til sted hvor tilsvarende hovedskilt er satt opp (forvarsling).\n|\n804 | 804 Utstrekning\nUnderskiltet angir at hovedskiltet gjelder for bestemt vegstrekning. Tallene angir avstanden til vegstrekningens begynnelse og slutt.\n|\n806 | 806 Tid\nUnderskiltet angir at hovedskiltet bare gjelder i det eller de tidsrom som er angitt med klokkeslett. Sorte tall gjelder hverdag unntatt lørdag, sorte tall i parentes gjelder lørdag, røde tall gjelder søndag, helligdag og offentlig høytidsdag.",
+      "807 Symbol\n|\n807.1 | 807.1 Personbil\n|\n807.2 | 807.2 Varebil, lastebil og trekkbil\n|\n807.3 | 807.3 Buss\n|\n807.4 | 807.4 Vogntog\n|\n807.5 | 807.5 Tilhenger særskilt innredet til campingbruk, samt eventuell trekkvogn\n|\n807.6 | 807.6 Sykkel og liten elektrisk motorvogn\n|\n807.7 | 807.7 Tohjuls motorsykkel med og uten sidevogn og tohjuls moped\n|\n807.8 | 807.8 Forflytningshemmede med parkeringstillatelse\n|\n807.9 | 807.9 Kjøretøy særskilt innredet til campingbruk (bobil)\n|\n807.10 | 807.10 Liten elektrisk motorvogn",
+      "Symbolene 807.1–807.10 benyttet på underskilt betyr at hovedskiltets regulering eller informasjon gjelder vedkommende kjøretøy- eller trafikantgruppe. Vektangivelse på symbol 807.2 betyr at reguleringen gjelder kjøretøy med tillatt totalvekt høyere enn angitt.",
+      "Symbol på underskilt til skilt 552 «Parkering» betyr at parkeringen er reservert vedkommende kjøretøy- eller trafikantgruppe. Symbol 807.8 til skilt 552 «Parkering» betyr at det er forbud mot av- og pålessing. Av- og påstigning er tillatt.",
+      "Kjøretøy- eller trafikantgruppe kan unntas fra hovedskiltets regulering med symbol brukt sammen med teksten «Gjelder ikke» eller «Unntatt».\n|\n808 | 808 Tekst\nUnderskiltet brukes når det ikke er hensiktsmessig å gi vedkommende regulering eller informasjon med underskilt med symbol, tall eller annet.\n|\n810 (Eksempel) | 810 Svingpil\nUnderskiltet angir at hovedskiltet gjelder etter sving i vegkryss.",
+      "B. Spesielle underskilt",
+      "I. Underskilt til fareskilt\n|\n812 | 812 Anbefalt fart\nUnderskiltet angir den høyeste fart som den varslede fare tilsier under normale vær-, føre-, sikt- og lysforhold.\n|\n813.1 |\n813.2 | 813 Stigningsgrad\n|\n814 | 814 Virkelig fri vegbredde\n|\n816 | 816 Kryssende tømmertransport\n|\n817 (Eksempel) | 817 Særlig ulykkesfare\nUtformingen tilpasses den aktuelle faresituasjonen.",
+      "II. Underskilt til vikeplikt- og forkjørsskilt\n|\n822 (Eksempel) | 822 Forløp av forkjørsveg\nUnderskiltet viser et skjematisk bilde av krysset, hvor tykk strek angir forkjørsveg og tynn strek angir veg hvor skiltene 202 «Vikeplikt» eller 204 «Stopp» er satt opp.\n|\n824 | 824 Forvarsling av stopp\nUnderskiltet brukes sammen med skilt 202 «Vikeplikt» for å varsle om at skilt 204 «Stopp» er satt opp i angitt avstand.\n|\n826 | 826 Sykkeltrafikk i begge kjøreretninger\nUnderskiltet viser at det er trafikk med sykkel og liten elektrisk motorvogn i begge kjøreretninger på kryssende sykkelveg eller gang- og sykkelveg.",
+      "III. Underskilt til stans- og parkeringsskilt",
+      "På underskilt til skilt som regulerer stans eller parkering, kan brukes miniatyr av skilt 370 «Stans forbudt», skilt 372 «Parkering forbudt» og skilt 552 «Parkering». Miniatyrskiltet har samme betydning som om det var satt opp i full størrelse.\n|\n828.1 |\n828.2 |\n828.3 | 828 Utstrekning av stans- og parkeringsregulering\nUnderskiltet angir at reguleringen gjelder i pilens retning, eventuelt i den avstand som er angitt.\n828.1 Gjelder i begge kjøreretninger\n828.2 Gjelder mot kjøreretningen\n828.3 Gjelder i kjøreretningen\nSkiltet kan være plassert vannrett.\nPilsymbolene kan også plasseres på andre underskilt som regulerer stans eller parkering.\n|\n829 (Eksempel) | 829 Oppstilling av parkert kjøretøy\n|\n831 | 831 Parkeringsskive/gratisbillett\nUnderskiltet angir at parkering bare er tillatt på stedet når enten anordning som angir tidspunktet for når kjøretøyet er parkert eller billett fra parkeringsautomat som angir tidspunkt for når gratisparkeringen utløper, er plassert godt synlig bak frontruten i kjøretøyet.\n|\n834 | 834 Kombinert regulering\nUnderskiltet angir parkeringsregulering ved kombinasjon av tekst, tall, symbol mv. som nyttes på andre underskilt.",
+      "IV. Underskilt til opplysningsskilt\n|\n856 | 856 Generell fartsgrense i miniatyr (Eksempel)\nUnderskiltet brukes sammen med skilt 556.2 «Automatisk trafikkontroll – strekningsmåling» for å vise hvilken fartsgrense som gjelder på strekningen."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 24 mai 2011 nr. 543 (i kraft 15 juni 2011), 18 mars 2016 nr. 265 (i kraft 1 jan 2017), 7 mai 2021 nr. 1453 (i kraft 18 mai 2021), 30 mai 2022 nr. 933 (i kraft 15 juni 2022), 22 des 2022 nr. 2460."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-11",
+   "navn": "kap10",
+   "overskrift": "Kapittel 10. Markeringsskilt m.m.",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-11-paragraf-1",
+     "nummer": "§ 19",
+     "tittel": "Alminnelige bestemmelser",
+     "ledd": [
+      "1. Markeringsskilt m.m. gir opplysninger om vegens videre forløp, eller om hindringer på eller nær vegbanen.",
+      "2. Midlertidige markeringsskilt kan ha rød bunnfarge og gule eller hvite symboler."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-11-paragraf-2",
+     "nummer": "§ 20",
+     "tittel": "De enkelte markeringsskilt m.m.",
+     "ledd": [
+      "|\n902H\n|\n902V | 902 Bakgrunnsmarkering\n|\n904H |\n904V | 904 Retningsmarkering\n|\n906V |\n906H |\n906VH | 906 Hindermarkering\nSkråstripene peker ned mot den side markeringen kan passeres på.\n|\n908 | 908 Hindermarkering\n|\n912 | 912 Avkjøringsmarkering\nSkiltet markerer avkjøringsveg fra motorveg eller annen veg med høy standard.\n|\n914V |\n914H | 914 Tunnelmarkering\n|\n916 | 916 Avstandsmarkering i tunnel\nSkiltet markerer avstand til tunnelåpninger.\n|\n920VM |\n920VE |\n920H | 920 Kantstolpe\n|\n940 | 940 Trafikkjegle\nKjegle som enten angir at trafikantene skal holde seg innenfor det felt som de er ledet inn i eller angir andre forhold trafikantene må være oppmerksom på.\n|\n942 | 942 Trafikksylinder\nSylinder som enten angir at trafikantene skal holde seg innenfor det felt som de er ledet inn i eller angir andre forhold trafikantene må være oppmerksom på."
+     ],
+     "endringer": [
+      "Endret ved forskrift 21 nov 2011 nr. 1125 (i kraft 1 jan 2012)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-12",
+   "navn": "kap11",
+   "overskrift": "Kapittel 11. Vegoppmerking",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-12-paragraf-1",
+     "nummer": "§ 21",
+     "tittel": "Alminnelige bestemmelser",
+     "ledd": [
+      "1. Vegoppmerking nyttes for å lede, varsle eller regulere trafikken, eller for å klargjøre andre bestemmelser gitt ved offentlig trafikkskilt eller trafikkregler.",
+      "2. Tverrgående oppmerking, symboler og tekst brukes bare som supplement til skilt hvis ikke annet er angitt.",
+      "3. Vegoppmerking som skiller mellom motgående kjøreretninger eller som tydeliggjør kjøreretninger, er gul. Annen oppmerking, og oppmerking for sykkelfelt som tillater kjøring mot envegsreguleringen i vegen, er hvit.",
+      "4. Linjer utført av opphøyde, tettsittende ribber, punkter e.l. (profilerte linjer) regnes som heltrukne linjer.",
+      "5. Vegbanereflektorer kan nyttes som supplement til den vanlige vegoppmerkingen. Ved midlertidige endringer kan oransje vegbanereflektorer erstatte den vanlige oppmerkingen.",
+      "6. Vegoppmerking skal anlegges på ensfarget dekke. Der det er flere kjørefelt for ulik bruk, herunder parkeringsfelt, kan dekket på de enkelte feltene likevel ha forskjellig farge."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 21 nov 2011 nr. 1125 (i kraft 1 jan 2012), 30 mai 2022 nr. 933 (i kraft 15 juni 2022), 22 juli 2024 nr. 1801."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-12-paragraf-2",
+     "nummer": "§ 22",
+     "tittel": "De enkelte linjer og symboler",
+     "ledd": [
+      "A. Langsgående oppmerking",
+      "Langsgående oppmerking nyttes for å dele kjørebanen i kjørefelt eller for å angi kjørebanens ytterkant. Slik oppmerking kan også brukes på sykkelveg og gang- og sykkelveg.\n|\n1000 | 1000 Kjørefeltlinje\nKjørefeltlinje kan overskrides når det skjer i samsvar med trafikkreglenes bestemmelser.\n|\n1002 | 1002 Varsellinje\nGul varsellinje angir at sikten fremover er for kort til vanlig forbikjøring. Hvit varsellinje angir fare ved å skifte kjørefelt. Slik oppmerking kan også brukes på sykkelveger for å skille forskjellige retninger, samt på korte strekninger på gang- og sykkelveg der det er dårlige siktforhold.\n|\n1004 | 1004 Sperrelinje\nLinjen skiller kjørefelt.\nDet må ikke kjøres på eller over sperrelinje, eller til venstre for gul sperrelinje.\n|\n1006 | 1006 Kombinerte linjer\nVed kombinerte linjer skal kjørende rette seg etter den linjen som ligger nærmest. Den som har kjørt over i felt for motgående kjørende, kan likevel kjøre tilbake til høyre vegside.\nDobbel, gul varsellinje angir skille mellom kjørefelt hvor kjøreretningen kan varieres.\n|\n1008 | 1008 Skillelinje\nLinjen skiller mellom vanlig kjørefelt og fartsendringsfelt, kollektivfelt, sambruksfelt, tungtrafikkfelt, sykkelfelt eller annet kjørefelt for spesiell bruk.\n|\n1010 | 1010 Ledelinje\nLedelinjen angir føring av kjørefelt eller svingebevegelser gjennom vegkryss.\n|\n1012 | 1012 Kantlinje\nLinjen angir kjørebanens ytterkant.\n|\n1014 | 1014 Sperreområde\nDet må ikke kjøres på sperreområde begrenset av heltrukken linje.\nTo langsgående parallelle sperrelinjer hvor avstanden mellom dem ikke er over 100 cm og det er foretatt fresing mellom linjene regnes som sperreområde.",
+      "B. Tverrgående oppmerking\n|\n1020 | 1020 Stopplinje\nLinjen angir hvor kjøretøy skal stanses når offentlig trafikkskilt eller trafikklyssignal påbyr stans.\n|\n1022 | 1022 Vikelinje\nLinjen viser det sted hvor vikeplikten inntrer.\n|\n1024 | 1024 Gangfelt\nOppmerkingen angir at trafikkreglenes bestemmelser om gangfelt gjelder selv om skilt 516 «Gangfelt» ikke er oppsatt.\n|\n1026 | 1026 Sykkelkryssing\nOppmerkingen angir kryssingssted for syklende og fører av liten elektrisk motorvogn.\n|\n1027 | 1027 Fartshump\n|\n1028 (Eksempler) | 1028 Parkeringsfelt\nParkert kjøretøy skal plasseres innfor det oppmerkede felt. En eller flere elektrisk og hydrogendrevne motorvogner kan likevel parkere på tvers av feltets lengderetning dersom alle hjulene er innenfor feltet og overhenget ut over feltet ikke overstiger 40 centimeter på hver side.",
+      "C. Symboler og tekst\n|\n1034 | 1034 Piler\nPiler som er plassert i kjørefelt foran kryss, angir at kjørefeltet skal benyttes av trafikanter som skal kjøre i den eller en av de retninger pilen viser.\nEr kjørefeltet begrenset av sperrelinje, angir pilen påbudt kjøreretning.\nPiler på skrå i kjørefeltet angir at vedkommende felt slutter, og at videre kjøring skal skje i samsvar med trafikkreglenes bestemmelser.\n|\n1036 | 1036 Vikesymbol\n|\n1037 | 1037 Gangsymbol\n|\n1038 | 1038 Delesymbol\n|\n1039 | 1039 Sykkelsymbol\nSykkelsymbol skal anvendes for å markere sykkelfelt og angir da at trafikkreglenes bestemmelser om sykkelfelt gjelder.\n|\n1040 | 1040 Parkeringssymbol\n|\n1041 | 1041 Liten elektrisk motorvogn\n|\n1042 | 1042 Symbol for forflytningshemmede\n|\n1044 | 1044 Skinnekjøretøy\n|\n1050 | 1050 Tekst\n|\n1052 | 1052 Sambruksfelt\nTallet angir minste antall personer i motorvogn som kan bruke sambruksfeltet.\n|\n1053 | 1053 Tungtrafikkfelt\n|\n1054 | 1054 Fartsgrense\n|\n1055 | 1055 Bildeling"
+     ],
+     "endringer": [
+      "Endret ved forskrifter 17 juli 2008 nr. 812, 24 mai 2011 nr. 543 (i kraft 15 juni 2011), 21 nov 2011 nr. 1125 (i kraft 1 jan 2012), 30 jan 2020 nr. 91, 15 april 2021 nr. 1161, 30 mai 2022 nr. 933 (i kraft 15 juni 2022), 22 juli 2024 nr. 1801, 12 aug 2026 nr. 1625."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-13",
+   "navn": "kap12",
+   "overskrift": "Kapittel 12. Trafikklyssignaler og anvisning gitt av politiet",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-13-paragraf-1",
+     "nummer": "§ 23",
+     "tittel": "Alminnelige bestemmelser – trafikklyssignal",
+     "ledd": [
+      "1. Trafikklyssignal nyttes for å regulere kryssende trafikantgrupper i vegkryss o.l. og kjøreretningen i kjørefelt som kan anvendes i begge retninger. Trafikklyssignal kan også nyttes for å stanse eller varsle trafikantene i spesielle faresituasjoner.",
+      "2. Lys i pilsignal, sykkelsignal og signal for kollektivtrafikk har samme betydning som lys i tilsvarende lysåpning i hovedsignal.",
+      "3. Hvis flere like signaler er synlige i kjøreretningen, gjelder første signal."
+     ],
+     "endringer": [
+      "Endret ved forskrift 21 nov 2011 nr. 1125 (i kraft 1 jan 2012)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-13-paragraf-2",
+     "nummer": "§ 24",
+     "tittel": "De enkelte signaler",
+     "ledd": [
+      "A. Signaler med fast lys\n|\n1080 | 1080 Hovedsignal\nVed rødt lys må kjørende ikke passere signal eller stopplinje. Gående må ikke begynne kryssing av kjørebanen hvis dette vil være til hinder for kjørende, eller innebære fare.\nRødt lys sammen med gult lys varsler at veksling til grønt lys vil skje straks.\nVed grønt lys kan kjørende passere signal eller stopplinje dersom vegen er fri. Gående kan krysse kjørebane.\nGult lys alene varsler at veksling til rødt lys vil skje straks, og at kjørende skal stanse. Kjørende kan likevel passere signalet eller stopplinjen hvis kjøretøyet er nådd så langt fram at stans ikke kan skje uten fare.\n|\n1082.1 |\n1082.2 |\n1082.3 | 1082 Pilsignal\nSignalet gjelder for dem som vil kjøre i den retning pilen viser. Pilsignal kan ha en, to eller tre lysåpninger.\n|\n1084 | 1084 Sykkelsignal\nSykkelsignal gjelder for kjørende i sykkelfelt og sykkelkryssing.\nSykkelsignal kan ha pilsignal.\n|\n1086 | 1086 Fotgjengersignal\nRødt signal betyr at gående ikke må begynne kryssing av kjørebanen hvis dette vil være til hinder for kjørende, eller innebære fare. Gående som allerede er kommet ut i kjørebanen, kan fortsette kryssingen.\nGrønt signal betyr at gående kan krysse kjørebanen. Blinkende, grønt signal varsler at signalet om kort tid vil skifte til rødt, og har samme betydning som rødt signal.\n|\n1088 | 1088 Signal for kollektivtrafikk\nLys i øvre, midtre eller nedre lysåpning eller i kombinasjon av disse har samme betydning som lys i tilsvarende lysåpninger i hovedsignal.\n|\n1090 | 1090 Kjørefeltsignal\nRødt kryss angir forbud mot å nytte feltet i retning mot signalet.\nGrønn pil angir at feltet kan nyttes.\nGul pil angir at feltet vil bli stengt, og at kjørende straks må foreta feltskifte i den retning pilen viser.\n|\n1092 | 1092 Tolyssignal\nRødt lys betyr at kjørende ikke må passere signal eller stopplinje.\nGrønt lys betyr at signalet kan passeres.\nTolyssignal kan være utført i form av kjøretøysymbol. Overtredelse av tolyssignal kan ikke straffes.",
+      "B. Signaler med blinkende lys\n|\n1094 | 1094 Rødt stoppblinksignal\nTrafikant må ikke passere signalet. Stans skal skje ved stopplinje eller i betryggende avstand foran signalet.\nRødt stoppblinksignal viser ett eller to vekselvis blinkende røde lys.\n|\n1096 |\n1096 | 1096 Blinkende signal foran jernbane\nRødt blinksignal angir at trafikant skal stanse ved stopplinje eller i betryggende avstand foran signalet.\nHvitt blinksignal angir at planovergang kan passeres i samsvar med trafikkreglenes bestemmelser. Hvitt blinksignal viser at signalanlegget er i drift.\n|\n1098 | 1098 Gult blinksignal\nSignalet angir at trafikantene må vise særlig aktpågivenhet og varsomhet.\n|\n1100.1 |\n1100.2 | 1100 Blinkende lyspil\nLyspilen angir at trafikantene skal passere på den side som pilen peker mot."
+     ],
+     "endringer": [
+      "Endret ved forskrift 21 nov 2011 nr. 1125 (i kraft 1 jan 2012)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-13-paragraf-3",
+     "nummer": "§ 25",
+     "tittel": "Anvisning gitt av politiet",
+     "ledd": [
+      "Tegn som politiet gir for å regulere vegtrafikk har følgende betydning:\na. Er arm rettet utad, skal trafikant som nærmer seg forfra eller bakfra stanse. Den som nærmer seg fra siden, kan passere.\nb. Er arm rettet oppad, skal enhver trafikant stanse. Kjørende som har nådd så langt fram at kjøretøyet ikke uten fare kan stanses, kan fortsette. Trafikant som er i vegkryss, skal forlate krysset.\nc. Når lykt med rødt lys svinges fram og tilbake, skal trafikant som ferdes i retning mot lyset stanse."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-14",
+   "navn": "kap13",
+   "overskrift": "Kapittel 13. Skiltmyndigheter m.m.",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-14-paragraf-1",
+     "nummer": "§ 26",
+     "tittel": "Myndighet for fartsgrenser m.m.",
+     "ledd": [
+      "1. For bestemt vegstrekning kan Vegdirektoratet treffe vedtak om høyere fartsgrense enn det som følger av vegtrafikkloven § 6 annet ledd.\nFor bestemt vegstrekning eller sone kan det treffes vedtak om lavere fartsgrense enn det som følger av vegtrafikkloven § 6 annet ledd. Slikt vedtak treffes for riksveg, fylkesveg og privat veg av Statens vegvesen og for kommunal veg av kommunen. Dersom en sone også omfatter annen veg enn kommunal veg, treffes vedtaket av Statens vegvesen.\nFør vedtak treffes etter første eller annet ledd, skal politiet få uttale seg. Før Statens vegvesen treffer vedtak etter annet ledd, skal også fylkeskommunen og kommunen få uttale seg.\nVed arbeid på offentlig veg kan det treffes midlertidig vedtak om en lavere fartsgrense etter kapittel 14 i denne forskrift. For privat veg treffes slikt vedtak av Statens vegvesen. For veger hvor kommunen har fått delegert vedlikeholdsansvar etter vegloven treffes slikt vedtak av kommunen.",
+      "2. Statens vegvesen kan treffe vedtak om et område skal anses som tettbygd strøk etter vegtrafikkloven § 6 annet ledd og fastsette grensen for det tettbygde strøket. Før Statens vegvesen treffer slikt vedtak, skal politiet og kommunen få uttale seg. Omfatter området bare kommunale veger, treffes slikt vedtak av kommunen etter at Statens vegvesen og politiet har fått uttale seg."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 25 sep 2014 nr. 1241, 19 des 2019 nr. 2042 (i kraft 1 jan 2020)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-14-paragraf-2",
+     "nummer": "§ 27",
+     "tittel": "Myndighet for forkjørsveg, motorveg m.m.",
+     "ledd": [
+      "1. Statens vegvesen kan treffe vedtak om å sette opp eller å ta ned skilt 202 «Vikeplikt», 204 «Stopp», 206 «Forkjørsveg», 208 «Slutt på forkjørsveg», 210 «Forkjørskryss», 212 «Vikeplikt overfor møtende kjørende» og 214 «Møtende kjørende har vikeplikt». Før vedtak treffes, skal politiet og kommunen få uttale seg. Unntatt fra høring er skilt 202 «Vikeplikt» der skiltet skal settes opp i et nytt kryss på en forkjørsregulert vegstrekning, og når skiltet skal settes opp sammen med skilt 406 «Påbudt rundkjøring».",
+      "2. Vegdirektoratet kan treffe vedtak om å sette opp eller å ta ned skilt 502 «Motorveg», 503 «Motortrafikkveg», 504 «Slutt på motorveg» og 505 «Slutt på motortrafikkveg» samt skilt 308 «Forbudt for transport av farlig gods»."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 5 mai 2017 nr. 531, 19 des 2019 nr. 2042 (i kraft 1 jan 2020), 19 april 2022 nr. 583."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-14-paragraf-3",
+     "nummer": "§ 28",
+     "tittel": "Myndighet for trafikkregulerende skilt",
+     "ledd": [
+      "1. For offentlig og privat veg kan Statens vegvesen treffe vedtak om å sette opp eller å ta ned\na. forbudsskilt og påbudsskilt unntatt skilt som omfattes av bestemmelsene i § 26 og § 27,\nb. skiltene 506 «Tungtrafikkfelt», 507 «Slutt på tungtrafikkfelt», 508 «Kollektivfelt», 509 «Sambruksfelt», 510 «Slutt på kollektivfelt», 511 «Slutt på sambruksfelt», 512 «Holdeplass for buss», 513 «Holdeplass for sporvogn», 514 «Holdeplass for drosje», 518 «Gangveg», 520 «Sykkelveg», 521 «Sykkelfelt», 522 «Gang- og sykkelveg», 526 «Envegskjøring», 548 «Gågate», 550 «Slutt på gågate» og 552 «Parkering», og\nc. eventuelle underskilt til disse.\nFor kommunal veg kan vedtaksmyndigheten helt eller delvis delegeres til kommune eller politi med god trafikkteknisk kompetanse.\nPolitiet og kommune som har fått delegert vedtaksmyndighet etter annet ledd kan i særlige tilfeller for en enkelt gang gi dispensasjon fra bestemmelsene i skilt 306.1 «Forbudt for motorvogn» eller 548 «Gågate» for bestemt motorvogn. Skiltmyndigheten kan gi dispensasjon til forflytningshemmet fra parkeringsforbud som følger av skilt 372 «Parkering forbudt», 552 «Parkering» eller 376 «Parkeringssone».\nStatens vegvesen kan gi dispensasjon fra skilt 314 «Høydegrense».",
+      "2. For riksveg, fylkesveg og privat veg kan Statens vegvesen treffe vedtak om å sette opp eller å ta ned skiltene 516 «Gangfelt», 524 «Møteplass», 528 «Valgfritt kjørefelt», 530 «Sammenfletting», 531 «Felt for fartsøkning», 532 «Kjørefelt slutter», 534 «Kjørefelt begynner», 536 «Påkjøring fortsetter i eget kjørefelt», 538 «Kjørefeltinndeling», 539 «Endret kjøremønster», 540 «Gatetun», 542 «Slutt på gatetun» og 560 «Opplysningstavle». For kommunal veg kan kommunen treffe slikt vedtak.",
+      "3. Dersom vedtak etter nr. 1 eller nr. 2 er av særlig stor betydning eller i særlig grad berører kommunale interesser, skal kommunen få uttale seg før vedtak treffes. Tilsvarende skal ansvarlig for privat veg få uttale seg dersom vedtaket vil gjelde for den private vegen.\nFør Statens vegvesen treffer vedtak etter nr. 1 og nr. 2 for riksveg, fylkesveg eller kommunal veg, skal politiet få uttale seg. Før Statens vegvesen eller politiet treffer vedtak etter nr. 1 for kommunal veg, skal kommunen få uttale seg. Før kommunen treffer vedtak, skal Statens vegvesen og politiet få uttale seg.\nUnntatt fra høring som nevnt i dette nummer, er skiltene 324 «Stopp for angitt formål», 326 «Stopp for toll», 406 «Påbudt rundkjøring», 518 «Gangveg», 520 «Sykkelveg», 521 «Sykkelfelt», 522 «Gang- og sykkelveg», 524 «Møteplass», 528 «Valgfritt kjørefelt», 530 «Sammenfletting», 531 «Felt for fartsøkning», 532 «Kjørefelt slutter», 534 «Kjørefelt begynner», 536 «Påkjøring fortsetter i eget kjørefelt», 538 «Kjørefeltinndeling», 539 «Endret kjøremønster» og 560 «Opplysningstavle». Høring kreves heller ikke for skiltene 312 «Breddegrense», 314 «Høydegrense», 316 «Lengdegrense», 318 «Totalvektgrense», 320 «Aksellastgrense», 322 «Boggilastgrense», 402 «Påbudt kjøreretning» eller 404 «Påbudt kjørefelt» når reguleringen er en følge av rent tekniske forhold ved vegen.\nDet kan treffes midlertidig vedtak for et tidsrom av inntil tre måneder uten at det er innhentet uttalelser som nevnt i nummeret her.\nPolitiet kan regulere vegtrafikken med skilt i samsvar med vegtrafikkloven § 9. Vedkommende myndighet kan regulere vegtrafikken med skilt i samsvar med vegtrafikkloven § 7 annet ledd. For veger hvor kommunen har fått delegert vedlikeholdsansvar etter vegloven, har kommunen denne myndighet."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 14 jan 2013 nr. 40, 25 sep 2014 nr. 1241 som endret ved forskrift 10 des 2014 nr. 1553 (i kraft 1 jan 2015), 5 mai 2017 nr. 531, 19 des 2019 nr. 2042 (i kraft 1 jan 2020)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-14-paragraf-4",
+     "nummer": "§ 29",
+     "tittel": "Myndighet for andre offentlige trafikkskilt",
+     "ledd": [
+      "1. Statens vegvesen kan treffe vedtak om å sette opp eller ta ned andre offentlige trafikkskilt enn dem som omfattes av bestemmelsene i § 26–§ 28 for riksveg, fylkesveg og privat veg. Kommunen har slik myndighet for kommunal veg. Statens vegvesens vedtak kan likevel om nødvendig også gjelde skilting på kommunal veg, dersom skiltene på riksveg, fylkesveg eller privat veg må suppleres med skilt på kryssende kommunal veg. Kommunens myndighet gjelder ikke for skilting for kommunal veg på kryssende riksveg eller fylkesveg.",
+      "2. Myndighet som nevnt i § 28 nr. 3 femte ledd kan også nytte slike skilt.",
+      "3. Utforming og bruk av skilt 590 Trafikksikkerhetsinformasjon skal godkjennes av Statens vegvesen før det treffes vedtak om å sette opp skiltet.",
+      "4. For skilt 729 Gate-/vegnavnskilt treffer kommunen vedtak også for privat veg. Før Statens vegvesen eller kommunen fatter vedtak om slikt skilt skal henholdsvis kommunen og Statens vegvesen få uttale seg."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 27 nov 2008 nr. 1262 (i kraft 1 juli 2009 jf. vedtak 17 april 2009 nr. 425), 9 des 2009 nr. 1517 (i kraft 1 jan 2010), 19 des 2019 nr. 2042 (i kraft 1 jan 2020)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-14-paragraf-5",
+     "nummer": "§ 30",
+     "tittel": "Myndighet for trafikklyssignal og vegoppmerking",
+     "ledd": [
+      "1. Vegdirektoratet kan treffe vedtak om å sette opp eller å ta ned trafikklyssignal for offentlig og privat veg.\nFør vedtak treffes etter første ledd, skal politiet og kommunen eller den ansvarlige for privat veg få uttale seg.\nVedtak om 1096 «Blinkende signal foran jernbane» kan treffes etter at vedkommende banemyndighet har fått uttale seg.\nOppsetting av 1092 «Tolyssignal» krever ikke vedtak.",
+      "2. Oppsetting av 1098 «Gult blinksignal» krever ikke vedtak, men må bare foretas av den ansvarlige for det lyssignal, trafikkskilt eller den veganordning det nyttes i forbindelse med.",
+      "3. Statens vegvesen kan for riksveg, fylkesveg og privat veg treffe vedtak om oppmerking på vegen av hensyn til trafikksikkerheten. Kommunen har slik myndighet for kommunal veg.",
+      "4. Myndighet som nevnt i § 28 nr. 3 femte ledd kan også treffe vedtak som nevnt i paragrafen her."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 21 nov 2011 nr. 1125 (i kraft 1 jan 2012), 5 mai 2017 nr. 531, 19 des 2019 nr. 2042 (i kraft 1 jan 2020)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-14-paragraf-6",
+     "nummer": "§ 31",
+     "tittel": "Overprøving av skiltvedtak m.m.",
+     "ledd": [
+      "1. Politiet, kommunen eller Statens vegvesen kan be Vegdirektoratet om å overprøve vedtak nevnt i § 26 nr. 1 annet ledd og nr. 2.",
+      "2. Politiet eller kommunen kan be Vegdirektoratet om å overprøve vedtak nevnt i § 27 nr. 1.",
+      "3. Politiet, kommunen, Statens vegvesen, eller den ansvarlige for privat veg kan be Vegdirektoratet om å overprøve vedtak nevnt i § 28.",
+      "4. Politiet, kommunen eller den ansvarlige for privat veg kan be Vegdirektoratet om å overprøve vedtak nevnt i § 30 nr. 1 når vedtaket er truffet av Statens vegvesen.",
+      "5. Vegdirektoratet kan også av eget tiltak treffe vedtak eller oppheve eller endre vedtak etter § 26 nr. 1 annet ledd og nr. 2, § 27 nr. 1, § 28 og § 30 nr. 1.",
+      "6. Krav om overprøving av vedtak etter nr. 1 – 4 må framsettes for Vegdirektoratet innen tre måneder etter at vedtaket er truffet."
+     ],
+     "endringer": [
+      "Endret ved forskrift 19 des 2019 nr. 2042 (i kraft 1 jan 2020)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-15",
+   "navn": "kap14",
+   "overskrift": "Kapittel 14. Midlertidig skilting m.m. ved varsling av arbeid og tilstelninger på offentlig veg",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-15-paragraf-1",
+     "nummer": "§ 32",
+     "tittel": "Alminnelige bestemmelser",
+     "ledd": [
+      "1. Dette kapittel gjelder for varsling og sikring av alle arbeider og tilstelninger på eller nær offentlig veg. Bestemmelsene gjelder i tillegg til bestemmelsene ellers i denne forskrift.",
+      "2. For riks- og fylkesveg er Statens vegvesen skiltmyndighet for varslingen, og for kommunal veg er kommunen skiltmyndighet. For riks- og fylkesveg hvor kommunen har fått myndighet etter vegloven § 17 og § 18, er kommunen ansvarlig skiltmyndighet etter denne forskrift.\nKommune som har fått slik myndighet, kan overføre myndigheten til annen kommune som også selv har slik myndighet."
+     ],
+     "endringer": [
+      "Endret ved forskrift 19 des 2019 nr. 2042 (i kraft 1 jan 2020)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-15-paragraf-2",
+     "nummer": "§ 33",
+     "tittel": "Ansvar",
+     "ledd": [
+      "1. Skiltmyndigheten der varslingen skal utføres skal godkjenne skiltplanen og treffe nødvendige vedtak.",
+      "2. Ansvaret for gjennomføring og oppfølging av planen på arbeidsstedet skal tillegges utførende etat eller entreprenør.",
+      "3. Utførende etat eller entreprenør skal for hvert enkelt arbeidssted utpeke en som er ansvarlig for å påse at varslingen er korrekt og i henhold til planen. Kopi av vedtak, loggbok, arbeidsvarslingsplan og eventuelle vilkår som måtte være fastsatt for vedkommende arbeid skal være tilstede og tilgjengelig på arbeidsstedet. Den ansvarlige skal sørge for at nødvendig varslings- og sikringsmateriell er tilstede, og at varsling og sikring av arbeidsstedet til enhver tid er utført i henhold til godkjent plan. Ved sykdom, ferieavvikling m.m. skal ansvaret overføres til annen kompetent person. Den ansvarliges navn og telefon skal meddeles skiltmyndigheten."
+     ],
+     "endringer": [
+      "Endret ved forskrift 21 nov 2011 nr. 1125 (i kraft 1 jan 2012)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-15-paragraf-3",
+     "nummer": "§ 34",
+     "tittel": "Sanksjoner",
+     "ledd": [
+      "1. Ethvert arbeid kan stanses av skiltmyndigheten eller politiet inntil de nødvendige tiltak er iverksatt, dersom forholdet kan utgjøre en fare. Likeledes kan arbeidet stanses dersom varsling eller sikring ikke er utført i henhold til godkjent plan e.l. og dette skaper vesentlige ulemper for trafikkavviklingen.",
+      "2. Delegering av ansvar etter § 33 nr. 2 for gjennomføring og oppfølging av skiltplan kan unnlates eller trekkes tilbake for kortere eller lengre tid til den som utfører arbeidsvarsling og som ikke retter seg etter pålegg gitt av skiltmyndigheten, vegmyndigheten eller politiet, eller som i løpet av tolv måneder har mottatt to slike pålegg, uavhengig av om disse i ettertid er fulgt opp."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 21 nov 2011 nr. 1125 (i kraft 1 jan 2012), 25 sep 2014 nr. 1241."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-16",
+   "navn": "kap15",
+   "overskrift": "Kapittel 15. Særlige bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-16-paragraf-1",
+     "nummer": "§ 35",
+     "tittel": "Tekniske bestemmelser (normaler) m.m.",
+     "ledd": [
+      "Nærmere tekniske bestemmelser og retningslinjer (normaler) for anvendelse, utforming, størrelse og plassering av offentlige trafikkskilt, trafikklyssignaler og vegoppmerking, gis av Vegdirektoratet. Slike bestemmelser anses ikke som forskrift etter forvaltningsloven. Bestemmelsene er bindende for vedtaksmyndighetene."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-16-paragraf-2",
+     "nummer": "§ 36",
+     "tittel": "Vedtak, skiltregister",
+     "ledd": [
+      "1. Alle vedtak etter § 26 – § 30 og § 32 skal gjøres skriftlig og oppbevares på betryggende måte. Oppbevaringen kan skje ved elektronisk lagring i et datasystem eller ved papirutskrift for arkivering.",
+      "2. Vegdirektoratet kan bestemme at skiltmyndigheten skal føre et register over offentlige trafikkskilt som er satt opp på offentlig og privat veg. Vegdirektoratet gir nærmere regler om føring av skiltregisteret."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-16-paragraf-3",
+     "nummer": "§ 37",
+     "tittel": "Alminnelige bestemmelser om dekking av skiltutgifter",
+     "ledd": [
+      "Utgifter til offentlige trafikkskilt, trafikklyssignaler og vegoppmerking dekkes som vegutgifter etter reglene i veglova 21. juni 1963, dersom det ikke med hjemmel i § 45 blir truffet vedtak om at den ansvarlige for privat veg eller andre skal dekke utgiftene.",
+      "Skiltmyndighetenes utgifter i forbindelse med andres arbeidsvarsling kan kreves dekket, helt eller delvis, av vedkommende som har fått arbeids-/gravetillatelse etter vegloven § 32."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-16-paragraf-4",
+     "nummer": "§ 38",
+     "tittel": "Generelt om dekking av utgifter til serviceskilting, virksomhetsvisning og skilting ved tilstelninger",
+     "ledd": [
+      "1. Denne forskrift § 38 – § 44 gjelder betaling av utgifter som vegmyndigheten har til offentlige trafikkskilt, herunder oppmerking eller lyssignal, når skiltingen er gjort av hensyn til noen bestemt persons interesse. Med person menes her også foretak, organisasjon o.l.",
+      "2. Forskriften § 38 – § 44 gjelder også når det benyttes skilt for å gjennomføre reguleringer etter vegtrafikkloven § 7 annet ledd eller § 9 ved tilstelninger, med mindre forholdet dekkes av kap. 14 i denne forskrift.",
+      "3. Dersom utgiftene gjelder skilt på privat veg, gjelder § 45.",
+      "4. Vedtak om egenandel gjøres når skiltvedtak fattes som følge av søknad om skilting der søknaden er innkommet 1. oktober 2001 eller senere. Egenandel for endring eller utskifting av eksisterende skilt kan imidlertid kreves også for skilt som er satt opp på bakgrunn av søknad som er innkommet før 1. oktober 2001."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-16-paragraf-5",
+     "nummer": "§ 39",
+     "tittel": "Egenandel for serviceskilt og virksomhetsvisning med servicesymbol",
+     "ledd": [
+      "1. Det betales egenandel for skilt som har symboler innen kategoriene verksted, drivstoff, hurtiglading, spisested, camping og overnatting.",
+      "2. For skilt innenfor kategoriene severdigheter, aktiviteter og rekreasjon, betales egenandel dersom dette gjelder kommersiell virksomhet.",
+      "3. Egenandel pr. skilt\nKr 2400,– pr. tekstlinje for skilt med teksthøyde til og med 140 mm.\nKr 4800,– pr. tekstlinje for skilt med teksthøyde over 140 mm.\nKr 2400,– for hvert symbol som benyttes på serviceskilt eller overhengende vegvisningsskilt.\nKr 1200,– for hvert symbol som benyttes på sideplassert vegvisningsskilt.\nFor vegviserfløyer med skrift på begge sider med skrifthøyde 105 mm kreves det inn egenandel bare for en side.",
+      "4. Dersom det benyttes felles skilt eller symbol for flere foretak, deles egenandelen likt mellom foretakene. Vegmyndigheten skal ikke kreve ny, delvis egenandel dersom et nytt foretak kan nyttiggjøre seg eksisterende skilt eller symbol uten øvrige endringer. Det skal derfor ikke tilbakebetales egenandel til de foretak som har betalt egenandel for de samme skiltene."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 25 sep 2014 nr. 1241, 22 juli 2024 nr. 1801 (i kraft 1 jan 2025)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-16-paragraf-6",
+     "nummer": "§ 40",
+     "tittel": "Egenandel for annen virksomhetsvisning",
+     "ledd": [
+      "1. Det betales egenandel for skilt som viser til foretak, enten ved navn eller type virksomhet.",
+      "2. Egenandel pr. skilt\nKr 2400,– pr. tekstlinje for skilt med teksthøyde til og med 140 mm.\nKr 4800,– pr. tekstlinje for skilt med teksthøyde over 140 mm.\nKr 1200,– for hvert vegvisningssymbol som benyttes.\nFor vegviserfløyer med skrift på begge sider med skrifthøyde 105 mm kreves det inn egenandel bare for en side.",
+      "3. Dersom det benyttes felles skilt eller symbol for flere foretak, deles egenandelen likt mellom foretakene. Vegmyndigheten skal ikke kreve ny, delvis egenandel dersom et nytt foretak kan nyttiggjøre seg eksisterende skilt eller symbol uten øvrige endringer. Det skal derfor ikke tilbakebetales egenandel til de foretak som har betalt egenandel for de samme skiltene."
+     ],
+     "endringer": [
+      "Endret ved forskrift 22 juli 2024 nr. 1801 (i kraft 1 jan 2025)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-16-paragraf-7",
+     "nummer": "§ 41",
+     "tittel": "Betaling av egenandel",
+     "ledd": [
+      "1. Skilt blir ikke bestilt og satt opp før egenandelen er registrert innbetalt til vegmyndigheten. Beløpet innbefatter ordinært skiltvedlikehold eller skiltendringer som følge av trafikkomlegginger i inntil 5 år.",
+      "2. Skiltet er vegmyndighetens eiendom. Dersom betingelsene for bruk av skiltet brytes, kan skiltene fjernes uten at egenandelen blir refundert.",
+      "3. Ny egenandel må være registrert innbetalt før vegmyndigheten setter opp nye skilt eller endrer innhold på eksisterende skilt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-16-paragraf-8",
+     "nummer": "§ 42",
+     "tittel": "Ny egenandel ved endring av eksisterende skilt",
+     "ledd": [
+      "1. Hvis et nytt skilt eller skiltsymbol som omfattes av bestemmelsene i § 39 eller § 40 medfører endring eller utskifting av allerede eksisterende serviceskilt, geografisk vegvisningsskilt eller virksomhetsvisningsskilt, kan vegmyndigheten kreve en egenandel for utskifting eller endring av eksisterende skilt hvis kvaliteten på de eksisterende skilt tilsier at de ikke skal skiftes.",
+      "2. Egenandelen fastsettes da etter de bestemmelsene som er angitt i § 39 og § 40. For geografisk vegvisning regnes da prisen som for virksomhetsvisning i § 40."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-16-paragraf-9",
+     "nummer": "§ 43",
+     "tittel": "Kostnader for skilting ved tilstelninger",
+     "ledd": [
+      "For bruk av offentlige trafikkskilt ved tilstelninger dekker arrangøren alle kostnader. Dette omfatter bl.a. kostnader til montering og transport av skilt, utarbeidelse av eventuelle skiltplaner m.m."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-16-paragraf-10",
+     "nummer": "§ 44",
+     "tittel": "Unntak fra § 38 – § 43",
+     "ledd": [
+      "1. Vegmyndigheten kan unnlate å kreve betaling for skilt på fylkesveg og kommunal veg.",
+      "2. Vegmyndigheten kan unnlate å kreve betaling, hvis det er så mange å fordele kostnaden på at det er uhensiktsmessig å kreve betaling fra hver enkelt.",
+      "3. Vegmyndigheten kan unnlate å kreve betaling der serviceskilt eller virksomhetsvisning fungerer som områdenavn med samme funksjon som geografisk vegvisning."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-16-paragraf-11",
+     "nummer": "§ 44a",
+     "tittel": "Dekning av utgifter til skilt 590 Trafikksikkerhetsinformasjon",
+     "ledd": [
+      "Alle utgifter til skilt med trafikksikkerhetsinformasjon dekkes av den som er ansvarlig for den aktuelle skiltingen."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 27 nov 2008 nr. 1262 (i kraft 1 juli 2009 jf. vedtak 17 april 2009 nr. 425)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-16-paragraf-12",
+     "nummer": "§ 45",
+     "tittel": "Trafikkskilting for private veger",
+     "ledd": [
+      "1. Dersom den ansvarlige for privat veg vil nytte offentlige trafikkskilt, må denne ha tillatelse av Statens vegvesen, som kan sette vilkår for bruken. Utgifter til oppsetting, endring, vedlikehold eller fjerning av offentlige trafikkskilt og feste for slikt for privat veg, bæres i så fall av den ansvarlige for vegen. Statens vegvesen kan i særlige tilfelle helt eller delvis frita den ansvarlige for å dekke utgiftene.\nDersom trafikken på privat veg som er åpen for alminnelig ferdsel tilsier det, kan Statens vegvesen bestemme at en bestemt vegstrekning skal skiltes med offentlige trafikkskilt. Utgiftene til dette skal i så fall dekkes av den ansvarlige for den private veg, med mindre Statens vegvesen bestemmer at utgiftene skal dekkes som for skilting av riksveg.",
+      "2. Når offentlige trafikkskilt er tillatt eller påbudt brukt for privat veg, skal plassering, anvendelse og utforming av skiltene så vidt mulig skje i samsvar med tekniske retningslinjer etter § 35. For den vegstrekning skiltene er nyttet, må det ikke plasseres private skilt eller annen oppmerking som kan forveksles med offentlige trafikkskilt, eller hindre den frie sikt langs vegen eller til slike innretninger for den vegfarende."
+     ],
+     "endringer": [
+      "Endret ved forskrift 19 des 2019 nr. 2042 (i kraft 1 jan 2020)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-16-paragraf-13",
+     "nummer": "§ 46",
+     "tittel": "Utfyllingsbestemmelser, unntak",
+     "ledd": [
+      "Vegdirektoratet kan gi nærmere utfyllende bestemmelser til denne forskrift. Vegdirektoratet kan gjøre unntak fra forskriften."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-16-paragraf-14",
+     "nummer": "§ 46a",
+     "tittel": "Bestemmelser om utprøving av nye trafikkskilt m.m.",
+     "ledd": [
+      "Med tillatelse fra Vegdirektoratet kan det gjennomføres utprøving av trafikkskilt, vegoppmerking og trafikklyssignal som angitt i paragrafen her.",
+      "A. Trafikkskilt",
+      "I. Underskilt til trafikklyssignal",
+      "840 Syklende tillatt på rødt",
+      "Underskiltet kan brukes sammen med 1080 «Hovedsignal», 1082 «Pilsignal» og 1084 «Sykkelsignal» uten separat pilsignal mot høyre, Det angir at rødt lys ikke gjelder for syklende og fører av liten elektrisk motorvogn, og at disse har vikeplikt overfor trafikanter i krysset og vegen de kjører inn på.",
+      "840.1 Sykling til høyre tillatt",
+      "840.2 Sykling rett frem tillatt",
+      "840.3 Sykling til høyre tillatt",
+      "840.4 Sykling rett frem tillatt",
+      "B. Vegoppmerking",
+      "I. Kryssmarkering",
+      "1030 Kryssmarkering",
+      "Oppmerkingen angir areal i kryssområder hvor stans er i strid med trafikkreglenes bestemmelser",
+      "II. Vegoppmerkingssymboler for å veilede motorsyklister til et sikrere linjevalg i svinger",
+      "1030.1 Ellipser (Eksempel)",
+      "1030.2 Skråstilte porter (Eksempel)",
+      "III. Vegoppmerking for å separere gående og syklende på gang- og sykkelveg",
+      "1002 Varsellinje kan brukes på gang- og sykkelveg for å skille forskjellige retninger.",
+      "1012 Kantlinje kan også brukes til å separere trafikanter på gang- og sykkelveg."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 12 aug 2026 nr. 1625."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-16-paragraf-15",
+     "nummer": "§ 47",
+     "tittel": "Ikrafttreden og overgangsbestemmelser m.m.",
+     "ledd": [
+      "Forskriften trer i kraft 1. juni 2006. Følgende trer likevel i kraft straks:\n- § 8 om skilt 310 «Forbudt for motorvogn med flere enn to hjul og med tillatt totalvekt høyere enn angitt».\n- § 12 om skiltene 508 «Kollektivfelt», 509 «Sambruksfelt», 511 «Slutt på sambruksfelt», 556 «Automatisk trafikkontroll» og 558 «Videokontroll/-overvåking».\n- § 14 om skilt 650.40 «Gardsmat/bygdeturisme».\n- § 16 om skiltene 723.71 og 723.72 «Kryssnummer på flerfeltsveg», 723.73 «Kryssnummer på tofeltsveg», 731 «Samleskilt for vegvisning», 765 «Bomveg/brukerbetaling på veg» og 792.11 – 30 «Betalingsmåte i bomstasjon/betalingssystem på veg».\n- § 18 om skilt 831 «Parkeringsskive».\n- § 20 om skilt 916 «Avstandsmarkering i tunnel».\n- § 22 om oppmerkingene 1027 «Fartshump» og 1052 «Sambruksfelt».\n- § 32 – § 34 om midlertidig skilting m.m. ved varsling av arbeid og tilstelninger på offentlig veg.\n- § 38 – § 44 om betaling av utgifter som vegmyndigheten har til offentlige trafikkskilt, herunder oppmerking eller lyssignal, når skiltingen er gjort av hensyn til noen bestemt persons interesse.\n- Ved utskifting eller nyoppsetting av skilt fastsatt etter forskrifter 10. oktober 1980 nr. 1 eller tidligere bestemmelser, kan skilt fastsatt i denne forskrift med endret utforming men med samme betydning som tidligere, benyttes.",
+      "Forskrifter 10. oktober 1980 nr. 1 om offentlige trafikkskilt, vegoppmerking, trafikklyssignaler og anvisninger (skiltforskrifter) oppheves 1. juni 2006.",
+      "Trafikkskilt som er satt opp med hjemmel i forskrifter 10. oktober 1980 nr. 1 eller tidligere bestemmelser, skal fortsatt gjelde, men med den betydning som er tillagt tilsvarende skilt i denne forskrift.",
+      "For følgende trafikkskilt, som er satt opp med hjemmel i forskrifter 10. oktober 1980 nr. 1 eller tidligere bestemmelser, skal fra 1. juni 2006 gjelde:\n1. Skilt 306.1 «Forbudt for motorvogn» med underskilt «Gågate» skal ha samme betydning som nytt skilt 548 «Gågate», men uten å ha virkning som soneskilt.\n2. Skilt 520 benyttet i forbindelse med sykkelfelt skal ha samme betydning som nytt skilt 521 «Sykkelfelt».",
+      "Nevnte skilt i dette ledd nr. 1 og 2 med gamle symbol og skilt 544 «Tettbygd strøk» og skilt 546 «Slutt på tettbygd strøk» er ugyldige fra 1. januar 2011.",
+      "Vegdirektoratet kan gi nærmere utfyllende bestemmelser om gjennomføringen av overgangsbestemmelsene."
+     ]
+    }
+   ]
+  }
+ ]
+}

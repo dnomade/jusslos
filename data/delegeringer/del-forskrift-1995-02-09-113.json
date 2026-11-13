@@ -1,0 +1,88 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-1995-02-09-113",
+ "dokumentid": "DEL/forskrift/1995-02-09-113",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "kunngjort_i": "Avd I 1995 Nr. 3",
+ "ikraft": "1995-03-01",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1994-06-03-15/§30",
+   "tekst": "lov/1994-06-03-15/§30"
+  },
+  {
+   "ref": "lov/1994-06-03-15/§31",
+   "tekst": "lov/1994-06-03-15/§31"
+  },
+  {
+   "ref": "forskrift/1994-06-03-375",
+   "tekst": "forskrift/1994-06-03-375"
+  }
+ ],
+ "korttittel": "Delvis ikrafttr. av Enhetsregisterloven",
+ "tittel": "Delvis ikrafttredelse av lov 3. juni 1994 nr. 15 om Enhetsregisteret. Overgangsbestemmelser.",
+ "annet": "Fastsatt av Finans- og tolldepartementet 9. februar 1995 med hjemmel i lov av 3. juni 1994 nr. 15 om enhetsregisteret § 30, § 31 og kgl.res. av 3. juni 1994 nr. 375.",
+ "refid": "forskrift/1995-02-09-113",
+ "eli": "/eli/forskrift/1995/02/09/113",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/1995-02-09-113",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Finans- og tolldepartementet bestemmer at lov av 3. juni 1994 nr. 15 om Enhetsregisteret, med unntak av § 6 første ledd, bokstav k, settes i kraft fra 1. mars 1995"
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Følgende overgangsbestemmelser skal gjelde fra 1. mars 1995:"
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": null,
+     "ledd": [
+      "Enheter registrert i tilknyttet register ved enhetsregisterlovens ikrafttreden, kan overføres til Enhetsregisteret uten melding fra enheten selv. Enheten skal underrettes om innføringen i Enhetsregisteret.",
+      "Enheter som har inngitt melding om nyregistrering til tilknyttet register før enhetsregisterlovens ikrafttreden og som ikke er innført i registeret når enhetsregisterloven trer i kraft, kan også innføres i Enhetsregisteret uten melding fra enheten. Enheten skal ha underretning om innføringen i Enhetsregisteret.",
+      "For de enheter som omfattes av denne bestemmelsens første eller annet ledd og som ikke har meldt opplysninger tilsvarende de som kreves etter enhetsregisterloven § 5 annet ledd og § 6 til tilknyttet register eller Enhetsregisteret ved enhetsregisterlovens ikrafttreden, kommer enhetsregisterloven § 16 første og tredje ledd tilsvarende til anvendelse."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": null,
+     "ledd": [
+      "Tilknyttede registre må ha tatt i bruk organisasjonsnummeret og opplysninger fra Enhetsregisteret i eget register innen seks måneder etter enhetsregisterlovens ikrafttreden."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": null,
+     "ledd": [
+      "Med unntak for salgsdokumenter til enheter som er innført i Merverdiavgiftsmanntallet må enheten innen ett år etter enhetsregisterlovens ikrafttreden oppfylle kravet etter enhetsregisterloven § 23 om påføring av organisasjonsnummer på sine brev og forretningsdokumenter.",
+      "Enheter som er registrert i Merverdiavgiftsmanntallet må innen seks måneder etter enhetsregisterlovens ikrafttreden oppfylle kravet i enhetsregisterloven § 23 om påføring av organisasjonsnummer og bokstavene MVA på salgsdokumenter."
+     ]
+    }
+   ]
+  }
+ ]
+}

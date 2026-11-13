@@ -1,0 +1,54 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-2008-12-19-1445",
+ "dokumentid": "DEL/forskrift/2008-12-19-1445",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Skattelovavd."
+ ],
+ "kunngjort_i": "I 2008 hefte 14",
+ "ikraft": "2009-01-01",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1980-06-13-24/§11-1",
+   "tekst": "lov/1980-06-13-24/§11-1"
+  }
+ ],
+ "kunngjort": "2008-12-22 15:20",
+ "korttittel": "Deleg. til SKD etter ligningsloven",
+ "tittel": "Delegering av Finansdepartementets myndighet etter ligningsloven § 11-1 nr. 3",
+ "annet": "Hjemmel: Fastsatt av Finansdepartementet 19. desember 2008 med hjemmel i lov 13. juni 1980 nr. 24 om ligningsforvaltning (ligningsloven) § 11-1 nr. 3.",
+ "refid": "forskrift/2008-12-19-1445",
+ "eli": "/eli/forskrift/2008/12/19/1445",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/2008-12-19-1445",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Departementets myndighet etter ligningsloven § 11-1 nr. 3 delegeres til Skattedirektoratet."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Delegeringen trer i kraft 1. januar 2009."
+    }
+   ]
+  }
+ ]
+}

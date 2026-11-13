@@ -1,0 +1,76 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-1993-06-11-785",
+ "dokumentid": "DEL/forskrift/1993-06-11-785",
+ "departement": [
+  "Klima- og miljødepartementet"
+ ],
+ "etat": [
+  "Forurensningsavd."
+ ],
+ "kunngjort_i": "Avd I 1993 897",
+ "ikraft": "1993-06-11",
+ "siste_endring_ikraft": "2014-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2013-12-19-1757",
+   "tekst": "forskrift/2013-12-19-1757 fra 2014-01-01"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1993-06-11-107",
+   "tekst": "lov/1993-06-11-107"
+  },
+  {
+   "ref": "lov/1981-03-13-6/§30",
+   "tekst": "lov/1981-03-13-6/§30"
+  },
+  {
+   "ref": "lov/1981-03-13-6/§33",
+   "tekst": "lov/1981-03-13-6/§33"
+  },
+  {
+   "ref": "lov/1981-03-13-6/§34",
+   "tekst": "lov/1981-03-13-6/§34"
+  }
+ ],
+ "korttittel": "Delegering til KMD etter forurensningsloven",
+ "tittel": "Delvis ikrafttredelse av lov av 11. juni 1993 nr. 107 om endringer i lov av 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (forurensningsloven) – Delegering av myndighet",
+ "annet": "Fastsatt ved kgl.res. 11. juni 1993. Fremmet av Miljøverndepartementet (nå Klima- og miljødepartementet).\nEndret ved forskrift 19 des 2013 nr. 1757.",
+ "refid": "forskrift/1993-06-11-785",
+ "eli": "/eli/forskrift/1993/06/11/785",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/1993-06-11-785",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Lov av 11. juni 1993 nr. 107 om endringer i lov av 13. mars 1981 nr. 6 om vern mot forurensninger og om avfall (forurensningsloven) §§ 1, 2, 3, 30 og 33 trer i kraft straks."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Forurensningsmyndighetens myndighet etter forurensningsloven §§ 30, 33 og 34 delegeres til Klima- og miljødepartementet."
+    },
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrift 19 des 2013 nr. 1757 (i kraft 1 jan 2014)."
+    }
+   ]
+  }
+ ]
+}

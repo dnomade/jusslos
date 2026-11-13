@@ -1,0 +1,139 @@
+{
+ "skjema": "1.0",
+ "type": "instruks",
+ "datokode": "FOR-1990-05-25-4696",
+ "dokumentid": "INS/forskrift/1990-05-25-4696",
+ "departement": [
+  "Kultur- og likestillingsdepartementet"
+ ],
+ "etat": [
+  "Kulturavd."
+ ],
+ "ikraft": "1990-07-01",
+ "siste_endring_ikraft": "2008-01-15",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2007-12-18-1760",
+   "tekst": "forskrift/2007-12-18-1760 fra 2008-01-15"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1989-06-09-32",
+   "tekst": "lov/1989-06-09-32"
+  },
+  {
+   "ref": "forskrift/1990-05-25-427",
+   "tekst": "forskrift/1990-05-25-427"
+  },
+  {
+   "ref": "forskrift/1990-05-25-366",
+   "tekst": "forskrift/1990-05-25-366"
+  }
+ ],
+ "korttittel": "Instruks til pliktavleveringslova",
+ "tittel": "Instruks for institusjonar som forvaltar dokument innkomne etter lov om avleveringsplikt for allment tilgjengelege dokument",
+ "annet": "Heimel: Fastsett av Kyrkje- og kulturdepartementet (nå Kultur- og kyrkjedepartementet) 25. mai 1990 med heimel i lov 9. juni 1989 nr. 32 om avleveringsplikt for allment tilgjengelege dokument, jf. forskrift 25. mai 1990 nr. 427 om avleveringsplikt for allment tilgjengelege dokument og delegeringsvedtak 25. mai 1990 nr. 366.\nEndra ved vedtak 18 des 2007 nr. 1760 (instruksen kunngjort i sin helhet etter endringa).",
+ "refid": "forskrift/1990-05-25-4696",
+ "eli": "/eli/forskrift/1990/05/25/4696",
+ "url": "https://lovdata.no/dokument/INS/forskrift/1990-05-25-4696",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Mottaksinstitusjonen Nasjonalbiblioteket skal gjennom informasjonstiltak, kontroll- og purrerutinar syta for at avleveringsplikta vert etterlevd."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Av dokument som vert pliktavleverte i sju eksemplar skal Nasjonalbiblioteket vidaresenda mottekne eksemplar til universitetsbiblioteka i Oslo, Bergen, Trondheim og Tromsø, og dessutan til samisk spesialbibliotek i Karasjok når ein monaleg del av innhaldet er på samisk språk."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kapIII",
+   "overskrift": "III",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Vidaresendinga skal i regelen skje seinast andre arbeidsdagen etter at eksemplaret er motteke ved Nasjonalbiblioteket, men det kan gjerast avtale mellom Nasjonalbiblioteket og dei aktuelle biblioteka om andre rutinar for vidaresendinga av visse grupper materiale.\nNår eitt eller fleire av dei biblioteka som plikteksemplara skal fordelast til, ikkje ynskjer tilsende visse undergrupper av dokument, kan det gjerast avtale mellom vedkomande bibliotek og Nasjonalbiblioteket om dette."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kapIV",
+   "overskrift": "IV",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Dersom Nasjonalbiblioteket har motteke færre eksemplar enn dei sju som lova føreskriv, skal dei mottekne eksemplara forvaltast etter denne prioriteringa:\n- 1. eksemplar er tryggingseksemplar i Nasjonalbiblioteket i Rana\n- 2. eksemplar er brukseksemplar i Nasjonalbiblioteket i Oslo\n- 3.-5. eksemplar til universitetsbiblioteka i Bergen, Trondheim og Tromsø med jamnt vekslande priortering.\n- 6. eksemplar til Universitetsbiblioteket i Oslo\n- 7. eksemplar er fjernlånseksemplar ved Nasjonalbiblioteket i Rana.\nSamisk spesialbibliotek i Karasjok skal ha 3. prioritet, med påfølgjande nedprioritering av hine biblioteka, for dei dokumenta som skal sendast dit."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kapV",
+   "overskrift": "V",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Alle eksemplara av dokument som vert pliktavleverte etter § 7 i lova skal oppbevarast av Nasjonalbiblioteket i eit særskilt avlåst magasin."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kapVI",
+   "overskrift": "VI",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Nasjonalbiblioteket i Rana pliktar utan tidsavgrensing å ta vare på eitt eksemplar av alle dokument som tryggingseksemplar."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kapVII",
+   "overskrift": "VII",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Nasjonalbiblioteket skal snarast råd registrera dei mottekne dokumenta. Uviktige dokument kan handsamast arkivmessig og ordnast i grupper etter emne og art utan einskildregistrering av kvart dokument.\nNasjonalbiblioteket har ansvaret for katalogisering på nasjonalbibliografisk nivå og tilhøyrande katalogprodukt."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-8",
+   "navn": "kapVIII",
+   "overskrift": "VIII",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Alle dei institusjonane som forvaltar eksemplar av pliktavleverte dokument, pliktar å syte for at all bruk skjer innanfor rammene av dei til kvar tid gjeldande opphavsrettsreglar.\nAdresse for innsending:\nNasjonalbiblioteket\nPliktavlevering\n8607 Mo i Rana\nTlf. 75 12 11 11\nFaks: 75 12 12 22"
+    }
+   ]
+  }
+ ]
+}

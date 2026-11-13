@@ -1,0 +1,229 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2002-03-15-276",
+ "dokumentid": "SF/forskrift/2002-03-15-276",
+ "departement": [
+  "Digitaliserings- og forvaltningsdepartementet"
+ ],
+ "etat": [
+  "Avdeling for digitaliseringspolitikk (DIA), Nasjonal kommunikasjonsmyndighet (Nkom)"
+ ],
+ "kunngjort_i": "I 2002 hefte 3",
+ "ikraft": "2002-04-02",
+ "siste_endring_ikraft": "2025-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2024-12-20-3423",
+   "tekst": "forskrift/2024-12-20-3423 fra 2025-01-01"
+  }
+ ],
+ "endrer": "forskrift/1996-03-08-264",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1995-06-23-39/§4-6",
+   "tekst": "lov/1995-06-23-39/§4-6"
+  },
+  {
+   "ref": "lov/1995-06-23-39/§7-1",
+   "tekst": "lov/1995-06-23-39/§7-1"
+  },
+  {
+   "ref": "forskrift/2001-08-31-949",
+   "tekst": "forskrift/2001-08-31-949"
+  },
+  {
+   "ref": "lov/2003-07-04-83/§1-4",
+   "tekst": "lov/2003-07-04-83/§1-4"
+  },
+  {
+   "ref": "lov/2003-07-04-83/§8-1",
+   "tekst": "lov/2003-07-04-83/§8-1"
+  },
+  {
+   "ref": "lov/2003-07-04-83/§13-2",
+   "tekst": "lov/2003-07-04-83/§13-2"
+  },
+  {
+   "ref": "forskrift/2013-06-14-619",
+   "tekst": "forskrift/2013-06-14-619"
+  },
+  {
+   "ref": "lov/2024-12-13-76/§1-4",
+   "tekst": "lov/2024-12-13-76/§1-4"
+  },
+  {
+   "ref": "lov/2024-12-13-76/§13-1",
+   "tekst": "lov/2024-12-13-76/§13-1"
+  },
+  {
+   "ref": "forskrift/2024-12-20-3413",
+   "tekst": "forskrift/2024-12-20-3413"
+  }
+ ],
+ "kunngjort": "2002-03-22",
+ "siste_rettelse": "2024-01-04 (departementstilhørighet)",
+ "korttittel": "Forskrift om registrering av teleutstyr mv.",
+ "tittel": "Forskrift om registrering og krav til innførsel og omsetning av radio-, teleterminal- og nettutstyr",
+ "annet": "Hjemmel: Fastsatt av Post- og teletilsynet 15. mars 2002 med hjemmel i lov av 23. juni 1995 nr. 39 om telekommunikasjon (teleloven) § 4-6 og § 7-1, jf. kgl.res. av 31. august 2001 nr. 949 del I punkt 2.\nTilføyd hjemmel: Delegering 14. juni 2013 nr. 619. Lov 13. desember 2024 nr. 76 om elektronisk kommunikasjon (ekomloven) § 1-4 og § 13-1 jf delegeringsvedtak 20. desember 2024 nr. 3413.\nEndret ved forskrifter 6 sep 2007 nr. 1027, 15 april 2016 nr. 378, 15 april 2016 nr. 379, 15 april 2016 nr. 377, 29 sep 2016 nr. 1161, 3 mai 2019 nr. 560 (departementsendring), 20 des 2024 nr. 3423 (i kraft 1 jan 2025).\nRettelser: 05.06.2014 (hjemmel), 04.01.2024 (departementstilhørighet).",
+ "refid": "forskrift/2002-03-15-276",
+ "eli": "/eli/forskrift/2002/03/15/276",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2002-03-15-276",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Formål",
+   "ledd": [
+    "Formålet med forskriften er\na. å gi adgang til å innføre utstyr som ikke har utstyrstillatelse fra myndigheten,\nb. å gi adgang til å innføre utstyr som ikke tilfredsstiller gjeldende krav etter\n- forskrift 15. april 2016 nr. 377 om EØS-krav til radioutstyr,\n- forskrift 29. september 2016 nr. 1161 om EØS-krav til maritimt radioutstyr\n- forskrift 15. april 2016 nr. 378 om EØS-krav til elektromagnetisk kompatibilitet (EMC) for utstyr til elektronisk kommunikasjon,\n- forskrift 15. april 2016 nr. 379 om EØS-krav til sikkerhet for utstyr til elektronisk kommunikasjon eller\n- forskrift 21. desember 2001 nr. 1612 om tillatelse for radioutstyr i norskregistrert luftfartøy (aeromobil forskrift),\nc. å lette tilsynet med innførsel og omsetting av radio-, teleterminal- og nettutstyr og\nd. å sikre at leverandører, radioforhandlere og brukere får nødvendig informasjon."
+   ],
+   "endringer": [
+    "Endret ved forskrifter 6 sep 2007 nr. 1027, 15 april 2016 nr. 378 (i kraft 20 april 2016), 15 april 2016 nr. 379 (i kraft 20 april 2016), 15 april 2016 nr. 377 (i kraft 13 juni 2016), 29 sep 2016 nr. 1161."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Virkeområde",
+   "ledd": [
+    "Forskriften gjelder krav om registrering for leverandører og radioforhandlere og krav ved innførsel og omsetning av radio-, teleterminal- og nettutstyr."
+   ],
+   "endringer": [
+    "Endret ved forskrift 6 sep 2007 nr. 1027."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Definisjoner",
+   "ledd": [
+    "I forskriften menes med\na. elektronisk kommunikasjonsnett: system for elektronisk kommunikasjon der radioutstyr, svitsjer, annet koplings- og dirigeringsutstyr, tilhørende utstyr eller funksjoner inngår.\nb. radioutstyr: produkt, eller deler av produkt som tilsiktet utstråler eller mottar elektromagnetiske bølger overført i fritt rom med unntak av utstyr som bare mottar analoge kringkastingsprogram.\nc. teleterminalutstyr: produkt eller deler av produkt som kan nyttes til elektronisk kommunikasjon og som er beregnet for direkte eller indirekte tilknytning til grensesnitt i elektronisk kommunikasjonsnett.\nd. nettutstyr: produkt eller deler av produkt som kan nyttes til elektronisk kommunikasjon og som inngår som en integrert del av elektronisk kommunikasjonsnett.\ne. leverandør: den som driver virksomhet for å innføre eller produsere radio-, teleterminal- og nettutstyr for å omsette eller på annen måte overlate det til andre.\nf. radioforhandler: den som driver virksomhet for å omsette eller på annen måte overlate til andre radioutstyr som krever tillatelse til bruk av frekvenser."
+   ],
+   "endringer": [
+    "Endret ved forskrift 6 sep 2007 nr. 1027."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Registreringsplikt for leverandør og radioforhandler",
+   "ledd": [
+    "Leverandør og radioforhandler skal registrere seg hos Nasjonal kommunikasjonsmyndighet. Leverandør behøver ikke å registrere seg som radioforhandler.",
+    "Registreringen skal inneholde opplysninger om virksomhetens navn, adresse, e-postadresse, telefonnummer, foretaksnummer, kontaktperson og hvilke kategorier utstyr virksomheten skal innføre og omsette. Opplysningene gis på fastsatt skjema.",
+    "Endringer i de opplyste forhold og opphør av virksomheten skal straks meldes til Nasjonal kommunikasjonsmyndighet."
+   ],
+   "endringer": [
+    "Endret ved forskrifter 6 sep 2007 nr. 1027, 20 des 2024 nr. 3423 (i kraft 1 jan 2025)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 4a",
+   "tittel": "Unntak fra registreringsplikt for utstyr som ikke skal omsettes",
+   "ledd": [
+    "Det kreves ikke registrering for å innføre utstyr som har tillatelse fra myndigheten eller tilfredsstiller gjeldende krav etter forskrift 15. april 2016 nr. 377 om EØS-krav til radioutstyr, forskrift om maritimt radioutstyr, forskrift 15. april 2016 nr. 378 om EØS-krav til elektromagnetisk kompatibilitet (EMC) for utstyr til elektronisk kommunikasjon, forskrift 15. april 2016 nr. 379 om EØS-krav til sikkerhet for utstyr til elektronisk kommunikasjon eller aeromobil forskrift, dersom det ikke omsettes eller overlates til andre."
+   ],
+   "endringer": [
+    "Tilføyd ved forskrift 6 sep 2007 nr. 1027, endret ved forskrifter 15 april 2016 nr. 378 (i kraft 20 april 2016), 15 april 2016 nr. 379 (i kraft 20 april 2016), 15 april 2016 nr. 377 (i kraft 13 juni 2016)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 5",
+   "tittel": "Rettigheter og krav til leverandør",
+   "ledd": [
+    "Leverandør kan innføre radio-, teleterminal- og nettutstyr selv om utstyret ikke tilfredsstiller alle gjeldende krav.",
+    "Før leverandør omsetter eller på annen måte overlater til andre radio-, teleterminal- og nettutstyr, skal utstyret ha tillatelse fra myndigheten eller tilfredsstille gjeldende krav etter forskrift 15. april 2016 nr. 377 om EØS-krav til radioutstyr, forskrift om maritimt radioutstyr, forskrift 15. april 2016 nr. 378 om EØS-krav til elektromagnetisk kompatibilitet (EMC) for utstyr til elektronisk kommunikasjon, forskrift 15. april 2016 nr. 379 om EØS-krav til sikkerhet for utstyr til elektronisk kommunikasjon eller aeromobil forskrift.",
+    "Leverandør som omsetter eller på annen måte overlater radioutstyr til andre skal ha kunnskap om de regler som gjelder for radioutstyr som omsettes, kjenne utstyrets virkemåte og gi veiledning om dette. For å demonstrere radioutstyr skal leverandør ha tillatelse til bruk av frekvenser og operatørsertifikat dersom det kreves.",
+    "Før leverandør omsetter eller på annen måte overlater til andre radioutstyr som skal ha tillatelse til bruk av frekvenser, skal leverandøren gi brukerveiledning og informere om tillatt frekvensbruk og nødvendige sertifikater.",
+    "Leverandør kan uten hensyn til kravene i annet ledd overlate til statlig organ utstyr som bare kan brukes for å ivareta rikets eller annen offentlig sikkerhet, bare brukes av Forsvaret eller bare brukes for statens tiltak på det strafferettslige området."
+   ],
+   "endringer": [
+    "Endret ved forskrifter 6 sep 2007 nr. 1027, 15 april 2016 nr. 378 (i kraft 20 april 2016), 15 april 2016 nr. 379 (i kraft 20 april 2016), 15 april 2016 nr. 377 (i kraft 13 juni 2016)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 6",
+   "tittel": "Krav til radioforhandlere",
+   "ledd": [
+    "Før radioforhandler omsetter eller på annen måte overlater radio-, teleterminal- og nettutstyr til andre, skal utstyret ha tillatelse fra myndigheten eller tilfredsstille gjeldende krav etter forskrift 15. april 2016 nr. 377 om EØS-krav til radioutstyr, forskrift om maritimt radioutstyr, forskrift 15. april 2016 nr. 378 om EØS-krav til elektromagnetisk kompatibilitet (EMC) for utstyr til elektronisk kommunikasjon, forskrift 15. april 2016 nr. 379 om EØS-krav til sikkerhet for utstyr til elektronisk kommunikasjon eller aeromobil forskrift.",
+    "Radioforhandler skal ha kunnskap om de regler som gjelder for radioutstyr som omsettes, kjenne utstyrets virkemåte og gi veiledning om dette. For å demonstrere radioutstyr, skal radioforhandler ha tillatelse til bruk av frekvenser og operatørsertifikat dersom det kreves.",
+    "Før radioforhandler overlater til andre radioutstyr som skal ha tillatelse til bruk av frekvenser, skal leverandøren gi brukerveiledning og informere om tillatt frekvensbruk og nødvendige sertifikater.",
+    "Radioforhandler kan uten hensyn til kravene i første ledd overlate til statlig organ radioutstyr som bare kan brukes for å ivareta rikets eller annen offentlig sikkerhet, bare brukes av Forsvaret eller bare brukes for statens tiltak på det strafferettslige området."
+   ],
+   "endringer": [
+    "Endret ved forskrifter 6 sep 2007 nr. 1027, 15 april 2016 nr. 378 (i kraft 20 april 2016), 15 april 2016 nr. 379 (i kraft 20 april 2016), 15 april 2016 nr. 377 (i kraft 13 juni 2016)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-8",
+   "nummer": "§ 7",
+   "tittel": "Tilsyn",
+   "ledd": [
+    "Nasjonal kommunikasjonsmyndighet fører tilsyn med at bestemmelsene i forskriften eller vedtak fastsatt med hjemmel i forskriften blir oppfylt.",
+    "Som ledd i tilsynet kan Nasjonal kommunikasjonsmyndighet eller den som bistår Nasjonal kommunikasjonsmyndighet, gjennomføre kontroll hos leverandør, radioforhandler og bruker. Det kan gjennomføres stikkprøver, utføres målinger eller annen kontroll av utstyret. Dersom det er nødvendig, kan utstyret tas med for nærmere kontroll.",
+    "Den som blir kontrollert plikter å gi tilsynet uhindret adgang til virksomheten, lokaler, utstyr, oppgaver over omsatt utstyr o.l. og medvirke til gjennomføringen av kontrollen, jf. lov 13. desember 2024 nr. 76 om elektronisk kommunikasjon (ekomloven) kapittel 15.",
+    "Nødvendige opplysninger og dokumentasjon skal utleveres, jf. ekomloven § 15-3."
+   ],
+   "endringer": [
+    "Endret ved forskrifter 6 sep 2007 nr. 1027, 20 des 2024 nr. 3423 (i kraft 1 jan 2025)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-9",
+   "nummer": "§ 8",
+   "tittel": "Gebyr",
+   "ledd": [
+    "Registrert leverandør og radioforhandler betaler årlig gebyr etter gjeldende forskrift om gebyr til Nasjonal kommunikasjonsmyndighet."
+   ],
+   "endringer": [
+    "Endret ved forskrift 20 des 2024 nr. 3423 (i kraft 1 jan 2025)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-10",
+   "nummer": "§ 9",
+   "tittel": "Sanksjoner",
+   "ledd": [
+    "Ved brudd på pliktene etter forskriften kan Nasjonal Kommunikasjonsmyndighet gjennomføre sanksjoner etter ekomloven kapittel 15 og fastsette tvangsmulkt etter ekomloven § 15-11."
+   ],
+   "endringer": [
+    "Endret ved forskrifter 6 sep 2007 nr. 1027, 20 des 2024 nr. 3423 (i kraft 1 jan 2025)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-11",
+   "nummer": "§ 10",
+   "tittel": "Straff, beslag og inndragning",
+   "ledd": [
+    "Brudd på forskriften er straffbart etter ekomloven § 15-14 og kan medføre beslag av utstyr etter straffeprosessloven og inndragning etter straffeloven."
+   ],
+   "endringer": [
+    "Endret ved forskrifter 6 sep 2007 nr. 1027, 20 des 2024 nr. 3423 (i kraft 1 jan 2025)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-12",
+   "nummer": "§ 11",
+   "tittel": "Ikrafttreden",
+   "ledd": [
+    "Forskriften trer i kraft 2. april 2002.",
+    "Fra samme dato oppheves forskrift av 8. mars 1996 nr. 264 om markedsføring, distribusjon og kontroll av tele- og radioutstyr, samt registrering av teleutstyrsleverandør og radioforhandler."
+   ]
+  }
+ ]
+}

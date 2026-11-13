@@ -1,0 +1,112 @@
+{
+ "skjema": "1.0",
+ "type": "lov",
+ "datokode": "LOV-1939-02-17-2",
+ "dokumentid": "NL/lov/1939-02-17-2",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "ikraft": "1939-03-23",
+ "siste_endring_ikraft": "1957-07-06",
+ "sist_endret_ved": [
+  {
+   "ref": "lov/1957-07-06-8",
+   "tekst": "lov/1957-07-06-8"
+  }
+ ],
+ "rettsomrade": [
+  "Bank, finans og regnskapsrett > Banker",
+  "Bank, finans og regnskapsrett > Betalingsformidling"
+ ],
+ "siste_rettelse": "2021-09-10 (faglige fotnoter fjernet)",
+ "korttittel": "Deponeringslova – depl",
+ "tittel": "Lov om deponering i gjeldshøve [deponeringslova]",
+ "refid": "lov/1939-02-17-2",
+ "eli": "/eli/lov/1939/02/17/02",
+ "url": "https://lovdata.no/dokument/NL/lov/1939-02-17-2",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": null,
+   "ledd": [
+    "Har nokon ei gjeld i pengar eller verdpapir, som han ikkje får oppfylla av ein grunn som ligg hjå kravshavaren, kann han fri seg med å deponera i Noregs bank i samhøve med reglane i denne lov.",
+    "Same retten har skyldnaren om kravshavaren ikkje gjer det skyldnaren kann setja til vilkår for å betala, eller det er grunn til å vera i tvil om kven som er kravshavar og skyldnaren ikkje kann klandrast for denne uvissa."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": null,
+   "ledd": [
+    "Er det pengar skyldnaren skal svara, deponerar han på den måten at han set pengane inn på folio i banken.",
+    "Er ansvaret i verdpapir, deponerar han med å gjeva slike papir utan forsegling eller lås til banken til gøymings. Rente, avdrag og andre summar som forfell på slike papir, tek banken inn og fører på folio som deponera pengar etter denne lov. Gøymingsgebyret som banken fastset, tek han av dei pengane som soleis kjem inn, og elles skal det betalast av den som gjer krav på det som er deponera. Departementet kann gjeva reglar om kva banken elles skal gjera med verdpapira."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": null,
+   "ledd": [
+    "Når skyldnaren deponerar, skal han gjeva opp deponeringsgrunnen, kva gjeld det er og om råd er namnet på kravshavaren.",
+    "Blir det som er deponera, utreidt til urette mann, for di skyldnaren gav range eller ufullstendige opplysningar, blir han ikkje fri ansvaret sitt. Men kravshavaren kann ikkje krevja meir enn det tapet forsøminga valda.",
+    "Skyldnaren skal varsla kravshavaren om at han har deponera, so sant det er råd. Gjer han ikkje det, skal han svara tap dette fører med seg."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": null,
+   "ledd": [
+    "Det som er deponera, skal reidast ut til kravshavaren, når han provar retten sin.",
+    "Gjer fleire krav på det som er deponera, skal det reidast ut når det er endeleg avgjort i dom eller på annan måte kven som har retten."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": null,
+   "ledd": [
+    "Skyldnaren kann ikkje krevja att det som er deponera, utan i det tilfellet som er nemnt i § 6, andre leden.",
+    "Når den som deponerar, tek atterhald om større rett til å krevja attende, går tilfellet ikkje inn under denne lov."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": null,
+   "ledd": [
+    "Retten kravshavaren har til dei verde som er deponera, fell bort tjuge år etter deponeringsdagen.",
+    "Innan eitt år etter kann den som deponera, krevja dei att.",
+    "Blir det ikkje reist noko slikt krav, går dei inn i statskassa."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 7",
+   "tittel": null,
+   "ledd": [
+    "Serlege reglar i andre lover om høve for skyldnaren til å fri seg med deponering, held ved å gjelda."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-8",
+   "nummer": "§ 8",
+   "tittel": null,
+   "ledd": [
+    "Føresegnene framanfor gjeld på tilsvarande måte når det vert betala utbyte, likvidasjonspart eller anna slikt i selskapshøve."
+   ],
+   "endringer": [
+    "Tilføyd ved lov 6 juli 1957 nr. 8."
+   ]
+  }
+ ]
+}

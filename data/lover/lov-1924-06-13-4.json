@@ -1,0 +1,59 @@
+{
+ "skjema": "1.0",
+ "type": "lov",
+ "datokode": "LOV-1924-06-13-4",
+ "dokumentid": "NL/lov/1924-06-13-4",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "ikraft": "1924-06-13",
+ "siste_endring_ikraft": "2023-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "lov/2022-03-18-12",
+   "tekst": "lov/2022-03-18-12 fra 2023-01-01"
+  }
+ ],
+ "rettsomrade": [
+  "Bank, finans og regnskapsrett > Obligasjoner",
+  "Kultur, idrett og underholdning > Lotteri. Pengespill. Innsamlinger"
+ ],
+ "siste_rettelse": "2021-09-28 (faglige fotnoter fjernet, struktur)",
+ "korttittel": "Lov om statens premieobligasjonslån",
+ "tittel": "Lov om adgang for staten til utferdigelse av premieobligasjonslån",
+ "refid": "lov/1924-06-13-4",
+ "eli": "/eli/lov/1924/06/13/04",
+ "url": "https://lovdata.no/dokument/NL/lov/1924-06-13-4",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": null,
+   "ledd": [
+    "Pengespilloven skal ikke være til hinder for at lån som opptas for statskassens regning, emitteres som premieobligasjonslån ved utstedelse og utbydelse til salg av ihendehaverobligasjoner med premier."
+   ],
+   "endringer": [
+    "Endret ved lover 20 juni 2003 nr. 45 (ikr. 1 juli 2003 iflg. res. 20 juni 2003 nr. 712), 18 mars 2022 nr. 12 (i kraft 1 jan 2023 iflg. res. 18 mars 2022 nr. 414)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": null,
+   "ledd": [
+    "Fordring på utbetaling av gevinst foreldes i tre år fra forfallsdagen. Fordring på renter foreldes i tre år fra en rentetermins forfallsdag. Fordring på en uttrukken obligasjons kapitalbeløp foreldes i ti år fra obligasjonens forfallsdag."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": null,
+   "ledd": [
+    "Denne lov trer i kraft straks."
+   ]
+  }
+ ]
+}

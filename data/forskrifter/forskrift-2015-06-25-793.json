@@ -1,0 +1,537 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2015-06-25-793",
+ "dokumentid": "SF/forskrift/2015-06-25-793",
+ "departement": [
+  "Helse- og omsorgsdepartementet"
+ ],
+ "etat": [
+  "Spesialisthelsetjenestesavdelingen, Helsrettsavdelingen"
+ ],
+ "kunngjort_i": "I 2015 hefte 8",
+ "ikraft": "2016-10-01",
+ "siste_endring_ikraft": "2026-08-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2026-07-03-1510",
+   "tekst": "forskrift/2026-07-03-1510 fra 2026-08-01"
+  }
+ ],
+ "endrer": "forskrift/2008-07-04-788\nforskrift/2000-12-01-1217\nforskrift/1997-04-18-334",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1999-07-02-63/§2-6",
+   "tekst": "lov/1999-07-02-63/§2-6"
+  },
+  {
+   "ref": "lov/1999-07-02-61/§3-6",
+   "tekst": "lov/1999-07-02-61/§3-6"
+  },
+  {
+   "ref": "lov/1999-07-02-61/§5-5",
+   "tekst": "lov/1999-07-02-61/§5-5"
+  },
+  {
+   "ref": "lov/1997-02-28-19/§5-3",
+   "tekst": "lov/1997-02-28-19/§5-3"
+  }
+ ],
+ "kunngjort": "2015-07-02 15:10",
+ "siste_rettelse": "2020-12-28 (tegnsetting i lister tilpasset universell utforming).",
+ "korttittel": "Pasientreiseforskriften",
+ "tittel": "Forskrift om pasienters, ledsageres og pårørendes rett til dekning av utgifter ved reise til helsetjenester (pasientreiseforskriften)",
+ "annet": "Hjemmel: Fastsatt av Helse- og omsorgsdepartementet 25. juni 2015 med hjemmel i lov 2. juli 1999 nr. 63 om pasient- og brukerrettigheter (pasient- og brukerrettighetsloven) § 2-6, lov 2. juli 1999 nr. 61 om spesialisthelsetjenesten m.m. (spesialisthelsetjenesteloven) § 3-6 og § 5-5 og lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven) § 5-3 fjerde ledd.\nEndret ved forskrifter 12 sep 2016 nr. 1056, 16 sep 2016 nr. 1070, 19 des 2016 nr. 1749, 25 aug 2017 nr. 1286, 19 des 2017 nr. 2255, 15 des 2018 nr. 2035, 18 des 2018 nr. 2089, 9 des 2019 nr. 1706 (i kraft 1 jan 2020), 17 des 2020 nr. 2959 (i kraft 1 jan 2021), 16 des 2021 nr. 3664 (i kraft 1 jan 2022), 15 des 2022 nr. 2233 (i kraft 1 jan 2023), 19 des 2023 nr. 2234 (i kraft 1 jan 2024), 16 des 2024 nr. 3144 (i kraft 1 jan 2025), 22 jan 2025 nr. 96 (i kraft 3 mars 2025), 25 april 2025 nr. 685, 30 april 2025 nr. 772 (i kraft 1 juni 2025), 15 des 2025 nr. 2590 (i kraft 1 jan 2026), 3 juli 2026 nr. 1510 (i kraft 1 aug 2026).\nEndres ved forskrift 9 juni 2026 nr. 1053 (i kraft 1 jan 2027).\nRettelser: 28.12.2020 (tegnsetting i lister tilpasset universell utforming).",
+ "refid": "forskrift/2015-06-25-793",
+ "eli": "/eli/forskrift/2015/06/25/793",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2015-06-25-793",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Pasientens rett til reisestønad mv. og krav om forsvarlig transport",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrift 22 jan 2025 nr. 96 (i kraft 3 mars 2025)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "I forskriften her menes med\na. reisestønad: stønad til dekning av nødvendige utgifter til reise\nb. bosted: pasientens folkeregistrerte adresse. Som bosted regnes også nødvendig midlertidig oppholdssted på grunn av arbeid, studier, militærtjeneste og opphold i institusjon.\nc. bostedskommune: kommunen der pasienten har folkeregistrert adresse.\nd. bostedsregion: region som nevnt i spesialisthelsetjenesteloven § 5-1.\ne. nære pårørende: ektefelle, samboer, barn, barnebarn, foreldre, besteforeldre, svigerbarn, svigerforeldre, søsken og personer som tilhører pasientens husstand."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 12 sep 2016 nr. 1056 (i kraft 1 okt 2016), 22 jan 2025 nr. 96 (i kraft 3 mars 2025)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 1a",
+     "tittel": "Reise til og fra spesialisthelsetjenester",
+     "ledd": [
+      "En pasient har rett til reisestønad ved reise til og fra spesialisthelsetjenester som er finansiert av et regionalt helseforetak.",
+      "Retten til reisestønad etter første ledd gjelder alle spesialisthelsetjenester som\na. gis innenfor pasientens bostedsregion, eller\nb. som er det geografisk nærmeste stedet der helsetjenesten kan gis.",
+      "En pasient har, uavhengig av avstand, rett til reisestønad ved reise til og fra følgende tjenester utenfor bostedsregionen:\na. legespesialister, psykologspesialister, laboratorier og røntgeninstitutter som har avtale med det regionale helseforetaket i pasientens bostedsregion om å tilby helsehjelp, eller\nb. en godkjent nasjonal eller flerregional behandlingstjeneste eller en nasjonal kompetansetjeneste for det tilbudet som oppsøkes, jf. forskrift 17. desember 2010 nr. 1706 om krav til spesialisthelsetjenester, godkjenning av nasjonale tjenester i spesialisthelsetjenesten og bruk av betegnelsen universitetssykehus.",
+      "En pasient har rett til reisestønad ved reise til og fra spesialisthelsetjenester utenfor bostedsregionen som gis av virksomhet som er omfattet av retten til valg av behandlingssted etter pasient- og brukerrettighetsloven § 2-4. Pasienten har likevel bare rett til reisestønad til nærmeste private radiologiske virksomhet."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 22 jan 2025 nr. 96 (i kraft 3 mars 2025), endret ved forskrift 25 april 2025 nr. 685."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 2",
+     "tittel": "Reise til og fra helsetjenester etter folketrygdloven kapittel 5",
+     "ledd": [
+      "En pasient har rett til reisestønad ved reise til og fra helsetjenester som gis av en fastlege\na. i pasientens bostedskommune\nb. som er geografisk nærmest pasientens oppholdssted\nc. i en kommune som samarbeider med bostedskommunen om å tilby fastlege eller\nd. når legen ellers er nærmeste tilgjengelige fastlege der pasienten kan stå på liste.",
+      "En pasient har rett til reisestønad ved reise til og fra andre helsetjenester som gis i pasientens bostedskommune, eller som er geografisk nærmest pasientens bosted. Stønad ytes bare hvis helsetjenesten gis av kommunalt ansatt helsepersonell som nevnt i folketrygdloven kapittel 5 eller helsepersonell som får stønad etter folketrygdloven kapittel 5.",
+      "Det ytes ikke reisestønad ved reise til helsetjenester som det gis bidrag til etter folketrygdloven § 5-22."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 12 sep 2016 nr. 1056 (i kraft 1 okt 2016), 22 jan 2025 nr. 96 (i kraft 3 mars 2025)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 3",
+     "tittel": "Reise til og fra familievernkontor, kommunale tilbud mv.",
+     "ledd": [
+      "En pasient har rett til reisestønad ved reise til og fra følgende tjenester som gis i pasientens bostedskommune, i samarbeidende kommune eller som er geografisk nærmest pasientens bosted:\na. hjelp ved familievernkontor og helsestasjon\nb. sykehjem, begrenset til innleggelse og utskriving\nc. kommunalt tilbud om døgnopphold for helse- og omsorgstjenester til pasienter og brukere med behov for øyeblikkelig hjelp, jf. helse- og omsorgstjenesteloven § 3-5 tredje ledd\nd. kommunalt tilbud om dialyse.",
+      "Ved reise til familievernkontor der det er nødvendig at parter som bor ulike steder i landet møtes samme sted, ytes reisestønad ved reise til og fra det familiekontoret som er nærmest for en av partene, hvis familievernkontorets faglige leder bekrefter at dette er nødvendig av medisinske eller behandlingsmessige grunner."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 12 sep 2016 nr. 1056 (i kraft 1 okt 2016), 22 jan 2025 nr. 96 (i kraft 3 mars 2025)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-5",
+     "nummer": "§ 4",
+     "tittel": "Reise til og fra samisktalende lege",
+     "ledd": [
+      "En samisktalende pasient som er bosatt i forvaltningsområdet for samiske språk og som ønsker prioritet på liste hos samisktalende lege, har rett til reisestønad ved reise til og fra samisktalende lege."
+     ],
+     "endringer": [
+      "Endret ved forskrift 22 jan 2025 nr. 96 (i kraft 3 mars 2025)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-6",
+     "nummer": "§ 5",
+     "tittel": "Reise til helsetjenester som ytes på annet sted",
+     "ledd": [
+      "En pasient som reiser til helsetjenester som nevnt i § 1a, § 2 og § 3 på et annet sted enn det som følger av bestemmelsene der, har rett til reisestønad beregnet som om reisen var foretatt til det geografisk nærmeste stedet der helsetjenesten kan gis."
+     ],
+     "endringer": [
+      "Endret ved forskrift 22 jan 2025 nr. 96 (i kraft 3 mars 2025)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-7",
+     "nummer": "§ 6",
+     "tittel": "Reise ved behov for kontinuitet i behandlingen",
+     "ledd": [
+      "En pasient som flytter, beholder sine rettigheter etter § 1a, § 2 og § 3 hvis det av behandlingsmessige grunner eller kontrollhensyn er nødvendig å fortsette hos samme behandler i en overgangsperiode. Det samme gjelder hvis tjenestetilbudet flyttes."
+     ],
+     "endringer": [
+      "Endret ved forskrift 22 jan 2025 nr. 96 (i kraft 3 mars 2025)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-8",
+     "nummer": "§ 7",
+     "tittel": "Krav om medisinske eller behandlingsmessige grunner – unntak for reise til visse tjenester",
+     "ledd": [
+      "En pasient har rett til reisestønad ved reise:\na. for å motta helsetjenester etter § 1a, § 2 og § 3 som er nødvendige av medisinske eller behandlingsmessige grunner\nb. for å delta i forskning som kommer til erstatning for eller i tillegg til ordinær helsehjelp i godkjente kliniske studier som gjennomføres i et helseforetak og\nc. ved reise til og fra familievernkontor og sykehjem etter § 3, selv om hjelpen eller innleggelsen ikke er nødvendig av medisinske eller behandlingsmessige grunner.",
+      "Retten til reisestønad gjelder ikke ved reise til og fra\na. undersøkelser og behandlinger som er nødvendige av administrative, organisatoriske og lignende grunner,\nb. forebyggende helsearbeid, med unntak av helsestasjoner,\nc. henting av medisin, eller\nd. evalueringsprosjekter."
+     ],
+     "endringer": [
+      "Endret ved forskrift 22 jan 2025 nr. 96 (i kraft 3 mars 2025)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-9",
+     "nummer": "§ 8",
+     "tittel": "Unntak for korte reiser",
+     "ledd": [
+      "En pasient har ikke rett til reisestønad når beregnet reisevei etter § 20 er mindre enn 10 km eller rutegående transportmiddel til lokal minstetakst eller enhetstakst kan benyttes.",
+      "Unntaket i første ledd gjelder likevel ikke hvis reisen gjelder øyeblikkelig hjelp, eller helsepersonell som nevnt i § 22 første ledd bokstav b har attestert at pasientens helsetilstand gjør det nødvendig å bruke drosje eller bil."
+     ],
+     "endringer": [
+      "Endret ved forskrift 22 jan 2025 nr. 96 (i kraft 3 mars 2025)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-10",
+     "nummer": "§ 9",
+     "tittel": "Unntak når tilbudt transport ikke benyttes",
+     "ledd": [
+      "En pasient har ikke rett til reisestønad hvis pasienten\na. får tilbud om transport fra et helseforetak, jf. § 16, eller\nb. i et tidligere vedtak om reisestønad fra et helseforetak har fått opplyst at gratis offentlig transport skal benyttes på den aktuelle strekningen."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 12 sep 2016 nr. 1056 (i kraft 1 okt 2016), 22 jan 2025 nr. 96 (i kraft 3 mars 2025)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-11",
+     "nummer": "§ 10",
+     "tittel": "Reise fra utlandet",
+     "ledd": [
+      "En pasient har kun rett til reisestønad etter forskriften her ved reise som foretas i Norge, til og fra helsetjenester som gis i Norge."
+     ],
+     "endringer": [
+      "Endret ved forskrift 22 jan 2025 nr. 96 (i kraft 3 mars 2025)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-12",
+     "nummer": "§ 11",
+     "tittel": "Reiseutgifter som dekkes etter annet regelverk",
+     "ledd": [
+      "En pasient har ikke rett til reisestønad ved reise som dekkes etter annet regelverk enn pasient- og brukerrettighetsloven § 2-6 og forskriften her."
+     ],
+     "endringer": [
+      "Endret ved forskrift 22 jan 2025 nr. 96 (i kraft 3 mars 2025)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-13",
+     "nummer": "§ 12",
+     "tittel": "Rett til kost- og overnattingsgodtgjørelse",
+     "ledd": [
+      "En pasient som har rett til reisestønad, har også rett til kostgodtgjørelse når pasienten har vært borte fra hjemmet mer enn 12 timer. Kostgodtgjørelsen er kr 284 per døgn. Varer fraværet mer enn ett døgn, gir 6 timer, eller mer, inn i det nye døgnet rett til godtgjørelse som et helt døgn.",
+      "En pasient som har rett til reisestønad, har også rett til overnattingsgodtgjørelse for nødvendig overnatting under reisen på inntil kr 734 per døgn.",
+      "Det ytes ikke overnattingsgodtgjørelse for privat overnatting.",
+      "En pasient har ikke rett til godtgjørelse for utgifter til opphold, kost og annet som skyldes at oppholdet forlenges av andre årsaker enn behovet for en helsetjeneste.",
+      "Velger en pasient å overnatte i nærheten av behandlingsstedet i stedet for å reise hjem mellom flere behandlinger, dekkes utgiftene til kost og overnatting fullt ut dersom dette totalt vil gi lavere utgifter for det regionale helseforetaket enn den samlede stønaden til dekning av utgifter ved reise mellom behandlingene.",
+      "Utgifter til overnatting som er nødvendig av behandlingsmessige grunner, dekkes ikke etter forskriften her."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 12 sep 2016 nr. 1056 (i kraft 1 okt 2016), 19 des 2016 nr. 1749 (i kraft 1 jan 2017), 19 des 2017 nr. 2255 (i kraft 1 jan 2018), 15 des 2018 nr. 2035 (i kraft 1 jan 2019), 9 des 2019 nr. 1706 (i kraft 1 jan 2020), 17 des 2020 nr. 2959 (i kraft 1 jan 2021), 16 des 2021 nr. 3664 (i kraft 1 jan 2022), 15 des 2022 nr. 2233 (i kraft 1 jan 2023), 19 des 2023 nr. 2234 (i kraft 1 jan 2024), 16 des 2024 nr. 3144 (i kraft 1 jan 2025), 22 jan 2025 nr. 96 (i kraft 3 mars 2025), 15 des 2025 nr. 2590 (i kraft 1 jan 2026). Endres ved forskrift 9 juni 2026 nr. 1053 (i kraft 1 jan 2027)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-14",
+     "nummer": "§ 13",
+     "tittel": "Rett til reisestønad ved permisjon",
+     "ledd": [
+      "Ved livstruende sykdom har pasienten rett til reisestønad ved permisjon fra sykehusoppholdet. Det må foreligge en bekreftelse fra behandlende lege på at pasienten har en livstruende sykdom."
+     ],
+     "endringer": [
+      "Endret ved forskrift 22 jan 2025 nr. 96 (i kraft 3 mars 2025)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-15",
+     "nummer": "§ 14",
+     "tittel": "Rett til dekning av tapt arbeidsinntekt ved yrkesskade",
+     "ledd": [
+      "En pasient som er yrkesskadet, har rett til å få dekket tapt arbeidsinntekt når det dokumenteres at pasienten ellers ville vært i inntektsgivende arbeid.",
+      "Tapt arbeidsinntekt dekkes med kr 88 per time opp til kr 461 per dag ved fravær fra arbeidsplassen som skyldes en nødvendig reise til lege, sykehus og lignende. Fravær på mindre enn to timer dekkes ikke. Er pasienten arbeidstaker, beregnes tapet på grunnlag av timelønn, fraværets lengde og det beløp som ellers ville blitt trukket i lønnen.",
+      "Har pasienten annen ervervsinntekt, beregnes tapet på grunnlag av opplysninger om antatt årlig arbeidsinntekt omregnet til timefortjeneste og fraværets lengde.",
+      "Uføretrygd som pasienten mottar på grunn av skaden eller sykdommen, skal ikke trekkes fra."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 12 sep 2016 nr. 1056 (i kraft 1 okt 2016), 19 des 2016 nr. 1749 (i kraft 1 jan 2017), 19 des 2017 nr. 2255 (i kraft 1 jan 2018), 15 des 2018 nr. 2035 (i kraft 1 jan 2019), 9 des 2019 nr. 1706 (i kraft 1 jan 2020), 17 des 2020 nr. 2959 (i kraft 1 jan 2021), 16 des 2021 nr. 3664 (i kraft 1 jan 2022), 15 des 2022 nr. 2233 (i kraft 1 jan 2023), 19 des 2023 nr. 2234 (i kraft 1 jan 2024), 16 des 2024 nr. 3144 (i kraft 1 jan 2025), 22 jan 2025 nr. 96 (i kraft 3 mars 2025), 15 des 2025 nr. 2590 (i kraft 1 jan 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-16",
+     "nummer": "§ 15",
+     "tittel": "Utgifter til rengjøring og frakt av utstyr",
+     "ledd": [
+      "En pasient har rett til å få dekket nødvendige utgifter til:\na. frakt av nødvendig bagasje og utstyr\nb. ekstra rengjøring av drosje, leiet bil eller egen bil etter endt transport."
+     ],
+     "endringer": [
+      "Endret ved forskrift 22 jan 2025 nr. 96 (i kraft 3 mars 2025)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-17",
+     "nummer": "§ 16",
+     "tittel": "Transport som organiseres av helseforetaket",
+     "ledd": [
+      "Dersom helseforetaket tilbyr transport til en pasient, skal helseforetaket sørge for at transporten er forsvarlig for pasienten. Helseforetaket beslutter hvilket transportmiddel som skal benyttes og om flere pasienter skal reise sammen.",
+      "Pasientens behandler eller andre som helseforetaket har utpekt, skal vurdere om det er behov for særskilt tilrettelegging av transporten på grunn av pasientens helsetilstand, jf. § 22. Ansatte i helse- og omsorgstjenesten kan vurdere om det er behov for særskilt tilrettelegging av transporten ved reise til en institusjon som yter tverrfaglig spesialisert behandling for rusmiddelmisbruk. Den som vurderer at det er behov for tilrettelagt transport, skal informere helseforetaket om det.",
+      "Dersom det foreligger en helsefaglig vurdering av behovet for tilrettelagt transport, skal vurderingen legges til grunn for gjennomføringen av transporten.",
+      "Helseforetaket eller andre som har fått myndighet til det, kan attestere behov for organisert transport på grunn av manglende rutegående tilbud."
+     ],
+     "endringer": [
+      "Endret ved forskrift 22 jan 2025 nr. 96 (i kraft 3 mars 2025)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Reiseledsagers og nære pårørendes rett til reisestønad mv.",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrift 22 jan 2025 nr. 96 (i kraft 3 mars 2025)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 17",
+     "tittel": "Reiseledsagers rett til reisestønad mv.",
+     "ledd": [
+      "En reiseledsager har rett til reisestønad ved reise for å følge en pasient med rett til reisestønad etter kapittel 1 når\na. pasienten av medisinske eller behandlingsmessige grunner har behov for ledsager på reise, eller\nb. det er nødvendig for å hindre at pasienten rømmer eller bruker rusmidler under reisen.",
+      "Støtteperson til person som skal reise for å delta ved behandling av krav om abort for abortnemnda eller abortklagenemnda, jf. abortloven §§ 14 og 21, har rett til reisestønad og regnes som ledsager etter forskriften her.",
+      "Pasientens behandler skal bekrefte at det er behov for ledsager på reisen av medisinske eller behandlingsmessige grunner.",
+      "Utgifter til reise, kost og overnatting for ledsageren dekkes etter reglene som gjelder for pasienten. Ledsageren har likevel rett til dekning av utgifter, selv om det er mulig for ledsageren å benytte rutegående transportmiddel til lokal minstetakst eller enhetstakst, jf. § 8, og selv om avstanden fra ledsagerens oppholdssted til behandlingsstedet er mindre enn 10 kilometer.",
+      "Nødvendig reiseledsager som har en beregnet reisevei etter § 20 på mer enn 10 km og ikke kan benytte rutegående transportmiddel til lokal minstetakst eller enhetstakst, har rett til reisestønad selv om pasientens beregnede reisevei er kortere enn 10 km eller pasienten kan benytte rutegående transportmiddel til lokal minstetakst eller enhetstakst.",
+      "Reiseledsagerens samlede utgifter kan avkortes til kostnaden for den billigste forsvarlige reiseledsageren som kunne vært skaffet til reisen."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 12 sep 2016 nr. 1056 (i kraft 1 okt 2016), 22 jan 2025 nr. 96 (i kraft 3 mars 2025), 30 april 2025 nr. 772 (i kraft 1 juni 2025)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 18",
+     "tittel": "Rett til dekning av tapt arbeidsinntekt for ledsager",
+     "ledd": [
+      "En ledsager har rett til å få dekket dokumentert tapt arbeidsinntekt med kr 172 per time. Kan ikke tapt arbeidsinntekt dokumenteres, har ledsageren rett til å få dekket dokumenterte nødvendige utgifter til leid hjelp til erstatning for eget arbeid under fraværet med opptil kr 57 per time. Leid hjelp fra pasientens eller ledsagerens nære pårørende dekkes ikke.",
+      "Tapt arbeidsinntekt dekkes med inntil åtte timer per døgn.",
+      "Fravær innenfor ledsagerens vanlige arbeidstid som ikke gir trekk i lønn, dekkes ikke."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 12 sep 2016 nr. 1056 (i kraft 1 okt 2016), 19 des 2016 nr. 1749 (i kraft 1 jan 2017), 19 des 2017 nr. 2255 (i kraft 1 jan 2018), 15 des 2018 nr. 2035 (i kraft 1 jan 2019), 9 des 2019 nr. 1706 (i kraft 1 jan 2020), 17 des 2020 nr. 2959 (i kraft 1 jan 2021), 16 des 2021 nr. 3664 (i kraft 1 jan 2022), 15 des 2022 nr. 2233 (i kraft 1 jan 2023), 19 des 2023 nr. 2234 (i kraft 1 jan 2024), 16 des 2024 nr. 3144 (i kraft 1 jan 2025), 22 jan 2025 nr. 96 (i kraft 3 mars 2025), 15 des 2025 nr. 2590 (i kraft 1 jan 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 18a",
+     "tittel": "Rett til dekning av utgifter for særskilt kvalifisert ledsager, herunder politi",
+     "ledd": [
+      "Dersom det er nødvendig med særskilt kvalifisert ledsager, dekkes reiseutgiftene og tapt arbeidsinntekt etter ledsagerens lønnsregulativ, tariffavtale eller takster fastsatt i forskrift. Særskilte kvalifikasjoner kan blant annet være medisinsk kompetanse, politimyndighet eller tolkekompetanse.",
+      "Tapt arbeidsinntekt for politi som bistår som særskilt kvalifisert ledsager dekkes i alle tilfeller med 496 kr per time.",
+      "Tapt arbeidsinntekt for en særskilt kvalifisert ledsager utbetales til arbeidsgiveren hvis ledsageren ikke trekkes i lønn, jf. § 27.",
+      "Ansatte i kommunal hjemmetjeneste har ikke krav på dekning av tapt arbeidsinntekt."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 22 jan 2025 nr. 96 (i kraft 3 mars 2025), endret ved forskrift 15 des 2025 nr. 2590 (i kraft 1 jan 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 19",
+     "tittel": "Rett til reisestønad for nære pårørende",
+     "ledd": [
+      "Nære pårørende til en pasient, jf. § 1 bokstav e, har rett til reisestønad ved reise til og fra\na. psykiatrisk poliklinikk for barn og ungdom og familievernkontor hvis poliklinikkens ansvarlige leder eller familievernkontorets faglige leder attesterer at det er nødvendig at den pårørende kommer,\nb. et kompetansesenter for personer med sjeldne og lite kjente diagnoser og funksjonshemninger,\nc. kurs eller opplæring i regi av helseinstitusjon, forutsatt at kurset eller opplæringen har et medisinsk eller behandlingsmessig innhold og at kursdeltagelsen er nødvendig for fremtidig oppfølging av pasienten.",
+      "Barn under 18 år har rett til reisestønad ved reise til og fra\na. pasient i helseinstitusjon med livstruende sykdom som har omsorg for barnet og som ikke makter å reise hjem, hvis behandlende lege har gitt en uttalelse om at behandlingen vil vare i minst to uker,\nb. helsepersonell som skal ivareta barnets behov for informasjon og nødvendig oppfølging etter helsepersonelloven § 10a eller § 10b.",
+      "Reisen dekkes etter samme regler som for pasienter.",
+      "Barn som har rett til reisestønad etter andre ledd bokstav a, får dekket én reise per uke."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 12 sep 2016 nr. 1056 (i kraft 1 okt 2016), 18 des 2018 nr. 2089 (i kraft 1 jan 2019), 22 jan 2025 nr. 96 (i kraft 3 mars 2025)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Beregning og utbetaling av reisestønad mv.",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrift 22 jan 2025 nr. 96 (i kraft 3 mars 2025)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 20",
+     "tittel": "Beregning av reisevei",
+     "ledd": [
+      "Reisevei beregnes fra pasientens bosted til et behandlingssted som gir rett til reisestønad etter §§ 1a til 4. Etter at helsehjelpen er gitt, beregnes reisevei fra behandlingsstedet tilbake til pasientens bosted.",
+      "Når pasienten reiser til eller fra et annet oppholdssted enn bostedet, beregnes reisevei fra oppholdsstedet til og fra det faktiske behandlingsstedet, likevel begrenset til det reiseveien ville ha vært dersom pasienten hadde reist til eller fra bostedet, jf. første ledd.",
+      "Dersom behovet for helsehjelp var uventet og oppsto på stedet, beregnes reisevei fra oppholdsstedet til det nærmeste stedet der helsehjelpen kan gis. Etter at helsehjelpen er gitt, beregnes reisevei fra behandlingsstedet tilbake til oppholdsstedet.",
+      "Dersom pasienten har bosted i riket og reise til planlagt behandling har startet i utlandet, beregnes nødvendig reisevei fra ankomststed i riket til behandlingsstedet, jf. § 10, likevel begrenset til det reiseveien ville ha vært dersom pasienten hadde reist fra bostedet. Etter at helsehjelpen er gitt, beregnes nødvendig reise fra behandlingsstedet til pasientens bosted.",
+      "Etter en yrkesskade dekkes nødvendige utgifter til hjemtransport, jf. folketrygdloven § 5-25.",
+      "Pasienter bosatt på Svalbard har rett til å få dekket hjemreisen fra sykehuset på fastlandet ved utskrivning, tilbake til Svalbard eller til bosted på fastlandet."
+     ],
+     "endringer": [
+      "Endret ved forskrift 22 jan 2025 nr. 96 (i kraft 3 mars 2025)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 21",
+     "tittel": "Beregning av reiseutgifter",
+     "ledd": [
+      "Er reiseveien kortere enn 300 kilometer hver vei, utbetales reisestønad med kr 3,20 per kilometer (standardsats).",
+      "Kan pasienten dokumentere at det ble benyttet båt på strekningen, dekkes utgifter til passasjerbillett, i stedet for standardsats per kilometer etter første ledd.",
+      "Hvis pasienten kan dokumentere at det var nødvendig å benytte privat båt, snøscooter eller ATV, dekkes reiseutgiftene etter satsene i Statens reiseregulativ.",
+      "Reiser pasienten lenger enn 300 kilometer hver vei, dekkes reiseutgiftene med taksten for den billigste reisemåten med rutegående transportmiddel. Dersom pasienten oppfyller vilkårene for å få dekket nødvendige dokumenterte utgifter etter § 22, dekkes reiseutgiftene likevel med standardsats per kilometer etter første ledd. Ved beregningen av om reisestrekningen er lenger enn 300 kilometer, omfattes ikke deler av reisen som er bestilt eller rekvirert av helseforetaket.",
+      "Når pasienten ledsages på reisen etter § 17, har enten ledsageren eller pasienten rett til å få dekket reiseutgifter. Både pasienten og ledsageren har likevel rett til dekning med standardsats etter første ledd eller faktiske kostnader etter andre og fjerde ledd for dokumenterte utgifter til rutegående transport."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 12 sep 2016 nr. 1056 (i kraft 1 okt 2016), 19 des 2016 nr. 1749 (i kraft 1 jan 2017), 19 des 2017 nr. 2255 (i kraft 1 jan 2018), 15 des 2018 nr. 2035 (i kraft 1 jan 2019), 9 des 2019 nr. 1706 (i kraft 1 jan 2020), 17 des 2020 nr. 2959 (i kraft 1 jan 2021), 16 des 2021 nr. 3664 (i kraft 1 jan 2022), 15 des 2022 nr. 2233 (i kraft 1 jan 2023), 19 des 2023 nr. 2234 (i kraft 1 jan 2024), 16 des 2024 nr. 3144 (i kraft 1 jan 2025), 22 jan 2025 nr. 96 (i kraft 3 mars 2025), 15 des 2025 nr. 2590 (i kraft 1 jan 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 22",
+     "tittel": "Dekning av utgifter til bil mv.",
+     "ledd": [
+      "En pasient har rett til å få dekket nødvendige utgifter til ferge og nødvendige og dokumenterte utgifter til bomvei og parkering ved bruk av bil hvis\na. reisen gjelder øyeblikkelig hjelp,\nb. pasientens behandler, eller andre som er utpekt av helseforetaket har vurdert at pasientens helsetilstand gjør det nødvendig å bruke bil, eller\nc. helseforetaket eller andre som har fått myndighet til det, attesterer at manglende rutegående tilbud gjør det nødvendig å bruke bil."
+     ],
+     "endringer": [
+      "Endret ved forskrift 22 jan 2025 nr. 96 (i kraft 3 mars 2025)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 22a",
+     "tittel": "Dekning av utgifter til drosje",
+     "ledd": [
+      "En pasient som oppfyller vilkårene i § 22, har rett til å få dekket nødvendige og dokumenterte utgifter til drosje.",
+      "Drosjereiser skal bestilles av, eller etter avtale med, helseforetaket.",
+      "Hvis pasienten selv bestiller og legger ut for reise med drosje, uten at det er avtalt med helseforetaket, har pasienten rett til reisestønad etter § 21 første ledd. Dette gjelder likevel ikke når reisen gjelder øyeblikkelig hjelp."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 22 jan 2025 nr. 96 (i kraft 3 mars 2025)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 23",
+     "tittel": "Dekning av utgifter til flyreiser",
+     "ledd": [
+      "Flyreiser skal bestilles av helseforetaket. Hvis pasienten selv bestiller og legger ut for reise med fly, har pasienten rett til følgende dekning av reiseutgifter\na. ved reiser som er kortere enn 300 kilometer hver vei, dekkes reiseutgiftene med standardsats per kilometer etter § 21 første ledd\nb. ved reiser som er lenger enn 300 kilometer hver vei, dekkes reiseutgiftene for den billigste reisemåten med rutegående transportmiddel."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 12 sep 2016 nr. 1056 (i kraft 1 okt 2016), 22 jan 2025 nr. 96 (i kraft 3 mars 2025)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-6",
+     "nummer": "§ 23a",
+     "tittel": "Dekning av utgifter til ambulansebåt",
+     "ledd": [
+      "Bruk av ambulansebåt til pasientreiser skal være rekvirert av lege. Bruk av ambulansebåt dekkes bare når billigere forsvarlig transport ikke kan skaffes. Kravene etter første og andre punktum gjelder ikke når pasientens situasjon krever øyeblikkelig hjelp."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 22 jan 2025 nr. 96 (i kraft 3 mars 2025)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-7",
+     "nummer": "§ 24",
+     "tittel": "Egenandel",
+     "ledd": [
+      "Ved hver enkelt reise skal pasienten betale en egenandel på kr 171 hver vei (kr 342 tur/retur).",
+      "Ved reiser til og fra spesialisthelsetjenester utenfor pasientens bostedsregion som gis av virksomhet som er omfattet av retten til valg av behandlingssted etter pasient- og brukerrettighetsloven § 2-4, skal pasienten betale en egenandel på kr 400 hver vei (kr 800 tur/retur). Pasienten skal likevel bare betale egenandel på kr 171 hver vei, hvis helsehjelpen gis på det nærmeste stedet den kan gis, eller det regionale helseforetaket ikke tilbyr helsehjelpen i pasientens bostedsregion.",
+      "Det skal ikke betales egenandel\na. for ledsager\nb. for barn under 18 år\nc. ved reise for å undersøke eller behandle yrkesskade eller krigsskade\nd. ved reise for å undersøke, behandle og kontrollere en allmennfarlig smittsom sykdom\ne. ved reise for å legges inn i tvungent psykisk helsevern\nf. ved reise for tvungent psykisk helsevern uten døgnopphold i institusjon\ng. ved pårørendes reise til psykiatrisk poliklinikk for barn og ungdom som oppfyller vilkårene i § 19 første ledd bokstav a\nh. ved reise for donor ved transplantasjon\ni. ved overføring mellom institusjoner innad i et helseforetak\nj. ved reise for å delta ved behandling av krav om abort for abortnemnda eller abortklagenemnda, jf. abortloven §§ 14 og 21."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 12 sep 2016 nr. 1056 (i kraft 1 okt 2016), 16 sep 2016 nr. 1070 (i kraft 1 okt 2016), 25 aug 2017 nr. 1286, 19 des 2017 nr. 2255 (i kraft 1 jan 2018), 9 des 2019 nr. 1706 (i kraft 1 jan 2020), 15 des 2022 nr. 2233 (i kraft 1 jan 2023), 19 des 2023 nr. 2234 (i kraft 1 jan 2024), 22 jan 2025 nr. 96 (i kraft 3 mars 2025), 30 april 2025 nr. 772 (i kraft 1 juni 2025), 3 juli 2026 nr. 1510 (i kraft 1 aug 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-8",
+     "nummer": "§ 25",
+     "tittel": "Krav om reisestønad mv.",
+     "ledd": [
+      "Pasienten må sette fram krav om reisestønad eller dekning av utgifter senest seks måneder etter at kravet tidligst kunne vært satt fram.",
+      "Utgiftene kan likevel dekkes opptil tre år etter at kravet tidligst kunne vært satt fram, hvis det er sannsynliggjort at den som har rett til refusjon ikke har vært i stand til å kreve utgiftene dekket tidligere. Det samme gjelder hvis vedkommende ikke har krevd utgiftene dekket tidligere, fordi det regionale helseforetaket, eller noen på foretakets vegne, har gitt misvisende opplysninger.",
+      "Det regionale helseforetaket i pasientens bostedsregion dekker utgiftene. Pasienten har ikke krav på renter."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 12 sep 2016 nr. 1056 (i kraft 1 okt 2016), 22 jan 2025 nr. 96 (i kraft 3 mars 2025)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-9",
+     "nummer": "§ 26",
+     "tittel": "Dokumentasjon og kontroll",
+     "ledd": [
+      "Helseforetaket kan kreve at krav om dekning av utgifter skal dokumenteres, med unntak av utgifter til kost. Det skal innhentes nødvendig dokumentasjon før vedtak om dekning av tapt arbeidsfortjeneste fattes.",
+      "Helseforetaket kan unnlate å innhente dokumentasjon for pasientens oppmøte hos behandler hvis det er mulig å kontrollere og finne tilbake til dokumentasjonen ved senere stikkprøver, jf. bokføringsloven § 6.",
+      "Helseforetaket skal i rimelig grad kontrollere de opplysningene som pasienten gir. I vurderingen av kontrollens omfang skal det legges vekt på kostnader ved kontrolltiltakene, målt opp mot nytten. Bokføringslovens regler om dokumentasjon gjelder."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-10",
+     "nummer": "§ 27",
+     "tittel": "Utbetaling",
+     "ledd": [
+      "Har kommunen, fylkeskommunen eller staten dekket utgifter til ledsager, kan beløpet utbetales direkte til disse. Hvis en transportør inngår avtale med det regionale helseforetaket om direkte oppgjør for en pasients reiseutgifter, utbetales utgiftsdekningen direkte til transportøren."
+     ],
+     "endringer": [
+      "Endret ved forskrift 22 jan 2025 nr. 96 (i kraft 3 mars 2025)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Sluttbestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 28",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Forskriften trer i kraft 1. oktober 2016. Fra samme tid oppheves forskrift 4. juli 2008 nr. 788 om rett til dekning av utgifter ved pasienters reise for undersøkelse eller behandling (syketransportforskriften)."
+     ],
+     "endringer": [
+      "Endret ved forskrift 12 sep 2016 nr. 1056 (i kraft 1 okt 2016)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 29",
+     "tittel": "Endringer i andre forskrifter",
+     "ledd": [
+      "Følgende endringer gjøres i andre forskrifter:\n1. Forskrift 1. desember 2000 nr. 1217 om barns opphold i helseinstitusjon § 10 skal lyde: – – –\n2. Forskrift 18. april 1997 nr. 334 om egenandelstak 1 § 3 andre ledd skal lyde: – – –"
+     ],
+     "endringer": [
+      "Endret ved forskrift 12 sep 2016 nr. 1056 (i kraft 1 okt 2016)."
+     ]
+    }
+   ]
+  }
+ ]
+}

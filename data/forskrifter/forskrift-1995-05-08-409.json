@@ -1,0 +1,173 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-1995-05-08-409",
+ "dokumentid": "SF/forskrift/1995-05-08-409",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "etat": [
+  "Sjøfartsdir."
+ ],
+ "kunngjort_i": "Avd I 1995 534",
+ "ikraft": "1995-06-01",
+ "siste_endring_ikraft": "2005-08-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2005-08-01-890",
+   "tekst": "forskrift/2005-08-01-890"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1998-06-26-47/§38",
+   "tekst": "lov/1998-06-26-47/§38"
+  },
+  {
+   "ref": "forskrift/1998-11-27-1095",
+   "tekst": "forskrift/1998-11-27-1095"
+  },
+  {
+   "ref": "forskrift/1998-12-01-4532",
+   "tekst": "forskrift/1998-12-01-4532"
+  }
+ ],
+ "korttittel": "Forskrift om flyteutstyr på fritidsfartøy",
+ "tittel": "Forskrift om flyteutstyr om bord på fritidsfartøy.",
+ "annet": "Fastsatt av Sjøfartsdirektoratet 8. mai 1995 med hjemmel i lov 26. juni 1998 nr. 47 om fritids- og småbåter § 38, jf. delegeringsvedtak 27. november 1998 nr. 1095 og delegeringsvedtak 1. desember 1998 nr. 4532. Endret 3 feb 1999 nr. 191, 1 aug 2005 nr. 890 (hjemmel).",
+ "refid": "forskrift/1995-05-08-409",
+ "eli": "/eli/forskrift/1995/05/08/409",
+ "url": "https://lovdata.no/dokument/SF/forskrift/1995-05-08-409",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "Kap. I. Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Denne forskrift gjelder fritidsbåter som ferdes på sjøen, innsjøer og vassdrag, og som ikke i henhold til andre regler er pålagt å ha flyteutstyr om bord.",
+      "Forskriften gjelder ikke for båter som benyttes til idrettsformål, dersom sikkerhetsbestemmelser fastsatt av den respektive idrettsorganisasjonen følges."
+     ],
+     "endringer": [
+      "Endret ved forskrift 3 feb 1999 nr. 191 (i kraft 1 mars 1999)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "I denne forskrift betyr:\n1. CEN: Den europeiske komité for standardisering\n2. Flyteutstyr: Redningsvest, flytevest, flyteplagg, oppstigningsvest og annet personlig utstyr til å holde en person flytende.\n3. Fritidsbåt: Seil-, motor- og robåt eller liknende som ikke benyttes i næring, samt seil-, motor- og robåt eller liknende som leies eller lånes ut for å benyttes i fritidsøyemed.\n4. ISO: Den internasjonale standardiseringsorganisasjon\n5. NS: Norsk Standard\n6. Sjøsikkerhetskonvensjonen: Den internasjonale konvensjon om sikkerhet for menneskeliv til sjøs, 1974, med senere endringer (SOLAS-74)"
+     ],
+     "endringer": [
+      "Endret ved forskrift 3 feb 1999 nr. 191 (i kraft 1 mars 1999)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "Kap. II. Generelle bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 3",
+     "tittel": "Ansvar",
+     "ledd": [
+      "Eier og fører av fritidsbåt er ansvarlig for at bestemmelsene i denne forskrift overholdes."
+     ],
+     "endringer": [
+      "Endret ved forskrift 3 feb 1999 nr. 191 (i kraft 1 mars 1999)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 4",
+     "tittel": "Fravik",
+     "ledd": [
+      "I enkelttilfeller kan Sjøfartsdirektoratet etter skriftlig søknad fravike kravene i denne forskrift. Spesielle grunner må gjøre fraviket nødvendig, og fraviket må være sikkerhetsmessig forsvarlig. Dette kan bare skje når det ikke er i strid med internasjonal overenskomst som Norge har sluttet seg til."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kapIII",
+   "overskrift": "Kap. III. Flyteutstyr, kontroll",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 5",
+     "tittel": "Flyteutstyr ombord",
+     "ledd": [
+      "Alle båter skal under seilas være utstyrt med egnet flyteutstyr til alle personer om bord. Flyteutstyret skal oppbevares lett tilgjengelig."
+     ],
+     "endringer": [
+      "Endret ved forskrift 3 feb 1999 nr. 191 (i kraft 1 mars 1999)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 6",
+     "tittel": "Krav til flyteutstyret",
+     "ledd": [
+      "Flyteutstyr skal være godkjent av Sjøfartsdirektoratet eller annen navngitt offentlig myndighet, typegodkjent i henhold til Sjøsikkerhetskonvensjonen, eller produsert og varedeklarert av produsent eller importør etter anerkjente normer fastsatt i samsvar med CEN eller NS/ISO-standard. Flyteutstyret skal være varig merket, slik at godkjenningen, typegodkjenningen eller varedeklarasjonen vises på flyteutstyret."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 7",
+     "tittel": "Kontroll",
+     "ledd": [
+      "Sjøfartsdirektoratet eller den det bemyndiger kan foreta kontroll for å påse at bestemmelsene i denne forskrift blir overholdt."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kapIV",
+   "overskrift": "Kap. IV. Avsluttende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 8",
+     "tittel": "Straffebestemmelse",
+     "ledd": [
+      "Forsettlig eller uaktsom overtredelse av bestemmelsene i denne forskrift straffes i henhold til lov av 26. juni 1998 nr. 47 om fritids- og småbåter § 28."
+     ],
+     "endringer": [
+      "Endret ved forskrift 3 feb 1999 nr. 191 (i kraft 1 mars 1999)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 9",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Denne forskrift trer i kraft 1. juni 1995."
+     ]
+    }
+   ]
+  }
+ ]
+}

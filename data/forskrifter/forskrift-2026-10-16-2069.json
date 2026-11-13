@@ -1,0 +1,71 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2026-10-16-2069",
+ "dokumentid": "SF/forskrift/2026-10-16-2069",
+ "departement": [
+  "Justis- og beredskapsdepartementet"
+ ],
+ "etat": [
+  "Samfunnssikkerhet"
+ ],
+ "ikraft": "2027-01-01",
+ "endrer": "forskrift/2018-12-20-2054",
+ "hjemmel": [
+  {
+   "ref": "lov/2018-06-01-24/§8-1",
+   "tekst": "lov/2018-06-01-24/§8-1"
+  },
+  {
+   "ref": "lov/2018-06-01-24/§8-16",
+   "tekst": "lov/2018-06-01-24/§8-16"
+  }
+ ],
+ "kunngjort": "2026-10-16 12:50",
+ "korttittel": "Endr. i klareringsforskriften",
+ "tittel": "Forskrift om endring i forskrift om sikkerhetsklarering og annen klarering (klareringsforskriften)",
+ "annet": "Hjemmel: Fastsatt ved kgl.res. 16. oktober 2026 med hjemmel i lov 1. juni 2018 nr. 24 om nasjonal sikkerhet (sikkerhetsloven) § 8-1 og § 8-16. Fremmet av Justis- og beredskapsdepartementet.",
+ "refid": "forskrift/2026-10-16-2069",
+ "eli": "/eli/forskrift/2026/10/16/2069",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2026-10-16-2069",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "I forskrift 20. desember 2018 nr. 2054 om sikkerhetsklarering og annen klarering (klareringsforskriften) gjøres følgende endringer:\n§ 1 skal lyde:"
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-foreslåttparagraf-1",
+     "nummer": null,
+     "tittel": null,
+     "ledd": [
+      "§ 1. Forvaltningsorganer med klareringsmyndighet",
+      "Det sentrale klareringsdirektoratet klarerer nødvendige personer i forsvarssektoren og i sivile sektorer. Etterretningstjenesten og Politiets sikkerhetstjeneste klarerer personer i eller tilknyttet egen virksomhet.",
+      "Klareringsmyndighetene kan avtale hvem av dem som skal være klareringsmyndighet i enkeltsaker og for grupper av personer.",
+      "Er det tvil om hvem som er rett klareringsmyndighet, fastsetter det sentrale klareringsdirektoratet hvilken klareringsmyndighet som skal behandle saken.",
+      "Personer som utøver klareringsmyndighet, skal minst ha klarering på samme nivå som klareringsanmodningene de behandler."
+     ],
+     "fremtidig": true
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Forskriften trer i kraft 1. januar 2027."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,56 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-1985-03-08-530",
+ "dokumentid": "SF/forskrift/1985-03-08-530",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Økonomiavd."
+ ],
+ "kunngjort_i": "I 1985 s 195",
+ "ikraft": "1985-04-22",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1985-03-08-8",
+   "tekst": "lov/1985-03-08-8"
+  }
+ ],
+ "korttittel": "Forskrift til lov om finansieringsvirksomhet",
+ "tittel": "Forskrift til lov om finansieringsvirksomhet.",
+ "annet": "Fastsatt ved kgl.res. av 8. mars 1985 med hjemmel i lov av 8. mars 1985 nr. 8 om midlertidig tillegg til lov om midlertidig tillegg til lov av 10. juni 1988 nr. 40 om finansieringsvirksomhet og finansinstitusjoner. Fremmet av Finans- og tolldepartementet.",
+ "refid": "forskrift/1985-03-08-530",
+ "eli": "/eli/forskrift/1985/03/08/530",
+ "url": "https://lovdata.no/dokument/SF/forskrift/1985-03-08-530",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": null,
+   "ledd": [
+    "Lov av 8. mars 1985 nr. 8 om midlertidig tillegg til lov av 11. juni 1976 nr. 71 om finasieringsvirksomhet skal også gjelde selskaper stiftet etter den 6. desember 1984 hvor finansieringsforetak alene eller sammen med andre finansieringsforetak eier flertallet av aksjer i selskapet eller representerer flertallet av stemmer på generalforsamlingen."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": null,
+   "ledd": [
+    "Lov av 8. mars 1985 nr. 8 om midlertidig tillegg til lov av 11. juni 1976 nr. 71 om finansieringsvirksomhet skal ikke omfatte finansieringsforetaks adgang til å yte eller formidle lån eller garantere for slike lån på alminnelige forretningsmessige vilkår."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": null,
+   "ledd": [
+    "Som finansieringsforetak regnes også foretak som forestår finansiell leasing."
+   ]
+  }
+ ]
+}

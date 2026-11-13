@@ -1,0 +1,124 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2017-06-22-1050",
+ "dokumentid": "SF/forskrift/2017-06-22-1050",
+ "departement": [
+  "Kunnskapsdepartementet"
+ ],
+ "etat": [
+  "Barnehageavd."
+ ],
+ "ikraft": "2017-08-01",
+ "siste_endring_ikraft": "2021-06-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2021-05-18-1550",
+   "tekst": "forskrift/2021-05-18-1550 fra 2021-06-01"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2005-06-17-64/§31",
+   "tekst": "lov/2005-06-17-64/§31"
+  }
+ ],
+ "kunngjort": "2017-06-30 15:10",
+ "siste_rettelse": "2021-06-01 (tegnsetting i lister tilpasset universell utforming)",
+ "korttittel": "Forskrift om ansvar for spesialpedagogisk hjelp for barn",
+ "tittel": "Forskrift om ansvar for spesialpedagogisk hjelp for barn under opplæringspliktig alder",
+ "annet": "Hjemmel: Fastsatt av Kunnskapsdepartementet 22. juni 2017 med hjemmel i lov 17. juni 2005 nr. 64 om barnehager (barnehageloven) § 31 sjette ledd.\nEndret ved forskrift 18 mai 2021 nr. 1550 (i kraft 1 juni 2021).\nRettelser: 09.04.2021 (hjemmel), 01.06.2021 (tegnsetting i lister tilpasset universell utforming)",
+ "refid": "forskrift/2017-06-22-1050",
+ "eli": "/eli/forskrift/2017/06/22/1050",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2017-06-22-1050",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Kommunens økonomiske ansvar for spesialpedagogisk hjelp",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "I denne forskriften menes med\na. bostedskommune: den kommunen hvor barnet er folkeregistrert\nb. vertskommune: den kommunen som gir barnet spesialpedagogisk hjelp\nc. omsorgskommune: den kommunen som har det økonomiske ansvaret etter barnevernloven, jf. barnevernloven § 9-1."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Bostedskommunens økonomiske ansvar for barn under opplæringspliktig alder, som mottar spesialpedagogisk hjelp utenfor kommunen",
+     "ledd": [
+      "For barn under opplæringspliktig alder som får spesialpedagogisk hjelp utenfor bostedskommunen, betaler bostedskommunen for utgiftene til spesialpedagogisk hjelp etter avtale med vertskommunen.",
+      "Bostedskommunen skal fastsette omfanget av den spesialpedagogiske hjelpen etter en sakkyndig vurdering fra vertskommunen. Bostedskommunen fatter vedtak om spesialpedagogisk hjelp."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Omsorgskommunens økonomiske ansvar for å oppfylle retten til spesialpedagogisk hjelp for barn under opplæringspliktig alder, som er plassert i fosterhjem eller institusjon utenfor kommunen",
+     "ledd": [
+      "For barn under opplæringspliktig alder, som barneverntjenesten eller fylkesnemnda plasserer i fosterhjem utenfor kommunen, er det omsorgskommunen som har det økonomiske ansvaret for den spesialpedagogiske hjelpen.",
+      "Omsorgskommunen skal fastsette omfanget av den spesialpedagogiske hjelpen etter en sakkyndig vurdering fra vertskommunen. Det økonomiske ansvaret følger av det fastsatte omfanget. Omsorgskommunen fatter vedtak om spesialpedagogisk hjelp.",
+      "Første og andre ledd gjelder tilsvarende for barn under opplæringspliktig alder, som barnevernstjenesten eller fylkesnemnda plasserer i institusjoner som ikke er nevnt i kapittel 2."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 4",
+     "tittel": "Uenighet",
+     "ledd": [
+      "Dersom det er uenighet om hvor barnet er bosatt etter § 2 eller hvilken kommune som er ansvarlig for kostnadene til spesialpedagogisk hjelp etter § 3, skal statsforvalteren i det fylket der barnet oppholder seg avgjøre dette."
+     ],
+     "endringer": [
+      "Endret ved forskrift 18 mai 2021 nr. 1550 (i kraft 1 juni 2021)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Fylkeskommunens ansvar for spesialpedagogisk hjelp",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 5",
+     "tittel": "Fylkeskommunens ansvar for å oppfylle retten til spesialpedagogisk hjelp for barn i institusjon etter barnevernloven",
+     "ledd": [
+      "Når det blir fattet vedtak om plassering i institusjon etter barnevernloven, er det den fylkeskommunen der institusjonen ligger som har ansvaret for å oppfylle retten til spesialpedagogisk hjelp. Dersom hjelpen gis i institusjonen, skal institusjonen sørge for nødvendig lokale til formålet.",
+      "Fylkeskommunens ansvar omfatter barn i institusjoner, som barne-, ungdoms- og familieetaten har ansvaret for etter barnevernloven § 5-1, og barn og unge i private og kommunale institusjoner som er godkjente etter barnevernloven § 5-8."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 6",
+     "tittel": "Fylkeskommunens ansvar for å oppfylle retten til spesialpedagogisk hjelp for barn i helseinstitusjoner",
+     "ledd": [
+      "For pasienter i helseinstitusjoner som et regionalt helseforetak eier eller for pasienter i private helseinstitusjoner som har avtale med regionale helseforetak, har fylkeskommunen der institusjonen ligger ansvaret for å oppfylle retten til spesialpedagogisk hjelp. Ansvaret gjelder bare for pasienter i institusjonsplasser som regionale helseforetak finansierer.",
+      "Dersom hjelpen gis i institusjonen, skal institusjonen sørge for nødvendig lokale til formålet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 7",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Forskriften trer i kraft 1. august 2017."
+     ]
+    }
+   ]
+  }
+ ]
+}

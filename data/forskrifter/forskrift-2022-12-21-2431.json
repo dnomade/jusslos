@@ -1,0 +1,551 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2022-12-21-2431",
+ "dokumentid": "SF/forskrift/2022-12-21-2431",
+ "departement": [
+  "Samferdselsdepartementet"
+ ],
+ "etat": [
+  "Statens jernbanetilsyn"
+ ],
+ "ikraft": "2023-01-01",
+ "siste_endring_ikraft": "2026-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2025-12-08-2456",
+   "tekst": "forskrift/2025-12-08-2456 fra 2026-01-01"
+  }
+ ],
+ "endrer": "forskrift/2017-06-21-907",
+ "hjemmel": [
+  {
+   "ref": "lov/2017-05-22-30/§4",
+   "tekst": "lov/2017-05-22-30/§4"
+  },
+  {
+   "ref": "forskrift/2017-05-22-634",
+   "tekst": "forskrift/2017-05-22-634"
+  }
+ ],
+ "kunngjort": "2022-12-23 15:05",
+ "korttittel": "Tivoliforskriften",
+ "tittel": "Forskrift om fornøyelsesinnretninger (tivoliforskriften)",
+ "annet": "Hjemmel: Fastsatt av Statens jernbanetilsyn 21. desember 2022 med hjemmel i lov 22. mai 2017 nr. 30 om fornøyelsesinnretninger (tivoliloven) § 4 annet ledd jf. delegeringsvedtak 22. mai 2017 nr. 634.\nEndret ved forskrifter 18 des 2023 nr. 2220 (i kraft fra 1 jan 2024), 8 des 2025 nr. 2456 (i kraft 1 jan 2026).",
+ "refid": "forskrift/2022-12-21-2431",
+ "eli": "/eli/forskrift/2022/12/21/2431",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2022-12-21-2431",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1-1",
+     "tittel": "Formål",
+     "ledd": [
+      "Forskriften skal sikre at fornøyelsesinnretninger blir anlagt, bygget, drevet, vedlikeholdt og fjernet slik at de ikke fører til skade på personer, eiendom eller miljø."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 1-2",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Forskriften gjelder den som tilbyr fornøyelsesinnretninger til bruk for publikum.",
+      "Forskriften gjelder ikke deler av fornøyelsesinnretninger som faller inn under plan- og bygningslovgivningen.",
+      "Kapittel 5 gjelder for utleiegokart med maksimal oppnåelig hastighet på 50 km/t som ikke er regulert av annen lovgivning."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 1-3",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "I denne forskriften menes med:\na. fornøyelsesinnretning: installasjon til bruk for fornøyelsesformål som innebærer risiko, og som stiller minimale krav til ferdigheter, og hvor brukerne bringes i bevegelse eller i situasjoner hvor de helt eller delvis ikke har kontroll over egen bevegelse\nb. virksomhet: foretak, enkeltpersonforetak eller forvaltningsorganer som har driftstillatelse for en eller flere fornøyelsesinnretninger\nc. ulykke: en uønsket eller plutselig hendelse eller en bestemt rekke slike hendelser som fører til død eller alvorlig personskade eller betydelige materielle skader på eiendom eller på miljø, og alle andre lignende ulykker\nd. alvorlig hendelse: en uønsket hendelse som under andre omstendigheter kunne ha ført til en ulykke\ne. hendelse: enhver annen uønsket hendelse enn en ulykke eller alvorlig hendelse, som har sammenheng med driften, og som virker inn på driftssikkerheten\nf. driftspersonell: personell som har oppgaver av betydning for operativ sikkerhet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 1-4",
+     "tittel": "Unntak",
+     "ledd": [
+      "Statens jernbanetilsyn kan i særlige tilfeller gjøre unntak fra denne forskriften."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Generelle krav til virksomheten",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 2-1",
+     "tittel": "Ansvaret for virksomheten",
+     "ledd": [
+      "Virksomheten har ansvaret for sikker drift og vedlikehold og for å ha kontroll på risikoer i forbindelse med driften av fornøyelsesinnretningen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 2-2",
+     "tittel": "Akseptabelt sikkerhetsnivå",
+     "ledd": [
+      "En fornøyelsesinnretning som er konstruert og drives i overensstemmelse med en anerkjent standard, anses å ha akseptabelt sikkerhetsnivå med mindre denne forskriften inneholder strengere bestemmelser. Hvis en fornøyelsesinnretning har risikoaspekter som ikke er inkludert i anerkjente standarder, må disse vurderes særskilt. Risikovurderinger skal gjennomføres etter en anerkjent metode.",
+      "Hvis deler av anerkjente standarder kombineres, skal det dokumenteres at det oppnås et akseptabelt sikkerhetsnivå.",
+      "Kravene til sikkerhet kan også oppfylles hvis minst ett av kriteriene oppfylles:\na. virksomheten kan dokumentere at fornøyelsesinnretningen holder et tilsvarende sikkerhetsnivå som en anerkjent standard\nb. fornøyelsesinnretningen tilfredsstiller kravene i utkastet til en internasjonal standard.",
+      "Statens jernbanetilsyn kan kreve at virksomheten bruker et uavhengig organ til å verifisere at den nødvendige sikkerheten er ivaretatt, og kan kreve at virksomheten betaler for dette. Statens jernbanetilsyn kan kreve at det uavhengige organet skal være akkreditert."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 2-3",
+     "tittel": "Driftstillatelse og varsel ved endringer",
+     "ledd": [
+      "Drift av en fornøyelsesinnretning krever driftstillatelse.",
+      "Hvis en ikke-mobil fornøyelsesinnretning flyttes, kreves det ny driftstillatelse. Alle andre endringer av fornøyelsesinnretninger skal meldes skriftlig til Statens jernbanetilsyn før endringen gjennomføres. Statens jernbanetilsyn skal på bakgrunn av meldingen avgjøre om endringen er av en slik art at det er nødvendig å søke om ny driftstillatelse.",
+      "Fornøyelsesinnretningen skal være merket med innretningsnummeret fra Statens jernbanetilsyn så lenge virksomheten har driftstillatelse for fornøyelsesinnretningen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 2-4",
+     "tittel": "Søknad om driftstillatelse",
+     "ledd": [
+      "Søknad om driftstillatelse sendes til Statens jernbanetilsyn på et fastsatt skjema. Søknaden skal blant annet inneholde en teknisk beskrivelse av fornøyelsesinnretningen med tegninger eller bilder og en angivelse av hvilke standarder som er brukt, og dokumentere at kravene til akseptabelt sikkerhetsnivå i § 2-2 er oppfylt. I tillegg skal relevante deler av sikkerhetsstyringssystemet legges ved.",
+      "Søknader om driftstillatelse avgjøres snarest mulig og senest fire uker etter datoen da alle de nødvendige opplysningene var oversendt til Statens jernbanetilsyn."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 2-5",
+     "tittel": "Forsikringsplikt",
+     "ledd": [
+      "Virksomheten skal være forsikret og ha sikkerhetsstillelse for erstatningsansvar som kan oppstå på grunn av fornøyelsesinnretningen. Ved manglende sikkerhetsstillelse skal Statens jernbanetilsyn tilbakekalle driftstillatelsen. Forsikringsavtaler kan inngås for hver fornøyelsesinnretning eller samlet for virksomhetens fornøyelsesinnretninger.",
+      "Ved beregning av forsikringsdekningens og sikkerhetsstillelsens størrelse skal det legges vekt på skadepotensialet fornøyelsesinnretningen representerer, og det økonomiske ansvaret som kan oppstå, i lys av dette.",
+      "Forsikringsselskapet der fornøyelsesinnretningen er forsikret, skal varsle Statens jernbanetilsyn hvis sikkerhetsstillelsen faller bort."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-6",
+     "nummer": "§ 2-6",
+     "tittel": "Varsling til politiet og Statens havarikommisjon",
+     "ledd": [
+      "Når det skjer en ulykke med ikke ubetydelig personskade, skal virksomheten straks varsle politiet.",
+      "Når det skjer en ulykke eller alvorlig hendelse, skal virksomheten straks varsle Statens havarikommisjon.",
+      "Varsling skal skje muntlig."
+     ],
+     "endringer": [
+      "Endret ved forskrift 18 des 2023 nr. 2220 (i kraft fra 1 jan 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-7",
+     "nummer": "§ 2-7",
+     "tittel": "Rapportering til Statens jernbanetilsyn og Statens havarikommisjon",
+     "ledd": [
+      "Virksomheten skal sende en felles rapport til Statens jernbanetilsyn og Statens havarikommisjon ved ulykker og alvorlige hendelser. Rapporten skal sendes så snart som mulig og senest innen 72 timer.",
+      "Virksomheten skal sende en rapport til Statens jernbanetilsyn ved hendelser. Rapporten skal sendes innen 8 dager.",
+      "Rapportene sendes inn via skjemaet «Rapportere ulykke, alvorlig hendelse og hendelse» på www.sjt.no."
+     ],
+     "endringer": [
+      "Endret ved forskrift 18 des 2023 nr. 2220 (i kraft fra 1 jan 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-8",
+     "nummer": "§ 2-8",
+     "tittel": "Årsrapport",
+     "ledd": [
+      "Statens jernbanetilsyn kan kreve at virksomheter sender inn en årlig rapport om forhold som har betydning for sikkerheten. Statens jernbanetilsyn fastsetter krav til innholdet i rapporten og setter fristen for å sende den inn."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-9",
+     "nummer": "§ 2-9",
+     "tittel": "Forbud mot overdragelse o.l.",
+     "ledd": [
+      "Driftstillatelser kan ikke overdras, inkludert å leies, leases, lånes eller på andre måter overlates til andre."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-10",
+     "nummer": "§ 2-10",
+     "tittel": "Krav om sikkerhetsstyringssystem",
+     "ledd": [
+      "Virksomheten skal ha et sikkerhetsstyringssystem. Formålet med sikkerhetsstyringssystemet skal være å styre virksomheten for å kunne drive sikkert."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-11",
+     "nummer": "§ 2-11",
+     "tittel": "Krav til sikkerhetsstyringssystem",
+     "ledd": [
+      "Sikkerhetsstyringssystemet skal være dokumentert og kjent av alt driftspersonell. Dokumentasjonen skal være på norsk, svensk, dansk eller engelsk. For personell som ikke behersker norsk, svensk, dansk eller engelsk, skal de relevante delene av dokumentasjonen oversettes til et språk personellet behersker.",
+      "Sikkerhetsstyringssystemet skal være tilpasset arten og omfanget av den aktuelle virksomheten og skal inneholde bestemmelsene som er nødvendige for å ha kontroll på risikoene forbundet med virksomheten.",
+      "I sikkerhetsstyringssystemet skal virksomheten minst beskrive\na. hvem som har myndighet til å fatte beslutninger av betydning for sikkerheten\nb. systemet for avvikshåndtering\nc. hvordan jevnlige risikovurderinger og de tilhørende handlingsplanene skal gjennomføres\nd. instrukser for\ni. sikker drift av fornøyelsesinnretningen\nii. kontroll av fornøyelsesinnretningen\niii. vedlikehold av fornøyelsesinnretningen\ne. kompetanse- og opplæringskrav for driftspersonellet, inkludert krav til førstehjelps- og redningskompetanse\nf. beredskapsplaner for nødsituasjoner og andre situasjoner som kan true sikkerheten\ng. dokumentasjon som inneholder oversikt over tekniske data og driftsdata, journaler over reparasjoner, ombygginger, undersøkelser, prøvinger og kontroller, og rapporter fra disse."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-12",
+     "nummer": "§ 2-12",
+     "tittel": "Krav til risikovurderinger og instrukser",
+     "ledd": [
+      "Risikovurderingen skal gjennomføres i tråd med anerkjente metoder. Avvik skal være en del av grunnlaget for risikovurderingene.",
+      "Instrukser for sikker drift, kontroll og vedlikehold skal utarbeides på grunnlag av anvisning fra leverandøren der dette finnes. Instruksene skal beskrive hvem som er ansvarlig for å gjennomføre kontroll og vedlikehold."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-13",
+     "nummer": "§ 2-13",
+     "tittel": "Krav til beredskapsplanen",
+     "ledd": [
+      "Beredskapsplanen skal minst inneholde\na. intern og ekstern varslingsliste\nb. oversikt over førstehjelps- og redningsutstyr og hvor det er plassert.",
+      "Beredskapsplaner for fornøyelsesinnretninger der selvberging ikke er mulig på grunn av høyde, eller der det av andre årsaker er vanskelig, skal i tillegg inneholde\na. en detaljert redningsplan\nb. rutiner for å planlegge og gjennomføre regelmessige redningsøvelser\nc. rutiner for å evaluere og følge opp redningsøvelsene\nd. oversikt over kommunikasjonsutstyr og utstyr for evakuering eller nedfiring for personer og hvor utstyret er plassert."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-14",
+     "nummer": "§ 2-14",
+     "tittel": "Utleie av fornøyelsesinnretninger",
+     "ledd": [
+      "Virksomheter som leier ut fornøyelsesinnretninger, er ansvarlige for fornøyelsesinnretningene og plikter å sikre at leietakeren er kjent med innholdet i sikkerhetsstyringssystemet for den aktuelle fornøyelsesinnretningen. Ved ulykker plikter leietakeren å varsle slik det følger av § 2-6.",
+      "Virksomheter som leier ut fornøyelsesinnretninger, plikter å gi leietakeren tilstrekkelig opplæring om montering, drift og vedlikehold."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-15",
+     "nummer": "§ 2-15",
+     "tittel": "Krav om årlig bruk av et uavhengig inspeksjonsorgan",
+     "ledd": [
+      "Virksomheten skal årlig bruke et uavhengig inspeksjonsorgan til teknisk kontroll av fornøyelsesinnretningen og selv betale for dette. Statens jernbanetilsyn kan kreve at inspeksjonsorganet skal være akkreditert.",
+      "For oppblåsbare innretninger er det ikke krav om at inspeksjonsorganet skal være uavhengig.",
+      "Den tekniske kontrollen skal omfatte hele fornøyelsesinnretningen med tilleggsutstyr. Intervallene mellom kontrollene skal være som fastsatt etter den gjeldende standarden eller av leverandøren hvis disse er kortere enn i første ledd.",
+      "Framgangsmåten og innholdet i en teknisk kontroll skal følge reglene i den relevante standarden. Statens jernbanetilsyn kan gi unntak fra kravet om teknisk kontroll."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Krav til drift, driftskontroller og vedlikehold",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 3-1",
+     "tittel": "Generelle krav til driftspersonellet",
+     "ledd": [
+      "Driftspersonellet skal ha nødvendige kunnskaper, ferdigheter og personlige egenskaper og nødvendig erfaring for de oppgavene som skal utføres. Personell som utfører arbeid som innebærer kommunikasjon med brukere, eller som må sette seg inn i virksomhetens sikkerhetsstyringssystem, skal ha tilstrekkelige språkkunnskaper."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 3-2",
+     "tittel": "Bemanningskrav for fornøyelsesinnretningen",
+     "ledd": [
+      "Fornøyelsesinnretningen skal ha kvalifisert driftspersonell i tilstrekkelig antall til stede. Driftspersonellet skal være over 18 år. For enkle fornøyelsesinnretninger, eller for enkle oppgaver i forbindelse med driften skal driftspersonellet være over 16 år."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 3-3",
+     "tittel": "Driftspersonellets oppgaver",
+     "ledd": [
+      "Driftspersonellet skal sørge for at fornøyelsesinnretningen drives, kontrolleres og vedlikeholdes på en sikker måte. Dersom det oppstår farlige situasjoner, skal driftspersonellet stanse fornøyelsesinnretningen eller på annen måte gripe inn for å hindre skade."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 3-4",
+     "tittel": "Driftsrutiner",
+     "ledd": [
+      "Virksomheten skal ha rutiner for sikker drift av fornøyelsesinnretningen. Rutinene skal sikre at innretningen drives i overensstemmelse med beskrivelsen fra leverandøren. I tillegg skal virksomheten jevnlig vurdere om rutinene bør endres for at driften skal foregå sikkert.",
+      "For innretninger der det ikke finnes driftsrutiner fra leverandøren, skal det finnes rutiner som beskriver hvordan innretningen drives sikkert."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 3-5",
+     "tittel": "Kontroll og vedlikehold",
+     "ledd": [
+      "Virksomheten skal ha rutiner for kontroll og vedlikehold av fornøyelsesinnretningen.",
+      "For innretninger der det finnes en beskrivelse av kontroll og vedlikehold fra leverandøren, skal denne beskrivelsen følges. I tillegg skal virksomheten vurdere om det trengs ytterligere kontroll og vedlikehold eller kortere intervaller enn det leverandøren har anbefalt.",
+      "For innretninger der det ikke finnes beskrivelser av kontroll og vedlikehold og intervaller fra leverandøren, skal det gjennomføres daglige, ukentlige og årlige kontroller. Minst hvert femte år skal det utføres en hovedrevisjon.",
+      "Kontroll- og vedlikeholdsarbeidet skal utføres av kvalifisert personell og være lagt opp slik at det forebygger ulykker og alvorlige hendelser.",
+      "Utførte kontroller og utført vedlikehold skal være dokumentert.",
+      "Ved bruk av fornøyelsesinnretningen i forbindelse med normal funksjonsprøving, prøvekjøring eller andre typer kontroll hvor sikkerheten ved fornøyelsesinnretningen kan være redusert, skal den ikke være tilgjengelig for publikum."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-6",
+     "nummer": "§ 3-6",
+     "tittel": "Driftskontroll",
+     "ledd": [
+      "Før en innretning tas i bruk for publikum, skal det føres nødvendig kontroll med at den er i driftssikker stand, og at alle sikkerhetsfunksjonene virker som de skal.",
+      "Det skal føres kontroll av fornøyelsesinnretningen under drift.",
+      "Når driften er avsluttet, skal det kontrolleres at alle brukerne har forlatt fornøyelsesinnretningen.",
+      "Fornøyelsesinnretningen skal være avlåst når den ikke er i bruk. Dersom fornøyelsesinnretningen ikke kan avlåses, skal det være tydelig skiltet at fornøyelsesinnretningen er stengt.",
+      "Ved ulykker, alvorlige hendelser eller annen uforutsett driftsstans skal fornøyelsesinnretningen undersøkes for å fastslå at den er sikker, før den tas i bruk på nytt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-7",
+     "nummer": "§ 3-7",
+     "tittel": "Skilting",
+     "ledd": [
+      "Ved fornøyelsesinnretningen skal det være tydelige skilt med kortfattede instruksjoner om hvordan brukerne skal forholde seg, inkludert eventuelle helsemessige begrensninger for sikker bruk av fornøyelsesinnretningen."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Krav til utførelse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 4-1",
+     "tittel": "Oppføring",
+     "ledd": [
+      "Grunnforholdene må være slik at fornøyelsesinnretningen står stabilt.",
+      "Fornøyelsesinnretningene skal plasseres innbyrdes, i forhold til andre konstruksjoner og bygninger på anlegget og i forhold til terrenget på en slik måte at driften kan foregå sikkert.",
+      "Fornøyelsesinnretninger som settes i bevegelse, skal være avskjermet slik at publikum ikke får adgang til bevegelige deler når fornøyelsesinnretningen er i drift.",
+      "For mobile fornøyelsesinnretninger skal brukerne kunne evakuere på en sikker måte."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 4-2",
+     "tittel": "Montering og demontering",
+     "ledd": [
+      "Virksomheten er ansvarlig for at monteringen og demonteringen av fornøyelsesinnretningen blir utført i tråd med leverandørens anvisninger og eventuelle vilkår i driftstillatelsen.",
+      "Ved montering skal det kontrolleres at alle komponenter som har betydning for sikkerheten, er uten mangler og blir riktig montert. Ved demontering skal det kontrolleres at disse er uten farlig slitasje og ikke har mangler."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Tilleggskrav til utleiegokart",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 5-1",
+     "tittel": "Krav til bane og kjøretøy",
+     "ledd": [
+      "Baner og gokarter for utleie skal utformes og bygges slik at brukere og publikum ikke utsettes for unødig fare.",
+      "Kjøretøy for barn skal være tilpasset barnets alder, evner og ferdigheter.",
+      "Kjøretøy skal være utstyrt med bremser på bakhjulene.",
+      "Kjøretøy for barn mellom 8 og 10 år skal ha redusert akselavstand og være tilpasset barn ned til 110 cm høyde.",
+      "Kjøretøy for barn fra 8 til 15 år skal ikke kunne kjøre fortere enn 25 km/t.",
+      "Kjøretøy for barn under 8 år skal ikke kunne kjøre fortere enn 10 km/t.",
+      "Kjøretøy fra ulike hastighetsgrupper skal ikke brukes samtidig på samme bane."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 5-2",
+     "tittel": "Personlig verneutstyr",
+     "ledd": [
+      "Under kjøring skal føreren og eventuelle passasjerer være utstyrt med personlig verneutstyr."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 5-3",
+     "tittel": "Bemanningskrav",
+     "ledd": [
+      "Banen skal bemannes med minst to personer som er kjent med anlegget."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-4",
+     "nummer": "§ 5-4",
+     "tittel": "Signalering",
+     "ledd": [
+      "Anlegget skal ha et system for å gi signaler til brukerne."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Regler om overtredelsesgebyr",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Kapittel tilføyd ved forskrift 8 des 2025 nr. 2456 (i kraft 1 jan 2026)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 6-1",
+     "tittel": "Hva dette kapittelet gjelder, og forholdet til forvaltningsloven",
+     "ledd": [
+      "I dette kapittelet gis nærmere bestemmelser om den administrative sanksjonen overtredelsesgebyr etter tivoliloven § 19.",
+      "Forvaltningslovens bestemmelser i §§ 43, 44, 46, 47, 48, 49 og 50 om administrative sanksjoner gjelder så langt ikke annet er bestemt her."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 8 des 2025 nr. 2456 (i kraft 1 jan 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 6-2",
+     "tittel": "Forbud mot å bruke innrapporterte opplysninger i sak om overtredelsesgebyr",
+     "ledd": [
+      "Opplysninger som tilsynsmyndigheten mottar i medhold av tivoliloven § 10, kan ikke brukes som bevis i en senere sak om overtredelsesgebyr mot den som har gitt opplysningene."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 8 des 2025 nr. 2456 (i kraft 1 jan 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-3",
+     "nummer": "§ 6-3",
+     "tittel": "Vilkår for å kunne vedta overtredelsesgebyr",
+     "ledd": [
+      "Tilsynsmyndigheten kan ilegge overtredelsesgebyr til en virksomhet som forsettlig eller uaktsomt overtrer plikter etter tivoliloven eller denne forskriften, eller individuelle avgjørelser i medhold av tivoliloven eller denne forskriften, særlig\na. tivoliloven § 5 om virksomhetens plikter\nb. tivoliloven § 7 om plikt til sikkerhetsstyringssystem (internkontrollsystem)\nc. tivoliloven § 9 om varslingsplikt\nd. pålegg i medhold av tivoliloven § 16 om øyeblikkelig stans eller opphør av bruk\ne. tivoliloven § 24 om fjerning av fornøyelsesinnretning\nf. tivoliforskriften § 2-11 om krav til sikkerhetsstyringssystem\ng. tivoliforskriften § 2-13 om krav til beredskapsplaner\nh. tivoliforskriften § 3-1 om generelle krav til driftspersonellet\ni. tivoliforskriften § 3-2 om bemanningskrav for fornøyelsesinnretningen\nj. tivoliforskriften § 3-3 om driftspersonellets oppgaver\nk. tivoliforskriften § 3-4 om driftsrutiner\nl. tivoliforskriften § 3-5 om kontroll og vedlikehold\nm. tivoliforskriften § 3-6 om driftskontroll\nn. tivoliforskriften § 3-7 om skilting."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 8 des 2025 nr. 2456 (i kraft 1 jan 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-4",
+     "nummer": "§ 6-4",
+     "tittel": "Momenter ved vurdering av ileggelse og utmåling av overtredelsesgebyr",
+     "ledd": [
+      "Når tilsynsmyndigheten avgjør om et overtredelsesgebyr skal ilegges, og gebyrets størrelse, skal den særlig legge vekt på\na. overtredelsens grovhet og omfang\nb. om overtrederen kunne ha forebygget overtredelsen ved retningslinjer, instruksjon, opplæring, kontroll eller andre tiltak\nc. om overtredelsen er gjentatt\nd. om overtrederen har eller kunne ha oppnådd noen fordel ved overtredelsen\ne. overtrederens økonomiske evne.",
+      "Ved vurderingen etter første ledd kan tilsynsmyndigheten også ta hensyn til\na. om noen som handler på vegne av foretaket, har utvist skyld\nb. sanksjonens preventive virkning\nc. om overtredelsen er begått for å fremme foretakets interesser\nd. om andre reaksjoner som følge av lovbruddet blir ilagt foretaket eller noen som har handlet på vegne av det, blant annet om noen enkeltperson blir ilagt administrativ sanksjon eller straff\ne. om overenskomst med fremmed stat eller internasjonal organisasjon forutsetter bruk av administrativ foretakssanksjon eller foretaksstraff."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 8 des 2025 nr. 2456 (i kraft 1 jan 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-5",
+     "nummer": "§ 6-5",
+     "tittel": "Den øvre rammen for hva et overtredelsesgebyr kan være",
+     "ledd": [
+      "Den øvre rammen for overtredelsesgebyr er 170 ganger folketrygdens grunnbeløp (G) for ett enkelt pliktbrudd. Grunnbeløpet på datoen for pliktbruddet legges til grunn for den øvre rammen.",
+      "Dersom virksomheten har begått flere pliktbrudd, eller på nytt begår tilsvarende pliktbrudd som tidligere er blitt sanksjonert, er den øvre rammen 340 G."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 8 des 2025 nr. 2456 (i kraft 1 jan 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-6",
+     "nummer": "§ 6-6",
+     "tittel": "Fristen for å betale overtredelsesgebyr",
+     "ledd": [
+      "Fristen for å betale overtredelsesgebyret er fire uker fra vedtaket ble truffet. Lengre frist kan fastsettes i vedtaket eller senere."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 8 des 2025 nr. 2456 (i kraft 1 jan 2026)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kap7",
+   "overskrift": "Kapittel 7. Avsluttende bestemmelser",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Kapittel endret ved forskrift 8 des 2025 nr. 2456 (i kraft 1 jan 2026, tidligere kapittel 6)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 7-1",
+     "tittel": "Tilsyn og håndhevelse",
+     "ledd": [
+      "Statens jernbanetilsyn skal føre tilsyn med at bestemmelsene i denne forskriften og i forskrifter og enkeltvedtak gitt i samsvar med den blir overholdt."
+     ],
+     "endringer": [
+      "Endret ved forskrift 8 des 2025 nr. 2456 (i kraft 1 jan 2026, tidligere § 6-1)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-2",
+     "nummer": "§ 7-2",
+     "tittel": "Klage",
+     "ledd": [
+      "Klage over enkeltvedtak truffet av Statens jernbanetilsyn etter forskriften her avgjøres av Samferdselsdepartementet."
+     ],
+     "endringer": [
+      "Endret ved forskrift 8 des 2025 nr. 2456 (i kraft 1 jan 2026, tidligere § 6-2)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-3",
+     "nummer": "§ 7-3",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Forskriften trer i kraft 1. januar 2023. Fra samme dato oppheves forskrift 21. juni 2017 nr. 907 om fornøyelsesinnretninger."
+     ],
+     "endringer": [
+      "Endret ved forskrift 8 des 2025 nr. 2456 (i kraft 1 jan 2026, tidligere § 6-3)."
+     ]
+    }
+   ]
+  }
+ ]
+}

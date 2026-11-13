@@ -1,0 +1,246 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2008-09-22-1080",
+ "dokumentid": "SF/forskrift/2008-09-22-1080",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Finanstilsynet, Finansmarkedsavdelingen"
+ ],
+ "kunngjort_i": "I 2008 hefte 11",
+ "ikraft": "2009-01-01",
+ "siste_endring_ikraft": "2026-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2025-12-08-2555",
+   "tekst": "forskrift/2025-12-08-2555 fra 2026-01-01"
+  }
+ ],
+ "endrer": "forskrift/1997-06-20-1057",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1956-12-07-1/§4",
+   "tekst": "lov/1956-12-07-1/§4"
+  },
+  {
+   "ref": "lov/1988-06-10-40/§2-9b",
+   "tekst": "lov/1988-06-10-40/§2-9b"
+  },
+  {
+   "ref": "lov/2002-07-05-64/§4-4",
+   "tekst": "lov/2002-07-05-64/§4-4"
+  },
+  {
+   "ref": "lov/2007-06-29-74/§11",
+   "tekst": "lov/2007-06-29-74/§11"
+  },
+  {
+   "ref": "lov/2015-04-10-17/§23-2",
+   "tekst": "lov/2015-04-10-17/§23-2"
+  },
+  {
+   "ref": "lov/2024-06-21-41/§7-1",
+   "tekst": "lov/2024-06-21-41/§7-1"
+  }
+ ],
+ "kunngjort": "2008-10-07 14:30",
+ "tittel": "Forskrift om risikostyring og internkontroll",
+ "annet": "Hjemmel: Fastsatt av Kredittilsynet 22. september 2008 med hjemmel i lov 7. desember 1956 nr. 1 om tilsynet med finansinstitusjoner mv. (finanstilsynsloven) § 4 nr. 2, lov 10. juni 1988 nr. 40 om finansieringsvirksomhet og finansinstitusjoner (finansieringsvirksomhetsloven) § 2-9b, lov 5. juli 2002 nr. 64 om registrering av finansielle instrumenter (verdipapirregisterloven) § 4-4 og lov 29. juni 2007 nr. 74 om regulerte markeder (børsloven) § 11.\nTilføyd hjemmel: Lov 21 juni 2024 nr. 41 om Finanstilsynet (finanstilsynsloven) § 7-1 annet ledd.\nEndret ved forskrifter 18 des 2009 nr. 1726, 9 des 2016 nr. 1528, 15 feb 2019 nr. 147, 29 juli 2020 nr. 1602 (i kraft 1 okt 2020), 14 des 2020 nr. 2898 (i kraft 1 jan 2021), 9 feb 2022 nr. 189, 18 feb 2022 nr. 315 (i kraft 1 mars 2022), 22 juni 2022 nr. 1139 (i kraft 1 jan 2023), 16 des 2022 nr. 2270 (i kraft 1 jan 2023), 28 juni 2023 nr. 1155 (i kraft 1 juli 2023), 8 des 2025 nr. 2555 (i kraft 1 jan 2026).",
+ "refid": "forskrift/2008-09-22-1080",
+ "eli": "/eli/forskrift/2008/09/22/1080",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2008-09-22-1080",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Forskriften gjelder for\n1. Regulerte markeder\n2. Verdipapirforetak\n3. Forvaltningsselskaper for verdipapirfond\n4. Betalingsforetak og opplysningsfullmektiger\n5. E-pengeforetak\n6. Forsikringsformidlingsvirksomhet\n7. Eiendomsmeglingsforetak\n8. Inkassoforetak\n9. Regnskapsforetak\n10. Gjeldsinformasjonsforetak\n11. Låneformidlingsvirksomhet, unntatt aksessorisk låneformidling\n12. Revisjonsforetak.\n13. Norsk naturskadepool."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 9 des 2016 nr. 1528 (i kraft 1 jan 2017), 15 feb 2019 nr. 147 (i kraft 1 april 2019), 29 juli 2020 nr. 1602 (i kraft 1 okt 2020), 14 des 2020 nr. 2898 (i kraft 1 jan 2021), 9 feb 2022 nr. 189, 18 feb 2022 nr. 315 (i kraft 1 mars 2022), 22 juni 2022 nr. 1139 (i kraft 1 jan 2023), 16 des 2022 nr. 2270 (i kraft 1 jan 2023), 28 juni 2023 nr. 1155 (i kraft 1 juli 2023), 8 des 2025 nr. 2555 (i kraft 1 jan 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Forholdsmessighet og virksomhet i enkeltpersonforetak",
+     "ledd": [
+      "Foretakene skal tilpasse risikostyringen og internkontrollen etter arten, omfanget av og kompleksiteten i foretakets virksomhet.",
+      "Der virksomheten drives i et enkeltpersonforetak, er innehaver av foretaket ansvarlig for å ivareta pliktene som påhviler styret og daglig leder etter forskriften her. Rapporteringsplikt etter § 8 annet ledd gjelder ikke for enkeltpersonforetak."
+     ],
+     "endringer": [
+      "Endret ved forskrift 14 des 2020 nr. 2898 (i kraft 1 jan 2021)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Ansvar for risikostyring og internkontroll",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 3",
+     "tittel": "Styret",
+     "ledd": [
+      "Styret skal påse at foretaket har hensiktsmessige systemer for risikostyring og internkontroll, herunder:\n1. at det er klar ansvarsdeling mellom styret og daglig ledelse fastsatt i instrukser for styret og daglig leder,\n2. at foretaket har en klar organisasjonsstruktur,\n3. fastsette mål og strategi for foretaket, samt overordnede retningslinjer for virksomheten. Det skal fremgå hvilken risikoprofil foretaket skal ha, samt hvilke risikorammer som gjelder der hvor dette er relevant,\n4. fastsette prinsipper for risikostyring og internkontroll for foretaket som helhet og innenfor hvert enkelt virksomhetsområde,\n5. påse at risikostyringen og internkontrollen blir etablert i samsvar med lover og forskrifter, vedtekter, pålegg fra Finanstilsynet og retningslinjer gitt av styret til administrasjonen, blant annet gjennom behandling av rapporter utarbeidet i henhold til § 8 og kapittel 4,\n6. påse at risikostyringen og internkontrollen er gjennomført og overvåket, blant annet gjennom behandling av rapporter utarbeidet i samsvar med § 8 og kapittel 4,\n7. avgjøre om foretaket skal ha internrevisjon i samsvar med § 9,\n8. evaluere sitt arbeid og sin kompetanse knyttet til foretakets risikostyring og internkontroll minimum årlig."
+     ],
+     "endringer": [
+      "Endret ved forskrift 18 des 2009 nr. 1726 (i kraft 21 des 2009)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 4",
+     "tittel": "Daglig leder",
+     "ledd": [
+      "Daglig leder skal:\n1. sørge for å etablere en forsvarlig risikostyring og internkontroll på basis av en vurdering av aktuelle risikoer etter retningslinjer fastsatt av styret,\n2. løpende følge opp endringer i foretakets risikoer, og påse at foretakets risikoer er forsvarlig ivaretatt i samsvar med styrets retningslinjer,\n3. gi styret relevant og tidsriktig informasjon som er av betydning for foretakets risikostyring og internkontroll, herunder informasjon om nye risikoer,\n4. påse at foretakets risikostyring og internkontroll er dokumentert,\n5. påse at risikostyringen og internkontrollen blir gjennomført og overvåket på en forsvarlig måte."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 5",
+     "tittel": "Utkontraktering",
+     "ledd": [
+      "Foretaket har ansvar for risikostyring og internkontroll også der deler av virksomheten er utkontraktert. Det skal foreligge en skriftlig avtale som sikrer dette. Avtalen må sikre at foretaket gis rett til innsyn i og kontroll med utkontraktert virksomhet.",
+      "Avtalen skal sikre at Finanstilsynet gis tilgang til opplysninger fra og tilsyn med virksomheten der Finanstilsynet finner det nødvendig.",
+      "Foretaket skal sørge for at organisasjonen besitter tilstrekkelig kompetanse til å håndtere utkontrakteringsavtalen."
+     ],
+     "endringer": [
+      "Endret ved forskrift 18 des 2009 nr. 1726 (i kraft 21 des 2009)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Risikostyring og internkontroll",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 6",
+     "tittel": "Risikostyring",
+     "ledd": [
+      "Foretaket skal løpende vurdere hvilke vesentlige risikoer som er knyttet til virksomheten. Ved endringer eller etablering av produkter og rutiner av vesentlig betydning skal en slik risikovurdering foreligge før virksomheten igangsettes.",
+      "Med utgangspunkt i definerte mål og strategier for virksomheten skal det minst én gang årlig foretas en gjennomgang av vesentlige risikoer for alle virksomhetsområder. Det skal for alle virksomhetsområder foretas en systematisk vurdering av om foretakets risikostyring og internkontroll er tilstrekkelig for å håndtere foretakets identifiserte risikoer på en forsvarlig måte."
+     ],
+     "endringer": [
+      "Endret ved forskrift 9 des 2016 nr. 1528 (i kraft 1 jan 2017)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 7",
+     "tittel": "Gjennomføring av internkontrollen",
+     "ledd": [
+      "Ledere på alle vesentlige virksomhetsområder skal løpende vurdere gjennomføringen av internkontrollen.",
+      "Det skal minst én gang årlig foretas en oppsummerende vurdering av om internkontrollen har vært gjennomført på en tilfredsstillende måte."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 8",
+     "tittel": "Dokumentasjon og rapportering",
+     "ledd": [
+      "Vurderingene etter § 6 annet ledd og § 7 annet ledd skal dokumenteres. Et sammendrag med konklusjoner om risikosituasjonen og om det er behov for nye tiltak skal foreligge for det enkelte virksomhetsområdet.",
+      "Daglig leder skal, minst én gang årlig, utarbeide en samlet vurdering av risikosituasjonen som skal forelegges styret til behandling.",
+      "Dokumentasjonen skal oppbevares i minst tre år, og være tilgjengelig for Finanstilsynet."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 18 des 2009 nr. 1726 (i kraft 21 des 2009), 9 des 2016 nr. 1528 (i kraft 1 jan 2017)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Internrevisjon eller uavhengig bekreftelse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 9",
+     "tittel": "Internrevisjon",
+     "ledd": [
+      "Foretak som nevnt i § 1 første ledd nr. 1, 4 og 5 skal ha internrevisjon. Det samme gjelder foretak som nevnt i § 1 første ledd som i mer enn 12 måneder har hatt en samlet forvaltningskapital for egen og kunders regning på mer enn 10 milliarder kroner eller inngår i finanskonsern med samlet forvaltningskapital som overstiger dette.",
+      "Leder av internrevisjonen skal tilsettes og avskjediges av styret, ha rett til å møte i styremøtene, samt avgi rapport om risikostyringen og internkontrollen minimum én gang pr. år. Styret skal godkjenne internrevisjonens ressurser og planer på årlig basis.",
+      "Internrevisjonen skal gjennomføres i henhold til anerkjente standarder og løpende følge foretakets virksomhet."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 9 des 2016 nr. 1528 (i kraft 1 jan 2017), 22 juni 2022 nr. 1139 (i kraft 1 jan 2023)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 10",
+     "tittel": "Uavhengig bekreftelse",
+     "ledd": [
+      "I foretak hvor det ikke er etablert internrevisjon skal styret sørge for at foretakets valgte revisor avgir en årlig bekreftelse til styret om\n- det er foretatt risikovurderinger i henhold til § 6 annet ledd\n- det er foretatt vurderinger i henhold til § 7 annet ledd\n- det foreligger dokumentasjon i samsvar med § 8\n- foretakets rutiner sikrer at den samlede vurdering av risikosituasjonen som er forelagt styret, jf. § 8 annet ledd, bygger på de risikovurderinger som er foretatt."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Unntak",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 11",
+     "tittel": "Unntak",
+     "ledd": [
+      "Finanstilsynet kan i særlige tilfeller gjøre unntak fra bestemmelsene i denne forskrift."
+     ],
+     "endringer": [
+      "Endret ved forskrift 18 des 2009 nr. 1726 (i kraft 21 des 2009)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Ikrafttredelse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 12",
+     "tittel": "Ikrafttredelse mv.",
+     "ledd": [
+      "Denne forskrift trer i kraft 1. januar 2009. Fra samme tidspunkt oppheves forskrift 20. juni 1997 nr. 1057 om klargjøring av kontrollansvar, dokumentasjon og bekreftelse av den interne kontroll. Kravene i forskriften skal være gjennomført innen 31. desember 2009."
+     ]
+    }
+   ]
+  }
+ ]
+}

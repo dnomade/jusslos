@@ -1,0 +1,330 @@
+{
+ "skjema": "1.0",
+ "type": "instruks",
+ "datokode": "FOR-2021-03-10-1311",
+ "dokumentid": "INS/forskrift/2021-03-10-1311",
+ "departement": [
+  "Samferdselsdepartementet"
+ ],
+ "etat": [
+  "Bane- og planavdelingen"
+ ],
+ "ikraft": "2021-03-10",
+ "endrer": "forskrift/2016-02-05-127",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "forskrift/2003-12-12-1938/§3",
+   "tekst": "forskrift/2003-12-12-1938/§3"
+  }
+ ],
+ "kunngjort": "2021-04-30 14:45",
+ "korttittel": "Instruks for Jernbanedirektoratet",
+ "tittel": "Instruks for Jernbanedirektoratet",
+ "annet": "Hjemmel: Fastsatt av Samferdselsdepartementet 10. mars 2021 med hjemmel i reglement 12. desember 2003 nr. 1938 for økonomistyring i staten § 3.",
+ "refid": "forskrift/2021-03-10-1311",
+ "eli": "/eli/forskrift/2021/03/10/1311",
+ "url": "https://lovdata.no/dokument/INS/forskrift/2021-03-10-1311",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "1. Innledning og formål",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Instruksen er fastsatt av Samferdselsdepartementet i medhold av reglement for økonomistyring i staten § 3.\nDenne instruksen erstatter instruks 5. februar 2016 nr. 127 for Jernbanedirektoratet fastsatt ved kongelig resolusjon samt instruks om økonomistyring for Jernbanedirektoratet fastsatt av Samferdselsdepartementet 15. november 2017.\nReglement for økonomistyring i staten og bestemmelser om økonomistyring i staten gjelder i sin helhet, med mindre Jernbanedirektoratet har fått innvilget unntak. Denne instruksen inneholder tillegg og presiseringer til dette regelverket.\nFormålet med instruksen er å klargjøre myndighet og ansvar mellom Samferdselsdepartementet og Jernbanedirektoratet."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "2. Organisering",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Jernbanedirektoratet er et forvaltningsorgan underlagt Samferdselsdepartementet.\nJernbanedirektoratet ledes av jernbanedirektøren som utnevnes på åremål av Kongen etter innstilling fra samferdselsministeren."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "3. Roller, myndighets- og ansvarsavklaring (jf. bestemmelsene 1.3)",
+   "innhold": [
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-1",
+     "navn": "kap3.1",
+     "overskrift": "3.1 Samferdselsdepartementets overordnede ansvar",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Samferdselsdepartementet har ansvar for etatsstyringen av Jernbanedirektoratet. Det innebærer å føre kontroll med at Jernbanedirektoratet driver effektivt og i samsvar med Stortingets forutsetninger og vedtak og departementets fastsatte mål og prioriteringer."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-2",
+     "navn": "kap3.2",
+     "overskrift": "3.2 Jernbanedirektoratets roller og ansvar",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Jernbanedirektoratets samfunnsoppdrag er å nå overordnede mål om en effektiv, sikker og miljøvennlig jernbanesektor. Jernbanedirektoratet skal ivareta den strategiske, helhetlige og overordnede koordineringen og planleggingen av jernbanesektoren og skal legge samfunnsøkonomiske lønnsomhetsvurderinger til grunn for sin virksomhet. Direktoratet skal spesielt ved avtaleinngåelse ha fokus på at prosjekter og tiltak blir optimalisert, dvs. at kostnadene søkes redusert og nytten økt. Videre skal direktoratet ha fokus på målene i Nasjonal Transportplan. Jernbanedirektoratet utøver sitt samfunnsoppdrag ved å være avtalepart, fagorgan og myndighetsorgan.\nJernbanedirektoratet blir delegert budsjettdisponeringsfullmakt fra SD gjennom tildelingsbrev. Jernbanedirektoratet skal følge opp bevilgningene gjennom avtalestyring med aktørene i sektoren for hhv kjøp av persontogtjenester, planlegging, fornying, drift og vedlikehold og bygging av infrastruktur, anskaffelser av togmateriell og reise- og billetteringstjenester. Jernbanedirektoratet skal være en krevende kjøper og legge forretningsmessige vurderinger til grunn for avtaleinngåelsen og avtalene skal være i tråd med Stortingets fullmakter.\nGjennom forretningsmessig avtalestyring og samhandling med berørte aktører, skal direktoratet sikre god koordinering mellom utviklingen av togtilbud og investeringer i nytt togmateriell, digitale løsninger og behov for tiltak i infrastrukturen."
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-3-kapittel-2-kapittel-1",
+       "navn": "kap3.2.1",
+       "overskrift": "3.2.1 Jernbanedirektoratet som avtalepart",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Jernbanedirektoratet skal inngå avtaler som sikrer at helheten og sammenhengene i et velfungerende jernbanesystem blir ivaretatt. Jernbanedirektoratet skal være en krevende kjøper og utvikle, inngå og følge opp forretningsmessige avtaler med aktørene i jernbanesektoren. Avtalene må koordineres slik at de sammen bidrar til å nå de felles overordnede transportpolitiske målene. Avtalene skal legge til rette for at det oppnås mest mulig nytte for avtalt vederlag samt innovasjon.\nJernbanedirektoratet skal inngå avtaler med Bane NOR SF om utredning, planlegging, utbygging, fornying, drift og vedlikehold iht. jernbaneforskriften § 3-2. Avtalene skal være på et overordnet nivå, legge til rette for porteføljestyring i Bane NOR SF med en entydig risikoplassering, og bidra til at foretaket som byggherre har incentiver til å optimalisere prosjektporteføljen og levere iht. til avtalt tid og kostnad. Avtalene skal ta utgangspunkt i rammeavtalen mellom Bane NOR og departementet og de fullmakter som er gitt av Stortinget.\nJernbanedirektoratet skal inngå avtaler med togselskapene om persontogtjenester, dvs forpliktelse til å yte offentlig tjeneste på vegne av staten iht. gjeldende regelverk og skal som hovedregel lyses ut gjennom konkurranse. Der det er nødvendig skal direktoratet gjennomføre kjøp som forhandles som direkteanskaffelse fra togoperatør.\nJernbanedirektoratet skal inngå avtaler med Norske tog AS om tilgang på persontogmateriell. Avtalene med Norske Tog AS skal være på et overordnet nivå, og skal sikre at selskapet er ansvarlig for toganskaffelser som ivaretar de avtalte togtjenester som direktoratet har kontraktsfestet med togoperatørene. Avtalene skal dekke Norske togs kostnader som følger av avtaleforpliktelsene.\nJernbanedirektoratet skal inngå avtaler med Entur AS om reiseinformasjon-, og billetteringstjenester. Direktoratet kan etter behov inngå takstsamarbeidsavtaler med fylkeskommuner og kollektivselskaper.\nJernbanedirektoratet skal i forbindelse med avtaleinngåelser legge vekt på at avtalene er realistiske og at risiko er entydig plassert. Leverandør skal som hovedregel bære risikoen for å levere oppdrag/tjeneste innenfor avtalt beløp. Avtaler skal inngås slik at leverandør får handlingsrom til å løse oppdraget på en måte som samlet sett gir mest mulig jernbane for pengene."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-3-kapittel-2-kapittel-2",
+       "navn": "kap3.2.2",
+       "overskrift": "3.2.2 Jernbanedirektoratet som fagorgan",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Som fagorgan har Jernbanedirektoratet et nasjonalt koordineringsansvar og faglig ansvar for å samordne sektoren.\nJernbanedirektoratet skal, på oppdrag og på eget initiativ, gi faglige råd til Samferdselsdepartementet. I de faglige rådene skal Jernbanedirektoratet synliggjøre hvordan vi kan få mest mulig jernbane for pengene, bidra til innovasjon og teknologisk utvikling, arbeide for at jernbanesektoren bidrar til å oppfylle nasjonale mål på klima- og miljøområdet, bidra til utviklingen av gode regionale bo og arbeidsmarkedsregioner og bidra til en god sikkerhet på jernbanen.\nJernbanedirektoratet har ansvar for utrednings- og planfasen før bestemmelsene i plan- og bygningsloven kommer til anvendelse, og skal sikre et godt faglig grunnlag for utvikling av jernbanens rolle i transportsystemet gjennom utredninger, analyser og utvikling av strategier i tidlig utrednings- og planfase. Direktoratet skal basere sine faglige råd på samfunnsøkonomiske lønnsomhetsberegninger. Direktoratet skal gi innspill om strategiske valg og strategisk utvikling av togtilbud med tilhørende tiltak til Nasjonal transportplan. Jernbanedirektoratet skal bidra inn i arbeidet med byvekstavtaler\nJernbanedirektoratet skal overvåke og være pådriver for at utdanningssystemet møter sektorens behov for kompetanse.\nJernbanedirektoratet skal gi faglige råd og bidra til utvikling av arbeidet med samfunnssikkerhet.\nJernbanedirektoratet skal delta i relevant internasjonalt samarbeid."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-3-kapittel-2-kapittel-3",
+       "navn": "kap3.2.3",
+       "overskrift": "3.2.3 Jernbanedirektoratet som myndighetsorgan",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Jernbanedirektoratet skal behandle klager i saker etter jernbaneloven § 10 om å utføre tiltak innenfor byggeforbudssonen og treffe vedtak om ekspropriasjon til jernbaneformål etter oreigningslova.\nJernbanedirektoratet skal vurdere og godkjenne systemer for billettering, angi fremgangsmåter for overlevering av reiseinformasjon og fastsette og kreve inn gebyr for tilknytning til og bruk av elektroniske støttesystemer for billettering.\nJernbanedirektoratet skal drive Norsk fagskole for lokomotivførere.\nJernbanedirektoratet skal bidra til at den felles bransjeforeningen behandler aktuelle og relevante spørsmål av betydning for sikkerheten på jernbanen.\nJernbanedirektoratet skal drive delegert etatsstyring av Norsk Jernbanemuseum."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "4. Styringsdialogen (jf. bestemmelsene 1.4)",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Forutsetninger og krav som Samferdselsdepartementet stiller til Jernbanedirektoratet, skal gå fram av den formelle styringsdialogen. Styringsdialogen omfatter styringsdokumenter, rapporter og møter av styringskarakter mellom departementet og etaten. Styringsdialogen skal dokumenteres.\nFølgende dokumenter er en del av styringsdialogen:\n- instruks for Jernbanedirektoratet\n- tildelingsbrev og eventuelle supplerende tildelingsbrev\n- referater fra etatsstyringsmøter\n- årsrapport fra etaten, inkl. årsregnskap\n- tertialrapporter\n- rapportering til statsregnskapet.\nDet holdes som hovedregel fire etatsstyringsmøter mellom Samferdselsdepartementet og Jernbanedirektoratet i løpet av året. Tidspunktet for etatsstyringsmøtene fremgår av tildelingsbrevet.\nI tillegg til dette vil det innenfor rammen av styringsdialogen holdes møter av faglig karakter mellom departementet og Jernbanedirektoratet. Eventuelle styringssignaler i disse møtene skal gis skriftlig i etterkant av møtet, normalt i form av supplerende tildelingsbrev."
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-4-kapittel-1",
+     "navn": "kap4.1",
+     "overskrift": "4.1 Rapportering (jf. bestemmelsene 1.6)",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Årsrapport\nJernbanedirektoratet skal utarbeide en årsrapport. Årsrapporten skal gi et dekkende bilde av etatens resultater og utarbeides etter fastsatt mal og i henhold til de krav som Samferdselsdepartementet har fastsatt i tildelingsbrevet med vedlegg og i eventuelle supplerende tildelingsbrev. Rapporten sendes til Samferdselsdepartementet med kopi til Riksrevisjonen innen fristen gitt i tildelingsbrevet.\nÅrsrapporten og Riksrevisjonens revisjonsberetning skal publiseres på Jernbanedirektoratet nettsider innen 1. mai. Før publisering skal årsrapporten ha vært behandlet i etatsstyringsdialogen. Dersom revisjonsberetningen ikke foreligger innen 1. mai skal beretningen publiseres så snart den foreligger\nTertialrapporter\nKrav til innholdet i tertialrapportene for budsjettåret går fram av tildelingsbrevet.\nÅrsregnskap\nJernbanedirektoratet skal ved årets slutt utarbeide og avlegge et årsregnskap med noter i tråd med pkt. 3.4 i bestemmelser om økonomistyring i staten, rundskriv R-115 fra Finansdepartementet og krav fra Samferdselsdepartementet.\nÅrsregnskapet skal gi et dekkende bilde av Jernbanedirektoratets disponible bevilgninger og av regnskapsførte utgifter, inntekter, eiendeler og gjeld. Det inngår som en del av årsrapporten.\nRapportering til statsregnskapet\nJernbanedirektoratet skal rapportere til statsregnskapet i henhold til pkt. 3.4 i bestemmelser om økonomistyring i staten.\nInformasjon ved viktige hendelser og avvik\nI tillegg til den periodiske rapporteringen skal Jernbanedirektoratet gjennom året på eget initiativ informere om vesentlige avvik fra vedtatte planer eller fra tildelingsbrev og supplerende tildelingsbrev og om viktige saker som berører virksomhetens ansvarsområde straks virksomheten får kjennskap til dette. Videre skal virksomheten foreslå mulige korrigerende tiltak."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "5. Krav til den interne styringen av Jernbanedirektoratet (jf. bestemmelsene kap 2)",
+   "innhold": [
+    {
+     "type": "seksjon",
+     "id": "kapittel-5-kapittel-1",
+     "navn": "kap5.1",
+     "overskrift": "5.1 Jernbanedirektørens myndighet og ansvar i den interne styringen (jf. bestemmelsene 2.2)",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Jernbanedirektøren har ansvaret for den interne styringen av virksomheten, herunder at økonomiforvaltningen i virksomheten blir ivaretatt på en tilfredsstillende måte og i samsvar med de krav som stilles av overordnet myndighet og i bestemmelser om økonomistyring i staten. Jernbanedirektøren skal påse at Jernbanedirektoratet drives effektivt i samsvar med lover, regler og god forvaltningsskikk ellers, samt i henhold til de krav som fastsettes i styringsdialogen med Samferdselsdepartementet.\nJernbanedirektøren har ansvaret for at etaten har dokumenterbare systemer for internkontroll og risikostyring, og at det gjennomføres evalueringer om egen effektivitet, måloppnåelse og resultater. Videre har Jernbanedirektøren ansvar for at etatens organisasjon, arbeidsmiljø og personalpolitikk er tjenlig og at kapasitet og kompetanse er tilpasset oppgavene og utnyttet effektivt."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-5-kapittel-2",
+     "navn": "kap5.2",
+     "overskrift": "5.2 Styringssystem",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Jernbanedirektoratet skal ha et styringssystem som ivaretar krav som Samferdselsdepartementet setter for å kunne ha en overordnet kontroll og oppfølging av virksomheten. Videre må virksomheten innrette sine systemer slik at de tilfredsstiller egne styringsbehov."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-5-kapittel-3",
+     "navn": "kap5.3",
+     "overskrift": "5.3 Planlegging, gjennomføring og oppfølging (jf. bestemmelsene 2.3.1)",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Jernbanedirektoratet skal planlegge og utarbeide strategier med ettårig og flerårig perspektiv tilpasset virksomhetens egenart og dokumentere disse gjennom interne styringsdokumenter. Jernbanedirektøren har ansvaret for at mål og resultatkrav fastsatt i tildelingsbrev og eventuelle supplerende tildelingsbrev følges opp og formaliseres, og at dette gjennomføres innenfor rammen av tildelte ressurser."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-5-kapittel-4",
+     "navn": "kap5.4",
+     "overskrift": "5.4 Internt disponeringsskriv",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "På grunnlag av tildelingsbrev og eventuelt supplerende tildelingsbrev fra Samferdselsdepartementet stiller jernbanedirektøren de tildelte midlene til disposisjon i etaten. Tildeling skal skje skriftlig."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-5-kapittel-5",
+     "navn": "kap5.5",
+     "overskrift": "5.5 Internkontroll (jf. bestemmelsene 2.4)",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Jernbanedirektoratet skal etablere internkontroll for å forhindre styringssvikt, herunder å forebygge og avdekke tilsiktede handlinger utført i strid med gjeldende lover og regler. Jernbanedirektøren har ansvaret for å påse at internkontrollen er tilpasset risiko og vesentlighet, og at den fungerer på en tilfredsstillende måte og kan dokumenteres. For å kunne utøve nødvendig internkontroll skal virksomhetens ledelse som en del av styringssystemet, etablere systemer, rutiner, metoder og tiltak, for å forebygge, avdekke og korrigere feil og mangler i systemer og rutiner i henhold til pkt. 2.4 i Bestemmelsene om økonomistyring i staten."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-5-kapittel-6",
+     "navn": "kap5.6",
+     "overskrift": "5.6 Risikostyring",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "I styringsdialogen med Samferdselsdepartementet skal Jernbanedirektoratet redegjøre for hvilken usikkerhet som er knyttet til de mål og resultater som etaten har ansvaret for, de andre jernbaneaktørene og redegjøre for hvordan usikkerheten blir håndtert og styrt. Etaten skal anbefale eller sette i verk tiltak for å håndtere risiko knyttet til mål- og resultatoppnåelsen.\nNærmere krav til risikostyring går fram av tildelingsbrevet."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-5-kapittel-7",
+     "navn": "kap5.7",
+     "overskrift": "5.7 Evaluering",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Jernbanedirektoratet skal sørge for at det gjennomføres evalueringer for å få informasjon om effektivitet, måloppnåelse og resultater innenfor hele eller deler av virksomhetens ansvarsområde og aktiviteter, jf. pkt. 2.6 i bestemmelser om økonomistyring i staten. Departementet kan også be virksomheten gjennomføre evalueringer. Slike oppdrag skal som hovedregel gis i tildelingsbrevet og på forhånd være drøftet mellom Jernbanedirektoratet og Samferdselsdepartementet."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "6. Økonomisystem og regnskapsføring (jf. bestemmelsene 2.5, kap. 3-8)",
+   "innhold": [
+    {
+     "type": "seksjon",
+     "id": "kapittel-6-kapittel-1",
+     "navn": "kap6.1",
+     "overskrift": "6.1 Økonomisystem og behandling av inntekter og utgifter",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Jernbanedirektoratet skal innrette regnskapsføringen og økonomistyringen slik at den er i samsvar med kravene i reglement for økonomistyring i staten og Bestemmelsene i økonomistyring i staten. Avgjørelser, fullmakter og organisering av arbeidet skal være dokumentert.\nVirksomheten skal ha systemer og rutiner som sikrer at inntekter, utgifter, anskaffelser, tilskudd, lønn og lønnsopplysningspliktige ytelser blir håndtert i samsvar med gjeldende lover, regler og avtaler, og at inntekter og utgifter følges opp i forhold til budsjett og fastsatte planer.\nFør utbetaling skal finne sted, skal utgifter være attestert. Videre skal alle disposisjoner som medfører økonomiske forpliktelser for virksomheten, bekreftes av en tilsatt som har budsjettdisponeringsmyndighet.\nJernbanedirektøren kan delegere sin budsjettdisponeringsmyndighet helt eller delvis til tilsatte på lavere nivåer. Delegert budsjettdisponeringsmyndighet kan delegeres videre. Slik delegering skal være skriftlig. Virksomheten skal ha rutiner for oppfølging av delegert budsjettdisponeringsmyndighet. Den som har budsjettdisponeringsmyndighet, kan ikke godkjenne godtgjørelser eller andre utbetalinger til seg selv.\nJernbanedirektoratet skal ha systemer og rutiner som sikrer at inntektskrav blir juridisk bindende, og at krav blir fastsatt, utstedt og innbetalt med riktig beløp innen tidsfrist, samt følge opp krav som ikke er betalt ved forfall.\nAlle saker om ettergivelse av krav der det ikke foreligger hjemmel i lov eller plenarvedtak, skal forelegges Samferdselsdepartementet som legger saken frem for Finansdepartementet."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-6-kapittel-2",
+     "navn": "kap6.2",
+     "overskrift": "6.2 Lønn og lønnsopplysningspliktige ytelser",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Virksomheten skal etablere systemer og rutiner som sikrer at lønn og andre lønnsopplysningspliktige ytelser blir korrekt registrert, beregnet, bokført, utbetalt og rapportert."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-6-kapittel-3",
+     "navn": "kap6.3",
+     "overskrift": "6.3 Kjøp av varer og tjenester",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Anskaffelser skal skje i henhold til gjeldende anskaffelsesregelverk. Jernbanedirektoratet skal etablere systemer og rutiner som sikrer at anskaffelse av varer og tjenester, skjer på en effektiv og forsvarlig måte i tråd med gjeldende lover og regler på området. God virksomhetsstyring innebærer en forpliktelse til å opptre etisk forsvarlig i alle sammenhenger."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-6-kapittel-4",
+     "navn": "kap6.4",
+     "overskrift": "6.4 Regnskapsføring",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Regnskapsføringen omfatter bokføring og pliktig regnskapsrapportering. Virksomhetens ledelse skal sikre at den pliktige regnskapsrapporteringen er i samsvar med de krav som er satt i pkt. 3.3.2 i bestemmelser om økonomistyring i staten.\nJernbanedirektoratet skal føre regnskapet etter kontantprinsippet."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-6-kapittel-5",
+     "navn": "kap6.5",
+     "overskrift": "6.5 Kontoplan",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Jernbanedirektoratet skal bokføre på artskonto i standard kontoplan fastsatt av Finansdepartementet i R-102, og slik det fremgår av bestemmelser om økonomistyring i staten pkt. 3.3.3."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-6-kapittel-6",
+     "navn": "kap6.6",
+     "overskrift": "6.6 Tilskuddsordninger",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Jernbanedirektoratet skal ha rutiner for forvaltning av tilskuddsordninger som virksomheten har ansvaret for."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-6-kapittel-7",
+     "navn": "kap6.7",
+     "overskrift": "6.7 Garantiordninger",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Jernbanedirektoratet skal ha rutiner for forvaltning av garantiordninger som virksomheten har ansvaret for."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

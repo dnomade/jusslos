@@ -1,0 +1,102 @@
+{
+ "skjema": "1.0",
+ "type": "lov",
+ "datokode": "LOV-2000-07-07-68",
+ "dokumentid": "NL/lov/2000-07-07-68",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "ikraft": "2001-01-01",
+ "siste_endring_ikraft": "2026-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "lov/2025-06-20-96",
+   "tekst": "lov/2025-06-20-96 fra 2026-01-01"
+  }
+ ],
+ "rettsomrade": [
+  "Fiskeri- og fangstrett og havbruk > Akvakultur. Havbruk",
+  "Fiskeri- og fangstrett og havbruk > Fiskeri",
+  "Næringsrett > Inn- og utførsel",
+  "Skatte- og avgiftsrett > Særavgifter > Mat og drikke"
+ ],
+ "siste_rettelse": "2021-09-27 (faglige fotnoter fjernet)",
+ "korttittel": "Lov om eksportavgift på fiskevarer – fiskekspal",
+ "tittel": "Lov om avgift til forskning og utvikling i fiskeri- og havbruksnæringen",
+ "refid": "lov/2000-07-07-68",
+ "eli": "/eli/lov/2000/07/07/68",
+ "url": "https://lovdata.no/dokument/NL/lov/2000-07-07-68",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Formål",
+   "ledd": [
+    "Formålet med loven er å styrke finansieringen av forskning og utvikling (FoU), for å legge til rette for økt verdiskaping, miljøtilpasning, omstilling og nyskaping i fiskeri- og havbruksnæringen."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Avgift",
+   "ledd": [
+    "Departementet kan gi forskrift om at den som eksporterer fisk og fiskevarer eller andre marine ressurser, samt varer hvor marine ressurser utgjør en vesentlig del, skal betale en avgift beregnet av verdien ved eksport.",
+    "Departementet gir nærmere bestemmelser om avgiften, herunder om plikten til å svare avgift, størrelsen på avgiften, beregning av avgiften, innkreving av avgiften og anvendelse av avgiftsmidlene.",
+    "Skyldig avgift er tvangsgrunnlag for utlegg."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Forvaltning",
+   "ledd": [
+    "Avgiftsmidlene forvaltes av et aksjeselskap hvor staten eier alle aksjene. Aksjeselskapet skal utføre de oppgaver som er fastsatt i eller i medhold av loven.",
+    "Utgifter til forvaltning og administrasjon av aksjeselskapet dekkes av avgiftsmidlene.",
+    "Forvaltningsloven gjelder for aksjeselskapet. Enkeltvedtak som selskapet treffer, kan ikke påklages, og vedtakene kan bare omgjøres av selskapet selv.",
+    "Arkivlova kapittel 1, 2 og 4 gjelder for selskapet."
+   ],
+   "endringer": [
+    "Endret ved lover 9 des 2011 nr. 56 (ikr. 1 jan 2012 iflg. res. 9 des 2011 nr. 1221), 25 mai 2018 nr. 20 (ikr. 1 jan 2019 iflg. res. 25 mai 2018 nr. 756, selskapet skal treffe avgjørelse i saker som ikke er endelig avgjort på det tidspunktet loven begynner å gjelde), 20 juni 2025 nr. 96 (i kraft 1 jan 2026 iflg. res. 12 des 2025 nr. 2510)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Opplysningsplikt",
+   "ledd": [
+    "Den som eksporterer varer som omfattes av loven plikter å gi de opplysninger som er nødvendige for at forvaltningen skal kunne utføre sine oppgaver etter loven."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Forskrifter",
+   "ledd": [
+    "Departementet kan gi forskrift om aksjeselskapets organisering og saksbehandling, oppløsning av selskapet, saksbehandlingen i saker om vedtak etter § 2 og omfanget av opplysningsplikten etter § 4."
+   ],
+   "endringer": [
+    "Endret ved lov 25 mai 2018 nr. 20 (ikr. 1 jan 2019 iflg. res. 25 mai 2018 nr. 756, selskapet skal treffe avgjørelse i saker som ikke er endelig avgjort på det tidspunktet loven begynner å gjelde)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Loven trer i kraft fra den tid Kongen[1] bestemmer."
+   ],
+   "fotnoter": [
+    {
+     "nr": "1",
+     "tekst": "Fra 1 jan 2001 iflg. res. 7. juli 2000 nr. 728."
+    }
+   ]
+  }
+ ]
+}

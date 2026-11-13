@@ -1,0 +1,494 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-1999-08-23-957",
+ "dokumentid": "SF/forskrift/1999-08-23-957",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Finansmarkedsavd."
+ ],
+ "kunngjort_i": "Avd I 1999 2135",
+ "ikraft": "1999-11-01",
+ "siste_endring_ikraft": "2024-11-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2024-11-01-2613",
+   "tekst": "forskrift/2024-11-01-2613"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1998-07-17-56/§10-1",
+   "tekst": "lov/1998-07-17-56/§10-1"
+  }
+ ],
+ "korttittel": "Forskrift om årsregnskap for verdipapirforetak m.m.",
+ "tittel": "Forskrift om årsregnskap m.m. for verdipapirforetak, forvaltningsselskap og AIF-forvaltere med tillatelse",
+ "annet": "Hjemmel: Fastsatt av Finans- og tolldepartementet (nå Finansdepartementet) 23. august 1999 med hjemmel i lov av 17. juli 1998 nr. 56 om årsregnskap m.v (regnskapsloven) § 10-1 tredje ledd.\nEØS-henvisninger: EØS-avtalen vedlegg IX nr. 21 (direktiv 2001/65/EF).\nEndret ved forskrifter 23 feb 2004 nr. 432, 20 des 2005 nr. 1600, 21 feb 2006 nr. 245, 30 mars 2007 nr. 371, 29 juni 2007 nr. 876, 18 des 2009 nr. 1689, 18 des 2009 nr. 1726, 20 des 2011 nr. 1422, 22 aug 2014 nr. 1098, 13 des 2016 nr. 1574, 19 des 2019 nr. 2111 (i kraft 31 des 2019), 1 nov 2024 nr. 2613.",
+ "refid": "forskrift/1999-08-23-957",
+ "eli": "/eli/forskrift/1999/08/23/957",
+ "url": "https://lovdata.no/dokument/SF/forskrift/1999-08-23-957",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kap. 1. Alminnelige bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1-1",
+     "tittel": "Forskriftens virkeområde",
+     "ledd": [
+      "Forskriften gjelder\n1. verdipapirforetak, jf. lov 29. juni 2007 nr. 75 om verdipapirhandel § 2-3 første ledd, som ikke er kredittinstitusjon\n2. forvaltningsselskap for verdipapirfond, jf. lov 25. november 2011 nr. 44 om verdipapirfond § 1-2 første ledd nr. 2\n3. forvaltere av alternative investeringsfond, jf. lov 20. juni 2014 nr. 28 om forvaltning av alternative investeringsfond § 1-2 første ledd bokstav b, som har tillatelse etter samme lov § 2-2\n4. norske filialer av utenlandske verdipapirforetak\n5. morselskap til foretak nevnt i nr. 1-3, jf. lov 29. juni 2007 nr. 75 om verdipapirhandel § 9-21 første ledd nr. 3.",
+      "Regnskapslovens bestemmelser om små foretak gjelder ikke institusjoner som nevnt i første ledd."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 23 feb 2004 nr. 432 (fom regnskapsår påbegynt i 2004), 20 des 2005 nr. 1600 (fom regnskapsår som starter 1 jan 2005 eller senere), 21 feb 2006 nr. 245 (fom regnskapsår påbegynt 1 jan 2006 eller senere), 29 juni 2007 nr. 876 (i kraft 1 nov 2007), 18 des 2009 nr. 1689 (fom regnskapsår påbegynt 1 jan 2009 eller senere), 13 des 2016 nr. 1574 (i kraft 1 jan 2017)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 1-2",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Opphevet ved forskrift 30 mars 2007 nr. 371 (fom regnskapsår påbegynt 1 jan 2007 eller senere)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 1-3",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "Begrepet verdipapirforetak i denne forskrift skal også omfatte forvaltningsselskap for verdipapirfond med tillatelse etter verdipapirfondloven § 2-1 annet ledd, forvaltere av alternative investeringsfond med tillatelse etter AIF-loven § 2-2 tredje ledd, og morselskap som nevnt i § 1-1 nr. 5."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 21 feb 2006 nr. 245 (fom regnskapsår påbegynt 1 jan 2006 eller senere), endret ved forskrift 13 des 2016 nr. 1574 (i kraft 1 jan 2017)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 1-4",
+     "tittel": "Innsending til Finanstilsynet",
+     "ledd": [
+      "Foretak nevnt i denne forskrift § 1-1 nr. 1, 2, 3 og 5, skal innen 90 dager etter utløpet av regnskapsåret sende inn styregodkjent årsregnskap med revisors beretning til Finanstilsynet."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 13 des 2016 nr. 1574 (i kraft 1 jan 2017)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kap. 2. Årsregnskap og årsberetning",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 2-1",
+     "tittel": "Rettvisende bilde",
+     "ledd": [
+      "Hvis anvendelsen av en bestemmelse i kapittel 3 til 5 i denne forskrift i særlige unntakstilfeller er uforenlig med plikten til å gi et rettvisende bilde av årsregnskapet, skal bestemmelsen fravikes for å gi et rettvisende bilde som fastsatt i regnskapsloven § 3-2a første ledd."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 20 des 2005 nr. 1600 (fom regnskapsår som starter 1 jan 2005 eller senere)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 2-2",
+     "tittel": "Årsberetningens innhold",
+     "ledd": [
+      "I årsberetningen skal det gis følgende opplysninger i tillegg til det som følger av regnskapsloven § 2-2:\n1. Dersom foretakets kapitaldekning er under gjeldende minimumskrav skal det gjøres oppmerksom på dette og redegjøres for tiltak som er truffet for å sikre foretakets drift."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 23 feb 2004 nr. 432 (fom regnskapsår påbegynt i 2004), 20 des 2005 nr. 1600 (fom regnskapsår som starter 1 jan 2005 eller senere, tidligere § 2-1), 13 des 2016 nr. 1574 (i kraft 1 jan 2017), 1 nov 2024 nr. 2613."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 2-3",
+     "tittel": "Begrensninger i unntak fra konsernregnskapsplikten",
+     "ledd": [
+      "Unntaket fra konsernregnskapsplikten etter regnskapsloven § 3-7 gjelder bare der verdipapirforetakets morselskap er foretak som nevnt i § 1-1 eller institusjon som reguleres av forskrift om årsregnskap m.m. for banker, finansieringsforetak og morselskap for slike.",
+      "Finanstilsynet kan i særlige tilfeller tillate andre unntak fra konsernregnskapsplikten i samsvar med regnskapsloven § 3-7."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 20 des 2005 nr. 1600 (fom regnskapsår som starter 1 jan 2005 eller senere, tidligere § 2-3), 21 feb 2006 nr. 245 (fom regnskapsår påbegynt 1 jan 2005 eller senere, tidligere § 2-4), 18 des 2009 nr. 1726 (i kraft 21 des 2009)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 2-4",
+     "tittel": "Valg av regnskapsmodell",
+     "ledd": [
+      "Foretak som nevnt i § 1-1 kan utarbeide selskapsregnskap etter regnskapsloven § 3-9 annet ledd, forskrift 21. januar 2008 nr. 57 om forenklet anvendelse av internasjonale regnskapsstandarder eller ordinære regler i regnskapsloven og denne forskrift. Tilsvarende gjelder ved utarbeidelse av konsernregnskap for foretak som ikke omfattes av forordning (EF) nr. 1606/2002 artikkel 4."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 18 des 2009 nr. 1689 (fom regnskapsår påbegynt 1 jan 2009 eller senere)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 2-5",
+     "tittel": "Regnskap utarbeidet etter regnskapsloven § 3-9",
+     "ledd": [
+      "For årsregnskap utarbeidet i samsvar med regnskapsloven § 3-9, gjelder kun følgende bestemmelser i denne forskrift; § 1-1, § 2-2, § 2-4, § 5-9 femte ledd, § 5-13, § 5-16 og § 5-17."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 20 des 2005 nr. 1600 (fom regnskapsår som starter 1 jan 2005 eller senere). Endret ved forskrifter 21 feb 2006 nr. 245 (fom regnskapsår påbegynt 1 jan 2005 eller senere, tidligere § 2-5), 18 des 2009 nr. 1689 (fom regnskapsår påbegynt 1 jan 2009 eller senere, tidligere § 2-4), 22 aug 2014 nr. 1098 (i kraft 30 sep 2014)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kap. 3. Vurderingsregler",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 3-1",
+     "tittel": "Markedsbaserte finansielle omløpsmidler",
+     "ledd": [
+      "Finansielle instrumenter og varederivater som nevnt i regnskapsloven § 5-8 første ledd, skal vurderes til virkelig verdi dersom instrumentene\n1. er klassifisert som omløpsmiddel,\n2. inngår i en handelsportefølje med henblikk på videresalg, og\n3. omsettes i et aktivt og likvid marked."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 23 feb 2004 nr. 432 (fom regnskapsår påbegynt i 2004), 21 feb 2006 nr. 245 (fom regnskapsår påbegynt 1 jan 2005 eller senere)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 3-2",
+     "tittel": "Gjeld",
+     "ledd": [
+      "Denne forskrift § 3-1 gjelder tilsvarende for gjeld. For gjeld som ikke behandles etter første punktum, gjelder vurderingsreglene i regnskapsloven kapittel 5 med unntak av § 5-8 og § 5-13 første ledd."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kap. 4. Resultatregnskap og balanse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 4-1",
+     "tittel": "Resultatregnskap",
+     "ledd": [
+      "Resultatregnskapets oppstillingsplan som nevnt i regnskapsloven § 6-1 første ledd, skal for post 9 annen driftskostnad, oppdeles i følgende poster:\n9.1 Tap på fordringer\n9.2 Annen driftskostnad.",
+      "Resultatregnskapets oppstillingsplan som nevnt i regnskapsloven § 6-1a første ledd post 2 omfatter kostnad solgte tjenester og skal inndeles i følgende poster:\n2.1 tap på fordringer\n2.2 kostnad solgte tjenester."
+     ],
+     "endringer": [
+      "Endret ved forskrift 21 feb 2006 nr. 245 (fom regnskapsår påbegynt 1 jan 2006 eller senere)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 4-2",
+     "tittel": "Balanse",
+     "ledd": [
+      "Balansens oppstillingsplan som nevnt i regnskapsloven § 6-2 første ledd, skal for post B II fordringer, oppdeles i følgende poster:\n1. Kundefordringer\n2. Fordringer på verdipapirforetak\n3. Andre fordringer\n4. Krav på innbetaling av selskapskapital.",
+      "Regnskapsloven § 6-2 annet ledd gjelder ikke. Beholdning av egne aksjer skal føres opp til pålydende på egen linje under posten selskapskapital.",
+      "Balansens oppstillingsplan som nevnt i regnskapsloven § 6-2 første ledd, skal for post D III kortsiktig gjeld, oppdeles i følgende poster:\n1. Konvertible lån\n2. Sertifikatlån\n3. Gjeld til kredittinstitusjoner\n4. Gjeld til verdipapirforetak\n5. Gjeld til kunder\n6. Leverandørgjeld\n7. Betalbar skatt\n8. Skyldige offentlige avgifter\n9. Utbytte\n10. Annen kortsiktig gjeld."
+     ],
+     "endringer": [
+      "Endret ved forskrift 21 feb 2006 nr. 245 (fom regnskapsår påbegynt 1 jan 2006 eller senere)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 4-3",
+     "tittel": "Klientmidler",
+     "ledd": [
+      "Finansielle instrumenter og andre midler som oppbevares av verdipapirforetaket, men som tilhører investorene (klientmidler) skal ikke oppføres i verdipapirforetakets balanse.",
+      "Dersom klientmidlene overstiger klientansvaret (klientgjelden) er det overskytende verdipapirforetakets eiendel og skal oppføres i verdipapirforetakets balanse.",
+      "Dersom klientmidlene ikke fullt ut dekker klientansvaret er underdekningen verdipapirforetakets gjeld til klienten og skal oppføres som kortsiktig gjeld i verdipapirforetakets balanse."
+     ],
+     "endringer": [
+      "Endret ved forskrift 13 des 2016 nr. 1574 (i kraft 1 jan 2017)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 4-4",
+     "tittel": "Nettoføring",
+     "ledd": [
+      "Nettoføring av en eiendelspost og en gjeldspost er ikke tillatt med mindre det foreligger en juridisk rett til å motregne postene."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kap. 5. Noteopplysninger",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 5-1",
+     "tittel": "Alminnelig opplysningsplikt",
+     "ledd": [
+      "Regnskapsloven kapittel 7 om noteopplysninger gjelder med de unntak og tillegg som følger av bestemmelsene i dette kapittel. Opplysninger i dette kapittel kan utelates når de ikke er av betydning for å bedømme foretakets eller konsernets stilling og resultat."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 5-1a",
+     "tittel": "Rettvisende bilde",
+     "ledd": [
+      "Hvis anvendelsen av bestemmelsene i regnskapsloven og denne forskrift ikke er tilstrekkelig for å gi et rettvisende bilde som nevnt i regnskapsloven § 3-2a første ledd, skal det gis tilleggsopplysninger.",
+      "Dersom foretaket er engasjert i aktiviteter med vesentlig risiko eller vesentlige fordeler som ikke er innregnet i balansen, skal tilleggsopplysningene etter første ledd omfatte en beskrivelse av aktivitetenes finansielle virkning og formålet med dem.",
+      "Ethvert fravik som nevnt i § 2-1 i denne forskrift skal angis. Regnskapsloven § 7-1 sjette ledd annet punktum gjelder tilsvarende."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 20 des 2005 nr. 1600 (fom regnskapsår som starter 1 jan 2005 eller senere), endret ved forskrift 20 des 2011 nr. 1422 (fom regnskapsår påbegynt 1 jan 2011 eller senere)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 5-2",
+     "tittel": "Regnskapsprinsipper",
+     "ledd": [
+      "Opplysninger om anvendte regnskapsprinsipper etter regnskapsloven § 7-2 skal minst omfatte følgende opplysninger:\n1. Prinsippene for beregning av virkelig verdi, herunder om beregningen bygger på observerbare markedsverdier eller om virkelig verdi er beregnet på en annen måte. Det skal opplyses om usikkerheter i beregningene.\n2. Prinsippene for regnskapsmessig behandling av sikringsvurdering og eventuell porteføljevurdering og kriteriene som er lagt til grunn for slik vurdering. Bruk av sikringsvurdering og porteføljevurdering skal begrunnes.\n3. Prinsippene for regnskapsmessig behandling av finansielle derivater, herunder kriteriene for klassifikasjon.\n4. Prinsippene for klassifikasjon av finansielle instrumenter som markedsbaserte finansielle omløpsmidler jf. § 3-1, herunder kriteriene for klassifikasjon av finansielle instrumenter i handelsportefølje.\n5. Prinsippene for regnskapsmessig behandling av gjeld.\n6. Prinsippene for omregning av utenlandsk valuta."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-4",
+     "nummer": "§ 5-3",
+     "tittel": "Endringer i egenkapitalen",
+     "ledd": [
+      "Regnskapsloven § 7-25 gjelder ikke. Det skal opplyses om endringer i egenkapital i løpet av regnskapsåret. Det skal gis opplysning om innholdet i hver enkelt endring. Opplysningene kan i stedet gis i oppstillingen av endringer i egenkapitalen."
+     ],
+     "endringer": [
+      "Endret ved forskrift 21 feb 2006 nr. 245 (fom regnskapsår påbegynt 1 jan 2005 eller senere)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-5",
+     "nummer": "§ 5-4",
+     "tittel": "Finansiell markedsrisiko",
+     "ledd": [
+      "Opplysninger om finansiell markedsrisiko som nevnt i regnskapsloven § 7-5 annet ledd skal minst omfatte:\n1. Opplysninger om hvordan virkelig verdi av finansielle instrumenter som er rentebærende eller har annen rentetilknytning påvirkes av endringer i rentenivået. Som et minimum skal det gis opplysninger om tidsrommet fram til avtalt tidspunkt for endring av rentebetingelser. Renteendringstidspunktene skal inndeles etter følgende intervaller: inntil 1 måned, fra 1 måned til 3 måneder, fra 3 måneder til 1 år, fra 1 år til 5 år, over 5 år, poster uten løpetid og totalt for alle intervaller inklusive poster uten løpetid.\n2. Opplysninger om hvordan virkelig verdi av finansielle instrumenter påvirkes av valutakursendringer. Som minimum skal det gis opplysninger om valutaposisjoner for de viktigste valutaene. Nettoposisjonen per valuta omregnet til norske kroner skal spesifiseres på hovedgrupper av finansielle eiendeler, gjeld og ikke balanseførte derivater.\n3. En redegjørelse for risikoprofilen i aksjeporteføljen.",
+      "Dersom risikoprofilen på balansedagen avviker vesentlig fra situasjonen gjennom året eller etter regnskapsårets utgang, skal det gis ytterligere opplysning om dette."
+     ],
+     "endringer": [
+      "Endret ved forskrift 23 feb 2004 nr. 432 (fom regnskapsår påbegynt i 2004)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-6",
+     "nummer": "§ 5-5",
+     "tittel": "Likviditetsrisiko",
+     "ledd": [
+      "I tillegg til opplysninger som nevnt i regnskapsloven §§ 7-19 og 7-21 første ledd, skal det opplyses om avtalt restløpetid fordelt på hovedgrupper av finansielle eiendeler, gjeld og ikke balanseførte derivater. Restløpetiden skal inndeles etter følgende intervaller: inntil 1 måned, fra 1 måned til 3 måneder, fra 3 måneder til 1 år, fra 1 år til 5 år, over 5 år og totalt for alle intervaller. Hvis enkelte av eiendels- eller gjeldspostene skal tilbakebetales i rater, skal restløpetiden være tiden fra balansedagen til det mest sannsynlige forfallstidspunkt for hvert enkelt avdrag."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-7",
+     "nummer": "§ 5-6",
+     "tittel": "Finansielle derivater",
+     "ledd": [
+      "Det skal gis opplysninger om formålet med foretakets bruk av finansielle derivater.",
+      "Det skal gis opplysninger om egenskaper ved, samt nominelt beløp og virkelig verdi per årsslutt for henholdsvis renterelaterte derivater, valutarelaterte derivater, egenkapitalrelaterte derivater samt andre finansielle derivater, herunder råvarederivater. Opplysningene skal omfatte vesentlige betingelser og forhold som kan påvirke beløpsstørrelse, tidfesting og usikkerhet ved fremtidige kontantstrømmer. Dersom nominelt beløp ikke er representativt for aktiviteten gjennom året skal gjennomsnittlig nominelt beløp for året oppgis. Opplysningene skal gis fordelt på finansielle derivater klassifisert som omløpsmidler i handelsporteføljen og andre finansielle derivater. Virkningen av motregning, jf. verdipapirhandelloven kapittel 14, skal fremkomme. Det skal redegjøres for definisjon av nominelt beløp. Regnskapsloven § 7-5 første ledd og § 7-17 annet ledd gjelder ikke."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 23 feb 2004 nr. 432 (fom regnskapsår påbegynt i 2004), 29 juni 2007 nr. 876 (i kraft 1 nov 2007), 13 des 2016 nr. 1574 (i kraft 1 jan 2017)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-8",
+     "nummer": "§ 5-7",
+     "tittel": "Salgsinntekter og land-for-land rapportering",
+     "ledd": [
+      "Spesifikasjon av salgsinntekter på virksomhetsområder som nevnt i regnskapsloven § 7-8, skal minst foretas for hver type investeringstjeneste som nevnt i verdipapirhandelloven § 2-1 første ledd, samt samlet for tilknyttede tjenester som nevnt i verdipapirhandelloven § 2-1 annet ledd.",
+      "Virksomhetsnavn, virksomhetsområde, geografisk marked, inntekter, antall årsverk, resultat før skattekostnad, skattekostnad og mottatte offentlige subsidier skal spesifiseres på land på konsolidert grunnlag."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 29 juni 2007 nr. 876 (i kraft 1 nov 2007), 19 des 2019 nr. 2111 (i kraft 31 des 2019)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-9",
+     "nummer": "§ 5-8",
+     "tittel": "Egne aksjer",
+     "ledd": [
+      "Regnskapsloven § 7-27 første ledd gjelder ikke."
+     ],
+     "endringer": [
+      "Opphevet ved forskrift 23 feb 2004 nr. 432. Tilføyd ved forskrift 21 feb 2006 nr. 245 (fom regnskapsår påbegynt 1 jan 2006 eller senere)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-10",
+     "nummer": "§ 5-9",
+     "tittel": "Aksjer og andeler i andre selskaper",
+     "ledd": [
+      "Regnskapsloven § 7-18 gjelder ikke.",
+      "For investeringer i aksjer og andeler ført under eiendels post A III nr. 6 som er vurdert etter regnskapsloven § 5-8, skal det gis opplysninger som nevnt i regnskapsloven § 7-17 første ledd. I tillegg skal det opplyses om andel av balanseført verdi som er børsnoterte verdipapirer. For øvrige investeringer i aksjer og andeler ført under eiendelspost A III nr. 6, skal det opplyses om anskaffelseskost, virkelig verdi dersom slik verdi kan fastsettes, samt andel av balanseført verdi som er børsnoterte verdipapirer.",
+      "For markedsbaserte aksjer ført under eiendelspost B III nr. 2 skal det gis opplysninger som nevnt i regnskapsloven § 7-17 første ledd. I tillegg skal det opplyses om andel av balanseført verdi som er børsnoterte verdipapirer.",
+      "For investeringer i aksjer og andeler ført under eiendelspost B III nr. 5 som er vurdert etter regnskapsloven § 5-8, skal det gis opplysninger som nevnt i regnskapsloven § 7-17 første ledd. I tillegg skal det opplyses om andel av balanseført verdi som er børsnoterte verdipapirer. For øvrige investeringer i aksjer og andeler ført under eiendelspost B III nr. 5, skal det opplyses om anskaffelseskost, virkelig verdi dersom slik verdi kan fastsettes, samt andel av balanseført verdi som er børsnoterte verdipapirer.",
+      "Investeringer i aksjer og andeler oppført i balansen under post A III nr. 6 og post B III nr. 2 og nr. 5 skal spesifiseres etter selskap. Spesifikasjonen skal omfatte de største investeringene og minst utgjøre 90% av samlet balanseført verdi av investeringene. For hvert selskap skal det opplyses om balanseført verdi, virkelig verdi der slik verdi kan fastsettes, eierandel og antall aksjer."
+     ],
+     "endringer": [
+      "Endret ved forskrift 23 feb 2004 nr. 432 (i kraft med virkning for regnskapsår påbegynt i 2004)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-11",
+     "nummer": "§ 5-10",
+     "tittel": "Obligasjoner",
+     "ledd": [
+      "Opplysninger om obligasjoner som nevnt i regnskapsloven § 7-20, skal gis fordelt på obligasjoner klassifisert som anleggsmidler, markedsbaserte obligasjoner og øvrige obligasjoner. Opplysning om gjennomsnittlig rente skal oppgis som gjennomsnittlig effektiv rente. Det skal opplyses om hvordan gjennomsnittlig effektiv rente er beregnet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-12",
+     "nummer": "§ 5-11",
+     "tittel": "Fordringer",
+     "ledd": [
+      "Det skal opplyses om totalt volum av fordringer som foretaket har identifisert som tapsutsatt som følge av svikt i kundens betalingsevne eller betalingsvilje. Opplysningen i første punktum skal uansett omfatte fordringer som ikke er betalt innen 30 dager etter forfall.",
+      "For fordringer skal det for hver balansepost opplyses om størrelsen på tapsavsetninger som er ført til fradrag. For hver av postene skal det dessuten opplyses om periodens endringer i spesifiserte tapsavsetninger etter følgende oppsett:\n| | Spesifisert tapsavsetning 1. januar\n| – | Periodens konstaterte tap, hvor det tidligere er foretatt spesifisert tapsavsetning\n| + | Økte spesifiserte tapsavsetninger i perioden\n| + | Nye spesifiserte tapsavsetninger\n| – | Tilbakeføring av spesifiserte tapsavsetninger i perioden\n| = | Spesifisert tapsavsetning 31. desember"
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-13",
+     "nummer": "§ 5-12",
+     "tittel": "Ansvarlig lånekapital i andre foretak (eiendel)",
+     "ledd": [
+      "For hver post under finansielle anleggsmidler skal det gis opplysninger om foretakets ansvarlige lånekapital i andre foretak."
+     ],
+     "endringer": [
+      "Endret ved forskrift 13 des 2016 nr. 1574 (i kraft 1 jan 2017)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-14",
+     "nummer": "§ 5-13",
+     "tittel": "Kapitaldekning",
+     "ledd": [
+      "Det skal opplyses om foretakets kapitaldekning, herunder risikovektet beregningsgrunnlag, startkapitalkrav, netto ansvarlig kapital og kapitaldekningsprosenten. Regnskapsloven § 6-6 om sammenligningstall gjelder tilsvarende.",
+      "Ansvarlig kapital skal spesifiseres på ren kjernekapital, kjernekapital og hver enkelt undergruppe av tilleggskapital, samt på fradrag. Forskjellen mellom ren kjernekapital og balanseført egenkapital skal spesifiseres og forklares.",
+      "Beregningsgrunnlaget skal spesifiseres på eiendeler som ikke inngår i handelsporteføljen, poster utenom balansen som ikke inngår i handelsporteføljen, poster som inngår i handelsporteføljen, samt beregningsgrunnlag fra valutarisiko.",
+      "Foretak som er omfattet av krav til ansvarlig kapital basert på faste kostnader, skal spesifisere beregningen av faste kostnader som utgjør grunnlaget for det påfølgende års kapitalkrav.",
+      "Verdipapirforetak som benytter basismetoden ved beregning av beregningsgrunnlaget for operasjonell risiko, skal spesifisere beregningen fordelt på årstall, driftsinntekter, finansinntekter og eventuelle kostnader."
+     ],
+     "endringer": [
+      "Endret ved forskrift 13 des 2016 nr. 1574 (i kraft 1 jan 2017)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-15",
+     "nummer": "§ 5-14",
+     "tittel": "Gjeld",
+     "ledd": [
+      "Opplysninger om gjennomsnittlig rente på gjeld som nevnt i regnskapsloven § 7-21 fjerde ledd skal også gis for gjeld ført under post D II nr. 4 øvrig langsiktig gjeld. Opplysning om gjennomsnittlig rente skal oppgis som gjennomsnittlig effektiv rente. Det skal i tillegg opplyses om hvordan gjennomsnittlig effektiv rente er beregnet."
+     ],
+     "endringer": [
+      "Endret ved forskrift 13 des 2016 nr. 1574 (i kraft 1 jan 2017)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-16",
+     "nummer": "§ 5-15",
+     "tittel": "Ansvarlig lånekapital (gjeld)",
+     "ledd": [
+      "Det skal gis en oversikt over betingelsene knyttet til ansvarlig lånekapital, herunder opplysning om avdragsstruktur, sikkerheter og rente."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-17",
+     "nummer": "§ 5-16",
+     "tittel": "Klientmidler",
+     "ledd": [
+      "Det skal opplyses om størrelsen av finansielle instrumenter og midler som tilhører investorene (klientmidler) som foretaket oppbevarer, samt om størrelsen på foretakets klientansvar (klientgjeld).",
+      "Dersom klientmidlene ikke fullt ut dekker klientansvaret skal underdekningen forklares. Tilsvarende gjelder dersom midler innestående på konto for klientmidler overstiger klientansvaret. Opplysningene skal gis henholdsvis for aktiv forvaltning av investorers portefølje og andre investeringstjenester."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-18",
+     "nummer": "§ 5-17",
+     "tittel": "Nøkkeltall",
+     "ledd": [
+      "Det skal opplyses om resultat etter skatt som prosent av forvaltningskapitalen."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 22 aug 2014 nr. 1098 (i kraft 30 sep 2014)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kap. 6. Avsluttende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 6-1",
+     "tittel": "Dispensasjon",
+     "ledd": [
+      "Finanstilsynet kan i det enkelte tilfelle dispensere fra bestemmelsene i denne forskrift."
+     ],
+     "endringer": [
+      "Endret ved forskrift 18 des 2009 nr. 1726 (i kraft 21 des 2009)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 6-2",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Denne forskrift trer i kraft 1. november 1999."
+     ]
+    }
+   ]
+  }
+ ]
+}

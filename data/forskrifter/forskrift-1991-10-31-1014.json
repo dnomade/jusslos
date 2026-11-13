@@ -1,0 +1,89 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-1991-10-31-1014",
+ "dokumentid": "SF/forskrift/1991-10-31-1014",
+ "departement": [
+  "Arbeids- og inkluderingsdepartementet"
+ ],
+ "etat": [
+  "Arbeidsmiljø- og sikkerhetsavd."
+ ],
+ "kunngjort_i": "Avd I 1995 171",
+ "ikraft": "1991-10-31",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1977-02-04-4/§69",
+   "tekst": "lov/1977-02-04-4/§69"
+  },
+  {
+   "ref": "lov/2005-06-17-62/§20-2",
+   "tekst": "lov/2005-06-17-62/§20-2"
+  }
+ ],
+ "korttittel": "Forskrift om arbeidsreglement i hotellbransjen",
+ "tittel": "Forskrift om plikt til å utarbeide arbeidsreglement ved virksomheter innen hotell- og restaurantbransjen.",
+ "annet": "Fastsatt av Kommunal- og arbeidsdepartementet 31. oktober 1991 med hjemmel i lov av 4. februar 1977 nr. 4 om arbeidervern og arbeidsmiljø m.v. (arbeidsmiljøloven) § 69 første ledd.",
+ "refid": "forskrift/1991-10-31-1014",
+ "eli": "/eli/forskrift/1991/10/31/1014",
+ "url": "https://lovdata.no/dokument/SF/forskrift/1991-10-31-1014",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Formål",
+     "ledd": [
+      "Forskriftens formål er å fremme arbeidervern og arbeidsmiljø m.v. i virksomheter innen hotell- og restaurantbransjen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Forskriften gjelder for enhver virksomhet innen hotell- og restaurantbransjen som sysselsetter arbeidstaker."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Arbeidsreglement",
+     "ledd": [
+      "Ved virksomhet innen hotell- og restaurantbransjen, som sysselsetter mer enn 10 arbeidstakere, skal det for de arbeidstakere som ikke har ledende eller kontrollerende stilling, være et arbeidsreglement."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 4",
+     "tittel": "Nærmere om pliktens innhold",
+     "ledd": [
+      "Reglene i §§ 69-73 i lov av 4. februar 1977 nr. 4 om arbeidervern og arbeidsmiljø m.v. (arbeidsmiljøloven) gjelder tilsvarende for virksomheter som omfattes av forskriften."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Denne forskrift trer i kraft straks."
+    }
+   ]
+  }
+ ]
+}

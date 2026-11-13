@@ -1,0 +1,429 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2001-03-20-504",
+ "dokumentid": "SF/forskrift/2001-03-20-504",
+ "departement": [
+  "Helse- og omsorgsdepartementet"
+ ],
+ "etat": [
+  "Mattilsynet"
+ ],
+ "kunngjort_i": "I 2001 hefte 6",
+ "ikraft": "2001-05-01",
+ "siste_endring_ikraft": "2022-12-12",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2022-12-12-2161",
+   "tekst": "forskrift/2022-12-12-2161"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2003-12-19-124/§12",
+   "tekst": "lov/2003-12-19-124/§12"
+  },
+  {
+   "ref": "lov/2003-12-19-124/§16",
+   "tekst": "lov/2003-12-19-124/§16"
+  },
+  {
+   "ref": "lov/2003-12-19-124/§33",
+   "tekst": "lov/2003-12-19-124/§33"
+  },
+  {
+   "ref": "lov/2003-12-19-124/§36",
+   "tekst": "lov/2003-12-19-124/§36"
+  },
+  {
+   "ref": "forskrift/2003-12-19-1790",
+   "tekst": "forskrift/2003-12-19-1790"
+  },
+  {
+   "ref": "forskrift/2004-05-05-884",
+   "tekst": "forskrift/2004-05-05-884"
+  }
+ ],
+ "kunngjort": "2001-05-22",
+ "siste_rettelse": "2022-03-22 (struktur)",
+ "tittel": "Forskrift om behandling av næringsmidler med ioniserende stråling",
+ "annet": "Hjemmel: Fastsatt av Sosial- og helsedepartementet 20. mars 2001 med hjemmel i lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) § 12, § 16, § 33 og § 36 andre ledd, jf. delegeringsvedtak av 19. desember 2003 nr. 1790.\nTilføyd hjemmel: Delegeringsvedtak 5. mai 2004 nr. 884.\nEØS-henvisninger: EØS-avtalen vedlegg II kap. XII nr. 54x (direktiv 1999/2/EF), nr. 54y (direktiv 1999/3/EF) og nr. 54zze (beslutning 2002/840/EF som endret ved beslutning 2004/691/EF, beslutning 2007/802/EF, beslutning 2010/172/EU, beslutning 2012/277/EU og beslutning (EU) 2022/120).\nEndret ved forskrifter 15 jan 2004 nr. 268, 24 nov 2014 nr. 1495, 20 des 2018 nr. 2193, 12 des 2022 nr. 2161.",
+ "refid": "forskrift/2001-03-20-504",
+ "eli": "/eli/forskrift/2001/03/20/504",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2001-03-20-504",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Omfang",
+   "ledd": [
+    "Denne forskriften gjelder for produksjon, omsetning og import mv. av næringsmidler og næringsmiddelingredienser, heretter kalt næringsmidler, behandlet med ioniserende stråling.",
+    "Forskriften gjelder ikke for:\n1. næringsmidler som utsettes for ioniserende stråling fra måle- og kontrollutstyr, når den absorberte stråledosen ikke overstiger 0,01 Gy for måle- og kontrollutstyr som anvender nøytroner eller 0,5 Gy for annet måle- og kontrollutstyr, ved et maksimalt strålingsenerginivå på 10 MeV når det gjelder røntgenstråler, 14 MeV når det gjelder nøytroner og 5 MeV i andre tilfeller.\n2. næringsmidler behandlet med ioniserende stråling, som tilberedes til pasienter under medisinsk tilsyn med behov for sterile dietter."
+   ],
+   "endringer": [
+    "Endret ved forskrift 15 jan 2004 nr. 268."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Behandling med ioniserende stråling",
+   "ledd": [
+    "Kun næringsmidler oppført i vedlegg I til denne forskrift, kan behandles med ioniserende stråling.",
+    "Næringsmidler behandlet med ioniserende stråling, skal merkes i samsvar med forskrift av 21. desember 1993 nr. 1385 om merking m.v. av næringsmidler."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Vilkår",
+   "ledd": [
+    "Næringsmidler skal ha egnet kvalitet på det tidspunkt de behandles med ioniserende stråling.",
+    "Næringsmidler kan bare behandles med ioniserende stråling dersom:\n1. det er et rimelig teknologisk behov,\n2. det ikke utgjør noen helserisiko og foretas i samsvar med bestemmelsene,\n3. det er til fordel for forbrukeren,\n4. det ikke er til erstatning for god hygienisk praksis, god produksjonspraksis eller god landbrukspraksis.",
+    "Behandling av næringsmidler med ioniserende stråling skal ikke anvendes sammen med en kjemisk behandling som tjener samme formål som behandlingen med ioniserende stråling."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Siktemål",
+   "ledd": [
+    "Behandling av næringsmidler med ioniserende stråling kan bare ta sikte på:\n1. å redusere forekomsten av næringsmiddelbårne sykdommer ved å ødelegge sykdomsfremkallende organismer,\n2. å redusere bedervelse av næringsmidler ved å forsinke eller stanse forråtnelsesprosesser og ødelegge bedervelsesorganismer,\n3. å redusere tap av næringsmidler på grunn av for tidlig modning, vekst eller spiring,\n4. å bekjempe organismer i næringsmidler som er skadelige for planter eller planteprodukter."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Strålingskilder",
+   "ledd": [
+    "Næringsmidler kan bare behandles med følgende former for ioniserende stråling:\n1. gammastråler fra de radioaktive isotoper kobolt-60 og cesium-137,\n2. røntgenstråler fra anlegg med nominell energi (maksimal kvanteenergi) på 5 MeV eller mindre,\n3. elektronstråler fra anlegg med en nominell energi (maksimal kvanteenergi) på 10 MeV eller mindre.",
+    "Behandling av næringsmidler med ioniserende stråling skal skje i samsvar med den internasjonale kode for drift av bestrålingsanlegg til behandling av næringsmidler anbefalt av FAO/WHOs Felles Codex Alimentarius Kommisjon, jf. FAO/WHO/CAC Bind XV 1. utgave."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "Strålingsdoser",
+   "ledd": [
+    "Den samlede gjennomsnittlige absorberte strålingsdose skal beregnes som fastsatt i vedlegg II til denne forskrift, og skal ikke overstige de grenseverdier som er fastsatt i vedlegg I til denne forskrift.",
+    "Den maksimale strålingsdose for næringsmidler kan gis i deldoser, men må samlet ikke overstige de grenseverdier som er fastsatt i vedlegg I til denne forskrift."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 7",
+   "tittel": "Godkjenning av anlegg",
+   "ledd": [
+    "Anlegg som behandler næringsmidler med ioniserende stråling, skal være godkjent av Mattilsynet. Godkjente anlegg skal tildeles et registreringsnummer.",
+    "For å bli godkjent skal anlegget oppfylle de krav som er fastsatt i denne forskriften, og være godkjent av Direktoratet for strålevern og atomsikkerhet i medhold av strålevernlovgivningen.",
+    "Anlegg for behandling av næringsmidler med ioniserende stråling skal oppfylle kravene i den internasjonale kode for drift av bestrålingsanlegg til behandling av næringsmidler anbefalt av FAO/WHOs Felles Codex Alimentarius Kommisjon, jf. FAO/WHO/CAC Bind XV 1. utgave. Det skal utpekes en person som er ansvarlig for at alle de betingelser som skal oppfylles for å kunne anvende denne fremgangsmåten, overholdes.",
+    "Dersom tilsynsmyndigheten påviser en klar mangel i forhold til godkjenningskravene eller møter hindringer for en tilstrekkelig kontroll, kan den midlertidig stoppe virksomheten.",
+    "Dersom påviste mangler ikke rettes etter den fristen som er satt av tilsynsmyndigheten, skal Mattilsynet trekke tilbake godkjenningen."
+   ],
+   "endringer": [
+    "Endret ved forskrifter 15 jan 2004 nr. 268, 20 des 2018 nr. 2193 (i kraft 1 jan 2019)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-8",
+   "nummer": "§ 8",
+   "tittel": "Plikt til å føre register",
+   "ledd": [
+    "Ansvarlig for anlegg som er godkjent for behandling av næringsmidler med ioniserende stråling, skal for hver ioniserende strålingskilde føre et register som inneholder følgende opplysninger for hvert behandlet parti næringsmidler:\n1. Arten og mengden av de bestrålte næringsmidlene.\n2. Partiets nummer.\n3. Hvem som har bestilt behandlingen med ioniserende stråling.\n4. Mottakeren av de bestrålte næringsmidlene.\n5. Dato for behandlingen med ioniserende stråling.\n6. Emballasjematerialer benyttet under behandlingen med ioniserende stråling.\n7. Data til kontroll av behandlingen med ioniserende stråling i samsvar med vedlegg II til denne forskrift, resultatene av de utførte dosemålinger med nærmere angivelse av spesielt de øvre og nedre grenseverdier for den absorberte dose, samt typen av ioniserende stråling.\n8. Henvisning til de innledende dosevalideringsmålinger.",
+    "Registre som angitt i første ledd, skal oppbevares i minst fem år."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-9",
+   "nummer": "§ 9",
+   "tittel": "Import fra tredjeland",
+   "ledd": [
+    "Næringsmidler behandlet med ioniserende stråling, kan bare importeres fra tredjeland dersom:\n1. de oppfyller de bestemmelser som gjelder for slike næringsmidler,\n2. de ledsages av dokumenter som inneholder navn og adresse på de anlegg der behandlingen med ioniserende stråling har funnet sted, samt de opplysninger som kreves i § 8,\n3. de er behandlet på et bestrålingsanlegg som er godkjent av Fellesskapet, og som er oppført på den offisielle listen over godkjente bestrålingsanlegg i vedlegg III i denne forskriften."
+   ],
+   "endringer": [
+    "Endret ved forskrift 12 des 2022 nr. 2161."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-10",
+   "nummer": "§ 10",
+   "tittel": "Emballasjematerialer",
+   "ledd": [
+    "Materialer som anvendes til emballasje for næringsmidler som skal behandles med ioniserende stråling, skal være egnet til formålet."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-11",
+   "nummer": "§ 10a",
+   "tittel": "Merking av bestrålte næringsmidler som er beregnet for omsetning til forbruker eller storhusholdning",
+   "ledd": [
+    "Bestrålte næringsmidler som er beregnet for omsetning til forbruker eller storhusholdning, skal i tilknytning til varebetegnelsen merkes med betegnelsen «bestrålt» eller «behandlet med ioniserende stråling».",
+    "For næringsmidler som inneholder bestrålte ingredienser, skal opplysningen i første ledd gis i tilknytning til den aktuelle ingrediensen i ingredienslisten.",
+    "For bestrålte næringsmidler som ved omsetning ikke er ferdigpakket, skal opplysningen i første ledd gis på skilt, oppslag e.l. ved salgsstedet.",
+    "For næringsmidler som ved omsetning ikke er ferdigpakket og som inneholder bestrålte ingredienser, skal opplysningen i første ledd gis sammen med varebetegnelsen på den aktuelle ingrediensen. Tredje ledd gjelder tilsvarende.",
+    "Dersom en bestrålt ingrediens inngår i en sammensatt ingrediens, skal opplysningen gis selv om den sammensatte ingrediensen utgjør mindre enn 25 prosent av det ferdige produktet."
+   ],
+   "endringer": [
+    "Tilføyd ved forskrift 24 nov 2014 nr. 1495 (i kraft 13 des 2014)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-12",
+   "nummer": "§ 10b",
+   "tittel": "Merking av bestrålte næringsmidler som ikke er beregnet for omsetning til forbruker eller storhusholdning",
+   "ledd": [
+    "Bestrålte næringsmidler og bestrålte ingredienser som ikke er beregnet for omsetning til forbruker eller storhusholdning, skal merkes som bestemt i § 10a første ledd. I tillegg skal navn og adresse på bestrålingsanlegget eller dets registreringsnummer angis.",
+    "Opplysninger om at bestråling har funnet sted, skal dessuten alltid angis i de dokumentene som følger eller vedrører næringsmidlet eller ingrediensen."
+   ],
+   "endringer": [
+    "Tilføyd ved forskrift 24 nov 2014 nr. 1495 (i kraft 13 des 2014)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-13",
+   "nummer": "§ 11",
+   "tittel": "Tilsyn og vedtak",
+   "ledd": [
+    "Mattilsynet fører tilsyn og fatter vedtak for å gjennomføre bestemmelsene gitt i og i medhold av denne forskriften."
+   ],
+   "endringer": [
+    "Endret ved forskrift 15 jan 2004 nr. 268."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-14",
+   "nummer": "§ 12",
+   "tittel": "Dispensasjon",
+   "ledd": [
+    "Mattilsynet kan i særlige tilfeller dispensere fra bestemmelsene i denne forskriften, forutsatt at det ikke vil stride mot Norges internasjonale forpliktelser, herunder EØS-avtalen."
+   ],
+   "endringer": [
+    "Endret ved forskrift 15 jan 2004 nr. 268."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-15",
+   "nummer": "§ 13",
+   "tittel": "Straff",
+   "ledd": [
+    "Forsettlig eller uaktsom overtredelse av denne forskriften eller bestemmelser og vedtak gitt i medhold av den, er straffbart i henhold til matloven § 28"
+   ],
+   "endringer": [
+    "Endret ved forskrift 15 jan 2004 nr. 268."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-16",
+   "nummer": "§ 14",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Denne forskrift trer i kraft 1. mai 2001."
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "vedleggI",
+   "overskrift": "Vedlegg I. Næringsmidler som tillates behandlet med ioniserende stråling",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "| Næringsmiddel eller næringsmiddelgruppe | Maksimalt tillatt strålingsdose\n| Tørkede aromatiske urter, krydder og vegetabilske smaksgivere | 10 kGy"
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "vedleggII",
+   "overskrift": "Vedlegg II",
+   "innhold": [
+    {
+     "type": "seksjon",
+     "id": "kapittel-2-kapittel-1",
+     "navn": "kap1",
+     "overskrift": "1. Dosimetri",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Den samlede gjennomsnittlige absorberte dose\nVed bestemmelse av om næringsmidler som er behandlet med en samlet gjennomsnittlig dose på 10 kGy eller mindre egner seg til folkemat, kan det gås ut fra at alle strålingsfremkalte kjemiske virkninger i dette doseområdet er proporsjonale med dosen.\nDen samlede gjennomsnittlige dose, Ƌ er definert ved følgende integral over varens samlede volum:\nƋ = 1 / M ∫ p (x,y,z) d (x,y,z) dV\n| der | M = den behandlede prøvens totale masse\n| | p = den lokale tetthet ved punktet (x,y,z)\n| | d = den lokale absorberte dose ved punktet (x,y,z)\n| | dV = dx dy dz, den infinitesimale volumelementet som i virkelige tilfeller representeres av delvolumene.\nDen samlede gjennomsnittlige absorberte dose kan bestemmes direkte for homogene produkter og for varer i løs vekt med homogen tetthet ved å fordele et passende antall dosemålere på vilkårlige strategiske steder i hele varens volum. På grunnlag av den slik fastslåtte dosefordeling kan det beregnes et gjennomsnitt, som er den samlede gjennomsnittlige absorberte dose.\nDersom dosefordelingskurvens form gjennom varen er fastsatt, kjennes også minimums- og maksimumsdosenes posisjon. Ved måling av dosefordelingen i disse to posisjoner i en serie prøver kan det foretas et estimat over den samlede gjennomsnittlige dose.\nI visse tilfeller vil middelverdien av den gjennomsnittlige minimumsdose (Ƌmin) og maksimumsdose (Ƌmax) gi et godt estimat over den samlede gjennomsnittlige dose. I disse tilfeller blir således\nden samlede gjennomsnittlige dose ≈ (Ƌmax + Ƌmin) / 2\nForholdet Ƌmax / Ƌmin skal ikke overstige 3."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-2-kapittel-2",
+     "navn": "kap2",
+     "overskrift": "2. Prosedyrer",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "2.1.\nFør rutinebestråling av en gitt type næringsmidler påbegynnes ved et bestrålingsanlegg, skal minimums- og maksimumsdosenes posisjon fastslås ved hjelp av dosemålinger i hele varens volum. Disse valideringsmålingene skal utføres et passende antall ganger (for eksempel 3-5), slik at det tas hensyn til variasjoner i varens tetthet og geometri.\n2.2.\nMålingene skal gjentas ved enhver endring av varen, dens geometri eller bestrålingsforholdene.\n2.3.\nUnder bestrålingen skal det foretas rutinemessige dosemålinger for å kontrollere at dosegrensene ikke overskrides. Målingene skal utføres ved å anbringe dosimetre i minimums- eller maksimumsposisjonen, eller i en referanseposisjon. Dosen i referanseposisjonen skal knyttes kvantitativt til maksimums- og minimumsdosen. Referanseposisjonen skal plasseres i et passende punkt i eller på varen, hvor dosevariasjonene er lave.\n2.4.\nDet skal foretas rutinemessig dosemåling av hvert enkelt parti og med passende intervaller under behandlingen.\n2.5.\nVed bestråling av en løpende strøm av uemballerte varer kan minimums- og maksimumsdosenes posisjon ikke fastslås. I stedet kan disses verdier bestemmes ved hjelp av stikkprøvemålinger i vilkårlige punkter.\n2.6.\nDosemålingene foretas ved hjelp av anerkjente dosimetrisystemer, og målingene skal kunne henføres til grunnleggende normer.\n2.7.\nUnder bestrålingen skal det føres kontroll med de relevante anleggsparametre, og disse skal registreres løpende. For så vidt angår de radioaktive isotoper omfatter disse parametre produktets fremføringshastighet og den tid det tilbringer i bestrålingssonen, samt positiv indikasjon av at strålingskilden befinner seg i den riktige posisjon. For partikkelakselleratoren omfatter disse parametre produktets fremføringshastighet, samt anleggets energinivå, elektronstrøm og scanningsbredde."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "vedlegg3",
+   "overskrift": "Vedlegg III\nListe over strålingsanlegg i tredjeland som er godkjent av Unionen",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Tilføyd ved forskrift 12 des 2022 nr. 2161."
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-1",
+     "navn": null,
+     "overskrift": "Referansenr.: EU-AIF 01-2002",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "HEPRO Cape (Pty) Ltd\n6 Ferrule Avenue\nMontague Gardens\nMilnerton 7441\nWestern Cape\nRepublikken Sør-Afrika\nTelefonnr.: (27-21) 551 24 40\nTelefaksnr.: (27-21) 551 17 66"
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-2",
+     "navn": null,
+     "overskrift": "Referansenr.: EU-AIF 02-2002",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "GAMMASTER South Africa (Pty) Ltd.\nPO Box 3219\n5 Waterpas Street\nIsando Extension 3\nKempton Park 1620\nJohannesburg\nRepublikken Sør-Afrika\nTelefonnr.: (27-11) 974 88 51\nTelefaksnr.: (27-11) 974 89 86"
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-3",
+     "navn": null,
+     "overskrift": "Referansenr.: EU-AIF 03-2002",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "GAMWAVE (Pty) Ltd.\nPO Box 26406\nIsipingo Beach\nDurban 4115\nKwazulu-Natal\nRepublikken Sør-Afrika\nTelefonnr.: (27-31) 902 88 90\nTelefaksnr.: (27-31) 912 17 04"
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-4",
+     "navn": null,
+     "overskrift": "Referansenr.: EU-AIF 05-2004",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "GAMMA-PAK AS\nYünsa Yolu N: 4 OSB\nCerkezköy/TEKIRDAG\nTR-59500\nTyrkia\nTelefonnr.: (90-282) 726 57 90\nTelefaksnr.: (90-282) 726 51 78"
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-5",
+     "navn": null,
+     "overskrift": "Referansenr.: EU-AIF 06-2004",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "STUDER AGG WERK HARD\nHogenweidstrasse 2\nDäniken\nCH-4658\nSveits\nTelefonnr.: (41-062) 288 90 60\nTelefaksnr.: (41-062) 288 90 70"
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-6",
+     "navn": null,
+     "overskrift": "Referansenr.: EU-AIF 07-2006",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "THAI IRRADIATION CENTER\nThailand Institute of Nuclear Technology (Public Organisation)\n37 Moo 3, TECHNOPOLIS\nKlong 5, Klong Luang\nPathumthani 12120\nThailand\nTelefonnr.: (662) 577 4167 til 71\nTelefaksnr.: (662) 577 1945"
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-7",
+     "navn": null,
+     "overskrift": "Referansenr.: EU-AIF 08-2006",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Synergy Health (Thailand) Ltd.\n700/465 Amata Nakorn Industrial\nMoo 7, Tambon Donhuaroh\nAmphur Muang\nChonburi 20000\nThailand\nTelefonnr.: (66) (0) 38 458431 til 3 og (66) (0) 38 450092 til 3\nTelefaksnr.: (66) (0) 38 458435 og (66) (0) 38 717146"
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-8",
+     "navn": null,
+     "overskrift": "Referansenr.: EU-AIF 09-2010",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Board of Radiation and Isotope Technology\nDepartment of Atomic Energy\nBRIT/BARC Vashi Complex\nSector 20, Vashi\nNavi Mumbai – 400 705 (Maharashtra)\nIndia\nTelefonnr.: +91 2227840000/+91 2227887000\nTelefaksnr.: +91 2227840005\nE-post: chief@britatom.gov.in/cebrit@vsnl.net"
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-9",
+     "navn": null,
+     "overskrift": "Referansenr.: EU-AIF 10-2010",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Board of Radiation and Isotope Technology\nISOMED\nBhabha Atomic Research Centre\nSouth Site Gate, Refinery Road\nNext to TATA Power Station, Trombay\nMumbai – 400 085 (Maharashtra)\nIndia\nTelefonnr.: +91 2225595684/+91 2225594751\nTelefaksnr.: +91 2225505338\nE-post: chief@britatom.gocv.in/cebrit@vsnl.net"
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-10",
+     "navn": null,
+     "overskrift": "Referansenr.: EU-AIF 11-2010",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Microtrol Sterilisation Services Pvt. Ltd.\nPlot No 14 Bommasandra- Jigani Link Road Industrial Area\nKIADB, Off Hosur Road\nHennagarra Post\nBengalooru – 562 106 (Karnataka)\nIndia\nTelefonnr.: +91 8110653932/+91 8110414030\nTelefaksnr.: +91 8110414031\nE-post: vikram@microtrol-india.com"
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-3-kapittel-11",
+     "navn": null,
+     "overskrift": "Referansenr.: EU-AIF 12-2021",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Synergy Health\nMoray Road\nElgin Industrial Estate\nSwindon\nSN2 8XS\nDet sameinte kongeriket\nTelefonnr.: +44 (0) 1793-601004\nE-post: ast_info@steris.com"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

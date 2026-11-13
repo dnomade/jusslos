@@ -1,0 +1,427 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2023-08-08-1311",
+ "dokumentid": "SF/forskrift/2023-08-08-1311",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "etat": [
+  "Fiskeridirektoratet"
+ ],
+ "ikraft": "2024-01-01",
+ "siste_endring_ikraft": "2026-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2025-11-25-2339",
+   "tekst": "forskrift/2025-11-25-2339 fra 2026-01-01"
+  }
+ ],
+ "hjemmel": [
+  {
+   "ref": "lov/2008-06-06-37/§39",
+   "tekst": "lov/2008-06-06-37/§39"
+  },
+  {
+   "ref": "lov/2008-06-06-37/§40",
+   "tekst": "lov/2008-06-06-37/§40"
+  },
+  {
+   "ref": "lov/2008-06-06-37/§43",
+   "tekst": "lov/2008-06-06-37/§43"
+  },
+  {
+   "ref": "lov/2008-06-06-37/§58",
+   "tekst": "lov/2008-06-06-37/§58"
+  },
+  {
+   "ref": "lov/2008-06-06-37/§59",
+   "tekst": "lov/2008-06-06-37/§59"
+  },
+  {
+   "ref": "forskrift/2014-05-06-607/§12",
+   "tekst": "forskrift/2014-05-06-607/§12"
+  }
+ ],
+ "kunngjort": "2023-08-08 14:35",
+ "tittel": "Forskrift om avsiling av vann og prøvetaking mv. av industrifangster ved landing",
+ "annet": "Hjemmel: Fastsatt av Nærings- og fiskeridepartementet 8. august 2023 med hjemmel i lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar (havressurslova) § 39, § 40, § 43, § 58 og § 59 og forskrift 6. mai 2014 nr. 607 om landings- og sluttseddel (landingsforskriften) § 12.\nEndret ved forskrift 25 nov 2025 nr. 2339 (i kraft 1 jan 2026, bl.a. tittel, endring endret ved forskrift 4 des 2025 nr. 2425).",
+ "refid": "forskrift/2023-08-08-1311",
+ "eli": "/eli/forskrift/2023/08/08/1311",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2023-08-08-1311",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Tilføyd ved forskrift 25 nov 2025 nr. 2339 (i kraft 1 jan 2026)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Formål",
+     "ledd": [
+      "Formålet med forskriften er å sikre bærekraftig forvaltning av de viltlevende marine ressursene gjennom å gi næringen effektive verktøy til å oppfylle opplysningsplikten, tilrettelegge for effektiv kontroll med ressursuttaket, omsetning av fisk mv., samt gi et godt grunnlag for statistikk og forskning ved å sette krav til utstyr og bruken av dette for fastsettelse av fangstsammensetningen i industrilandinger."
+     ],
+     "endringer": [
+      "Endret ved forskrift 25 nov 2025 nr. 2339 (i kraft 1 jan 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Forskriften gjelder for mottakere og akkrediterte tredjeparter. Forskriften gjelder for mottaksanlegg i Norge som tar imot industrifangster. Paragraf 14 gjelder også for fiskesalgslagene."
+     ],
+     "endringer": [
+      "Endret ved forskrift 25 nov 2025 nr. 2339 (i kraft 1 jan 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "I denne forskrift menes med\na. landing: alle tilfeller der fisk losses fra fiskefartøy til mottaksanlegg som tar imot industrifangster,\nb. industrifangster: fangster som ikke skal anvendes til konsum, som fangster til mel- og oljeproduksjon og andre produkter fremstilt av industrifangster,\nc. prøvetrekker: den tekniske innretningen som tar prøven ut av fiskestrømmen,\nd. prøvetaking: at det gjennomføres en mekanisk operasjon der prøvetrekkeren tar prøve ut av en fiskestrøm ved landing av fangsten,\ne. prøvetakingsresultat: data fra prøveuttakene som fremkommer etter bearbeiding av prøvene,\nf. mottaker: enhver som tar imot fisk som landes."
+     ],
+     "endringer": [
+      "Endret ved forskrift 25 nov 2025 nr. 2339 (i kraft 1 jan 2026)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Krav til avsiling av vann",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Tilføyd ved forskrift 25 nov 2025 nr. 2339 (i kraft 1 jan 2026)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 4",
+     "tittel": "Krav til avsiling av vann",
+     "ledd": [
+      "Alle industrifangster som landes skal passere gjennom et system for avsiling av vann før prøvetaking og veiing. Tillatte systemer er enten trommelsil eller båndsil. Mottaker er ansvarlig for at avsilingen av vann gjennomføres i henhold til forskriften."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 25 nov 2025 nr. 2339 (i kraft 1 jan 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 5",
+     "tittel": "Krav til trommelsil",
+     "ledd": [
+      "Fisk som landes skal gå gjennom kun én trommelsil for avsiling av vann før veiing. Forsil er tillatt. Trommelsilen skal oppfylle følgende krav:\na. Dreneringshullene skal ikke være større enn 10 mm.\nb. Innvendig diameter skal ikke være over 1700 mm.\nc. Lengden på silene, inkludert eventuell forsil og ekskludert samlebåndet, skal ikke være lenger enn totalt 11 meter.\nd. Rotasjonshastigheten skal ikke overstige 28 omdreininger per minutt.\ne. Lysåpningen i dreneringsområdet skal ikke overstige 45 % av totalt areal."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 25 nov 2025 nr. 2339 (i kraft 1 jan 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 6",
+     "tittel": "Krav til båndsil",
+     "ledd": [
+      "En båndsil skal bestå av en forsil og/eller en vendesil og et silebånd i stål. Båndsilen skal videre oppfylle følgende krav:\na. I forsilen og vendesilen skal avstanden mellom spilene eller størrelsen på dreneringshullene ikke være over 10 mm.\nb. Bredden på silebåndet skal være mellom 1,8 og 2,5 meter.\nc. Lengden på silebåndet skal ikke være korte enn 2,6 meter og ikke lenger enn 10 meter."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 25 nov 2025 nr. 2339 (i kraft 1 jan 2026)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Krav til prøvetaking mv.",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Tilføyd ved forskrift 25 nov 2025 nr. 2339 (i kraft 1 jan 2026)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 7",
+     "tittel": "Prøvetakingsplikt mv.",
+     "ledd": [
+      "Mottaker er ansvarlig for at det blir tatt prøver av landingene og at prøvene blir bearbeidet i henhold til forskriften.",
+      "Det skal tas fortløpende prøver av alle industrifangster som landes. Mottaker skal sørge for at prøvetakingen gjennomføres. Prøvene skal bearbeides av en tredjepart som skal være akkreditert etter NS-EN ISO/IEC 17020. Mottaker kan ikke ta imot fangst før det er avklart med den akkrediterte tredjeparten at denne kan bearbeide prøvene fra landingen.",
+      "En tredjepart som har implementert det nødvendige kvalitetssystemet og er i prosess med å bli akkreditert av Norsk Akkreditering, kan bearbeide prøvene i denne perioden.",
+      "Mottaker skal legge til rette for at tredjeparten og den som lander kan være til stede og følge hele prøvetakingsprosessen.",
+      "Den akkrediterte tredjeparten skal fremlegge prøvetakingsresultatet basert på bearbeidingen av prøvene for mottaker og den som lander før landings- eller sluttseddelen fylles ut og undertegnes."
+     ],
+     "endringer": [
+      "Endret ved forskrift 25 nov 2025 nr. 2339 (i kraft 1 jan 2026, tidligere § 4)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 8",
+     "tittel": "Krav til prøvetrekkersystem",
+     "ledd": [
+      "Mottaksanlegget skal ha et prøvetrekkersystem som er egnet til å fastsette fangstens arts- og størrelsessammensetning. Prøvetrekkersystemet skal bestå av prøvetrekker med styrings- og dataenhet og oppsamlingsbeholder for prøver. Mottaker skal videre ha et system for å føre prøveuttaket fra prøvetrekkeren til prøvetakingsrommet som sikrer at ingen deler av prøvene kan påvirkes eller gå tapt."
+     ],
+     "endringer": [
+      "Endret ved forskrift 25 nov 2025 nr. 2339 (i kraft 1 jan 2026, tidligere § 6)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 9",
+     "tittel": "Krav til prøvetrekkerens utforming og plassering",
+     "ledd": [
+      "Prøvetrekkeren skal være egnet til fastsettelse av fangstens arts- og størrelsessammensetning ved landing.",
+      "Prøvetrekkeren skal være tilkoblet og styres av en dataenhet. Styrings- og dataenheten programmeres før landing starter for antall prøver og når prøver skal tas. Styrings- og dataenheten skal lagre informasjon om når prøvene blir tatt. Styrings- og dataenheten skal konstrueres og sikres på en slik måte at styringsparametere og funksjoner som kan påvirke prøvetakingen ikke kan endres.",
+      "Prøvetrekkeren skal utformes slik at den ved prøvetaking fra fiskestrømmen tar ut representative prøver og et kvantum på omtrent 20 kg i hvert prøveuttak.",
+      "Prøvetrekkerens plassering skal være slik:\na. Ved bruk av båndsil skal prøvetrekkeren plasseres i fallsjakten, sentrert med utgangspunkt i bredden på silebåndet før veiing. Prøvetrekkeren skal plasseres i lengderetning under silebåndet med en største avstand fra silebåndets øvre kant til toppen av prøvetrekkeren på 165 cm. Fiskestrømmen fra silebåndetskal samles og sentreres i fallsjakten ved hjelp av en sentreringsskrue. Sentreringsskruens lengde skal dekke hele silebåndets bredde.\nb. Ved bruk av trommelsil og fallsjakt skal fiskestrømmen ledes til senter av fallsjakten før prøvetrekkeren. Avstanden fra der fiskestrømmen kommer inn i fallsjakten og prøvetrekkeren skal ikke overstige 100 cm.\nc. Ved bruk av trommelsil uten fallsjakt, skal prøvetrekkeren være plassert og utformet slik at den sikrer representativ prøvetaking fra hele fiskestrømmen.",
+      "Når prøvetrekkeren tømmes, skal hele prøven med fisk, inkludert oppløst masse av fisk, ledes til en oppsamlingsbeholder."
+     ],
+     "endringer": [
+      "Endret ved forskrift 25 nov 2025 nr. 2339 (i kraft 1 jan 2026, tidligere § 5)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 10",
+     "tittel": "Det samlede prøveuttakets størrelse, antall prøver og prøvetakingsfrekvens",
+     "ledd": [
+      "Prøvetrekkeren skal ta prøver fra hele landingen.",
+      "Det samlede prøveuttakets størrelse og antall prøver fra hver landing skal beregnes ut fra formlene som fremgår i vedlegg 1 til forskriften. Beregningen skal gjøres med utgangspunkt i fartøyets melding om havneanløp og opplysningene om kvantumet som skal landes.",
+      "Prøvetakingen skal baseres på tilfeldige prøver. Det skal ikke være mulig å forutsi når prøvene blir tatt. Den tilfeldige prøvetakingsfrekvensen skal legges inn i programvaren som styrer prøvetrekkeren."
+     ],
+     "endringer": [
+      "Endret ved forskrift 25 nov 2025 nr. 2339 (i kraft 1 jan 2026, tidligere § 7)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 11",
+     "tittel": "Bearbeiding av prøver for arts- og størrelsessammensetning",
+     "ledd": [
+      "Mottaker skal legge til rette for at den akkrediterte tredjeparten har tilfredsstillende arbeidsrom og arbeidsforhold for kvalitativ god sortering og veiing av det samlede prøveuttaket.",
+      "Den akkrediterte tredjeparten skal bearbeide prøvene ved å sortere hele det samlede prøveuttaket på art og størrelse og deretter veie den sorterte fisken på egnet vekt. Vekten skal til enhver tid være i henhold til regler gitt i eller i medhold av lov 26. januar 2007 nr. 4 om målenheter, måling og normaltid."
+     ],
+     "endringer": [
+      "Endret ved forskrift 25 nov 2025 nr. 2339 (i kraft 1 jan 2026, tidligere § 8)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-6",
+     "nummer": "§ 12",
+     "tittel": "Oppbevaringsplikt av det samlede prøveuttaket",
+     "ledd": [
+      "Mottaker skal oppbevare og gjøre tilgjengelig det samlede prøveuttaket for kontrollmyndighetene frem til landings- eller sluttseddelen er fylt ut og undertegnet."
+     ],
+     "endringer": [
+      "Endret ved forskrift 25 nov 2025 nr. 2339 (i kraft 1 jan 2026, tidligere § 9)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-7",
+     "nummer": "§ 13",
+     "tittel": "Opplysninger om landingen",
+     "ledd": [
+      "Mottaker skal bruke prøvetakingsresultatet til å beregne fangstens sammensetning og deretter fylle ut landings- og sluttseddelen i tråd med dette.",
+      "Dersom deler av fangsten ikke er mulig å identifisere, så skal kvantumet av dette oppgis på landings- eller sluttseddelen som del av hovedfangst."
+     ],
+     "endringer": [
+      "Endret ved forskrift 25 nov 2025 nr. 2339 (i kraft 1 jan 2026, tidligere § 10)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-8",
+     "nummer": "§ 14",
+     "tittel": "Innsending av prøvetakingsresultatet",
+     "ledd": [
+      "Den akkrediterte tredjeparten skal sende prøvetakingsresultatet fra landingen elektronisk til fiskesalgslaget. Innsendingen av prøvetakingsresultatet skal inneholde referanse til landings- og/eller sluttseddelen med fiskesalgslag, dokumenttype og seddelnummer. Fiskesalgslaget skal videresende prøvetakingsresultatet i et bestemt format og avtalt frekvens til Fiskeridirektoratet."
+     ],
+     "endringer": [
+      "Endret ved forskrift 25 nov 2025 nr. 2339 (i kraft 1 jan 2026, tidligere § 11)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Avsluttende bestemmelser",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Tilføyd ved forskrift 25 nov 2025 nr. 2339 (i kraft 1 jan 2026)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 15",
+     "tittel": "Dispensasjonsadgang",
+     "ledd": [
+      "Fiskeridirektoratet kan i særlig tilfeller gi dispensasjon fra bestemmelsene i forskriften og sette vilkår for dispensasjonen."
+     ],
+     "endringer": [
+      "Endret ved forskrift 25 nov 2025 nr. 2339 (i kraft 1 jan 2026, tidligere § 12)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 16",
+     "tittel": "Delegering",
+     "ledd": [
+      "Fiskeridirektoratet kan endre denne forskriften og fastsette nærmere krav til utstyr og bruken av dette for fastsettelse av fangstsammensetningen i industrilandinger."
+     ],
+     "endringer": [
+      "Endret ved forskrift 25 nov 2025 nr. 2339 (i kraft 1 jan 2026, tidligere § 13)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 17",
+     "tittel": "Tvangsmulkt",
+     "ledd": [
+      "For å sikre at bestemmelser som er fastsatt i eller i medhold av denne forskriften blir oppfylt, kan det ilegges tvangsmulkt etter havressurslova § 58 og forskrift 20. desember 2011 nr. 1437 om bruk av tvangsmulkt og overtredelsesgebyr ved brudd på havressurslova og deltakerloven."
+     ],
+     "endringer": [
+      "Endret ved forskrift 25 nov 2025 nr. 2339 (i kraft 1 jan 2026, tidligere § 14)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 18",
+     "tittel": "Overtredelsesgebyr",
+     "ledd": [
+      "Foretak og den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av forskriften, kan ilegges overtredelsesgebyr etter havressurslova § 59 og forskrift 20. desember 2011 nr. 1437 om bruk av tvangsmulkt og overtredelsesgebyr ved brudd på havressurslova og deltakerloven."
+     ],
+     "endringer": [
+      "Endret ved forskrift 25 nov 2025 nr. 2339 (i kraft 1 jan 2026, tidligere § 15)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-5",
+     "nummer": "§ 19",
+     "tittel": "Straff og inndragning",
+     "ledd": [
+      "Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av denne forskriften straffes etter havressurslova § 62 og § 64.",
+      "Inndragning kan skje etter havressurslova § 65."
+     ],
+     "endringer": [
+      "Endret ved forskrift 25 nov 2025 nr. 2339 (i kraft 1 jan 2026, tidligere § 16)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-6",
+     "nummer": "§ 20",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Forskriften trer i kraft 1. januar 2024. Bestemmelsen i § 11 annet ledd om sortering på størrelse trer i kraft fra det tidspunktet Fiskeridirektoratet bestemmer det."
+     ],
+     "endringer": [
+      "Endret ved forskrift 25 nov 2025 nr. 2339 (i kraft 1 jan 2026, tidligere § 17)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "vedlegg1",
+   "overskrift": "Vedlegg 1. Beregning av samlet prøveuttak ved prøvetaking av industrifangster ved landing",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Ved prøvetaking av industrifangster ved landing skal Fiskeridirektoratets beregningsformler brukes. Formel for beregning av det samlede prøveuttakets størrelse og metode for uttak av prøver gjennom hele landingen er basert på statistiske metoder som er forventet å gi en svært høy nøyaktighet som grunnlag for beregning av fangstens arts- og størrelsessammensetning (Stamatopoulos 2001/2004)."
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-5-kapittel-1",
+     "navn": "kap1",
+     "overskrift": "1 Det samlede prøveuttakets størrelse, antall prøver og prøvetakingsfrekvens",
+     "innhold": [
+      {
+       "type": "seksjon",
+       "id": "kapittel-5-kapittel-1-kapittel-1",
+       "navn": "kap1.1",
+       "overskrift": "1.1 Innledning",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Før prøvetakingen starter, skal prøvetrekkersystemets programvare beregne det samlede prøveuttakets størrelse, antall prøver og når prøver skal tas gjennom landingen.\nBeregningen av det samlede prøveuttakets størrelse skal gjøres med utgangspunkt i fartøyets melding om havneanløp (POR) og opplysningene om kvantumet som skal landes.\nDet må ved beregning og uttak av det samlede prøveuttaket for landingen tas hensyn til avvik mellom landet kvantum og fartøyets melding om havneanløp (POR). Dette innebærer at ved beregning av verdien for det samlede prøveuttaket og ved styring av antall prøver må det tas hensyn til de tilfeller der landingen kan være vesentlig større eller mindre enn det estimerte kvantumet fra fartøyets POR-melding. Ved mindre landet kvantum kan en risikere ikke å få ut nok kvantum i henhold til POR-verdi fordi prøvetaking/antall prøver ikke er ferdig før mottak/veiing er ferdig. Mens for landinger som er større, så kan en risikere at prøvetaking/antall prøver er tatt før landingen er ferdig. I sistnevnte tilfeller må systemet da kunne fortsette en prøvetakingssekvens."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-5-kapittel-1-kapittel-2",
+       "navn": "kap1.2",
+       "overskrift": "1.2 Det samlede prøveuttakets størrelse",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Det samlede prøveuttaket skal beregnes ut fra følgende formel:\n$$ \\text{Samlet prøveuttak [kg]} = \\frac{\\text{kvantum POR [kg]}^{0{,}43}}{0{,}85} $$\nMinste verdi for det samlede prøveuttaket skal settes til 166 kg."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-5-kapittel-1-kapittel-3",
+       "navn": "kap1.3",
+       "overskrift": "1.3 Antall prøver",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Prøvetrekkeren skal være utformet slik at den rommer omtrent 20 kg fisk og antall prøver skal beregnes med utgangspunkt i beregnet verdi for det samlede prøveuttaket for landingen.\nAntall prøver skal beregnes ut fra følgende formel:\n$$ \\text{Antall prøver} = \\frac{\\text{Samlet prøveuttak [kg]}}{20 \\text{[kg]}} $$\nAntall prøver avrundes oppover til nærmeste hele tallverdi."
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-5-kapittel-1-kapittel-4",
+       "navn": "kap1.4",
+       "overskrift": "1.4 Prøvetakingsfrekvens og tidspunkt for prøver",
+       "innhold": [
+        {
+         "type": "tekst",
+         "tekst": "Programvaren for prøvetrekkersystemet skal, basert på verdien til forventet kvantum som skal landes (hentet fra POR-meldingen), beregne tidspunkter for når prøver skal tas gjennom landingen ved hjelp av en tilfeldig-funksjon. En logg som viser antall prøver og tidspunkt for hver prøve skal følge innsendingen av prøvetakingsresultatet.\nI tilfeller der den tilfeldige beregningen gir tidspunkter med korte intervall mellom prøvene, må tiden mellom to påfølgende prøver forskyves slik at prøvetrekkeren får tid til å gjøre seg ferdig med påbegynt prøve før neste prøve påbegynnes.\nProgramvare for prøvetrekkersystemet må kommunisere med vekt og mottakets styresystem slik at hendelser og verdi for fortløpende summert kvantum inngår som styringsparameter for beregning av tidspunkt for når de enkelte prøvene skal tas gjennom landingen."
+        },
+        {
+         "type": "endring",
+         "tekst": "Vedlegg 1 tilføyd ved forskrift 25 nov 2025 nr. 2339 (i kraft 1 jan 2026, endring endret ved forskrift 4 des 2025 nr. 2425)."
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

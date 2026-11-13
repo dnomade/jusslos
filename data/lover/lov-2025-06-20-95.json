@@ -1,0 +1,127 @@
+{
+ "skjema": "1.0",
+ "type": "lov",
+ "datokode": "LOV-2025-06-20-95",
+ "dokumentid": "NL/lov/2025-06-20-95",
+ "departement": [
+  "Kultur- og likestillingsdepartementet"
+ ],
+ "ikraft": "2025-07-01",
+ "rettsomrade": [
+  "Familie-, person- og barnerett > Personrett. Personvern",
+  "IKT- og medierett > Personopplysninger",
+  "Kultur, idrett og underholdning > Idrett. Sport"
+ ],
+ "kunngjort": "2025-06-20 12:45",
+ "korttittel": "Lov om behandling av personopplysninger i Norges idrettsforbund mv",
+ "tittel": "Lov om behandling av personopplysninger i Norges idrettsforbund og olympiske og paralympiske komité og dets organisasjonsledd for å forebygge, avdekke og reagere mot seksuelle overgrep, trakassering og vold mv. i idretten",
+ "annet": "Prop. 49 L (2024–2025), Innst. 375 L (2024–2025), Lovvedtak 78 (2024–2025). Stortingets første og andre gangs behandling hhv. 2. og 6. juni 2025. Fremmet av Kultur- og likestillingsdepartementet.",
+ "refid": "lov/2025-06-20-95",
+ "eli": "/eli/lov/2025/06/20/95",
+ "url": "https://lovdata.no/dokument/NL/lov/2025-06-20-95",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Lovens formål",
+   "ledd": [
+    "Formålet med loven er å sikre en forsvarlig behandling av særlige kategorier av personopplysninger og personopplysninger om straffedommer og lovovertredelser når det er nødvendig å behandle slike opplysninger for å forebygge, avdekke eller reagere mot seksuelle overgrep, trakassering eller vold mv. i idretten."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Virkeområde",
+   "ledd": [
+    "Loven gjelder for Norges idrettsforbund og olympiske og paralympiske komité og dets organisasjonsledd. Med organisasjonsledd menes idrettskretser, særforbund, særkretser og regioner, idrettsråd og idrettslag.",
+    "Loven gjelder også på Svalbard."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Definisjoner",
+   "ledd": [
+    "Med seksuelle overgrep mv. menes handlinger som omfattes av straffeloven §§ 291 til 318.",
+    "Med trakassering mv. menes handlinger som omfattes av likestillings- og diskrimineringsloven § 13 første til femte ledd, herunder seksuell trakassering, og straffeloven §§ 185, 267, 267 a og 267 b.",
+    "Med vold mv. menes handlinger som omfattes av straffeloven §§ 251, 252, 263, 264, 266, 266 a, 271, 272, 273, 274, 275, 280, 281, 282 og 283, og som bryter reglene for godkjente handlinger i en idrett."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Behandling av særlige kategorier av personopplysninger",
+   "ledd": [
+    "Når det er nødvendig for å forebygge, avdekke eller reagere mot seksuelle overgrep, trakassering eller vold mv. i idretten, kan det behandles følgende personopplysninger som nevnt i personvernforordningen artikkel 9 nr. 1:\na. opplysninger om rasemessig eller etnisk opprinnelse\nb. opplysninger om politisk oppfatning\nc. opplysninger om filosofisk overbevisning\nd. opplysninger om religion\ne. opplysninger om en persons seksuelle orientering\nf. opplysninger om en persons seksuelle forhold\ng. helseopplysninger"
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Behandling av personopplysninger om straffedommer og lovovertredelser",
+   "ledd": [
+    "Når det er nødvendig for å forebygge, avdekke eller reagere mot seksuelle overgrep, trakassering eller vold mv. i idretten, kan det behandles personopplysninger om straffedommer og lovovertredelser som nevnt i personvernforordningen artikkel 10, blant annet:\na. opplysninger i barneomsorgsattest, jf. politiregisterloven § 39\nb. opplysninger som er utlevert fra politiet med hjemmel i politiregisterloven §§ 27 og 31\nc. opplysninger som gir grunn til å tro at det er behov for å be om fornyet vandelskontroll, jf. politiregisterloven § 43\nd. opplysninger om dommer om rettighetstap, jf. straffeloven § 56\ne. opplysninger som gjelder lovbrudd som har forekommet i forbindelse med trening, konkurranse eller annet arrangement organisert av eller i samarbeid med et organisasjonsledd, eller lovbrudd som er utført i en relasjon som innebærer et tillits- eller ansvarsforhold overfor andre i idretten"
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "Hvem det kan behandles personopplysninger om",
+   "ledd": [
+    "Det kan behandles personopplysninger som nevnt i §§ 4 og 5 om følgende personer:\na. utøvere\nb. trenere\nc. dommere og funksjonærer som deltar i en idrettskonkurranse\nd. personer som innehar andre verv eller oppgaver i idretten\ne. tilskuere",
+    "Et organisasjonsledd kan bare behandle personopplysninger om personer nevnt i første ledd som har eller skal ha en tilknytning til organisasjonsleddet, eller som har eller skal ha en tilknytning til et underliggende organisasjonsledd.",
+    "Når det er nødvendig for å følge opp en handling som omfattes av denne loven, kan det også behandles personopplysninger om personer nevnt i første ledd som hadde en tilknytning som nevnt i annet ledd da handlingen skjedde."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 7",
+   "tittel": "Deling av personopplysninger",
+   "ledd": [
+    "Personopplysninger som nevnt i § 4 og § 5 bokstav b til e kan deles med Norges idrettsforbund og olympiske og paralympiske komité og med overordnet eller underliggende organisasjonsledd dersom og i den utstrekning det er nødvendig for å forebygge, avdekke eller reagere mot seksuelle overgrep, trakassering eller vold mv. i idretten. Ved deling av personopplysninger skal man så langt som mulig skjerme identiteten til dem som er utsatt for handlingene.",
+    "For å kunne dele personopplysninger som nevnt i § 4 og § 5 bokstav b til e med andre organisasjonsledd enn dem som er nevnt i første ledd, må den som deler, i tillegg til kravene i første ledd, ha grunn til å tro at en person skal ha en tilknytning til det organisasjonsleddet opplysningene deles med. Ved deling av personopplysninger skal man skjerme identiteten til dem som er utsatt for handlingene."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-8",
+   "nummer": "§ 8",
+   "tittel": "Tilgangsstyring og taushetsplikt",
+   "ledd": [
+    "Den behandlingsansvarlige skal sørge for tilgangsstyring, slik at personer tilknyttet organisasjonsleddet bare har tilgang til personopplysninger som nevnt i §§ 4 og 5 dersom og i den utstrekning det er nødvendig for å oppfylle formålene nevnt i disse bestemmelsene.",
+    "Personer som har tilgang til personopplysninger etter denne loven, er underlagt taushetsplikt med hensyn til de nevnte opplysningene. Taushetsplikten er ikke til hinder for at opplysningene kan behandles i samsvar med bestemmelsene i denne loven, utleveres til politiet, gjøres kjent for dem som de direkte gjelder, eller for andre i den utstrekning de som har krav på taushet, samtykker."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-9",
+   "nummer": "§ 9",
+   "tittel": "Forskrifter",
+   "ledd": [
+    "Departementet kan gi forskrift om behandling av personopplysninger etter denne loven, blant annet nærmere regler om behandlingsansvarlig, hvilke personopplysninger som kan behandles, lagringstid og sletting av personopplysninger."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-10",
+   "nummer": "§ 10",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Loven trer i kraft fra den tiden[1] Kongen bestemmer."
+   ],
+   "fotnoter": [
+    {
+     "nr": "1",
+     "tekst": "Fra 1. juli 2025 iflg. res. 20 juni 2025 nr. 1112."
+    }
+   ]
+  }
+ ]
+}

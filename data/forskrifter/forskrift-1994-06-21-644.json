@@ -1,0 +1,76 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-1994-06-21-644",
+ "dokumentid": "SF/forskrift/1994-06-21-644",
+ "departement": [
+  "Justis- og beredskapsdepartementet"
+ ],
+ "etat": [
+  "Sivilavd."
+ ],
+ "kunngjort_i": "Avd I 1994 997",
+ "ikraft": "1994-06-21",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1969-06-19-53/§4",
+   "tekst": "lov/1969-06-19-53/§4"
+  }
+ ],
+ "korttittel": "Forskrift om Lovdatas lovdatabaser mv",
+ "tittel": "Forskrift om Lovdatas lov- og forskriftsdatabaser.",
+ "annet": "Fastsatt av Justis- og politidepartementet 21. juni 1994 med hjemmel i lov om Norsk Lovtidend av 19. juni 1969 nr. 53 § 4, jfr kgl.res. av 20. mars 1992 nr. 176.",
+ "refid": "forskrift/1994-06-21-644",
+ "eli": "/eli/forskrift/1994/06/21/644",
+ "url": "https://lovdata.no/dokument/SF/forskrift/1994-06-21-644",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": null,
+     "ledd": [
+      "Justisdepartementet gis adgang til å inngå avtale med stiftelsen Lovdata om utnyttelse av Lovdatas databaser for lover og forskrifter."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": null,
+     "ledd": [
+      "Databaser som omhandles i en slik avtale, er unntatt fra kreditorbeslag når ikke annet er fastsatt i avtalen. En database som på dette grunnlag er unntatt fra kreditorbeslag, kan ikke overdras eller pantsettes uten departementets samtykke."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": null,
+     "ledd": [
+      "Dersom stiftelsen Lovdata blir oppløst, eller slutter å tilby rettslige informasjonstjenester, skal staten ha rett til å overta de databaser der lov- og forskriftsmateriale inngår som en vesentlig del."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Denne forskrift trer ikraft straks."
+    }
+   ]
+  }
+ ]
+}

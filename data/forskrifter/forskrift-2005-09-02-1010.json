@@ -1,0 +1,469 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2005-09-02-1010",
+ "dokumentid": "SF/forskrift/2005-09-02-1010",
+ "departement": [
+  "Forsvarsdepartementet"
+ ],
+ "etat": [
+  "FD I"
+ ],
+ "kunngjort_i": "I 2005 hefte 11",
+ "ikraft": "2006-04-24",
+ "siste_endring_ikraft": "2021-11-19",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2021-11-19-3235",
+   "tekst": "forskrift/2021-11-19-3235"
+  }
+ ],
+ "endrer": "forskrift/2001-12-21-1476\nforskrift/2001-12-21-1483\nforskrift/2001-12-21-1477\nforskrift/2003-06-20-740\nforskrift/2003-06-20-739\nforskrift/2003-10-17-1246",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1999-07-02-64/§37",
+   "tekst": "lov/1999-07-02-64/§37"
+  },
+  {
+   "ref": "lov/2014-06-20-43/§3",
+   "tekst": "lov/2014-06-20-43/§3"
+  },
+  {
+   "ref": "lov/2014-06-20-43/§8",
+   "tekst": "lov/2014-06-20-43/§8"
+  },
+  {
+   "ref": "lov/2014-06-20-43/§11",
+   "tekst": "lov/2014-06-20-43/§11"
+  },
+  {
+   "ref": "lov/2014-06-20-43/§12",
+   "tekst": "lov/2014-06-20-43/§12"
+  },
+  {
+   "ref": "lov/2014-06-20-43/§13",
+   "tekst": "lov/2014-06-20-43/§13"
+  },
+  {
+   "ref": "lov/2014-06-20-43/§19",
+   "tekst": "lov/2014-06-20-43/§19"
+  },
+  {
+   "ref": "lov/2014-06-20-43/§21",
+   "tekst": "lov/2014-06-20-43/§21"
+  },
+  {
+   "ref": "lov/2014-06-20-43/§22",
+   "tekst": "lov/2014-06-20-43/§22"
+  },
+  {
+   "ref": "lov/2014-06-20-43/§24",
+   "tekst": "lov/2014-06-20-43/§24"
+  },
+  {
+   "ref": "lov/2014-06-20-43/§33",
+   "tekst": "lov/2014-06-20-43/§33"
+  }
+ ],
+ "kunngjort": "2005-09-09",
+ "korttittel": "Forskrift om Forsvarets helseregister",
+ "tittel": "Forskrift om innsamling og behandling av opplysninger i Forsvarets helseregister",
+ "annet": "Hjemmel: Fastsatt ved Kronprinsreg.res. 2. september 2005 med hjemmel i lov 18. mai 2001 nr. 24 om helseregistre og behandling av helseopplysninger (helseregisterloven) § 3 tredje ledd, § 8 fjerde ledd jf. tredje ledd nr. 7, § 9 annet ledd, § 16 fjerde ledd, § 17 tredje ledd, § 22 femte ledd og § 27 annet ledd og lov 2. juli 1999 nr. 64 om helsepersonell m.v. (helsepersonelloven) § 37. Fremmet av Forsvarsdepartementet.\nTilføyd hjemmel: Lov 20. juni 2014 nr. 43 om helseregistre og behandling av helseopplysninger (helseregisterloven) § 3 femte ledd, § 8, § 11 første ledd, jf. andre ledd bokstav f, § 12 fjerde ledd, § 13 annet ledd, § 19 første ledd, § 21 annet ledd, § 22 annet ledd og § 24 fjerde ledd.\nEndret ved forskrifter 24 april 2006 nr. 436 (ikrafttredelse), 16 des 2011 nr. 1250, 17 jan 2013 nr. 61, 9 okt 2020 nr. 1998, 7 mai 2021 nr. 1443 (i kraft 7 okt 2021 jf. vedtak 7 okt 2021 nr. 2950), 19 nov 2021 nr. 3235.",
+ "refid": "forskrift/2005-09-02-1010",
+ "eli": "/eli/forskrift/2005/09/02/1010",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2005-09-02-1010",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Generelle bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1-1",
+     "tittel": "Etablering av Forsvarets helseregister",
+     "ledd": [
+      "Denne forskriften etablerer et personidentifiserbart register (Forsvarets helseregister). Forskriften gir bestemmelser om innsamling, lagring, behandling og utlevering av opplysninger i registeret.",
+      "Innsamling og behandling av opplysninger i Forsvarets helseregister kan skje manuelt og ved hjelp av elektroniske hjelpemidler."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 1-2",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "Med Forsvarets personell menes de som har tjenesteplikt og sivilt tilsatte i Forsvaret, jf. forsvarsloven § 2.",
+      "Med Helsepersonell i Forsvarets tjeneste menes helsepersonell som utfører oppdrag på Forsvarets vegne."
+     ],
+     "endringer": [
+      "Endret ved forskrift 9 okt 2020 nr. 1998."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 1-3",
+     "tittel": "Forsvarets helseregisters innhold",
+     "ledd": [
+      "Forsvarets helseregister kan inneholde personidentifiserende person-, tjeneste- og helsedata om Forsvarets personell. Forsvarets helseregister kan også inneholde informasjon om fysiske og sosiale miljøforhold."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 1-4",
+     "tittel": "Registerets formål",
+     "ledd": [
+      "Gjennom sammenstilling av tjenestedata, helsedata og miljødata er Forsvarets helseregisters formål å:\na. føre tilsyn med helsen og helseutviklingen til personell i Forsvaret for å kartlegge helserisiko knyttet til ulike tjenester,\nb. fremme og gi grunnlag for forskning og statistikk som kan lede til kunnskap om helsen til forsvarets personell,\nc. bidra til forbedring og utvikling av den militære helsetjeneste,\nd. bidra til at yrkesrelaterte skader og plager avdekkes slik at rammede kan oppnå kompensasjon etter alminnelig erstatningsrettslige regler."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-5",
+     "nummer": "§ 1-5",
+     "tittel": "Forbud mot bruk",
+     "ledd": [
+      "Opplysningene i Forsvarets helseregister kan bare anvendes til formål som nevnt i § 1-4.",
+      "Forsvarets helseregister kan ikke utlevere tjenestedata som er gradert i henhold til sikkerhetslovens bestemmelser. Opplysninger om enkeltindivider som er fremkommet ved behandling av data etter forskriften, kan ikke brukes i forsikringsøyemed selv om den registrerte selv har anmodet om eller samtykker til det."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-6",
+     "nummer": "§ 1-6",
+     "tittel": "Dataansvarlig",
+     "ledd": [
+      "Forsvarsdepartementet er dataansvarlig for Forsvarets helseregister."
+     ],
+     "endringer": [
+      "Endret ved forskrift 9 okt 2020 nr. 1998."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-7",
+     "nummer": "§ 1-7",
+     "tittel": "Databehandler",
+     "ledd": [
+      "Forsvarets sanitet er databehandler."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-8",
+     "nummer": "§ 1-8",
+     "tittel": "Opplysninger i Forsvarets helseregister",
+     "ledd": [
+      "Forsvarets helseregister kan, uten samtykke fra den registrerte, inneholde følgende opplysninger om Forsvarets personell, i den utstrekning det er nødvendig for å nå formålet med registeret:\n1. personopplysninger:\na. navn og fødselsnummer,\nb. adresse og bostedskommune,\nc. sivilstand,\nd. inntekt,\ne. utdanningsnivå,\n2. administrative opplysninger:\na. tittel/grad,\nb. tid og sted for militær klassifisering,\nc. tjenestested, avdeling og tidsrom,\nd. tjenestens art,\ne. spesielle forhold knyttet til tjenesten,\nf. institusjon/virksomhet/avdeling der helsehjelpen tilbys og ytes,\ng. institusjonsopphold, innleggelsesdato, utskrivingsdato, eventuelt poliklinikk,\nh. institusjon hvor undersøkelsen er gjort,\n3. helseopplysninger:\na. om årsak til at helsetjenesten i Forsvaret er oppsøkt, tidspunkt og tidsforløp for symptomer,\nb. resultat av relevante medisinske undersøkelser,\nc. medikamentforeskrivinger,\nd. hoveddiagnose og bidiagnose,\ne. behandling,\nf. vaksinasjonsstatus,\ng. blodtype,\nh. hørselsundersøkelser,\ni. skjermbildeundersøkelser,\nj. klassifiseringsdata/skikkethet ved sesjon, innrykk og dimisjon,\nk. årsak til at skade/sykdom oppsto,\nl. smitteforhold, smitteoppsporing og varsling,\nm. dødsårsak, obduksjon og dødsdato,\n4. opplysninger om arbeidsplass:\na. eksponeringsfaktorer,\nb. miljøfaktorer.",
+      "Etter samtykke fra den enkelte, jf. helseregisterloven § 2 bokstav e, kan opplysninger som vedkommende selv oppgir i spørreskjema eller ved intervju registreres i Forsvarets helseregister."
+     ],
+     "endringer": [
+      "Endret ved forskrift 9 okt 2020 nr. 1998."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-9",
+     "nummer": "§ 1-9",
+     "tittel": "Koding og klassifisering av opplysningene i Forsvarets helseregister, krav til dokumentasjon",
+     "ledd": [
+      "Den dataansvarlige for Forsvarets helseregister skal ved enhver registrering i registeret kunne dokumentere hvilke klassifikasjoner eller kodeverk som er benyttet."
+     ],
+     "endringer": [
+      "Endret ved forskrift 9 okt 2020 nr. 1998."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Melding av helseopplysninger til Forsvarets helseregister",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 2-1",
+     "tittel": "Helsepersonells alminnelige dokumentasjons- og meldeplikt",
+     "ledd": [
+      "Helsepersonell i Forsvarets tjeneste, skal uten hinder av taushetsplikt melde opplysninger som nevnt i § 1-8, første ledd nr. 1 til 4 til Forsvarets helseregister. Meldeplikten etter denne bestemmelsen gjelder kun så langt helsepersonellet plikter å føre journal i Forsvarets journalsystem.",
+      "Meldeplikt som nevnt i første ledd, anses oppfylt ved registrering av pasientopplysningene i Forsvarets egne elektroniske journalsystemer.",
+      "Dataansvarlig for journalsystem som nevnt i andre ledd, har ansvar for at pliktene etter denne bestemmelsen oppfylles."
+     ],
+     "endringer": [
+      "Endret ved forskrift 9 okt 2020 nr. 1998."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 2-2",
+     "tittel": "Innhenting av opplysninger fra Dødsårsaksregisteret",
+     "ledd": [
+      "Forsvarets helseregister kan innhente opplysninger om dødsårsak, obduksjon og dødsdato fra Dødsårsaksregisteret."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 2-3",
+     "tittel": "Overføringsform og innsending",
+     "ledd": [
+      "Dataansvarlig har ansvaret for at overføring av opplysninger fra Forsvarets journalsystemer til Forsvarets helseregister, skjer i en form som sikrer forskriftens krav til tilfredsstillende informasjonssikkerhet."
+     ],
+     "endringer": [
+      "Endret ved forskrift 9 okt 2020 nr. 1998."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 2-4",
+     "tittel": "Ansvar for kvalitetskontroll",
+     "ledd": [
+      "Den dataansvarlige for Forsvarets helseregister skal sørge for at opplysninger som blir samlet inn og behandlet er korrekte, relevante og nødvendige for bruk til formål som nevnt i § 1-4.",
+      "Dersom innrapporterte opplysninger er ufullstendige eller på annen måte mangelfulle, skal dataansvarlig for den opprinnelige kilde varsles."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 9 okt 2020 nr. 1998, 19 nov 2021 nr. 3235."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Behandling av personopplysninger i Forsvarets helseregister",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 3-1",
+     "tittel": "Tilgjengeliggjøring og annen behandling av helseopplysninger",
+     "ledd": [
+      "Helseopplysninger i Forsvarets helseregister skal behandles i samsvar med personvernforordningen, personopplysningsloven og de alminnelige vilkårene i helseregisterloven § 6 og reglene om taushetsplikt i helseregisterloven § 17, jf. helsepersonelloven § 21 flg.",
+      "Ved tilgjengeliggjøring og sammenstilling av opplysninger i registeret gjelder helseregisterloven § 19 til § 19h."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 16 des 2011 nr. 1250 (i kraft 1 jan 2012), 9 okt 2020 nr. 1998, 7 mai 2021 nr. 1443 (i kraft 7 okt 2021 jf. vedtak 7 okt 2021 nr. 2950)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 3-2",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Endret ved forskrifter 17 jan 2013 nr. 61, 9 okt 2020 nr. 1998, opphevet ved forskrift 7 mai 2021 nr. 1443 (i kraft 7 okt 2021 jf. vedtak 7 okt 2021 nr. 2950)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 3-3",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Endret ved forskrift 9 okt 2020 nr. 1998, opphevet ved forskrift 7 mai 2021 nr. 1443 (i kraft 7 okt 2021 jf. vedtak 7 okt 2021 nr. 2950)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 3-4",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Endret ved forskrift 9 okt 2020 nr. 1998, opphevet ved forskrift 7 mai 2021 nr. 1443 (i kraft 7 okt 2021 jf. vedtak 7 okt 2021 nr. 2950)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 3-5",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Endret ved forskrift 9 okt 2020 nr. 1998, opphevet ved forskrift 7 mai 2021 nr. 1443 (i kraft 7 okt 2021 jf. vedtak 7 okt 2021 nr. 2950)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Taushetsplikt, informasjonssikkerhet og internkontroll",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 4-1",
+     "tittel": "Tilgang til Forsvarets helseregister",
+     "ledd": [
+      "Bare særskilt autoriserte representanter for databehandler, har tilgang til personidentifiserende opplysninger i Forsvarets helseregister. Autorisasjon tillegges dataansvarlig."
+     ],
+     "endringer": [
+      "Endret ved forskrift 9 okt 2020 nr. 1998."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 4-2",
+     "tittel": "Taushetsplikt",
+     "ledd": [
+      "Enhver som behandler personopplysninger etter denne forskriften har taushetsplikt etter forvaltningsloven § 13 til § 13e og helsepersonelloven.",
+      "Taushetsplikten etter første ledd gjelder også den registrertes fødested, fødselsdato, personnummer, statsborgerforhold, sivilstand, yrke, bopel og arbeidssted.",
+      "Opplysninger til andre forvaltningsorganer etter forvaltningsloven § 13b nr. 5 og 6 kan bare gis når det er nødvendig for å bidra til løsning av oppgaver etter forskriften her, eller for å forebygge vesentlig fare for liv eller alvorlig skade for noens helse."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 4-3",
+     "tittel": "Informasjonssikkerhet",
+     "ledd": [
+      "Den dataansvarlige og databehandler skal gjennom planlagte og systematiske tiltak sørge for tilfredsstillende informasjonssikkerhet med hensyn til risikoen, jf. personvernforordningen artikkel 32 og helseregisterloven § 21.",
+      "For behandling av informasjon som er skjermingsverdig av hensyn til rikets sikkerhet, gjelder bestemmelsene i sikkerhetsloven med forskrifter."
+     ],
+     "endringer": [
+      "Endret ved forskrift 9 okt 2020 nr. 1998."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 4-4",
+     "tittel": "Plikt til å sørge for internkontroll",
+     "ledd": [
+      "Den dataansvarlige skal gjennomføre tekniske og organisatoriske tiltak for å sikre og påvise at behandling av opplysninger utføres i samsvar med personvernforordningen, personopplysingsloven og helseregisterloven, jf. helseregisterloven § 22.",
+      "Databehandlere som behandler opplysninger på vegne av den dataansvarlige, skal behandle opplysninger i samsvar med rutiner dataansvarlig har oppstilt."
+     ],
+     "endringer": [
+      "Endret ved forskrift 9 okt 2020 nr. 1998."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-5",
+     "nummer": "§ 4-5",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Opphevet ved forskrift 9 okt 2020 nr. 1998."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Den registrertes rett til informasjon og innsyn",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 5-1",
+     "tittel": "Den registrertes rett til informasjon og innsyn",
+     "ledd": [
+      "Registrerte har rett til informasjon om Forsvarets helseregister og innsyn i behandling av helseopplysninger om seg selv i samsvar med personvernforordningen artikkel 13 til 15, jf. helseregisterloven § 24.",
+      "Retten til informasjon og innsyn som nevnt i første ledd, reguleres av sikkerhetsloven kapittel 5 så langt det gjelder gradert informasjon.",
+      "Begjæringer om innsyn etter første ledd skal besvares i tråd med de tidsfrister som er angitt i personvernforordningen artikkel 12 nr. 3."
+     ],
+     "endringer": [
+      "Endret ved forskrift 9 okt 2020 nr. 1998."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 5-2",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Opphevet ved forskrift 9 okt 2020 nr. 1998."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Bevaring av personopplysninger i Forsvarets helseregister",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 6-1",
+     "tittel": "Bevaring av personopplysninger",
+     "ledd": [
+      "Opplysninger i Forsvarets helseregister skal oppbevares i ubegrenset tid, med mindre annet følger av denne forskriften, helseregisterloven § 25 eller sikkerhetslovens kapittel 5."
+     ],
+     "endringer": [
+      "Endret ved forskrift 9 okt 2020 nr. 1998."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kap7",
+   "overskrift": "Kapittel 7. Straff",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 7-1",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Opphevet ved forskrift 9 okt 2020 nr. 1998."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-8",
+   "navn": "kap8",
+   "overskrift": "Kapittel 8. Avsluttende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-1",
+     "nummer": "§ 8-1",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Forskriften trer i kraft fra den tid departementet bestemmer[1]."
+     ],
+     "fotnoter": [
+      {
+       "nr": "1",
+       "tekst": "I kraft 24 april 2006 jf forskrift 24 april 2006 nr. 436."
+      }
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-2",
+     "nummer": "§ 8-2",
+     "tittel": "Endringer i andre forskrifter",
+     "ledd": [
+      "Fra forskriftens ikrafttredelse gjøres følgende endringer i andre forskrifter: – – –"
+     ]
+    }
+   ]
+  }
+ ]
+}

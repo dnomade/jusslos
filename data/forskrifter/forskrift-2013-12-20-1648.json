@@ -1,0 +1,138 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2013-12-20-1648",
+ "dokumentid": "SF/forskrift/2013-12-20-1648",
+ "departement": [
+  "Samferdselsdepartementet"
+ ],
+ "etat": [
+  "Luftfartstilsynet"
+ ],
+ "kunngjort_i": "I 2013 hefte 19",
+ "ikraft": "2014-01-02",
+ "siste_endring_ikraft": "2014-10-28",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2014-08-12-1113",
+   "tekst": "forskrift/2014-08-12-1113 fra 2014-10-28"
+  }
+ ],
+ "endrer": "forskrift/2013-01-09-19",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1993-06-11-101/§4-1",
+   "tekst": "lov/1993-06-11-101/§4-1"
+  },
+  {
+   "ref": "forskrift/1999-12-10-1265",
+   "tekst": "forskrift/1999-12-10-1265"
+  },
+  {
+   "ref": "forskrift/1999-12-10-1273",
+   "tekst": "forskrift/1999-12-10-1273"
+  }
+ ],
+ "kunngjort": "2014-01-02 16:45",
+ "korttittel": "Operational directive according to the Aviation Act",
+ "tittel": "Operational directive – operation to and from airfields north of 65° latitude – Compass system limitations due to magnetic inclination/dip",
+ "annet": "Hjemmel: Fastsatt av Luftfartstilsynet 20. desember 2013 med hjemmel i lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven) § 4-1, jf. delegeringsvedtak 10. desember 1999 nr. 1273.\nTilføyd hjemmel: Delegeringsvedtak 10. desember 1999 nr. 1265.\nEØS-henvisninger: EØS-avtalen vedlegg XIII nr. 66a (forordning (EØF) nr. 3922/91), nr. 66n (forordning (EF) nr. 216/2008 endret ved forordning (EF) nr. 690/2009, forordning (EF) nr. 1108/2009 og forordning (EU) nr. 6/2013), nr. 66na (forordning (EF) nr. 103/2007), nr. 66nb (forordning (EU) nr. 646/2012), nr. 66o (forordning (EF) nr. 104/2004), nr. 66qa (forordning (EU) nr. 628/2013), nr. 66s (forordning (EF) nr. 593/2007 endret ved forordning (EF) nr. 1356/2008 og forordning (EU) nr. 494/2012).\nEndret ved forskrift 12 aug 2014 nr. 1113.",
+ "refid": "forskrift/2013-12-20-1648",
+ "eli": "/eli/forskrift/2013/12/20/1648",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2013-12-20-1648",
+ "innhold": [
+  {
+   "type": "tekst",
+   "tekst": "This Operational Directive contains mandatory action that is required to establish an acceptable level of safety. The Directive is issued in accordance with the Aviation Act (luftfartsloven) § 4-1 and Regulation (EC) No 216/2008 art. 14.1.\nRecipients must ensure that this Directive is copied to all members of their staff who need to take appropriate action or who may have an interest in the information."
+  },
+  {
+   "type": "endring",
+   "tekst": "Endret ved forskrift 12 aug 2014 nr. 1113 (i kraft 28 okt 2014)."
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "1. Introduction",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "1.1\nThis Operational Directive is applicable to operators conducting commercial air transport to and from airfields located in the Kingdom of Norway, north of 65° latitude."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "2. Compliance/action to be taken",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "2.1\nThe Norwegian Civil Aviation Authority, in exercise of its powers under Aviation Act (Luftfartsloven) § 4-1, directs all air operators which conduct commercial air transport operations:\na. to airfields in Norway located north of 65° latitude,\nb. with the following aircraft/system combinations:\n- de Havilland DHC-8 with compass configuration AHRS AH-600,\nto comply with the requirements set out in paragraph 2.2.\n2.2\nTo notify the Civil Aviation Authority of Norway prior to operations in this region, and to ensure that each aircraft is equipped with compass systems which adequately compensates for the effect of magnetic dip north of 65° latitude.\n2.3\nOperators of other aircraft/system combinations shall notify the Civil Aviation Authority of Norway should they experience compass drift while operating in this area."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "3. Reason",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "3.1\nSeveral serious incidents have been recorded due to magnetic dip. An example of such can be found in Air Accident Investigation Board Norway ( www.sht.no) report no. 2000/34.\n3.2\nA detailed description of the problem as well as recommended actions can be found in AOM No 408 and 622 issued by Bombardier Aerospace Regional Aircraft. It is however important to note that the problem is not necessarily limited to Bombardier Aircraft.\n3.4\nMore than 1100 incidents are recorded during flights north of 65° latitude and within Norwegian Airspace. The most serious incidents have been involving heading errors up to 30°."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "4. Notifications and queries",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "4.1\nNotifications or queries should be sent to Luftfartstilsynet, Postbox 243, 8001 Bodø, Norway, or by e-mail to postmottak@caa.no, and refer to case 12/09436."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "5. Review",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "5.1\nThis Operational Directive will be updated should it become evident that other aircraft/system combinations are subject to compass drift caused by magnetic dip in a way that endangers operational safety."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "6. Entry in to force",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "6.1\nThis Operational Directive shall enter in to force immediately after its publication, and shall remain in force until it is revoked by the Civil Aviation Authority of Norway."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kap7",
+   "overskrift": "7. Repeal of previous operational directive",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "7.1\nOperational Directive of 9 January 2013 no. 19 is hereby repealed."
+    }
+   ]
+  }
+ ]
+}

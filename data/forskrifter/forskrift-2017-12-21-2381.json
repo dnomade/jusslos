@@ -1,0 +1,395 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2017-12-21-2381",
+ "dokumentid": "SF/forskrift/2017-12-21-2381",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "etat": [
+  "Sjøfartsdirektoratet"
+ ],
+ "ikraft": "2018-01-01",
+ "siste_endring_ikraft": "2024-02-14",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2024-02-14-280",
+   "tekst": "forskrift/2024-02-14-280"
+  }
+ ],
+ "endrer": "forskrift/2007-07-04-854",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2007-02-16-9/§2",
+   "tekst": "lov/2007-02-16-9/§2"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§9",
+   "tekst": "lov/2007-02-16-9/§9"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§11",
+   "tekst": "lov/2007-02-16-9/§11"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§12",
+   "tekst": "lov/2007-02-16-9/§12"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§13",
+   "tekst": "lov/2007-02-16-9/§13"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§14",
+   "tekst": "lov/2007-02-16-9/§14"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§16",
+   "tekst": "lov/2007-02-16-9/§16"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§21",
+   "tekst": "lov/2007-02-16-9/§21"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§41",
+   "tekst": "lov/2007-02-16-9/§41"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§43",
+   "tekst": "lov/2007-02-16-9/§43"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§45",
+   "tekst": "lov/2007-02-16-9/§45"
+  },
+  {
+   "ref": "forskrift/2007-02-16-171",
+   "tekst": "forskrift/2007-02-16-171"
+  },
+  {
+   "ref": "forskrift/2007-05-31-590",
+   "tekst": "forskrift/2007-05-31-590"
+  }
+ ],
+ "kunngjort": "2017-12-29 16:10",
+ "siste_rettelse": "2022-01-27 (tegnsetting i lister tilpasset universell utforming)",
+ "tittel": "Forskrift om kran og løft på flyttbare innretninger",
+ "annet": "Hjemmel: Fastsatt av Sjøfartsdirektoratet 21. desember 2017 med hjemmel i lov 16. februar 2007 nr. 9 om skipssikkerhet (skipssikkerhetsloven) § 2, § 9, § 11, § 12, § 13, § 14, § 16, § 21, § 41, § 43 og § 45, jf. delegeringsvedtak 16. februar 2007 nr. 171 og delegeringsvedtak 31. mai 2007 nr. 590.\nForskriften er meldt til EFTAs overvåkingsorgan i henhold til kravene i lov 17. desember 2004 nr. 101 om europeisk meldeplikt for tekniske regler m.m. (EØS-høringsloven) og EØS-avtalen vedlegg II kap. XIX nr. 1 (direktiv 98/34/EF endret ved direktiv 98/48/EF).\nEndret ved forskrifter 24 jan 2022 nr. 118, 27 mars 2023 nr. 459, 14 feb 2024 nr. 280.\nRettelser: 30.01.2020 (hjemmel), 27.01.2022 (tegnsetting i lister tilpasset universell utforming).",
+ "refid": "forskrift/2017-12-21-2381",
+ "eli": "/eli/forskrift/2017/12/21/2381",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2017-12-21-2381",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Virkeområde",
+   "ledd": [
+    "(1) Forskriften gjelder for norske flyttbare innretninger.",
+    "(2) Forskriften gjelder ikke for daviter som brukes til evakuerings- og redningsutstyr."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Definisjoner",
+   "ledd": [
+    "I denne forskriften betyr\na. «offshorekraner»: kraner som brukes til eksterne og interne løft på innretningen\nb. «dekkskraner»: kraner som kun brukes til interne løft på innretningen\nc. «anerkjent klasseselskap»: klasseselskap som departementet har inngått avtale med, jf. skipssikkerhetsloven § 41 andre ledd\nd. «MOU-klasseselskap»: anerkjent klasseselskap som det er inngått tilleggsavtale med om å føre tilsyn med flyttbare innretninger. Disse klasseselskapene er:\ni. American Bureau of Shipping (ABS)\nii. DNV\niii. Lloyd's Register of Shipping (LR)."
+   ],
+   "endringer": [
+    "Endret ved forskrift 27 mars 2023 nr. 459."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Sakkyndig virksomhet type A-1 og sakkyndig person type B-1",
+   "ledd": [
+    "(1) Sakkyndig virksomhet type A-1 skal ha\na. tilstrekkelig kompetanse om kran, som omfatter hydraulikk, styrke og struktur, automasjon og elektronikk\nb. styringssystem\nc. tilgang til relevant programvare for styrke- og strukturberegning, og\nd. oppdaterte sjekklister og prosedyrer for kontroll av kraner.",
+    "(2) Sakkyndig person type B-1 skal ha\na. relevant fagutdanning\nb. relevant erfaring, og\nc. oppdaterte sjekklister og prosedyrer for kontroll av kraner.",
+    "(3) Søknad om godkjenning etter første og andre ledd sendes til Sjøfartsdirektoratet.",
+    "(4) Før en person kan godkjennes som sakkyndig person type B-1, skal personen bestå en praktisk prøve."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Gyldigheten av godkjenninger som sakkyndig virksomhet type A-1 og sakkyndig person type B-1",
+   "ledd": [
+    "(1) Godkjenningen er bare gyldig når den sakkyndige virksomheten type A-1 eller den sakkyndige personen type B-1 står oppført på Sjøfartsdirektoratets oversikt over godkjente sakkyndige virksomheter og personer.",
+    "(2) Hvis sakkyndig virksomhet type A-1 eller sakkyndig person type B-1 på forespørsel ikke dokumenterer samsvar med § 3 første eller andre ledd, kan Sjøfartsdirektoratet slette den sakkyndige virksomheten eller personen fra oversikten."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Dokumentasjon",
+   "ledd": [
+    "(1) Førstegangskontroll, årlig kontroll, femårlig kontroll og alle prøver og undersøkelser som gjøres etter reparasjoner eller forandringer av kranen eller løfteutstyret, skal dokumenteres i kontrollboken (ILO-formular nr. 1).",
+    "(2) Kontrollboken og sertifikatene skal finnes enten i et elektronisk eller et papirbasert system.",
+    "(3) Dokumentasjonen skal være tilgjengelig om bord.",
+    "(4) Dokumentasjonen, inkludert historikk, i det elektroniske systemet skal være beskyttet mot overskriving, sletting og endringer.",
+    "(5) Det elektroniske systemet skal\na. ha elektronisk signatur\nb. klart identifisere den som har utført kontroll og dokumentdato\nc. ha dataene lagret i en sikret database, og\nd. ha funksjon for gjenoppretting."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "Kranmanual",
+   "ledd": [
+    "Kraner skal ha en manual som gir informasjon om\na. klargjøring for drift\nb. oppstart\nc. vedlikehold\nd. reparasjon\ne. modifikasjon og demontering av utstyr og systemer\nf. begrensninger under normal drift og nødoperasjoner, slik som\ni. tillatt arbeidsbelastning (SWL)\nii. tillatt arbeidsmoment under statiske og dynamiske belastninger\niii. maksimal vindstyrke\niv. maksimal krengning\nv. beregningstemperatur, og\nvi. bremser\ng. sikkerhetssystemer\nh. diagrammer for elektrisk, hydraulisk og pneumatisk utstyr\ni. delene som er utsatt for størst belastning\nj. sporbarhet på material\nk. sveiseutførelse\nl. NDT-omfang, og\nm. sertifisering."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 7",
+   "tittel": "Sertifikater for kran og løst løfteutstyr",
+   "ledd": [
+    "(1) Offshorekraner, dekkskraner og løst løfteutstyr skal ha sertifikat.",
+    "(2) Sertifikat for offshore- og dekkskraner skal utstedes på ILO-formular nr. 2.",
+    "(3) Sertifikat for løst løfteutstyr, med unntak av ståltau, skal utstedes på ILO-formular nr. 3.",
+    "(4) Sertifikat for ståltau som brukes som løst løfteutstyr, skal utstedes på ILO-formular nr. 4."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-8",
+   "nummer": "§ 8",
+   "tittel": "Konstruksjon av kraner",
+   "ledd": [
+    "(1) Offshorekraner skal konstrueres med et sikkerhetsnivå som samsvarer med\na. EN 13852-1:2013 «Del 1: Offshorekraner til generell bruk» eller\nb. DNVGL-ST-0378, mai 2016 «Standard for offshore and platform lifting appliances». Alternativt kan en standard med tilsvarende sikkerhetsnivå fra et annet MOU-klasseselskap brukes.",
+    "(2) Offshorekraner som er godkjent for personell-løft, skal ha nødkjøringsfunksjon som er tilgjengelig innen ett minutt.",
+    "(3) Offshorekraner som det er inngått leveringsavtale for før 1. januar 2018, er unntatt kravet i andre ledd, men rederiet skal kunne dokumentere at personellsikkerheten likevel er ivaretatt.",
+    "(4) Dekkskraner skal konstrueres etter en anerkjent standard utgitt av\na. et MOU-klasseselskap, eller\nb. NS/EN/BS/API/DIN/NFPA/ISO/CEN/IEC. Alternativt kan en standard utgitt av et tilsvarende standardiseringsorgan brukes.",
+    "(5) Trapper, leidere, rekkverk, adkomståpninger og ristverk på offshore- og dekkskraner skal være i samsvar med kravene i forskrift 4. september 1987 nr. 856 om bygging av flyttbare innretninger § 14."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-9",
+   "nummer": "§ 9",
+   "tittel": "Løst løfteutstyr",
+   "ledd": [
+    "(1) Løst løfteutstyr til offshorekraner skal samsvare med NORSOK R-002, revisjon 3, mars 2017 «Lifting equipment» vedlegg C og F eller en standard med samme omfang og sikkerhetsnivå.",
+    "(2) Løst løfteutstyr til dekkskraner skal samsvare med NORSOK R-002, revisjon 3, mars 2017 «Lifting equipment» vedlegg C eller en standard med samme omfang og sikkerhetsnivå."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-10",
+   "nummer": "§ 10",
+   "tittel": "Fibertau",
+   "ledd": [
+    "Fibertau som brukes i offshore- eller dekkskraner eller som løst løfteutstyr, skal samsvare med\na. DNVGL-ST-0378, mai 2016 «Standard for offshore and platform lifting appliances» kapittel 5.2.6, eller en standard med samme omfang og sikkerhetsnivå, og\nb. kranleverandørens anbefaling og spesifikasjon."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-11",
+   "nummer": "§ 11",
+   "tittel": "Heiser",
+   "ledd": [
+    "Vare- og personheiser skal utformes, bygges, installeres, kontrolleres og utrustes etter MOU-klasseselskap sine regler for skipsheiser. Tilleggskrav fra (ISO) 8383 «Lifts on Ships – Specific Requirements» skal inkluderes."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-12",
+   "nummer": "§ 12",
+   "tittel": "Trucker og andre mobile løfteinnretninger",
+   "ledd": [
+    "(1) Trucker og andre mobile løfteinnretninger skal utstyres med horn, speil, minst ett 2 kg pulverapparat for brannslokking og vern mot fallende last på førerplass.",
+    "(2) Trucker og andre mobile løfteinnretninger som brukes i eksplosjonsfarlig område, skal sertifiseres for slik bruk.",
+    "(3) Karmer eller andre like effektive arrangementer rundt åpninger i plan med dekk, kjøreramper o.l. skal være i samsvar med forskrift 4. september 1987 nr. 856 om bygging av flyttbare innretninger § 14 nr. 2.10.",
+    "(4) Trucker og andre mobile løfteinnretninger skal ha lastekart.",
+    "(5) Dersom det finnes begrensninger for hvor trucker og andre mobile løfteinnretninger kan kjøre, skal informasjon om dette være oppslått i løfteinnretningen. Begrensninger kan alternativt merkes på dekk."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-13",
+   "nummer": "§ 13",
+   "tittel": "Kompetansebevis for fører av kraner, trucker og andre mobile løfteinnretninger",
+   "ledd": [
+    "(1) Fører av offshorekran skal ha kompetansebevis G5 eller tilsvarende.",
+    "(2) Fører av dekkskran skal ha kompetansebevis G20 eller tilsvarende.",
+    "(3) Fører av trucker og andre mobile løfteinnretninger skal ha relevant kompetansebevis."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-14",
+   "nummer": "§ 14",
+   "tittel": "Kranfundament",
+   "ledd": [
+    "Fundamentet på offshore- og dekkskraner skal godkjennes av et MOU-klasseselskap."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-15",
+   "nummer": "§ 15",
+   "tittel": "Omfanget av førstegangskontroll av kraner",
+   "ledd": [
+    "(1) Førstegangskontrollen skal omfatte en prøvebelastning med løse vekter eller vannvekter. Prøvevektene skal verifiseres. Vektene skal heises, låres og svinges med full hastighet. Kranarmens radius skal varieres. Oppbremsing av bevegelsene skal prøves, og prøven skal omfatte alle aktuelle kranbevegelser.",
+    "(2) Prøvebelastningen av offshore- og dekkskraner skal følge den standarden kranen er konstruert etter, jf. § 8."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-16",
+   "nummer": "§ 16",
+   "tittel": "Gjennomføring av førstegangskontroll av kraner",
+   "ledd": [
+    "(1) Offshorekraner skal førstegangskontrolleres av\na. en sakkyndig virksomhet type A-1 når kranen er konstruert i samsvar med § 8 første ledd bokstav a, eller\nb. det MOU-klasseselskapet som eier standarden når kranen er konstruert i samsvar med § 8 første ledd bokstav b.",
+    "(2) Dekkskraner skal førstegangskontrolleres av\na. en sakkyndig virksomhet type A-1 når kranen er konstruert i samsvar med § 8 fjerde ledd bokstav b, eller\nb. det MOU-klasseselskapet som eier standarden når kranen er konstruert i samsvar med § 8 fjerde ledd bokstav a.",
+    "(3) Sakkyndig virksomhet type A-1 som utfører førstegangskontroll etter første og andre ledd bokstav a, kan ikke være samme foretak som har produsert kranen.",
+    "(4) Løst løfteutstyr som brukes under førstegangskontrollen, skal være sertifisert.",
+    "(5) Rederiet skal forsikre seg om at den sakkyndige virksomheten type A-1 som utfører kontrollen etter første ledd bokstav a og andre ledd bokstav a, står oppført på Sjøfartsdirektoratet sin oversikt over godkjente sakkyndige virksomheter."
+   ],
+   "endringer": [
+    "Endret ved forskrift 24 jan 2022 nr. 118."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-17",
+   "nummer": "§ 17",
+   "tittel": "Omfanget av årlig kontroll av kraner",
+   "ledd": [
+    "Årlig kontroll av offshore- og dekkskraner skal\na. utføres i samsvar med kranleverandørens retningslinjer\nb. minst omfatte funksjonsprøve av kranen og visuell kontroll med hensyn til strekk, slitasje, tæring og brudd- og sprekkdannelse."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-18",
+   "nummer": "§ 18",
+   "tittel": "Omfanget av femårlig kontroll av kraner",
+   "ledd": [
+    "(1) Femårlig kontroll av offshore- og dekkskraner skal utføres i samsvar med kranleverandøren sine retningslinjer.",
+    "(2) Kontrolløren skal vurdere fullstendig nedrigging og demontering av innretninger og redskap selv om retningslinjene fra kranleverandøren ikke krever det. Vurderingen skal ta hensyn til alder, bruk, levetidsberegninger, erfaringshistorikk og eventuelt tilstandsovervåking for å kunne avdekke strekk, slitasje, tæring og brudd- og sprekkdannelser."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-19",
+   "nummer": "§ 19",
+   "tittel": "Gjennomføring av årlig og femårlig kontroll av kraner",
+   "ledd": [
+    "(1) Årlig og femårlig kontroll av offshorekraner skal utføres av\na. en sakkyndig virksomhet type A-1 eller en sakkyndig person type B-1 når kranen er konstruert i samsvar med § 8 første ledd bokstav a, eller\nb. det MOU-klasseselskapet som eier standarden når kranen er konstruert i samsvar med § 8 første ledd bokstav b.",
+    "(2) Årlig og femårlig kontroll av dekkskraner skal utføres av\na. en sakkyndig virksomhet type A-1 eller en sakkyndig person type B-1 når kranen er konstruert i samsvar med § 8 fjerde ledd bokstav b, eller\nb. det MOU-klasseselskapet som eier standarden når kranen er konstruert i samsvar med § 8 fjerde ledd bokstav a.",
+    "(3) Rederiet skal forsikre seg om at den sakkyndige virksomheten type A-1 eller den sakkyndige personen type B-1 som utfører kontrollen etter første ledd bokstav a og andre ledd bokstav a, står oppført på Sjøfartsdirektoratet sin oversikt over godkjente sakkyndige virksomheter og personer."
+   ],
+   "endringer": [
+    "Endret ved forskrift 24 jan 2022 nr. 118."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-20",
+   "nummer": "§ 20",
+   "tittel": "Kontroll etter overbelastning av eller skade på kraner",
+   "ledd": [
+    "(1) Etter overbelastning av eller skade på offshore- og dekkskraner skal kranleverandøren sine retningslinjer for kontroll etter overbelastning eller skade følges. Med overbelastning menes overskridelse av SWL (relatert til R0 ) som definert i EN 13852-1: 2013 kapittel 3.29.",
+    "(2) Offshorekraner skal etter overbelastning eller skade kontrolleres av\na. en sakkyndig virksomhet type A-1 når kranen er konstruert i samsvar med § 8 første ledd bokstav a, eller\nb. det MOU-klasseselskapet som eier standarden, når kranen er konstruert i samsvar med § 8 første ledd bokstav b.",
+    "(3) Dekkskraner skal etter overbelastning eller skade kontrolleres av\na. en sakkyndig virksomhet type A-1 når kranen er konstruert i samsvar med § 8 tredje ledd bokstav b, eller\nb. det MOU-klasseselskapet som eier standarden, når kranen er konstruert i samsvar med § 8 tredje ledd bokstav a.",
+    "(4) Rederiet skal forsikre seg om at den sakkyndige virksomheten type A-1 som utfører kontrollen etter andre ledd bokstav a og tredje ledd bokstav a, står oppført på Sjøfartsdirektoratet sin oversikt over godkjente sakkyndige virksomheter."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-21",
+   "nummer": "§ 21",
+   "tittel": "Kontroll og sertifisering av løst løfteutstyr",
+   "ledd": [
+    "(1) Rederiet skal se til at den som utsteder sertifikater etter § 7 tredje og fjerde ledd, har tilstrekkelig kompetanse. Kompetansen skal som minimum inkludere kompetansebevis G11K eller tilsvarende som godkjent kontrollør for løfteredskap.",
+    "(2) Løst løfteutstyr skal prøves med prøvelaster som følger av tabell 1, før de tas i bruk første gang, etter skade eller ved mistanke om skade.\n| Gjenstand | Tillatt arbeidsbelastning (SWL) | Prøvelaster\n| Enskivet blokk | til og med 25 tonn | 4 x SWL\n| Enskivet blokk m/hundsvott | til og med 25 tonn | 6 x SWL\n| Kjetting, ring, krok, sjakkel, svivel, flerskivet blokk mv. | til og med 25 tonn | 2 x SWL\n| Kjetting, ring, krok, sjakkel, svivel, | til og med 30 tonn | 55 tonn\n| flerskivet blokk, enskivet blokk mv. | til og med 35 tonn | 65 tonn\n| | til og med 40 tonn | 70 tonn\n| | til og med 45 tonn | 75 tonn\n| | til og med 50 tonn | 85 tonn\n| | til og med 55 tonn | 90 tonn\n| | til og med 60 tonn | 95 tonn\n| | til og med 65 tonn | 100 tonn\n| | til og med 70 tonn | 110 tonn\n| | til og med 75 tonn | 115 tonn\n| | til og med 80 tonn | 120 tonn\n| | til og med 85 tonn | 125 tonn\n| | til og med 90 tonn | 130 tonn\n| | til og med 95 tonn | 135 tonn\n| | til og med 100 tonn | 145 tonn\n| | til og med 110 tonn | 155 tonn\n| | til og med 120 tonn | 165 tonn\n| | til og med 130 tonn | 175 tonn\n| | til og med 140 tonn | 190 tonn\n| | til og med 150 tonn | 200 tonn\n| | til og med 160 tonn | 215 tonn\n| | til og med 170 tonn | 230 tonn\n| | til og med 180 tonn | 240 tonn\n| | over 180 tonn | 1,33 x SWL\n| Ståltau | | Bruddlast\n| Løfteåk o.l. | | 2,0 x SWL\nTabell 1"
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-22",
+   "nummer": "§ 22",
+   "tittel": "Løfteører",
+   "ledd": [
+    "(1) Løfteører skal konstrueres med en sikkerhetsfaktor som er relativ til angitt SWL i tabell 2:\n| SWL | Sikkerhetsfaktor\n| Opptil 5 tonn | 2,0\n| Fra 5 til 20 tonn | 1,75\n| Over 20 tonn | 1,5\nTabell 2",
+    "(2) Rederiet skal se til at den som kontrollerer løfteører har tilstrekkelige kvalifikasjoner innen struktur og NDT.",
+    "(3) Løfteører skal kontrolleres før de brukes første gang og ved mistanke om svekket struktur eller innfestning på løfteørene.",
+    "(4) Løfteører med SWL lik eller mindre enn tre tonn skal kontrolleres ved\na. å vurdere dimensjoneringen på løfteøret, og\nb. visuell inspeksjon av løfteøret, struktur og innfestning. Stikkprøvebasert NDT skal utføres når dette vurderes som nødvendig.",
+    "(5) Løfteører med SWL over tre tonn skal kontrolleres ved å gjennomføre\na. lasttester av alle løfteører og stikkprøvebasert NDT, eller\nb. NDT av alle løfteører og stikkprøvebaserte lasttester.",
+    "(6) Når lasttest av løfteører skal utføres, skal tabell 3 brukes.\n| SWL | Prøvevekter ved lasttest\n| Opptil 20 tonn | 1,25 x SWL\n| Fra 20 til 50 tonn | 5 tonn + SWL\n| Over 50 tonn | 1,10 x SWL\nTabell 3",
+    "(7) Løfteører skal ha individuell merking eller gruppemerking. Merkingen skal inkludere SWL og kan f.eks. være skilting i hvert område med flere identiske løfteører eller et fargekodesystem som skiller løfteører med forskjellig SWL i samme område.",
+    "(8) Plassering, SWL og belastningsretning av løfteørene skal være dokumentert."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-23",
+   "nummer": "§ 23",
+   "tittel": "Materialhåndtering",
+   "ledd": [
+    "Materialhåndtering til og fra innretningen og intern forflytning av last på innretningen skal gjøres i samsvar med NORSOK R-002, revisjon 3, mars 2017 «Lifting equipment» vedlegg B. Rederiet skal vurdere omfanget av materialhåndteringsplanen i forhold til behovet. Rederiets vurdering skal dokumenteres."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-24",
+   "nummer": "§ 24",
+   "tittel": "Bruk av ståltau og løst løfteutstyr",
+   "ledd": [
+    "(1) Bruk, ettersyn og utskifting av ståltau som brukes i offshore- eller dekkskraner eller som løst løfteutstyr, skal samsvare med NS-ISO 4309:2010 «Kraner – Ståltau – Håndtering og vedlikehold, inspeksjon og kassasjon» eller en standard med samme omfang og sikkerhetsnivå.",
+    "(2) Løst løfteutstyr til offshore- eller dekkskraner skal brukes, kontrolleres og lagres i samsvar med NORSOK R-003, revisjon 3, juni 2017 «Sikker bruk av løfteutstyr» kapittel 7 eller NORSOK R-003, revisjon 2, juli 2004 «Sikker bruk av løfteutstyr» kapittel 7 eller en standard med samme omfang og sikkerhetsnivå."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-25",
+   "nummer": "§ 25",
+   "tittel": "Bruk av kraner og andre løfteinnretninger",
+   "ledd": [
+    "(1) Kraner og andre løfteinnretninger skal brukes i samsvar med relevante krav i NORSOK R-003, revisjon 3, juni 2017 «Sikker bruk av løfteutstyr» kapittel 6 eller NORSOK R-003, revisjon 2, juli 2004 «Sikker bruk av løfteutstyr» kapittel 6. På utenlandsk sokkel kan alternativt sokkelmyndighetens krav til bruk av kraner og andre løfteinnretninger følges dersom disse kravene har tilsvarende omfang.",
+    "(2) Personell-løft skal kun utføres med kraner og løfteinnretninger sertifisert for personell-løft.",
+    "(3) Personell-løft skal utføres etter NORSOK R-003, revisjon 3, juni 2017 «Sikker bruk av løfteutstyr» kapittel 5 eller NORSOK R-003, revisjon 2, juli 2004, «Sikker bruk av løfteutstyr», kapittel 5. For overføring av personell til og fra innretningen gjelder i tillegg følgende:\na. Overføringen skal bare skje når spesielle grunner gjør det nødvendig.\nb. Plattformsjefen skal i samråd med vernetjenesten godkjenne overføringen.\nc. Overføringen skal utføres innenfor værbegrensningene som følger av løfteutstyrets sertifikater. Når værbegrensninger ikke fremgår av sertifikat, skal NS-EN 13852-1:2013 punkt 7.2.5 følges."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-26",
+   "nummer": "§ 26",
+   "tittel": "Dispensasjon",
+   "ledd": [
+    "(1) Sjøfartsdirektoratet kan unnta en flyttbar innretning fra ett eller flere av kravene i forskriften når rederiet søker skriftlig om unntak og ett av følgende vilkår er oppfylt:\na. Rederiet godtgjør at kravet ikke er vesentlig og at unntaket er sikkerhetsmessig forsvarlig.\nb. Rederiet godtgjør at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.\nc. Rederiet godtgjør at kravet hindrer utvikling og bruk av innovative løsninger når løsningen vil opprettholde samme sikkerhetsnivå som kravet i forskriften.",
+    "(2) Uttalelse fra vernetjenesten skal legges ved dispensasjonssøknaden."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-27",
+   "nummer": "§ 27",
+   "tittel": "Overgangsbestemmelse",
+   "ledd": [
+    "Flyttbare innretninger kan frem til neste sertifikatutstedelse følge kravene som gjaldt ved siste sertifikatutstedelse så langt annet ikke følger av den enkelte paragrafen."
+   ],
+   "endringer": [
+    "Endret ved forskrifter 24 jan 2022 nr. 118, 14 feb 2024 nr. 280."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-28",
+   "nummer": "§ 28",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Forskriften trer i kraft 1. januar 2018. Fra samme tidspunkt oppheves forskrift 4. juli 2007 nr. 854 om dekkskraner mv. på flyttbare innretninger (kranforskriften)."
+   ]
+  }
+ ]
+}

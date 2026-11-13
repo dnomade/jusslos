@@ -1,0 +1,219 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2022-06-22-1110",
+ "dokumentid": "SF/forskrift/2022-06-22-1110",
+ "departement": [
+  "Barne- og familiedepartementet",
+  "Arbeids- og inkluderingsdepartementet"
+ ],
+ "etat": [
+  "Barnevernsavdelingen, Velferdspolitisk avdeling"
+ ],
+ "ikraft": "2022-08-01",
+ "siste_endring_ikraft": "2024-10-11",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2024-10-11-2453",
+   "tekst": "forskrift/2024-10-11-2453"
+  }
+ ],
+ "endrer": "forskrift/2011-12-16-1256",
+ "hjemmel": [
+  {
+   "ref": "lov/1999-07-02-61/§2-1a",
+   "tekst": "lov/1999-07-02-61/§2-1a"
+  },
+  {
+   "ref": "lov/1999-07-02-61/§2-5",
+   "tekst": "lov/1999-07-02-61/§2-5"
+  },
+  {
+   "ref": "lov/1999-07-02-61/§2-5a",
+   "tekst": "lov/1999-07-02-61/§2-5a"
+  },
+  {
+   "ref": "lov/1999-07-02-61/§2-5b",
+   "tekst": "lov/1999-07-02-61/§2-5b"
+  },
+  {
+   "ref": "lov/1999-07-02-62/§4-1",
+   "tekst": "lov/1999-07-02-62/§4-1"
+  },
+  {
+   "ref": "lov/2011-06-24-30/§3-2",
+   "tekst": "lov/2011-06-24-30/§3-2"
+  },
+  {
+   "ref": "lov/2011-06-24-30/§7-1",
+   "tekst": "lov/2011-06-24-30/§7-1"
+  },
+  {
+   "ref": "lov/2011-06-24-30/§7-2",
+   "tekst": "lov/2011-06-24-30/§7-2"
+  },
+  {
+   "ref": "lov/2011-06-24-30/§7-3",
+   "tekst": "lov/2011-06-24-30/§7-3"
+  },
+  {
+   "ref": "lov/2009-12-18-131/§28",
+   "tekst": "lov/2009-12-18-131/§28"
+  },
+  {
+   "ref": "lov/2006-06-16-20/§15",
+   "tekst": "lov/2006-06-16-20/§15"
+  },
+  {
+   "ref": "lov/2021-06-18-97/§15-9",
+   "tekst": "lov/2021-06-18-97/§15-9"
+  }
+ ],
+ "kunngjort": "2022-06-22 15:25",
+ "tittel": "Forskrift om individuell plan ved ytelse av velferdstjenester",
+ "annet": "Hjemmel: Fastsatt ved kgl.res. 22. juni 2022 med hjemmel i lov 2. juli 1999 nr. 61 om spesialisthelsetjenesten m.m. (spesialisthelsetjenesteloven) § 2-1a sjuende ledd, § 2-5 andre ledd, § 2-5a tredje ledd og § 2-5b andre ledd, lov 2. juli 1999 nr. 62 om etablering og gjennomføring av psykisk helsevern (psykisk helsevernloven) § 4-1 andre ledd, lov 24. juni 2011 nr. 30 om kommunale helse- og omsorgstjenester m.m. (helse- og omsorgstjenesteloven) § 3-2 andre ledd, § 7-1 tredje ledd, § 7-2 andre ledd og § 7-3 andre ledd, lov 18. desember 2009 nr. 131 om sosiale tjenester i arbeids- og velferdsforvaltningen (sosialtjenesteloven) § 28, lov 16. juni 2006 nr. 20 om arbeids- og velferdsforvaltningen (arbeids- og velferdsforvaltningsloven) § 15 og lov 18. juni 2021 nr. 97 om barnevern (barnevernsloven) § 15-9. Fremmet av Barne- og familiedepartementet.\nEndret ved forskrifter 25 nov 2022 nr. 2349 (i kraft 1 jan 2023, bl.a. hjemmel), 11 okt 2024 nr. 2453.",
+ "refid": "forskrift/2022-06-22-1110",
+ "eli": "/eli/forskrift/2022/06/22/1110",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2022-06-22-1110",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Virkeområde",
+   "ledd": [
+    "Forskriften gjelder individuell plan etter\na. sosialtjenesteloven § 28 og § 33\nb. NAV-loven § 15\nc. helse- og omsorgstjenesteloven § 7-1\nd. spesialisthelsetjenesteloven § 2-5\ne. psykisk helsevernloven § 4-1\nf. pasient- og brukerrettighetsloven § 2-5\ng. barnevernsloven § 15-9."
+   ],
+   "endringer": [
+    "Endret ved forskrift 25 nov 2022 nr. 2349 (i kraft 1 jan 2023)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Definisjoner",
+   "ledd": [
+    "I forskriften her menes med:\na. velferdstjenester: tjenester, bistand eller tiltak som tilbys eller ytes med hjemmel i en lov som nevnt i § 1 eller forskrift gitt med hjemmel i en lov nevnt i § 1\nb. tjenesteyter: statlige, fylkeskommunale eller kommunale organer eller institusjoner som tilbyr eller yter velferdstjenester, eller private tjenesteytere som etter avtale tilbyr eller yter velferdstjenester på vegne av statlige, fylkeskommunale eller kommunale organer eller institusjoner\nc. tjenestemottaker: en person som mottar eller oppfyller vilkårene for kunne motta velferdstjenester fra en tjenesteyter."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Formål med individuell plan",
+   "ledd": [
+    "Formålet med utarbeidelse og bruk av en individuell plan er\na. å bidra til at tjenestemottakeren får et helhetlig, koordinert og individuelt tilpasset tjenestetilbud, herunder å sikre at det til enhver tid er én tjenesteyter som har hovedansvaret for oppfølgingen av tjenestemottakeren\nb. å kartlegge tjenestemottakerens mål, ressurser og behov for ulike tjenester, samt å vurdere og koordinere tiltak som kan bidra til å dekke tjenestemottakerens tjeneste- og bistandsbehov\nc. å styrke samhandlingen mellom tjenesteyter og tjenestemottaker og eventuelt pårørende\nd. å styrke samhandlingen mellom ulike tjenesteytere\ne. å bidra til at tjenestene tilbys tverrfaglig og planmessig."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Tjenestemottakerens rettigheter ved utarbeiding av individuell plan",
+   "ledd": [
+    "Tjenestemottaker med behov for langvarige og koordinerte tjenester og deltakere i kvalifiseringsprogram, har rett til å få utarbeidet individuell plan etter bestemmelser som nevnt i § 1. Tjenestemottakeren har rett til å delta i arbeidet med sin individuelle plan, og ansvarlig tjenesteyter skal legge til rette for dette. Dersom tjenestemottakeren er et barn, og barnet er i stand til å danne seg egne synspunkter om utarbeidelse av individuell plan og innholdet i planen, har barnet rett til å medvirke i alle faser i arbeidet med dets individuelle plan. Barnet skal få tilstrekkelig og tilpasset informasjon og gis mulighet til fritt å gi uttrykk for sine synspunkter. Barnet skal bli lyttet til, og barnets synspunkter skal vektlegges i samsvar med barnets alder og modenhet.",
+    "Pårørende skal trekkes inn i arbeidet med individuell plan i den utstrekning tjenestemottakeren og de pårørende ønsker det.",
+    "Den individuelle planen gir ikke tjenestemottakeren større rett til tjenester enn det som følger av lov og annet regelverk."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Samtykke",
+   "ledd": [
+    "Individuell plan skal ikke utarbeides uten samtykke fra tjenestemottakeren eller den som har rett til å samtykke på vegne av tjenestemottakeren."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "Plikt til å igangsette arbeid med individuell plan",
+   "ledd": [
+    "Arbeids- og velferdsforvaltningen, helse- og omsorgstjenesten og barnevernstjenesten har en selvstendig plikt til å sørge for at arbeidet med individuell plan igangsettes, uavhengig av om tjenestemottakeren mottar eller har mottatt bistand fra andre tjenesteytere."
+   ],
+   "endringer": [
+    "Endret ved forskrifter 25 nov 2022 nr. 2349 (i kraft 1 jan 2023), 11 okt 2024 nr. 2453."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 7",
+   "tittel": "Ansvar for individuell plan",
+   "ledd": [
+    "Dersom tjenestemottakeren har behov for helhetlige og koordinerte tjenester fra barnevernstjenesten, arbeids- og velferdsforvaltningen eller den kommunale helse- og omsorgstjenesten, og vilkårene for å utarbeide individuell plan er oppfylt, skal det avtales hvilken velferdstjeneste som skal ha hovedansvaret for utarbeidelse og oppfølgning av den individuelle planen. Ved uklarhet eller uenighet skal kommunen avklare hvilken velferdstjeneste som har hovedansvaret for utarbeidelse og oppfølging av den individuelle planen, jf. helse- og omsorgstjenesteloven § 3-4 andre ledd, sosialtjenesteloven § 13 tredje ledd og barnevernsloven § 15-9.",
+    "Hvis tjenestemottakeren har behov for tjenester fra tjenesteytere som har plikt til å medvirke til arbeidet med individuell plan etter barnehageloven § 2b første ledd, opplæringslova § 15-8 første ledd, krisesenterlova § 4 første ledd, friskolelova § 3-6a første ledd eller integreringsloven § 50 første ledd, skal den tjenesteyteren som har plikt til å sørge for at arbeidet med individuell plan igangsettes, kontakte disse andre tjenesteyterne for å opprette et samarbeid."
+   ],
+   "endringer": [
+    "Endret ved forskrift 25 nov 2022 nr. 2349 (i kraft 1 jan 2023)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-8",
+   "nummer": "§ 8",
+   "tittel": "Ansvar for individuell plan ved ytelse av helse- og omsorgstjenester",
+   "ledd": [
+    "Dersom en tjenestemottaker har behov for tjenester både etter helse- og omsorgstjenesteloven og etter spesialisthelsetjenesteloven eller psykisk helsevernloven, og vilkårene for å utarbeide individuell plan er oppfylt, skal kommunen sørge for at det blir utarbeidet en individuell plan, og at planarbeidet koordineres, jf. spesialisthelsetjenesteloven § 2-5 andre ledd, psykisk helsevernloven § 4-1 andre ledd og helse- og omsorgstjenesteloven § 7-1 andre ledd.",
+    "Når et helseforetak eller en institusjon ser at det er behov for en individuell plan som omfatter tjenester både etter helse- og omsorgstjenesteloven og etter spesialisthelsetjenesteloven eller psykisk helsevernloven, skal kommunens koordinerende enhet for habilitering og rehabilitering varsles snart som mulig. Helseforetaket eller institusjonen skal i slike tilfeller medvirke i kommunenes arbeid med individuell plan.",
+    "Har tjenestemottakeren også behov for andre tjenester enn fra helse- og omsorgssektoren, skal kommunens helse- og omsorgstjeneste og helseforetaket samarbeide med de aktuelle tjenesteyterne."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-9",
+   "nummer": "§ 9",
+   "tittel": "Innholdet i en individuell plan",
+   "ledd": [
+    "Den individuelle planens innhold og omfang skal tilpasses behovene til den enkelte tjenestemottaker. Det skal under utarbeidelsen tas hensyn til tjenestemottakerens kulturelle og språklige bakgrunn.",
+    "Det skal kun utarbeides én individuell plan for hver enkelt tjenestemottaker. Planen skal holdes oppdatert.",
+    "Planen skal blant annet inneholde følgende:\na. en oversikt over tjenestemottakers mål, ressurser og behov for tjenester eller tiltak\nb. en oversikt over hvem som deltar i arbeidet med planen\nc. en angivelse av hvem som har ansvar for å utarbeide planen, og hvem som har ansvar for å sikre koordinering og fremdrift i arbeidet med planen\nd. en oversikt over hva tjenestemottakeren, tjenesteyterne og eventuelt pårørende vil bidra med i planarbeidet\ne. en oversikt over aktuelle tjenester og tiltak, omfanget av dem, og hvem som skal ha ansvaret for dem\nf. en beskrivelse av hvordan tjenestene eller tiltakene skal gjennomføres\ng. en angivelse av om tjenestemottakeren har fått tilbud om eller fått oppnevnt koordinator etter helse- og omsorgstjenesteloven § 7-2 eller spesialisthelsetjenesteloven § 2-5a, barnekoordinator etter helse- og omsorgstjenesteloven § 7-2a eller kontaktlege etter spesialisthelsetjenesteloven § 2-5c\nh. en angivelse av planperioden og tidspunkt for eventuelle justeringer og revisjoner av planen\ni. tjenestemottakerens samtykke til at planen utarbeides og eventuelt samtykke til at deltakere i planleggingen gis tilgang til taushetsbelagte opplysninger\nj. en oversikt over nødvendig eller ønskelig samarbeid med andre tjenesteytere.",
+    "Dersom tjenestemottakeren er et barn, skal det også gis en beskrivelse av hvordan barnets rett til medvirkning er ivaretatt i arbeidet med planen."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-10",
+   "nummer": "§ 10",
+   "tittel": "Gjennomføringen av den individuelle planen",
+   "ledd": [
+    "Den alminnelige ansvars- og funksjonsdelingen mellom de ulike tjenesteyterne skal legges til grunn ved gjennomføringen av planen, dersom ikke annet avtales."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-11",
+   "nummer": "§ 11",
+   "tittel": "Klage",
+   "ledd": [
+    "Forvaltningsloven kapittel VI gjelder ved klage på vedtak om retten til individuell plan etter sosialtjenesteloven § 28 og § 33 og NAV-loven § 15. Ved klage på vedtak om retten til individuell plan etter sosialtjenesteloven § 28 og § 33 gjelder i tillegg sosialtjenesteloven § 47 og § 48.",
+    "Ved klage på vedtak om retten til individuell plan etter pasient- og brukerrettighetsloven § 2-5 gjelder pasient- og brukerrettighetsloven kapittel 7.",
+    "Ved klage på vedtak om retten til individuell plan etter barnevernsloven § 15-9 gjelder barnevernsloven § 12-9 første ledd."
+   ],
+   "endringer": [
+    "Endret ved forskrift 25 nov 2022 nr. 2349 (i kraft 1 jan 2023)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-12",
+   "nummer": "§ 12",
+   "tittel": "Ikraftsetting",
+   "ledd": [
+    "Forskriften trer i kraft 1. august 2022."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-13",
+   "nummer": "§ 13",
+   "tittel": "Endringer i andre forskrifter",
+   "ledd": [
+    "Fra det tidspunktet forskriften trer i kraft, gjøres følgende endringer i forskrift 16. desember 2011 nr. 1256 om habilitering og rehabilitering, individuell plan og koordinator: – – –"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,65 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2026-05-07-763",
+ "dokumentid": "SF/forskrift/2026-05-07-763",
+ "departement": [
+  "Klima- og miljødepartementet"
+ ],
+ "etat": [
+  "Miljødirektoratet"
+ ],
+ "ikraft": "2026-08-29",
+ "endrer": "forskrift/2013-11-18-1403",
+ "hjemmel": [
+  {
+   "ref": "lov/1976-06-11-79/§4",
+   "tekst": "lov/1976-06-11-79/§4"
+  },
+  {
+   "ref": "forskrift/1977-08-05-2",
+   "tekst": "forskrift/1977-08-05-2"
+  },
+  {
+   "ref": "forskrift/1990-09-07-730",
+   "tekst": "forskrift/1990-09-07-730"
+  },
+  {
+   "ref": "forskrift/2017-06-30-1126",
+   "tekst": "forskrift/2017-06-30-1126"
+  }
+ ],
+ "kunngjort": "2026-05-08 15:05",
+ "korttittel": "Endr. i leketøyforskriften",
+ "tittel": "Forskrift om endring i forskrift om sikkerhet ved leketøy (leketøyforskriften)",
+ "annet": "Hjemmel: Fastsatt av Miljødirektoratet 7. mai 2026 med hjemmel i lov 11. juni 1976 nr. 79 om kontroll med produkter og forbrukertjenester (produktkontrolloven) § 4, jf. forskrifter 5. august 1977 nr. 2 om gjennomføring av lov om kontroll med produkter og forbrukertjenester, delegeringsvedtak 7. september 1990 nr. 730 og delegeringsvedtak 30. juni 2017 nr. 1126.\nEØS-henvisninger: EØS-avtalen vedlegg II kap. XXIII nr. 1a (direktiv (EU) 2026/192).",
+ "refid": "forskrift/2026-05-07-763",
+ "eli": "/eli/forskrift/2026/05/07/763",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2026-05-07-763",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "I forskrift 18. november 2013 nr. 1403 om sikkerhet ved leketøy (leketøyforskriften) gjøres følgende endring:\nI Vedlegg II, Tillegg A, tilføyes følgende rad nederst i tabellen:\n| Stoff | Klassifisering | Tillatt bruk\n| Kobolt | CMR 1 B | I rustfritt stål, som en urenhet i nikkelet i rustfritt stål\nI deler av leketøy som skal lede elektrisk strøm\nI neodymmagneter dersom den ikke kan svelges eller inhaleres"
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Forskriften trer i kraft 29. august 2026."
+    }
+   ]
+  }
+ ]
+}

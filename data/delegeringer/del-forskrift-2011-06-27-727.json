@@ -1,0 +1,81 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-2011-06-27-727",
+ "dokumentid": "DEL/forskrift/2011-06-27-727",
+ "departement": [
+  "Helse- og omsorgsdepartementet"
+ ],
+ "etat": [
+  "Helserettsavd."
+ ],
+ "kunngjort_i": "I 2011 hefte 7",
+ "ikraft": "2011-06-27",
+ "siste_endring_ikraft": "2024-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2023-12-20-2210",
+   "tekst": "forskrift/2023-12-20-2210 fra 2024-01-01"
+  }
+ ],
+ "endrer": "forskrift/2010-03-18-425",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2003-02-21-12/§5",
+   "tekst": "lov/2003-02-21-12/§5"
+  },
+  {
+   "ref": "lov/2003-12-05-100/§2-8",
+   "tekst": "lov/2003-12-05-100/§2-8"
+  }
+ ],
+ "kunngjort": "2011-07-08 15:50",
+ "tittel": "Delegering av myndighet etter behandlingsbiobankloven og bioteknologiloven til Folkehelseinstituttet",
+ "annet": "Hjemmel: Fastsatt av Helse- og omsorgsdepartementet 27. juni 2011 med hjemmel i lov 21. februar 2003 nr. 12 om behandlingsbiobanker (behandlingsbiobankloven) § 5 og lov 5. desember 2003 nr. 100 om humanmedisinsk bruk av bioteknologi m.m. (bioteknologiloven) § 2-8.\nEndret ved forskrift 18 des 2015 nr. 1740, endret ved vedtak 20 des 2023 nr. 2210 (i kraft 1 jan 2024, bl.a tittel).",
+ "refid": "forskrift/2011-06-27-727",
+ "eli": "/eli/forskrift/2011/06/27/727",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/2011-06-27-727",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Helse- og omsorgsdepartementet delegerer følgende myndighet til Folkehelseinstituttet:\nLov 21. februar 2003 nr. 12 om behandlingsbiobanker (behandlingsbiobankloven)\n§ 5 Biobanker som opprettes i forbindelse med diagnostikk og behandling skal meldes til Folkehelseinstituttet. Meldingen må sendes Folkehelseinstituttet innen 2 måneder etter at biobanken er opprettet.\nLov 5. desember 2003 nr. 100 om humanmedisinsk bruk av bioteknologi m.m. (bioteknologiloven)\n§ 2-8: Databehandlingsansvaret for Det sentrale sædgiverregister/donorregister."
+    },
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrift 18 des 2015 nr. 1740 (i kraft 1 jan 2016), vedtak 20 des 2023 nr. 2210 (i kraft 1 jan 2024)."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Vedtak 18. mars 2010 nr. 425 om delegering av myndighet fra Helse- og omsorgsdepartementet til Helsedirektoratet endres slik at delegeringen av kompetanse etter lov 21. februar 2003 nr. 12 om behandlingsbiobanker (behandlingsbiobankloven) skal lyde: – – –"
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kapIII",
+   "overskrift": "III",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Vedtaket trer i kraft straks."
+    }
+   ]
+  }
+ ]
+}

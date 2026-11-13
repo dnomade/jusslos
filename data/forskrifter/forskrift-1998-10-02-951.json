@@ -1,0 +1,450 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-1998-10-02-951",
+ "dokumentid": "SF/forskrift/1998-10-02-951",
+ "departement": [
+  "Landbruks- og matdepartementet"
+ ],
+ "etat": [
+  "Avd. for matpolitikk"
+ ],
+ "kunngjort_i": "Avd I 1998 1442",
+ "ikraft": "1999-01-01",
+ "siste_endring_ikraft": "2013-02-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2013-01-21-62",
+   "tekst": "forskrift/2013-01-21-62 fra 2013-02-01"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2009-06-19-97/§6",
+   "tekst": "lov/2009-06-19-97/§6"
+  },
+  {
+   "ref": "lov/2009-06-19-97/§7",
+   "tekst": "lov/2009-06-19-97/§7"
+  },
+  {
+   "ref": "lov/2009-06-19-97/§8",
+   "tekst": "lov/2009-06-19-97/§8"
+  },
+  {
+   "ref": "lov/2009-06-19-97/§9",
+   "tekst": "lov/2009-06-19-97/§9"
+  },
+  {
+   "ref": "lov/2009-06-19-97/§23",
+   "tekst": "lov/2009-06-19-97/§23"
+  },
+  {
+   "ref": "lov/2009-06-19-97/§24",
+   "tekst": "lov/2009-06-19-97/§24"
+  },
+  {
+   "ref": "forskrift/2010-06-11-814",
+   "tekst": "forskrift/2010-06-11-814"
+  }
+ ],
+ "siste_rettelse": "2022-02-09 (struktur)",
+ "tittel": "Forskrift om hold av strutsefugl",
+ "annet": "Hjemmel: Fastsatt av Landbruksdepartementet (nå Landbruks- og matdepartementet) 2. oktober 1998 med hjemmel i lov 19. juni 2009 nr. 97 om dyrevelferd § 6, § 7, § 8, § 9, § 23 og § 24, jf. delegeringsvedtak 11. juni 2010 nr. 814.\nEndret ved forskrifter 6 mai 2003 nr. 593, 9 jan 2004 nr. 50, 14 nov 2007 nr. 1269, 6 aug 2010 nr. 1147, 21 jan 2013 nr. 62.\nRettet: 09.02.2022 (struktur)",
+ "refid": "forskrift/1998-10-02-951",
+ "eli": "/eli/forskrift/1998/10/02/951",
+ "url": "https://lovdata.no/dokument/SF/forskrift/1998-10-02-951",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "Kapittel I. Formål og virkeområde",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Formål",
+     "ledd": [
+      "Formålet med forskriften er å legge forholdene til rette for god trivsel og helse hos strutsefugl og sikre at det tas hensyn til fuglenes naturlige behov. Videre skal strutsefugl sikres et tilstrekkelig areal for naturlige aktiviteter med mulighet for bevegelse og mosjon."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Forskriften gjelder for hold av strutsefugl av artene: struts (Struthio camelus), emu (Dromaius novaehollandiae) og nandu (Rhea americana) og andre arter av strutsefugl, for avl eller produksjon av kjøtt, fjør, hud eller andre formål.",
+      "Forskriften gjelder ikke anlegg for offentlig fremvisning av dyr."
+     ],
+     "endringer": [
+      "Endret ved forskrift 6 aug 2010 nr. 1147."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "Kapittel II. Bygninger, rom, utearealer m.m.",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 3",
+     "tittel": "Generelle krav",
+     "ledd": [
+      "Hold av strutsefugl skal bare foregå i løsdrift, og fuglene skal holdes i grupper.",
+      "Strutsefugl skal ikke holdes isolert uten når dette er nødvendig på grunn av sjukdom eller skade. Strutsefugl skal ikke fikseres, unntatt i tilfeller av undersøkelse og behandling.",
+      "Strutsefugl skal holdes på en slik måte at de får mosjon og mulighet til å utøve normal atferd. Inne- og utearealer som fuglene holdes på skal være innredet og utformet slik at fuglene ikke blir påført eller kan påføre seg selv skade."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 4",
+     "tittel": "Bygninger",
+     "ledd": [
+      "Rommene skal være isolert og skal kunne oppvarmes. Høyden fra underlag (overkant av talle) til tak for voksen struts skal til enhver tid være minimum 3 m, og 2,4 m for emu og nandu.",
+      "Det skal finnes en fikseringsenhet som gjør det mulig å håndtere fuglene, for eksempel for stell, undersøkelse eller behandling.",
+      "Det skal være minst to utganger fra bygningen. Plassering og utforming av ganger, dører m.v. skal sikre rask evakuering av fuglene i tilfelle brann eller andre nødssituasjoner. Dørbredden skal være minimum 1,2 m.",
+      "Bygninger m.v. skal oppfylle de minimumskrav til størrelse som fremgår av vedlegg 1 og 2 til denne forskrift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 5",
+     "tittel": "Binger",
+     "ledd": [
+      "Kyllinger fra 0 til 14 dagers alder skal holdes innendørs i binge med betonggolv, eller på annet tett underlag som er sklisikkert og lett å rengjøre. Kyllinger fra 14 dager til 3 måneders alder skal om de holdes inne, gå på tilsvarende underlag. Det skal ikke brukes strø. Fugler eldre enn 3 måneder kan innendørs gå på talle.",
+      "Bingene skal holdes fri for gjenstander som kan skade fuglene dersom gjenstandene svelges. Lutet halm må ikke brukes som strø.",
+      "Bingene skal oppfylle de minimumskrav til størrelse som fremgår av vedlegg 1 og 2 til denne forskrift."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 6",
+     "tittel": "Utearealer",
+     "ledd": [
+      "Kyllinger fra 14 dager til 3 måneders alder kan gå ute på velpreparert underlag.",
+      "Kyllinger eldre enn 3 måneder kan gå ute på sand og gras og skal ha adgang til utearealer hele året.",
+      "Utearealene skal være anlagt på naturlig tørr eller godt drenert grunn slik at en god hygienisk standard kan opprettholdes. Utearealene skal utformes og vedlikeholdes slik at de ikke er våte og gjørmete. Særlig viktig er dette i nærheten av oppholdsrommene og på ete- og liggeplasser. På vinterstid skal snø fjernes og arealene strøs når forholdene gjør dette nødvendig.",
+      "I den kalde årstiden skal fuglene holdes inne om natten.",
+      "Fuglene skal ha tilgang til støvbad på utearealene i sommerhalvåret.",
+      "Utearealene skal være forsvarlig inngjerdet slik at fuglene ikke kan rømme. Gjerder skal være av netting eller annet egnet materiale lett synlig for fuglene, og være forsynt med en tverrliggende planke øverst. Strømførende gjerde og piggtrådgjerde er forbudt. Gjerdene skal være utformet slik at fuglene ikke blir fanget i det eller kan skade seg. Gjerdene skal ha tilstrekkelig styrke og fleksibilitet, slik at fuglene ikke blir skadet hvis de løper inn i gjerdet.",
+      "Utearealene skal kontrolleres jevnlig for å hindre at fuglene blir påført skader.",
+      "Utearealene skal oppfylle de krav til minimumsstørrelse som fremgår av vedlegg 1 og 2 til denne forskrift.",
+      "Bestemmelsene om adgang til uteområde gjelder ikke mens fuglene står i karantene."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kapIII",
+   "overskrift": "Kapittel III. Klima, lys, støy m.m.",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 7",
+     "tittel": "Inneklima",
+     "ledd": [
+      "Alle rom for strutsefugl skal ha ventilasjonssystemer som sikrer fuglene et godt klima.",
+      "Temperaturen skal tilpasses strutsefuglenes alder og være regulert slik at brå temperaturendringer unngås.",
+      "Gasser i skadelige konsentrasjoner må ikke komme inn i eller oppstå i rom hvor det er fugler. Støv og annen forurensning i lufta skal holdes på et lavest mulig nivå. Luftfuktigheten skal holdes så lav som mulig."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 8",
+     "tittel": "Lys",
+     "ledd": [
+      "Alle rom skal ha vinduer som sikrer fuglene tilgang på dagslys. Det skal også være muligheter for tilfredsstillende kunstig belysning. Strutsefugl skal ha lys, naturlig eller kunstig, i 12 – 14 timer i døgnet. Lyskildene skal være slik plassert og ha en slik frekvens (hertz) at det ikke er til ubehag for fuglene. Strutsefugl skal ikke utsettes for permanent sterkt kunstig lys eller permanent mørke."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 9",
+     "tittel": "Støy",
+     "ledd": [
+      "Strutsefugl skal ikke utsettes for unødig støy. Utearealer skal legges slik at støy fra trafikk eller andre støykilder ikke generer fuglene. Vedvarende støy med lydstyrke over 65 dB skal unngås."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kapIV",
+   "overskrift": "Kapittel IV. Tilsyn, stell m.v.",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 10",
+     "tittel": "Tilsyn",
+     "ledd": [
+      "Strutsefugl skal holdes på en slik måte at tilsynet med fuglene kan skje uten vanskeligheter. Fuglene skal ha tilsyn og stell minst to ganger i døgnet. Fugler som er sjuke eller trenger spesielt tilsyn av annen grunn, skal ses til flere ganger i døgnet etter behov.",
+      "Det skal avsettes særskilt plass for sjuke fugler og fugler som trenger spesielt tilsyn. Dersom fugler må holdes adskilt fra andre på grunn av sjukdom eller skade, skal de likevel kunne se sine artsfrender."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 11",
+     "tittel": "Renhold",
+     "ledd": [
+      "Der strutsefugl oppholder seg skal det gjennomføres tilstrekkelig renhold. Talle eller strø skal skiftes ved behov. Transport og lagring av gjødsel skal foregå på en for fuglene hygienisk og forsvarlig måte."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 12",
+     "tittel": "Fôr og vann",
+     "ledd": [
+      "Fôringen skal være tilstrekkelig til at fuglene har normalt hold og fôret skal være slik sammensatt at det dekker fuglenes behov for næring og etelyst under alle forhold.",
+      "Alle fugler skal til enhver tid ha tilgang på tilstrekkelige mengder drikkevann av akseptabel bakteriologisk og kjemisk kvalitet.",
+      "Alle fugler skal ha tilgang til å spise stein p.g.a. fordøyelsen. Størrelsen på steinen skal være fra halvparten til full størrelse av fuglens tånegl. De første ukene bør tilgangen være begrenset.",
+      "Automatiske innretninger for tildeling av fôr og vann skal kontrolleres daglig."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 13",
+     "tittel": "Mosjon",
+     "ledd": [
+      "Strutsefugler har et særlig behov for mosjon. Kyllinger som vokser opp uten eldre kyllinger eller voksne fugler til stede, må ha hjelp til å lære å mosjonere for å hindre bl.a. beinproblemer."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-5",
+     "nummer": "§ 14",
+     "tittel": "Forbud",
+     "ledd": [
+      "Det er forbudt å plukke fjær av levende strutsefugl. Det er videre forbudt å bruke strutsefugl som ridedyr."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-6",
+     "nummer": "§ 15",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Opphevet ved forskrift 21 jan 2013 nr. 62 (i kraft 1 feb 2013)."
+     ],
+     "opphevet": "2013-02-01"
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kapV",
+   "overskrift": "Kapittel V. Kompetanse, driftsplan, inspeksjon og melding",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Overskriften endret ved forskrift 14 nov 2007 nr. 1269."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 16",
+     "tittel": "Kompetanse",
+     "ledd": [
+      "Eier eller annen person som har ansvar for strutsefugler, skal ha gjennomgått kurs i strutsehold av minst to ukers varighet, godkjent av Mattilsynet. Kurset skal inneholde de tema som fremgår av vedlegg 3 til denne forskrift. Vedkommende skal også ha hatt opphold i en strutsefarm i minst to uker."
+     ],
+     "endringer": [
+      "Endret ved forskrift 9 jan 2004 nr. 50."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 17",
+     "tittel": "Driftsplan",
+     "ledd": [
+      "Eier eller annen som har ansvar for fuglene, skal utarbeide en plan for strutseholdet. Planen skal inneholde en totaloversikt over strutseholdet med bygninger, utearealer, fôrings- og beiteforhold, lys, ventilasjon, opplastingsinnretning etc."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 18",
+     "tittel": "Melding om dyrehold og bygninger til oppstalling",
+     "ledd": [
+      "Enhver som vil holde dyr, skal på forhånd melde fra om dette til Mattilsynet. Melding skal gis på den måten Mattilsynet bestemmer og inneholde nødvendige opplysninger om dyreholdet, herunder dyreholderens navn, foretaks- eller fødselsnummer, dyreholderen og dyreholdets adresse, informasjon om bygninger til oppstalling av dyrene, produksjonsform og kapasitet, samt opplysninger om dyreholders kompetanse, jf. § 16. Endringer i disse opplysningene, herunder oppføring av nye bygninger, vesentlige endringer av eksisterende bygninger og opphør av dyreholdet, skal meldes til Mattilsynet."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 9 jan 2004 nr. 50, 14 nov 2007 nr. 1269."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kapVII",
+   "overskrift": "Kapittel VII. Avsluttende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 19",
+     "tittel": "Tilsyn og vedtak",
+     "ledd": [
+      "Mattilsynet fører tilsyn og fatter vedtak for å gjennomføre bestemmelsene gitt i og i medhold av denne forskriften."
+     ],
+     "endringer": [
+      "Endret ved forskrift 9 jan 2004 nr. 50."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 20",
+     "tittel": "Dispensasjon",
+     "ledd": [
+      "Mattilsynet kan i særlige tilfeller dispensere fra bestemmelsene i forskriften og sette vilkår for dispensasjonen."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 6 mai 2003 nr. 593, 9 jan 2004 nr. 50."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-3",
+     "nummer": "§ 21",
+     "tittel": "Straff",
+     "ledd": [
+      "Overtredelse av bestemmelser gitt i denne forskriften eller enkeltvedtak gitt i medhold av forskriften, er straffbart i henhold til dyrevelferdsloven § 37."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 9 jan 2004 nr. 50 (tidligere § 22), 6 aug 2010 nr. 1147."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-4",
+     "nummer": "§ 22",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Denne forskrift trer i kraft 1. januar 1999.",
+      "Eksisterende strutsehold skal være i samsvar med forskriftens bestemmelser innen 1. januar 2004. Mattilsynet kan når det er åpenbart behov for det, stille krav om kortere overgangstid."
+     ],
+     "endringer": [
+      "Endret ved forskrift 9 jan 2004 nr. 50, tidligere § 23."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "vedlegg1",
+   "overskrift": "Vedlegg 1. Arealkrav til struts",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Tallene angir maksimumsverdier for gruppestørrelse og minimumskrav til areal (d = dager, u = uker, m = måneder, å = år)\n| Alder | | Bygninger | | Uteareal |\n| | Max. antall | Min. m2 | Min. m2 | Min. m2 | Min. m2\n| | fugl/gruppe | areal/fugl | totalt | areal/fugl | totalt\n| < 4 d | 40 | 0,25 | 1 | |\n| 4 d-3 u | 40 | 0,25-1,2 | 5 | 10 | 100\n| 3 u-3 m | 40[1] | 1,2-2 | 10 | 10 | 100-1000[3] [4] [7]\n| 3 m-kjønns- | | 2-5 | 20 | 200 | 1000[3] [4]\n| moden | | | | |\n| voksne fugler[2] | | 10 | 30 | 2000 / 3[6] | 1000[3] [5]\nGjerdehøyde: Minimum 2 m over underlaget."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-8",
+   "navn": "vedlegg2",
+   "overskrift": "Vedlegg 2. Arealkrav til emu og nandu",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Tallene angir maksimumsverdier for gruppestørrelse og minimumskrav til areal ( d = dager, u = uker, m = måneder, å = år)\n| Alder | | Bygninger | | Uteareal |\n| | Maks. antall | Min. m2 | Min. m2 | Min. m2 | Min. m2\n| | fugl/gruppe | areal/fugl | totalt | areal/fugl | totalt\n| < 4 d | 40 | 0,25 | 1 | |\n| 4 d-3 u | 40 | 0,25-0,5 | 5 | 5 | 75\n| 3 u-6 m | 40[1] | 1 | 10 | 20 | 100-500[3] [5] [7]\n| 6m-kjønns- | | 2-4 | 20 | 150 | 500[4] [6]\n| moden | | | | |\n| voksne fugler 1+1[2] | | 5 | 30 | 250 | 500[4] [6]\nGjerdehøyde: Minimum 1,75 m over underlaget."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-9",
+   "navn": "vedlegg3",
+   "overskrift": "Vedlegg 3. Krav til utdanning og opplæring",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Personer som har ansvaret for og/eller steller strutsefugl skal ha gjennomgått et utdannings- og opplæringsprogram hvor etterfølgende tema inngår i programmet.\nGenerell biologi og atferd hos strutsefugl\nBiologiske særtrekk hos de enkelte arter\nGenerelle regler for tilsyn og stell\nHelsekontroll og sjukdomssymptomer\nSymptomer på stress og utilpasshet\nInnfanging og håndtering av fugler i alle aldre\nErnæringsbehov og fôring\nReproduksjonsatferd inkludert håndtering av egg, lagring, inkubering, klekking\nStell av nyklekkede kyllinger og unge fugler\nKrav til og behov for bevegelse og mosjon\nArealbehov i bygninger og utendørs\nKrav til gjerdekonstruksjon og utforming\nHåndtering og stell av sjuke fugler\nHygiene og desinfeksjon\nUtvelgelse av avlsfugl\nRegistrering og journalføring\nTransport og transportutstyr\nAvlivingsmetoder\nKjennskap til lov- og regelverk når det gjelder dyrehelse og dyrevern inkludert transport og slakting."
+    }
+   ]
+  }
+ ],
+ "fotnoter": [
+  {
+   "nr": "1",
+   "tekst": "Gruppestørrelsen forutsetter samme størrelse på fuglene."
+  },
+  {
+   "nr": "2",
+   "tekst": "Dersom mer enn en reproduksjonsgruppe (trio) holdes på samme areal, er det spesielt viktig at tilstrekkelig ekstra areal, mulighet for å gjemme seg og mulighet for å dele opp gruppene, er til stede."
+  },
+  {
+   "nr": "3",
+   "tekst": "Den korteste siden skal ikke være kortere enn 10 m."
+  },
+  {
+   "nr": "4",
+   "tekst": "En side skal være minst 50 m."
+  },
+  {
+   "nr": "5",
+   "tekst": "En side skal være minst 100 m."
+  },
+  {
+   "nr": "6",
+   "tekst": "For hver hunnfugl i tillegg, skal arealet økes med 200 m2, og for hver hannfugl med 800 m2."
+  },
+  {
+   "nr": "7",
+   "tekst": "Arealet tilpasses alderen på fuglene."
+  },
+  {
+   "nr": "1",
+   "tekst": "Gruppestørrelsen forutsetter samme størrelse på fuglene."
+  },
+  {
+   "nr": "2",
+   "tekst": "Dersom mer enn en reproduksjonsgruppe (to fugler) holdes på samme areal, er det spesielt viktig at tilstrekkelig ekstra areal, mulighet for å kunne gjemme seg og for å dele opp gruppene, er til stede."
+  },
+  {
+   "nr": "3",
+   "tekst": "Den korteste siden skal ikke være kortere enn 6 m."
+  },
+  {
+   "nr": "4",
+   "tekst": "Den korteste siden skal ikke være kortere enn 7 m."
+  },
+  {
+   "nr": "5",
+   "tekst": "En side skal være minst 50 m."
+  },
+  {
+   "nr": "6",
+   "tekst": "En side skal være minst 70 m."
+  },
+  {
+   "nr": "7",
+   "tekst": "Arealet tilpasses alderen på fuglene."
+  }
+ ]
+}

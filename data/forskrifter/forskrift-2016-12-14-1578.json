@@ -1,0 +1,621 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2016-12-14-1578",
+ "dokumentid": "SF/forskrift/2016-12-14-1578",
+ "departement": [
+  "Samferdselsdepartementet"
+ ],
+ "etat": [
+  "Luft-, post- og teleavdelingen, Luftfartstilsynet"
+ ],
+ "kunngjort_i": "I 2016 hefte 17",
+ "ikraft": "2016-12-14, 2017-02-02, 2017-10-12",
+ "siste_endring_ikraft": "2025-06-20",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2025-06-20-1256",
+   "tekst": "forskrift/2025-06-20-1256"
+  }
+ ],
+ "endrer": "forskrift/2014-12-22-1903",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1993-06-11-101/§7-4",
+   "tekst": "lov/1993-06-11-101/§7-4"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§9-1",
+   "tekst": "lov/1993-06-11-101/§9-1"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§15-4",
+   "tekst": "lov/1993-06-11-101/§15-4"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§16-1",
+   "tekst": "lov/1993-06-11-101/§16-1"
+  },
+  {
+   "ref": "forskrift/1999-12-10-1265",
+   "tekst": "forskrift/1999-12-10-1265"
+  },
+  {
+   "ref": "forskrift/1999-12-10-1273",
+   "tekst": "forskrift/1999-12-10-1273"
+  },
+  {
+   "ref": "forskrift/2001-04-06-321",
+   "tekst": "forskrift/2001-04-06-321"
+  }
+ ],
+ "kunngjort": "2016-12-16 15:45",
+ "siste_rettelse": "2018-02-06 (uoff. overs. erstattet med off. overs. i forordningsdelen)",
+ "korttittel": "Forskrift om lufttrafikkregler og operative prosedyrer",
+ "tittel": "Forskrift om lufttrafikkregler og operative prosedyrer",
+ "annet": "Hjemmel: Fastsatt av Samferdselsdepartementet 14. desember 2016 med hjemmel i lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven) §§ 7-4, 9-1, 15-4 og § 16-1.\nTilføyd hjemmel: Delegeringsvedtak 10. desember 1999 nr. 1273, delegeringsvedtak 10. desember 1999 nr. 1265 og delegeringsvedtak 6. april 2001 nr. 321.\nEØS-henvisninger: EØS-avtalen vedlegg XIII kap. VI nr. 66wk (forordning (EF) nr. 923/2012, som endret ved forordning (EU) 2015/340, forordning (EU) 2016/1185, forordning (EU) 2020/469, forordning (EU) 2020/1177, forordning (EU) 2021/666, forordning (EU) 2023/1772 og forordning (EU) 2024/404), forordning (EU) 2024/1111.\nEndret ved forskrifter 19 des 2016 nr. 1710, 28 feb 2018 nr. 287, 28 sep 2020 nr. 1896, 14 des 2021 nr. 3530 (i kraft 1 jan 2022, litra i lister tilpasset universell utforming), 26 okt 2022 nr. 1812 (i kraft 1 nov 2022), 16 nov 2023 nr. 1868 (i kraft 1 jan 2024), 11 april 2024 nr. 611, 2 sep 2024 nr. 2064, 2 nov 2024 nr. 2656, 8 nov 2024 nr. 2712, 17 juni 2025 nr. 1067, 20 juni 2025 nr. 1256.\nEndres ved forskrift 28 sep 2026 nr. 1931 (i kraft 10 juni 2027).\nRettet 03.01.2017 (ikrafttredelse), 06.02.2018 (uoff. overs. erstattet med off. overs. i forordningsdelen).",
+ "refid": "forskrift/2016-12-14-1578",
+ "eli": "/eli/forskrift/2016/12/14/1578",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2016-12-14-1578",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "Kapittel I – Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Forskriften gjelder i Norge, samt i områder som Norge i henhold til internasjonale konvensjoner og avtaler er forpliktet til å yte flysikringstjenester, styre lufttrafikkbevegelser og styre luftrommet for allmenn lufttrafikk, herunder på Svalbard."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Gjennomføring av kommisjonens gjennomføringsforordning (EU) nr. 923/2012",
+     "ledd": [
+      "EØS-avtalen vedlegg XIII kap. VI nr. 66wk (forordning (EU) nr. 923/2012, som endret ved forordning (EU) 2015/340, (EU) 2016/1185, (EU) 2020/469, (EU) 2020/1177, (EU) 2021/666, (EU) 2023/1772 og (EU) 2024/404) om fastsettelse av felles lufttrafikkregler og driftsmessige bestemmelser knyttet til tjenester og framgangsmåter i lufttrafikken [...], gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 2 sep 2024 nr. 2064, 2 nov 2024 nr. 2656, 8 nov 2024 nr. 2712, 17 juni 2025 nr. 1067, 20 juni 2025 nr. 1256."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 2a",
+     "tittel": "(Opphevet)",
+     "ledd": [],
+     "endringer": [
+      "Tilføyd ved forskrift 28 sep 2020 nr. 1896, endret ved forskrift 2 sep 2024 nr. 2064, opphevet ved forskrift 20 juni 2025 nr. 1256."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 3",
+     "tittel": "Ansvarlig myndighet",
+     "ledd": [
+      "Luftfartstilsynet er ansvarlig myndighet etter kommisjonens gjennomføringsforordning (EU) nr. 923/2012."
+     ],
+     "endringer": [
+      "Endret ved forskrift 19 des 2016 nr. 1710."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-5",
+     "nummer": "§ 4",
+     "tittel": "Delegering av myndighet til å endre forskriften",
+     "ledd": [
+      "Luftfartstilsynet kan foreta endringer i forskriften med unntak av § 3, så lenge det er forenlig med kommisjonens gjennomføringsforordning (EU) nr. 923/2012."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-6",
+     "nummer": "§ 5",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "I tillegg til definisjonene opplistet i kommisjonens gjennomføringsforordning (EU) nr. 923/2012 artikkel 2, gjelder følgende definisjoner:\na. AFIS-enhet: en enhet for lufttrafikktjenester som yter flygeinformasjons- og alarmtjeneste til luftfartøy før avgang, på manøvreringsområdet på en ikke-kontrollert flyplass, samt til luftfartøy innenfor en trafikkinformasjonssone (TIZ) og trafikkinformasjonsområde (TIA).\nb. HFIS-enhet: en enhet for lufttrafikktjenester som yter flygeinformasjons- og alarmtjeneste til helikoptre ved landing og avgang fra et helikopterdekk og til luftfartøy innenfor en trafikksone for helikopter (HTZ).\nc. trafikksone for helikopter (HTZ): et ikke-kontrollert luftrom av bestemte dimensjoner som vertikalt strekker seg fra havets overflate til en angitt høyde over middelvannstand og som etableres rundt en innretning med landingsplattform på kontinentalsokkelen.\nd. trafikkinformasjonsområde (TIA): et ikke-kontrollert luftrom av bestemte dimensjoner som strekker seg oppover fra en angitt høyde over havflaten til et angitt flygenivå eller en angitt høyde over havflaten og hvor det ytes flygeinformasjons- og alarmtjenester av en enhet for lufttrafikktjenester.\ne. trafikkinformasjonssone (TIZ): et ikke-kontrollert luftrom av bestemte dimensjoner som vertikalt strekker seg fra jordoverflaten til en angitt høyde over havflaten og hvor det ytes flygeinformasjons- og alarmtjenester av en enhet for lufttrafikktjenester.\nf. høyt terreng (high terrain): terreng høyere enn 6 000 FT AMSL."
+     ],
+     "endringer": [
+      "Endret ved forskrift 19 des 2016 nr. 1710. Endres ved forskrift 28 sep 2026 nr. 1931 (i kraft 10 juni 2027)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "Kapittel II – Særbestemmelser til SERA avsnitt 3. Alminnelige regler og unngåelse av kollisjoner",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 6",
+     "tittel": "Til SERA.3115",
+     "ledd": [
+      "Gjenstander, væske eller pulver skal ikke kastes, slippes eller sprøytes fra luftfartøy under flyging dersom de er egnet til å forårsake skade eller ulempe for:\na. den øvrige luftfart,\nb. personer på bakken,\nc. bygninger eller andre installasjoner på bakken eller\nd. kulturlandskapet på bakken.",
+      "Forbudet i første ledd gjelder ikke:\na. nedkasting av proviant og utstyr til nødstedte,\nb. nedkasting av ballast i form av vann eller fin sand,\nc. sprøyting eller slipp av vann eller andre slokkingsmidler til bekjempelse av branner eller\nd. slipp av brennstoff av sikkerhetsgrunner."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 7",
+     "tittel": "Til SERA.3130",
+     "ledd": [
+      "Akroflyging er ikke tillatt over tettbebyggelse, folkeansamling i friluft, over trafikkerte havner eller over sjøgående fartøyer.",
+      "Akroflyging er ikke tillatt i kontrollert luftrom uten etter tillatelse fra vedkommende flygekontrollenhet.",
+      "Akroflyging tillates utført når luftfartøyet flyr i samsvar med visuellflygeregler og skal utføres i en høyde av 600 m (2000 fot) eller mer over det høyeste punkt innenfor 1,5 km horisontal avstand fra luftfartøyet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 8",
+     "tittel": "Til SERA.3135",
+     "ledd": [
+      "For formasjonsflyging i kontrollert luftrom gjelder SERA.3135. Maksimal utstrekning på formasjoner av statsluftfartøy i SERA.3135(d) skal være 1 NM horisontalt og 100 fot vertikalt.",
+      "Ved formasjoner av statsluftfartøy større enn 0,5 NM og 100 fot skal vedkommende flygekontrollenhet øke atskillelsesminima mellom formasjonen og andre luftfartøy tilsvarende størrelsen på formasjonen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 9",
+     "tittel": "Til SERA.3225(c)",
+     "ledd": [
+      "Plikten til å svinge til venstre gjelder også på flyplass der det ytes flygeinformasjonstjeneste på flyplassen (AFIS), med mindre fartøysjef ønsker å nytte høyresving, og dette kan skje uten fare for den øvrige trafikk og vedkommende AFIS-enhet er informert."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kapIII",
+   "overskrift": "Kapittel III – Særbestemmelser til SERA avsnitt 4. Reiseplaner",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 10",
+     "tittel": "Til SERA.4001(d)",
+     "ledd": [
+      "For VFR-flyginger som i sin helhet utføres innenfor Polaris FIR, kan reiseplan leveres inntil 30 minutter før avgang."
+     ],
+     "endringer": [
+      "Endret ved forskrift 14 des 2021 nr. 3530 (i kraft 1 jan 2022)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 11",
+     "tittel": "Til SERA.4005(a)",
+     "ledd": [
+      "En reiseplan skal bestå av alle elementene beskrevet i SERA.4005(a)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 12",
+     "tittel": "Til SERA.4010",
+     "ledd": [
+      "Når det er levert reiseplan og avgangen foretas fra en avgangsplass hvor det ikke ytes flygekontrolltjeneste (ATC) eller flygeinformasjonstjeneste på flyplassen (AFIS), skal fartøysjefen aktivere reiseplanen ved at avgangsmelding gis på radio til den enheten for lufttrafikktjenester som er ansvarlig i området eller, dersom dette ikke er mulig, til en annen enhet for lufttrafikktjenester. Avgangsmeldingen skal omfatte:\na. luftfartøyets kallesignal,\nb. avgangsplass,\nc. avgangstid og\nd. destinasjonsplass.",
+      "Avgangsmeldingen til lufttrafikktjenesten kan gis pr. telefon av fartøysjefen før avgang eller av en person på bakken etter nærmere avtale med fartøysjefen.",
+      "Den enheten for lufttrafikktjenester som mottar slik avgangsmelding, er ansvarlig for at den aktuelle reiseplanen aktiveres."
+     ],
+     "endringer": [
+      "Endret ved forskrift 19 des 2016 nr. 1710."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kapIV",
+   "overskrift": "Kapittel IV – Særbestemmelser til SERA avsnitt 5. Værforhold for visuell flyging, visuellflygeregler, regler for spesiell VFR-flyging og instrumentflygeregler",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 13",
+     "tittel": "Til SERA.5001",
+     "ledd": [
+      "I tabell S5-1 skal fotnote (***) gjelde."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 14",
+     "tittel": "Til SERA.5005(c)",
+     "ledd": [
+      "Flyging etter visuellflygeregler er tillatt om natten. Vilkår beskrevet i SERA.5005(c) skal følges. Dersom flysikten er minst 10 km og skydekkehøyden er minst 2000 fot, kan minstehøyder beskrevet i SERA 5005(c)(5) reduseres, men ikke lavere enn hva som fremgår av SERA.5005(f)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 15",
+     "tittel": "Til SERA.5005(d)",
+     "ledd": [
+      "Ansvarlig flygekontrollenhet kan tillate enkeltflyginger over FL 195 opp til og inkludert FL 285. Enheten kan sette vilkår for slike tillatelser."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 16",
+     "tittel": "Til SERA.5005(f)",
+     "ledd": [
+      "I tillegg gjelder:\na. Minstehøyden kan fravikes når flygingen utføres ervervsmessig, utenfor tettbebyggelse eller folkeansamling i friluft, og skjer i samsvar med forordning (EU) nr. 965/2012, vedlegg VIII (Part SPO) som gjennomført ved forskrift 7. august 2013 nr. 956 om luftfartsoperasjoner.\nb. Minstehøyden kan fravikes når det er påkrevd for innflyging for treningsformål såfremt innflygingen ikke foretas over tettbebyggelse eller folkeansamling i friluft.\nc. Seilfly som utfører hangflyging kan fly ned til en minstehøyde av 50 m over bakken eller vannet."
+     ],
+     "endringer": [
+      "Endret ved forskrift 11 april 2024 nr. 611."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-5",
+     "nummer": "§ 17",
+     "tittel": "Til SERA.5010(a)",
+     "ledd": [
+      "Spesiell VFR-flyging er tillatt om natten."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kapV",
+   "overskrift": "Kapittel V – Særbestemmelser til SERA avsnitt 6. Klassifisering av luftrom",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 18",
+     "tittel": "Luftromsklassifisering når det ikke ytes flygekontrolltjeneste",
+     "ledd": [
+      "Når det ikke ytes flygekontrolltjeneste i en kontrollsone eller et terminalområde, endres den publiserte luftromsklassifiseringen til klasse G og radio- og transponderpåbudssone (RMZ og TMZ)."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 14 des 2021 nr. 3530 (i kraft 1 jan 2022), 16 nov 2023 nr. 1868 (i kraft 1 jan 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 19",
+     "tittel": "Radio- og transponderpåbudssoner",
+     "ledd": [
+      "Trafikkinformasjonssoner (TIZ) og trafikkinformasjonsområder (TIA) er radiopåbudssoner (RMZ). Luftfartøy som skal fly innenfor en radiopåbudssone (RMZ), skal i åpningstiden til enheten for lufttrafikktjenester etablere og opprettholde to-veis radiokommunikasjon med vedkommende enhet for lufttrafikktjenester.",
+      "Utenfor åpningstiden til enheten for lufttrafikktjenester, skal fartøysjefen sende posisjonsmeldinger blindt.",
+      "Luftrom som er klassifisert som luftromsklasse A, C eller D er transponderpåbudssoner (TMZ). Lufttrafikktjenesten kan gi unntak fra kravet om transponder i enkelttilfeller."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 14 des 2021 nr. 3530 (i kraft 1 jan 2022), 16 nov 2023 nr. 1868 (i kraft 1 jan 2024). Endres ved forskrift 28 sep 2026 nr. 1931 (i kraft 10 juni 2027)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kapVI",
+   "overskrift": "Kapittel VI – Særbestemmelser til SERA avsnitt 8. Flygekontrolltjeneste",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 20",
+     "tittel": "Til SERA.8025(a)",
+     "ledd": [
+      "Fartøysjef er fritatt for kravet om å sende posisjonsmeldinger når luftfartøyet ytes overvåkingstjeneste."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 21",
+     "tittel": "Opphevet",
+     "ledd": [],
+     "endringer": [
+      "Opphevet ved forskrift 16 nov 2023 nr. 1868 (i kraft 1 jan 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-3",
+     "nummer": "§ 22",
+     "tittel": "Til SERA.8035(b)",
+     "ledd": [
+      "Hvis det inntreffer kommunikasjonssvikt som medfører at luftfartøy ikke kan følge bestemmelsene i SERA.8035(a), skal det gås frem etter bestemmelsene om svikt i kommunikasjonen fastsatt i ICAO Annex 10, Vol. II, 6th edition, 10/2001, og i samsvar med de av reglene i andre og tredje ledd som kommer til anvendelse. Luftfartøyet skal forsøke å etablere kommunikasjon med lufttrafikktjenesten ved hjelp av alle tilgjengelig midler. Luftfartøy som utgjør lokaltrafikk ved kontrollert eller AFIS-betjent flyplass, skal dessuten holde utkikk etter anvisninger gitt ved optiske signaler.",
+      "Dersom det inntrer kommunikasjonssvikt når luftfartøyet er i VFR-forhold, skal\na. SSR-transponderen settes til kode 7600,\nb. flygingen fortsette i VFR-forhold dersom ikke forholdene tilsier at flygingen skal gjennomføres som en IFR-flyging i tråd med bestemmelsen i tredje ledd,\nc. luftfartøyet lande på den flyplass som egner seg best og\nd. ankomstmelding leveres vedkommende flygekontrollenhet på hurtigst mulig måte.",
+      "Dersom det inntrer kommunikasjonssvikt når luftfartøyet er i IFR-forhold eller hvis værforholdene er slik at det ikke er sannsynlig at flygingen kan gjennomføres i VFR-forhold, skal\na. SSR-transponderen settes til kode 7600, og\nb. luftfartøyet fortsette i den sist tildelte hastighet og høyde eller angitt minstehøyde hvis denne er høyere i en periode av 7 minutter, såfremt ikke annet er beskrevet på bakgrunn av regionale overenskomster. I de tilfeller luftfartøyet opererer på en rute uten obligatoriske rapporteringspunkt eller har mottatt instruksjoner om å utelate rapportering, regnes de 7 minuttene fra det seneste av\ni. det tidspunkt luftfartøyet når den sist tildelte høyden eller angitte minstehøyde, eller\nii. det tidspunktet transponderen settes til kode 7600.\nI de tilfeller luftfartøyet opererer på en rute med obligatoriske rapporteringspunkt og ikke har mottatt instruksjoner om å utelate rapportering, regnes de 7 minuttene fra det seneste av\niii. det tidspunkt luftfartøyet når den sist tildelte høyden eller angitte minstehøyde,\niv. det tidspunkt flygeren har rapportert at han beregner å passere det obligatoriske rapporteringspunkt, eller\nv. det tidspunktet flygeren unnlater å rapportere over et obligatorisk meldepunkt.",
+      "Etter at flygingen er etablert i tråd med bestemmelsene i første til tredje ledd skal hastighet og høyde tilpasses i samsvar med den innleverte reiseplan.",
+      "Luftfartøy som vektoreres, eller navigerer offset i forbindelse med RNAV uten en fastsatt grense, skal følge den mest direkte rute til den ATS-rute som er angitt i den gjeldende reiseplanen og gjenoppta denne innen passering av neste spesielle punkt, hensyn tatt til angitt minstehøyde.",
+      "Flygingen skal fortsette i samsvar med gjeldende reiseplanrute til det navigasjonshjelpemiddel som er fastsatt for destinasjonsplassen til bruk under innflyging ved radiosvikt. Hvis nødvendig, skal luftfartøyet vente over hjelpemidlet før nedstigning påbegynnes.",
+      "Nedstigningen skal begynne over det navigasjonshjelpemiddel som er spesifisert i sjette ledd så nøyaktig som mulig på den antatte innflygingstid som sist er mottatt og kvittert for, eller hvis det ikke er mottatt og kvittert for en antatt innflygingstid, så nøyaktig som mulig på den beregnede ankomsttid som fremkommer i henhold til gjeldende reiseplan.",
+      "En normal instrumentinnflyging, som foreskrevet for angjeldende navigasjonshjelpemiddel, skal fullføres, og landing foretas, så vidt mulig i løpet av 30 minutter etter den seneste av\na. beregnet ankomsttid spesifisert i syvende ledd eller\nb. siste antatte innflygingstid som luftfartøyet har kvittert for."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-4",
+     "nummer": "§ 22a",
+     "tittel": "Fritak fra ansvar for å yte lufttrafikktjeneste",
+     "ledd": [
+      "Luftfartstilsynet kan etter søknad beslutte at lufttrafikktjenesten fritas fra ansvaret for å yte lufttrafikktjeneste i deler av luftrommet som er tilrettelagt for særskilte luftromsbrukere. Søkeren må dokumentere at det foreligger et konkret behov for fritaket, at brukerne av det aktuelle luftrommet er innforstått med konsekvensene av fritaket, og at flysikkerheten ivaretas. Lufttrafikktjenesten skal konsulteres før fritak besluttes.",
+      "Fritak etter første ledd kan gis etter en helhetlig vurdering av de hensyn som gjør seg gjeldende i saken."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 14 des 2021 nr. 3530 (i kraft 1 jan 2022), endret ved forskrift 16 nov 2023 nr. 1868 (i kraft 1 jan 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-5",
+     "nummer": "§ 22b",
+     "tittel": "Flygekontrolltjeneste tilknyttet fareområder",
+     "ledd": [
+      "Der det er aktive fareområder i kontrollert luftrom, skal flygekontrolltjenesten atskille IFR-flyginger fra fareområdene med samme atskillelse som benyttes mellom IFR-flyginger i det aktuelle luftrommet. IFR-flyginger etablert på instrumentprosedyrer som er godkjent av Luftfartstilsynet, jf. forskrift 14. desember 2021 nr. 3530 om luftromsorganisering § 25, kan likevel anses tilstrekkelig atskilt fra et aktivt fareområde dersom instrumentprosedyrens primære beskyttelsesområde ligger utenfor fareområdet.",
+      "Flygekontrolltjenesten har ikke plikt til å atskille VFR-flyginger fra aktive fareområder i kontrollert luftrom. Flygekontrolltjenesten skal likevel gi fartøysjefen informasjon om farefull aktivitet og tilbud om alternative flygeruter."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 14 des 2021 nr. 3530 (i kraft 1 jan 2022), endret ved forskrift 16 nov 2023 nr. 1868 (i kraft 1 jan 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-6",
+     "nummer": "§ 22c",
+     "tittel": "Flygekontrolltjeneste tilknyttet restriksjonsområder og andre soner og områder",
+     "ledd": [
+      "Der det er aktive restriksjonsområder i kontrollert luftrom, skal flygekontrolltjenesten atskille IFR-flyginger fra restriksjonsområdene og fra andre flyginger i samsvar med de restriksjoner som gjelder i tilknytning til områdene, med mindre Luftfartstilsynet har gitt tillatelse til noe annet. Det samme gjelder der det er opprettet reservert luftrom eller geografiske UAS-områder, forutsatt at disse er aktive og medfører restriksjoner for IFR-flyginger.",
+      "Flygekontrolltjenesten har ikke plikt til å atskille VFR-flyginger fra aktive restriksjonsområder, reservert luftrom eller geografiske UAS-områder i kontrollert luftrom. Flygekontrolltjenesten skal likevel gi fartøysjefen informasjon om relevante restriksjoner og tilbud om alternative flygeruter."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 14 des 2021 nr. 3530 (i kraft 1 jan 2022), endret ved forskrift 16 nov 2023 nr. 1868 (i kraft 1 jan 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-7",
+     "nummer": "§ 22d",
+     "tittel": "Klarering med tillatelse til egenseparasjon",
+     "ledd": [
+      "Etter forespørsel fra piloten på et luftfartøy, og med samtykke fra piloten på det andre luftfartøyet, kan flygekontrolltjenesten gi klarering med forbehold om å opprettholde egen adskillelse for en bestemt del av flygingen under 3 050 m (10 000 fot), under stigning eller nedstigning. Slik klarering kan bare gis i luftromsklasse D om dagen under visuelle meteorologiske forhold, og\na. mellom IFR-flyginger\nb. mellom IFR- og VFR-flyginger\nc. mellom spesielle VFR-flyginger."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 26 okt 2022 nr. 1812 (i kraft 1 nov 2022)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kapVII",
+   "overskrift": "Kapittel VII – Særbestemmelser til SERA avsnitt 10. Alarmtjeneste",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 23",
+     "tittel": "Til SERA.10001(c)",
+     "ledd": [
+      "Ved mottak av meldingen «flyging normal» («Operations normal»), skal vedkommende enhet for lufttrafikktjenester registrere tidspunkt og innhold i meldingen og oppbevare opplysningene."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-8",
+   "navn": "kapVII",
+   "overskrift": "Kapittel VII A – Særbestemmelser til SERA avsnitt 14. Framgangsmåter for talekommunikasjon",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Kapitlet tilføyd ved forskrift 28 feb 2018 nr. 287."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-1",
+     "nummer": "§ 23a",
+     "tittel": "Til SERA.14001",
+     "ledd": [
+      "For enkeltflygninger og etter forhåndsgodkjenning fra relevant lufttrafikktjenesteenhet kan fører av ballong, seilfly og luftfartøy omfattet av forskrift 21. mars 2024 nr. 498 om sportsflyging (BSL D 4-8) som ikke har nødvendig engelsk språkpåtegning i sitt sertifikat, benytte norsk hverdagsspråk i kommunikasjonen med lufttrafikktjenesten."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 28 feb 2018 nr. 287, endret ved forskrift 11 april 2024 nr. 611."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-2",
+     "nummer": "§ 23b",
+     "tittel": "Til SERA.14015",
+     "ledd": [
+      "§ 23a gjelder tilsvarende."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 28 feb 2018 nr. 287."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-3",
+     "nummer": "§ 23c",
+     "tittel": "Tilbakelesing av klareringer og annen informasjon",
+     "ledd": [
+      "En flygeleder som har mottatt muntlige tilbakelesinger av vilkårsklareringer fra flybesetningen knyttet til bruk av rullebanen, skal i kommunikasjonen med flybesetningen bekrefte at tilbakelesingen er korrekt eller meddele at tilbakelesingen ikke er korrekt og gjenta klareringen.",
+      "Flygeren skal i kommunikasjonen med en enhet for flygeinformasjonstjeneste alltid gjenta mottatt informasjon om tilgjengeligheten av rullebanen, høydemålerinnstilling (QNH) og gjennomgangsnivå i tillegg til tildelt SSR-kode, samt klareringer som gis på vegne av flygekontrolltjenesten."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 26 okt 2022 nr. 1812 (i kraft 1 nov 2022), endret ved forskrift 16 nov 2023 nr. 1868 (i kraft 1 jan 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-4",
+     "nummer": "§ 23d",
+     "tittel": "Fraseologi som kan benyttes mellom lufttrafikktjenesten og flygeren",
+     "ledd": [
+      "I tillegg til fraseologi som kan benyttes av lufttrafikktjenesten i samsvar med avsnitt 14 i kommisjonens gjennomføringsforordning (EU) nr. 923/2012, som gjennomført i forskrift 14. desember 2016 nr. 1578 om lufttrafikkregler og operative prosedyrer, kan lufttrafikktjenesten benytte fraseologi i samsvar med andre og tredje ledd.",
+      "Følgende fraseologi kan benyttes i kommunikasjon mellom flygekontrolltjenesten og flygeren (flygerens fraseologi markert med *)\na. for rapportering av skydekke:\n- NO SIGNIFICANT CLOUDS\nb. for rapportering av meteorologiske forhold:\n- WIND SHEAR FORECAST\n- WIND SHEAR FORECAST AND REPORTED\n- WIND SHEAR REPORTED\nc. for avslutning av reiseplan:\n- *CLOSING FLIGHT PLAN AT (tid)\n- FLIGHT PLAN CLOSED AT (tid)\nd. for anmodning om og angivelse av peilinger:\n- *REQUEST QTE (eller TRUE BEARING)\n- TRANSMIT FOR QTE (eller TRUE BEARING)\n- QTE (eller TRUE BEARING) (FROM) (sted) IS (antall grader)\n- *REQUEST QDR (eller MAGNETIC BEARING)\n- TRANSMIT FOR QDR (eller MAGNETIC BEARING)\n- QDR (eller MAGNETIC BEARING) (FROM) (sted) IS (antall grader)\n- *REQUEST QUJ (eller TRUE HEADING)\n- TRANSMIT FOR QUJ (eller TRUE HEADING)\n- QUJ (eller TRUE HEADING) (TO) (sted) IS (antall grader)\n- *REQUEST QDM (eller MAGNETIC HEADING)\n- TRANSMIT FOR QDM (eller MAGNETIC HEADING)\n- QDM (eller MAGNETIC HEADING) (TO) (sted) IS (antall grader)\ne. for å henlede oppmerksomheten på like kallesignaler på frekvensen:\n- CAUTION SIMILAR CALLSIGNS ON THE FREQUENCY\nf. for å informere om rotorvind fra et helikopter:\n- CAUTION ROTORWASH\ng. for nattflyging i kontrollert luftrom i samsvar med visuelle flygeregler:\n- *REQUEST VFR NIGHT (rute, område, høyde etc.)\n- CLEARED VFR NIGHT (restriksjoner etc.)\nh. for spesiell VFR-flyging:\n- *REQUEST SPECIAL VFR (detaljer om rute etc.)\n- CLEARED SPECIAL VFR (restriksjoner etc.).",
+      "Fraseologien i andre ledd, bokstavene a til f, kan så langt det passer også benyttes mellom flygeinformasjonstjenesten og flygeren. I tillegg kan flygeinformasjonstjenesten benytte følgende fraseologi\na. for å gi råd om unnvikelsesmanøver:\n- ADVICE YOU TO TURN LEFT (or RIGHT) IMMEDIATELY TO AVOID (UNIDENTIFIED) TRAFFIC AT (bearing by clock-reference and distance)\nb. for å overføre trafikk fra en flygeinformasjonsenhet til en flygekontrollenhet når flygeren har fått klarering i forbindelse med flygingen:\n- CONTACT (control unit callsign) (frequency)."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 26 okt 2022 nr. 1812 (i kraft 1 nov 2022), endret ved forskrift 16 nov 2023 nr. 1868 (i kraft 1 jan 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-5",
+     "nummer": "§ 23e",
+     "tittel": "Kommunikasjon mellom lufttrafikktjenesten og bakkepersonell",
+     "ledd": [
+      "Der lufttrafikktjenesten og bakkepersonell ikke har dekkende fraseologi for de meldinger som skal sendes mellom dem, skal de benytte andre kortfattede og passende uttrykk som ikke gir grunn til misforståelser.",
+      "Kommunikasjon mellom lufttrafikktjenesten og bakkepersonell skal foregå på norsk eller engelsk.",
+      "Ved svikt i radiokommunikasjonen mellom lufttrafikktjenesten og bakkepersonell, skal bakkepersonellet umiddelbart fjerne seg fra manøvreringsområdet og deretter kontakte lufttrafikktjenesten.",
+      "Kommunikasjon mellom lufttrafikktjenesten og bakkepersonell skal begynne med et anrop. Anropet skal inneholde kallesignalet til den stasjonen anropet retter seg mot, etterfulgt av eget kallesignal. Den som anroper skal som hovedregel vente på svar før den komplette meldingen sendes. Korte meldinger kan likevel sendes sammen med anropet.",
+      "Den som mottar et anrop skal kvittere med eget kallesignal for mottakelsen. Det samme gjelder for påfølgende meldinger. Ved mottak av melding angående tillatelse til å bevege seg på manøvreringsområdet, skal mottakeren lese tillatelsen tilbake med eget kallesignal som avslutning.",
+      "Den som gir tillatelse til kjøring på eller kryssing av en rullebane skal alltid gi en beskrivelse av hvor på rullebanen innkjøring kan foretas. Dersom en sjåfør hører at klarering til rullebanen gis via en annen posisjon enn det ble bedt om, skal sjåføren spørre på nytt og få riktig posisjon før sjåføren kjører ut på rullebanen. Ordene RULLEBANEN eller RUNWAY skal alltid være med i klareringen og tilbakelesingen av klarering ved rullebaneoperasjoner."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 26 okt 2022 nr. 1812 (i kraft 1 nov 2022), endret ved forskrift 16 nov 2023 nr. 1868 (i kraft 1 jan 2024, tidligere § 23g)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-6",
+     "nummer": "§ 23f",
+     "tittel": "Fraseologi som skal benyttes mellom lufttrafikktjenesten og bakkepersonell",
+     "ledd": [
+      "Følgende fraseologi skal benyttes mellom lufttrafikktjenesten og bakketjenesten (bakketjenestens fraseologi markert med **) i forbindelse med\na. kryssing av rullebane på flyplasser med én rullebane:\n| **STÅR VED (benevnelse på posisjon). BER OM KRYSSING AV RULLEBANEN TIL (benevnelse på posisjon) [eller FRA (benevnelse på posisjon) TIL (benevnelse på posisjon)] | **POSITION (benevnelse på posisjon). REQUEST TO CROSS RUNWAY AT (benevnelse på posisjon) [eller FROM (benevnelse på posisjon) TO (benevnelse på posisjon)]\n| KRYSS RULLEBANEN VED (benevnelse på posisjon) [eller FRA (benevnelse på posisjon) TIL (benevnelse på posisjon)] | CROSS RUNWAY AT (benevnelse på posisjon) [eller FROM (benevnelse på posisjon) TO (benevnelse på posisjon)]\n| HOLD KLAR AV RULLEBANEN | HOLD SHORT OF RUNWAY\n| **KLAR AV RULLEBANEN VED (benevnelse på posisjon) | **RUNWAY VACATED AT (benevnelse på posisjon)\nb. kjøring på rullebane eller sikkerhetsområde ved flyplasser med én rullebane:\n| **BER OM Å FÅ KJØRE UT PÅ RULLEBANEN VIA (benevnelse på posisjon) | **REQUEST TO ENTER RUNWAY VIA (benevnelse på posisjon)\n| KJØR UT PÅ RULLEBANEN VIA (benevnelse på posisjon) | ENTER RUNWAY VIA (benevnelse på posisjon)\n| HOLD KLAR AV RULLEBANEN | HOLD SHORT OF RUNWAY\n| STOPP OG HOLD POSISJONEN | STOP AND HOLD POSITION\n| FORLAT RULLEBANEN [VIA (benevnelse på posisjon)] | VACATE RUNWAY [VIA (benevnelse på posisjon)]\n| **FORLATER RULLEBANEN [VIA (benevnelse på posisjon)] | **VACATING RUNWAY [VIA (benevnelse på posisjon)]\n| **KLAR AV RULLEBANEN [VED (benevnelse på posisjon)] | **RUNWAY VACATED [AT (benevnelse på posisjon)]\n| **BER OM Å FÅ KJØRE PÅ (spesifisert blokkområde) | **REQUEST TO OPERATE ON AREA (spesifisert blokkområde)\n| KJØR PÅ (spesifisert blokkområde) | OPERATE ON (spesifisert blokkområde\nc. kjøring på andre deler av manøvreringsområdet enn rullebane og sikkerhetsområde:\n| **BER OM Å FÅ KJØRE (benevnelse på taksebane eller annen rute) FRA (benevnelse på posisjon) TIL (benevnelse på posisjon) | **REQUEST TO PROCEED (benevnelse på taksebane eller annen rute) FROM (benevnelse på posisjon) TO (benevnelse på posisjon)\n| KJØR [VIA/PÅ (rute som skal følges)] TIL (benevnelse på posisjon) | PROCEED [VIA/ON (rute som skal følges)] TO (benevnelse på posisjon)\n| FORLAT (benevnelse på taksebane) [VIA (benevnelse på posisjon)] | VACATE [benevnelse på taksebane] [VIA (benevnelse på posisjon)]\n| **KLAR AV (benevnelse på taksebane) | **(benevnelse på taksebane) VACATED\n| HOLD POSISJONEN | HOLD POSITION\n| STOPP OG HOLD POSISJONEN | STOP AND HOLD POSITION\n| HOLD KLAR AV (benevnelse på taksebane) | HOLD SHORT OF (benevnelse på taksebane)\n| **BER OM Å FÅ KJØRE PÅ (spesifisert blokkområde) | **REQUEST TO OPERATE ON AREA (spesifisert blokkområde)\n| KJØR PÅ (spesifisert blokkområde) | OPERATE ON (spesifisert blokkområde)",
+      "På flyplasser med flere rullebaner byttes ordene RULLEBANEN eller RUNWAY ut med benevnelse på rullebanen."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 26 okt 2022 nr. 1812 (i kraft 1 nov 2022), endret ved forskrift 16 nov 2023 nr. 1868 (i kraft 1 jan 2024, tidligere § 23h)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-9",
+   "navn": "kapVIII",
+   "overskrift": "Kapittel VIII – Forankrede ballonger",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-1",
+     "nummer": "§ 24",
+     "tittel": "Forankrede ballonger",
+     "ledd": [
+      "Følgende bestemmelser gjelder for forankrede ballonger som på grunn av størrelse, brennbarhet, høyde over bakken mv. kan medføre fare eller ulempe for luftfarten:\na. Forankrede ballonger kan bare sendes opp, og holdes oppe, når\ni. bakkesikten er minst 8 km og\nii. ballongens avstand til skyer er minst 300 m vertikalt og 1500 m horisontalt.\nb. Oppsending av forankrede ballonger i kontrollert luftrom og i luftrom med krav til to-veis radiokommunikasjon krever tillatelse fra Luftfartstilsynet. Søknad om tillatelse må være mottatt av Luftfartstilsynet minst 14 dager før oppsendingen skal finne sted.\nc. Utenfor kontrollert luftrom og luftrom med krav til to-veis radiokommunikasjon kan oppsendingen til høyder over 45 m bare finne sted såfremt melding er gitt minst 14 dager forut til den enheten for lufttrafikktjenester som er ansvarlig i luftrommet. Søker skal fremsette anmodning om at enheten for lufttrafikktjenester utsteder NOTAM.\nd. Melding etter bokstav c skal inneholde\ni. navn, adresse og telefonnummer til den som har ansvaret for oppsendingen,\nii. sted/posisjon for forankringen,\niii. ballongens maksimale høyde,\niv. dato, tid og varighet for oppsendingen, og\nv. opplysninger om hvordan ballongen med forankringsutstyr er varselmerket.\ne. Forankrede ballonger skal være utstyrt med en anordning for punktering av ballongen. Anordningen må kunne utløses automatisk dersom ballongen kommer i drift. Hvis eier eller bruker av en forankret ballong blir kjent med at ballongen er kommet i drift uten at punktering har skjedd, plikter han straks å underrette den enhet av lufttrafikktjenesten som er ansvarlig for luftrommet."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-10",
+   "navn": "kapIX",
+   "overskrift": "Kapittel IX – Avskjæring av sivile luftfartøy",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-1",
+     "nummer": "§ 25",
+     "tittel": "Generelt",
+     "ledd": [
+      "Avskjæring av sivile luftfartøy skal bare å finne sted når det er helt nødvendig for å forhindre at det oppstår situasjoner som innebærer fare for\na. annen luftfart eller\nb. personer og materiell på bakken.",
+      "Avskjæring skal begrense seg til å fastslå luftfartøyets identitet unntatt når det er nødvendig å lede luftfartøy\na. tilbake til dets planlagte rute,\nb. til en posisjon hvor det vil forlate luftrom under norsk suverenitet,\nc. bort fra et forbudt område, restriksjonsområde, fareområde eller tettbebyggelse, eller\nd. til en flyplass hvor det vil bli beordret til å lande.",
+      "Avskjæring av sivile luftfartøy for øvelsesformål skal kun finne sted når det på forhånd er avtalt med fartøysjef på det luftfartøy som skal avskjæres, og lufttrafikktjenesten er informert om at avskjæringen vil finne sted.",
+      "Luftfartøy som avskjæres skal gis navigasjonsveiledning og annen relevant informasjon ved bruk av radiokommunikasjon der dette er tilgjengelig.",
+      "Luftfartøy som avskjæres kan kun gis ordre om å lande på en flyplass som er egnet for en sikker landing tilpasset den aktuelle flytype."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-11",
+   "navn": "kapX",
+   "overskrift": "Kapittel X – Avsluttende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-11-paragraf-1",
+     "nummer": "§ 26",
+     "tittel": "Dispensasjon",
+     "ledd": [
+      "Luftfartstilsynet kan dispensere fra bestemmelsene i forskriften dersom det foreligger særlige grunner, og dispensasjon er mulig i henhold til kommisjonens gjennomføringsforordning (EU) nr. 923/2012. Det kan settes vilkår for dispensasjonen.",
+      "Dispensasjon krever grunngitt søknad.",
+      "Dispensasjon skal ikke gis dersom hensynene bak bestemmelsen det dispenseres fra blir vesentlig tilsidesatt. I tillegg må fordelene ved å gi dispensasjon etter en samlet vurdering være klart større enn ulempene."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-11-paragraf-2",
+     "nummer": "§ 27",
+     "tittel": "Overtredelsesgebyr",
+     "ledd": [
+      "Overtredelsesgebyr etter luftfartsloven § 13a-5 kan ilegges den som ikke oppfyller sine plikter i henhold til:\na. denne forskrifts § 5 a til § 7, § 8 første ledd, § 9, § 12 til § 16, § 19 andre og tredje ledd og § 24\nb. kommisjonens gjennomføringsforordning (EU) nr. 923/2012."
+     ],
+     "endringer": [
+      "Endret ved forskrift 14 des 2021 nr. 3530 (i kraft 1 jan 2022)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-11-paragraf-3",
+     "nummer": "§ 28",
+     "tittel": "Ikrafttredelse og opphevelse",
+     "ledd": [
+      "Forskriften trer i kraft straks, likevel slik at reglene som etter kommisjonens gjennomføringsforordning (EU) 2016/1185 fikk anvendelse fra 18. august 2016, får anvendelse fra 2. februar 2017 og § 23 får anvendelse fra 12. oktober 2017.",
+      "Forskrift 22. desember 2014 nr. 1903 om lufttrafikkregler og operative prosedyrer oppheves."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-11-paragraf-4",
+     "nummer": "§ 29",
+     "tittel": "Opphevet",
+     "ledd": [],
+     "endringer": [
+      "Tilføyd ved forskrift 26 okt 2022 nr. 1812 (i kraft 1 nov 2022), opphevet ved forskrift 16 nov 2023 nr. 1868 (i kraft 1 jan 2024)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-12",
+   "navn": null,
+   "overskrift": "Forordninger",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Se her for å lese forordning (EU) nr. 923/2012 EFTAs nettside.\nSe her for å lese forordning (EU) 2015/340 (pdf)\nUoffisiell oversettelse.\nSe her for å lese forordning (EU) 2016/1185 (pdf)\nUoffisiell oversettelse."
+    }
+   ]
+  }
+ ]
+}

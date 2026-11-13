@@ -1,0 +1,86 @@
+{
+ "skjema": "1.0",
+ "type": "stortingsvedtak",
+ "datokode": "FOR-2025-12-18-2750",
+ "dokumentid": "STV/forskrift/2025-12-18-2750",
+ "departement": [
+  "Stortinget"
+ ],
+ "ikraft": "Budsjettåret 2026, departementet bestemmer",
+ "hjemmel": [
+  {
+   "ref": "lov/1814-05-17/§75",
+   "tekst": "lov/1814-05-17/§75"
+  },
+  {
+   "ref": "lov/1990-12-21-72",
+   "tekst": "lov/1990-12-21-72"
+  }
+ ],
+ "kunngjort": "2025-12-22 11:30",
+ "tittel": "Stortingsvedtak om CO2-avgift i petroleumsvirksomheten på kontinentalsokkelen for 2026",
+ "annet": "Hjemmel: Vedtatt av Stortinget 18. desember 2025 med hjemmel i Kongeriket Norges Grunnlov 17. mai 1814 § 75 bokstav a og lov 21. desember 1990 nr. 72 om avgift på utslipp av CO2 i petroleumsvirksomhet på kontinentalsokkelen.",
+ "refid": "forskrift/2025-12-18-2750",
+ "eli": "/eli/forskrift/2025/12/18/2750",
+ "url": "https://lovdata.no/dokument/STV/forskrift/2025-12-18-2750",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Fra 1. januar 2026 skal det i henhold til lov 21. desember 1990 nr. 72 om avgift på utslipp av CO2 i petroleumsvirksomhet på kontinentalsokkelen betales CO2-avgift til statskassen etter følgende satser:\na. naturgass brukt som brensel til kraft- og varmeproduksjon: kr 2,57 per standardkubikkmeter\nb. diesel og annen petroleum i væskeform brukt som brensel til kraft- og varmeproduksjon: kr 2,92 per liter\nc. petroleum faklet: kr 2,57 per standardkubikkmeter\nd. naturgass sluppet til luft: kr 23,53 per standardkubikkmeter\ne. CO2 utskilt fra petroleum og sluppet til luft; kr 2,57 per standardkubikkmeter.\nLov om avgift på utslipp av CO2 i petroleumsvirksomhet på kontinentalsokkelen omfatter ikke karbonfangst og -lagring (CCS)."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Fra den tid departementet bestemmer, skal Stortingets vedtak om CO2-avgift i petroleumsvirksomhet på kontinentalsokkelen lyde:"
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-foreslåttparagraf-1",
+     "nummer": null,
+     "tittel": null,
+     "ledd": [
+      "§ 1.",
+      "Det skal i henhold til lov 19. mai 1933 nr. 11 om særavgifter betales avgift på utslipp av CO2 i petroleumsvirksomhet på kontinentalsokkelen med følgende beløp:\na. naturgass brukt som brensel til kraft- og varmeproduksjon: kr 2,57 per standardkubikkmeter\nb. diesel og annen petroleum i væskeform brukt som brensel til kraft- og varmeproduksjon: kr 2,92 per liter\nc. petroleum faklet: kr 2,57 per standardkubikkmeter\nd. naturgass sluppet til luft: kr 23,53 per standardkubikkmeter\ne. CO2 utskilt fra petroleum og sluppet til luft; kr 2,57 per standardkubikkmeter.",
+      "Avgiften omfatter ikke karbonfangst og -lagring (CCS)."
+     ],
+     "fremtidig": true
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-foreslåttparagraf-2",
+     "nummer": null,
+     "tittel": null,
+     "ledd": [
+      "§ 2.",
+      "Oppstår det tvil om omfanget av avgiftsplikten, avgjøres spørsmålet av departementet."
+     ],
+     "fremtidig": true
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-foreslåttparagraf-3",
+     "nummer": null,
+     "tittel": null,
+     "ledd": [
+      "§ 3.",
+      "Departementet kan frita for eller sette ned avgiften når det oppstår enkelttilfeller eller situasjoner som ikke var overveid da avgiftsvedtaket ble truffet, og når avgiften i det spesielle enkelttilfellet får en utilsiktet virkning."
+     ],
+     "fremtidig": true
+    }
+   ]
+  }
+ ]
+}

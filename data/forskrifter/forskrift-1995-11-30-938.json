@@ -1,0 +1,492 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-1995-11-30-938",
+ "dokumentid": "SF/forskrift/1995-11-30-938",
+ "departement": [
+  "Helse- og omsorgsdepartementet"
+ ],
+ "etat": [
+  "Folkehelseavd."
+ ],
+ "kunngjort_i": "I 1995 1541",
+ "ikraft": "1996-01-01",
+ "siste_endring_ikraft": "2018-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2017-12-19-2289",
+   "tekst": "forskrift/2017-12-19-2289 fra 2018-01-01"
+  }
+ ],
+ "endrer": "forskrift/1993-12-21-1218",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1989-06-02-27/§3-1",
+   "tekst": "lov/1989-06-02-27/§3-1"
+  }
+ ],
+ "siste_rettelse": "2006-12-01 (§ 8-1 annet ledd tilbakeført)",
+ "korttittel": "Forskrift om Vinmonopolets innkjøp",
+ "tittel": "Forskrift om AS Vinmonopolets innkjøpsvirksomhet mv.",
+ "annet": "Hjemmel: Fastsatt av Sosial- og helsedepartementet (nå Helse- og omsorgsdepartementet) 30. november 1995 med hjemmel i lov av 2. juni 1989 nr. 27 om omsetning av alkoholholdig drikk m.v. (alkoholloven) § 3-1 femte ledd med endringer vedtatt i lov av 23. juni 1995 nr. 42.\nEndret ved forskrifter 22 sept 2000 nr. 967, 10 jan 2006 nr. 62, 24 mars 2006 nr. 376, 8 des 2011 nr. 1220, 24 juni 2016 nr. 817, 19 des 2017 nr. 2289.\nRettelser: 01.12.2006 (§ 8-1 annet ledd tilbakeført).",
+ "refid": "forskrift/1995-11-30-938",
+ "eli": "/eli/forskrift/1995/11/30/938",
+ "url": "https://lovdata.no/dokument/SF/forskrift/1995-11-30-938",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Alminnelige bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1-1",
+     "tittel": "Formål",
+     "ledd": [
+      "Vinmonopolets innkjøp og salg av alkoholholdig drikk skal innenfor alkoholpolitiske rammevilkår skje på vanlige forretningsmessige betingelser, tilpasses etterspørselen og sikre likebehandling."
+     ],
+     "endringer": [
+      "Endret ved forskrift 24 mars 2006 nr. 376 (i kraft 1 juli 2006)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 1-2",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "Med grossist menes i denne forskrift person eller selskap som kan drive engrossalg, jf. lov 2. juni 1989 nr. 27 om omsetning av alkoholholdig drikk m.v. § 1-4c."
+     ],
+     "endringer": [
+      "Endret ved forskrift 24 mars 2006 nr. 376 (i kraft 1 juli 2006)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 1-3",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Forskriften gjelder for Vinmonopolets innkjøp, salg og auksjon av alkoholholdig drikk som omfattes av selskapets enerett i henhold til lov 2. juni 1989 nr. 27 om omsetning av alkoholholdig drikk m.v. § 3-1 første og femte ledd."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 24 mars 2006 nr. 376 (i kraft 1 juli 2006), 8 des 2011 nr. 1220 (i kraft 1 jan 2012), 24 juni 2016 nr. 817 (i kraft 1 juli 2016)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 1-4",
+     "tittel": "Vinmonopolets produktutvalg",
+     "ledd": [
+      "Vinmonopolets produktutvalg omfatter et basisutvalg, et partiutvalg, et tilleggsutvalg, et testutvalg og et bestillingsutvalg.",
+      "Salg fra basis-, parti-, tilleggs- og bestillingsutvalg skjer for Vinmonopolets regning og risiko. Salg fra testutvalget skjer for grossistens regning og risiko, jf. § 5-4 og § 5-5."
+     ],
+     "endringer": [
+      "Endret ved forskrift 24 mars 2006 nr. 376 (i kraft 1 juli 2006)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Vinmonopolets basis- og partiutvalg",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 2-1",
+     "tittel": "Definisjon",
+     "ledd": [
+      "Med Vinmonopolets basisutvalg forstås i denne forskrift produkter som følger retningslinjene for gjenkjøp i § 2-2. Med partiutvalg forstås produkter som det kjøpes inn et begrenset parti av."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 2-2",
+     "tittel": "Retningslinjer",
+     "ledd": [
+      "Vinmonopolets basis- og partiutvalg skal være sammensatt ut fra en vurdering av faktisk og forventet etterspørsel. Vareutvalget i de enkelte utsalg skal tilpasses etterspørselen i utsalgenes salgsområder. Andre produkter fra basis- og partiutvalget som utsalget ikke lagerfører, skal kunne leveres etter bestilling.",
+      "Basisutvalget inndeles i produktgrupper. For hver produktgruppe fastsettes et maksimalt antall produkter. Produktgruppene skal bestå av produktene med høyest salgsvolum på landsbasis målt i en nærmere bestemt periode. Dersom et produkt ikke har solgt tilstrekkelig til å opprettholde plassen i produktgruppen, skal videre innkjøp av produktet stanses.",
+      "Produktgruppenes antall, størrelse og målegrunnlag for salgsvolum fastsettes av Vinmonopolet ut fra hensynet til markedstilpasning, effektiv konkurranse og størrelsen av basisutvalget.",
+      "Ett nytt parti av en partivare kan kjøpes inn innen 6 måneder etter første innkjøp."
+     ],
+     "endringer": [
+      "Endret ved forskrift 24 mars 2006 nr. 376 (i kraft 1 juli 2006)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 2-3",
+     "tittel": "Markeds- og produktplan",
+     "ledd": [
+      "Vinmonopolet skal utarbeide en årlig markeds- og produktplan som skal redegjøre for hovedtrekkene i sammensetningen av basis- og partiutvalget.",
+      "Markeds- og produktplanen er offentlig."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Innkjøpsprosedyrer for basis- og partiutvalg",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 3-1",
+     "tittel": "Generelt",
+     "ledd": [
+      "Vinmonopolet skal behandle tilbud om kjøp på like vilkår."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 3-2",
+     "tittel": "Innkjøp etter innhenting av konkurrerende tilbud",
+     "ledd": [
+      "Innkjøp foretas etter innhenting av et så stort antall tilbud at reell konkurranse oppnås, med mindre vilkårene for kjøp etter § 3-3 er oppfylt.",
+      "Ved beslutning om hvilket tilbud som er best, skal det foruten på pris, legges særlig vekt på kvalitet og leveringsdyktighet.",
+      "Tilbydere som har fått avslag, skal underrettes skriftlig om dette."
+     ],
+     "endringer": [
+      "Endret ved forskrift 24 mars 2006 nr. 376 (i kraft 1 juli 2006)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 3-3",
+     "tittel": "Innkjøp uten innhenting av konkurrerende tilbud",
+     "ledd": [
+      "Innkjøp uten innhenting av konkurrerende tilbud kan benyttes når\n1. produktet på grunnlag av oppnådd salg i testutvalget eller bestillingsutvalget kvalifiserer for listeføring i basisutvalget, jf. § 5-5 og § 6-2,\n2. produktet bare kan skaffes fra en grossist, eller\n3. innkjøpet på grunn av uforutsette omstendigheter ikke kan utsettes.",
+      "Vinmonopolet kan fastsette en grense for innkjøp av produkter fra bestillingsutvalget dersom det er nødvendig for å opprettholde en rimelig balanse mellom produkter innkjøpt etter første ledd nr. 1 og § 3-2."
+     ],
+     "endringer": [
+      "Endret ved forskrift 24 mars 2006 nr. 376 (i kraft 1 juli 2006)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 3-4",
+     "tittel": "Sensorisk prøveinstans",
+     "ledd": [
+      "Vinmonopolet kan bestemme at en sensorisk produktbedømmelse inngår i innkjøpsvurderingen. Denne foretas av Vinmonopolets sensoriske prøveinstans.",
+      "Prøveprosedyrene skal kunne dokumenteres. Det føres prøveprotokoll over resultatene av prøvingene. Prøveprotokollen er offentlig.",
+      "Nærmere regler for den sensoriske prøveinstansen fastsettes av Vinmonopolet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 3-5",
+     "tittel": "Tilbudsprotokoll",
+     "ledd": [
+      "Alle tilbud om innkjøp føres inn i en tilbudsprotokoll. Av tilbudsprotokollen skal fremgå hvilke tilbud som er valgt og begrunnelsen for valget. De tilbudte priser føres ikke inn i protokollen.",
+      "Tilbudsprotokollen er offentlig."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Tilleggsutvalg",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 4-1",
+     "tittel": "Opprettelse",
+     "ledd": [
+      "Hvert utsalg skal ha et lokalt tilleggsutvalg. Utvalget skal ha et rimelig omfang, og sammensetningen skal ta hensyn til lokal etterspørsel. Hvert utsalg skal ha tilgjengelig informasjon om eget tilleggsutvalg.",
+      "Produkter til det lokale tilleggsutvalget kan enten velges fra Vinmonopolets liste for produkter til tilleggsutvalg, jf. § 4-2 annet ledd, eller fra bestillingsutvalget, jf. kapittel 6."
+     ],
+     "endringer": [
+      "Endret ved forskrift 24 mars 2006 nr. 376 (i kraft 1 juli 2006)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 4-2",
+     "tittel": "Retningslinjer",
+     "ledd": [
+      "Interesserte grossister må gi skriftlig melding til Vinmonopolet om produkter som ønskes ført i lokale tilleggsutvalg, med angivelse av pris og kvantum som kan leveres.",
+      "Listen over produkter som er meldt forelegges alle Vinmonopolets utsalg. Med listen skal det følge en kort produktomtale fra grossisten.",
+      "Nærmere retningslinjer for tilleggsutvalg fastsettes av Vinmonopolet."
+     ],
+     "endringer": [
+      "Endret ved forskrift 24 mars 2006 nr. 376 (i kraft 1 juli 2006)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Testutvalg",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 5-1",
+     "tittel": "Opprettelse",
+     "ledd": [
+      "Vinmonopolet skal ha et testutvalg. Testutvalget har til formål å sikre markedsadgang for produkter som ikke er tatt inn i Vinmonopolets basis- eller partiutvalg."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 5-2",
+     "tittel": "Opptak",
+     "ledd": [
+      "Grossister som retter skriftlig henvendelse til Vinmonopolet om opptak har rett til å få et bestemt antall produkter inn i testutvalget. Vinmonopolet bestemmer antallet produkter per grossist ut fra hensynet til likebehandling og størrelsen på testutvalget.",
+      "Produkter grossisten melder på til opptak i testutvalget må ha vært i bestillingsutvalget i minst 12 måneder før første fastsatte lanseringstidspunkt etter påmelding til testutvalget, og i samme periode\na. ha fått avslag på tilbud til basis- eller partiutvalget, eller\nb. ikke ha oppfylt spesifikasjonskravene i noen av tilbudsforespørslene til basis- eller partiutvalget.",
+      "Når et produkt er lansert i testutvalget, kan grossisten melde inn et nytt produkt innenfor rammen av den til enhver tid fastsatte kvote per grossist.",
+      "Vinmonopolet kan bestemme at det skal betales et gebyr til dekning av kostnadene forbundet med lansering av produktet i testutvalget. Nærmere regler om gebyrets størrelse og innbetaling fastsettes av Vinmonopolet."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 24 mars 2006 nr. 376 (i kraft 1 juli 2006), 19 des 2017 nr. 2289 (i kraft 1 jan 2018)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 5-3",
+     "tittel": "(Opphevet fra 1 juli 2006, jf. forskrift 24 mars 2006 nr. 376.)",
+     "ledd": []
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-4",
+     "nummer": "§ 5-4",
+     "tittel": "Salg fra testutvalget",
+     "ledd": [
+      "Produktene fra testutvalget føres for salg i en representativ andel av Vinmonopolets utsalg. Antallet utsalg med testutvalg og deres beliggenhet fastsettes av Vinmonopolet. Grossisten mottar oppgjør periodevis etterhvert som produktene blir solgt. Nærmere vilkår fastsettes av Vinmonopolet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-5",
+     "nummer": "§ 5-5",
+     "tittel": "Testperiode",
+     "ledd": [
+      "Testutvalget inndeles i de samme produktgrupper som gjelder for basisutvalget. Oppnådd salgsvolum på landsbasis måles i en nærmere bestemt testperiode, og justeres i forhold til salgsvolumet i utsalg med testutvalg, jf. § 5-4. Målegrunnlag for salgsvolum fastsettes av Vinmonopolet ut fra hensynet til markedstilpasning, effektiv konkurranse og størrelsen av basisutvalget.",
+      "Dersom et produkt i testutvalget oppnår et tilstrekkelig høyt salgsvolum, jf. § 2-2 annet ledd, kjøpes produktet inn til Vinmonopolets basisutvalg etter utløpet av testperioden.",
+      "Dersom salget av et produkt i testutvalget blir lavere enn nødvendig for å kvalifisere til innkjøp til basisutvalget, returneres usolgt restlager av produktet til grossisten for hans regning og risiko."
+     ],
+     "endringer": [
+      "Endret ved forskrift 24 mars 2006 nr. 376 (i kraft 1 juli 2006)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-6",
+     "nummer": "§ 5-6",
+     "tittel": "Pris",
+     "ledd": [
+      "Grossistens pris for produktene i testutvalget legges til grunn for Vinmonopolets fastsetting av utsalgsprisen. Prisen fra grossisten skal være fast og kan ikke endres i testperioden. Ved eventuell overføring av produktet til basisutvalget etter testperiodens utløp, skal grossistens pris som gjaldt i testperioden, opprettholdes uendret i 6 måneder."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Bestillingsutvalg",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 6-1",
+     "tittel": "Registrering – vilkår",
+     "ledd": [
+      "Grossistene har rett til å få produkter registrert i en spesiell prisliste for et bestillingsutvalg, som er tilgjengelig i alle utsalg. Grossisten må gi Vinmonopolet skriftlig melding om produktets navn med produktomtale og pris.",
+      "Bestillingsutvalget skal være tilgjengelig på grossistens lager og med samme leveringsvilkår som for produkter i basis- og partiutvalg.",
+      "Vinmonopolet kan kreve at en bestilling av produkter fra dette utvalget forskuddsbetales."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 6-2",
+     "tittel": "Inndeling i produktgrupper",
+     "ledd": [
+      "Bestillingsutvalget inndeles i tilsvarende produktgrupper som gjelder for basisutvalget. Oppnådd salgsvolum på landsbasis måles i en nærmere bestemt periode. Målegrunnlag for salgsvolum fastsettes av Vinmonopolet ut fra hensynet til markedstilpasning, effektiv konkurranse og størrelsen av basisutvalget.",
+      "Dersom et produkt i bestillingsutvalget oppnår et tilstrekkelig høyt salgsvolum, jf. § 2-2 annet ledd, kjøpes produktet inn til Vinmonopolets basisutvalg etter utløpet av måleperioden."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 24 mars 2006 nr. 376 (i kraft 1 juli 2006)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kap7",
+   "overskrift": "Kapittel 7. Bestilling av produkter utenfor produktutvalget",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 7-1",
+     "tittel": "Omfang",
+     "ledd": [
+      "Vinmonopolet er overfor forbrukere forpliktet til å levere på bestilling alle produkter som ikke er representert i produktutvalget, jf. § 1-4, men som kan leveres av en grossist."
+     ],
+     "endringer": [
+      "Endret ved forskrift 24 mars 2006 nr. 376 (i kraft 1 juli 2006)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-2",
+     "nummer": "§ 7-2",
+     "tittel": "Bestillingen",
+     "ledd": [
+      "Bestillingen skal være skriftlig og inneholde produktbetegnelse og grossistens navn og adresse.",
+      "Vinmonopolet kan kreve at bestilling av produkter utenfor produktutvalget forskuddsbetales."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-8",
+   "navn": "kap7A",
+   "overskrift": "Kapittel 7A. Auksjon",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Kapitlet tilføyd ved forskrift 8 des 2011 nr. 1220 (i kraft 1 jan 2012)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-1",
+     "nummer": "§ 7A-1",
+     "tittel": "Omfang",
+     "ledd": [
+      "AS Vinmonopolet kan besørge auksjon av alkoholholdig drikk gruppe 2 og 3 mellom personer uten rett til omsetning av alkoholholdig drikk. Selskapet kan la seg bistå av auksjonshus for å gjennomføre slik auksjon."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 8 des 2011 nr. 1220 (i kraft 1 jan 2012)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-2",
+     "nummer": "§ 7A-2",
+     "tittel": "Gebyr",
+     "ledd": [
+      "AS Vinmonopolet kan kreve gebyr for å besørge auksjon."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 8 des 2011 nr. 1220 (i kraft 1 jan 2012)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-9",
+   "navn": "kap8",
+   "overskrift": "Kapittel 8. Prisfastsetting og innsyn",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-1",
+     "nummer": "§ 8-1",
+     "tittel": "Prisfastsetting",
+     "ledd": [
+      "Vinmonopolets salgspris skal beregnes med utgangspunkt i grossistens leveringspris tillagt påslag for inndekning av kostnader og fortjeneste. Priskalkylen må være bygget opp slik at det enkelte produkt i produktutvalget, jf. § 1-4, selges til samme pris over hele landet.",
+      "Vinmonopolets målsetting skal være at utsalgsprisen for halvflasker skal utgjøre halvparten av prisen for standard helflaske av samme produkt. Hvis innkjøpsprisen betinger en høyere utsalgspris, skal prisen for halvflasker maksimalt utgjøre 60% av prisen for standard helflasker av samme produkt."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 22 sept 2000 nr. 967 (i kraft 1 jan 2001), 24 mars 2006 nr. 376 (i kraft 1 juli 2006)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-2",
+     "nummer": "§ 8-2",
+     "tittel": "Innsyn",
+     "ledd": [
+      "Enhver har rett til innsyn i prisfastsettelsen for produkter omsatt gjennom Vinmonopolet."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-10",
+   "navn": "kap9",
+   "overskrift": "Kapittel 9. Leveringsbetingelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-10-paragraf-1",
+     "nummer": "§ 9-1",
+     "tittel": "Grossistens leveringsplikt",
+     "ledd": [
+      "Vinmonopolet kan kreve at grossisten skal levere produktet til samtlige utsalg i landet og til samme pris."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-11",
+   "navn": "kap10",
+   "overskrift": "Kapittel 10. Diverse bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-11-paragraf-1",
+     "nummer": "§ 10-1",
+     "tittel": "Tungtveiende alkoholpolitiske grunner",
+     "ledd": [
+      "Vinmonopolet kan vedta å unnlate å ta inn et produkt i produktutvalget, jf. § 1-4, eller unnlate å kjøpe inn et produkt dersom tungtveiende alkoholpolitiske grunner tilsier det, jf. § 1-1."
+     ],
+     "endringer": [
+      "Endret ved forskrift 24 mars 2006 nr. 376 (i kraft 1 juli 2006)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-11-paragraf-2",
+     "nummer": "§ 10-2",
+     "tittel": "Habilitet",
+     "ledd": [
+      "Ved behandling av innkjøpssaker gjelder reglene om habilitet i lov 10. februar 1967 om behandlingsmåten i forvaltningssaker kap. II tilsvarende."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-11-paragraf-3",
+     "nummer": "§ 10-3",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Denne forskrift trer i kraft fra 1. januar 1996.",
+      "Fra samme tidspunkt oppheves forskrift av 21. desember 1993 nr. 1218 om Vinmonopolets innkjøp og produktutvalg av brennevin, vin og sterkøl gitt med hjemmel i alkoholloven av 2. juni 1989 nr. 27 § 2-3."
+     ]
+    }
+   ]
+  }
+ ]
+}

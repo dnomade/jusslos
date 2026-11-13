@@ -1,0 +1,141 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-1974-03-15-4092",
+ "dokumentid": "SF/forskrift/1974-03-15-4092",
+ "departement": [
+  "Arbeids- og inkluderingsdepartementet"
+ ],
+ "etat": [
+  "Trygdeavd."
+ ],
+ "ikraft": "1974-03-15",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1957-07-06-26/§27",
+   "tekst": "lov/1957-07-06-26/§27"
+  }
+ ],
+ "siste_rettelse": "2019-09-13 (struktur)",
+ "korttittel": "Forskrift om flere tjenestepensjoner",
+ "tittel": "Forskrift om flere tjenestepensjoner, begrensning av fradraget (samordningsforskrift 17).",
+ "annet": "Hjemmel: Fastsatt av Sosialdepartementet 15. mars 1974 med hjemmel i lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser § 27.",
+ "refid": "forskrift/1974-03-15-4092",
+ "eli": "/eli/forskrift/1974/03/15/4092",
+ "url": "https://lovdata.no/dokument/SF/forskrift/1974-03-15-4092",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I Tjenestepensjonene er ikke opptjent til samme tid",
+   "innhold": [
+    {
+     "type": "seksjon",
+     "id": "kapittel-1-kapittel-1",
+     "navn": "kap1",
+     "overskrift": "1. De samordnede tjenestepensjoner når opp i full pensjon etter samordningslovens § 7. Det er ikke kvalitetstillegg etter samordningslovens § 7, nr. 1 annet ledd for første ordning",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Første ordning beregner fradrag som om den var alene. Siste ordning beregner fradrag etter full tjenestetid og sin pensjonsgivende inntekt og trekker fra fradraget i første ordning."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-1-kapittel-2",
+     "navn": "kap2",
+     "overskrift": "2. De samordnede tjenestepensjoner når opp i full pensjon etter § 7. Det er beregnet kvalitetstillegg",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "a. Kvalitetstillegget skyldes høyere pensjonsgrunnlag i første ordning (ordningene har samme kvalitet).\nb. Kvalitetstillegget skyldes at første ordning har best kvalitet (best pensjonsplan).\nAd punkt a:\nFørste ordning beregner fradrag som om den var alene. Siste ordning beregner fradrag etter full tjenestetid og den gjennomsnittlige pensjonsgivende inntekt og reduserer dette med det fradrag som er beregnet i første ordning.\nAd punkt b:\nFørste ordning beregner fradrag som om den var alene. Siste ordning beregner fradrag etter en beregnet tjenestetid som sammen med tjenestetiden i første ordning utgjør full tjenestetid. Fradraget begrenses ut fra den pensjonsgivende inntekt i pensjonsordningen.\nFradraget i siste pensjonsordning må likevel settes så høyt at pensjonisten ikke får større samlede ytelser etter samordning enn han ville fått om han hadde full pensjon i første ordning."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-1-kapittel-3",
+     "navn": "kap3",
+     "overskrift": "3. Summen av tjenestepensjonene når ikke opp i full pensjon etter § 7. Det er ikke beregnet kvalitetstillegg",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Første ordning beregner fradrag som om den var alene. Hvis summen av tjenestetidene i tjenestepensjonsordningene ikke utgjør minst full tjenestetid, skal siste ordning beregne fradrag etter sin tjenestetid og pensjonsgivende inntekt. Fradraget begrenses til den tilleggspensjon som er opptjent samtidig med pensjon i siste ordning. Fradraget i siste ordning må likevel settes så høyt at pensjonisten ikke får større samlede ytelser etter samordning enn han ville ha fått om han hadde hatt full pensjon i siste ordning.\nHvis summen av tjenestetidene i tjenestepensjonsordningene utgjør minst full tjenestetid, skal siste ordning beregne fradrag etter full tjenestetid og den pensjonsgivende inntekt som svarer til summen av de samordnede tjenestepensjoner. Fradraget i første ordning trekkes fra."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-1-kapittel-4",
+     "navn": "kap4",
+     "overskrift": "4. Summen av tjenestepensjonene når ikke opp i full pensjon etter § 7. Det er beregnet kvalitetstillegg",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "a. Tillegget skyldes høyere pensjonsgrunnlag i første ordning.\nb. Tillegget skyldes bedre kvalitet i første ordning.\nAd punkt a:\nFørste ordning beregner fradrag som om den var alene. Siste ordning beregner fradrag etter sin tjenestetid og pensjonsgivende inntekt. Fradraget begrenses til den tilleggspensjon som er opptjent samtidig med pensjon fra siste ordning.\nFradraget i siste ordning må likevel settes så høyt at pensjonisten ikke får større samlede ytelser etter samordning enn han ville ha fått, om pensjon fra første og siste ordning tilsammen var lik full pensjon, regnet etter den gjennomsnittlige pensjonsgivende inntekt.\nAd punkt b:\nFørste ordning beregner fradrag som om den var alene. Siste ordning beregner fradrag etter sin tjenestetid og pensjonsgivende inntekt. Fradraget begrenses til den tilleggspensjon som er opptjent samtidig med pensjon fra siste ordning.\nFradraget i siste ordning må likevel settes så høyt at pensjonisten ikke får større samlede ytelser etter samordning enn han ville fått om han hadde hatt full pensjon i første ordning."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II Tjenestepensjonene er helt eller delvis samtidig opptjent",
+   "innhold": [
+    {
+     "type": "seksjon",
+     "id": "kapittel-2-kapittel-1",
+     "navn": "kap1",
+     "overskrift": "1. Tjenestepensjonene er fullt ut samtidig opptjent",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Det beregnes samlet fradrag på grunnlag av summen av de pensjonsgivende inntekter.\nFradraget fordeles på de enkelte pensjonsordninger i forhold til bruttopensjonene."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-2-kapittel-2",
+     "navn": "kap2",
+     "overskrift": "2. Tjenestepensjonene er delvis samtidig opptjent",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Pensjonene opptjent i hver av de forskjellige perioder med og uten samtidig opptjening, oppfattes som opptjent i hver sin pensjonsordning. Fradrag beregnes deretter med anvendelse av reglene i punkt I og punkt II, nr. 1.\nVed anvendelse av punkt b, siste punktum, i Sosialdepartementets regler av 9. april 1973, skal man se bort fra den pensjon som på grunn av samtidig opptjening i flere ordninger overstiger det pensjonsnivå som er omtalt i ovennevnte punktum."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kapIII",
+   "overskrift": "III Særregler om pensjonstrygden for sjømenn",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Reglene under I og II kommer ikke til anvendelse når den annen tjenestepensjonsordning er Pensjonstrygden for sjømenn fordi denne ikke gjør fradrag for tilleggspensjon.\nVed beregning av fradrag for tilleggspensjon skal annen tjenestepensjonsordning se bort fra pensjon som ytes fra Pensjonstrygden for sjømenn."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kapIV",
+   "overskrift": "IV Ikrafttredelse",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Forskriften trer i kraft straks og gis virkning fra 1. januar 1973."
+    }
+   ]
+  }
+ ]
+}

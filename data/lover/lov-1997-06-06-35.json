@@ -1,0 +1,128 @@
+{
+ "skjema": "1.0",
+ "type": "lov",
+ "datokode": "LOV-1997-06-06-35",
+ "dokumentid": "NL/lov/1997-06-06-35",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "ikraft": "1997-11-01",
+ "siste_endring_ikraft": "2021-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "lov/2019-06-21-32",
+   "tekst": "lov/2019-06-21-32 fra 2021-01-01"
+  }
+ ],
+ "rettsomrade": [
+  "Forvaltnings- og kommunalrett > Offentlige reguleringer",
+  "Forvaltnings- og kommunalrett > Statistikk. Registrering"
+ ],
+ "siste_rettelse": "2021-09-27 (faglige fotnoter fjernet)",
+ "korttittel": "Oppgaveregisterloven – oppgregl",
+ "tittel": "Lov om Oppgaveregisteret",
+ "refid": "lov/1997-06-06-35",
+ "eli": "/eli/lov/1997/06/06/35",
+ "url": "https://lovdata.no/dokument/NL/lov/1997-06-06-35",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Formål",
+   "ledd": [
+    "Oppgaveregisteret skal sørge for effektiv samordning og utnyttelse av oppgaveplikter som offentlige organer pålegger næringsdrivende. Registeret skal til enhver tid inneholde en oppdatert oversikt over alle slike oppgaveplikter og bidra med informasjon om disse og den samordning som finner sted."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Organisasjon",
+   "ledd": [
+    "Kongen har ansvar for etablering, organisering og drift av Oppgaveregisteret. Oppgaveregisteret ledes av en registerfører som utpekes av Kongen.",
+    "Departementet kan gi nærmere regler om registerets organisasjon, lokalisering og administrasjon, føring av registeret, samt betaling for registerets tjenester."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Informasjonsinnhenting unntatt fra lovens virkeområde",
+   "ledd": [
+    "Kongen kan helt eller delvis unnta offentlige organers informasjonsinnhenting fra bestemmelsene i denne lov."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Innsendelsesplikt",
+   "ledd": [
+    "Før nye oppgaveplikter settes i kraft, eller eksisterende oppgaveplikter endres, plikter ethvert offentlig organ å sende melding til Oppgaveregisteret.",
+    "Oppgaveplikten kan ikke iverksettes før den er registrert i Oppgaveregisteret.",
+    "Kongen kan gi nærmere regler om hvilke opplysninger som skal følge med meldingen etter første ledd og om prosedyrene for behandlingen av disse, herunder bestemmelser om unntak fra iverksettelsesforbudet i andre ledd, samt frister for Oppgaveregisterets behandling av meldingen."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Samordningsplikt",
+   "ledd": [
+    "Offentlige organer plikter der det er praktisk mulig å samordne oppgaveplikter når oppgavepliktene egner seg for samordning.",
+    "En oppgaveplikt egner seg for samordning når denne inneholder samme opplysning som andre oppgaveplikter og de offentlige organer hver for seg har hjemmel til å innhente disse opplysningene fra de næringsdrivende.",
+    "Samordning kan blant annet skje ved at opplysninger overføres fra et offentlig organ til et annet, eller ved at to eller flere offentlige organer går sammen om felles informasjonsinnhenting eller felles tidspunkt for innrapportering.",
+    "Ved samordning av oppgaveplikter som skjer uten bistand av Oppgaveregisteret, plikter offentlige organ straks å melde fra til Oppgaveregisteret om slik samordning. Statistisk sentralbyrås virksomhet er ikke omfattet av denne plikten.",
+    "Kongen kan gi nærmere regler om hvordan samordning skal skje og gjøre unntak fra samordningsplikten."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "Unntak fra lovbestemt taushetsplikt",
+   "ledd": [
+    "Når det er fattet endelig beslutning om samordning i henhold til § 5 første, annet og tredje ledd, kan slik samordning finne sted uten hinder av lovbestemt taushetsplikt.",
+    "Unntaket i første ledd omfatter ikke statistikkloven § 8."
+   ],
+   "endringer": [
+    "Endret ved lov 21 juni 2019 nr. 32 (ikr. 1 jan 2021 iflg. res. 11 des 2020 nr. 2698)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 7",
+   "tittel": "Retting av feil",
+   "ledd": [
+    "Dersom opplysninger i et offentlig organs register er uriktig ført, eller det på annen måte er gjort feil i forbindelse med registreringen, skal feilen rettes av vedkommende organ uten ugrunnet opphold.",
+    "Gjelder feilen en opplysning som er samordnet, skal øvrige registre som er omfattet av samordningen, uten ugrunnet opphold varsles om feilen av det offentlige organet som oppdager feilen."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-8",
+   "nummer": "§ 8",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Denne lov trer i kraft fra den tid Kongen bestemmer.[1]"
+   ],
+   "fotnoter": [
+    {
+     "nr": "1",
+     "tekst": "Fra 1 nov 1997 iflg. res. 10 okt 1997 nr. 1088."
+    }
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-9",
+   "nummer": "§ 9",
+   "tittel": "Endringer i annen lovgivning",
+   "ledd": [
+    "Fra den tid loven trer i kraft gjøres følgende endringer i andre lover: – – –"
+   ]
+  }
+ ]
+}

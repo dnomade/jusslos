@@ -1,0 +1,53 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-1999-04-23-426",
+ "dokumentid": "DEL/forskrift/1999-04-23-426",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Adm. avd"
+ ],
+ "kunngjort_i": "I 1999 1069",
+ "ikraft": "1999-04-23",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1999-04-23-20",
+   "tekst": "lov/1999-04-23-20"
+  }
+ ],
+ "korttittel": "Delegering etter lov 1999:20, (endr. i emegll.)",
+ "tittel": "Delegering av myndighet til Finans- og tolldepartementet etter lov av 23. april 1999 nr. 20 om endringer i eiendomsmeglingsloven m.v.",
+ "annet": "Fastsatt ved kgl.res. 23. april 1999 med hjemmel i lov av 23. april 1999 nr. 20 om endringer i eiendomsmeglingsloven m.v. Fremmet av Finans- og tolldepartementet.",
+ "refid": "forskrift/1999-04-23-426",
+ "eli": "/eli/forskrift/1999/04/23/426",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/1999-04-23-426",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Kongens myndighet etter lov av 23. april 1999 nr. 20 om endringer i eiendomsmeglingsloven m.v. romertall X første ledd delegeres til Finans- og tolldepartementet."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Med departementet menes Finans- og tolldepartementet i følgende bestemmelser:\n- Lov 16. juni 1989 nr. 53 om eiendomsmegling § 2-3 nytt tredje ledd\n- Lovvedtaket romertall X annet ledd."
+    }
+   ]
+  }
+ ]
+}

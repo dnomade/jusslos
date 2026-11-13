@@ -1,0 +1,53 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-1999-06-18-985",
+ "dokumentid": "DEL/forskrift/1999-06-18-985",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Finansmarkedsavd."
+ ],
+ "kunngjort_i": "Avd I 1999 2210",
+ "ikraft": "1999-06-18",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1999-06-18-41",
+   "tekst": "lov/1999-06-18-41"
+  }
+ ],
+ "korttittel": "Ikrafttr. av lov 1999:41 (endr. i rskl.)",
+ "tittel": "Ikrafttredelse av lov av 18. juni 1999 nr. 41 om endringer i regnskapsloven m.v. Delegering av myndighet.",
+ "annet": "Fastsatt ved kgl.res. 18. juni 1999 med hjemmel i lov av 18. juni 1999 nr. 41 om endringer i regnskapsloven m.v. romertall V. Fremmet av Finans- og tolldepartementet.",
+ "refid": "forskrift/1999-06-18-985",
+ "eli": "/eli/forskrift/1999/06/18/985",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/1999-06-18-985",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Lov av 18. juni 1999 nr. 41 om endringer i regnskapsloven m.v. romertall I, II og III trer i kraft straks.\nKongens myndighet til å sette i kraft lovvedtakets øvrige bestemmelser delegeres til Finans- og tolldepartementet."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Kongens myndighet til å gi overgangsbestemmelser etter lovvedtaket romertall V annet ledd delegeres til Finans- og tolldepartementet."
+    }
+   ]
+  }
+ ]
+}

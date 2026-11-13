@@ -1,0 +1,358 @@
+{
+ "skjema": "1.0",
+ "type": "lov",
+ "datokode": "LOV-2004-12-17-101",
+ "dokumentid": "NL/lov/2004-12-17-101",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "ikraft": "2005-01-01",
+ "siste_endring_ikraft": "2023-09-15",
+ "sist_endret_ved": [
+  {
+   "ref": "lov/2021-04-23-25",
+   "tekst": "lov/2021-04-23-25 fra 2023-09-15"
+  }
+ ],
+ "rettsomrade": [
+  "EU/EØS-rett > Handelsforenklinger",
+  "EU/EØS-rett > Tjenester og etablering",
+  "Næringsrett > Inn- og utførsel"
+ ],
+ "kunngjort": "2004-12-17",
+ "siste_rettelse": "2025-01-09 (oppdatert EØS-henvisninger)",
+ "eos_henvisning": "EØS-avtalen vedlegg II kap. XIX\nnr. 1 (direktiv (EU) 2015/1535),\nnr. 2 (forordning (EU) nr. 1025/2012),\nnr. 3h (direktiv 2001/95/EF),\nEØS-avtalen vedlegg IX\nnr. 31ba (direktiv 2014/65/EU),\nEØS-avtalen vedlegg X\nnr. 1 (direktiv 2006/123/EF).\nsamt den reviderte EFTA-konvensjonen 21. juni 2001 vedlegg H.",
+ "korttittel": "EØS-høringsloven",
+ "tittel": "Lov om europeisk meldeplikt for tekniske regler m.m. (EØS-høringsloven)",
+ "annet": "Lovens tittel endret ved lov 15 aug 2014 nr. 60 (ikr. 18 aug 2014 iflg. res. 15 aug 2014 nr. 1078).",
+ "refid": "lov/2004-12-17-101",
+ "eli": "/eli/lov/2004/12/17/101",
+ "url": "https://lovdata.no/dokument/NL/lov/2004-12-17-101",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "Kapitel I. Alminnelige bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Formål",
+     "ledd": [
+      "Loven skal motvirke ulovlige handelshindringer og bidra til fri bevegelighet i EØS' indre marked for varer og informasjonssamfunnstjenester, og etableringer av slike tjenester, gjennom elektronisk administrativt samarbeid og et system for europeisk meldeplikt (EØS-høring) for forslag til tekniske regler."
+     ],
+     "endringer": [
+      "Endret ved lover 15 aug 2014 nr. 60 (ikr. 18 aug 2014 iflg. res. 15 aug 2014 nr. 1078), 18 des 2015 nr. 132 (ikr. 1 jan 2016 iflg. res. 18 des 2015 nr. 1621)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Saklig og stedlig virkeområde",
+     "ledd": [
+      "Loven gjelder for elektronisk administrativt samarbeid i EØS og statlige forvaltningsorganers utarbeidelse og vedtakelse av tekniske regler. Loven gjelder likevel ikke for tekniske regler som\na. gjennomfører bindende bestemmelser i EØS-rettsakter, herunder rettsakter på området elektronisk kommunikasjon,\nb. utelukkende bygger på beskyttelsesklausuler i bindende EØS-rettsakter,\nc. utelukkende gjennomfører en dom avsagt av EFTA-domstolen eller EF-domstolen,\nd. utelukkende endrer en teknisk regel i samsvar med en anmodning fra EFTAs overvåkningsorgan,\ne. utelukkende oppfyller forpliktelser etter internasjonale avtaler som fører til felles regler i EØS,\nf. utelukkende gjelder produkter innen landbruks- og fiskerisektoren, så langt disse sektorene ikke er omfattet av EØS-avtalen,\ng. er meldt til EFTAs overvåkingsorgan gjennom meldesystemet for forbrukerprodukter som utgjør en alvorlig risiko (RAPEX), jf. direktiv 2001/95/EF artikkel 12 nr. 1.",
+      "Bortsett fra § 13 gjelder loven heller ikke tekniske regler om investeringstjenester i forbindelse med verdipapirer, som etter sitt innhold er identiske med direktiv 2004/39/EF, eller om markeder eller organer som utfører oppgaver i forbindelse med oppgjør for slike markeder.",
+      "Loven gjelder også for europeisk standardisering.",
+      "Departementet kan ved forskrift gjøre ytterligere unntak fra lovens saklige virkeområde, så langt det er forenlig med EØS-avtalen.",
+      "Kongen kan i forskrift bestemme at loven skal gjelde for Svalbard og Jan Mayen, og kan fastsette særlige regler under hensyn til de stedlige forhold."
+     ],
+     "endringer": [
+      "Endret ved lover 15 aug 2014 nr. 60 (ikr. 18 aug 2014 iflg. res. 15 aug 2014 nr. 1078), 18 des 2015 nr. 132 (ikr. 1 jan 2016 iflg. res. 18 des 2015 nr. 1621), 23 april 2021 nr. 25 (i kraft 15 sep 2023 iflg. res. 15 sep 2023 nr. 1422)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "1. Med tekniske regler menes i denne lov:\na. tekniske spesifikasjoner eller andre krav, herunder instrukser, som rettslig eller faktisk må følges for å kunne bringe i omsetning eller bruke et produkt i hele eller en større del av Norge,\nb. krav til informasjonssamfunnstjenester, herunder instrukser, som rettslig eller faktisk må følges for å kunne yte, omsette, etablere eller bruke slike tjenester i hele eller en større del av Norge,\nc. regler som forbyr produksjon, import, omsetning eller bruk av et produkt,\nd. regler som forbyr ytelse, omsetning, etablering eller bruk av en informasjonssamfunnstjeneste.\nSom tekniske regler regnes også vilkår i avtaler med det offentlige om overholdelse av tekniske spesifikasjoner eller andre krav, med unntak av anbudsgrunnlag ved offentlige innkjøp, og regler om økonomiske tiltak som påvirker forbruket av produkter eller informasjonssamfunnstjenester ved å motivere til å følge slike krav.\n2. Med tekniske spesifikasjoner menes krav til et produkts egenskaper, for eksempel med hensyn til kvalitet, yteevne, sikkerhet eller dimensjoner, samt krav til produktet som gjelder betegnelse, terminologi, symboler, testing og testingsmetoder, pakking, merking og etikettering og fremgangsmåter for samsvarsvurdering. Som tekniske spesifikasjoner regnes også krav til produksjonsmetoder for:\na. produkter beregnet på konsum, fôrvarer samt legemidler som definert i legemiddelloven § 2, og\nb. andre produkter når kravene påvirker produktenes egenskaper.\n3. Med andre krav menes krav som ikke er tekniske spesifikasjoner, og som påvirker produktets levetid etter at det er brakt på markedet, for eksempel krav til bruk, resirkulering eller gjenbruk, dersom slike krav i betydelig grad kan påvirke produktets sammensetning, egenskaper eller omsetning.\n4. Med produkt menes industriprodukter og landbruksprodukter som omfattes av EØS-avtalen.\n5. Med informasjonssamfunnstjenester menes enhver tjeneste som vanligvis ytes mot vederlag og som formidles elektronisk over avstand og etter individuell anmodning fra en tjenestemottaker, jf. den veiledende listen i direktiv (EU) 2015/1535 vedlegg I.\n6. Med regler om informasjonssamfunnstjenester menes regler som helt eller delvis har som direkte formål å regulere tilgangen til informasjonssamfunnstjenester og ytelse av slike tjenester, særlig bestemmelser som gjelder tjenesteyteren, mottakeren av tjenester og tjenestene som sådanne."
+     ],
+     "endringer": [
+      "Endret ved lov 23 april 2021 nr. 25 (i kraft 15 sep 2023 iflg. res. 15 sep 2023 nr. 1422)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "Kapittel II. Meldeplikt",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 4",
+     "tittel": "Meldeplikt for tekniske regler",
+     "ledd": [
+      "Forslag til tekniske regler skal meldes til EFTAs overvåkingsorgan gjennom departementet.",
+      "Det skal gis ny melding etter første ledd dersom det gjøres endringer som i vesentlig grad\na. endrer virkeområdet,\nb. forkorter tidsplanen for gjennomføring, eller\nc. innfører nye eller strengere krav."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 5",
+     "tittel": "Krav til meldingens innhold mv.",
+     "ledd": [
+      "Meldingen skal inneholde forslaget til tekniske regler på norsk og engelsk. Dersom det ikke fremgår av regelforslaget, skal meldingen begrunne hvorfor reglene anses som nødvendige.",
+      "Så fremt det ikke er åpenbart unødvendig for forståelsen av de tekniske reglene, skal også andre relevante deler av regelverket tas med i meldingen. Dersom det gjøres endringer i tekniske regler som tidligere har vært meldt til EFTAs overvåkingsorgan, er det tilstrekkelig at meldingen inneholder endringene.",
+      "Når forslaget utelukkende bygger på en internasjonal eller europeisk standard, er det tilstrekkelig at meldingen viser til den aktuelle standarden.",
+      "Dersom forslaget særlig tar sikte på å begrense omsetning eller anvendelse av et kjemisk stoff, preparat eller produkt for å beskytte folkehelsen, miljøet eller forbrukerne, skal meldingen også gi opplysninger som nevnt i direktiv (EU) 2015/1535 artikkel 5 nr. 1 fjerde ledd."
+     ],
+     "endringer": [
+      "Endret ved lov 23 april 2021 nr. 25 (i kraft 15 sep 2023 iflg. res. 15 sep 2023 nr. 1422)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kapIII",
+   "overskrift": "Kapittel III. Stillstandsplikt",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 6",
+     "tittel": "Stillstandsplikt",
+     "ledd": [
+      "Forslag til tekniske regler som skal meldes etter § 4, kan ikke vedtas før tre måneder etter det tidspunkt EFTAs overvåkingsorgan mottar melding etter kapittel II, såfremt ikke annet følger av tredje ledd i paragrafen her eller §§ 7 og 8.",
+      "Dersom en EØS-stat, Sveits, EFTAs overvåkingsorgan eller Europakommisjonen gir kommentarer til et forslag til teknisk regel, skal det så langt det er mulig tas hensyn til disse.",
+      "Dersom departementet innen tre måneder regnet fra det tidspunkt EFTAs overvåkingsorgan mottar meldingen, mottar en utførlig uttalelse fra en EØS EFTA-stat, Sveits eller EFTAs overvåkingsorgan om at det planlagte tiltaket kan skape hindringer for den frie bevegeligheten av varer eller informasjonssamfunnstjenester, eller for etablering av slike tjenester, skal vedtakelsen utsettes med ytterligere\na. en måned for forslag til regler om informasjonssamfunnstjenester og for forslag til vilkår i avtaler som nevnt i § 3 nr. 1 annet ledd, og\nb. tre måneder for andre forslag til tekniske regler."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 7",
+     "tittel": "Unntak fra stillstandsplikten ved behov for umiddelbar vedtakelse",
+     "ledd": [
+      "Stillstandsplikten etter § 6 får ikke anvendelse når tekniske regler må utarbeides på kort tid og vedtas umiddelbart på grunn av en alvorlig og uforutsigbar situasjon knyttet til\na. vern av folkehelsen, dyrs helse eller plantelivet,\nb. offentlig sikkerhet, eller\nc. offentlig orden når det gjelder regler om informasjonssamfunnstjenester, herunder særlig regler til vern av mindreårige.",
+      "Stillstandsplikten etter § 6 får heller ikke anvendelse når regler om finansielle tjenester må vedtas og settes i kraft umiddelbart på grunn av en alvorlig situasjon knyttet til det økonomiske systems sikkerhet og integritet, herunder særlig regler til vern av innskytere, investorer og forsikrede.",
+      "Meldingen etter kapittel II skal angi grunnen til at umiddelbar vedtakelse anses nødvendig."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 8",
+     "tittel": "Andre unntak fra stillstandsplikten",
+     "ledd": [
+      "Stillstandsplikten etter § 6 kommer ikke til anvendelse på\na. tekniske regler som forbyr produksjon uten å hindre den frie bevegeligheten av varer, og\nb. tekniske regler om økonomiske tiltak som nevnt i § 3 nr. 1 annet ledd."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kapIV",
+   "overskrift": "Kapittel IV. Rettsvirkninger ved brudd på loven",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 9",
+     "tittel": "Uanvendelighet",
+     "ledd": [
+      "Tekniske regler som er vedtatt uten behandling i samsvar med kapittel II og III, kan ikke anvendes eller påberopes overfor den enkelte før de er behandlet i samsvar med § 10, så langt anvendelse eller påberopelse vil kunne hindre eller vanskeliggjøre\na. produksjon, import, omsetning eller bruk av et produkt, eller\nb. ytelse, omsetning, etablering eller bruk av informasjonssamfunnstjenester."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 10",
+     "tittel": "Melding og stadfestelse etter vedtakelse",
+     "ledd": [
+      "Tekniske regler som er vedtatt uten behandling i samsvar med kapittel II og III, skal umiddelbart meldes til EFTAs overvåkingsorgan etter §§ 4 og 5 som forslag til tekniske regler.",
+      "Dersom de vedtatte tekniske reglene ikke endres etter at de er behandlet i samsvar med kapittel II og III, skal reglene stadfestes. Tekniske regler som er vedtatt ved lov, stadfestes av Kongen. Tekniske regler som er vedtatt ved forskrift, stadfestes av det organ som har vedtatt forskriften."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 11",
+     "tittel": "Kunngjøring i Norsk Lovtidend",
+     "ledd": [
+      "Samtidig med at melding etter § 10 første ledd sendes til EFTAs overvåkningsorgan, skal opplysning om meldingen sendes til kunngjøring i Norsk Lovtidend.",
+      "Stadfestelse etter § 10 annet ledd skal kunngjøres i Norsk Lovtidend.",
+      "Ved kunngjøring i henhold til denne paragrafen gjelder kravene i § 12."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kapV",
+   "overskrift": "Kapittel V. Forskjellige bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 12",
+     "tittel": "Henvisning til denne loven",
+     "ledd": [
+      "Tekniske regler som kunngjøres, skal inneholde en henvisning til direktiv (EU) 2015/1535, og denne loven."
+     ],
+     "endringer": [
+      "Endret ved lov 23 april 2021 nr. 25 (i kraft 15 sep 2023 iflg. res. 15 sep 2023 nr. 1422)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 13",
+     "tittel": "Informasjon til EFTAs overvåkingsorgan",
+     "ledd": [
+      "Tekniske regler som har vært meldt til EFTAs overvåkingsorgan etter loven her og har trådt i kraft, skal sendes til EFTAs overvåkingsorgan gjennom departementet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 13 a",
+     "tittel": "Elektronisk administrativt samarbeid i EØS",
+     "ledd": [
+      "Departementet kan gi forskrifter om elektronisk system for elektronisk administrativt samarbeid i EØS, herunder bestemmelser om virkeområdet for og effektiv bruk av systemet og om personvern."
+     ],
+     "endringer": [
+      "Tilføyd ved lov 18 des 2015 nr. 132 (ikr. 1 jan 2016 iflg. res. 18 des 2015 nr. 1621)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-4",
+     "nummer": "§ 14",
+     "tittel": "Meldeplikt m.m. for standarder",
+     "ledd": [
+      "Departementet kan ved forskrift gi regler om meldeplikt m.m. ved nasjonal utarbeidelse av standarder."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-5",
+     "nummer": "§ 15",
+     "tittel": "Forskrifter om utforming og kunngjøring av meldinger m.m.",
+     "ledd": [
+      "Departementet kan ved forskrift gi nærmere regler om utforming og kunngjøring av meldinger og om utførlige uttalelser eller kommentarer til andre staters forslag til tekniske regler."
+     ],
+     "endringer": [
+      "Endret ved lov 15 aug 2014 nr. 60 (ikr. 18 aug 2014 iflg. res. 15 aug 2014 nr. 1078)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-6",
+     "nummer": "§ 15 a",
+     "tittel": "Forskrifter om europeisk standardisering",
+     "ledd": [
+      "Departementet kan ved forskrift gi nærmere regler om europeisk standardisering."
+     ],
+     "endringer": [
+      "Tilføyd ved lov 15 aug 2014 nr. 60 (ikr. 18 aug 2014 iflg. res. 15 aug 2014 nr. 1078)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kapVI",
+   "overskrift": "Kapittel VI. Meldeplikt for krav til tjenestevirksomhet",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Kapitlet tilføyd ved lov 19 juni 2009 nr. 103 (ikr. 28 des 2009 iflg. res. 19 juni 2009 nr. 672)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 16",
+     "tittel": "Virkeområde for kapittel VI",
+     "ledd": [
+      "For §§ 17 og 18 skal tjenesteloven kapittel 1 gjelde."
+     ],
+     "endringer": [
+      "Tilføyd ved lov 19 juni 2009 nr. 103 (ikr. 28 des 2009 iflg. res. 19 juni 2009 nr. 672)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 17",
+     "tittel": "Meldeplikt for visse krav til tjenestevirksomhet i riket",
+     "ledd": [
+      "Forslag til følgende krav til å starte og utøve tjenestevirksomhet i riket skal meldes til EFTAs overvåkingsorgan gjennom departementet:\na. kvantitative eller geografiske begrensninger,\nb. plikt for tjenesteyter til å ha en bestemt juridisk form,\nc. krav knyttet til eierskap i et foretak,\nd. krav om at en tjeneste bare kan ytes av tjenesteytere innenfor et bestemt yrke, unntatt krav som gjelder lovregulerte yrker som reguleres av EØS-avtalen vedlegg VII punkt 1 (direktiv 2005/36/EF) om godkjenning av yrkeskvalifikasjoner.\ne. krav om minste antall ansatte,\nf. krav om minstepriser eller høyeste priser for en tjeneste, og\ng. krav om å yte andre nærmere angitte tjenester sammen med hovedytelsen.",
+      "Meldingen skal inneholde forslag til krav på norsk og engelsk og skal vise at kravet\na. verken direkte eller indirekte forskjellsbehandler på grunnlag av statsborgerskap eller etableringsstat,\nb. er begrunnet ut fra tvingende allmenne hensyn, og\nc. er egnet og nødvendig for å oppnå formålet med kravet."
+     ],
+     "endringer": [
+      "Tilføyd ved lov 19 juni 2009 nr. 103 (ikr. 28 des 2009 iflg. res. 19 juni 2009 nr. 672)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-3",
+     "nummer": "§ 18",
+     "tittel": "Meldeplikt for krav til tjenesteytere fra annen EØS-stat",
+     "ledd": [
+      "Forslag til krav som kan gjøres gjeldende overfor en tjenesteyter fra en annen EØS-stat i henhold til tjenesteloven §§ 16 og 17, skal meldes til EFTAs overvåkingsorgan gjennom departementet.",
+      "Meldingen skal inneholde forslag til krav på norsk og engelsk og skal vise at kravet\na. verken direkte eller indirekte forskjellsbehandler på grunnlag av statsborgerskap eller etableringsstat,\nb. er begrunnet ut fra hensynet til offentlig orden og sikkerhet, folkehelsen eller miljøvern, og\nc. er egnet og nødvendig for å oppnå formålet med kravet."
+     ],
+     "endringer": [
+      "Tilføyd ved lov 19 juni 2009 nr. 103 (ikr. 28 des 2009 iflg. res. 19 juni 2009 nr. 672)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kapVII",
+   "overskrift": "Kapittel VII. Sluttbestemmelser",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Endret ved lov 19 juni 2009 nr. 103 (ikr. 28 des 2009 iflg. res. 19 juni 2009 nr. 672, tidligere kapittel VI)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 19",
+     "tittel": "Ikrafttredelse og overgangsbestemmelse",
+     "ledd": [
+      "Loven gjelder fra den tid Kongen bestemmer.[1]",
+      "Loven gjelder ikke for tekniske regler vedtatt før lovens ikrafttredelse."
+     ],
+     "endringer": [
+      "Endret ved lov 19 juni 2009 nr. 103 (ikr. 28 des 2009 iflg. res. 19 juni 2009 nr. 672, tidligere § 16)."
+     ],
+     "fotnoter": [
+      {
+       "nr": "1",
+       "tekst": "Fra 1 jan 2005 iflg. res. 17 des 2004 nr. 1675."
+      }
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-2",
+     "nummer": "§ 20",
+     "tittel": "Andre lovendringer",
+     "ledd": [
+      "Fra den tid loven trer i kraft gjøres følgende endring i lov 10. februar 1967 om behandlingsmåten i forvaltningssaker § 38 første ledd bokstav a: – – –"
+     ],
+     "endringer": [
+      "Endret ved lov 19 juni 2009 nr. 103 (ikr. 28 des 2009 iflg. res. 19 juni 2009 nr. 672, tidligere § 17)."
+     ]
+    }
+   ]
+  }
+ ]
+}

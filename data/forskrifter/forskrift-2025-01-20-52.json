@@ -1,0 +1,651 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2025-01-20-52",
+ "dokumentid": "SF/forskrift/2025-01-20-52",
+ "departement": [
+  "Kommunal- og distriktsdepartementet"
+ ],
+ "etat": [
+  "Planavdelingen"
+ ],
+ "ikraft": "2025-07-01",
+ "siste_endring_ikraft": "2026-01-22",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2026-01-22-67",
+   "tekst": "forskrift/2026-01-22-67"
+  }
+ ],
+ "endrer": "forskrift/2009-06-26-861",
+ "hjemmel": [
+  {
+   "ref": "lov/2008-06-27-71/§2-1",
+   "tekst": "lov/2008-06-27-71/§2-1"
+  },
+  {
+   "ref": "lov/2008-06-27-71/§2-2",
+   "tekst": "lov/2008-06-27-71/§2-2"
+  },
+  {
+   "ref": "lov/2008-06-27-71/§11-1",
+   "tekst": "lov/2008-06-27-71/§11-1"
+  },
+  {
+   "ref": "lov/2008-06-27-71/§12-1",
+   "tekst": "lov/2008-06-27-71/§12-1"
+  },
+  {
+   "ref": "lov/2008-06-27-71/§12-5",
+   "tekst": "lov/2008-06-27-71/§12-5"
+  },
+  {
+   "ref": "lov/2008-06-27-71/§12a-12",
+   "tekst": "lov/2008-06-27-71/§12a-12"
+  },
+  {
+   "ref": "lov/2008-06-27-71/§12a-13",
+   "tekst": "lov/2008-06-27-71/§12a-13"
+  },
+  {
+   "ref": "forskrift/2017-12-08-1949",
+   "tekst": "forskrift/2017-12-08-1949"
+  }
+ ],
+ "kunngjort": "2025-01-22 14:45",
+ "korttittel": "Kart- og planforskriften",
+ "tittel": "Forskrift om kart, stedfestet informasjon, arealformål og kommunalt planregister (kart- og planforskriften)",
+ "annet": "Hjemmel: Fastsatt av Kommunal- og distriktsdepartementet 20. januar 2025 med hjemmel i lov 27. juni 2008 nr. 71 om planlegging og byggesaksbehandling (plan- og bygningsloven) §§ 2-1, 2-2, 11-1, 12-1, 12-5, § 12A-12 og § 12A-13, og delegeringsvedtak 8. desember 2017 nr. 1949.\nEndret ved forskrifter 23 juni 2025 nr. 1258 (i kraft 1 juli 2025), 22 jan 2026 nr. 67.",
+ "refid": "forskrift/2025-01-20-52",
+ "eli": "/eli/forskrift/2025/01/20/52",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2025-01-20-52",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Generelle bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Formål",
+     "ledd": [
+      "Forskriften skal legge til rette for framstilling av entydige og forståelige arealplaner, og for sikker forvaltning av det offentlige kartgrunnlaget og de kommunale planregistrene. Informasjon fra det offentlige kartgrunnlaget og de kommunale planregistrene skal kunne sammenstilles og brukes på tvers av administrative grenser og organisatoriske skiller. De kommunale planregistrene skal gi en samlet oversikt over tillatt og planlagt bruk av arealene etter plan- og bygningsloven."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "I denne forskriften menes med\na. plandata: arealformål, bestemmelser, hensynssoner og arealsoner, samt planens geografiske avgrensning (planområdet)\nb. basiskart: geodata i plankart som ikke er gjenstand for vedtak\nc. nasjonal arealplan-ID: et landsdekkende entydig og unikt kjennetegn (identifikasjon) på en arealplan."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Datasikkerhet",
+     "ledd": [
+      "Den som har ansvaret for driften av kommunens planregister og data som inngår i det offentlige kartgrunnlaget, skal påse at disse blir håndtert og oppbevart på en sikkerhetsmessig forsvarlig måte, herunder at det jevnlig tas sikkerhetskopier av databaser."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 4",
+     "tittel": "Tilgang til informasjon i planregisteret og det offentlige kartgrunnlaget",
+     "ledd": [
+      "Alle har rett til gratis å gjøre seg kjent med innholdet i kommunens planregister og det offentlige kartgrunnlaget. Kommunen skal sørge for at informasjon fra planregisteret er elektronisk tilgjengelig i form av søke-, visnings- og nedlastingstjenester på Internett.",
+      "Kommunen skal stille nødvendig utsnitt av det offentlige kartgrunnlaget til rådighet for alle som fremmer eller uttaler seg om en plan- eller byggesak.",
+      "Kommunen kan ta betalt for utlevering eller nedlasting av data fra planregisteret og det offentlige kartgrunnlaget i samsvar med § 4 i forskrift 17. oktober 2008 nr. 1119 til offentleglova (offentlegforskrifta). Det kan ikke kreves betaling for planer eller data som skal benyttes i forbindelse med uttalelse til planer, til bruk ved innsigelse eller klagebehandling.",
+      "Kommunen skal sørge for at data fra planregisteret er tilgjengelig via den nasjonale geografiske infrastrukturen etter de reglene som gjelder for slik deling av data."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-5",
+     "nummer": "§ 5",
+     "tittel": "Veiledning og kontroll",
+     "ledd": [
+      "Statens kartverk skal veilede kommunene om forvaltningen av planregisteret, og bistå kommunene med å kontrollere den tekniske kvaliteten til det offentlige kartgrunnlaget og plandataene."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Det offentlige kartgrunnlaget, krav om kartlegging og tekniske krav til data",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 6",
+     "tittel": "Det offentlige kartgrunnlaget",
+     "ledd": [
+      "Kommunen skal i samarbeid med staten og fylkeskommunen sørge for et oppdatert offentlig kartgrunnlag for kommunens areal ut til én nautisk mil utenfor grunnlinjene. Det offentlige kartgrunnlaget skal være egnet til å ivareta kommunens og fylkeskommunens oppgaver etter plan- og bygningsloven samt andre offentlige og private formål.",
+      "Det offentlige kartgrunnlaget skal følge spesifikasjoner godkjent av Statens kartverk og være stedfestet med koordinater i det nasjonale geodetiske grunnlaget i grunnriss og høyde."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 7",
+     "tittel": "Krav om kartlegging",
+     "ledd": [
+      "Kommunen kan kreve at den som fremmer planforslag, konsekvensutredning eller søknad om tiltak etter plan- og bygningsloven, skal framskaffe geodata når dette er nødvendig for å ta stilling til forslaget. Slikt krav kan bare framsettes dersom det offentlige kartgrunnlaget ikke er nøyaktig eller detaljert nok til å kunne ta stilling til forslaget. Kommunen skal så tidlig som mulig informere om at slikt krav kan bli aktuelt og årsaken til dette.",
+      "Geodataene kan innarbeides i det offentlige kartgrunnlaget. Kommunen skal stille data, som kommunen ikke selv innarbeider, til rådighet for andre relevante offentlige organer, i den grad dataene må antas å være anvendelige for bruk i det offentlige kartgrunnlaget."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 8",
+     "tittel": "Tekniske krav til data",
+     "ledd": [
+      "Den som fremmer planforslag, skal levere planen i digital form i henhold til Nasjonal produktspesifikasjon for arealplan og digitalt planregister og spesifikasjoner for data som skal inngå i det offentlige kartgrunnlaget, georeferert til det geodetiske grunnlaget og den kartprojeksjonen som er fastsatt for kommunen. Kommunen kan kreve at forslag til arealplan som skal tas opp til behandling av kommunen, tilfredsstiller alle tekniske krav med hjemmel i forskriften her. Kommunen skal så raskt som mulig etter mottakelsen av planen, gi forslagsstiller melding hvis kravene ikke er oppfylt, og summarisk oppgi avvikene.",
+      "Tilsvarende krav gjelder også for geodata som leveres i forbindelse med konsekvensutredning eller søknad om tiltak som krever konsekvensutredning, og for geodata som framskaffes etter § 7. Det samme gjelder for data som kommunen skal stille til rådighet for forslagsstiller fra det offentlige kartgrunnlaget og fra kommunens planregister."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Framstilling av arealplan",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 9",
+     "tittel": "Arealplan",
+     "ledd": [
+      "Med arealplan menes en reguleringsplan, arealdelen til kommuneplanen eller en regional plan med arealsoner. En arealplan omfatter\na. et eller flere plankart\nb. et eller flere dokumenter med bestemmelser som ikke framgår av plankartet, herunder eventuelle vedlegg eller illustrasjoner som er gjort bindende.",
+      "Arealplanen skal framstilles med plandata angitt som separate og entydige objekter kodet i samsvar med Nasjonal produktspesifikasjon for arealplan og digitalt planregister. Arealplanen skal ha navn og nasjonal arealplan-ID i samsvar med produktspesifikasjonen. Forslag til arealplan skal tildeles nasjonal arealplan-ID senest ved varsel om oppstart av planarbeidet.",
+      "Plandata skal være stedfestet med så stor nøyaktighet, sammenholdt med basiskartet, at vedtatte formålsgrenser kan legges til grunn for søknad om tillatelse til kommunen uten ytterligere undersøkelser.",
+      "En arealplan som inneholder flere vertikalnivåer, skal organiseres slik at hvert vertikalnivå kan konstrueres og framstilles som selvstendige plankart. Arealplanen kan inneholde ett eller flere av følgende vertikalnivåer:\na. under grunnen\nb. på grunnen eller vannoverflaten\nc. over grunnen\nd. på bunnen\ne. i vannsøylen.\nEtt og samme vertikalnivå kan inndeles i flere lag."
+     ],
+     "endringer": [
+      "Endret ved forskrift 23 juni 2025 nr. 1258 (i kraft 1 juli 2025)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 10",
+     "tittel": "Plankartet",
+     "ledd": [
+      "Plankartet skal konstrueres med arealformål, hensynssoner og arealsoner i form av punkt, linjer, flater eller volum, slik det framgår av vedlegg til forskriften her. Plankartet kan også angi bestemmelser til planen når det framgår av vedlegg til forskriften her. Det kan angis flere hensynssoner og flere bestemmelser for ett og samme sted. Opplysninger om hensynssoner skal omfatte opplysninger om bestemmelser og retningslinjer som ivaretar det hensynet sonen viser.",
+      "Plankartet skal vise innhold og rettslige virkninger på en klar og entydig måte i samsvar med Nasjonal produktspesifikasjon for arealplan og digitalt planregister, og med tilstrekkelig nøyaktig stedfesting tilpasset formålet med planen. Plankartet skal på en tydelig måte skille mellom plandata og basiskart. Plankartet skal ha en målestokk som er tilpasset arealplanens formål.",
+      "Plankartet skal være påført plannavn, nasjonal arealplan-ID, tegnforklaring, nordpil, målestokktall, målestokklinjal og markering av koordinatnettet. Kartet skal gi opplysninger om hvilket horisontalt geodetisk grunnlag, høydegrunnlag og hvilken kartprojeksjon som er benyttet, og dato og kilde for eiendomsdata og andre geodata som er brukt i basiskartet. Det skal opplyses hvem som er forslagstiller, hvem som har utarbeidet og eventuelt revidert plankartet og om planens behandling. Tegnforklaringen skal skille mellom symboler som er bestemmende for framtidig arealbruk, og annen informasjon. Vedtaksdato og dato for kunngjøring skal framgå av tittelfeltet til plankartet. Arealplaner som består av flere plankart, skal ha et system for å skille og identifisere de ulike utsnittene fra hverandre og vise sammenhengen mellom dem.",
+      "En arealplan som omfatter flere helt eller delvis geografisk sammenfallende vertikalnivåer, skal ha separate kartutsnitt for hvert nivå når dette er nødvendig for å sikre at planen er entydig og enkel å forstå. Kommunen kan kreve at framstillingen suppleres med nødvendig perspektiv- eller volumillustrasjon.",
+      "I arealdel til kommuneplan skal plankartet skille mellom eksisterende og nye arealformål."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 11",
+     "tittel": "Vedtatt arealplan m.m.",
+     "ledd": [
+      "Vedtatt arealplan skal være på godkjent digitalt arkivformat for dokumenter. Vedtaksmyndigheten skal ha saks- og arkivsystemer som sikrer at det arkiverte eksemplaret er identisk med vedtaket planmyndigheten har fattet.",
+      "Kopi av et vedtatt plankart skal gi identisk informasjon som originalen.",
+      "Kommunen kan ved digitalisering av vedtatte analoge planer, gjøre rene tekniske tilpasninger til nytt basiskart. Det skal ikke foretas endringer uten at planen behandles i samsvar med plan- og bygningsloven § 11-17 eller § 12-14. Informasjon om digitaliseringen skal føres inn i planregisteret og bekreftes med det vedtatte plankartet."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Kommunalt planregister",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 12",
+     "tittel": "Planregister",
+     "ledd": [
+      "Kommunen skal sørge for at opplysninger om nye vedtak føres i planregisteret straks vedtaket foreligger. Krever vedtaket kunngjøring, skal det være ført inn i registeret før kunngjøringen finner sted. Kommunen skal\na. før varsel om oppstart blir gitt, registrere opplysninger om hvor det skal fremmes forslag til ny plan eller endring av plan (planområdet), nasjonal arealplan-ID og dokumentasjon om planstatus\nb. etter at planen er vedtatt, registrere opplysninger om arealplanen med arealformål, bestemmelser, hensynssoner inkludert bestemmelser og retningslinjer som ivaretar det hensynet sonene viser, samt planens navn og nasjonal arealplan-ID, plantype, vedtaksdato, ikrafttredelsesdato, kunngjøringsdato, planstatus og identifisering av planens vertikalnivåer\nc. registrere eventuelle innsigelser eller klager til vedtak som nevnt i bokstav b, inkludert om det er vedtatt utsatt iverksetting av vedtaket, om det er vedtatt at deler av en plan skal ha rettsvirkning selv om det er fremmet innsigelse, og om det endelige vedtaket etter at klagen eller innsigelsen er avgjort\nd. registrere midlertidig forbud mot tiltak etter plan- og bygningsloven kapittel 13, inkludert vedtaksdato, saksnummer og nasjonal arealplan-ID på planer som berøres av forbudet, samt opplysninger om forbudet er opphevet, endret, forlenget eller falt bort\ne. registrere varige og midlertidige dispensasjoner etter plan- og bygningsloven § 19-2, inkludert vedtaksdato, saksnummer og nasjonal arealplan-ID til den arealplanen som det dispenseres fra, hva dispensasjonen gjelder og hvor.",
+      "Kommunen skal på tilsvarende måte føre opplysninger om statlige arealplaner vedtatt etter plan- og bygningsloven § 6-4. Statlige myndigheter skal sende opplysninger som nevnt i første ledd, straks disse er vedtatt eller vedtatt endret til vedkommende kommune.",
+      "Fylkeskommunen skal straks sende opplysninger om alle vedtatte regionale planer med arealsoner og bestemmelser, samt planens navn og nasjonal arealplan-ID, plantype, vedtaksdato, ikrafttredelsesdato, kunngjøringsdato og planstatus til kommunen, slik at planen kan føres inn i kommunens planregister.",
+      "Planregisteret skal oppfylle kravene i Nasjonal produktspesifikasjon for arealplan og digitalt planregister. Innholdet i planregisteret skal være egnet for bruk til statistikkformål, og omfatte tilstrekkelige metadata for at brukere av registeret skal kunne søke fram og bruke dataene.",
+      "Det skal være fullt samsvar mellom opplysningene i registeret og vedtakene som er fattet. Plandata og andre opplysninger om vedtak skal ikke endres uten at det framgår på hvilket grunnlag dataene er endret, hvem som har foretatt endringen og med hvilken fullmakt eller autorisasjon dette har skjedd.",
+      "Kommuner kan inngå interkommunalt samarbeid om felles planregister."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Overgangsbestemmelser og ikrafttredelse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 13",
+     "tittel": "Overgangsbestemmelser",
+     "ledd": [
+      "Kommunen kan bestemme at arealplaner vedtatt før 1. januar 2010 skal føres inn i planregisteret. Slike planer skal da registreres med nasjonal arealplan-ID og bestemmelsene i denne forskriften kommer til anvendelse på planen så langt de passer. Planområdet skal dokumenteres i form av et plankart i planregisteret.",
+      "Kommuner som ikke har digitalt planregister, kan føre planregister med planoversikt i samsvar med bestemmelsen i tidligere forskrift 26. juni 2009 nr. 861 om kart, stedfestet informasjon, arealformål og kommunalt planregister § 13 frem til et år etter denne forskriftens ikrafttredelse."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 14",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Forskriften gjelder fra 1. juli 2025.",
+      "Fra samme tidspunkt oppheves forskrift 26. juni 2009 nr. 861 om kart, stedfestet informasjon, arealformål og kommunalt planregister."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "vedleggI",
+   "overskrift": "Vedlegg I. Arealformål i reguleringsplan",
+   "innhold": [
+    {
+     "type": "seksjon",
+     "id": "kapittel-6-kapittel-1",
+     "navn": "kap1",
+     "overskrift": "1. Bebyggelse og anlegg",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Områder for bebyggelse og anlegg, jf. plan- og bygningsloven § 12-5 andre ledd nr. 1, kan angis som ett av følgende formål:\n- Bebyggelse og anlegg\n- Boligbebyggelse\n- Boligbebyggelse, frittliggende småhus\n- Boligbebyggelse, konsentrerte småhus\n- Boligbebyggelse, blokker\n- Studentboliger\n- Garasjeanlegg for bolig- eller fritidsbebyggelse\n- Fritidsbebyggelse\n- Frittliggende fritidsbebyggelse\n- Konsentrert fritidsbebyggelse\n- Fritidsbebyggelse, blokker\n- Kolonihage\n- Sentrumsformål\n- Kjøpesenter\n- Forretninger\n- Bebyggelse for offentlig eller privat tjenesteyting\n- Barnehage\n- Undervisning\n- Forsamlingslokale\n- Helse eller omsorgsinstitusjon\n- Kulturinstitusjon\n- Forsamlingslokale for tro- og livssynsutøvelse\n- Administrasjon\n- Nærmere angitt offentlig eller privat tjenesteyting\n- Fritids- og turistformål\n- Utleiehytter\n- Fornøyelsespark eller temapark\n- Campingplass\n- Leirplass\n- Råstoffutvinning\n- Steinbrudd og masseuttak\n- Massemottak\n- Næringsbebyggelse\n- Kontor\n- Hotell og overnatting\n- Bevertning\n- Industri\n- Kraftkrevende industri\n- Datasenter\n- Lager\n- Bensinstasjon eller vegserviceanlegg\n- Nærmere angitt næring\n- Idrettsanlegg\n- Skianlegg\n- Skiløypetrasé\n- Idrettsstadion\n- Nærmiljøanlegg\n- Golfbane\n- Motorsportanlegg\n- Skytebane\n- Nærmere angitt idrettsanlegg\n- Andre typer anlegg\n- Godsterminal\n- Godslager\n- Energianlegg\n- Fjernvarmeanlegg\n- Vindkraftanlegg\n- Solkraftanlegg\n- Vann- og avløpsanlegg\n- Vannforsyningsanlegg\n- Avløpsanlegg\n- Overvannsanlegg\n- Renovasjonsanlegg\n- Nærmere angitt kommunalteknisk anlegg\n- Telekommunikasjonsanlegg\n- Småbåtanlegg i sjø og vassdrag\n- Småbåtanlegg i sjø og vassdrag med tilhørende strandsone\n- Uthus, naust eller badehus\n- Nærmere angitte andre typer anlegg\n- Uteoppholdsarealer\n- Lekeplass\n- Gårdsplass\n- Parsellhage\n- Urbant landbruk\n- Nærmere angitte uteoppholdsarealer\n- Gravplass\n- Krematorium\n- Bygg og anlegg for gravplass\n- Kombinert bolig og forretning\n- Kombinert bolig, forretning og kontor\n- Kombinert bolig og tjenesteyting\n- Kombinert bolig og kontor\n- Kombinert forretning og kontor\n- Kombinert forretning, kontor og industri\n- Kombinert forretning og industri\n- Kombinert forretning, kontor og tjenesteyting\n- Kombinert forretning og tjenesteyting\n- Kombinert næring og tjenesteyting\n- Kombinert kontor og lager\n- Kombinert industri og lager\n- Kombinert kontor og industri\n- Kombinert kontor og tjenesteyting\n- Bebyggelse og anlegg kombinert i samsvar med angitte bestemmelser\n- Bebyggelse og anlegg kombinert med andre angitte hovedformål."
+      },
+      {
+       "type": "endring",
+       "tekst": "Endret ved forskrift 23 juni 2025 nr. 1258 (i kraft 1 juli 2025)."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-6-kapittel-2",
+     "navn": "kap2",
+     "overskrift": "2. Samferdselsanlegg og teknisk infrastruktur",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Områder for samferdselsanlegg og teknisk infrastruktur, jf. plan- og bygningsloven § 12-5 andre ledd nr. 2, kan angis som ett av følgende formål:\n- Samferdselsanlegg og teknisk infrastruktur\n- Veg\n- Kjøreveg\n- Fortau\n- Torg\n- Gatetun\n- Gang- og sykkelveg\n- Gangveg, gangareal eller gågate\n- Sykkelanlegg\n- Faunapassasje\n- Annen veggrunn, teknisk anlegg\n- Annen veggrunn, grøntareal\n- Bane\n- Jernbane\n- Sporveg\n- Taubane\n- Stasjons- eller terminalbygg\n- Holdeplass eller plattform\n- Leskur eller plattformtak\n- Tekniske bygninger og konstruksjoner\n- Annen banegrunn, tekniske anlegg\n- Annen banegrunn, grøntareal\n- Lufthavn\n- Lufthavn, banesystem\n- Lufthavn, bygninger\n- Landingsplass for helikopter o.a.\n- Havn\n- Kai\n- Havneterminaler\n- Havnelager\n- Molo\n- Navigasjonsinstallasjon\n- Hovednett for sykkel\n- Kollektivnett\n- Trasé for nærmere angitt kollektivtransport\n- Kollektivknutepunkt\n- Kollektivanlegg\n- Kollektivterminal\n- Kollektivholdeplass\n- Pendler- eller innfartsparkering\n- Parkering\n- Rasteplass\n- Parkeringsplasser\n- Parkeringshus eller -anlegg\n- Teknisk infrastruktur\n- Kraftledning, energinett\n- Fjernvarmenett\n- Vann- og avløpsnett\n- Vannforsyningsnett\n- Avløpsnett\n- Trasé for overvann\n- Trasé for avfallssug\n- Telekommunikasjonsnett\n- Sikringsanlegg\n- Trasé for nærmere angitt teknisk infrastruktur\n- Kombinerte tekniske infrastrukturtraseer\n- Samferdselsanlegg og teknisk infrastruktur kombinert i samsvar med angitte bestemmelser\n- Samferdselsanlegg eller teknisk infrastruktur kombinert med andre angitte hovedformål."
+      },
+      {
+       "type": "endring",
+       "tekst": "Endret ved forskrift 23 juni 2025 nr. 1258 (i kraft 1 juli 2025)."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-6-kapittel-3",
+     "navn": "kap3",
+     "overskrift": "3. Grønnstruktur",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Områder for grønnstruktur, jf. plan- og bygningsloven § 12-5 andre ledd nr. 3, kan angis som ett av følgende formål:\n- Grønnstruktur\n- Blågrønnstruktur\n- Naturområde\n- Turdrag\n- Turveg\n- Friområde\n- Badeplass eller -område\n- Park\n- Vegetasjonsskjerm\n- Vannspeil\n- Overvannstiltak\n- Infiltrasjon, fordrøyning eller avledning\n- Grønnstruktur kombinert i samsvar med angitte bestemmelser\n- Grønnstruktur kombinert med andre angitte hovedformål."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-6-kapittel-4",
+     "navn": "kap4",
+     "overskrift": "4. Forsvaret",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Områder for Forsvaret, jf. plan- og bygningsloven § 12-5 andre ledd nr. 4, kan angis som ett av følgende formål:\n- Forsvaret\n- Ulike typer militære formål\n- Skytefelt eller øvingsområde\n- Forlegning eller leir\n- Områder for Forsvaret kombinert i samsvar med angitte bestemmelser\n- Områder for Forsvaret kombinert med andre angitte hovedformål."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-6-kapittel-5",
+     "navn": "kap5",
+     "overskrift": "5. Landbruks-, natur- og friluftsformål samt reindrift, samlet eller hver for seg",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Områder for landbruks-, natur- og friluftsformål samt reindrift (LNFR), jf. plan- og bygningsloven § 12-5 andre ledd nr. 5, kan angis som ett av følgende formål:\n- LNFR-areal for nødvendige tiltak for landbruk og reindrift og gårdstilknyttet næringsvirksomhet basert på gårdens ressursgrunnlag\n- Landbruk\n- Jordbruk\n- Skogbruk\n- Seterområde\n- Gartneri\n- Naturformål\n- Friluftsformål\n- Reindrift\n- Naturvern\n- Jordvern\n- Særlige landskapshensyn\n- Vern av kulturmiljø eller kulturminne\n- LNFR-areal for spredt bolig-, fritids- eller næringsbebyggelse mv.\n- Spredt boligbebyggelse\n- Spredt fritidsbebyggelse\n- Spredt næringsbebyggelse\n- Områder for landbruks-, natur- og friluftsformål samt reindrift (LNFR) kombinert med andre angitte hovedformål."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-6-kapittel-6",
+     "navn": "kap6",
+     "overskrift": "6. Bruk og vern av sjø og vassdrag, med tilhørende strandsone",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Områder for bruk og vern av sjø og vassdrag, med tilhørende strandsone, jf. plan- og bygningsloven § 12-5 andre ledd nr. 6, kan angis som ett av følgende formål:\n- Bruk og vern av sjø og vassdrag med tilhørende strandsone\n- Ferdsel\n- Ankringsområde\n- Opplagsområde\n- Riggområde\n- Massedeponi i sjø og vassdrag\n- Farleder\n- Hoved- og biled\n- Havneområde i sjø\n- Småbåthavn\n- Bøyehavn\n- Fiske\n- Fiskeområde\n- Låssettingsplasser\n- Gytefelt eller oppvekstområde for yngel\n- Akvakultur\n- Akvakulturanlegg i sjø og vassdrag\n- Akvakulturanlegg i sjø og vassdrag med tilhørende landanlegg\n- Fangstbasert levendelagring\n- Drikkevann\n- Naturområde i sjø og vassdrag\n- Naturområde i sjø og vassdrag med tilhørende strandsone\n- Friluftsområde i sjø og vassdrag\n- Friluftsområde i sjø og vassdrag med tilhørende strandsone\n- Idrett og vannsport\n- Badeområde\n- Bruk og vern av sjø og vassdrag med tilhørende strandsone kombinert i samsvar med angitte bestemmelser\n- Bruk og vern av sjø og vassdrag med eller uten tilhørende strandsone kombinert med andre angitte hovedformål."
+      },
+      {
+       "type": "endring",
+       "tekst": "Endret ved forskrift 23 juni 2025 nr. 1258 (i kraft 1 juli 2025)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "vedleggII",
+   "overskrift": "Vedlegg II. Arealformål i kommuneplanens arealdel",
+   "innhold": [
+    {
+     "type": "seksjon",
+     "id": "kapittel-7-kapittel-1",
+     "navn": "kap1",
+     "overskrift": "1. Bebyggelse og anlegg",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Områder for bebyggelse og anlegg, jf. plan- og bygningsloven § 11-7 andre ledd nr. 1, kan angis som ett av følgende formål:\n- Bebyggelse og anlegg\n- Boligbebyggelse\n- Studentboliger\n- Fritidsbebyggelse\n- Sentrumsformål\n- Kjøpesenter\n- Forretninger\n- Bebyggelse for offentlig eller privat tjenesteyting\n- Fritids- og turistformål\n- Råstoffutvinning\n- Massemottak\n- Næringsbebyggelse\n- Idrettsanlegg\n- Andre typer anlegg\n- Vindkraftanlegg\n- Solkraftanlegg\n- Uteoppholdsarealer\n- Urbant landbruk\n- Gravplass\n- Bebyggelse og anlegg kombinert i samsvar med angitte bestemmelser."
+      },
+      {
+       "type": "endring",
+       "tekst": "Endret ved forskrift 23 juni 2025 nr. 1258 (i kraft 1 juli 2025)."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-7-kapittel-2",
+     "navn": "kap2",
+     "overskrift": "2. Samferdselsanlegg og teknisk infrastruktur",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Områder for samferdselsanlegg og teknisk infrastruktur, jf. plan- og bygningsloven § 11-7 andre ledd nr. 2, kan angis som ett av følgende formål:\n- Samferdselsanlegg og teknisk infrastruktur\n- Veg\n- Vegkryss\n- Fjernveg\n- Hovedveg\n- Samleveg\n- Adkomstveg\n- Gang- og sykkelveg\n- Sykkelveg\n- Gangveg\n- Skitrekk\n- Bane\n- Jernbane\n- Sporveg\n- Taubane\n- Lufthavn\n- Havn\n- Molo\n- Farled\n- Småbåtled\n- Hovednett for sykkel\n- Kollektivnett\n- Trasé for nærmere angitt kollektivtransport\n- Kollektivknutepunkt\n- Parkering\n- Teknisk infrastruktur\n- Kraftledning, energinett\n- Vannforsyningsnett\n- Avløpsnett\n- Trasé for overvann\n- Trasé for nærmere angitt teknisk infrastruktur\n- Samferdselsanlegg og teknisk infrastruktur kombinert i samsvar med angitte bestemmelser."
+      },
+      {
+       "type": "endring",
+       "tekst": "Endret ved forskrift 23 juni 2025 nr. 1258 (i kraft 1 juli 2025)."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-7-kapittel-3",
+     "navn": "kap3",
+     "overskrift": "3. Grønnstruktur",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Områder for grønnstruktur, jf. plan- og bygningsloven § 11-7 andre ledd nr. 3, kan angis som ett av følgende formål:\n- Grønnstruktur\n- Blågrønnstruktur\n- Naturområde\n- Turdrag\n- Friområde\n- Park\n- Overvannstiltak\n- Grønnstruktur kombinert i samsvar med angitte bestemmelser."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-7-kapittel-4",
+     "navn": "kap4",
+     "overskrift": "4. Forsvaret",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Områder for Forsvaret, jf. plan- og bygningsloven § 11-7 andre ledd nr. 4, kan angis som ett av følgende formål:\n- Forsvaret\n- Ulike typer militære formål\n- Skytefelt eller øvingsområde\n- Forlegning eller leir\n- Områder for Forsvaret kombinert i samsvar med angitte bestemmelser."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-7-kapittel-5",
+     "navn": "kap5",
+     "overskrift": "5. Landbruks-, natur- og friluftsformål samt reindrift",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Områder for landbruks-, natur- og friluftsformål samt reindrift (LNFR), jf. plan- og bygningsloven § 11-7 andre ledd nr. 5, kan angis som ett av følgende formål:\n- LNFR-areal for nødvendige tiltak for landbruk og reindrift og gårdstilknyttet næringsvirksomhet basert på gårdens ressursgrunnlag\n- LNFR-areal for spredt bolig-, fritids- eller næringsbebyggelse, mv.\n- Spredt boligbebyggelse\n- Spredt fritidsbebyggelse\n- Spredt næringsbebyggelse."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-7-kapittel-6",
+     "navn": "kap6",
+     "overskrift": "6. Bruk og vern av sjø og vassdrag, med tilhørende strandsone",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Områder for bruk og vern av sjø og vassdrag, med tilhørende strandsone, jf. plan- og bygningsloven § 11-7 andre ledd nr. 6, kan angis som ett av følgende formål:\n- Bruk og vern av sjø og vassdrag med tilhørende strandsone\n- Ferdsel\n- Ankringsområde\n- Opplagsområde\n- Riggområde\n- Farleder\n- Hoved- og biled\n- Havneområde i sjø\n- Småbåthavn\n- Fiske\n- Akvakultur\n- Drikkevann\n- Naturområde i sjø og vassdrag\n- Naturområde i sjø og vassdrag med tilhørende strandsone\n- Friluftsområde i sjø og vassdrag\n- Friluftsområde i sjø og vassdrag med tilhørende strandsone\n- Bruk og vern av sjø og vassdrag med tilhørende strandsone kombinert i samsvar med angitte bestemmelser."
+      },
+      {
+       "type": "endring",
+       "tekst": "Endret ved forskrift 23 juni 2025 nr. 1258 (i kraft 1 juli 2025)."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-8",
+   "navn": "vedleggIII",
+   "overskrift": "Vedlegg III. Hensynssoner i reguleringsplan og kommuneplanens arealdel",
+   "innhold": [
+    {
+     "type": "seksjon",
+     "id": "kapittel-8-kapittel-1",
+     "navn": "kap1",
+     "overskrift": "1. Sikringssone",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Sikringssoner, jf. plan- og bygningsloven § 11-8 tredje ledd bokstav a og § 12-6 første ledd, kan angis som en av følgende soner:\n- Nedslagsfelt drikkevann\n- Område for grunnvannsforsyning\n- Sikringssone transport (byggeforbud rundt veg, bane og flyplass)\n- Frisikt\n- Andre sikringssoner."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-8-kapittel-2",
+     "navn": "kap2",
+     "overskrift": "2. Støysone",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Støysoner, jf. plan- og bygningsloven § 11-8 tredje ledd bokstav a og § 12-6 første ledd, kan angis som en av følgende soner:\n- Rød støysone\n- Gul støysone\n- Stille områder (grønn sone)\n- Andre støysoner."
+      },
+      {
+       "type": "endring",
+       "tekst": "Endret ved forskrift 22 jan 2026 nr. 67."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-8-kapittel-3",
+     "navn": "kap3",
+     "overskrift": "3. Faresone",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Faresoner, jf. plan- og bygningsloven § 11-8 tredje ledd bokstav a og § 12-6 første ledd, kan angis som en av følgende soner:\n- Ras- og skredfare\n- Flomfare\n- Radonfare\n- Brann- og eksplosjonsfare\n- Skytebane\n- Høyspenningsanlegg (inkl. høyspentkabler)\n- Sone for militær virksomhet\n- Annen fare."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-8-kapittel-4",
+     "navn": "kap4",
+     "overskrift": "4. Sone med særlige krav til infrastruktur",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Soner med særlige krav til infrastruktur, jf. plan- og bygningsloven § 11-8 tredje ledd bokstav b og § 12-6 første ledd, kan angis som en av følgende soner:\n- Krav vedrørende infrastruktur\n- Rekkefølgekrav infrastruktur\n- Rekkefølgekrav samfunnsservice\n- Rekkefølgekrav grønnstruktur."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-8-kapittel-5",
+     "navn": "kap5",
+     "overskrift": "5. Sone med angitte særlig hensyn til landbruk, reindrift, mineralressurser, friluftsliv, grønnstruktur, landskap eller bevaring av naturmiljø eller kulturmiljø",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Soner med særlig hensyn til landbruk, reindrift, mineralressurser, friluftsliv, grønnstruktur, landskap eller bevaring av naturmiljø eller kulturmiljø, jf. plan- og bygningsloven § 11-8 tredje ledd bokstav c og § 12-6 første ledd, kan angis som en av følgende soner:\n- Hensyn landbruk\n- Hensyn reindrift\n- Hensyn mineralressurser\n- Hensyn friluftsliv\n- Hensyn grønnstruktur\n- Hensyn landskap\n- Bevaring naturmiljø\n- Bevaring kulturmiljø\n- Randområder til nasjonalpark eller landskapsvernområde."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-8-kapittel-6",
+     "navn": "kap6",
+     "overskrift": "6. Sone for båndlegging",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Soner for båndlegging, jf. plan- og bygningsloven § 11-8 tredje ledd bokstav d og § 12-6 første ledd, kan angis som en av følgende soner:\n- Båndlegging for regulering etter plan- og bygningsloven\n- Båndlegging etter lov om naturmangfold\n- Båndlegging etter lov om kulturminner\n- Båndlegging etter andre lover\n- Båndlegging i forhold til avkjøringsklasser etter vegloven."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-8-kapittel-7",
+     "navn": "kap7",
+     "overskrift": "7. Sone med krav om felles planlegging for flere eiendommer mv.",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Soner som gjelder felles planlegging for flere eiendommer, fortetting, omforming og fornyelse og bruk av særskilte gjennomføringsvirkemidler, jf. plan- og bygningsloven § 11-8 tredje ledd bokstav e og § 12-6 første ledd, kan angis som en av følgende soner:\n- Krav om felles planlegging\n- Krav om fortetting, omforming og fornyelse, og bruk av særskilte gjennomføringsvirkemidler."
+      },
+      {
+       "type": "endring",
+       "tekst": "Endret ved forskrift 22 jan 2026 nr. 67."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-8-kapittel-8",
+     "navn": "kap7a",
+     "overskrift": "7a. Sone med krav om grunneierfinansiering av infrastruktur mv.",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Soner med krav om grunneierfinansiering av infrastruktur mv., jf. plan- og bygningsloven kapittel 12A, kan angis som en av følgende soner:\n- Krav om grunneierfinansiering av infrastruktur etter § 12A-1\n- Krav om flytting av infrastruktur for å frigjøre areal til utbyggingsformål etter § 12A-13."
+      },
+      {
+       "type": "endring",
+       "tekst": "Tilføyd ved forskrift 22 jan 2026 nr. 67."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-8-kapittel-9",
+     "navn": "kap8",
+     "overskrift": "8. Sone som angir hvor gjeldende reguleringsplan skal gjelde uendret",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "I kommuneplanens arealdel og i reguleringsplan utarbeidet som områderegulering, kan det fastsettes følgende sone som angir hvor gjeldende reguleringsplan fortsatt skal gjelde uendret, jf. plan- og bygningsloven § 11-8 tredje ledd bokstav f og § 12-6 andre ledd:\n- Gjeldende reguleringsplan skal gjelde uendret."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-9",
+   "navn": "vedleggIV",
+   "overskrift": "Vedlegg IV. Stedfesting av bestemmelser i plankart til reguleringsplan",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Følgende betegnelser kan benyttes i plankart til reguleringsplan for å angi og stedfeste bestemmelser, jf. plan- og bygningsloven § 12-7:\n- Bestemmelsesområde\n- Regulert høyde\n- Regulert eiendomsgrense\n- Eiendomsgrense som skal oppheves\n- Bygg, kulturminner m.m. som skal bevares\n- Byggegrense\n- Planlagt bebyggelse\n- Bebyggelse som inngår i planen\n- Bebyggelse som forutsettes fjernet\n- Bru\n- Tunnel\n- Regulert senterlinje\n- Frisiktlinje\n- Regulert kant kjørebane\n- Regulert kjørefelt\n- Regulert parkeringsfelt\n- Regulert fotgjengerfelt\n- Regulert støyskjerm\n- Regulert støttemur\n- Sikringsgjerde\n- Måle og avstandslinje\n- Strandlinje sjø\n- Strandlinje vassdrag\n- Midtlinje vassdrag\n- Vegstengning eller fysisk kjøresperre\n- Stenging av avkjørsel\n- Avkjørsel\n- Innkjøring\n- Utkjøring\n- Brukar\n- Tunnelåpning\n- Eksisterende tre som skal bevares\n- Regulert nytt tre\n- Regulert møneretning."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-10",
+   "navn": "vedleggV",
+   "overskrift": "Vedlegg V. Stedfesting av bestemmelser i plankart til kommuneplanens arealdel",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Følgende betegnelser kan benyttes i plankart til kommuneplanens arealdel for å angi og stedfeste bestemmelser, jf. plan- og bygningsloven § 11-9 til § 11-11:\n- Bestemmelsesområde\n- Regulert høyde\n- Byggegrense\n- Forbudsgrense sjø\n- Forbudsgrense vassdrag\n- Strandlinje sjø\n- Strandlinje vassdrag\n- Midtlinje vassdrag."
+    },
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrift 23 juni 2025 nr. 1258 (i kraft 1 juli 2025)."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-11",
+   "navn": "vedleggVI",
+   "overskrift": "Vedlegg VI. Arealsoner i plankart til regional plan",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Arealsoner som skal framgå av plankart til regional plan, jf. plan- og bygningsloven § 8-1, kan angis med en av følgende betegnelser:\na. Bebyggelse og anlegg\n- Boligbebyggelse\n- Fritidsbebyggelse\n- Turist- og reiselivsanlegg\n- Sentrumsfunksjoner\n- Handelsfunksjoner\n- Kjøpesenter\n- Offentlig og privat tjenesteyting\n- Idrettsanlegg\n- Kulturanlegg\n- Råstoffutvinning\n- Næringsarealer\n- Industri\n- Energianlegg, herunder kraftverk, småkraftanlegg\n- Langsiktig utviklingsgrense\n- Utviklingsretning\nb. Samferdselsanlegg og teknisk infrastruktur\n- Vegtrasé\n- Sykkeltrasé\n- Trasé for tog og t-bane\n- Trasé for kollektivtransport\n- Kollektivknutepunkt\n- Flyplass\n- Trasé for motorferdsel i utmark\n- Trasé for overføringskabler\n- Havn\nc. Grønnstruktur\n- Blågrønnsone\n- Rekreasjonssone\n- Trasé for turdrag\nd. Forsvaret\ne. Landbruks-, natur- og friluftssone samt reindrift\n- Kjerneområde landbruk\n- Særverdiområde reindrift\n- Kjerneområde naturmangfold – generelt\n- Prioriterte villreinområder\n- Viktige økologiske funksjonsområder\n- Kjerneområde friluftsliv\n- Landskapssone\n- Kulturmiljøsone\n- Reinbeitedistrikt\n- Buffersone av hensyn til reindrift, villrein, nasjonalpark o.l.\n- Flyttlei for reindrift\n- Trekkvei på land for villrein, hjort, elg o.l.\n- Landbruks-, natur- og friluftssone med spredt boligbebyggelse\n- Landbruks-, natur- og friluftssone med spredt fritidsbebyggelse\n- Landbruks-, natur- og friluftssone med spredt næringsbebyggelse\nf. Sjø og vassdrag\n- Strandlinje sjø og vassdrag\n- Trasé for farled\n- Trekkvei i sjø samt vassdrag for reindrift, villrein, hjort, elg og likende\n- Fritidsbåthavn\n- Kystsone\n- Fiske\n- Akvakultur\n- Drikkevann\n- Naturmangfold sjø\n- Viktige økologiske funksjonsområder i sjø\n- Ferdsel i sjø\n- Energianlegg i sjø."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-12",
+   "navn": "vedleggVII",
+   "overskrift": "Vedlegg VII. Faresoner, restriksjonssoner eller sikringssoner og båndleggingssoner i plankart til regional plan",
+   "innhold": [
+    {
+     "type": "seksjon",
+     "id": "kapittel-12-kapittel-1",
+     "navn": "kap1",
+     "overskrift": "1. Regional faresone",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Faresoner som skal framgå av plankart til regional plan, jf. plan- og bygningsloven § 8-1, kan angis med en av følgende betegnelser:\n- Ras- og skredfare\n- Flomfare\n- Radon\n- Brann- eller eksplosjonsfare\n- Skytebane\n- Høyspenningsanlegg (inkl. høyspenningskabler)\n- Militær virksomhet\n- Nærmere angitt fare."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-12-kapittel-2",
+     "navn": "kap2",
+     "overskrift": "2. Regional restriksjonssone eller regional sikringssone",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Restriksjonssoner og sikringssoner som skal framgå av plankart til regional plan, jf. plan- og bygningsloven § 8-1, kan angis med en av følgende betegnelser:\n- Friluftslivsone\n- Blågrønnsone\n- Sammenhengende natursone\n- Sone med forbud mot motorferdsel i utmark."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-12-kapittel-3",
+     "navn": "kap3",
+     "overskrift": "3. Regional båndleggingssone",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Båndleggingssoner som skal framgå av plankart til regional plan, jf. plan- og bygningsloven § 8-1, kan angis med en av følgende betegnelser:\n- Båndlegging for regulering etter plan- og bygningsloven\n- Båndlegging etter lov om naturmangfold\n- Båndlegging etter lov om kulturminner\n- Båndlegging etter lov om naturområder i Oslo og nærliggende kommuner\n- Båndlegging med bakgrunn i avkjøringsklasser etter vegloven\n- Båndlegging etter nærmere angitte lover."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

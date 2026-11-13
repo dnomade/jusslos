@@ -1,0 +1,58 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-2011-01-14-33",
+ "dokumentid": "DEL/forskrift/2011-01-14-33",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Skattelovavd."
+ ],
+ "kunngjort_i": "I 2011 hefte 1",
+ "ikraft": "2011-01-14",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2003-12-12-108/§16",
+   "tekst": "lov/2003-12-12-108/§16"
+  },
+  {
+   "ref": "lov/2003-12-12-108/§18",
+   "tekst": "lov/2003-12-12-108/§18"
+  }
+ ],
+ "kunngjort": "2011-01-18 15:20",
+ "korttittel": "Deleg. etter momskompensasjonsloven",
+ "tittel": "Delegering av Finansdepartementets myndighet etter lov 12. desember 2003 nr. 108 om kompensasjon av merverdiavgift for kommuner, fylkeskommuner mv.",
+ "annet": "Hjemmel: Fastsatt av Finansdepartementet 14. januar 2011 med hjemmel i lov 12. desember 2003 nr. 108 om kompensasjon av merverdiavgift for kommuner, fylkeskommuner mv. § 16 annet ledd og § 18.",
+ "refid": "forskrift/2011-01-14-33",
+ "eli": "/eli/forskrift/2011/01/14/33",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/2011-01-14-33",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Finansdepartementets myndighet etter lov 12. desember 2003 nr. 108 om kompensasjon av merverdiavgift for kommuner, fylkeskommuner mv. til å gi forskriftsbestemmelser delegeres til Skattedirektoratet."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Vedtaket trer i kraft straks."
+    }
+   ]
+  }
+ ]
+}

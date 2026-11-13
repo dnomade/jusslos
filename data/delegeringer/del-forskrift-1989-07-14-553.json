@@ -1,0 +1,57 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-1989-07-14-553",
+ "dokumentid": "DEL/forskrift/1989-07-14-553",
+ "departement": [
+  "Justis- og beredskapsdepartementet"
+ ],
+ "etat": [
+  "Lovavd."
+ ],
+ "kunngjort_i": "I 1989 695",
+ "ikraft": "1989-10-01",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1988-05-13-26/§5",
+   "tekst": "lov/1988-05-13-26/§5"
+  },
+  {
+   "ref": "lov/1988-05-13-26/§6",
+   "tekst": "lov/1988-05-13-26/§6"
+  }
+ ],
+ "korttittel": "Ikrafttredelse av inkassoloven. Delegering",
+ "tittel": "Ikrafttredelse av lov 13. mai 1988 nr. 26 om inkassovirksomhet og annen inndriving av forfalte pengekrav (inkassoloven). Delegering av myndighet.",
+ "annet": "Hjemmel: Fastsatt ved kgl.res. av 14. juli 1989. Fremmet av Justis- og politidepartementet.",
+ "refid": "forskrift/1989-07-14-553",
+ "eli": "/eli/forskrift/1989/07/14/553",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/1989-07-14-553",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Lov 13. mai 1988 nr. 26 om inkassovirksomhet og annen inndriving av forfalte pengekrav (inkassoloven) trer i kraft 1. oktober 1989."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Kongens myndighet etter inkassoloven § 5 annet ledd og § 6 annet ledd delegeres til Kredittilsynet."
+    }
+   ]
+  }
+ ]
+}

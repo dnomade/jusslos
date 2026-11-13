@@ -1,0 +1,46 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2023-06-20-955",
+ "dokumentid": "SF/forskrift/2023-06-20-955",
+ "departement": [
+  "Digitaliserings- og forvaltningsdepartementet"
+ ],
+ "etat": [
+  "Avdeling for digitaliseringspolitikk, Digitaliseringsdirektoratet"
+ ],
+ "ikraft": "2023-07-01",
+ "hjemmel": [
+  {
+   "ref": "lov/2023-06-09-29/§1",
+   "tekst": "lov/2023-06-09-29/§1"
+  }
+ ],
+ "kunngjort": "2023-06-20 13:45",
+ "siste_rettelse": "2024-01-02 (departementstilhørighet)",
+ "tittel": "Forskrift om Digitaliseringsdirektoratets tilgang til taushetsbelagte opplysninger i Folkeregisteret",
+ "annet": "Hjemmel: Fastsatt ved kgl.res. 20. juni 2023 med hjemmel i lov 9. juni 2023 nr. 29 om Digitaliseringsdirektoratets tilgang til taushetsbelagte opplysninger i Folkeregisteret § 1. Fremmet av Kommunal- og distriktsdepartementet.",
+ "refid": "forskrift/2023-06-20-955",
+ "eli": "/eli/forskrift/2023/06/20/955",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2023-06-20-955",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Oppgaver som krever innhenting og behandling av taushetsbelagte opplysninger fra Folkeregisteret",
+   "ledd": [
+    "Digitaliseringsdirektoratet kan uten hinder av taushetsplikt innhente og behandle opplysninger fra Folkeregisteret når dette er nødvendig for å utføre følgende oppgaver:\na. sikre personer tilgang til offentlige tjenester gjennom innlogging, tilgangsstyring og mulighet til å opptre på vegne av virksomheter og andre personer\nb. utstedelse av eID til personer med klientadresser og fortrolige adresser."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Forskriften trer i kraft 1. juli 2023."
+   ]
+  }
+ ]
+}

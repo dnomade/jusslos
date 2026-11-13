@@ -1,0 +1,256 @@
+{
+ "skjema": "1.0",
+ "type": "stortingsvedtak",
+ "datokode": "FOR-2005-05-26-876",
+ "dokumentid": "STV/forskrift/2005-05-26-876",
+ "departement": [
+  "Stortinget"
+ ],
+ "kunngjort_i": "I 2005 hefte 11",
+ "ikraft": "2006-01-01",
+ "siste_endring_ikraft": "2023-06-16",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2023-06-16-989",
+   "tekst": "forskrift/2023-06-16-989"
+  }
+ ],
+ "endrer": "forskrift/1959-11-19-2",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1814-05-17/§75",
+   "tekst": "lov/1814-05-17/§75"
+  }
+ ],
+ "kunngjort": "2005-08-12",
+ "korttittel": "Bevilgningsreglementet",
+ "tittel": "Bevilgningsreglementet",
+ "annet": "Vedtatt av Stortinget 26. mai 2005, jf. Innst.S.nr.187 (2004–2005).\nEndret ved vedtak 16 juni 2023 nr. 989.",
+ "refid": "forskrift/2005-05-26-876",
+ "eli": "/eli/forskrift/2005/05/26/876",
+ "url": "https://lovdata.no/dokument/STV/forskrift/2005-05-26-876",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Dette bevilgningsreglementet gjelder for statsbudsjettet og statsregnskapet medregnet folketrygden."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Unntak fra bestemmelsene i bevilgningsreglementet",
+     "ledd": [
+      "Unntak fra bestemmelsene i bevilgningsreglementet i enkeltsaker krever uttrykkelig vedtak av Stortinget."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Grunnleggende prinsipper for statsbudsjettet",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 3",
+     "tittel": "Hvilke utgifter og inntekter statsbudsjettet skal inneholde",
+     "ledd": [
+      "Budsjettet vedtas for kalenderåret.",
+      "Budsjettet skal inneholde alle statlige utgifter og inntekter knyttet til virksomheter og tiltak som får sine utgifter og inntekter fastsatt ved Stortingets bevilgningsvedtak. Bevilgningene skal være basert på realistiske anslag over utgiftene og inntektene.",
+      "Utgifter og inntekter skal tas med i budsjettet for det året de antas å bli kontant betalt, med det unntaket som følger av § 7 annet ledd om avskrivninger.",
+      "Utgifter og inntekter skal føres opp i budsjettet med brutto beløp, med det unntaket som følger av § 7 første ledd. Kongen kan likevel gi bestemmelser om nettobudsjettering i forbindelse med utskifting av utstyr."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 4",
+     "tittel": "Statsbudsjettets inndeling",
+     "ledd": [
+      "Budsjettet skal inndeles i kapitler og poster.",
+      "Hvert kapittel skal inneholde en eller flere utgifts- eller inntektsposter som gjelder samme formål. Så langt mulig bør bevilgningene under ett kapittel bare disponeres av en virksomhet eller en likeartet gruppe virksomheter.",
+      "Utgiftspostene skal inndeles etter art på avdeling for:\n1. statens egne driftsutgifter.\n2. nybygg, anlegg mv.\n3. overføringer til andre.\n4. utlån, statsgjeld mv.",
+      "Inntektspostene skal inndeles etter art på avdeling for:\n1. salg av varer og tjenester.\n2. inntekter i forbindelse med nybygg, anlegg mv.\n3. overføringer fra andre.\n4. tilbakebetalinger mv.",
+      "Kongen kan gi nærmere bestemmelser om hvilke utgifter og inntekter som faller inn under de enkelte avdelingene."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 5",
+     "tittel": "Bevilgningsvedtak",
+     "ledd": [
+      "Bevilgningsvedtakene skal knyttes til hver enkelt utgifts- og inntektspost.",
+      "Utgiftsbevilgninger kan ikke overskrides eller brukes til andre formål enn forutsatt av Stortinget. Unntak fra dette krever hjemmel i § 11 eller § 12, eller at bevilgningsvedtaket inneholder stikkordet:\n1. «overslagsbevilgning», som gir hjemmel til å overskride bevilgningen mot etterfølgende framlegg for Stortinget. Stikkordet kan tilføyes ved bevilgninger der utgiftsbehovet følger av regelverk fastsatt av Stortinget.\n2. «kan nyttes under», som gir hjemmel til å overskride den bevilgningen stikkordet henviser til, mot tilsvarende innsparing under den bevilgningen det henvises fra.",
+      "Ubrukte utgiftsbevilgninger kan ikke overføres til etterfølgende budsjettår med unntak av at:\n1. ubrukt driftsbevilgning kan overføres til neste budsjettår med inntil fem prosent av bevilgningen.\n2. bevilgningsvedtak som inneholder stikkordet «kan overføres», gir hjemmel til å overføre ubrukt bevilgning til de to følgende budsjettårene. Stikkordet kan tilføyes ved bevilgninger til bygg, anlegg, materiell og særskilte tiltak der utbetalingstakten kan være usikker."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 6",
+     "tittel": "Vedtak om forpliktelser for framtidige budsjettår",
+     "ledd": [
+      "Staten kan bare pådras forpliktelser som først skal dekkes etter utløpet av budsjettåret, når Stortinget har gitt særlig samtykke til dette. Samtykket kan bare gis for det enkelte budsjettår og skal begrenses oppad til et bestemt beløp.",
+      "Kongen kan likevel gi bestemmelser om adgang til å inngå leieavtaler og avtaler om kjøp av tjenester utover budsjettåret. Avtalene må gjelde den ordinære driften av statlige virksomheter, og utgiftene i forbindelse med avtalene må kunne dekkes innenfor et uendret bevilgningsnivå på vedkommende budsjettpost i hele avtaleperioden."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 7",
+     "tittel": "Særregler for statens forvaltningsbedrifter og Statens direkte økonomiske engasjement i petroleumsvirksomheten",
+     "ledd": [
+      "For statens forvaltningsbedrifter og Statens direkte økonomiske engasjement i petroleumsvirksomheten skal netto driftsresultat føres opp til bevilgning.",
+      "Driftsresultatet skal inneholde avskrivninger av bokførte kapitalgjenstander og renter på statens kapital og mellomværende med statskassen."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Kongens forslag til statsbudsjett",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 8",
+     "tittel": "Frister for Kongens forslag til statsbudsjett",
+     "ledd": [
+      "Kongens forslag til budsjett for neste budsjettår skal legges fram for Stortinget innen seks dager etter Stortingets åpning. De tilhørende vedlegg med nærmere redegjørelse for budsjettforslaget skal legges fram samtidig.",
+      "Tillegg til eller endringer i budsjettforslaget må fremmes innen 10. november. Innen denne fristen skal det også fremmes forslag om hvilke endringer i budsjettforslagets saldering som tilleggsforslagene gjør nødvendige."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 9",
+     "tittel": "Redegjørelse for bevilgningsforslagene",
+     "ledd": [
+      "Det skal redegjøres for innholdet av og begrunnelsen for bevilgningsforslagene.",
+      "De resultater som tilsiktes oppnådd, skal beskrives. Det skal også gis opplysninger om oppnådde resultater for siste regnskapsår sammen med annen regnskapsinformasjon av betydning for vurdering av bevilgningsforslagene for neste budsjettår."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Gjennomføring av statsbudsjettet",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 10",
+     "tittel": "Disponering av gitte bevilgninger",
+     "ledd": [
+      "Utgiftsbevilgningene skal disponeres i samsvar med § 5 og på en slik måte at ressursbruk og virkemidler er effektive i forhold til de forutsatte resultater.",
+      "Ved tilskudd eller lån til offentlig eller privat virksomhet som ellers ikke er undergitt statlig kontroll, skal det tas forbehold om adgang for tilskuddsforvalteren til å føre kontroll med at midlene benyttes etter forutsetningene."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 11",
+     "tittel": "Budsjettendringer i løpet av budsjettåret",
+     "ledd": [
+      "Oppstår det i budsjettåret en uforutsett og nødvendig utgift for staten som det ikke er mulig å dekke av en gitt bevilgning, kan det fremmes forslag til Stortinget om tilleggsbevilgning eller gis samtykke til å pådra utgifter uten bevilgningsmessig dekning etter annet og tredje ledd. Mot slutten av budsjettåret skal endringene i budsjettet oppsummeres i egen proposisjon om ny saldering av budsjettet.",
+      "Kongen i statsråd kan på vilkår som nevnt i første ledd, samtykke i at det pådras utgifter uten bevilgningsmessig dekning for inntil ti millioner kroner under den enkelte utgiftspost. Det samme gjelder for større beløp dersom det er uomgjengelig nødvendig å pådra utgifter før Stortinget kan gi tilleggsbevilgning. I tilfeller som nevnt i annet punktum, må det fremmes forslag om tilleggsbevilgning så snart som mulig, og inntil Stortinget har vedtatt ny bevilgning må utgiftene begrenses til det som er strengt nødvendig.",
+      "Kongen kan bestemme at Finansdepartementet kan samtykke i at det pådras utgifter uten bevilgningsmessig dekning for saker som gjelder mindre beløp og ikke er av prinsipiell natur.",
+      "Kongen kan for øvrig gi bestemmelser om overskridelse av:\n1. driftsbevilgninger mot tilsvarende merinntekter.\n2. investeringsbevilgninger mot tilsvarende innsparing under driftsbevilgninger under samme budsjettkapittel.\n3. driftsbevilgninger med inntil fem prosent til investeringsformål mot tilsvarende innsparing i løpet av de tre følgende budsjettår.",
+      "For samtykke til å pådra staten forpliktelser for framtidige budsjettår, jf. § 6, gjelder bestemmelsene i første, annet og tredje ledd tilsvarende så langt de passer."
+     ],
+     "endringer": [
+      "Endret ved vedtak 16 juni 2023 nr. 989."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 12",
+     "tittel": "Nødsfullmakter",
+     "ledd": [
+      "Når riket er i krig eller krig truer eller rikets selvstendighet eller sikkerhet er i fare, kan Kongen gi statsforvalteren og andre lokale forvaltningsorganer fullmakt til å dekke uforutsette utgifter uten bevilgningsmessig hjemmel når dette må skje før slik hjemmel kan gis etter § 11. Selv om fullmakt fra Kongen ennå ikke foreligger, kan statsforvalteren likevel pådra slike utgifter når dette er uomgjengelig nødvendig for å ivareta samfunnsviktige interesser."
+     ],
+     "endringer": [
+      "Endret ved vedtak 16 juni 2023 nr. 989."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Statsregnskapet",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 13",
+     "tittel": "Statsregnskapet",
+     "ledd": [
+      "Statsregnskapet skal inneholde et bevilgningsregnskap og et kapitalregnskap.",
+      "Bevilgningsregnskapet skal under hver post i budsjettet vise regnskapsførte utgifter og inntekter, overført beløp fra forrige år, total bevilgning i budsjettåret og overført beløp til neste år.",
+      "Kapitalregnskapet skal gi en oversikt over statens og trygdenes eiendeler og gjeld og vise sammenhengen med bevilgningsregnskapet.",
+      "I tilknytning til statsregnskapet skal det utarbeides oversikter som viser:\n1. samtykker til overskridelse av budsjettet.\n2. samtykker til å pådra staten forpliktelser utover budsjettåret i forbindelse med bestilling av materiell o.l. og tilsagn om tilskudd, lån og garantier, og hvilke forpliktelser som er pådratt i henhold til samtykkene.\n3. samtykker til låneopptak, hva staten har lånt og endring av statsgjelden.",
+      "Melding om statsregnskapet skal sendes Stortinget så snart regnskapet foreligger.",
+      "Departementene skal i tilknytning til bevilgningsregnskapet gi Riksrevisjonen forklaringer om ikke uvesentlige avvik mellom bevilgnings- og regnskapstall.",
+      "Kongen kan gi utfyllende bestemmelser om føring av statsregnskapet."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Disponering av kontantbeholdningen",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 14",
+     "tittel": "Kontantbeholdningen",
+     "ledd": [
+      "Statskassens kontantbeholdning skal plasseres som innskudd på folio i Norges Bank og bare benyttes i samsvar med gitte bevilgninger eller særlig samtykke fra Stortinget. Kongen kan likevel bestemme at deler av kontantbeholdningen:\n1. plasseres i andre banker når det er nødvendig å fravike statens konsernkontoordning av hensyn til effektiv oppgaveutførelse, og slike innskudd ikke overstiger behovet for nærmeste framtid.\n2. benyttes til finanstransaksjoner som har til hensikt å redusere statens finanskostnader eller ivareta pengepolitiske mål."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kap7",
+   "overskrift": "Kapittel 7. Ikrafttredelse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 15",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Reglementet trer i kraft 1. januar 2006. Fra samme tidspunkt oppheves bevilgningsreglementet 19. november 1959 nr. 2."
+     ]
+    }
+   ]
+  }
+ ]
+}

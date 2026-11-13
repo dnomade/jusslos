@@ -1,0 +1,53 @@
+{
+ "skjema": "1.0",
+ "type": "lov",
+ "datokode": "LOV-2026-06-19-38",
+ "dokumentid": "NL/lov/2026-06-19-38",
+ "departement": [
+  "Energidepartementet"
+ ],
+ "ikraft": "Kongen bestemmer",
+ "endrer": "lov/1990-06-29-50",
+ "rettsomrade": [
+  "Energirett > Elektrisitetsproduksjon og -forsyning",
+  "HMS og beredskaps- og sikkerhetsrett > Beredskap",
+  "HMS og beredskaps- og sikkerhetsrett > Samfunnssikkerhet"
+ ],
+ "kunngjort": "2026-06-19 12:05",
+ "korttittel": "Endringslov til energiloven",
+ "tittel": "Lov om endringer i energiloven (utnyttelse av overskuddsvarme og krav til automatiske styringssystemer)",
+ "annet": "Prop. 45 L (2025–2026), Innst. 277 L (2025–2026), Lovvedtak 42 (2025–2026). Stortingets første og andre gangs behandling hhv. 26. mai og 2. juni 2026. Fremmet av Energidepartementet.",
+ "refid": "lov/2026-06-19-38",
+ "eli": "/eli/lov/2026/06/19/38",
+ "url": "https://lovdata.no/dokument/NL/lov/2026-06-19-38",
+ "innhold": [
+  {
+   "type": "tekst",
+   "tekst": "Endringer i følgende lov:\nLov 29. juni 1990 nr. 50 om produksjon, omforming, overføring, omsetning, fordeling og bruk av energi m.m. (energiloven)."
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "I lov 29. juni 1990 nr. 50 om produksjon, omforming, overføring, omsetning, fordeling og bruk av energi m.m. gjøres følgende endringer:\n§ 7-2 overskriften skal lyde:\n(Plikt til å gjennomføre en kost-nytteanalyse av mulighetene for å utnytte overskuddsvarme)\n§ 7-2 første og annet ledd skal lyde:\nEn tiltakshaver skal gjennomføre en kost-nytteanalyse av mulighetene for å utnytte overskuddsvarme ved planlegging av og omfattende oppgradering av følgende anlegg:\na. termiske kraftverk\nb. industrianlegg\nc. fjernvarmenett og fjernkjølenett\nd. energiproduksjonsanlegg som planlegges tilkoblet i et eksisterende fjernvarme- eller fjernkjølenett\ne. datasentre\nf. andre anlegg som vil ha et høyt behov for tilført energi.\nDepartementet kan gi forskrift om hvilke tiltakshavere og anlegg som omfattes av første ledd, herunder hvilke terskelverdier som skal føre til at anlegg omfattes av første ledd.\n§ 7-3 første ledd bokstav c til ny bokstav f skal lyde:\nc. å drive et industrianlegg slik at overskuddsvarmen brukes til å dekke en økonomisk begrunnet etterspørsel, inkludert eget varmebehov\nd. å utnytte overskuddsvarme fra nærliggende anlegg og datasentre når fjernvarme- eller fjernkjølenett planlegges oppført, eller anlegg for energiproduksjon i eksisterende fjernvarme- eller fjernkjølenett planlegges oppført eller omfattende oppgradert\ne. å drive datasentre som nevnt i § 7-2 første ledd bokstav e og anlegg som nevnt i § 7-2 første ledd bokstav f slik at overskuddsvarmen brukes til å dekke en økonomisk begrunnet etterspørsel, inkludert eget varmebehov\nf. å utnytte overskuddsvarme fra nærliggende anlegg og datasentre når industrianlegg og andre anlegg med varmebehov planlegges oppført eller omfattende oppgradert.\n§ 7-4 annet ledd skal lyde:\nAnlegg som nevnt i § 7-2 første ledd kan ikke bygges eller omfattende oppgraderes uten at overskuddsvarmen utnyttes, dersom kost-nytteanalysen viser at fordelene ved dette er større enn kostnadene.\n§ 7-4 nytt tredje ledd skal lyde:\nDepartementet kan etter søknad fatte enkeltvedtak om unntak fra kravet i annet ledd.\n§ 8-4 overskriften skal lyde:\n(Bygninger med varme- og klimaanlegg)\n§ 8-4 nytt tredje ledd skal lyde:\nEier av bygning med høyt varme- eller kjølebehov skal installere et automatisk styringssystem for varme- og klimaanlegg, der dette er teknisk og økonomisk gjennomførbart. Departementet kan gi forskrift om hvilke bygninger som er omfattet av plikten til å installere et slikt styringssystem, og om kravets innhold."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Loven gjelder fra det tidspunktet Kongen bestemmer. Kongen kan sette i kraft forskjellige bestemmelser til forskjellig tid."
+    }
+   ]
+  }
+ ]
+}

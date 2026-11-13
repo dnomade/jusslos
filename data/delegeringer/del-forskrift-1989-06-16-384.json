@@ -1,0 +1,61 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-1989-06-16-384",
+ "dokumentid": "DEL/forskrift/1989-06-16-384",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Økonomiavd."
+ ],
+ "kunngjort_i": "I 1989 427",
+ "ikraft": "1989-08-06",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1989-06-16-51",
+   "tekst": "lov/1989-06-16-51"
+  },
+  {
+   "ref": "lov/1985-06-14-61",
+   "tekst": "lov/1985-06-14-61"
+  }
+ ],
+ "korttittel": "Forskr. om delegering etter verdipapirhandelloven",
+ "tittel": "Delegering av myndighet etter lov av 16. juni 1989 nr. 51 om endringer i lov 14. juni 1985 nr. 61 om verdipapirhandel – (tilbudsplikt ved større aksjekjøp og om myndighet til å sette loven i kraft).",
+ "annet": "Fastsatt ved kgl.res av 16. juni 1989. Fremmet av Finans- og tolldepartementet.",
+ "refid": "forskrift/1989-06-16-384",
+ "eli": "/eli/forskrift/1989/06/16/384",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/1989-06-16-384",
+ "innhold": [
+  {
+   "type": "tekst",
+   "tekst": "Kongens myndighet etter følgende paragrafer i lov om endringer i lov 14. juni 1985 nr. 61 om verdipapirhandel – (tilbudsplikt ved større aksjekjøp) delegeres til Finans- og tolldepartementet:"
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "§ 5B første ledd om nærmere regler om tilbudsplikt etter § 5A."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Myndighet til å sette loven i kraft."
+    }
+   ]
+  }
+ ]
+}

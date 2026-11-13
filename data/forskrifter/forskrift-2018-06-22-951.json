@@ -1,0 +1,189 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2018-06-22-951",
+ "dokumentid": "SF/forskrift/2018-06-22-951",
+ "departement": [
+  "Forsvarsdepartementet"
+ ],
+ "etat": [
+  "Avd. for personellpolitikk, kompetanse og felles juridiske tjenester"
+ ],
+ "ikraft": "2018-09-01",
+ "endrer": "forskrift/1997-01-06-3",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2017-06-21-88/§3",
+   "tekst": "lov/2017-06-21-88/§3"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§9-4",
+   "tekst": "lov/1993-06-11-101/§9-4"
+  },
+  {
+   "ref": "forskrift/2018-06-22-950/§1",
+   "tekst": "forskrift/2018-06-22-950/§1"
+  },
+  {
+   "ref": "lov/2018-06-01-24/§7-5",
+   "tekst": "lov/2018-06-01-24/§7-5"
+  }
+ ],
+ "kunngjort": "2018-06-22 15:10",
+ "korttittel": "Forskrift om kontroll med informasjon innhentet med luftbårne sensorsystemer",
+ "tittel": "Forskrift om kontroll med informasjon innhentet med luftbårne sensorsystemer",
+ "annet": "Hjemmel: Fastsatt ved kgl.res. 22. juni med hjemmel i lov 21. juni 2017 nr. 88 om informasjon om bestemt angitte områder, skjermingsverdige objekter og bunnforhold § 3, lov 20. mars 1998 nr. 10 om forebyggende sikkerhetstjeneste (sikkerhetsloven) § 18a, lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven) § 9-4 tredje ledd og forskrift 22. juni 2018 nr. 950 om anvendelse av lov om informasjon om bestemt angitte områder, skjermingsverdige objekter og bunnforhold på Svalbard og Jan Mayen § 1. Fremmet av Forsvarsdepartementet.\nTilføyd hjemmel: Lov 1 juni 2018 nr. 24 om nasjonal sikkerhet (sikkerhetsloven) § 7-5 jf kgl.res. 20 des 2018 nr. 2052.",
+ "refid": "forskrift/2018-06-22-951",
+ "eli": "/eli/forskrift/2018/06/22/951",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2018-06-22-951",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Virkeområde",
+   "ledd": [
+    "Forskriften regulerer opptak og annen bruk av informasjon om bestemt angitte områder og skjermingsverdige objekter innhentet med luftbårne sensorsystemer.",
+    "Forskriften gjelder over norsk territorium, inkludert Svalbard og Jan Mayen.",
+    "Forskriften gjelder ikke for\na. Forsvarets eller allierte styrkers bruk av egne sensorplattformer som ledd i deres trening eller oppgaveløsning\nb. opptak som skjer i henhold til rustningskontrollavtaler som Norge har ratifisert."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Definisjoner og forkortelser",
+   "ledd": [
+    "I forskriften forstås med\na. luftbårne sensorsystemer; alle sensorsystemer som brukes fra innretninger i luften som kan innhente, behandle eller lagre informasjon i alle deler av frekvensspekteret, uavhengig av plattform eller bruksmåte\nb. luftbårne fotosensorer; sensorsystemer som gjør dagslysbasert monokrom- eller fargeavbildning med inntil fire spektralbånd innenfor bølgelengdeområdet til synlig lys, fra 380 til 750 nanometer\nc. forbudsområde for bruk av luftbårne sensorsystemer (forbudsområder); bestemt angitte område og skjermingsverdig objekt der det er fastsatt varig eller midlertidig forbud mot bruk av luftbårne sensorsystemer uten særskilt tillatelse\nd. operatørselskap; virksomhet som innhenter eller behandler informasjon med luftbårne sensorsystemer på egne eller andres vegne."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Fastsettelse av forbudsområder",
+   "ledd": [
+    "Departementene kan fastsette forbudsområder hvor det ikke er tillatt å bruke luftbårne sensorsystemer. Det kan også gjøres endringer på allerede fastsatte forbudsområder.",
+    "Ved fastsettelsen av et forbudsområde, skal det opplyses om graderingsnivå, områdets geografiske utstrekning og hvilke forbud som gjelder for området, herunder om forbudene også skal omfatte bruk av luftbårne fotosensorer.",
+    "Nye forbudsområder og endringer i eksisterende forbudsområder skal innmeldes til Nasjonal sikkerhetsmyndighet."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Publisering av forbudsområder",
+   "ledd": [
+    "Nasjonal sikkerhetsmyndighet skal publisere og holde oppdatert en ugradert oversikt over forbudsområder med angivelse av hvilke forbud som gjelder.",
+    "Nasjonal sikkerhetsmyndighet kan unnlate å publisere forbudsområder hvor dette er påkrevd av sikkerhetsmessige hensyn."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Bruk av luftbårne sensorer",
+   "ledd": [
+    "Med mindre det er fastsatt særskilte forbud etter § 3, kan luftbårne fotosensorer brukes over et forbudsområde, med de begrensninger som følger av annen lovgivning. Det samme gjelder for innhenting av informasjon om et forbudsområde ved å bruke luftbårne fotosensorer utenfor det aktuelle området.",
+    "Bruk av andre luftbårne sensorsystemer enn fotosensorer til informasjonsinnhenting av eller over forbudsområder, krever tillatelse etter § 6.",
+    "Benyttes andre luftbårne sensorsystemer enn fotosensorer utenfor fastsatte forbudsområder, skal Nasjonal sikkerhetsmyndighet varsles. Nasjonal sikkerhetsmyndighet fastsetter nærmere frist for varsel om slikt bruk.",
+    "Nasjonal sikkerhetsmyndighet kan kreve ytterligere informasjon om den tiltenkte bruken og at det inngis søknad for bruk etter § 6.",
+    "Nasjonal sikkerhetsmyndighet kan gi unntak fra varslingsplikten.",
+    "For utenlandske luftfartøyer som skal anvende luftbårne sensorsystemer over norsk territorium, er det krav om varsling til Nasjonal sikkerhetsmyndighet. Nasjonal sikkerhetsmyndighet kan kreve at luftfartøyet lander i Norge før utreise, for kontroll av informasjon innhentet ved luftbårne sensorsystemer."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "Tillatelse til bruk av luftbårne sensorsystemer",
+   "ledd": [
+    "Bruk av luftbårne sensorsystemer over et forbudsområde, forutsetter innvilget søknad om tillatelse fra Nasjonal sikkerhetsmyndighet for det enkelte oppdrag. Det samme gjelder for innhenting av informasjon om et forbudsområde ved å bruke luftbårne fotosensorer utenfor det aktuelle området.",
+    "Tillatelse etter første ledd kan gis til forvaltningsorganer[1] og operatørselskap som har leverandørklarering på nivå KONFIDENSIELT eller høyere.",
+    "Nasjonal sikkerhetsmyndighet kan gi dispensasjon til å bruke luftbårne sensorsystemer innenfor et forbudsområde. Dispensasjon kan kun gis dersom det innhentes UGRADERT informasjon og Nasjonal sikkerhetsmyndighet har innhentet samtykke fra objekt- eller områdeeier til å gi slik dispensasjon. Dispensasjonen skal avgrenses i tid og kan kun gjelde for et avgrenset og bestemt angitt del av forbudsområdet.",
+    "For fotosensorer gjelder krav om tillatelse kun dersom det er fastsatt et særlig forbud mot bruk av luftbårne fotosensor i forbudsområdet etter § 3.",
+    "Nasjonal sikkerhetsmyndighet kan også kreve søknad for bruk av andre sensorsystemer enn fotosensor utenfor forbudsområder, jf. § 5 andre ledd.",
+    "Nasjonal sikkerhetsmyndighet fastsetter hvilke minimumskrav som stilles til søknaden. Ved behov kan Nasjonal sikkerhetsmyndighet be om utfyllende informasjon fra søker.",
+    "Avslag på søknad om tillatelse til bruk av luftbårne sensorsystemer kan påklages til Forsvarsdepartementet.",
+    "Denne paragrafen gjelder ikke politiet i den utstrekning politiets bruk av luftbårne sensorsystemer er nødvendig for å ivareta oppgaver etter politiloven § 7 første ledd."
+   ],
+   "fotnoter": [
+    {
+     "nr": "1",
+     "tekst": "Lov om behandlingsmåten i forvaltningssaker § 1."
+    }
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 7",
+   "tittel": "Vilkår for tillatelse til bruk av luftbårne sensorsystemer",
+   "ledd": [
+    "Nasjonal sikkerhetsmyndighet kan sette vilkår for en tillatelse etter § 6. Det kan blant annet settes vilkår om\na. tillatelsens varighet\nb. hvilke luftbårne sensorsystemer som kan brukes\nc. hvilken oppløsningsgrad og detaljeringsnivå informasjonen kan ha\nd. behandling og videre distribusjon av innhentet informasjon\ne. nasjonal kontroll over innhentet informasjon\nf. muligheten til å føre innhentet informasjon ut av Norge\ng. plikt til rapportering til Nasjonal sikkerhetsmyndighet.\nVed brudd på fastsatte vilkår, kan Nasjonal sikkerhetsmyndighet trekke tillatelsen tilbake. Vilkår i en tillatelse kan påklages til Forsvarsdepartementet."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-8",
+   "nummer": "§ 8",
+   "tittel": "Lisens",
+   "ledd": [
+    "Personer som skal betjene luftbårne sensorsystemer over forbudsområder eller til å innhente informasjon om et forbudsområde, må være ansatt i et leverandørklarert operatørselskap og ha lisens fra Nasjonal sikkerhetsmyndighet.",
+    "Lisens krever sikkerhetsklarering for KONFIDENSIELT eller høyere etter sikkerhetsloven § 19. Nasjonal sikkerhetsmyndighet kan stille nærmere krav til innholdet i søknad om lisens. Nasjonal sikkerhetsmyndighet kan også sette vilkår for å få lisens.",
+    "Lisens gis for inntil 5 år. Ved brudd på fastsatte vilkår eller dersom det foreligger andre saklige grunner, kan lisensen trekkes tilbake.",
+    "Avslag på søknad om lisens eller lisens gitt med vilkår kan påklages til Forsvarsdepartementet."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-9",
+   "nummer": "§ 9",
+   "tittel": "Behandling av informasjon",
+   "ledd": [
+    "Informasjon om et forbudsområde skal behandles i samsvar med sikkerhetsloven og sitt graderingsnivå fastsatt etter § 3 andre ledd.",
+    "Det kan ikke utleveres sikkerhetsgradert informasjon uten samtykke fra Nasjonal sikkerhetsmyndighet. Dette gjelder ikke utlevering til andre operatørselskaper med leverandørklarering som benyttes som underleverandør eller til Statens kartverk."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-10",
+   "nummer": "§ 10",
+   "tittel": "Avgradering av informasjon",
+   "ledd": [
+    "Sikkerhetsmyndighet fastsetter hvordan informasjon om et forbudsområde kan avgraderes."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-11",
+   "nummer": "§ 11",
+   "tittel": "Informasjon som skal publiseres av Nasjonal sikkerhetsmyndighet",
+   "ledd": [
+    "Nasjonal sikkerhetsmyndighet skal gjøre tilgjengelig nødvendig informasjon om forvaltningen av denne forskrift. Dette gjelder blant annet\na. liste over fastsatte forbudsområder etter § 3 og § 4\nb. frist for varsel etter § 5\nc. eventuelle unntak fra varslingsplikten etter § 5\nd. krav til innhold i søknad om tillatelse etter § 6\ne. krav til innhold i søknad om lisens etter § 7."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-12",
+   "nummer": "§ 12",
+   "tittel": "Tilsyn og kontroll",
+   "ledd": [
+    "Nasjonal sikkerhetsmyndighet kan kreve å få informasjon innhentet ved ethvert bruk av luftbårne sensorsystemer for å kontrollere om den inneholder informasjon om forbudsområder.",
+    "Nasjonal sikkerhetsmyndighet kan føre tilsyn med opptaksplattformer og sensorsystemer, og behandling av innhentet informasjon.",
+    "Nasjonal sikkerhetsmyndighet kan anmode Luftfartstilsynet om bistand til å håndheve forskriften, eksempelvis ved å anmode om å holde tilbake operative flytillatelser."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-13",
+   "nummer": "§ 13",
+   "tittel": "Ikrafttredelse og opphevelse",
+   "ledd": [
+    "Forskriften trer i kraft 1. september 2018.",
+    "Fra samme tidspunkt oppheves forskrift 6. januar 1997 nr. 3 om fotografering mv. fra luften og kontroll av luftfotografier og opptaksmateriale fra luftbårne sensorsystemer."
+   ]
+  }
+ ]
+}

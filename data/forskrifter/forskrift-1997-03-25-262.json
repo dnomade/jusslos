@@ -1,0 +1,100 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-1997-03-25-262",
+ "dokumentid": "SF/forskrift/1997-03-25-262",
+ "departement": [
+  "Arbeids- og inkluderingsdepartementet"
+ ],
+ "etat": [
+  "Velferdspolitisk avd."
+ ],
+ "kunngjort_i": "Avd I 1997 631",
+ "ikraft": "1997-05-01",
+ "siste_endring_ikraft": "2019-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2018-06-20-935",
+   "tekst": "forskrift/2018-06-20-935 fra 2019-01-01"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1997-02-28-19/§8-39",
+   "tekst": "lov/1997-02-28-19/§8-39"
+  },
+  {
+   "ref": "lov/1997-02-28-19/§23-6",
+   "tekst": "lov/1997-02-28-19/§23-6"
+  }
+ ],
+ "korttittel": "Forskrift om sykepengeforsikring, frilansere",
+ "tittel": "Forskrift om forsikring for tillegg til sykepenger for frilansere",
+ "annet": "Hjemmel: Fastsatt av Sosial- og helsedepartementet 25. mars 1997 med hjemmel i lov 28. februar 1997 nr. 19 om folketrygd § 8-39 sjette ledd og § 23-6 bokstav c.\nEndret ved forskrifter 18 des 2003 nr. 1612, 30 juni 2006 nr. 790, 15 april 2015 nr. 377, 20 juni 2018 nr. 935.",
+ "refid": "forskrift/1997-03-25-262",
+ "eli": "/eli/forskrift/1997/03/25/262",
+ "url": "https://lovdata.no/dokument/SF/forskrift/1997-03-25-262",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Premie og premiegrunnlag",
+   "ledd": [
+    "Forsikringen gjelder fra den dagen Arbeids- og velferdsetaten mottar søknaden, dersom frilanseren betaler forsikringspremien innen 14 dager etter at vedkommende har fått melding om vedtaket.",
+    "Premien fastsettes i prosent av forventet årsinntekt som frilanser, jf. folketrygdloven § 8-38 femte ledd (premiegrunnlaget). Høyeste premiegrunnlag er seks ganger grunnbeløpet, jf. folketrygdloven § 8-10 andre ledd. Forsikringsåret løper fra 1. januar til 31. desember.",
+    "Premien beregnes per kalenderuke. Med kalenderuke menes etter disse reglene 1/26 halvår. Premien betales forskuddsvis til Arbeids- og velferdsetaten for minst et halvt år om gangen."
+   ],
+   "endringer": [
+    "Endret ved forskrifter 30 juni 2006 nr. 790 (i kraft 1 juli 2006), 15 april 2015 nr. 377, 20 juni 2018 nr. 935 (i kraft 1 jan 2019, se endringsforskriften for overgangsregel)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Endring av premiegrunnlaget",
+   "ledd": [
+    "Arbeids- og velferdsetaten skal hvert år foreta en ny fastsetting av premiegrunnlaget. Endring av premiegrunnlaget skjer med virkning fra 1. januar.",
+    "Når grunnbeløpet endres, jf folketrygdloven § 1-4, skal premiegrunnlaget endres fra og med neste forsikringshalvår. Dersom en frilanser blir sykmeldt mellom det tidspunktet grunnbeløpet blir endret og utløpet av forsikringshalvåret, skal forsikringspremien endres fra det tidspunktet grunnbeløpet blir endret."
+   ],
+   "endringer": [
+    "Endret ved forskrift 30 juni 2006 nr. 790 (i kraft 1 juli 2006), 20 juni 2018 nr. 935 (i kraft 1 jan 2019, se endringsforskriften for overgangsregel)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Premiesatser",
+   "ledd": [
+    "Premiesatsene fastsettes årlig av Arbeids- og velferdsdirektoratet og kunngjøres i melding til Arbeids- og velferdsetaten."
+   ],
+   "endringer": [
+    "Endret ved forskrift 30 juni 2006 nr. 790 (i kraft 1 juli 2006, se endringsforskriften for overgangsregel)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Premiefritak",
+   "ledd": [
+    "Premie betales ikke for de hele kalenderuker da en frilanser\na. er arbeidsufør på grunn av sykdom uten å ha rett til tilleggssykepenger fra forsikringen, jf. folketrygdloven § 8-39 andre ledd,\nb. er sykemeldt i mer enn 16 dager,\nc. har mistet retten til sykepenger etter folketrygdloven § 8-54."
+   ],
+   "endringer": [
+    "Endret ved forskrift 18 des 2003 nr. 1612."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Forskriften trer i kraft den 1. mai 1997."
+   ]
+  }
+ ]
+}

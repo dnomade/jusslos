@@ -1,0 +1,67 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-1978-07-14-2",
+ "dokumentid": "SF/forskrift/1978-07-14-2",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Skattelovavd."
+ ],
+ "kunngjort_i": "I 1978 s 528",
+ "ikraft": "1978-07-14",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1962-12-14-1/§3",
+   "tekst": "lov/1962-12-14-1/§3"
+  }
+ ],
+ "korttittel": "Forskrift om fondsavsetninger, ENØK-tiltak",
+ "tittel": "Forskrifter om skattefrie fondsavsetninger til energiøkonomisering.",
+ "annet": "Fastsatt ved Kronprinsreg. res. av 14. juli 1978 med hjemmel i lov av 14. des. 1962 nr. 1 om skattefrie fondsavsetninger. Fremmet av Finansdep.",
+ "refid": "forskrift/1978-07-14-2",
+ "eli": "/eli/forskrift/1978/07/14/02",
+ "url": "https://lovdata.no/dokument/SF/forskrift/1978-07-14-2",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": null,
+     "ledd": [
+      "Departementet kan samtykke i frigiving av avsatte midler til investeringer som er nødvendige for å\na. utnytte spillvarme fra produksjons- og ventilasjonsanlegg,\nb. tilbakeføre i produksjonsprosessen avfallsstoffer eller spillprodukter som ellers ville bli sluppet ut til vann/jord eller som blir behandlet på særskilt måte som avfall,\nc. utnytte avfallsstoffer eller spillprodukter som brensel for produksjon av varme."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": null,
+     "ledd": [
+      "Søknad om samtykke skal sendes Finansdepartementet vedlagt gjenpart av eventuell søknad om lån/lånegarantier. Gjenpart av søknaden skal sendes til Industri-, og Miljøverndepartementet."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Forskriftene trer i kraft straks."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,94 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2007-11-26-1325",
+ "dokumentid": "SF/forskrift/2007-11-26-1325",
+ "departement": [
+  "Justis- og beredskapsdepartementet"
+ ],
+ "etat": [
+  "Domstoladministrasjonen"
+ ],
+ "kunngjort_i": "I 2007 hefte 11",
+ "ikraft": "2008-01-01",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2005-06-17-90/§35-6",
+   "tekst": "lov/2005-06-17-90/§35-6"
+  },
+  {
+   "ref": "lov/2005-06-17-90/§35-7",
+   "tekst": "lov/2005-06-17-90/§35-7"
+  }
+ ],
+ "kunngjort": "2007-11-30 15:45",
+ "korttittel": "Forskrift om gruppesøksmål",
+ "tittel": "Forskrift om gruppesøksmål",
+ "annet": "Hjemmel: Fastsatt av Domstoladministrasjonen 26. november 2007 med hjemmel i lov 17. juni 2005 nr. 90 om mekling og rettergang i sivile tvister (tvisteloven) § 35-6 og § 35-7.",
+ "refid": "forskrift/2007-11-26-1325",
+ "eli": "/eli/forskrift/2007/11/26/1325",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2007-11-26-1325",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Påmelding til gruppesøksmål etter tvisteloven § 35-6",
+   "ledd": [
+    "Begjæring om registrering som gruppemedlem i et gruppesøksmål etter tvisteloven § 35-6, settes fram for den domstolen som behandler gruppesøksmålet.",
+    "Begjæringen kan være skriftlig eller muntlig. Muntlig begjæring inngis ved personlig oppmøte i den domstolen som behandler gruppesøksmålet. Begjæringen må angi de opplysningene som er nødvendig for å avgjøre om vilkårene for registrering som gruppemedlemmer er oppfylt:\na. søkerens navn, adresse og person- eller organisasjonsnummer\nb. gruppesøksmålet begjæringen gjelder og\nc. det krav som gjøres gjeldende, og det faktiske grunnlaget for kravet."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Grupperegisteret",
+   "ledd": [
+    "Retten skal så snart den har avgjort begjæringen om registrering varsle søkeren om resultatet og føre vedkommende inn i grupperegisteret dersom begjæringen blir tatt til følge.",
+    "Grupperegisteret føres elektronisk av domstolen, og skal så snart det er opprettet legges ut på lukket nettside for gruppemedlemmene, grupperepresentanten, prosessfullmektigen for gruppesøksmålet, saksøkte og saksøktes prosessfullmektig. Medlemmenes personnummer skal ikke legges ut på nettsiden. Grupperegisteret skal oppdateres når noen melder seg på eller trer ut av gruppesøksmålet.",
+    "Grupperegisteret føres av den instans som behandler saken. Anke over kjennelser om saksbehandlingen etter tvisteloven § 29-3 (2) eller over beslutninger etter tvisteloven § 29-3 (3), medfører ikke at ankeinstansen får plikt til å føre grupperegister."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Uttreden som gruppemedlem i gruppesøksmål",
+   "ledd": [
+    "Enhver kan tre ut som gruppemedlem. Det gjøres ved sletting i grupperegisteret for medlemmer i gruppesøksmål etter § 35-6 og ved innføring i utmeldingsregisteret for medlemmer i gruppesøksmål etter § 35-7. Begjæring om utmelding framsettes for den domstolen som behandler gruppesøksmålet. Kravene i § 1 annet ledd første, annet og tredje punktum bokstav a og b gjelder tilsvarende. Utmeldingen er virksom fra det tidspunktet retten mottar begjæringen.",
+    "Straks etter mottak av en begjæring om uttreden, skal retten sørge for at gruppemedlemmet slettes fra grupperegisteret eller innføres i utmeldingsregistret."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Utmeldingsregister",
+   "ledd": [
+    "Utmeldingsregisteret føres elektronisk av domstolen.",
+    "Gruppemedlemmene, grupperepresentanten, prosessfullmektigen for gruppesøksmålet, saksøkte og saksøktes prosessfullmektig har rett til innsyn i utmeldingsregisteret fra det tidspunktet gruppesøksmålet er fremmet.",
+    "Reglene i § 2 tredje ledd gjelder tilsvarende for utmeldingsregister."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Undergrupperegister",
+   "ledd": [
+    "I saker hvor retten etter tvisteloven § 35-10 annet ledd bestemmer at det skal være undergrupper, skal det opprettes undergrupperegistre som er knyttet til grupperegisteret for gruppesøksmålet. Bestemmelsene i § 2 og § 3 gjelder tilsvarende for undergrupperegister."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "Ikraftsetting",
+   "ledd": [
+    "Forskriften trer i kraft 1. januar 2008."
+   ]
+  }
+ ]
+}

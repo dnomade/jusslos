@@ -1,0 +1,73 @@
+{
+ "skjema": "1.0",
+ "type": "lov",
+ "datokode": "LOV-1996-11-29-69",
+ "dokumentid": "NL/lov/1996-11-29-69",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "ikraft": "1998-01-01",
+ "siste_endring_ikraft": "2016-06-17",
+ "sist_endret_ved": [
+  {
+   "ref": "lov/2016-06-17-38",
+   "tekst": "lov/2016-06-17-38"
+  }
+ ],
+ "endrer": "lov/1956-11-30-1",
+ "rettsomrade": [
+  "Skatte- og avgiftsrett > Jan Mayen-skatt",
+  "Svalbard og biland > Generelt"
+ ],
+ "siste_rettelse": "2021-07-07 (faglige fotnoter fjernet, struktur)",
+ "korttittel": "Jan Mayen-skatteloven",
+ "tittel": "Lov om skattlegging av personer på Jan Mayen og i Antarktis (Jan Mayen-skatteloven)",
+ "annet": "Lovens tittel endret ved lover 14 des 2007 nr. 105, 17 juni 2016 nr. 38 (korttittel tilføyd). – Jf. tidligere lov 30 nov 1956 nr. 1.",
+ "refid": "lov/1996-11-29-69",
+ "eli": "/eli/lov/1996/11/29/69",
+ "url": "https://lovdata.no/dokument/NL/lov/1996-11-29-69",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": null,
+   "ledd": [
+    "Personer som oppholder seg på Jan Mayen eller i de norske bilandene i Antarktis, svarer skatt av inntekt vunnet ved arbeid der etter bestemmelsene om lønnstrekk i lov om skatt til Svalbard. Lov om skatt til Svalbard § 2-2 gjelder tilsvarende."
+   ],
+   "endringer": [
+    "Endret ved lov 14 des 2007 nr. 105 (f o m inntektsåret 2008)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": null,
+   "ledd": [
+    "Skatten beregnes etter samme satser som Stortinget for hver budsjettermin har vedtatt for Svalbard."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": null,
+   "ledd": [
+    "Skatten tilfaller den kommune hvor skattyteren etter reglene i skatteloven anses bosatt."
+   ],
+   "endringer": [
+    "Endret ved lov 26 mars 1999 nr. 14 (ikr. 1 jan 2000)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": null,
+   "ledd": [
+    "Denne lov trer i kraft med virkning fra 1. januar 1998. Samtidig oppheves lov av 30. november 1956 nr. 1 om skattlegging av personer på Jan Mayen."
+   ]
+  }
+ ]
+}

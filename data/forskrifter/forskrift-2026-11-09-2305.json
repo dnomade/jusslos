@@ -1,0 +1,128 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2026-11-09-2305",
+ "dokumentid": "SF/forskrift/2026-11-09-2305",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "etat": [
+  "Fiskeridirektoratet"
+ ],
+ "ikraft": "2027-01-01",
+ "endrer": "forskrift/1999-12-16-1342",
+ "hjemmel": [
+  {
+   "ref": "forskrift/1999-12-16-1342/§7",
+   "tekst": "forskrift/1999-12-16-1342/§7"
+  },
+  {
+   "ref": "lov/1976-12-17-91/§4",
+   "tekst": "lov/1976-12-17-91/§4"
+  },
+  {
+   "ref": "lov/1976-12-17-91/§6",
+   "tekst": "lov/1976-12-17-91/§6"
+  },
+  {
+   "ref": "forskrift/1980-05-23-4",
+   "tekst": "forskrift/1980-05-23-4"
+  },
+  {
+   "ref": "lov/2008-06-06-37/§16",
+   "tekst": "lov/2008-06-06-37/§16"
+  },
+  {
+   "ref": "lov/2008-06-06-37/§34",
+   "tekst": "lov/2008-06-06-37/§34"
+  },
+  {
+   "ref": "lov/2008-06-06-37/§35",
+   "tekst": "lov/2008-06-06-37/§35"
+  },
+  {
+   "ref": "lov/2008-06-06-37/§36",
+   "tekst": "lov/2008-06-06-37/§36"
+  },
+  {
+   "ref": "lov/2008-06-06-37/§37",
+   "tekst": "lov/2008-06-06-37/§37"
+  },
+  {
+   "ref": "lov/2008-06-06-37/§39",
+   "tekst": "lov/2008-06-06-37/§39"
+  },
+  {
+   "ref": "lov/2008-06-06-37/§43",
+   "tekst": "lov/2008-06-06-37/§43"
+  },
+  {
+   "ref": "lov/2008-06-06-37/§59",
+   "tekst": "lov/2008-06-06-37/§59"
+  }
+ ],
+ "kunngjort": "2026-11-10 15:15",
+ "tittel": "Forskrift om endring i forskrift om satelittbasert overvåking av utenlandske fiskefartøys aktivitet i Norges indre farvann, sjøterritorium og økonomiske sone, fiskerisonen ved Jan Mayen og fiskevernsonen ved Svalbard",
+ "annet": "Hjemmel: Fastsatt av Fiskeridirektoratet 9. november 2026 med hjemmel i forskrift 16. desember 1999 nr. 1342 om satelittbasert overvåking av utenlandske fiskefartøys aktivitet i Norges indre farvann, sjøterritorium og økonomiske sone, fiskerisonen ved Jan Mayen og fiskevernsonen ved Svalbard § 7, jf. lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar (havressurslova) §§ 16, 34, 35, 36, 37, 39, 43 og 59 og lov 17. desember 1976 nr. 91 om Norges økonomiske sone §§ 4 og 6, jf. delegeringsvedtak 23. mai 1980 nr. 4.",
+ "refid": "forskrift/2026-11-09-2305",
+ "eli": "/eli/forskrift/2026/11/09/2305",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2026-11-09-2305",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "I forskrift 16. desember 1999 nr. 1342 om satelittbasert overvåking av utenlandske fiskefartøys aktivitet i Norges indre farvann, sjøterritorium og økonomiske sone, fiskerisonen ved Jan Mayen og fiskevernsonen ved Svalbard gjøres følgende endringer:\n§ 1 første ledd bokstav b og d (endret) skal lyde:\nb. Fiskefartøy fra og med 12 meter største lengde som fører flagg fra medlemsstater i Den europeiske union\nd. Fiskefartøy som fører flagg fra Storbritannia\n§ 2 (endret) skal lyde:"
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-foreslåttparagraf-1",
+     "nummer": null,
+     "tittel": null,
+     "ledd": [
+      "§ 2. Sporing",
+      "Fiskefartøy som oppholder seg i områdene som nevnt i § 1 skal ha installert om bord posisjonsrapporteringsutstyr og skal være underlagt sporing med vidererapportering til Fiskeridirektoratet. Utstyret skal til enhver tid ha dekning i de områdene fartøyet oppholder seg, og skal støtte kommunikasjon via satellitt. Utstyret kan i tillegg kombineres med andre kommunikasjonsteknologier.",
+      "Sporingsutstyret skal automatisk sende fortløpende meldinger i maskinlesbar form minst 1 gang per time og ved inngang og utgang av områdene nevnt i § 1. For fartøy som nevnt i § 1 bokstav b, d og e skal meldingene sendes minst hvert 10. minutt så lenge fartøyet oppholder seg i områdene.",
+      "Når et fartøy har sendt automatiske posisjonsmeldinger i henhold til første og annet ledd fra samme posisjon i mer enn fire timer, kan slike meldinger sendes med en hyppighet på minst en gang hver tolvte time.",
+      "Meldingen skal inneholde følgende:\na. entydig identifikasjon av fartøyet,\nb. fartøyets geografiske posisjon i rapporteringsøyeblikket med en posisjonsfeil på under 20 meter, for fartøy som nevnt i § 1 bokstav a og c under 500 meter, med et konfidensintervall på 99 %,\nc. dato og tidspunkt for fartøyets posisjon,\nd. fart og kurs i rapporteringsøyeblikket.",
+      "Fiskeridirektoratet kan fastsette nærmere regler om vidererapportering til Fiskeridirektoratet av meldinger i henhold til denne bestemmelse."
+     ],
+     "fremtidig": true
+    },
+    {
+     "type": "tekst",
+     "tekst": "§ 5 (endret) skal lyde:"
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-foreslåttparagraf-2",
+     "nummer": null,
+     "tittel": null,
+     "ledd": [
+      "§ 5. Feil i forbindelse med satellittsporing",
+      "Dersom det oppstår feil i forbindelse med satellittsporing, slik at Fiskeridirektoratet ikke mottar meldingene som nevnt i § 2, skal fartøyene minst en gang hver tolvte time sende slik melding via telefaks. Dette gjelder også inngangs- og utgangsmelding som nevnt i § 2.",
+      "Første ledd gjelder ikke for fartøy som nevnt i § 1 bokstav b og d. Dersom det oppstår teknisk feil, kommunikasjonsfeil eller manglende funksjon i posisjonsrapporteringsutstyret på slike fartøy, skal ansvarshavende om bord straks varsle flaggstatens FMC. Så lenge fartøyet befinner seg i områdene som nevnt i § 1, skal det deretter sendes manuell posisjonsmelding med opplysninger som nevnt i § 2 fjerde ledd til flaggstatens FMC for videreformidling til Fiskeridirektoratet minst hver fjerde time, og i tillegg før fartøyet forlater områdene.",
+      "Fiskeridirektoratet kan gjøre unntak fra andre ledd, eller kreve at det enkelte fartøy sender manuell posisjonsmelding oftere enn det som følger av andre ledd."
+     ],
+     "fremtidig": true
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Endringene trer i kraft 1. januar 2027."
+    }
+   ]
+  }
+ ]
+}

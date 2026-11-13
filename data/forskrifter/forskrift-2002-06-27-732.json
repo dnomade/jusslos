@@ -1,0 +1,820 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2002-06-27-732",
+ "dokumentid": "SF/forskrift/2002-06-27-732",
+ "departement": [
+  "Landbruks- og matdepartementet"
+ ],
+ "etat": [
+  "Avd. for matpolitikk"
+ ],
+ "kunngjort_i": "I 2002 hefte 8",
+ "siste_endring_ikraft": "2024-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2023-12-20-2165",
+   "tekst": "forskrift/2023-12-20-2165 fra 2024-01-01"
+  }
+ ],
+ "endrer": "forskrift/1994-06-29-702\nforskrift/1994-06-30-667\nforskrift/1994-06-30-703\nforskrift/1994-06-30-704\nforskrift/1994-06-30-705\nforskrift/1994-06-30-706\nforskrift/1995-03-06-237",
+ "gjelder_for": "Svalbard",
+ "hjemmel": [
+  {
+   "ref": "lov/2003-12-19-124/§19",
+   "tekst": "lov/2003-12-19-124/§19"
+  },
+  {
+   "ref": "lov/2003-12-19-124/§33",
+   "tekst": "lov/2003-12-19-124/§33"
+  },
+  {
+   "ref": "lov/2003-12-19-124/§36",
+   "tekst": "lov/2003-12-19-124/§36"
+  },
+  {
+   "ref": "forskrift/2003-12-19-1790",
+   "tekst": "forskrift/2003-12-19-1790"
+  }
+ ],
+ "kunngjort": "2002-07-12",
+ "siste_rettelse": "2022-04-29 (tegnsetting i lister tilpasset universell utforming)",
+ "korttittel": "Tiltak mot sjukdommer og zoonotiske agens hos dyr på Svalbard",
+ "tittel": "Forskrift om tiltak mot sjukdommer og zoonotiske agens hos dyr på Svalbard",
+ "annet": "Hjemmel: Fastsatt av Landbruksdepartementet (nå Landbruks- og matdepartementet) 27. juni 2002 med hjemmel i lov av 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) § 19, § 33 første ledd, jf. § 36 andre ledd, jf. delegeringsvedtak av 19. desember 2003 nr. 1790.\nEndret ved forskrifter 26 mars 2003 nr. 416, 17 juli 2003 nr. 964, 9 jan 2004 nr. 114, 24 mars 2004 nr. 593, 8 mars 2005 nr. 223, 6 juni 2006 nr. 635, 17 nov 2006 nr. 1288, 29 mars 2007 nr. 511, 16 juli 2010 nr. 1127, 23 juli 2012 nr. 761, 19 des 2014 nr. 1840, 26 april 2018 nr. 752, 26 april 2018 nr. 752 (i kraft 1 jan 2020), 6 april 2022 nr. 635 (i kraft 28 april 2022, bl.a. tittel), 20 des 2023 nr. 2165 (i kraft 1 jan 2024).\nRettelser: 29.04.2022 (tegnsetting i lister tilpasset universell utforming).",
+ "refid": "forskrift/2002-06-27-732",
+ "eli": "/eli/forskrift/2002/06/27/732",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2002-06-27-732",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "Kapittel I. Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrift 26 april 2018 nr. 752 (i kraft 1 juli 2018, hele kapitlet endret)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Formål",
+     "ledd": [
+      "Forskriften skal fremme god dyrehelse og bidra til god folkehelse og dyrevelferd ved å regulere hvordan sjukdommer hos dyr skal forebygges, kontrolleres, begrenses og utryddes."
+     ],
+     "endringer": [
+      "Endret ved forskrift 26 april 2018 nr. 752 (i kraft 1 juli 2018, hele kapitlet endret)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Forskriften gjelder tiltak mot sjukdom hos pattedyr, fugler, reptiler, amfibier, bier og humler. Forskriften gjelder også tiltak mot at smittestoffer overføres mellom slike dyr og mellom slike dyr og mennesker.",
+      "Forskriften gjelder på Svalbard."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 9 jan 2004 nr. 114, 24 mars 2004 nr. 593 (kraft 1 april 2004), 23 juli 2012 nr. 761, 19 des 2014 nr. 1840 (i kraft 1 jan 2015), 26 april 2018 nr. 752 (i kraft 1 juli 2018, hele kapitlet endret), 6 april 2022 nr. 635 (i kraft 28 april 2022)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "I denne forskriften menes med\na. «A-, B- og C-sjukdommer»: inndeling av sjukdommer i vedleggene til forskrift 19. desember 2014 nr. 1841 om varsel og melding om sjukdom hos dyr på Svalbard.\nb. «besetning»: gruppe med dyr som utgjør en smittemessig enhet.\nc. «besøksgård»: dyrehold som har som hovedformål å vise fram husdyr til publikum.\nd. «dyreansamling»: enhver organisert samling av dyr fra forskjellige besetninger, herunder utstillinger, kåringssjå, stevner, markeder, konkurranser og totalisatorløp. Unntatt er sirkus, dyreparker, besøksgårder, oppsamlingssentraler og fellesbeiter inkludert samlekveer.\ne. «fjørfe»: høns, kalkuner, gjess, ender, rapphøns, vaktler, fasaner, perlehøns, duer og strutsefugler som oppdrettes eller holdes i fangenskap.\nf. «hjort»: dyr av underartene Cervus elaphus atlanticus og Cervus dama dama.\ng. «husdyr»: domestiserte pattedyr og fjørfe.\nh. «kameldyr»: alpakka, kameler, lamaer og andre dyr av familien Camelidae.\ni. «klauvdyr»: drøvtyggere, svin og kameldyr.\nj. «livdyr»: dyr som omsettes eller transporteres med tanke på at det skal leve videre.\nk. «livdyrsamarbeid»: avtale mellom inntil 4 småfeholdere som innebærer at dyr systematisk flyttes mellom besetninger eller deltar på fellesseter hvor dyra melkes.\nl. «nasjonal oppsamlingssentral»: lokaler hvor livdyr som kommer fra ulike besetninger og er under transport innenlands, samles slik at de danner midlertidige partier av dyr.\nm. «næringsretta dyrehold»: hold av storfe, sau, geit, svin, oppdrettshjort, pelsdyr og fjørfe i virksomhet som mottar produksjonstilskudd og/eller har en omsetning som overstiger grensen for å være merverdiavgiftspliktig. Alt hold av kameldyr omfattes av reglene for næringsretta dyrehold. Begrepet omfatter ikke dyreansamlinger, dyreparker, sirkus og besøksgårder.\nn. «sjukdom»: tilfeller hvor dyr viser tegn på svekka helsetilstand eller hvor prøver fra dyr viser forekomst av smittestoffer eller andre agens som kan føre til svekka helsetilstand for dyr eller mennesker.\no. «småfe»: sau av slekta Ovis spp. og geit av slekta Caprae spp.\np. «storfe»: dyr av slekta Bos spp., vannbøffel av arten Bubalus bubalus og bison av arten Bison bison.\nq. «svin»: dyr av familien Suidae.\nr. «TSE»: fellesbetegnelse for kugalskap, skrapesjuke, skrantesjuke og andre sjukdommer som skyldes overførbare (transmissible) spongiforme encefalopatier hos dyr.\ns. «åpen gård»: næringsretta dyrehold som er midlertidig åpent for publikum."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 26 april 2018 nr. 752 (i kraft 1 juli 2018, hele kapitlet endret), 6 april 2022 nr. 635 (i kraft 28 april 2022)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "Kapittel II. Generelle forebyggende tiltak",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrift 26 april 2018 nr. 752 (i kraft 1 juli 2018, hele kapitlet endret)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 4",
+     "tittel": "Håndtering og behandling av sjuke dyr",
+     "ledd": [
+      "Dyreholderen skal sikre at sjuke dyr tas hånd om og får forsvarlig behandling for å hindre smittespredning til andre dyr eller til mennesker. Hvis det er nødvendig, skal dyreholderen kontakte en veterinær."
+     ],
+     "endringer": [
+      "Endret ved forskrift 26 april 2018 nr. 752 (i kraft 1 juli 2018, hele kapitlet endret)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 5",
+     "tittel": "Hygiene",
+     "ledd": [
+      "Varmt og kaldt vann skal være tilgjengelig i dyreholdet. Det skal være mulig å rengjøre hender, støvler, overtrekkstøy og utstyr.",
+      "Utstyr, innredning og andre gjenstander som kan spre smitte, skal være tilstrekkelig rengjort og om nødvendig desinfisert før de blir tatt inn i dyreholdet.",
+      "Personer som har besøkt dyrehold med klauvdyr eller fjørfe i utlandet, kan ikke besøke dyrehold med klauvdyr eller fjørfe før det har gått 48 timer etter besøket i dyreholdet. Når det gjelder besøk i svinehold, vises det i tillegg til forskrift 14. februar 2018 nr. 247 om smitteforebyggende tiltak mot visse antibiotikaresistente bakterier hos svin."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 9 jan 2004 nr. 114, 19 des 2014 nr. 1840 (i kraft 1 jan 2015), 26 april 2018 nr. 752 (i kraft 1 juli 2018, hele kapitlet endret)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 6",
+     "tittel": "Særskilte hygienekrav i næringsretta dyrehold",
+     "ledd": [
+      "For å forebygge smitte, skal næringsretta dyrehold ha de følgende innretningene hensiktsmessig plassert:\na. et sted som er delt i tydelige soner der personer kan sluses inn og ut av besetninga. I denne smitteslusa skal personer reingjøre hender og medbragt utstyr, skifte fottøy og klær eller ta på overtrekkstøy. Om nødvendig skal både personer og utstyr desinfiseres. Hvilke personer som skal bruke smitteslusa, skal framgå av smittevernplanen etter § 8.\nb. ei særskilt dør eller en port som brukes til å laste dyr inn eller ut. Kravet gjelder ikke for pelsdyr eller for besetninger i driftsbygninger eller anlegg som ble bygget før 1. januar 2020, og som ikke har blitt vesentlig ombygget etter 1. januar 2020.\nc. i melkeproduserende besetninger, ei dør eller en annen innretning som bare brukes av tankbilsjåfører som henter melk.",
+      "Inngangen til bygninger med dyr skal være merket med oppslag om at det bare er adgang hvis dyreholderen tillater det.",
+      "Dyreholderen må sørge for at dyretransportører som må inn i et tilholdsrom for å hente dyr, skal ha rent og ved behov desinfisert fottøy og overtrekkstøy. Hvis besetningens fottøy og overtrekkstøy benyttes, må dette vaskes og ved behov desinfiseres etter bruk.",
+      "Materialene og innredningen i tilholdsrommet for dyrene, smitteslusa og fôrlageret skal kunne rengjøres. Rommene skal holdes ryddige og rene og desinfiseres ved behov. Rommene skal også så langt det er praktisk mulig, være sikret mot gnagere og ville fugler. Fôr skal oppbevares hygienisk forsvarlig.",
+      "Toaletter skal ikke ha avløp til eller tømmes i gjødsellageret. Dette gjelder ikke toaletter som er installert før 1. januar 2020."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 9 jan 2004 nr. 114, 26 april 2018 nr. 752 (i kraft 1 juli 2018, hele kapitlet endret)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 7",
+     "tittel": "Kunnskap om dyrehelse",
+     "ledd": [
+      "Dyreholdere i næringsretta dyrehold skal ha oppdaterte kunnskaper om\na. sjukdommer hos dyr\nb. sjukdommer som kan overføres mellom dyr og mennesker\nc. forebyggende tiltak mot smitteoverføring og resistensutvikling\nd. sammenhengen mellom dyrehelse, dyrevelferd og folkehelse.",
+      "Dyreholdere i næringsretta dyrehold skal ha gjennomført et kurs i dyrehelse. Nye dyreholdere skal ha gjennomført kurset i løpet av det første året som dyreholder. Kurset skal være godkjent av Mattilsynet.",
+      "Kravet om kurs gjelder ikke dyreholdere som kan dokumentere kompetanse i dyrehelse på agronomnivå eller høyere."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 9 jan 2004 nr. 114, 26 april 2018 nr. 752 (i kraft 1 juli 2018 og 1 jan 2020, hele kapitlet endret)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 8",
+     "tittel": "Rutiner for smittevern",
+     "ledd": [
+      "Dyreholdere i næringsretta dyrehold skal ha rutiner som sikrer godt smittevern.",
+      "Rutinene skal beskrives i en skriftlig smittevernplan. Den skal inneholde en plantegning over dyre- og persontrafikken, være tilpassa hvert enkelt dyrehold og omfatte hele driftsopplegget. Smittevernplanen skal blant annet beskrive hvordan\na. dyr tas inn og ut av dyreholdet, inkludert til og fra beite\nb. god dyrehelse sikres ved livdyrkjøp, inkludert mulighet for å oppstalle dyra separat\nc. melk og egg leveres\nd. mulig smitte fra egen og innleid arbeidskraft hindres\ne. persontrafikken inn og ut av dyreholdet foregår, med særlige krav til veterinærer og andre som er tilknytta eller i mulig kontakt med andre dyrehold\nf. kadaver, gjødsel og avfall håndteres og hentes\ng. fôrhygiene, vanningsanlegg, strø, redskap og utstyr sikres\nh. desinfeksjonsmiddel er tilgjengelig\ni. risikoen for å spre smitte ved krysstrafikk mellom dyr, mennesker og kjøretøy i nærheten av tilholdsrom for dyr kan reduseres.",
+      "Dyreholderen skal sikre at alle som arbeider i dyreholdet, kjenner og følger smittevernplanen. Den skal oppdateres årlig og legges fram når Mattilsynet ber om det."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 26 mars 2003 nr. 416, 9 jan 2004 nr. 114, 17 nov 2006 nr. 1288, 23 juli 2012 nr. 761, 26 april 2018 nr. 752 (i kraft 1 juli 2018, hele kapitlet endret)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-6",
+     "nummer": "§ 9",
+     "tittel": "Helseopplysninger",
+     "ledd": [
+      "I næringsretta dyrehold skal dyreholderen sikre at det føres oppdatert journal med nødvendige individuelle og kollektive helseopplysninger om\na. sjukdommer og skader hos dyra og mulige årsaker\nb. behandlingen av sjukdommer og skader hos dyra\nc. det forebyggende helsearbeidet i dyreholdet\nd. døde dyr og mulige dødsårsaker\ne. avliving av dyr og årsaken til avlivinga.",
+      "Dokumentasjonen skal være tilgjengelig i minst 5 år etter at dyret døde. Når dyr flyttes til andre dyrehold, skal helseopplysningene følge dyra. Kopi skal oppbevares i avsenderbesetninga i 5 år.",
+      "Dyreholderen skal legge fram dokumentasjonen hvis Mattilsynet ber om den.",
+      "Denne paragrafen gjelder også kommersielt hold med tamrein og kanin. Paragrafen gjelder ikke for pelsdyr."
+     ],
+     "endringer": [
+      "Opphevet ved forskrift 17 juli 2003 nr. 964 (i kraft 1 aug 2003), tilføyd ved forskrift 26 april 2018 nr. 752 (i kraft 1 juli 2018, hele kapitlet endret)."
+     ],
+     "opphevet": "2018-07-01"
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-7",
+     "nummer": "§ 10",
+     "tittel": "Dyreansamlinger og åpne gårder",
+     "ledd": [
+      "Dyreansamlinger og framvisning i åpne gårder skal gjennomføres på en måte som i størst mulig grad hindrer smitteoverføring.",
+      "Den ansvarlige for dyreansamlinger og åpne gårder skal sende ei melding til Mattilsynet om arrangementet seinest 7 dager i forveien. Meldinga skal inneholde nødvendige opplysninger om\na. stedet, omfanget og tidsrommet\nb. dyreartene og andre nødvendige opplysninger om dyra\nc. antallet dyr av hver art\nd. planlagte tiltak for å hindre smitteoverføring.",
+      "Dyreansamlinger skal være smittemessig skilt fra permanent dyrehold.",
+      "Den ansvarlige for dyreansamlinga skal sikre at dyra følges av ei egenerklæring fra dyreholderen. Dyr fra andre fylker enn der dyreansamlinga foregår, skal i tillegg følges av en veterinærattest. Egenerklæringa og veterinærattesten skal dokumentere at dyra ikke viser tegn på smittsom sjukdom, og at de ikke kommer fra dyrehold som er pålagt offentlige restriksjoner på grunn av smittsom sjukdom. Dokumentasjonen er gyldig i 7 dager fra utstedelsesdatoen. Dokumentasjonen skal oppbevares hos arrangøren i ett år og legges fram når Mattilsynet ber om det.",
+      "Fjerde ledd gjelder ikke for hester, hunder og katter. Det gjelder heller ikke mindre pattedyr og burfugler som holdes som kjæledyr."
+     ],
+     "endringer": [
+      "Opphevet ved forskrift 29 mars 2007 nr. 511, tilføyd ved forskrift 26 april 2018 nr. 752 (i kraft 1 juli 2018, hele kapitlet endret)."
+     ],
+     "opphevet": "2018-07-01"
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-8",
+     "nummer": "§ 11",
+     "tittel": "Nasjonale oppsamlingssentraler",
+     "ledd": [
+      "Nasjonale oppsamlingssentraler for dyr fra næringsretta dyrehold skal være skilt fra andre dyrehold. Dyr som skal videre til slakteri, kan oppstalles i oppsamlingssentralen, men ikke samtidig med livdyr.",
+      "Den driftsansvarlige for oppsamlingssentralen skal sikre at livdyr fra næringsretta dyrehold følges av en veterinærattest. Attesten skal dokumentere at dyra ikke viser tegn på smittsom sjukdom, og at de ikke kommer fra ei besetning som er pålagt offentlige restriksjoner på grunn av smittsom sjukdom. Veterinærattesten er gyldig i 7 dager fra utstedelsesdatoen.",
+      "For øvrig gjelder forskrift 11. august 2015 nr. 958 om omsetning og midlertidig hold av dyr."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 26 mars 2003 nr. 416, 9 jan 2004 nr. 114, 24 mars 2004 nr. 593 (kraft 1 april 2004), 6 juni 2006 nr. 635, 26 april 2018 nr. 752 (i kraft 1 juli 2018, hele kapitlet endret)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-9",
+     "nummer": "§ 12",
+     "tittel": "Transport av dyr fra næringsretta dyrehold",
+     "ledd": [
+      "Transportøren skal sikre at dyr fra et næringsretta dyrehold\na. ikke transporteres tilbake til det dyreholdet de kommer fra eller til andre dyrehold når dyra er lasta på transportmidlet for å transporteres til slakteriet eller er tatt inn på slaktefjøset\nb. oppstalles eller omlastes under transport på et sted som er skilt fra andre dyr, slik at smitte ikke kan overføres.",
+      "Transportmidler, transportrom, kasser, bur, containere og andre gjenstander som brukes ved transport av dyr fra næringsretta dyrehold, skal være lette å reingjøre. Gjenstandene skal være grundig reingjort og om nødvendig desinfisert før de brukes i ei ny besetning. Ved transport til slakteri gjelder reingjøringskravet når dyra er levert på slakteriet.",
+      "Transportøren skal føre journal over alle besøkte næringsretta dyrehold og hvilke dyrehold som samtidig har hatt dyr på samme transportmiddel. Journalen skal føres daglig, oppbevares i ett år og legges fram for Mattilsynet ved behov."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 6 juni 2006 nr. 635, 26 april 2018 nr. 752 (i kraft 1 juli 2018, hele kapitlet endret)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-10",
+     "nummer": "§ 13",
+     "tittel": "Opprettelse av dyrehelseregioner",
+     "ledd": [
+      "Som ledd i å forebygge spredning av sjukdommer, kan det fastsettes forskrifter om å opprette dyrehelseregioner med ulik helse- og sjukdomsstatus."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 6 juni 2006 nr. 635, 26 april 2018 nr. 752 (i kraft 1 juli 2018, hele kapitlet endret)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kapIII",
+   "overskrift": "Kapittel III. Vaksinasjon",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrift 26 april 2018 nr. 752 (i kraft 1 juli 2018, hele kapitlet endret)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 14",
+     "tittel": "Bruk av vaksiner",
+     "ledd": [
+      "Dyr skal ikke vaksineres mot A- og B-sjukdommer. Forbudet mot slik vaksinering gjelder ikke vaksinasjonene i vedlegg I og påbudte vaksinasjoner etter § 15 dersom Mattilsynet har gitt tillatelse til å bruke vaksinen eller Direktoratet for medisinske produkter har gitt markedsføringstillatelse for vaksinen. Forbudet gjelder heller ikke forsøk for å utvikle og teste vaksiner til dyr i virksomheter som har tillatelse til å utføre slike forsøk.",
+      "Dyr kan vaksineres mot andre sjukdommer enn A- og B-sjukdommer hvis Mattilsynet har gitt tillatelse til å bruke vaksinen. Vilkåret om brukstillatelse gjelder ikke vaksinasjonene i vedlegg II hvis Direktoratet for medisinske produkter har gitt markedsføringstillatelse for vaksinen.",
+      "Virksomheter eller personer som importerer, omsetter, rekvirerer eller bruker vaksiner, skal dokumentere nødvendige opplysninger om all import, omsetning og bruk. Slike opplysninger skal legges fram når Mattilsynet ber om det."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 6 juni 2006 nr. 635, 26 april 2018 nr. 752 (i kraft 1 juli 2018, hele kapitlet endret), 20 des 2023 nr. 2165 (i kraft 1 jan 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 15",
+     "tittel": "Påbud om vaksinasjon",
+     "ledd": [
+      "Mattilsynet kan i særskilte tilfeller fatte vedtak med påbud om vaksinasjon mot enhver sjukdom.",
+      "Duer som skal delta på utstillinger, i konkurranser eller i treningsflyginger, skal være vaksinert mot paramyxovirusinfeksjon og komme fra besetninger der alle duene er vaksinert mot denne sjukdommen. Veterinærer som er ansvarlig for vaksinasjonen, skal melde fra til Mattilsynet om vaksinasjonen."
+     ],
+     "endringer": [
+      "Endret ved forskrift 26 april 2018 nr. 752 (i kraft 1 juli 2018, hele kapitlet endret)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kapIV",
+   "overskrift": "Kapittel IV. Inspeksjon, prøvetaking, overvåking og isolasjon",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrift 26 april 2018 nr. 752 (i kraft 1 juli 2018, hele kapitlet endret)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 16",
+     "tittel": "Inspeksjon og prøvetaking",
+     "ledd": [
+      "Mattilsynet og personer på oppdrag fra Mattilsynet kan gjennomføre inspeksjoner, ta prøver av dyr, fôr, gjødsel eller annet og utføre andre undersøkelser i dyreholda når dette er nødvendig for å kunne bekjempe, overvåke og kartlegge sjukdommer, eller for å oppfylle Norges internasjonale forpliktelser. Dette gjelder også i virksomheter som håndterer og bearbeider animalske produkter.",
+      "Mattilsynet kan tillate at prøvene kan undersøkes for andre smittestoffer enn de som var den opprinnelige årsaken til at prøvene ble tatt.",
+      "Mattilsynet kan ved mistanke om A- eller B-sjukdom pålegge dyreholdere å avlive dyr for å gjennomføre spesielle undersøkelser. Dyreholderen kan også pålegges å sende dyret eller prøver av dyret for å undersøkes videre ved en diagnostisk institusjon.",
+      "Dyreholderen skal legge forholdene til rette for at det kan tas prøver av dyra. Nødvendig utstyr for å fange inn og fiksere dyra skal være tilgjengelig, og nødvendig bistand skal ytes.",
+      "Resultatene av Mattilsynets undersøkelser skal være tilgjengelige for dyreholderen."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 26 mars 2003 nr. 416. 26 april 2018 nr. 752 (i kraft 1 juli 2018, hele kapitlet endret)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 17",
+     "tittel": "Nasjonale overvåkingsprogrammer, isolasjon og undersøkelse",
+     "ledd": [
+      "Dyr som kommer fra ei besetning som ikke er overvåka gjennom nasjonale programmer for sjukdommene i vedlegg III, skal ikke flyttes til ei overvåka besetning før dyras smittestatus er undersøkt og Mattilsynet har funnet resultata fra undersøkelsen tilfredsstillende.",
+      "Mens smittestatusen undersøkes, skal dyra isoleres på et sted som på forhånd er godkjent av Mattilsynet. Isolasjonsstedet skal være utforma og plassert slik at smitte ikke spres.",
+      "Mattilsynet kan tillate at dyr som kommer fra ei besetning som ikke er overvåka, isoleres sammen med ei besetning som er overvåka. Hele besetninga regnes da for ikke å være overvåka.",
+      "Isolasjonsperioden skal ikke vare lenger enn\na. 6 måneder for storfe og kameldyr\nb. 2 år for sauer og geiter\nc. 2 måneder for svin og hjort\nd. 14 uker for høns, kalkuner, rapphøns, vaktler, fasaner, perlehøns og strutsefugler.",
+      "Isolasjonsperioden for storfe og kameldyr skal likevel vare til dyra er minst 2 1/2 år gamle."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 9 jan 2004 nr. 114, 26 april 2018 nr. 752 (i kraft 1 juli 2018, hele kapitlet endret)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 18",
+     "tittel": "Varslingsplikt som ledd i overvåkningen av TSE og brucellose",
+     "ledd": [
+      "Som ledd i overvåkningen av TSE hos storfe, hjort og småfe og av brucellose hos storfe skal dyreholder, praktiserende veterinær eller dyretransportør varsle Mattilsynet i samsvar med vedlegg IV."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 9 jan 2004 nr. 114, 26 april 2018 nr. 752 (i kraft 1 juli 2018, hele kapitlet endret)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kapV",
+   "overskrift": "Kapittel V. Restriksjoner på flytting av dyr",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrift 26 april 2018 nr. 752 (i kraft 1 juli 2018, hele kapitlet endret)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 19",
+     "tittel": "Karenstid for storfe, svin og kameldyr",
+     "ledd": [
+      "Når storfe, svin og kameldyr flyttes fra ett dyrehold til et annet, skal dyra følges av ei egenerklæring som bekrefter at alle de følgende vilkåra er oppfylt:\na. Dyra i avsenderbesetninga har ikke vist tegn på smittsom sjukdom de siste 14 dagene før flytting.\nb. Dyra har oppholdt seg mer enn 30 dager i avsenderbesetninga før flytting, med unntak av dyr som er født i besetninga.\nc. Avsenderbesetninga har i løpet av de siste 14 dagene ikke mottatt klauvdyr fra andre besetninger, fellesbeiter eller dyreansamlinger.",
+      "Egenerklæringa skal ikke være eldre enn 7 dager og skal oppbevares i ett år i dyreholdet som mottar dyra, og legges fram når Mattilsynet ber om det.",
+      "Første og annet ledd gjelder ikke for dyreansamlinger, nasjonale oppsamlingssentraler, flytting til slakteri, flytting til og fra beite og fellessetre og flytting til institusjoner for forskning eller diagnostikk.",
+      "Første ledd bokstavene b og c gjelder ikke når kameldyr skal flyttes for bedekning hvis dette skjer smittemessig skilt fra andre dyr i besetninga, og dyra som flyttes, følges av en veterinærattest. Attesten skal ikke være eldre enn 7 dager og skal bekrefte at dyra ikke viser tegn på smittsom sjukdom. Attesten skal oppbevares i ett år og legges fram når Mattilsynet ber om det.",
+      "Første ledd bokstav c gjelder ikke for\na. purker innenfor en purkering\nb. svin fra besetninger som de siste 6 månedene har mottatt dyr fra bare ei anna besetning, og hvor dyra transporteres direkte fra avsenderen til mottakeren uten å komme i kontakt med dyr fra andre besetninger."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 9 jan 2004 nr. 114, 26 april 2018 nr. 752 (i kraft 1 juli 2018, hele kapitlet endret)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 20",
+     "tittel": "Flytting av dyr fra sirkus og andre særegne dyrehold",
+     "ledd": [
+      "Dyr i sirkus skal ikke ha kontakt med dyr utenfor sirkuset. Dyr fra dyreparker og besøksgårder kan bare flyttes henholdsvis til andre dyreparker og besøksgårder.",
+      "Utenom framvisningssesongen kan dyr fra sirkus, dyreparker og besøksgårder flyttes til andre oppholdssteder, der de ikke har kontakt med andre dyr. Dette skal meldes til Mattilsynet. Hunder og katter fra sirkus og besøksgårder, og hester fra besøksgårder, kan likevel ha kontakt med andre dyrehold. For hunder og katter fra sirkus gjelder dette bare utenom framvisningssesongen.",
+      "Dyr i institusjoner for forsking og diagnostikk kan ikke flyttes tilbake til opprinnelsesbesetninga eller til andre dyrehold. Dette gjelder ikke for\na. hester\nb. kjæledyr\nc. dyr som er oppstalla under særskilte smittebeskyttelsestiltak.",
+      "Lokaler som blir brukt til å oppstalle dyr under særskilte smittebeskyttelsestiltak, skal være godkjent av Mattilsynet. Institusjonene skal ha en smittevernplan for oppstallinga. Smittevernplanen skal legges fram når Mattilsynet ber om det.",
+      "Denne paragrafen gjelder ikke flytting av dyr til slakteriet."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 9 jan 2004 nr. 114, 19 des 2014 nr. 1840 (i kraft 1 jan 2015), 26 april 2018 nr. 752 (i kraft 1 juli 2018, hele kapitlet endret)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 21",
+     "tittel": "Klassifiserings- og flyttebestemmelser for å forebygge TSE hos sauer og geiter",
+     "ledd": [
+      "Saue- og geitebesetninger skal klassifiseres i samsvar med vedlegg V for å overvåke overførbare spongiforme encefalopatier (TSE).",
+      "Sauer og geiter kan ikke flyttes til ei småfebesetning som tilhører ei høyere klasse enn den besetninga dyra kommer fra. Avsenderbesetninga må minst være i TSE-klasse 3.",
+      "Annet og tredje ledd gjelder ikke dersom det i medhold av § 18 er gitt tillatelse til å isolere småfe sammen med overvåka besetning. I slike tilfeller tilhører hele besetninga den laveste klassa."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 9 jan 2004 nr. 114, 26 april 2018 nr. 752 (i kraft 1 juli 2018, hele kapitlet endret)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-4",
+     "nummer": "§ 22",
+     "tittel": "Flytting av sauer og geiter",
+     "ledd": [
+      "Hunndyr av sauer og geiter kan ikke flyttes mellom småfebesetninger. Mattilsynet kan likevel tillate slik flytting etter søknad fra mottakeren.",
+      "Sauer og geiter kan ikke flyttes\na. mellom småferegionene som er fastsatt i vedlegg VI\nb. ut av Nordland\nc. ut av området som består av Rogaland og kommunene Sveio og Etne i Hordaland.",
+      "Mattilsynet kan likevel tillate at dyr flyttes fra områdene som nevnt i annet ledd til utmarksbeiter. Tillatelsen kan gis for inntil 10 år. Mattilsynet kan også tillate at avlsdyr flyttes over regiongrenser dersom det er nødvendig for å opprettholde bevaringsverdige raser og andre raser med få dyr i en region. Slik avlsbegrunna flytting kan likevel ikke tillates ut av\na. region 2\nb. Nordland\nc. området som består av Rogaland og kommunene Sveio og Etne i Hordaland."
+     ],
+     "endringer": [
+      "Endret ved forskrift 26 april 2018 nr. 752 (i kraft 1 juli 2018, hele kapitlet endret)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-5",
+     "nummer": "§ 23",
+     "tittel": "Dokumentasjon ved flytting av sauer og geiter",
+     "ledd": [
+      "Når sauer og geiter flyttes til ei anna eller ny småfebesetning, skal dyreholderen sende med ei egenerklæring som bekrefter at avsenderbesetninga minst er i TSE-klasse 3. Egenerklæringa skal også bekrefte at det ikke er mistanke om klassisk skrapesjuke, paratuberkulose, mædi, CAE eller fotråte i avsenderbesetninga. Egenerklæringer som gjelder geiter skal også bekrefte at det ikke er mistanke om byllesjuke i avsenderbesetninga.",
+      "Når geiter flyttes til ei anna eller ny småfebesetning, skal dyreholderen sende med en attest fra en veterinær som har undersøkt dyra i avsenderbesetninga. Attesten skal bekrefte at dyra som flyttes, ikke har symptomer på smittsomme dyresjukdommer. Attesten skal også bekrefte at krava i vedlegg VII er oppfylt.",
+      "Annet ledd gjelder også når sauer flyttes over fylkesgrenser til ei anna eller ny småfebesetning. Annet ledd gjelder likevel ikke for sauer som flyttes mellom Oslo og Akershus og mellom Rogaland og kommunene Sveio eller Etne i Hordaland.",
+      "Egenerklæringa etter første ledd og veterinærattestene etter annet og tredje ledd skal ikke være eldre enn 7 dager når dyra flyttes. Dokumenta skal oppbevares i mottakerbesetninga i 5 år og legges fram når Mattilsynet ber om det."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 9 jan 2004 nr. 114, 8 mars 2005 nr. 223, 16 juli 2010 nr. 1127, 26 april 2018 nr. 752 (i kraft 1 juli 2018, hele kapitlet endret)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-6",
+     "nummer": "§ 24",
+     "tittel": "Unntak for sauer og geiter",
+     "ledd": [
+      "§ 21 annet ledd, § 22 og § 23 gjelder ikke når dyr flyttes\na. til slakterier\nb. til dyreklinikker\nc. fra sted til sted i sirkus\nd. til institusjoner for forskning og diagnostikk med lokaler godkjent etter § 20.",
+      "§ 22 og § 23 gjelder ikke når dyr flyttes til avlsstasjoner.",
+      "§ 22 første ledd og § 23 gjelder ikke lam og kje som oppdrettes for å slaktes før de er 8 måneder, og holdes skilt fra andre småfebesetninger etter flytting."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 9 jan 2004 nr. 114, 26 april 2018 nr. 752 (i kraft 1 juli 2018, hele kapitlet endret)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-7",
+     "nummer": "§ 25",
+     "tittel": "Unntak for registrerte livdyrsamarbeid for sauer og geiter",
+     "ledd": [
+      "§ 22 første ledd og § 23 gjelder ikke når sauer og geiter flyttes innafor et registrert livdyrsamarbeid. Livdyr kan bare flyttes ut av livdyrsamarbeidet hvis alle besetningene i samarbeidet oppfyller krava i § 23.",
+      "Første ledd gjelder bare hvis\na. livdyrsamarbeidet ikke består av flere enn fire dyreholdere\nb. samarbeidsavtalen er skriftlig\nc. det følgende er registrert hos Mattilsynet før dyra flyttes:\n1. samarbeidsavtalen\n2. identiteten til alle dyreholda i samarbeidet\n3. ei egenerklæring som bekrefter at krav som tilsvarer krava i § 23 første ledd er oppfylt\nd. besetningene ikke deltar i flere enn ett livdyrsamarbeid\ne. livdyrsamarbeidet ikke krysser fylkesgrenser. Dette vilkåret gjelder ikke grensa mellom Oslo fylke og Akershus fylke og mellom Rogaland fylke og kommunene Sveio og Etne i Hordaland.",
+      "Registreringa i annet ledd bokstav c er gyldig for 2 år av gangen."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 9 jan 2004 nr. 114, 26 april 2018 nr. 752 (i kraft 1 juli 2018, hele kapitlet endret)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-8",
+     "nummer": "§ 26",
+     "tittel": "Dokumentasjon ved flytting av fjørfe og rugeegg",
+     "ledd": [
+      "En dyreholder som kjøper, selger, mottar eller gir bort fjørfe eller rugeegg, skal føre en journal som viser\na. navn og adresser til avsendere og mottakere\nb. når og hvor mange dyr eller rugeegg som ble flytta",
+      "Opplysningene skal oppbevares i minst 2 år og legges fram når Mattilsynet ber om det."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 9 jan 2004 nr. 114, 26 april 2018 nr. 752 (i kraft 1 juli 2018, hele kapitlet endret)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kapVI",
+   "overskrift": "Kapittel VI. Generelt om tiltak mot sjukdommer",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrift 26 april 2018 nr. 752 (i kraft 1 juli 2018, tidligere V)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 27",
+     "tittel": "A-sjukdom",
+     "ledd": [
+      "Ved mistanke om eller tilfelle av A-sjukdom, gjelder følgende inntil annet er bestemt:\n1. Alle dyr i dyreholdet skal holdes isolert i sine respektive dyrerom eller på annet sted. Dyr skal verken føres til eller fra dyreholdet.\n2. Kjøtt, egg, melk og andre animalske produkter, kadaver, fôr, materiell, avfall, gjødsel, brukt strø og alt annet som kan tenkes å overføre sjukdommen skal ikke føres bort fra dyreholdet.\n3. Personer og kjøretøyer, unntatt personer og kjøretøyer i Mattilsynet sin tjeneste, skal ikke gis adgang til eller forlate dyreholdet. Inngang til bygninger, adkomstveier og eiendomsgrenser skal merkes med varselskilt etter anvisning fra Mattilsynet.\n4. Det skal brukes egnede desinfeksjonsmidler ved inngang til og utgang fra lokaler hvor dyr av arter som er mottakelige for sjukdommen oppholder seg, samt ved dyreholdets inn- og utganger.\n5. Dersom tungtveiende hensyn gjør det nødvendig kan det på nærmere bestemte vilkår som unntak fra forbuda i nummer 1 til 3 gis særskilt tillatelse til at\na. dyr av arter som ikke er mottakelige for den aktuelle sjukdommen føres ut av dyreholdet\nb. egg og melk transporteres ut av dyreholdet til nærmeste sted der den kan destrueres eller behandles\nc. personer og kjøretøy kan forflyttes til og fra dyreholdet.",
+      "Mattilsynet kan treffe de tiltak og gi de påbud det finner nødvendig for å forebygge, begrense eller utrydde A-sjukdom, blant annet gi påbud om at:\n1. tiltak nevnt i første ledd skal gjennomføres i andre dyrehold dersom det er grunn til å tro at disse har hatt kontakt med besetning hvor det er mistanke om eller påvist A-sjukdom\n2. besetning hvor A-sjukdom er påvist skal avlives og tilintetgjøres, animalske produkter fra besetningen skal oppspores og tilintetgjøres, og miljø og personer skal reingjøres og desinfiseres\n3. mistenkt tilfelle skal bekjempes som om sjukdommen var påvist, og at bekjempelsestiltak skal iverksettes i dyrehold som har hatt direkte eller indirekte kontakt med besetning hvor A-sjukdom er påvist\n4. meieri, slakteri, seminvirksomhet, dyretransport, livdyromsetning, fôr- og utstyrslevering, rådgivningsvirksomhet, servicevirksomhet og annen virksomhet med tilknytning til dyrehold skal gjennomføre tiltak, herunder utarbeide beredskapsplaner, mot A-sjukdom.",
+      "Mattilsynet kan pålegge enhver veterinær i embetsområdet å gjennomføre de tiltak og utføre de oppgaver det finner nødvendig for å bekjempe A-sjukdom."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 9 jan 2004 nr. 114, 26 april 2018 nr. 752 (i kraft 1 juli 2018, tidligere § 17)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 28",
+     "tittel": "B-sjukdom",
+     "ledd": [
+      "Ved mistanke om eller tilfelle av B-sjukdom, gjelder følgende inntil annet er bestemt:\n1. Dyr av arter som er mottakelige for sjukdommen skal ikke føres ut av dyreholdet.\n2. Dyreholder skal, så langt råd er, iverksette tiltak for å hindre smittespredning og bekjempe sjukdommen.\n3. Uvedkommende personer skal ikke gis adgang til dyrerom hvor dyr av arter som er mottakelige for sjukdommen oppholder seg. Inngang til driftsbygninger skal være merket med Mattilsynets varselskilt.",
+      "Mattilsynet kan:\n1. gi tillatelse til å føre dyr fra dyrehold hvor det er mistanke om eller påvist B-sjukdom til slakteri. Transportmidlet og eventuelle oppholdsrom på slakteriet skal i så fall reingjøres og desinfiseres snarest mulig etter bruk\n2. fastsette forbud mot å føre dyr til eller fra dyrehold hvor det er mistanke om eller påvist B-sjukdom\n3. fastsette forbud mot å føre kjøtt, melk, egg eller andre animalske produkter, kadaver, fôr, materiell, avfall, gjødsel, brukt strø og annet som kan tenkes å overføre sjukdommen fra dyrehold hvor det er mistanke om eller påvist B-sjukdom\n4. legge restriksjoner som nevnt i nr. 2 og 3 på dyrehold som det er grunn til å tro har hatt smittemessig kontakt med dyrehold hvor det er mistanke om eller påvist B-sjukdom, eller som på annen måte kan ha blitt utsatt for smitte.",
+      "Mattilsynet kan treffe de tiltak og gi de påbud det finner nødvendig for å forebygge, begrense eller utrydde B-sjukdom, blant annet gi påbud om at:\n1. besetning hvor B-sjukdom er påvist skal avlives og tilintetgjøres, animalske produkter fra besetningen skal oppspores og tilintetgjøres, og at miljø og personer skal reingjøres og desinfiseres\n2. mistenkt tilfelle skal bekjempes som om sjukdommen var påvist, og at bekjempelsestiltak skal iverksettes i dyrehold som har hatt direkte eller indirekte kontakt med besetning hvor B-sjukdom er påvist\n3. meieri, slakteri, seminvirksomhet, dyretransport, livdyromsetning, fôr- og utstyrslevering, rådgivningsvirksomhet, servicevirksomhet og annen virksomhet med tilknytning til dyrehold skal gjennomføre tiltak mot B-sjukdom."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 9 jan 2004 nr. 114, 26 april 2018 nr. 752 (i kraft 1 juli 2018, tidligere § 18)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-3",
+     "nummer": "§ 29",
+     "tittel": "C-sjukdom",
+     "ledd": [
+      "Dyr med kliniske tegn på C-sjukdom skal ikke bringes i kontakt med dyr fra andre besetninger.",
+      "Mattilsynet kan:\n1. dispensere fra forbudet i første ledd og sette vilkår for dispensasjonen\n2. legge ytterligere restriksjoner på dyrehold hvor det er mistanke om eller tilfelle av C-sjukdom."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 9 jan 2004 nr. 114, 26 april 2018 nr. 752 (i kraft 1 juli 2018, tidligere § 19)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-4",
+     "nummer": "§ 30",
+     "tittel": "Andre sjukdommer",
+     "ledd": [
+      "Mattilsynet kan gjennomføre de tiltakene og fatte de vedtakene som er nødvendige for å forebygge, begrense og bekjempe sjukdommer hos dyr som\na. kan medføre fare for død eller alvorlig helseskade hos mennesker\nb. kan føre til at et større antall dyr blir utsatt for sjukdom\nc. kan utløse store økonomiske tap for samfunnet\nd. kan gi andre vesentlige samfunnsmessige konsekvenser\ne. antas ikke å forekomme i Norge\nf. har uvanlig utbredelse\ng. svekker dyrets helsetilstand på uvanlig måte eller i uvanlig høy grad."
+     ],
+     "endringer": [
+      "Endret ved forskrift 26 april 2018 nr. 752 (i kraft 1 juli 2018)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-5",
+     "nummer": "§ 31",
+     "tittel": "Opprettelse av soner",
+     "ledd": [
+      "Som ledd i bekjempelse av sjukdommer, kan Mattilsynet gi forskrift om opprettelse av soner, herunder midlertidige kontrollsoner, risikosoner og observasjonssoner."
+     ],
+     "endringer": [
+      "Endret ved forskrift 26 april 2018 nr. 752 (i kraft 1 juli 2018)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kapVII",
+   "overskrift": "Kapittel VII. Spesielle tiltak mot visse A- og B-sjukdommer",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrift 26 april 2018 nr. 752 (i kraft 1 juli 2018, tidligere kapittel VI)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 32",
+     "tittel": "Miltbrann",
+     "ledd": [
+      "Ved mistanke om eller tilfelle av miltbrann, gjelder bestemmelsene i § 27. Videre skal person som har vært i nærheten av sjuke eller døde dyr så vidt mulig holde seg borte fra andre dyr. Dyreholder skal sørge for at:\n1. sjuke og døde dyr straks isoleres fra andre dyr. Der dyr er oppstallet på bås, skal nabodyrene flyttes og isoleres. Dyr som er funnet sjukt på beite skal bare bringes i hus dersom Mattilsynet finner dette tilrådelig ut fra en smittemessig vurdering\n2. det iverksettes tiltak for å hindre at åtseldyr og insekter kommer i kontakt med sjuke og døde dyr\n3. uvedkommende personer holdes borte fra dyret/kadaveret\n4. melkeleveranse fra besetningen til meieri stoppes\n5. dyr ikke føres bort fra eller inn i besetningen\n6. husdyrrom, utstyr og redskap rengjøres og desinfiseres umiddelbart etter at dyret/kadaveret er fjernet."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 9 jan 2004 nr. 114, 26 april 2018 nr. 752 (i kraft 1 juli 2018, tidligere § 21)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-2",
+     "nummer": "§ 33",
+     "tittel": "Afrikansk hestepest",
+     "ledd": [
+      "Ved mistanke om eller tilfelle av afrikansk hestepest, gjelder bestemmelsene i § 27. Videre skal dyreholder se til at alle dyr av hestefamilien blir holdt i sine respektive staller eller andre lokaler hvor de er beskyttet mot insekter som kan overføre sjukdommen, og at det i og omkring lokalene blir foretatt bekjempelse av blodsugende insekter med et egnet bekjempelsesmiddel."
+     ],
+     "endringer": [
+      "Endret ved forskrift 26 april 2018 nr. 752 (i kraft 1 juli 2018, tidligere § 22)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-8",
+   "navn": "kapVIII",
+   "overskrift": "Kapittel VIII. Tiltak i soner",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrift 26 april 2018 nr. 752 (i kraft 1 juli 2018, tidligere kapittel VII)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-1",
+     "nummer": "§ 34",
+     "tittel": "Tiltak i risikosone",
+     "ledd": [
+      "Når det etter § 31 er opprettet risikosone som ledd i bekjempelse av munn- og klauvsjuke, klassisk svinepest, afrikansk svinepest, epizootic hemorrhagic disease of deer, kvegpest, lumpy skin disease, ondartet smittsom griselammelse, peste des petits ruminants, Rift Valley Fever, sauekopper, geitekopper, smittsomt blæreutslett hos gris eller vesikulær stomatitt, gjelder følgende:\n1. Levende eller døde dyr, animalske produkter eller avfall fra levende eller døde dyr, kjøretøy, redskaper eller annet materiale fra husdyrmiljø skal ikke føres ut av eller inn i sonen eller ut av eller inn i dyrehold innenfor sonen.\n2. Innenfor sonen er det forbudt å:\na. avholde markeder, dyreskuer, sirkus, utstillinger eller andre samlinger av dyr av noe slag\nb. la husdyr gå på beite\nc. la hunder og katter gå løse utendørs, og\nd. la personer med tilknytning til husdyrmiljø besøke dyrehold hvor det er dyr av arter som er mottakelige for sjukdommen.",
+      "Innenfor risikosone opprettet etter § 31 som ledd i bekjempelse av munn- og klauvsjuke er i tillegg følgende aktiviteter forbudt:\n1. ervervsmessig naturlig bedekning av dyr av mottakelige arter\n2. inseminering av og innsamling av egg og embryoer fra dyr av mottakelige arter.",
+      "Mattilsynet kan på nærmere fastsatte vilkår, som unntak fra forbudet i første ledd nr. 1) når det er opprettet risikosone som ledd i bekjempelse av munn- og klauvsjuke, tillate transport av dyr under tilsyn av Mattilsynet direkte til nødslakting på slakteri.",
+      "Når det etter § 31 er opprettet en risikosone som ledd i bekjempelse av munn- og klauvsjuke, kan Mattilsynet som ledd i bekjempelsen gi forskrift om utvidelse av forbudene i første og annet ledd slik at de blant annet omfatter:\n1. transittforsendelse av alle dyrearter gjennom sonen,\n2. arrangementer der personer med mulig kontakt med dyr av mottakelige arter samles,\n3. inseminering og innsamling av egg og embryoer fra dyr av arter som ikke er mottakelige for munn- og klauvsjuke,\n4. flytting av transportmidler som er konstruert for dyretransport,\n5. hjemmeslakting av dyr av mottakelige arter til privat forbruk,\n6. transport av fôr, høy og halm.",
+      "Innenfor risikosone opprettet etter § 31 som ledd i bekjempelse av afrikansk hestepest, skal dyr av hestefamilien ikke føres bort fra det dyreholdet de befinner seg på.",
+      "Innenfor risikosone opprettet etter § 31 som ledd i bekjempelse av Newcastle disease, er det forbudt å\n1. transportere fjørfe\n2. flytte fjørfe og rugeegg fra det dyreholdet det/de befinner seg på\n3. fjerne eller spre brukt strø eller fjørfegjødsel\n4. avholde markeder, dyreskuer, utstillinger eller annen samling av fjørfe eller andre fugler.",
+      "Når det etter § 31 er opprettet risikosone som ledd i bekjempelse av sjukdom nevnt i første, femte eller sjette ledd, skal alle dyrehold innenfor sonen hvor det holdes dyr av arter som er mottakelige for sjukdommen, snarest rapporteres til Mattilsynet. Dyreholder er ansvarlig for rapporteringen."
+     ],
+     "endringer": [
+      "Endret ved forskrift 26 april 2018 nr. 752 (i kraft 1 juli 2018, tidligere § 26)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-2",
+     "nummer": "§ 35",
+     "tittel": "Tiltak i observasjonssone",
+     "ledd": [
+      "Når det etter § 31 er opprettet observasjonssone som ledd i bekjempelse av munn- og klauvsjuke, afrikansk svinepest, klassisk svinepest, epizootic hemorrhagic disease of deer, kvegpest, lumpy skin disease, ondartet smittsom griselammelse, peste des petits ruminants, Rift Valley Fever, sauekopper, geitekopper, smittsomt blæreutslett hos gris eller vesikulær stomatitt, gjelder følgende:\n1. Transportmidler som har vært brukt til å transportere husdyr eller mulig smittefarlig materiale (gjødsel, fôr m.m.), skal ikke føres ut av sonen.\n2. Innenfor sonen er det forbudt å:\na. transportere dyr av arter som er mottakelige for sjukdommen\nb. føre dyr av arter som er mottakelige for sjukdommen ut av eller inn i dyrehold i sonen. Er sonen opprettet som ledd i bekjempelse av klassisk svinepest, er det også forbudt å føre andre dyr enn svin ut av eller inn i dyrehold i sonen de første 7 dagene etter at sonen ble etablert\nc. avholde markeder, dyreskuer, sirkus, utstillinger eller andre samlinger av dyr som er mottakelige for sjukdommen\nd. la personer med tilknytning til husdyrmiljø besøke dyrehold hvor det er dyr av arter som er mottakelig for sjukdommen.",
+      "Når det etter § 31 er opprettet observasjonssone som ledd i bekjempelse av munn- og klauvsjuke, kan Mattilsynet som unntak fra forbudet i første ledd nummer 2 bokstav b og på nærmere fastsatte vilkår, tillate transport av dyr under tilsyn av Mattilsynet direkte til slakting på slakteri.",
+      "Innenfor observasjonssone opprettet etter § 31 som ledd i bekjempelse av afrikansk hestepest, skal dyr av hestefamilien ikke føres bort fra det dyreholdet de befinner seg på.",
+      "Når det etter § 31 er opprettet observasjonssone som ledd i bekjempelse av Newcastle disease, gjelder følgende:\n1. Fjørfe, rugeegg, brukt strø og gjødsel skal ikke føres ut av sonen.\n2. Innenfor sonen er det forbudt å transportere fjørfe og å avholde markeder, dyreskuer, utstillinger eller annen samling av fjørfe eller andre fugler.",
+      "Når det etter § 31 er opprettet observasjonssone som ledd i bekjempelse av sjukdom nevnt i første, tredje eller fjerde ledd, skal alle dyrehold innenfor sonen hvor det holdes dyr som er mottakelige for sjukdommen snarest rapporteres til Mattilsynet. Dyreholder er ansvarlig for rapporteringen."
+     ],
+     "endringer": [
+      "Endret ved forskrift 26 april 2018 nr. 752 (i kraft 1 juli 2018, tidligere § 27)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-3",
+     "nummer": "§ 36",
+     "tittel": "Tiltak i midlertidig kontrollsone",
+     "ledd": [
+      "Når det etter § 31 er opprettet en midlertidig kontrollsone som ledd i bekjempelse av munn- og klauvsjuke gjelder § 27 første ledd nummer 1 til 3."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 26 april 2018 nr. 752 (i kraft 1 juli 2018)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-9",
+   "navn": "kapIX",
+   "overskrift": "Kapittel IX. Avsluttende bestemmelser",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrift 26 april 2018 nr. 752 (i kraft 1 juli 2018, tidligere VIII)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-1",
+     "nummer": "§ 37",
+     "tittel": "Tilsyn og vedtak",
+     "ledd": [
+      "Mattilsynet fører tilsyn og kan fatte nødvendige enkeltvedtak etter matloven § 23 for å oppnå etterlevelse av bestemmelser gitt i eller i medhold av denne forskriften. Mattilsynet kan også fatte enkeltvedtak etter matloven § 24, § 25 og § 26."
+     ],
+     "endringer": [
+      "Endret ved forskrift 26 april 2018 nr. 752 (i kraft 1 juli 2018, tidligere § 28)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-2",
+     "nummer": "§ 38",
+     "tittel": "Dispensasjon",
+     "ledd": [
+      "Mattilsynet kan i særlige tilfeller dispensere fra bestemmelsene i denne forskriften, forutsatt at det ikke vil stride mot Norges internasjonale forpliktelser, herunder EØS-avtalen."
+     ],
+     "endringer": [
+      "Endret ved forskrift 26 april 2018 nr. 752 (i kraft 1 juli 2018, tidligere § 29)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-3",
+     "nummer": "§ 39",
+     "tittel": "Straff",
+     "ledd": [
+      "Overtredelse av bestemmelser gitt i denne forskriften eller enkeltvedtak gitt i medhold av forskriften, er straffbart i henhold til matloven § 28 og dyrehelsepersonelloven § 37."
+     ],
+     "endringer": [
+      "Endret ved forskrift 26 april 2018 nr. 752 (i kraft 1 juli 2018, tidligere § 30)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-4",
+     "nummer": "§ 40",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Denne forskriften trer i kraft 1. august 2002. Samtidig oppheves:\n1. forskrift av 29. juni 1994 nr. 702 om bekjempelse av afrikansk hestepest\n2. forskrift av 30. juni 1994 nr. 667 om forbud mot bruk av råvarer fra drøvtyggere i fôrvarer til drøvtyggere\n3. forskrift av 30. juni 1994 nr. 703 om bekjempelse av klassisk svinepest\n4. forskrift av 30. juni 1994 nr. 704 om bekjempelse av munn- og klauvsjuke\n5. forskrift av 30. juni 1994 nr. 705 om bekjempelse av Newcastle disease og hønsepest\n6. forskrift av 30. juni 1994 nr. 706 om bekjempelse av en del eksotiske smittsomme dyresjukdommer\n7. forskrift av 6. mars 1995 nr. 237 om bekjempelse av dyresjukdommer."
+     ],
+     "endringer": [
+      "Endret ved forskrift 26 april 2018 nr. 752 (i kraft 1 juli 2018, tidligere § 31)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-10",
+   "navn": "vedleggI",
+   "overskrift": "Vedlegg I. Vaksinasjoner unntatt fra forbudet i § 14 første ledd første punktum",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "a. Hund kan vaksineres mot rabies, leptospirose og valpesjuke.\nb. Katt og ilder kan vaksineres mot rabies.\nc. Mink kan vaksineres mot virusenteritt.\nd. Pelsdyr kan vaksineres mot valpesjuke og ringorm.\ne. Storfe kan vaksineres mot ringorm.\nf. Svin kan vaksineres mot nekrotiserende enteritt.\ng. Duer kan vaksineres mot paramyxovirusinfeksjon."
+    },
+    {
+     "type": "endring",
+     "tekst": "Tilføyd ved forskrift 26 april 2018 nr. 752 (i kraft 1 juli 2018)."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-11",
+   "navn": "vedleggII",
+   "overskrift": "Vedlegg II. Vaksinasjoner unntatt fra kravet om brukstillatelse i § 14 annet ledd første punktum",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "a. Hest kan vaksineres mot\n1. hesteinfluensa\n2. rhinopneumonitt (virusabort)\n3. Cl. botulinum, tetanus og andre Clostridieinfeksjoner.\nb. Storfe kan vaksineres mot\n1. rotavirusinfeksjon\n2. smittsom diare (coronavirusinfeksjon)\n3. parainfluensavirus\n4. bovint RS-virus (BRSV)\n5. pasteurellainfeksjon\n6. clostridieinfeksjoner\n7. E. coliinfeksjon.\nc. Sau og geit kan vaksineres mot\n1. pasteurella\n2. clostridieinfeksjoner.\nd. Svin kan vaksineres mot\n1. circovirusinfeksjon\n2. parvovirusinfeksjoner\n3. pasteurellainfeksjon\n4. mycoplasma\n5. haemophilus parasuis (Glässers sykdom)\n6. erysipelothrix rhusiopathiae (rødsjuke)\n7. E. coliinfeksjon\n8. nysesjuke\n9. Actinobacillus pleuropneumoniae\n10. Tarmadenomatose (Lawsonis intracellularis-infeksjon).\ne. Katt kan vaksineres mot\n1. klamydiainfeksjoner\n2. parvovirusinfeksjoner\n3. calicivirus, rhinotrakeitt (herpesvirus)\n4. Feline leukemia virus (FeLV)\n5. infeksiøs peritonittvirus (coronavirus).\nf. Hund kan vaksineres mot\n1. parvovirusinfeksjoner\n2. parainfluensavirus (kennelhoste)\n3. lever- og hjernebetennelse (Hepatitis Contagiosa Canis).\ng. Fjørfe kan vaksineres mot\n1. aviær infeksiøs anemi (CIA-virus, Blåvingesjuke)\n2. smittsom hønselammelse (Marek's disease)\n3. infeksiøs bursitt (Gumboro)\n4. smittsom hjerne- og ryggmargbetennelse aviær encefalomyelitt (AE)\n5. koksidiose\n6. Erysipelothrix rhusiopathiae (rødsjukebakterien hos kalkun).\nh. Mink kan vaksineres mot\n1. clostridieinfeksjoner (botulisme type C)\n2. hemorrhagisk pneumoni (Pseudomonas aeruginosa)."
+    },
+    {
+     "type": "endring",
+     "tekst": "Tilføyd ved forskrift 26 april 2018 nr. 752 (i kraft 1 juli 2018)."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-12",
+   "navn": "vedleggIII",
+   "overskrift": "Vedlegg III. Nasjonale overvåkingsprogrammer etter § 17",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "a. Paratuberkulose og bovin virusdiare (BVD) hos storfe\nb. Skrapesjuke hos sau og geit\nc. Mædi hos sau\nd. Porcint respiratorisk og reproduksjonssyndrom (PRRS), svineinfluensa og smittsom gastroenteritt/transmissible gastroenteritis (TGE) hos svin\ne. Paratuberkulose hos kameldyr\nf. Tuberkulose hos hjort\ng. Infeksiøs laryngotrakeitt (ILT) hos høns, kalkun, rapphøns, fasaner, vaktler og perlehøns\nh. Aviær rhinotrakeitt (ART) hos kalkun, perlehøns, fasaner og strutsefugl."
+    },
+    {
+     "type": "endring",
+     "tekst": "Tilføyd ved forskrift 26 april 2018 nr. 752 (i kraft 1 juli 2018)."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-13",
+   "navn": "vedleggIV",
+   "overskrift": "Vedlegg IV. Varslingsplikt som ledd i overvåkningen av tse og brucellose etter § 18",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "a. Dyreholderen og dyretransportøren skal snarest varsle Mattilsynet om\n1. levende, avliva eller døde storfe, hjort eller småfe som viser eller har vist nevrologiske eller atferdsmessige forstyrrelser eller en gradvis forringelse av den generelle helsetilstanden som følge av forstyrrelser i sentralnervesystemet. Varslingsplikta gjelder ikke når kliniske undersøkelser, reaksjon på behandling, undersøkelser etter slakting eller laboratorieanalyser før eller etter slakting tilsier at TSE kan utelukkes som årsak.\n2. storfe eldre enn 48 måneder, hjort eldre enn 12 måneder og småfe eldre enn 18 måneder, som har dødd eller blitt avliva. Varslingsplikta gjelder ikke dyr som har blitt slakta for humant konsum. Varselet kan også gis til veterinæren som tar prøver etter avtale med Mattilsynet.\nb. Dyreholderen skal varsle slakteriet senest tre arbeidsdager før storfe, hjort og småfe som er innført fra utlandet, sendes til slakteri.\nc. Slakteriet skal på forhånd ha underrettet Mattilsynet om at dyr som nevnt i bokstav a nummer 2, skal slaktes.\nd. Dyreholderen eller veterinæren skal varsle Mattilsynet hvis det i løpet av en periode på 12 måneder er mer enn 2 kyr i besetningen som aborterer fra og med femte drektighetsmåned og fram til 14 dager før forventet kalving."
+    },
+    {
+     "type": "endring",
+     "tekst": "Tilføyd ved forskrift 26 april 2018 nr. 752 (i kraft 1 juli 2018)."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-14",
+   "navn": "vedleggV",
+   "overskrift": "Vedlegg V. TSE-klasser for sau og geit etter § 21",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Hver saue- og geitebesetning tilhører én av de følgende TSE-klassene med utgangspunkt i det nasjonale overvåkingsprogrammet for overførbare spongiforme encefalopatier (TSE), herunder varslingsplikten i § 18, jf. § 17:\nTSE-klasse 1\nBesetningen har ikke vært overvåket for TSE, eller den har vært overvåket i en kortere periode enn 2 år uten at TSE, med unntak av skrapesjuke Nor98, er påvist.\nTSE-klasse 2\nBesetningen har vært overvåket for TSE i mer enn 2 år uten at TSE, med unntak av skrapesjuke Nor98 er påvist.\nTSE-klasse 3\nBesetningen har vært overvåket for TSE i mer enn 3 år uten at TSE, med unntak av skrapesjuke Nor98 er påvist.\nTSE-klasse 4\nBesetningen oppfyller vilkårene som stilles for å ha status kontrollerbar risiko for å ha klassisk skrapesjuke i TSE-forskriften § 2, jf. forordning (EF) nr. 999/2001 vedlegg VIII, kapittel A, del A. Dyreholder må søke Mattilsynet om å komme i denne klassa.\nTSE-klasse 5\nBesetningen oppfyller vilkårene som stilles for å ha status neglisjerbar risiko for å ha klassisk skrapesjuke i TSE-forskriften § 2, jf. forordning (EF) nr. 999/2001 vedlegg VIII, kapittel A, del A. Dyreholder må søke Mattilsynet om å komme i denne klassen.\nAndre vilkår\nNyetablerte besetninger tilhører samme TSE-klasse som opprinnelsesbesetningen, men tilhører i utgangspunktet ikke en høyere klasse enn TSE-klasse 3. Hvis dyr hentes fra flere besetninger, tilhører den nyetablerte besetningen samme TSE-klasse som den lavest klassifiserte opprinnelsesbesetningen."
+    },
+    {
+     "type": "endring",
+     "tekst": "Tilføyd ved forskrift 26 april 2018 nr. 752 (i kraft 1 juli 2018)."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-15",
+   "navn": "vedleggVI",
+   "overskrift": "Vedlegg VI. Regioner for flytting av sauer og geiter etter § 22",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "1. Finnmark, Troms, Nordland, Nord-Trøndelag, Sør-Trøndelag og Møre og Romsdal\n2. Sogn og Fjordane og Hordaland, unntatt Sveio kommune og Etne kommune\n3. Sveio kommune, Etne kommune, Rogaland, Vest-Agder og Aust-Agder\n4. Telemark, Vestfold, Buskerud, Oppland, Hedmark, Oslo, Akershus og Østfold."
+    },
+    {
+     "type": "endring",
+     "tekst": "Tilføyd ved forskrift 26 april 2018 nr. 752 (i kraft 1 juli 2018)."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-16",
+   "navn": "vedleggVII",
+   "overskrift": "Vedlegg VII. Krav til testing av sauer og geiter etter § 23",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Deltakere i registrert livdyrsamarbeid etter § 25 ses på som en besetning.\nA. Lentivirustesting av besetninger med sau og geit er foretatt med negativt resultat under følgende forutsetninger:\n1. Prøveresultat fra tankmelk og samleprøver av individuelle melkeprøver, skal ikke være eldre enn 12 måneder, og resultat fra blodprøver skal ikke være eldre enn 36 måneder. Fra sau skal det tas individuelle blodprøver. Prøveuttaket skal være representativt for besetninga, jf. tabell nedenfor.\n2. Det skal ikke være tatt inn livdyr de siste 12 måneder før prøveuttaket. Kravet kan frafalles dersom avsenderbesetninga kun har mottatt dyr fra besetninger som er testa for lentivirus i henhold til punkt A.1.\nBlodprøver av sau og geit for undersøkelse av antistoffer mot lentivirus, skal være tatt ut i samsvar med følgende tabell:\n| Antall vinterfôra dyr i besetninga | Antall prøver per besetning\n| Inntil 30 | Alle over 1 år\n| 30–100 | 30\n| 100–200 | 35\n| Mer enn 200 | 40\nFor at tankmelk- eller samleprøve av individuelle melkeprøver skal kunne erstatte individuelle blodprøver hos geit, må besetninga bestå av minst 10 dyr over 12 måneders alder og minst 80 % av de voksne dyra må være representert i prøveuttaket.\nB. Paratuberkulosetesting av avsenderbesetninger med geit og med kombinert sau og geit fra fylka Møre- og Romsdal, Hordaland, Sogn og Fjordane, Rogaland, Buskerud og Telemark er foretatt med negativt resultat under følgende forutsetninger:\n1. Blodprøver fra alle geiter i besetningen over 1,5 år skal være testa serologisk med negativt resultat. Prøveresultatene skal ikke være eldre enn 36 måneder. Tankmelk kan brukes i stedet for individuelle blodprøver dersom det gir like sikre prøveresultater.\n2. Dersom avsenderbesetningen har kjøpt inn livdyr av geit eller besetninga har hatt annen kontakt med geiter fra ei besetning med ukjent paratuberkulosestatus, skal prøveuttaket foretas tidligst 3 år etter siste livdyrkjøp eller kontakt. Dette kravet kan frafalles dersom avsenderbesetningen bare har kjøpt inn dyr eller hatt kontakt med dyr fra besetninger som er testet for paratuberkulose i henhold til punkt B. 1, eller kommer fra andre fylker enn de som er nevnt i pkt. B."
+    },
+    {
+     "type": "endring",
+     "tekst": "Tilføyd ved forskrift 26 april 2018 nr. 752 (i kraft 1 juli 2018)."
+    }
+   ]
+  }
+ ]
+}

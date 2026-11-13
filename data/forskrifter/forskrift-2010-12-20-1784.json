@@ -1,0 +1,204 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2010-12-20-1784",
+ "dokumentid": "SF/forskrift/2010-12-20-1784",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "etat": [
+  "Næringspolitisk avdeling"
+ ],
+ "kunngjort_i": "I 2010 hefte 15",
+ "ikraft": "2011-01-01",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2009-06-19-101/§43",
+   "tekst": "lov/2009-06-19-101/§43"
+  },
+  {
+   "ref": "lov/2009-06-19-101/§46",
+   "tekst": "lov/2009-06-19-101/§46"
+  }
+ ],
+ "kunngjort": "2010-12-30 14:30",
+ "korttittel": "Forskrift om gruvekart",
+ "tittel": "Forskrift om kart over underjords- og dagbruddsanlegg",
+ "annet": "Hjemmel: Fastsatt av Nærings- og handelsdepartementet 20. desember 2010 med hjemmel i lov 19. juni 2009 nr. 101 om erverv og utvinning av mineralressurser (mineralloven) § 43 og § 46.",
+ "refid": "forskrift/2010-12-20-1784",
+ "eli": "/eli/forskrift/2010/12/20/1784",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2010-12-20-1784",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Virkeområde",
+   "ledd": [
+    "Forskriften gjelder for alle uttak av statens mineraler og for underjordsanlegg på grunneiers mineraler. Direktoratet for mineralforvaltning kan ved enkeltvedtak bestemme at reglene i denne forskriften skal gjelde helt eller delvis for dagbruddsanlegg og grustak på grunneiers mineraler."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Generelle krav til gruvemåling og gruvekart",
+   "ledd": [
+    "Kartene skal ut fra et tilstrekkelig antall snitt og projeksjoner gi et geometrisk og geologisk nøyaktig bilde av samtlige gruverom.",
+    "Nærliggende underjordsanlegg eller andre forhold som kan ha betydning for sikker drift i det aktuelle underjordsanlegget skal omfattes av gruvekartene.",
+    "Kartmaterialet skal holdes à jour.",
+    "Kartmaterialet skal vise alle utførte bergarbeider og i nødvendig grad vise geologiske, tektoniske og bergmekaniske forhold. Driverens eksemplar skal benyttes som underlag for planlegging, oppfølging og dokumentasjon.",
+    "Gruvekart skal oppbevares på betryggende måte og være tilgjengelige ved anlegget.",
+    "Ved godkjenning av driftsplaner skal ajourførte kart sendes inn til Direktoratet for mineralforvaltning, med kopi til kommunen(e) uttaket ligger i."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Driftsplankart",
+   "ledd": [
+    "Kartmaterialet skal være utformet på en slik måte at tilsynsmyndigheter kan bruke det i forbindelse med tilsyn ved virksomheten, samt av grunneiere og kommune for kontroll av sine interesser."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Sikkerhetskopi",
+   "ledd": [
+    "Den som driver uttak av statens mineraler skal sende inn nye innmålinger til Direktoratet for mineralforvaltning slik at det skal være mulig å konstruere nye gruvekart dersom originalene skulle komme bort eller blir ødelagt. Sikkerhetskopier skal sendes inn til Direktoratet for mineralforvaltning i år som ender på 0 og 5, eller når direktoratet krever det."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Sluttkart",
+   "ledd": [
+    "Tiltakshaver skal ved nedleggelse av driften av uttak sende inn sluttkart til Direktoratet for mineralforvaltning, med kopi til kommunen(e) uttaket ligger i. Sluttkart er arkivbestandige eksemplarer av de delene av gruvekartene som er nødvendig for å vise et komplett bilde av gruven.",
+    "Sluttkart skal dokumentere forhold som er viktige ved en eventuell gjenoppstart av driften, og for planlegging av annen virksomhet i eller omkring underjordsanlegget.",
+    "Med sluttkartene skal det også følge med en fyldig beskrivelse som utfyller sluttkartenes opplysninger."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "Borhullskart ved undersøkelser på statens mineraler",
+   "ledd": [
+    "Borhullskart skal opprettes i forbindelse med gjennomførte undersøkelser av mulige forekomster av statens mineraler som har vært foretatt innenfor undersøkelsesområder hvor det ikke er påbegynt gruvedrift. Borhullskart skal sendes inn til Direktoratet for mineralforvaltning når undersøkelser avsluttes."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 7",
+   "tittel": "Ansvarlig for utarbeidelse av kartene",
+   "ledd": [
+    "Kart som utarbeides etter denne forskriften skal være godkjent av bergteknisk ansvarlig, jf. forskrift 23. desember 2009 nr. 1842 til mineralloven kapittel 3 og 4, ved uttaket."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-8",
+   "nummer": "§ 8",
+   "tittel": "Koordinatsystem og måleenheter",
+   "ledd": [
+    "Koordinatsystemet skal være rettvinklet med horisontale x- og y-akser samt vertikal z-akse og skal i utgangspunktet tilknyttes landets offisielle koordinataksesystem i UTM 711 EUREF 89 (WGS 84).",
+    "Det kan også opprettes lokale gruvenett. En hovedakse skal da legges parallelt malmens hovedstrøkretning. For lokale gruvenett bør origo legges slik at alle koordinater innenfor gruveområdet blir positive. Høyder tilpasses landsnettet.",
+    "Lengdemål angis i meter (m), flatemål i kvadratmeter (m2 ) og volummål i kubikkmeter (m3 ). Vinkelmål innenfor en og samme gruve skal være enhetlig. For geodetiske målinger anvendes det centesimale system (en rett vinkel er 100 grader). For borhull og geologiske betegnelser kan det seksagesimale system benyttes (en rett vinkel er 90 grader).",
+    "Direktoratet for mineralforvaltning kan gi dispensasjon fra kravet om koordinatsystem for igangværende underjordsanlegg der dette vil medføre uforholdsmessig mye ekstraarbeid.",
+    "Nord-pil skal angis på alle horisontalkart."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-9",
+   "nummer": "§ 9",
+   "tittel": "Geodetisk oppmåling",
+   "ledd": [
+    "Alle målearbeider (polygondrag og detaljmåling) som utføres for å opprette gruvekart skal utføres med tilstrekkelig nøyaktighet. Oppmålingsarbeidet både over og under jord skal baseres på fastmerker.",
+    "For oppmåling i underjordsanlegg skal målenøyaktigheten ligge innenfor det som oppnås ved moderne landmålingsinstrumenter med mm-nøyaktighet.",
+    "Ved innmåling av dagbrudd eller massetak skal det benyttes utstyr som gir målenøyaktighet innenfor 10 cm eller bedre, for eksempel GPS-basert innmåling."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-10",
+   "nummer": "§ 10",
+   "tittel": "Kartformat",
+   "ledd": [
+    "Gruvekart skal tegnes ut på arkivbestandig papir. Gruvekart kan også opprettes og lagres i digital form.",
+    "Kart skal være i A-format serien (A0, A1, A2 og A3). Minste format skal være A3.",
+    "Overlapp mellom kartbladene skal være entydig.",
+    "Kart fra et og samme underjordsanlegg bør ha samme format.",
+    "Nytt kartverk skal legges opp etter standardformatene.",
+    "For eldre underjordsanlegg der det byr på uforholdsmessig mye ekstraarbeid å måtte legge om kartverket til annet system, kan Direktoratet for mineralforvaltning gi dispensasjon fra kravet om standardformat."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-11",
+   "nummer": "§ 11",
+   "tittel": "Målestokk",
+   "ledd": [
+    "Kartene skal tegnes i følgende målestokker:",
+    "Topografisk dagkart: M 1:2.000 eller M 1:5.000",
+    "Detaljert dagkart: M 1:500 eller M 1:1.000",
+    "Gruve- og dagbruddskart: M 1:500 eller M 1:1.000. Direktoratet for mineralforvaltning kan bestemme at større virksomheter kan tegne kart i M 1:2.000.",
+    "De forskjellige typer kart innenfor en og samme forekomst, som for eksempel geologiske kart, sprekkekart og geokjemiske kart, skal ha samme målestokk.",
+    "Snitt gjennom hele forekomsten eller deler av den skal ha samme målestokk som kartene de hører sammen med. Kravet gjelder ikke detaljkartverk for intern bruk."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-12",
+   "nummer": "§ 12",
+   "tittel": "Snitt",
+   "ledd": [
+    "Snitt legges slik i forhold til forekomstens lengdeakse, eventuelt malmaksen, at de gir et best mulig bilde av forekomsten og brytningen. Vertikale snitt bør fortrinnsvis følge koordinatsystemets retninger."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-13",
+   "nummer": "§ 13",
+   "tittel": "Kartbladsbetegnelse",
+   "ledd": [
+    "Hvert kartblad skal påføres nøyaktige referanseopplysninger.",
+    "Horisontalbladet gis nummer etter nedre høyre hjørnes koordinater samt nivåangivelse (etasjebetegnelse). Kartet skal likeledes forsynes med dato for når det sist er ajourført."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-14",
+   "nummer": "§ 14",
+   "tittel": "Kartverkets utførelse",
+   "ledd": [
+    "a. Dagkart\nTopografisk dagkart over området skal foruten de vanlige angivelser, vise alle forhold av bergverksmessig interesse, så som gamle gruveåpninger, gråbergstipper, avgangsdeponi med tilhørende infrastruktur og eiendomsgrenser. Kartene skal videre vise eksisterende bergrettigheter, konsesjonsområder og reguleringsgrenser.\nDekningsområdet for det detaljerte dagkartet skal markeres på oversiktskart.\nDetaljerte dagkart skal dekke forekomsten og dennes nærmeste omgivelser. Foruten de angivelser som er nevnt for det topografiske dagkart, skal kartet vise de lokale forhold slik som veier, bygninger, telefon- og kraftlinjer mv.\nb. Driftskart\nHorisontalkart skal vise dagbrudd, sjakter, orter, brytningsrom, malmgrenser og de viktigste bergartsgrensene.\nBorhull og diamantborhull med angivelse av referanse (hullnummer) inntegnes. For øvrig inntegnes alt som har interesse for forståelsen av driften i gruva, slik som forkastninger og svakhetssoner med sikringstiltak.\nDetaljer og konturer som er av betydning for helhetsinntrykket av området, men som ligger over eller under referanseplanet, inntegnes med de riktige karttegn og strektyper og påføres hvilket nivå (hvilken etasje) de refererer seg til.\nHvorvidt det skal tegnes ett kartblad over hver etasje eller om flere etasjer skal inntegnes på samme blad, bestemmes av krav til oversiktlighet og av brytningsmetode. Fortrinnsvis tegnes det kartblad over hver etasje.\nVertikalsnitt skal supplere horisontalkartene og skal ha samme innhold som disse.\nTverrprofiler legges i innbyrdes avstand, delelig med 5, betinget av regulariteten i forekomsten og slik at de gir et godt bilde av variasjonen i mektighet og fall.\nI den utstrekning oversiktligheten krever det, kan visse typer informasjoner innlegges på egne kartblad."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-15",
+   "nummer": "§ 15",
+   "tittel": "Karttegn",
+   "ledd": [
+    "Kartene skal utføres i overensstemmelse med NS-749 og NS-4200.",
+    "I kartverket skal inngå en spesifisert tegnforklaring som også skal omfatte eventuell fargesetting.",
+    "Ved komplettering av eldre kart med eldre tegn skal disse fortsatt benyttes, og deres betydning skal klart fremgå av tegnforklaringen."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-16",
+   "nummer": "§ 16",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Forskriften trer i kraft 1. januar 2011."
+   ]
+  }
+ ]
+}

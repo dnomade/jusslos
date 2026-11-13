@@ -1,0 +1,507 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2021-06-25-2246",
+ "dokumentid": "SF/forskrift/2021-06-25-2246",
+ "departement": [
+  "Samferdselsdepartementet"
+ ],
+ "etat": [
+  "Luftfartstilsynet"
+ ],
+ "ikraft": "2021-07-01",
+ "endrer": "forskrift/1993-07-19-4047\nforskrift/2004-02-24-434\nforskrift/2004-02-24-468\nforskrift/2007-01-19-59",
+ "hjemmel": [
+  {
+   "ref": "lov/1993-06-11-101/§4-1",
+   "tekst": "lov/1993-06-11-101/§4-1"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§4-3",
+   "tekst": "lov/1993-06-11-101/§4-3"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§4-5",
+   "tekst": "lov/1993-06-11-101/§4-5"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§4-7",
+   "tekst": "lov/1993-06-11-101/§4-7"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§4-9",
+   "tekst": "lov/1993-06-11-101/§4-9"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§4-10",
+   "tekst": "lov/1993-06-11-101/§4-10"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§15-4",
+   "tekst": "lov/1993-06-11-101/§15-4"
+  },
+  {
+   "ref": "forskrift/2001-04-06-321",
+   "tekst": "forskrift/2001-04-06-321"
+  },
+  {
+   "ref": "forskrift/1999-12-10-1273",
+   "tekst": "forskrift/1999-12-10-1273"
+  }
+ ],
+ "kunngjort": "2021-07-01 17:35",
+ "korttittel": "Forskrift om nasjonal sertifisering av luftfartøy",
+ "tittel": "Forskrift om nasjonal sertifisering av luftfartøy",
+ "annet": "Hjemmel: Fastsatt av Luftfartstilsynet 25. juni 2021 med hjemmel i lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven) § 4-1, § 4-3 første ledd, § 4-5 tredje ledd, § 4-7, § 4-9, § 4-10 og § 15-4, jf. delegeringsvedtak 6. april 2001 nr. 321 og delegeringsvedtak 10. desember 1999 nr. 1273.",
+ "refid": "forskrift/2021-06-25-2246",
+ "eli": "/eli/forskrift/2021/06/25/2246",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2021-06-25-2246",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Forskriften gjelder for bemannet luftfartøy som ikke reguleres av det felleseuropeiske regelverket for luftfartøy gjennom\na. typesertifikat utstedt eller validert av EASA\nb. Specific Airworthiness Specification utstedt av EASA\nc. flygetillatelse (permit to fly) utstedt etter det felleseuropeiske regelverket.",
+      "Forskriften gjelder for amatørbygd luftfartøy som har vært luftdyktig.",
+      "Forskriften gjelder ikke for mikrofly og luftfartøy som kun brukes til statsluftfart."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "I denne forskrift forstås med:\na. luftfartøy i normalklassen: luftfartøy som oppfyller kravene i et typesertifikat og som har en typesertifikatholder.\nb. luftfartøy i eksperimental-klassen: luftfartøy som ikke har et gyldig typesertifikat, eller som fraviker kravene i et typesertifikat, eller ikke oppfyller kravene i et typesertifikat.\nc. typesertifikat: dokument utstedt av en stat eller luftfartsmyndighet som definerer konstruksjonen av en luftfartøytype, motor eller propell.\nd. luftdyktighetsbevis: fellesbetegnelse for luftdyktighetsbevis og særskilt luftdyktighetsbevis.\ne. luftdyktighetspåbud: påbud utstedt av typeansvarlig land (state of design) eller Luftfartstilsynet, om tiltak som må utføres på allerede godkjent luftfartøy, deler og komponenter for å opprettholde luftdyktighet.\nf. N-ARC: nasjonal ARC (Airworthiness Review Certificate).\ng. N-Part-145: Part-145 som har avgitt selverklæring etter forskrift 25. juni 2021 nr. 2247 om kontinuerlig luftdyktighet for nasjonalt sertifiserte luftfartøy, nasjonal Part-145.\nh. N-CAMO: CAMO (Continuing Airworthiness Management Organisation) som har avgitt selverklæring etter forskrift 25. juni 2021 nr. 2247 om kontinuerlig luftdyktighet for nasjonalt sertifiserte luftfartøy, nasjonal CAMO.\ni. N-CAO: CAO som har avgitt selverklæring etter forskrift 25. juni 2021 nr. 2247 om kontinuerlig luftdyktighet for nasjonalt sertifiserte luftfartøy, nasjonal CAO."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Søknad om luftdyktighetsbevis",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 3",
+     "tittel": "Forhåndskonferanse",
+     "ledd": [
+      "Enhver har rett til å be om en forhåndskonferanse for å få en vurdering av om et luftfartøy vil kunne oppnå luftdyktighet. Luftfartstilsynet skal så langt det er mulig tilby slik forhåndskonferanse senest tre uker etter å ha mottatt henvendelsen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 4",
+     "tittel": "Søknad",
+     "ledd": [
+      "Søknad om luftdyktighetsbevis for luftfartøy skal være på skjema som Luftfartstilsynet har publisert, og må ha vedlagt:\na. beskrivelse av luftfartøyets opprinnelse og dokumentasjon for brukshistorikk\nb. liste over teknisk og operativ status\nc. plan for å oppnå luftdyktighet\nd. flygehåndbok\ne. tidligere luftdyktighetsbevis eller eksportluftdyktighetsbevis dersom luftfartøyet er importert og slikt bevis er utstedt av eksportlandet\nf. konstruksjons- og produksjonsattest dersom luftfartøyet er en replika\ng. byggejournal eller annen dokumentasjon for byggeprosess dersom luftfartøyet er amatørbygget\nh. vedlikeholdsrapport.",
+      "Med replika menes en kopi av en luftfartøytype med opprinnelig design fra før 1. januar 1955, hvor produksjonen av luftfartøytypen opphørte før 1. januar 1975, og den strukturelle designen er lik den opprinnelige. Dersom det ikke er mulig å fremskaffe konstruksjons- og produksjonsattest, kan annen relevant dokumentasjon vedlegges.",
+      "Luftfartstilsynet kan kreve ytterligere dokumentasjon."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 5",
+     "tittel": "Språk",
+     "ledd": [
+      "Søknader og dokumentasjon som skal fremlegges for Luftfartstilsynet må være på et skandinavisk språk eller engelsk."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 6",
+     "tittel": "Vedlikeholdsrapport",
+     "ledd": [
+      "Vedlikeholdsrapport som bekrefter luftdyktighet kan utstedes av\na. N-Part-145, N-CAO eller Part-66 flytekniker, eller\nb. godkjent vedlikeholdsordning for luftfartøyet, jf. forskrift 25. juni 2021 nr. 2247 om kontinuerlig luftdyktighet for nasjonalt sertifiserte luftfartøy § 8 og § 19 første ledd bokstav c.",
+      "En vedlikeholdsrapport må ikke være utstedt mer enn 30 dager før søknadstidspunktet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 7",
+     "tittel": "Besiktigelse",
+     "ledd": [
+      "Luftfartstilsynet skal gjennomføre besiktigelse av luftfartøyet. Luftfartstilsynet kan i særlige tilfeller unnlate å gjennomføre besiktigelse."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-6",
+     "nummer": "§ 8",
+     "tittel": "Teknisk kontrollflyging",
+     "ledd": [
+      "Luftfartstilsynet kan kreve at det gjennomføres teknisk kontrollflyging for å verifisere luftdyktighet. Teknisk kontrollflyging skal gjennomføres av fartøysjef med erfaring fra tilsvarende operasjoner."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-7",
+     "nummer": "§ 9",
+     "tittel": "Prøveflyging",
+     "ledd": [
+      "Luftfartstilsynet kan kreve at det gjennomføres prøveflyging, jf. § 29–§ 36."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-8",
+     "nummer": "§ 10",
+     "tittel": "Særskilt flygetillatelse for teknisk kontrollflyging eller prøveflyging",
+     "ledd": [
+      "Luftfartstilsynet kan utstede særskilt flygetillatelse for teknisk kontrollflyging eller prøveflyging. Luftfartøyet må være registrert i Norges luftfartøyregister.",
+      "Særskilt flygetillatelse kan kun benyttes til flyging som inngår som ledd i den tekniske kontrollflygingen eller prøveflygingsprogrammet. Enhver annen flyging er forbudt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-9",
+     "nummer": "§ 11",
+     "tittel": "Luftdyktighetsbevis",
+     "ledd": [
+      "Luftfartstilsynet utsteder luftdyktighetsbevis når et luftfartøy etter en konkret vurdering anses som luftdyktig. Vurderingen skal gjøres på grunnlag av mottatt dokumentasjon og de opplysninger som fremkommer gjennom eventuell besiktigelse.",
+      "For luftfartøy i normalklassen utstedes det luftdyktighetsbevis. For luftfartøy i eksperimental-klassen utstedes det særskilt luftdyktighetsbevis. For amatørbygd luftfartøy utstedes det særskilt luftdyktighetsbevis, amatørbygd. Luftfartstilsynet kan når det er nødvendig av hensyn til flysikkerheten, fastsette operative eller tekniske begrensninger i særskilt luftdyktighetsbevis og særskilt luftdyktighetsbevis, amatørbygd."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-10",
+     "nummer": "§ 12",
+     "tittel": "Første gangs utstedelse av N-ARC",
+     "ledd": [
+      "Luftfartstilsynet utsteder første gangs N-ARC basert på vedlikeholdsrapporten."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-11",
+     "nummer": "§ 13",
+     "tittel": "Gyldighet av luftdyktighetsbevis og særskilt luftdyktighetsbevis",
+     "ledd": [
+      "Luftdyktighetsbevis og særskilt luftdyktighetsbevis er gyldig så lenge det foreligger en N-ARC og kravene til vedlikehold og kontinuerlig luftdyktighet opprettholdes."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-12",
+     "nummer": "§ 14",
+     "tittel": "Støysertifikat",
+     "ledd": [
+      "Luftfartstilsynet skal utstede støysertifikat når luftfartøyet etter en konkret vurdering anses for å tilfredsstille relevante støykrav. Søknad om støysertifikat må ha vedlagt kopi av luftfartøyets tidligere støysertifikat eller målerapport.",
+      "Støysertifikatet er ikke lenger gyldig hvis det utføres modifikasjon på luftfartøy, motor eller propell som påvirker støyverdien."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-13",
+     "nummer": "§ 15",
+     "tittel": "Søknad om særskilt flygetillatelse for enkeltflyging",
+     "ledd": [
+      "For luftfartøy som er teknisk luftdyktig, kan det søkes om særskilt flygetillatelse for enkeltflyging. Søknaden kan bare innvilges hvis det er sannsynliggjort at flygingen kan gjennomføres på en sikker måte.",
+      "Særskilt flygetillatelse gjelder kun for én eller flere bestemte flyginger, med nødvendige mellomlandinger, og kun i norsk luftrom. Luftfartøyet må være registrert i Norges luftfartøyregister og være forsikret etter luftfartsloven § 11-2. Det må foreligge attest i teknisk journal for at luftfartøyet har luftdyktighet for den aktuelle flygingen.",
+      "Søknaden må inneholde\na. beskrivelse av flygeplan\nb. tidsperiode for når tillatelsen skal benyttes\nc. redegjørelse for årsaken til at tillatelse til enkeltflyging er nødvendig\nd. redegjørelse for kompenserende tiltak for å sikre luftdyktighet for den aktuelle flygingen\ne. informasjon om operative begrensninger."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Krav til luftfartøy, komponenter, deler og utstyr",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 16",
+     "tittel": "Luftdyktighet",
+     "ledd": [
+      "Et luftfartøy er luftdyktig når design, konstruksjon og vedlikehold er slik at det kan opereres trygt. Det skal legges til grunn relevante anerkjente standarder.",
+      "Luftfartstilsynet kan utstede luftdyktighetsbevis også der det er lagt til grunn alternative standarder for design, konstruksjon eller vedlikehold, forutsatt at det er dokumentert at luftfartøyet er luftdyktig."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 17",
+     "tittel": "Luftdyktighet for motor, propell, gangtidskomponenter og andre kritiske komponenter",
+     "ledd": [
+      "Motor, propell, gangtidskomponenter og andre kritiske komponenter som monteres i et luftfartøy, må være luftdyktig og oppfylle luftdyktighetskravene spesifisert i vedlikeholdsunderlaget. Med kritiske komponenter skal forstås komponenter, deler og utstyr som er avgjørende for luftdyktigheten.",
+      "Luftdyktigheten må dokumenteres."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 18",
+     "tittel": "Råmaterialer og forbruksmateriell",
+     "ledd": [
+      "Råmaterialer og forbruksmateriell som skal brukes i et luftfartøy, eller i komponenter, deler og utstyr til bruk i et luftfartøy, skal samsvare med materialspesifikasjon for formålet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 19",
+     "tittel": "Dokumentasjon ved egenproduksjon",
+     "ledd": [
+      "Ved egenproduksjon av deler til luftfartøy må det kunne dokumenteres at design-, produksjons- og materialstandard er fulgt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 20",
+     "tittel": "Identifikasjon",
+     "ledd": [
+      "I et luftfartøy skal luftfartøy, motor, propell og gangtidskomponenter være identifisert og merket med opplysninger om typebetegnelse og serienummer."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-6",
+     "nummer": "§ 21",
+     "tittel": "Flygehåndbok",
+     "ledd": [
+      "Det skal foreligge en oppdatert flygehåndbok som beskriver luftfartøyets\na. tekniske og operative prosedyrer, inkludert sjekklister\nb. begrensninger\nc. merking og skilter\nd. instrumenter og utstyr\ne. operasjonsparametere."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-7",
+     "nummer": "§ 22",
+     "tittel": "Vekt og balanse",
+     "ledd": [
+      "Maksimal avgangsmasse (MTOM) for et luftfartøy må ikke overstige verdien oppgitt i flygehåndboken. Luftfartøyets vekt og balanse må til enhver tid være i samsvar med luftfartøyets konfigurasjon."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-8",
+     "nummer": "§ 23",
+     "tittel": "Merking og skilt",
+     "ledd": [
+      "Luftfartøyet skal ha merking og skilt i samsvar med flygehåndboken. Luftfartøy med nødfallskjerm skal merkes på halepartiet og i området der nødfallskjermen er plassert. I tillegg skal\na. alle håndtak eller låser for åpning og lukking av cockpit og kabin være merket innvendig og utvendig, inkludert med operasjonsretning for nødbruk\nb. fyllingspunkter for drivstoff være merket og angi drivstofftype\nc. bagasjerom være merket med maksimal vekt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-9",
+     "nummer": "§ 24",
+     "tittel": "Merking av luftfartøyet og tekniske journaler – tilleggskrav for luftfartøy i eksperimental-klassen",
+     "ledd": [
+      "Luftfartøyet skal være merket med ordet EXPERIMENTAL i minst 30 mm høye latinske bokstaver uten ornamentering. Ordet skal være leselig ved ombordstigning.",
+      "Luftfartøyets tekniske journaler skal være merket med ordet EXPERIMENTAL.",
+      "Luftfartøyet skal være utstyrt med varselskilt godt synlig for alle om bord. Teksten skal skrives med store bokstaver, på norsk og engelsk, og skal være:\nADVARSEL\nDETTE LUFTFARTØYET ER SERTIFISERT SOM EKSPERIMENTAL OG OPPFYLLER IKKE KRAV TIL LUFTDYKTIGHET I NORMALKLASSEN\nOCCUPANT WARNING\nTHIS AIRCRAFT IS CERTIFIED AS EXPERIMENTAL AND DOES NOT MEET REQUIREMENTS FOR STANDARD AIRWORTHINESS."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-10",
+     "nummer": "§ 25",
+     "tittel": "Luftdyktighetspåbud",
+     "ledd": [
+      "Alle luftdyktighetspåbud for luftfartøytypen som er utstedt av konstruksjonsstaten, tidligere registreringsstater eller Luftfartstilsynet, og som er relevant for type operasjon og luftfartøyets konfigurasjon, skal være ivaretatt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-11",
+     "nummer": "§ 26",
+     "tittel": "Vedlikeholdsanbefalinger",
+     "ledd": [
+      "Alle vedlikeholdsanbefalinger fra produsent som er utgitt gjennom Service Letters, Service Bulletins og Service Information, skal vurderes og om nødvendig innarbeides i vedlikeholdsprogrammet for luftfartøyet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-12",
+     "nummer": "§ 27",
+     "tittel": "Støykrav",
+     "ledd": [
+      "Støykrav fastsatt i ICAO Anneks 16, Volume 1, åttende utgave, juli 2017 gjelder tilsvarende så langt de passer.",
+      "Luftfartøy som oppfyller kravene til unntak fastsatt i ICAO Anneks 16, Volume I, åttende utgave, juli 2017 er unntatt fra støykravene og kravet om støysertifikat. Det kan søkes om støysertifikat for luftfartøy som oppfyller kravene til unntak. Støykravene skal da legges til grunn tilsvarende så langt de passer."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-13",
+     "nummer": "§ 28",
+     "tittel": "Tidligere militære luftfartøy",
+     "ledd": [
+      "I tidligere militære luftfartøy der utskytningssete er standard, skal dette være sertifisert og operativt.",
+      "For tidligere militære luftfartøy må alle luftdyktighetskrav fastsatt av militær myndighet eller produsent som er relevant for type operasjon og luftfartøyets konfigurasjon, fortsatt oppfylles. Dersom luftfartøyet har vært registrert sivilt tidligere, må i tillegg luftdyktighetspåbud fastsatt av sivil luftfartsmyndighet i tidligere registreringsland være oppfylt.",
+      "For tidligere militære luftfartøy må alle vedlikeholdsanbefalinger fra produsent vurderes og om nødvendig innarbeides i vedlikeholdsprogrammet for luftfartøyet."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Prøveflyging",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 29",
+     "tittel": "Prøveflygingsprogram",
+     "ledd": [
+      "Der det er krav om gjennomføring av prøveflyging skal det utarbeides et prøveflygingsprogram. Prøveflygingsprogrammet kan bestå av en eller flere prøveflyginger. Prøveflygingsprogrammet skal inneholde de operasjoner og konfigurasjoner som er nødvendig slik at det kan fastslås om luftfartøyets ytelse og egenskaper er i tråd med flygehåndboken. Der fabrikanten har utarbeidet et prøveflygingsprogram, skal programmet være basert på dette.",
+      "Prøveflygingsprogrammet skal oppgi prøveflyger og om det er nødvendig med besetning for gjennomføring av prøveflygingen.",
+      "Prøveflygingsprogrammet skal angi hvor prøveflygingen skal finne sted."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 30",
+     "tittel": "Søknad",
+     "ledd": [
+      "Søknad om godkjenning av prøveflygingsprogram og særskilt flygetillatelse for prøveflyging må ha vedlagt vedlikeholdsrapport. Søknaden må i tillegg inneholde\na. prøveflygingsprogrammet\nb. risikovurdering som inkluderer operative og tekniske forhold\nc. oppdaterte masse- og balanseberegning\nd. oppdatert status for komponenter\ne. flygehåndbok som skal ligge til grunn for prøveflygingen\nf. vedlikeholdsprogram som skal ligge til grunn for prøveflygingen\ng. status for relevante luftdyktighetspåbud."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 31",
+     "tittel": "Besiktigelse",
+     "ledd": [
+      "Luftfartstilsynet skal gjennomføre besiktigelse av luftfartøyet. Luftfartstilsynet kan i særlige tilfeller unnlate å gjennomføre besiktigelse.",
+      "Ved besiktigelsen skal eier, prøveflyger og representant som er ansvarlig for luftdyktighet være til stede. Besiktigelsen må kunne gjennomføres i egnet arbeidsmiljø."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 32",
+     "tittel": "Godkjenning av prøveflygingsprogram",
+     "ledd": [
+      "Luftfartstilsynet godkjenner etter en konkret vurdering det fremlagte prøveflygingsprogrammet. Det skal særlig legges vekt på type luftfartøy, bakgrunnen for prøveflygingen, risikovurderingen, prøveflygerens kvalifikasjoner og besiktigelsen.",
+      "Luftfartstilsynet kan hvor det er nødvendig av hensyn til flysikkerheten gjøre endringer i prøveflygingsprogrammet, inkludert å fastsette ytterligere begrensninger eller krav til prøveflygingen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-5",
+     "nummer": "§ 33",
+     "tittel": "Særskilt flygetillatelse for prøveflyging",
+     "ledd": [
+      "Luftfartstilsynet kan utstede særskilt flygetillatelse for prøveflyging med varighet inntil 6 måneder. Særskilt flygetillatelse for prøveflyging kan bare utstedes for luftfartøy som er registrert i Norges luftfartøyregister.",
+      "Særskilt flygetillatelse for prøveflyging kan kun benyttes til flyging som inngår som ledd i prøveflygingsprogrammet. Enhver annen flyging er forbudt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-6",
+     "nummer": "§ 34",
+     "tittel": "Gjennomføring av prøveflyging",
+     "ledd": [
+      "Prøveflyger må ha tilstrekkelig kunnskap og ferdigheter for den prøveflygingen som skal gjennomføres. Kun prøveflyger som har gitt selverklæring til Luftfartstilsynet kan gjennomføre prøveflyging.",
+      "Prøveflyging skal utføres om dagen og etter visuellflygeregler (VFR).",
+      "Prøveflygingen skal for øvrig kun gjennomføres på de steder og i det område som er angitt i prøveflygingsprogrammet. Det er ikke tillatt å fly over tettsteder eller folkeansamlinger.",
+      "Prøveflyging kan bare gjennomføres når det foreligger forsikring i samsvar med luftfartsloven § 11-2."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-7",
+     "nummer": "§ 35",
+     "tittel": "Avsluttet prøveflyging",
+     "ledd": [
+      "Alle avvik fra normale verdier for tekniske og operative parametere som oppdages gjennom prøveflygingen må lukkes før prøveflygingsprogrammet kan avsluttes.",
+      "Etter avsluttet prøveflyging skal oppdatert informasjon innarbeides i flygehåndboken, vedlikeholdsprogrammet og luftfartøyets merking.",
+      "Prøveflyger skal utarbeide en prøveflygingsrapport."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-8",
+     "nummer": "§ 36",
+     "tittel": "Gjenopptakelse av prøveflygingsprogram",
+     "ledd": [
+      "Hvis hensynet til flysikkerheten krever det, kan Luftfartstilsynet ta opp igjen et prøveflygingsprogram og kreve at det gjennomføres nye prøveflyginger i tillegg til de som allerede er utført."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Tilbakekall og overtredelsesgebyr",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 37",
+     "tittel": "Tilbakekall av særskilt flygetillatelse for prøveflyging",
+     "ledd": [
+      "Hvis det foreligger opplysninger eller omstendigheter som tyder på at vilkårene i den særskilte flygetillatelsen for prøveflyging eller bestemmelsene i denne forskriften er brutt, kan Luftfartstilsynet endre og om nødvendig tilbakekalle en særskilt flygetillatelse for prøveflyging. Det samme gjelder hvis det foreligger opplysninger som kan tyde på at luftfartøyet ikke har slike egenskaper at prøveflyging kan gjennomføres innenfor risikovurderingen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 38",
+     "tittel": "Tilbakekall av luftdyktighetsbevis eller særskilt luftdyktighetsbevis",
+     "ledd": [
+      "Luftfartstilsynet kan tilbakekalle luftdyktighetsbevis eller særskilt luftdyktighetsbevis dersom\na. flygehåndbok eller vedlikeholdsprogram ikke holdes oppdatert\nb. luftfartøyet har modifikasjoner eller reparasjoner som ikke er utført eller dokumentert etter de krav som gjelder\nc. luftfartøyets vedlikehold ikke er utført eller dokumentert etter de krav som gjelder.",
+      "Hvis det foreligger opplysninger som tyder på at luftdyktighetsbevis eller særskilt luftdyktighetsbevis må tilbakekalles, kan Luftfartstilsynet midlertidig tilbakekalle luftdyktighetsbeviset eller det særskilte luftdyktighetsbeviset mens saken utredes."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 39",
+     "tittel": "Overtredelsesgebyr",
+     "ledd": [
+      "Luftfartstilsynet kan gi pålegg om overtredelsesgebyr etter luftfartsloven § 13a-5 for brudd på § 10 andre ledd, § 23, § 24, § 25, § 26, § 28 og bestemmelsene om prøveflyging i kapittel 4."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Ikrafttredelse og overgangsregler",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 40",
+     "tittel": "Ikrafttredelse og oppheving av forskrifter",
+     "ledd": [
+      "Forskriften trer i kraft 1. juli 2021. Fra samme tidspunkt oppheves\na. forskrift 19. juli 1993 nr. 4047 om begrensning av støy og utslipp fra sivile luftfartøyer\nb. forskrift 24. februar 2004 nr. 434 om luftfartøyers masse og balanse, (BSL B 1-3)\nc. forskrift 24. februar 2004 nr. 468 om dokumentasjon knyttet til luftdyktighet, (BSL B 1-1)\nd. forskrift 19. januar 2007 nr. 59 om tekniske krav mv. til luftfartøy som er unntatt fra EASA-forskriften (BSL B 2-6)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 41",
+     "tittel": "Overgangsregler",
+     "ledd": [
+      "Luftfartøy som allerede er luftdyktig før denne forskriftens ikrafttredelse, må merkes i samsvar med bestemmelsene i § 24 innen 1. januar 2023.",
+      "Luftfartstilsynet skal for luftfartøy som er luftdyktig ved denne forskriftens ikrafttredelse, utstede luftdyktighetsbevis etter § 11 samtidig som Luftfartstilsynet utsteder første gangs utstedelse av N-ARC, jf. forskrift 25. juni 2021 nr. 2247 om kontinuerlig luftdyktighet for nasjonalt sertifiserte luftfartøy § 37 første ledd."
+     ]
+    }
+   ]
+  }
+ ]
+}

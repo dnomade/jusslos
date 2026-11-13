@@ -1,0 +1,61 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-1970-05-06-4",
+ "dokumentid": "DEL/forskrift/1970-05-06-4",
+ "departement": [
+  "Landbruks- og matdepartementet"
+ ],
+ "etat": [
+  "Avd. for matpolitikk"
+ ],
+ "kunngjort_i": "II 1970 s. 350",
+ "ikraft": "1971-01-01",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1970-03-06-5/§4",
+   "tekst": "lov/1970-03-06-5/§4"
+  },
+  {
+   "ref": "lov/1970-03-06-5/§7",
+   "tekst": "lov/1970-03-06-5/§7"
+  }
+ ],
+ "korttittel": "Res. om ikrafts. av og deleg. etter hanndyrloven",
+ "tittel": "Res. om at lov frå 6. mars 1970 om avgrensing i retten til å sleppa hingstar, oksar, verar og geitebukkar på beite blir sett i verk frå 1. januar 1971",
+ "annet": "Heimel: Fastsett ved kgl.res. 6. mai 1970 med heimel i lov 6. mars 1970 nr. 5 om avgrensing i retten til å sleppa hingstar, oksar, verar og geitebukkar på beite § 4, § 7. Fremja av Landbruksdepartementet (nå Landbruks- og matdepartementet).",
+ "refid": "forskrift/1970-05-06-4",
+ "eli": "/eli/forskrift/1970/05/06/04",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/1970-05-06-4",
+ "innhold": [
+  {
+   "type": "tekst",
+   "tekst": "Kongelig resolusjon."
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I.",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "At lov frå 6. mars 1970 om avgrensing i retten til å sleppa hingstar, oksar, verar og geitebukkar på beite blir set iverk frå 1. januar 1971."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II.",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "At den fullmakt som etter § 4 i lova er gitt til departementet blir lagt til Landbruksdepartementet."
+    }
+   ]
+  }
+ ]
+}

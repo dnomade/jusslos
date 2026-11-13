@@ -1,0 +1,152 @@
+{
+ "skjema": "1.0",
+ "type": "lov",
+ "datokode": "LOV-2010-09-03-56",
+ "dokumentid": "NL/lov/2010-09-03-56",
+ "departement": [
+  "Kommunal- og distriktsdepartementet"
+ ],
+ "ikraft": "2010-09-03, 2012-05-01",
+ "siste_endring_ikraft": "2012-01-20",
+ "sist_endret_ved": [
+  {
+   "ref": "lov/2012-01-20-7",
+   "tekst": "lov/2012-01-20-7"
+  }
+ ],
+ "rettsomrade": [
+  "EU/EØS-rett > Miljø og klima",
+  "Fast eiendoms rettsforhold > Matrikkel",
+  "Forvaltnings- og kommunalrett > Offentlig forvaltning"
+ ],
+ "kunngjort": "2010-09-03 15:20",
+ "siste_rettelse": "2021-09-09 (faglige fotnoter fjernet, UU-tilpasset)",
+ "eos_henvisning": "EØS-avtalen vedlegg XX\nnr. 1j (direktiv 2007/2/EF).",
+ "korttittel": "Geodataloven",
+ "tittel": "Lov om infrastruktur for geografisk informasjon (geodataloven)",
+ "refid": "lov/2010-09-03-56",
+ "eli": "/eli/lov/2010/09/03/56",
+ "url": "https://lovdata.no/dokument/NL/lov/2010-09-03-56",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Formål",
+   "ledd": [
+    "Loven skal bidra til god og effektiv tilgang til offentlig geografisk informasjon (geodata) for offentlige og private formål."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Virkeområde",
+   "ledd": [
+    "Loven gjelder for virksomheter i riket, herunder Jan Mayen. Kongen kan gi forskrifter om lovens anvendelse for virksomheter på Svalbard og i de norske bilandene.",
+    "Loven gjelder for spesifiserte geodata i elektronisk form og tilhørende geodatatjenester som vedrører norsk landterritorium, herunder Svalbard og Jan Mayen, de norske bilandene, norsk territorialfarvann, norsk kontinentalsokkel og havområder opprettet med hjemmel i lov 17. desember 1976 nr. 91 om Norges økonomiske sone §§ 1 og 5. Departementet kan i forskrift gi nærmere bestemmelser om hvilke geodata og geodatatjenester som omfattes, herunder om dataenes saklige og geografiske avgrensning."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Nasjonal geodatakoordinator",
+   "ledd": [
+    "En nasjonal geodatakoordinator skal koordinere arbeidet med landets infrastruktur for geografisk informasjon, herunder deling av spesifiserte geodata mellom deltakende virksomheter. Departementet kan i forskrift gi nærmere bestemmelser om nasjonal geodatakoordinators oppgaver og organisering."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Deltakende virksomheter",
+   "ledd": [
+    "Følgende virksomheter skal, så langt disse produserer, bruker eller forvalter spesifiserte geodata, delta i infrastruktur for geografisk informasjon etter loven her:\na. statlige, kommunale og fylkeskommunale organ\nb. andre forvaltningsorgan og offentlige rådgivende organ\nc. andre rettssubjekter som utfører offentlige forvaltningsoppgaver i henhold til lov.",
+    "Departementet kan i forskrift gi nærmere regler om deltakende virksomheter, herunder bestemme at andre virksomheter som utfører forvaltningsoppgaver, eller har geodata eller geodatatjenester som kan forbedre samfunnets tilgang til geografisk informasjon, skal omfattes av bestemmelsene i loven her."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Offentlige geodatatjenester",
+   "ledd": [
+    "Deltakende virksomheter skal for spesifiserte geodata opprette og drive et felles nett av offentlige søketjenester, visningstjenester, nedlastningstjenester, omformingstjenester og aktiveringstjenester.",
+    "Deltakende virksomheter kan etter avtale overlate til andre å opprette og drive tjenestene på sine vegne.",
+    "Søketjenestene skal være gratis tilgjengelige for allmennheten.",
+    "Tilgang til geodata fra offentlige geodatatjenester gjelder med de begrensninger som følger av bestemmelser gitt i eller i medhold av lov.",
+    "Departementet kan i forskrift gi nærmere bestemmelser om offentlige geodatatjenester, herunder om tilgang til tjenestene og betaling for bruk av tjenestene."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "Deling av geodata",
+   "ledd": [
+    "Deltakende virksomheter skal gjennomføre nødvendige tiltak for å dele spesifiserte geodata gjennom en felles infrastruktur for geografisk informasjon. Tiltakene skal gjøre det mulig for deltakende virksomheter å få tilgang til, utveksle og bruke geodatasett og geodatatjenester.",
+    "Departementet kan i forskrift gi nærmere bestemmelser om deling av spesifiserte geodata, organisering og regulering av samarbeidet om delingen av geodata, herunder om betaling mellom deltakende virksomheter, overvåking av den geografiske infrastrukturen og rapportering om gjennomføringen av loven."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 7",
+   "tittel": "Internasjonal datadeling",
+   "ledd": [
+    "Nasjonal geodatakoordinator kan inngå avtale med offentlige myndigheter fra andre EØS-stater og EU- og EØS-institusjoner om deling av spesifiserte geodata og tilhørende tjenester. Tilsvarende avtale kan inngås med organ opprettet ved internasjonale avtaler som Norge er part i.",
+    "Departementet kan i forskrift gi nærmere bestemmelser om deling av geodata med internasjonale institusjoner og virksomheter i andre land."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-8",
+   "nummer": "§ 8",
+   "tittel": "Harmonisering, samvirkningsevne og dokumentasjon av data og tjenester (metadata)",
+   "ledd": [
+    "Deltakende virksomheter skal gjøre spesifiserte geodata og tilhørende offentlige geodatatjenester tilgjengelig i harmonisert form slik at data og tjenester kan samvirke.",
+    "Deltakende virksomheter skal framstille tilhørende dokumentasjon (metadata) og holde denne oppdatert.",
+    "Departementet kan i forskrift gi nærmere regler om harmonisering, samvirkningsevne og dokumentasjon av data og tjenester (metadata)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-9",
+   "nummer": "§ 9",
+   "tittel": "Forholdet til forvaltningsloven",
+   "ledd": [
+    "Forvaltningsloven gjelder så langt den passer for virksomhet etter loven her.",
+    "Departementet kan i forskrift gi nærmere regler om saksbehandling og klage, herunder om avgjørelser som kan påklages selv om de ikke regnes som enkeltvedtak."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-10",
+   "nummer": "§ 10",
+   "tittel": "Ikraftsetting og overgangsregler",
+   "ledd": [
+    "Loven trer i kraft fra det tidspunktet Kongen[1] bestemmer.",
+    "Departementet kan gi nærmere overgangsbestemmelser."
+   ],
+   "fotnoter": [
+    {
+     "nr": "1",
+     "tekst": "Iflg. res. 3 sep 2010 nr. 1246 trådte § 1, § 2, § 3, § 4, § 6, § 7, § 9, § 10 og § 11 nr. 1 og 3 ikr. 3 sep 2010. § 11 nr. 2 ble opphevet ved lov 20 jan 2012 nr. 7 (ikr. 20 jan 2012 iflg. res. 20 jan 2012 nr. 36). Iflg. res. 30 mars 2012 nr. 275 trådte § 5 og § 8 ikr. 1 mai 2012."
+    }
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-11",
+   "nummer": "§ 11",
+   "tittel": "Endringer i andre lover",
+   "ledd": [
+    "Fra den tiden loven trer i kraft gjøres følgende endringer i andre lover: – – –"
+   ],
+   "endringer": [
+    "Endret ved lov 20 jan 2012 nr. 7 (ikr. 20 jan 2012 iflg. res. 20 jan 2012 nr. 36)."
+   ]
+  }
+ ]
+}

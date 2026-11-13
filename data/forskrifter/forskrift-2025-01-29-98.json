@@ -1,0 +1,531 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2025-01-29-98",
+ "dokumentid": "SF/forskrift/2025-01-29-98",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "etat": [
+  "Justervesenet"
+ ],
+ "ikraft": "2025-02-01",
+ "siste_endring_ikraft": "2025-02-14",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2025-02-14-223",
+   "tekst": "forskrift/2025-02-14-223"
+  }
+ ],
+ "hjemmel": [
+  {
+   "ref": "lov/2007-01-26-4/§7",
+   "tekst": "lov/2007-01-26-4/§7"
+  },
+  {
+   "ref": "lov/2007-01-26-4/§8",
+   "tekst": "lov/2007-01-26-4/§8"
+  },
+  {
+   "ref": "lov/2007-01-26-4/§10",
+   "tekst": "lov/2007-01-26-4/§10"
+  },
+  {
+   "ref": "lov/2007-01-26-4/§19",
+   "tekst": "lov/2007-01-26-4/§19"
+  }
+ ],
+ "kunngjort": "2025-01-30 15:15",
+ "tittel": "Forskrift om krav til gassmålere",
+ "annet": "Hjemmel: Fastsatt av Justervesenet 29. januar 2025 med hjemmel i lov 26. januar 2007 nr. 4 om målenheter, måling og normaltid § 7, § 8, § 10 og § 19\nEØS-henvisninger: EØS-avtalen vedlegg II kap. IX nr. 27e (direktiv 2014/32/EU endret ved direktiv 2015/13/EU).\nEndret ved forskrift 14 feb 2025 nr. 223.",
+ "refid": "forskrift/2025-01-29-98",
+ "eli": "/eli/forskrift/2025/01/29/98",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2025-01-29-98",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1 – Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Denne forskriften stiller krav til gassmålere for brenngasser og volumkonverteringsinnretninger når de selges eller tilbys for salg og når de brukes i lokaler til opphold, i næringsvirksomhet og i lett industri og der det er fastsatt krav til gassmålere i forskrift 20. desember 2007 nr. 1723 om målenheter og måling § 3-1. Forskriften her setter ikke krav til elektromagnetisk stråling som avgis fra måleinstrumentet. Dette reguleres av forskrift 10. oktober 2017 nr. 1598 om elektrisk utstyr."
+     ],
+     "endringer": [
+      "Endret ved forskrift 14 feb 2025 nr. 223."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "I denne forskriften menes med\na. gassmåler: et instrument som er beregnet på å måle, registrere og vise den mengde brenngass (volum eller masse) som passerer gjennom det;\nb. konverteringsinnretning: en innretning installert på en gassmåler som automatisk konverterer den målte mengden ved aktuelle måleforhold til en mengde ved referansebetingelser;\nc. bruker: den som leverer gass til kunder mot betaling. I særlige tilfeller kan andre anses som bruker;\nd. målestørrelsen: den bestemte størrelsen som skal måles;\ne. påvirkende størrelse: en størrelse som ikke er målestørrelsen, men som påvirker måleresultatet;\nf. angitte driftsbetingelser: de verdier av målestørrelsen og påvirkende størrelser som utgjør gassmålerens normale driftsbetingelser;\ng. forstyrrelse: en påvirkende størrelse med en verdi som er innenfor de grenser som er spesifisert i hensiktsmessige krav, men utenfor gassmålerens angitte driftsbetingelser. En påvirkende størrelse er uansett en forstyrrelse dersom den ikke er spesifisert i de angitte driftsbetingelser;\nh. kritisk endringsverdi: den verdien der endringen i måleresultatet anses som uønsket;\ni. klimatisk miljø: de omgivelser der gassmåler eller konverteringsanretning kan benyttes. Det er definert en rekke temperaturgrenser for å ta høyde for klimaforskjeller mellom EØS-statene."
+     ],
+     "endringer": [
+      "Endret ved forskrift 14 feb 2025 nr. 223."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2 – Krav til gassmålere og volumkonverteringsinnretninger ved salg",
+   "innhold": [
+    {
+     "type": "seksjon",
+     "id": "kapittel-2-kapittel-1",
+     "navn": "kapI",
+     "overskrift": "Avsnitt I – Generelle krav",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-1",
+       "nummer": "§ 3",
+       "tittel": "Måleteknisk beskyttelse og kvalitetsnivå",
+       "ledd": [
+        "En gassmåler og konverteringsinnretning skal ha en høy grad av måleteknisk beskyttelse, slik at alle berørte parter kan ha tillit til måleresultatet. Den skal konstrueres og fremstilles etter tilfredsstillende kvalitetsnivå med hensyn til måleteknologi og måledataenes sikkerhet."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-2",
+       "nummer": "§ 4",
+       "tittel": "Påtenkt bruk og påregnelig feilbruk",
+       "ledd": [
+        "Det skal tas hensyn til gassmålerens og konverteringsinnretningens påtenkte bruk samt den påregnelige feilbruk ved valg av løsninger som anvendes for å oppfylle kravene."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-3",
+       "nummer": "§ 5",
+       "tittel": "Tillatte feil",
+       "ledd": [
+        "Under de angitte driftsbetingelser, og i fravær av en forstyrrelse, skal målefeilen ikke overstige den maksimale tillatte målefeil som er fastsatt i avsnitt II.",
+        "Med mindre annet er angitt i avsnitt II, uttrykkes den maksimale tillatte målefeil som avviket fra den sanne måleverdi som et tosidig intervall.",
+        "Under de angitte driftsbetingelser, og dersom det foreligger en forstyrrelse, er kravet til yteevne som fastsatt i avsnitt II.",
+        "Dersom gassmåleren og konverteringsinnretningen er beregnet brukt i et gitt permanent kontinuerlig elektromagnetisk felt, skal måleresultatet under forsøket med amplitudemodulert elektromagnetisk felt ligge innenfor maksimal tillatt målefeil."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-4",
+       "nummer": "§ 6",
+       "tittel": "Påvirkende størrelser",
+       "ledd": [
+        "Produsenten skal angi det klimatiske og elektromagnetiske miljø som gassmåleren eller konverteringsinnretningen er beregnet brukt i, samt strømforsyning og andre påvirkende størrelser som kan påvirke målenøyaktigheten, idet det tas hensyn til kravene fastsatt i avsnitt II."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-5",
+       "nummer": "§ 7",
+       "tittel": "Klimatisk miljø",
+       "ledd": [
+        "Produsenten skal angi øvre og nedre temperaturgrense blant verdiene i tabell 1 og angi hvorvidt gassmåleren og konverteringsinnretningen er konstruert for kondenserende eller ikke-kondenserende fuktighet, samt om den tiltenkte plassering er åpen eller lukket.",
+        "Tabell 1\n| Øvre temperaturgrense | 30 °C | 40 °C | 55 °C | 70 °C\n| Nedre temperaturgrense | 5 °C | –10 °C | –25 °C | –40° C"
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-6",
+       "nummer": "§ 8",
+       "tittel": "Mekanisk miljø",
+       "ledd": [
+        "Det mekaniske miljø klassifiseres i følgende klasser:",
+        "Tabell 2\n| M1 | Denne klassen omfatter gassmålere og konverteringsinnretninger som anvendes på steder med minimal eksponering for vibrasjoner og sjokk, f.eks. målere som monteres på lette støttekonstruksjoner og utsettes for ubetydelige vibrasjoner og sjokk fra lokale sprengninger, byggearbeider, smelling med dører osv.\n| M2 | Denne klassen omfatter gassmålere og konverteringsinnretninger som anvendes på steder med betydelig eller høyt vibrasjons- og sjokknivå, f.eks. forårsaket av maskiner og forbipasserende kjøretøy i nærheten, eller av at måleren er plassert i umiddelbar nærhet av tunge maskiner, transportbånd osv.\n| M3 | Denne klassen omfatter gassmålere og konverteringsinnretninger som anvendes på steder med høyt og meget høyt vibrasjons- og sjokknivå, for eksempel målere montert direkte på maskiner, transportbånd osv.",
+        "Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med det mekaniske miljø:\na. vibrasjon\nb. mekanisk sjokk."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-7",
+       "nummer": "§ 9",
+       "tittel": "Elektromagnetisk miljø",
+       "ledd": [
+        "Det elektromagnetiske miljø klassifiseres i E1, E2 eller E3 som beskrevet nedenfor i tabell 3, med mindre annet er fastsatt i avsnitt II.",
+        "Tabell 3\n| E1 | Denne klassen omfatter gassmålere og konverteringsinnretninger som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i bygninger som brukes til bolig- og handelsformål, og lette industribygninger.\n| E2 | Denne klassen omfatter gassmålere og konverteringsinnretninger som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i andre industribygg.\n| E3 | Denne klassen omfatter gassmålere og konverteringsinnretninger som får strøm fra batteriet i et kjøretøy. Slike målere skal oppfylle kravene for E2 samt spenningsfall forårsaket av oppladning av startkretsen i forbrenningsmotorer og spenningstransienter ved frakopling av utladet batteri mens motoren er i drift.",
+        "Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med elektromagnetisk miljø:\na. spenningsavbrudd\nb. kortvarig redusert spenning\nc. elektriske utladninger og spenningstransienter på forsyningsledninger og/eller signalledninger\nd. høyfrekvente elektromagnetiske felt\ne. overførte høyfrekvente elektromagnetiske felt på forsyningsledninger og/eller signalledninger\nf. overspenning på forsyningsledninger og/eller signalledninger.",
+        "Det skal tas hensyn til følgende andre påvirkende størrelser når det er hensiktsmessig:\na. spenningsvariasjon\nb. variasjoner i nettfrekvens\nc. nettgenererte magnetiske felt\nd. andre størrelser som kan påvirke målerens nøyaktighet i vesentlig grad."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-8",
+       "nummer": "§ 10",
+       "tittel": "Grunnleggende regler for forsøk og bestemmelse av feil",
+       "ledd": [
+        "De grunnleggende kravene angitt i § 5 skal kontrolleres for hver relevant påvirkende størrelse. Med mindre annet er angitt i avsnitt II eller III, gjelder disse grunnleggende kravene når hver påvirkende størrelse påføres og virkningen av den vurderes separat, idet alle andre påvirkende størrelser holdes relativt konstant ved sine referanseverdier.",
+        "Måleforsøk skal utføres under og etter påføring av den påvirkende størrelsen, alt etter hva som tilsvarer normal driftsstatus for gassmåleren når denne påvirkende størrelsen kan antas å opptre."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-9",
+       "nummer": "§ 11",
+       "tittel": "Luftfuktighet",
+       "ledd": [
+        "Avhengig av det klimatiske miljøet gassmåleren og konverteringsinnretningen er ment brukt i, kan det mest hensiktsmessige testforløpet enten være stasjonær fuktig varme (ikke-kondenserende), eller syklisk fuktig varme (kondenserende).",
+        "Testforløp med syklisk varierende fuktighet er hensiktsmessig dersom kondensering er viktig, eller dersom dampgjennomtrengning vil bli fremskyndet av ventilasjon. Ved forhold der ikke-kondenserende luftfuktighet er viktig, er testforløp med stasjonær fuktig varme hensiktsmessig."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-10",
+       "nummer": "§ 12",
+       "tittel": "Reproduserbarhet",
+       "ledd": [
+        "Dersom gassmåleren og konverteringsinnretningen brukes til å måle den samme målestørrelsen, men på ulike steder og av ulike brukere, skal resultatene av påfølgende målinger være i nært samsvar. Variasjonen i måleresultatene skal være liten i forhold til maksimal tillatt målefeil."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-11",
+       "nummer": "§ 13",
+       "tittel": "Repeterbarhet",
+       "ledd": [
+        "Dersom målestørrelsen har samme verdi og måleforholdene er uendret, skal de påfølgende måleresultatene stemme godt overens. Variasjonen i måleresultatene skal være liten i forhold til maksimal tillatt målefeil."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-12",
+       "nummer": "§ 14",
+       "tittel": "Oppløsning og følsomhet",
+       "ledd": [
+        "En gassmåler og konverteringsinnretning skal være tilstrekkelig følsom og ha tilstrekkelig oppløsning tilpasset måleoppgaven."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-13",
+       "nummer": "§ 15",
+       "tittel": "Holdbarhet",
+       "ledd": [
+        "En gassmåler og konverteringsinnretning skal være konstruert slik at de måletekniske egenskapene er tilstrekkelig stabile i et tidsrom som produsenten fastsetter, forutsatt at den monteres, vedlikeholdes og brukes korrekt i samsvar med produsentens anvisninger og i det miljø det er bestemt for."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-14",
+       "nummer": "§ 16",
+       "tittel": "Pålitelighet",
+       "ledd": [
+        "En gassmåler og konverteringsinnretning skal konstrueres slik at virkningen av en funksjonsfeil som medfører et unøyaktig måleresultat, reduseres så langt som mulig, med mindre en slik feil er åpenbar."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-15",
+       "nummer": "§ 17",
+       "tittel": "Egnethet",
+       "ledd": [
+        "En gassmåler og konverteringsinnretning skal være\na. egnet til den påtenkte bruk, idet det tas hensyn til de i praksis forekommende driftsbetingelser, og det skal ikke stilles urimelige krav til brukeren for å oppnå et korrekt måleresultat\nb. robust og framstilt av materialer som er velegnet til de påtenkte driftsbetingelser\nc. konstruert slik at målefunksjonen skal kunne kontrolleres etter at måleren er markedsført og tatt i bruk. Om nødvendig skal særskilt utstyr eller programvare til denne kontrollen være en del av måleren. Testprosedyren skal være beskrevet i bruksanvisningen\nd. ufølsom overfor små variasjoner i målestørrelsens verdi, eller den skal reagere på en hensiktsmessig måte dersom måleren er beregnet til måling av verdier av målestørrelsen som er konstant over tid.",
+        "En gassmåler og konverteringsinnretning skal ikke være av en slik art at den lett kan brukes til bedrageri, og muligheten for utilsiktet feilbruk skal være minst mulig.",
+        "En gassmåler og konverteringsinnretning som anvendes med gjennomstrømningsrate utenfor det kontrollerte området, skal ikke ha unødige systematiske feil.",
+        "Dersom en gassmåler og konverteringsinnretning har tilknyttet programvare med andre funksjoner enn målefunksjonen, skal programvaren som har avgjørende betydning for målefunksjonen kunne identifiseres, og den skal ikke utsettes for forstyrrende påvirkning fra de tilknyttede programvarefunksjonene."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-16",
+       "nummer": "§ 18",
+       "tittel": "Beskyttelse mot manipulering",
+       "ledd": [
+        "Dersom gassmåleren og konverteringsinnretningen koples til en annen anordning direkte eller ved fjerntilkopling, skal de måletekniske egenskapene ikke påvirkes av anordningen på en feilaktig måte.",
+        "Komponenter som har avgjørende betydning for de måletekniske egenskapene, skal være konstruert slik at de kan sikres. De anvendte sikkerhetstiltak skal gjøre det mulig å påvise om inngrep har funnet sted.",
+        "Programvare som har avgjørende betydning for de måletekniske egenskapene, skal være merket tilsvarende og være sikret. Identifikasjon av slik programvare skal lett kunne framskaffes fra gassmåleren og konverteringsinnretningen. Eventuell informasjon eller indikasjon på at det har funnet sted et inngrep skal være tilgjengelig i et rimelig tidsrom.",
+        "Måledata, programvare som er av avgjørende betydning for måleegenskapene og måleteknisk viktige parametere som lagres eller overføres, skal være beskyttet på hensiktsmessig vis mot tilsiktede eller utilsiktede endringer.",
+        "Visning av samlet mengde eller visningene som samlet mengde kan utledes fra, og som helt eller delvis danner grunnlaget for betaling, skal ikke kunne tilbakestilles under bruk."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-17",
+       "nummer": "§ 19",
+       "tittel": "Opplysninger som skal påføres eller følge gassmåleren og konverteringsinnretningen",
+       "ledd": [
+        "En gassmåler og konverteringsinnretning skal være påført produsentens merke eller navn og opplysninger om målerens nøyaktighet. I den grad det er relevant skal også følgende opplysninger påføres gassmåleren:\na. relevante opplysninger om bruksbetingelser\nb. målekapasitet\nc. måleområde\nd. identitetsmerke\ne. nummer på sertifikat for EU-typeprøving eller samsvar basert på full kvalitetssikring og konstruksjonsundersøkelse\nf. opplysninger om hvorvidt ytterligere innretninger som gir måleresultater, samsvarer med lovbestemte måletekniske krav.",
+        "Dersom målerens dimensjoner er for små eller konstruksjonen er for følsom til at de relevante opplysninger kan påføres, skal disse være påført på eventuell emballasje samt i de følgedokumenter som kreves i henhold til denne forskriften.",
+        "Opplysninger om betjening skal følge gassmåleren og konverteringsinnretningen med mindre måleren er så enkel at dette er unødvendig. Opplysningene skal være lette å forstå, og skal i relevant omfang omfatte følgende:\na. angitte driftsbetingelser\nb. elektromagnetisk miljø\nc. øvre og nedre temperaturgrense, akseptabelt fuktighetsområde samt om måleren er egnet for innendørs og/eller utendørs bruk\nd. anvisninger for montering, vedlikehold, reparasjoner og tillatte innstillinger\ne. anvisninger for korrekt betjening og eventuelle særlige bruksvilkår\nf. vilkår for kompatibilitet med grensesnitt, underenheter eller måleredskap",
+        "Alle merker og påskrifter skal være tydelige og utvetydige og de skal ikke kunne fjernes eller flyttes. For grupper av identiske gassmålere og konverteringsinnretninger er det ikke nødvendig med individuelle bruksanvisninger."
+       ],
+       "endringer": [
+        "Endret ved forskrift 14 feb 2025 nr. 223."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-18",
+       "nummer": "§ 20",
+       "tittel": "Angivelse av måleverdi",
+       "ledd": [
+        "Med mindre annet er angitt i avsnitt II, skal skalaintervallet for en målt verdi være i formen 1 × 10n, 2 × 10n eller 5 × 10n, hvor n er et heltall eller null. Målenheten eller dens symbol skal vises nær tallverdien.",
+        "Det skal benyttes målenheter og symboler som er i samsvar med bestemmelsene i forskrift om målenheter og måling."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-19",
+       "nummer": "§ 21",
+       "tittel": "Visning av resultat",
+       "ledd": [
+        "Resultatet skal vises på et display eller som papirutskrift. Ved utskrift skal skriften eller registreringen være lett lesbar og ikke kunne fjernes.",
+        "Alle resultater skal være tydelige og utvetydige og ledsaget av de merker og påskrifter som er nødvendige for å opplyse brukeren om resultatets betydning. Resultatet som vises, skal være lett lesbart under normale bruksforhold. Ytterligere informasjon kan vises under forutsetning av at den ikke kan forveksles med de måletekniske kontrollerte resultatene.",
+        "Uansett om en gassmåler og konverteringsinnretning som er beregnet på forsyningsmåling kan fjernavleses eller ikke, skal den være utstyrt med et metrologisk kontrollert display eller visning som brukeren kan avlese uten bruk av hjelpemidler. Det som avleses på skjermen eller visningen er måleresultatet som danner grunnlaget for prisen som skal betales."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-20",
+       "nummer": "§ 22",
+       "tittel": "Fjernavlesning",
+       "ledd": [
+        "Dersom en gassmåler og konverteringsinnretning kan fjernavleses, så skal kommunikasjonsgrensesnittet være sikret.",
+        "Måleverdier skal gjengis fullstendig og korrekt ved mottakerenheten.",
+        "Kommunikasjonsgrensesnittet og sikring av dette skal være beskrevet i typegodkjenningen og i den tekniske dokumentasjonen som utarbeides av produsenten."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-21",
+       "nummer": "§ 23",
+       "tittel": "Samsvarsvurdering",
+       "ledd": [
+        "En gassmåler og konverteringsinnretning skal være konstruert slik at det lett kan vurderes om den er i samsvar med de relevante kravene i denne forskriften."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-2-kapittel-2",
+     "navn": "kapII",
+     "overskrift": "Avsnitt II – Spesifikke krav",
+     "innhold": [
+      {
+       "type": "seksjon",
+       "id": "kapittel-2-kapittel-2-kapittel-1",
+       "navn": "del1",
+       "overskrift": "Del 1 – Gassmålere",
+       "innhold": [
+        {
+         "type": "paragraf",
+         "id": "kapittel-2-kapittel-2-kapittel-1-paragraf-1",
+         "nummer": "§ 24",
+         "tittel": "Definisjoner",
+         "ledd": [
+          "I dette avsnittet menes med\na. minste strømningsrate (Qmin): den laveste strømningsraten der gassmåleren gir angivelser som oppfyller kravene med hensyn til maksimal tillatte målefeil\nb. største strømningsrate (Qmax): den høyeste strømningsraten der gassmåleren gir angivelser som oppfyller kravene med hensyn til maksimal tillatte målefeil\nc. overgangsstrømningsrate (Qt): overgangsstrømningsraten er den verdien for strømningsrate som opptrer mellom permanent og minste strømningsrate, der strømningsrateområdet deles i to områder, «øvre område» og «nedre område». Hvert område har en karakteristisk maksimal tillatt målefeil\nd. overlaststrømningsrate (Qr): strømningsrate ved overbelastning er den høyeste strømningsraten der måleren fungerer tilfredsstillende over kort tid uten å ta skade\ne. referansebetingelser: de angitte forhold som den målte gassmengden konverteres til."
+         ],
+         "endringer": [
+          "Endret ved forskrift 14 feb 2025 nr. 223."
+         ]
+        },
+        {
+         "type": "paragraf",
+         "id": "kapittel-2-kapittel-2-kapittel-1-paragraf-2",
+         "nummer": "§ 25",
+         "tittel": "Angitte driftsbetingelser",
+         "ledd": [
+          "Produsenten skal angi driftsbetingelser som følger:\na. Strømningsrate for gasstrømmen skal oppfylle minst følgende vilkår:\n| Klasse | Qmax/Qmin | Qmax/Qt | Qr/Qmax\n| 1,5 | ≥ 150 | ≥ 10 | 1,2\n| 1,0 | ≥ 20 | ≥ 5 | 1,2\nb. temperaturområdet for gassen, med et minsteområde på 40 °C\nc. vilkår i forbindelse med brenngass.\nGassmåleren skal være utformet for gasstypene og tilførselstrykkene i bestemmelseslandet. Særlig skal produsenten angi:\n- gassfamilie eller -gruppe\n- største driftstrykk.\nd. et minste temperaturområde på 50 °C for det klimatiske miljøet\ne. nominell vekselspenningsforsyning og/eller grenser for likestrømsforsyning."
+         ]
+        },
+        {
+         "type": "paragraf",
+         "id": "kapittel-2-kapittel-2-kapittel-1-paragraf-3",
+         "nummer": "§ 26",
+         "tittel": "Største tillatte målefeil",
+         "ledd": [
+          "a. Gassmåler som angir volum ved måleforholdene eller angir masse\nTabell 1\n| Klasse | 1,5 | 1,0\n| Qmin ≤ Q < Qt | 3 % | 2 %\n| Qt ≤ Q ≤ Qmax | 1,5 % | 1 %\nb. Den komplette gassmåleren skal ikke utnytte maksimal tillatt feil eller systematisk favorisere en bestemt part.\nc. For en gassmåler med temperaturkonvertering som bare viser det konverterte volumet, økes største tillatte målefeil for måleren med 0,5 % i et område på 30 °C fordelt symmetrisk rundt temperaturen angitt av produsenten, som ligger mellom 15 °C og 25 °C. Utenfor dette området tillates en ytterligere økning på 0,5 % for hvert område på 10 °C."
+         ]
+        },
+        {
+         "type": "paragraf",
+         "id": "kapittel-2-kapittel-2-kapittel-1-paragraf-4",
+         "nummer": "§ 27",
+         "tittel": "Tillatte virkninger av elektromagnetiske forstyrrelser",
+         "ledd": [
+          "a. Virkningen av en elektromagnetisk forstyrrelse på en gassmåler eller konverteringsinnretning skal være slik at\n- endringen i måleresultatet ikke er større enn den kritiske endringen som definert i bokstav c), eller\n- måleresultatet angis slik at det ikke kan tolkes som et gyldig resultat, for eksempel en kortvarig variasjon som ikke kan tolkes, registreres eller overføres som måleresultat.\nb. Etter å ha vært utsatt for en elektromagnetisk forstyrrelse skal gassmåleren\n- gjenoppta driften innenfor største tillatte målefeil, og\n- ha alle målefunksjoner i behold, og\n- gjøre det mulig å gjenopprette alle måledata som forelå like før forstyrrelsen.\nc. Den kritiske endringen er den minste av følgende to verdier:\n- den mengde som tilsvarer halvparten av største tillatte målefeil i det øvre området av det målte volumet\n- den mengde som tilsvarer største tillatte målefeil for det volum som tilsvarer ett minutt ved største strømningshastighet\nd. Virkning av strømningsforstyrrelser oppstrøms og nedstrøms.\nUnder de installasjonsforhold som er angitt av produsenten, skal påvirkningen av strømningsforstyrrelsene ikke overstige en tredel av største tillatte målefeil."
+         ]
+        },
+        {
+         "type": "paragraf",
+         "id": "kapittel-2-kapittel-2-kapittel-1-paragraf-5",
+         "nummer": "§ 28",
+         "tittel": "Holdbarhet",
+         "ledd": [
+          "Etter en hensiktsmessig test, der det er tatt hensyn til den tid som produsenten har estimert, skal følgende kriterier være oppfylt:\na. målere i klasse 1,5\n- Variasjonen i måleresultatet etter holdbarhetsprøvingen skal, når det sammenlignes med det opprinnelige måleresultatet for strømningshastigheter i området Qt til Qmax, ikke overstige 2 %.\n- Visningsfeilen etter holdbarhetsprøvingen skal ikke overstige to ganger største tillatte målefeil i tabell nr. 1.\nb. målere i klasse 1,0\n- Variasjonen i måleresultatet etter holdbarhetsprøvingen skal, når det sammenlignes med det opprinnelige måleresultatet, ikke overstige en tredel av største tillatte målefeil i tabell nr. 1.\n- Visningsfeilen etter holdbarhetsprøvingen skal ikke overstige største tillatte målefeil i tabell nr. 1."
+         ]
+        },
+        {
+         "type": "paragraf",
+         "id": "kapittel-2-kapittel-2-kapittel-1-paragraf-6",
+         "nummer": "§ 29",
+         "tittel": "Egnethet",
+         "ledd": [
+          "a. En gassmåler som får sin strøm fra nettet (vekselstrøm eller likestrøm), skal være forsynt med nødstrømsforsyning eller en annen innretning for å sikre at alle målefunksjoner ivaretas under et brudd i hovedstrømforsyningen.\nb. En egen strømkilde skal ha en levetid på minst fem år. Etter 90 % av levetiden skal en passende varselsmelding vises.\nc. En visningsinnretning skal ha et tilstrekkelig antall sifre til å sikre at den mengden som er passert i løpet av 8 000 timer ved Qmax, ikke fører sifrene tilbake til startverdiene.\nd. Gassmåleren skal kunne installeres for drift i enhver posisjon som produsenten har angitt i sin installasjonsanvisning.\ne. Gassmåleren skal ha en prøvingsinnretning som skal gjøre det mulig å utføre prøvinger innen et rimelig tidsrom.\nf. Gassmåleren skal overholde største tillatte målefeil i enhver strømningsretning, eller bare i én klart angitt strømningsretning."
+         ]
+        },
+        {
+         "type": "paragraf",
+         "id": "kapittel-2-kapittel-2-kapittel-1-paragraf-7",
+         "nummer": "§ 30",
+         "tittel": "Enheter",
+         "ledd": [
+          "Den målte mengden skal vises i kubikkmeter eller kilogram."
+         ]
+        }
+       ]
+      },
+      {
+       "type": "seksjon",
+       "id": "kapittel-2-kapittel-2-kapittel-2",
+       "navn": "del2",
+       "overskrift": "Del 2 – Volumkonverteringsinnretninger",
+       "innhold": [
+        {
+         "type": "paragraf",
+         "id": "kapittel-2-kapittel-2-kapittel-2-paragraf-1",
+         "nummer": "§ 31",
+         "tittel": "Volumkonverteringsinnretning",
+         "ledd": [
+          "Volumkonverteringsinnretning utgjør en delenhet når den er sammen med et måleinstrument som den er kompatibel med.",
+          "De grunnleggende krav for gassmåleren får også anvendelse, i den grad de er relevante, for volumkonverteringsinnretninger."
+         ]
+        },
+        {
+         "type": "paragraf",
+         "id": "kapittel-2-kapittel-2-kapittel-2-paragraf-2",
+         "nummer": "§ 32",
+         "tittel": "Normalforhold for konverterte mengder",
+         "ledd": [
+          "Produsenten skal angi normalforholdene for konverterte mengder."
+         ]
+        },
+        {
+         "type": "paragraf",
+         "id": "kapittel-2-kapittel-2-kapittel-2-paragraf-3",
+         "nummer": "§ 33",
+         "tittel": "Største tillatte målefeil",
+         "ledd": [
+          "a. 0,5 % ved en omgivelsestemperatur på 20 °C ± 3 °C, omgivelsesfuktighet på 60 % ± 15 %, nominelle verdier for strømforsyning\nb. 0,7 % for temperaturkonverteringsinnretninger ved nominelle driftsforhold\nc. 1 % for andre konverteringsinnretninger ved nominelle driftsforhold.",
+          "Feilen til gassmåleren tas ikke med i betraktning.",
+          "Volumkonverteringsinnretningen skal ikke utnytte største tillatte målefeil eller systematisk favorisere en bestemt part."
+         ]
+        },
+        {
+         "type": "paragraf",
+         "id": "kapittel-2-kapittel-2-kapittel-2-paragraf-4",
+         "nummer": "§ 34",
+         "tittel": "Egnethet",
+         "ledd": [
+          "En elektronisk konverteringsinnretning skal kunne fastslå når den arbeider utenfor driftsintervallet/intervallene som er angitt av produsenten for parametere som er relevante for målesikkerheten. I slike tilfeller skal konverteringsinnretningen stoppe integreringen av den konverterte mengden, og kan foreta en separat summering av den konverterte mengden for det tidsrommet den arbeider utenfor driftsintervallet/intervallene.",
+          "En elektronisk konverteringsinnretning skal kunne vise alle relevante data for målingen uten tilleggsutstyr."
+         ]
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3 – Krav til gassmålere og volumkonverteringsinnretninger under bruk",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 35",
+     "tittel": "Brukerens ansvar",
+     "ledd": [
+      "En bruker er ansvarlig for at gassmåleren og konverteringsinnretningen under bruk oppfyller kravene i beslutningen om samsvar, denne forskriften og det måletekniske regelverket for øvrig."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 36",
+     "tittel": "Egnethet og montering",
+     "ledd": [
+      "Brukeren skal sikre at gassmåleren og konverteringsinnretningen er egnet til påtenkt bruk, montert og sikret i henhold til produsentens anvisning."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 37",
+     "tittel": "Internkontroll",
+     "ledd": [
+      "Brukeren skal ha et egnet internkontrollsystem for sine gassmålere og konverteringsinnretninger. Internkontrollsystemet skal være utformet slik at det er egnet til å sørge for at kravene i denne forskriften overholdes.",
+      "Internkontrollsystemet skal tilfredsstille kravene i forskrift 20. desember 2016 nr. 1753 om krav til internkontrollsystem for måleredskaper og målinger."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 38",
+     "tittel": "Kvalitetssikring av måleverdier",
+     "ledd": [
+      "Brukeren skal kvalitetssikre måleverdiene og håndteringen av disse gjennom hele måleverdikjeden. Måleverdikjeden omfatter avlesning eller fjernavlesning av måleresultat, samt all videre registrering, avregning og fakturering. Kvalitetssikringen skal kunne dokumenteres i internkontrollsystemet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 39",
+     "tittel": "Maksimal tillatt målefeil under bruk",
+     "ledd": [
+      "Brukeren skal sørge for at positiv eller negativ målefeil under bruk ikke skal overstige:\n1. Gassmåler som angir volum ved måleforholdene eller angir masse\nTabell 2\n| Klasse | 1,5 | 1,0\n| Qmin ≤ Q < Qt | 4 % | 4 %\n| Qt ≤ Q ≤ Qmax | 3 % | 2 %\nDen komplette gassmåleren skal ikke utnytte maksimal tillatt feil eller systematisk favorisere en bestemt part.\nFor en gassmåler med temperaturkonvertering som bare viser det konverterte volumet, økes største tillatte målefeil for måleren med 1 % i et område på 30 °C fordelt symmetrisk rundt temperaturen angitt av produsenten, som ligger mellom 15 °C og 25 °C. Utenfor dette området tillates en ytterligere økning på 1 % for hvert område på 10 °C.\n2. Volumkonverteringsinnretning\na. 1 % ved en omgivelsestemperatur på 20 °C ± 3 °C, omgivelsesfuktighet på 60 % ± 15 %, nominelle verdier for strømforsyning,\nb. 1,4 % for temperaturkonverteringsinnretninger ved nominelle driftsforhold,\nc. 2 % for andre konverteringsinnretninger ved nominelle driftsforhold."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4 – Avsluttende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 40",
+     "tittel": "Overtredelsesgebyr",
+     "ledd": [
+      "Overtredelse av bestemmelsene i denne forskriften kan medføre pålegg av overtredelsesgebyr utmålt etter bestemmelsene i forskrift om målenheter og måling kapittel 7."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 41",
+     "tittel": "Samsvarsvurdering",
+     "ledd": [
+      "Framgangsmåtene for samsvarsvurdering som produsenten kan velge mellom, er: B + F eller B + D eller H1."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 42",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Denne forskriften trer i kraft 1. februar 2025."
+     ]
+    }
+   ]
+  }
+ ]
+}

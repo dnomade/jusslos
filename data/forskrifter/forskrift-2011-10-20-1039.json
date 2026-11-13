@@ -1,0 +1,83 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2011-10-20-1039",
+ "dokumentid": "SF/forskrift/2011-10-20-1039",
+ "departement": [
+  "Arbeids- og inkluderingsdepartementet"
+ ],
+ "etat": [
+  "Pensjonsavdelingen"
+ ],
+ "kunngjort_i": "I 2011 hefte 9",
+ "ikraft": "2011-10-20, med virkning fra og med 2011-01-01",
+ "siste_endring_ikraft": "2023-12-21",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2023-12-21-2271",
+   "tekst": "forskrift/2023-12-21-2271"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1949-07-28-26/§24",
+   "tekst": "lov/1949-07-28-26/§24"
+  },
+  {
+   "ref": "lov/1953-06-26-11/§8a",
+   "tekst": "lov/1953-06-26-11/§8a"
+  },
+  {
+   "ref": "lov/1962-06-22-12/§10a",
+   "tekst": "lov/1962-06-22-12/§10a"
+  }
+ ],
+ "kunngjort": "2011-10-21 14:25",
+ "tittel": "Forskrift om anvendelse av forholdstall når et medlem av Statens pensjonskasse og enkelte andre pensjonsordninger blir innvilget uførepensjon etter fylte 67 år",
+ "annet": "Hjemmel: Fastsatt av Arbeidsdepartementet 20. oktober 2011 med hjemmel i lov 28. juli 1949 nr. 26 om Statens pensjonskasse § 24 sjuende ledd, lov 26. juni 1953 nr. 11 om pensjonsordning for apotekvirksomhet mv. § 8a sjuende ledd og lov 22. juni 1962 nr. 12 om pensjonsordning for sykepleiere (sykepleierpensjonsloven) § 10a sjuende ledd.\nEndret ved forskrift 21 des 2023 nr. 2271.",
+ "refid": "forskrift/2011-10-20-1039",
+ "eli": "/eli/forskrift/2011/10/20/1039",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2011-10-20-1039",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Anvendelsesområde",
+   "ledd": [
+    "Forskriften gjelder for et medlem av Statens pensjonskasse, pensjonsordning for apotekvirksomhet mv. og pensjonsordning for sykepleiere som ble innvilget uførepensjon med virkningstidspunkt etter fylte 67 år før 2015."
+   ],
+   "endringer": [
+    "Endret ved forskrift 21 des 2023 nr. 2271."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Fastsetting av forholdstallet ved omregning til alderspensjon ved aldersgrensen",
+   "ledd": [
+    "Ved omregning fra uførepensjon til alderspensjonen ved aldersgrensen, skal alderspensjonen levealdersjusteres med forholdstallet på virkningstidspunktet for uførepensjonen fra tjenestepensjonsordningen. Det skal likevel ikke benyttes lavere forholdstall enn 1,000."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Bruk av forholdstall i garantiberegningen",
+   "ledd": [
+    "Ved garantiberegningen etter lov om Statens pensjonskasse § 24a sjette ledd, lov om pensjonsordning for apotekvirksomhet mv. § 8b sjette ledd og lov om pensjonsordning for sykepleiere § 10b sjette ledd for et medlem som nevnt i § 1 skal den alderspensjon fra folketrygden som inngår i garantiberegningen beregnes som basispensjon dividert med forholdstallet på virkningstidspunktet for uførepensjonen fra tjenestepensjonsordningen."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Denne forskriften trer i kraft straks og gis virkning fra 1. januar 2011."
+   ]
+  }
+ ]
+}

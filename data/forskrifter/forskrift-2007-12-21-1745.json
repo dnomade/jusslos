@@ -1,0 +1,571 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2007-12-21-1745",
+ "dokumentid": "SF/forskrift/2007-12-21-1745",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "etat": [
+  "Justervesenet"
+ ],
+ "kunngjort_i": "I 2008 hefte 1",
+ "ikraft": "2008-01-01",
+ "siste_endring_ikraft": "2025-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2024-12-12-3135",
+   "tekst": "forskrift/2024-12-12-3135 fra 2025-01-01"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2007-01-26-4/§7",
+   "tekst": "lov/2007-01-26-4/§7"
+  },
+  {
+   "ref": "lov/2007-01-26-4/§8",
+   "tekst": "lov/2007-01-26-4/§8"
+  },
+  {
+   "ref": "lov/2007-01-26-4/§10",
+   "tekst": "lov/2007-01-26-4/§10"
+  },
+  {
+   "ref": "lov/2007-01-26-4/§19",
+   "tekst": "lov/2007-01-26-4/§19"
+  },
+  {
+   "ref": "lov/2007-01-26-4/§30",
+   "tekst": "lov/2007-01-26-4/§30"
+  },
+  {
+   "ref": "lov/2007-01-26-4/§35",
+   "tekst": "lov/2007-01-26-4/§35"
+  }
+ ],
+ "kunngjort": "2008-01-11 15:40",
+ "siste_rettelse": "2020-10-21 (EØS-henvisningsfeltet)",
+ "korttittel": "Forskrift om krav til vannmålere",
+ "tittel": "Forskrift om krav til vannmålere",
+ "annet": "Hjemmel: Fastsatt av Justervesenet 21. desember 2007 med hjemmel i lov 26. januar 2007 nr. 4 om målenheter, måling og normaltid § 10, § 35, jf. § 7 og § 8, § 19 og § 30.\nEØS-henvisninger: EØS-avtalen vedlegg II kap. IX nr. 27e (direktiv 2014/32/EU endret ved direktiv 2015/13/EU).\nEndret ved forskrifter 9 sep 2011 nr. 921, 10 des 2015 nr. 1457, 23 okt 2017 nr. 1682, (16 nov 2022 nr. 2041 utgår da opphevet før ikrafttredelse), 16 nov 2022 nr. 2111 (i kraft 1 jan 2023), 16 nov 2022 nr. 2111 (i kraft 1 juli 2023), 1 des 2023 nr. 1989 (i kraft 1 jan 2024), 12 des 2024 nr. 3135 (i kraft 1 jan 2025).\nRettelser: 25.06.2018 (EØS-henvisningsfeltet), 21.10.2020 (EØS-henvisningsfeltet).",
+ "refid": "forskrift/2007-12-21-1745",
+ "eli": "/eli/forskrift/2007/12/21/1745",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2007-12-21-1745",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1 – Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Denne forskriften stiller krav til vannmålere når det er fastsatt krav til vannmålere i forskrift 20. desember 2007 nr. 1723 om målenheter og måling § 3-1.",
+      "Forskriften her setter ikke krav til elektromagnetisk stråling som avgis av måleinstrumentet."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 23 okt 2017 nr. 1682, 16 nov 2022 nr. 2111 (i kraft 1 jan 2023), 1 des 2023 nr. 1989 (i kraft 1 jan 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "I denne forskriften menes med:\na. vannmåler: et måleredskap som er beregnet på å måle, registrere og vise det vannvolumet som strømmer gjennom måleren\nb. bruker: den som leverer kaldt eller varmt vann til kunder mot betaling. I særlige tilfeller kan andre anses som bruker\nc. målestørrelsen: den bestemte størrelsen som skal måles\nd. påvirkende størrelse: en størrelse som ikke er målestørrelsen, men som påvirker måleresultatet\ne. angitte driftsbetingelser: de verdier av målestørrelsen og påvirkende størrelser som utgjør vannmålerens normale driftsbetingelser\nf. forstyrrelse: en påvirkende størrelse med en verdi som er innenfor de grenser som er spesifisert i hensiktsmessige krav, men utenfor vannmålerens angitte driftsbetingelser. En påvirkende størrelse er uansett en forstyrrelse dersom den ikke er spesifisert i de angitte driftsbetingelser\ng. kritisk endringsverdi: den verdien der endringen i måleresultatet anses som uønsket\nh. klimatisk miljø: de omgivelser der vannmålere kan benyttes. Det er definert en rekke temperaturgrenser for å ta høyde for klimaforskjeller mellom EØS-statene."
+     ],
+     "endringer": [
+      "Endret ved forskrift 16 nov 2022 nr. 2111 (i kraft 1 jan 2023)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2 – Krav til vannmålere ved salg",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrift 16 nov 2022 nr. 2111 (i kraft 1 jan 2023)."
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-2-kapittel-1",
+     "navn": "kapI",
+     "overskrift": "Avsnitt I – Generelle krav",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-1",
+       "nummer": "§ 3",
+       "tittel": "Måleteknisk beskyttelse og kvalitetsnivå",
+       "ledd": [
+        "En vannmåler skal ha en høy grad av måleteknisk beskyttelse, slik at alle berørte parter kan ha tillit til måleresultatet. Den skal konstrueres og fremstilles etter tilfredsstillende kvalitetsnivå med hensyn til måleteknologi og måledataenes sikkerhet."
+       ],
+       "endringer": [
+        "Endret ved forskrift 16 nov 2022 nr. 2111 (i kraft 1 jan 2023)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-2",
+       "nummer": "§ 4",
+       "tittel": "Påtenkt bruk og påregnelig feilbruk",
+       "ledd": [
+        "Det skal tas hensyn til vannmålerens påtenkte bruk samt den påregnelige feilbruk ved valg av løsninger som anvendes for å oppfylle kravene."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-3",
+       "nummer": "§ 5",
+       "tittel": "Tillatte feil",
+       "ledd": [
+        "Under de angitte driftsbetingelser og i fravær av en forstyrrelse skal målefeilen ikke overstige den maksimale tillatte målefeil som er fastsatt i avsnitt II.",
+        "Med mindre annet er angitt i avsnitt II, uttrykkes den maksimale tillatte målefeil som avviket fra den sanne måleverdi som et tosidig intervall.",
+        "Under de angitte driftsbetingelser og dersom det foreligger en forstyrrelse, er kravet til yteevne som fastsatt i avsnitt II.",
+        "Dersom vannmåleren er beregnet brukt i et gitt permanent kontinuerlig elektromagnetisk felt, skal måleresultatet under forsøket med amplitudemodulert elektromagnetisk felt ligge innenfor maksimal tillatt målefeil."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-4",
+       "nummer": "§ 6",
+       "tittel": "Påvirkende størrelser",
+       "ledd": [
+        "Produsenten skal angi det klimatiske og elektromagnetiske miljøet som vannmåleren er beregnet brukt i, samt strømforsyning og andre påvirkende størrelser som kan påvirke målenøyaktigheten, idet det tas hensyn til kravene fastsatt i avsnitt II."
+       ],
+       "endringer": [
+        "Endret ved forskrift 16 nov 2022 nr. 2111 (i kraft 1 jan 2023)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-5",
+       "nummer": "§ 7",
+       "tittel": "Klimatisk miljø",
+       "ledd": [
+        "Produsenten skal angi øvre og nedre temperaturgrense blant verdiene i tabell 1 og angi hvorvidt vannmåleren er konstruert for kondenserende eller ikke-kondenserende fuktighet, samt om den tiltenkte plassering er åpen eller lukket.\nTabell 1\n| øvre temperaturgrense | 30 °C | 40 °C | 55 °C | 70 °C\n| nedre temperaturgrense | 5 °C | –10 °C | –25 °C | –40 °C"
+       ],
+       "endringer": [
+        "Endret ved forskrift 16 nov 2022 nr. 2111 (i kraft 1 jan 2023)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-6",
+       "nummer": "§ 8",
+       "tittel": "Mekanisk miljø",
+       "ledd": [
+        "Mekanisk miljø klassifiseres i følgende klasser:\nTabell 2\n| M1 | Denne klassen omfatter vannmålere som anvendes på steder med minimal eksponering for vibrasjoner og sjokk, f.eks. målere som monteres på lette støttekonstruksjoner og utsettes for ubetydelige vibrasjoner og sjokk fra lokale sprengninger, byggearbeider, smelling med dører osv.\n| M2 | Denne klassen omfatter vannmålere som anvendes på steder med betydelig eller høyt vibrasjons- og sjokknivå, f.eks. forårsaket av maskiner og forbipasserende kjøretøy i nærheten, eller av at måleren er plassert i umiddelbar nærhet av tunge maskiner, transportbånd osv.\n| M3 | Denne klassen omfatter vannmålere som anvendes på steder med høyt og meget høyt vibrasjons- og sjokknivå, for eksempel målere montert direkte på maskiner, transportbånd osv.",
+        "Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med mekanisk miljø:\na. vibrasjon\nb. mekanisk sjokk."
+       ],
+       "endringer": [
+        "Endret ved forskrift 16 nov 2022 nr. 2111 (i kraft 1 jan 2023)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-7",
+       "nummer": "§ 9",
+       "tittel": "Elektromagnetisk miljø",
+       "ledd": [
+        "Elektromagnetisk miljø klassifiseres i klasse E1, E2 eller E3 som beskrevet nedenfor i tabell 3, med mindre annet er fastsatt i avsnitt II.\nTabell 3\n| E1 | Denne klassen omfatter vannmålere som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i bygninger som brukes til bolig- og handelsformål, og lette industribygninger.\n| E2 | Denne klassen omfatter vannmålere som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i andre industribygg.\n| E3 | Denne klassen omfatter vannmålere som får strøm fra batteriet i et kjøretøy. Slike målere skal oppfylle kravene for E2 samt følgende tilleggskrav: spenningsfall forårsaket av oppladning av startkretsen i forbrenningsmotorer og spenningstransienter ved frakopling av utladet batteri mens motoren er i drift.",
+        "Det skal tas hensyn til følgende påvirkende størrelser i forbindelse med elektromagnetisk miljø:\na. spenningsavbrudd\nb. kortvarig redusert spenning\nc. spenningstransienter på forsyningsledninger og/eller signalledninger, elektrostatiske utladninger\nd. høyfrekvente elektromagnetiske felt\ne. overførte høyfrekvente elektromagnetiske felt på forsyningsledninger og/eller signalledninger\nf. overspenning på forsyningsledninger og/eller signalledninger.",
+        "Det skal tas hensyn til følgende andre påvirkende størrelser når det er hensiktsmessig:\na. spenningsvariasjon\nb. variasjoner i nettfrekvens\nc. nettgenererte magnetiske felt\nd. andre størrelser som kan påvirke målerens nøyaktighet i vesentlig grad."
+       ],
+       "endringer": [
+        "Endret ved forskrift 16 nov 2022 nr. 2111 (i kraft 1 jan 2023)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-8",
+       "nummer": "§ 10",
+       "tittel": "Grunnleggende regler for forsøk og bestemmelse av feil",
+       "ledd": [
+        "De grunnleggende kravene angitt i § 5 skal kontrolleres for hver relevant påvirkende størrelse. Med mindre annet er angitt i avsnitt II, gjelder disse grunnleggende kravene når hver påvirkende størrelse påføres og virkningen av den vurderes separat, idet alle andre påvirkende størrelser holdes relativt konstant ved sine referanseverdier.",
+        "Måleforsøk skal utføres under og etter påføring av den påvirkende størrelsen, alt etter hva som tilsvarer normal driftsstatus for vannmåleren når denne påvirkende størrelsen kan antas å opptre."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-9",
+       "nummer": "§ 11",
+       "tittel": "Luftfuktighet",
+       "ledd": [
+        "Avhengig av det klimatiske miljø vannmåleren er ment brukt i, kan det mest hensiktsmessige testforløp enten være stasjonær fuktig varme (ikke-kondenserende), eller syklisk fuktig varme (kondenserende).",
+        "Testforløp med syklisk varierende fuktighet er hensiktsmessig dersom kondensering er viktig, eller dersom dampgjennomtrengning vil bli fremskyndet av ventilasjon. Ved forhold der ikke-kondenserende luftfuktighet er viktig, er testforløp med stasjonær fuktig varme hensiktsmessig."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-10",
+       "nummer": "§ 12",
+       "tittel": "Reproduserbarhet",
+       "ledd": [
+        "Dersom vannmåleren brukes til å måle den samme målestørrelsen, men på ulike steder og av ulike brukere, skal resultatene av påfølgende målinger være i nært samsvar. Variasjonen i måleresultatene skal være liten i forhold til maksimal tillatt målefeil."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-11",
+       "nummer": "§ 13",
+       "tittel": "Repeterbarhet",
+       "ledd": [
+        "Dersom målestørrelsen har samme verdi og måleforholdene er uendret, skal de påfølgende måleresultatene stemme godt overens. Variasjonen i måleresultatene skal være liten i forhold til maksimal tillatt målefeil."
+       ],
+       "endringer": [
+        "Endret ved forskrift 16 nov 2022 nr. 2111 (i kraft 1 jan 2023)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-12",
+       "nummer": "§ 14",
+       "tittel": "Oppløsning og følsomhet",
+       "ledd": [
+        "En vannmåler skal være tilstrekkelig følsom, og skal ha tilstrekkelig oppløsning tilpasset måleoppgaven."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-13",
+       "nummer": "§ 15",
+       "tittel": "Holdbarhet",
+       "ledd": [
+        "En vannmåler skal være konstruert slik at dens måletekniske egenskaper er tilstrekkelig stabile i et tidsrom som produsenten fastsetter, forutsatt at det monteres, vedlikeholdes og brukes korrekt i samsvar med produsentens anvisninger og i det miljø det er bestemt for."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-14",
+       "nummer": "§ 16",
+       "tittel": "Pålitelighet",
+       "ledd": [
+        "En vannmåler skal konstrueres slik at virkningen av en funksjonsfeil som medfører et unøyaktig måleresultat, reduseres så langt som mulig, med mindre en slik feil er åpenbar."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-15",
+       "nummer": "§ 17",
+       "tittel": "Egnethet",
+       "ledd": [
+        "En vannmåler skal være\na. egnet til den påtenkte bruk, idet det tas hensyn til de i praksis forekommende driftsbetingelser, og det skal ikke stilles urimelige krav til brukeren for å oppnå et korrekt måleresultat\nb. robust og framstilt av materialer som er velegnet til de påtenkte driftsbetingelser\nc. konstruert slik at målefunksjonen skal kunne kontrolleres etter at måleren er markedsført og tatt i bruk. Om nødvendig skal særskilt utstyr eller programvare til denne kontrollen være en del av måleren. Testprosedyren skal være beskrevet i bruksanvisningen\nd. ufølsom overfor små variasjoner i målestørrelsens verdi, eller den skal reagere på en hensiktsmessig måte dersom måleren er beregnet til måling av verdier av målestørrelsen som er konstant over tid.",
+        "En vannmåler skal ikke være av en slik art at den lett kan brukes til bedrageri, og muligheten for utilsiktet feilbruk skal være minst mulig.",
+        "En vannmåler som anvendes med gjennomstrømningsrate utenfor det kontrollerte området, skal ikke ha systematiske feil.",
+        "Dersom en vannmåler har tilknyttet programvare med andre funksjoner enn målefunksjonen, skal programvaren som har avgjørende betydning for målefunksjonen kunne identifiseres, og den skal ikke utsettes for forstyrrende påvirkning fra de tilknyttede programvarefunksjonene."
+       ],
+       "endringer": [
+        "Endret ved forskrift 16 nov 2022 nr. 2111 (i kraft 1 jan 2023)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-16",
+       "nummer": "§ 18",
+       "tittel": "Beskyttelse mot manipulering",
+       "ledd": [
+        "Dersom vannmåleren koples til en annen anordning, direkte eller ved fjerntilkopling, skal de måletekniske egenskapene ikke påvirkes av anordningen på en feilaktig måte.",
+        "Komponenter som har avgjørende betydning for de måletekniske egenskapene, skal være konstruert slik at de kan sikres. De anvendte sikkerhetstiltak skal gjøre det mulig å påvise om inngrep har funnet sted.",
+        "Programvare som har avgjørende betydning for de måletekniske egenskapene skal være merket tilsvarende, og den skal være sikret. Identifikasjon av slik programvare skal lett kunne fremskaffes fra vannmåleren. Eventuell informasjon eller indikasjon på at det har funnet sted et inngrep skal være tilgjengelig i et rimelig tidsrom.",
+        "Måledata, programvare som er av avgjørende betydning for måleegenskapene og måleteknisk viktige parametere som lagres eller overføres, skal være beskyttet på hensiktsmessig vis mot tilsiktede eller utilsiktede endringer.",
+        "Visning av samlet mengde eller visningene som samlet mengde kan utledes fra, og som helt eller delvis danner grunnlaget for betaling, skal ikke kunne tilbakestilles under bruk."
+       ],
+       "endringer": [
+        "Endret ved forskrift 16 nov 2022 nr. 2111 (i kraft 1 jan 2023)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-17",
+       "nummer": "§ 19",
+       "tittel": "Opplysninger som skal påføres eller følge vannmåleren",
+       "ledd": [
+        "En vannmåler skal være påført produsentens merke eller navn og opplysninger om målerens nøyaktighet. I den grad det er relevant skal også følgende opplysninger påføres vannmåleren:\na. relevante opplysninger om bruksbetingelser\nb. målekapasitet\nc. måleområde\nd. identitetsmerke\ne. nummer på sertifikat for EU-typeprøving eller samsvar basert på full kvalitetssikring og konstruksjonsundersøkelse\nf. informasjon om hvorvidt tilleggsutstyr som gir metrologiske resultater er i samsvar med bestemmelsene i dette direktiv om lovlig metrologisk kontroll.",
+        "Dersom en vannmålers dimensjoner er for små eller konstruksjonen er for følsom til at de relevante opplysninger kan påføres, skal disse være påført eventuell emballasje samt i de følgedokumenter som kreves i henhold til denne forskriften.",
+        "Opplysninger om betjening skal følge vannmåleren med mindre måleren er så enkel at dette er unødvendig.",
+        "Opplysningene skal være lette å forstå, og skal i relevant omfang omfatte følgende:\na. angitte driftsbetingelser\nb. elektromagnetisk miljø\nc. øvre og nedre temperaturgrense, om kondensasjon er akseptabelt eller ikke, åpen eller lukket plassering\nd. anvisninger for montering, vedlikehold, reparasjoner og tillatte innstillinger\ne. anvisninger for korrekt betjening og eventuelle særlige bruksvilkår\nf. vilkår for kompatibilitet med grensesnitt, underenheter eller måleredskap.",
+        "Alle merker og påskrifter skal være tydelige og utvetydige og de skal ikke kunne fjernes eller flyttes. For grupper av identiske vannmålere er det ikke nødvendig med individuelle bruksanvisninger."
+       ],
+       "endringer": [
+        "Endret ved forskrift 16 nov 2022 nr. 2111 (i kraft 1 jan 2023)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-18",
+       "nummer": "§ 20",
+       "tittel": "Angivelse av måleverdi",
+       "ledd": [
+        "Med mindre annet er angitt i avsnitt II, skal minstedelingen for en målt verdi være på formen 1 × 10n, 2 × 10n eller 5 × 10n, hvor n er et heltall eller null. Målenheten eller dens symbol skal vises nær tallverdien.",
+        "Det skal benyttes målenheter og symboler som er i samsvar med bestemmelsene i forskrift om målenheter og måling."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-19",
+       "nummer": "§ 21",
+       "tittel": "Visning av resultat",
+       "ledd": [
+        "Resultatet skal vises på et display eller som papirutskrift. Ved utskrift skal skriften eller registreringen være lett lesbar og ikke kunne fjernes.",
+        "Alle resultater skal være tydelige og utvetydige og ledsaget av de merker og påskrifter som er nødvendige for å opplyse brukeren om resultatets betydning. Resultatet som vises, skal være lett lesbart under normale bruksforhold. Ytterligere informasjon kan vises under forutsetning av at den ikke kan forveksles med de måletekniske kontrollerte resultatene.",
+        "Uansett om en vannmåler som er beregnet på forsyningsmåling kan fjernavleses eller ikke, skal det være utstyrt med et metrologisk kontrollert display eller visning som brukeren kan avlese uten bruk av hjelpemidler. Det som avleses på skjermen eller visningen, er måleresultatet som danner grunnlaget for prisen som skal betales."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-20",
+       "nummer": "§ 21a",
+       "tittel": "Fjernavlesning",
+       "ledd": [
+        "Dersom en vannmåler kan fjernavleses, så skal kommunikasjonsgrensesnittet være sikret.",
+        "Måleverdier skal gjengis fullstendig og korrekt ved mottakerenheten.",
+        "Kommunikasjonsgrensesnittet og sikring av dette skal være beskrevet i typegodkjenningen og i den tekniske dokumentasjonen som utarbeides av produsenten."
+       ],
+       "endringer": [
+        "Tilføyd ved forskrift 16 nov 2022 nr. 2111 (i kraft 1 jan 2023)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-1-paragraf-21",
+       "nummer": "§ 22",
+       "tittel": "Samsvarsvurdering",
+       "ledd": [
+        "En vannmåler skal være konstruert slik at det lett kan vurderes om den er i samsvar med de relevante kravene i denne forskriften."
+       ]
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-2-kapittel-2",
+     "navn": "kapII",
+     "overskrift": "Avsnitt II – Spesifikke krav",
+     "innhold": [
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-2-paragraf-1",
+       "nummer": "§ 23",
+       "tittel": "Definisjoner",
+       "ledd": [
+        "I dette avsnittet menes med\na. minste strømningsrate (Q1): den laveste strømningsraten der vannmåleren gir angivelser som oppfyller kravene med hensyn til maksimal tillatte målefeil\nb. overgangsstrømningsrate (Q2): overgangsstrømningsraten er den verdien for strømningsrate som opptrer mellom permanent og minste strømningsrate, der strømningsrateområdet deles i to områder, «øvre område» og «nedre område». Hvert område har en karakteristisk maksimal tillatt målefeil\nc. permanent strømningsrate (Q3): den høyeste strømningsraten der vannmåleren fungerer tilfredsstillende ved normale bruksforhold, dvs. under jevne eller tilbakevendende strømningsforhold\nd. overlaststrømningsrate (Q4): strømningsrate ved overbelastning er den høyeste strømningsraten der måleren fungerer tilfredsstillende over kort tid uten å ta skade."
+       ],
+       "endringer": [
+        "Endret ved forskrift 16 nov 2022 nr. 2111 (i kraft 1 jan 2023)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-2-paragraf-2",
+       "nummer": "§ 24",
+       "tittel": "Angitte driftsbetingelser",
+       "ledd": [
+        "Produsenten skal angi driftsbetingelser som følger:\na. vannets strømningsrate\nVerdiene for strømningsrateområdet skal oppfylle følgende vilkår:\n1. Q3/Q1 ≥ 40\n2. Q2/Q1 = 1,6\n3. Q4/Q3 = 1,25.\nb. temperaturintervallet for vannet\nVerdiene for temperaturintervallet skal oppfylle følgende vilkår:\n1. 0,1 °C til minst 30 °C, eller\n2. 30 °C til minst 90 °C.\nMåleren kan være konstruert for bruk i begge intervallene.\nc. det relative trykkintervallet for vannet, som er fra 0,3 bar til minst 10 bar ved Q3\nd. for strømforsyningen: nominell vekselspenningsforsyning og/eller grenseverdier for likestrømsforsyning."
+       ],
+       "endringer": [
+        "Endret ved forskrifter 10 des 2015 nr. 1457 (i kraft 20 april 2016), 16 nov 2022 nr. 2111 (i kraft 1 jan 2023)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-2-paragraf-3",
+       "nummer": "§ 25",
+       "tittel": "Maksimal tillatt målefeil",
+       "ledd": [
+        "Maksimal tillatt målefeil, positiv eller negativ, for volum som leveres ved strømningsrater mellom overgangsstrømningsraten (Q2) (medregnet) og overlaststrømningsraten (Q4), er\na. 2 % for vann med en temperatur på ≤ 30 °C\nb. 3 % for vann med en temperatur på > 30 °C.",
+        "Maksimal tillatt målefeil, positiv eller negativ, for volum som leveres ved strømningsrater mellom minste strømningsrate (Q1) og overgangsstrømningsrate (Q2) (ikke medregnet), er 5 % uavhengig av vanntemperaturen.",
+        "En vannmåler skal ikke utnytte maksimale tillatte feil eller systematisk favorisere en bestemt part."
+       ],
+       "endringer": [
+        "Endret ved forskrifter 9 sep 2011 nr. 921, 16 nov 2022 nr. 2111 (i kraft 1 jan 2023)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-2-paragraf-4",
+       "nummer": "§ 26",
+       "tittel": "Tillatt virkning av forstyrrelse – elektromagnetisk immunitet",
+       "ledd": [
+        "Virkningen av en elektromagnetisk forstyrrelse på en vannmåler skal være slik at\na. endringen i måleresultatet ikke er større enn den kritiske endringsverdien som definert i tredje ledd, eller\nb. måleresultatet angis slik at det ikke kan tolkes som et gyldig resultat, for eksempel en kortvarig variasjon som ikke kan tolkes, registreres eller overføres som måleresultat.",
+        "Etter å ha vært utsatt for en elektromagnetisk forstyrrelse skal vannmåleren\na. fortsette å operere innenfor maksimal tillatt feil,\nb. ha alle målefunksjoner i behold, og\nc. gjøre det mulig å hente alle måledata som var til stede like før forstyrrelsen.",
+        "Den kritiske endringen er den minste av følgende to verdier:\na. volumet som tilsvarer halvparten av maksimal tillatt målefeil i det øvre området av det målte volumet\nb. volumet som tilsvarer maksimal tillatt målefeil i det volum som tilsvarer ett minutt ved strømningsraten Q3."
+       ],
+       "endringer": [
+        "Endret ved forskrift 16 nov 2022 nr. 2111 (i kraft 1 jan 2023)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-2-paragraf-5",
+       "nummer": "§ 27",
+       "tittel": "Tillatt virkning av forstyrrelse – holdbarhet",
+       "ledd": [
+        "Når det er gjennomført et egnet forsøk der det tas hensyn til tidsrommet produsenten har anslått, skal følgende kriterier være oppfylt:\na. Variasjonen i måleresultatet etter langtidstest skal, når det sammenlignes med det opprinnelige måleresultatet, ikke overstige\n1. 3 % av det målte volumet mellom Q1 (medregnet) og Q2 (ikke medregnet)\n2. 1,5 % av det målte volumet mellom Q2 (medregnet) og Q4 (medregnet).\nb. Visningsfeilen for volumet målt etter langtidstest skal ikke overstige\n1. ±6 % av det målte volumet mellom Q1 (medregnet) og Q2 (ikke medregnet)\n2. 2,5 % av det målte volumet mellom Q2 (medregnet) og Q4 (medregnet) for vannmålere beregnet på måling av vann med en temperatur på mellom 0,1 °C og 30 °C\n3. ±3,5 % av det målte volumet mellom Q2 (medregnet) og Q4 (medregnet) for vannmålere beregnet på måling av vann med en temperatur på mellom 30 °C og 90 °C."
+       ],
+       "endringer": [
+        "Endret ved forskrift 16 nov 2022 nr. 2111 (i kraft 1 jan 2023)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-2-paragraf-6",
+       "nummer": "§ 28",
+       "tittel": "Egnethet",
+       "ledd": [
+        "Vannmåleren skal kunne monteres for bruk i enhver posisjon, med mindre annet er angitt klart på måleren.",
+        "Produsenten skal angi om måleren er beregnet på måling av reversert strømning. I så fall skal volumet for reversert strømning enten trekkes fra det akkumulerte volumet eller registreres separat. Samme maksimale tillatte målefeil gjelder for strømninger i begge retninger.",
+        "Vannmålere som ikke er konstruert for måling av reversert strømning, skal enten hindre reversert strømning eller tåle en utilsiktet tilbakestrømning uten endring eller degradering av måleegenskaper."
+       ],
+       "endringer": [
+        "Endret ved forskrift 16 nov 2022 nr. 2111 (i kraft 1 jan 2023)."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-2-paragraf-7",
+       "nummer": "§ 29",
+       "tittel": "Målenheter",
+       "ledd": [
+        "Det målte volumet skal vises i kubikkmeter."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-2-kapittel-2-paragraf-8",
+       "nummer": "§ 30",
+       "tittel": "Egnethet til forventet bruk",
+       "ledd": [
+        "Selger av vannmåler må påse at denne er egnet ut ifra de angitte driftsbetingelser til nøyaktig måling av det forbruk som er forventet eller kan forventes, jf. § 24."
+       ],
+       "endringer": [
+        "Endret ved forskrift 16 nov 2022 nr. 2111 (i kraft 1 jan 2023)."
+       ]
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3 – Krav til vannmålere under bruk",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Tilføyd ved forskrift 16 nov 2022 nr. 2111 (i kraft 1 jan 2023)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 31",
+     "tittel": "Egnethet og montering",
+     "ledd": [
+      "Brukeren skal sikre at vannmåleren er egnet til påtenkt bruk og montert i henhold til produsentens anvisning."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 16 nov 2022 nr. 2111 (i kraft 1 jan 2023)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 32",
+     "tittel": "Internkontroll",
+     "ledd": [
+      "Brukeren skal ha et egnet internkontrollsystem for sine vannmålere. Internkontrollsystemet skal være utformet slik at det er egnet til å sørge for at kravene til vannmålere i denne forskriften overholdes.",
+      "Internkontrollsystemet skal tilfredsstille kravene i forskrift 20. desember 2016 nr. 1753 om krav til internkontrollsystem for måleredskaper og målinger."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 16 nov 2022 nr. 2111 (i kraft 1 juli 2023)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 33",
+     "tittel": "Kvalitetssikring av måleverdier",
+     "ledd": [
+      "Brukeren skal kvalitetssikre måleverdiene og håndteringen av disse gjennom hele måleverdikjeden. Måleverdikjeden omfatter avlesning eller fjernavlesning av måleresultat, samt all videre registrering, avregning og fakturering. Kvalitetssikringen skal kunne dokumenteres i internkontrollsystemet."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 16 nov 2022 nr. 2111 (i kraft 1 jan 2023)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 34",
+     "tittel": "Maksimal tillatt målefeil under bruk",
+     "ledd": [
+      "Brukeren skal sørge for at positiv eller negativ målefeil for volum som leveres ved strømningsrater fra og med overgangsstrømningsraten (Q2) til og med overlaststrømningsraten (Q4), er maksimalt\na. ±4 % for vann med en temperatur på ≤ 30 °C\nb. ±6 % for vann med en temperatur på > 30 °C.",
+      "Brukeren skal sørge for at positiv eller negativ målefeil for volum som leveres ved strømningsrater mellom minste strømningsrate (Q1) og opp til overgangsstrømningsrate (Q2), er maksimalt ±10 % uavhengig av vanntemperaturen."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 16 nov 2022 nr. 2111 (i kraft 1 jan 2023)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 34a",
+     "tittel": "Unntak fra meldingsplikt ved plombebrudd",
+     "ledd": [
+      "For vannmålere gjøres det unntak fra plikten til å melde om plombebrudd i henhold til forskrift om målenheter og måling § 5-5 andre og fjerde ledd."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 12 des 2024 nr. 3135 (i kraft 1 jan 2025)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4 – Avsluttende bestemmelser",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrift 16 nov 2022 nr. 2111 (i kraft 1 jan 2023, tidligere kapittel 3)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 35",
+     "tittel": "Overtredelsesgebyr",
+     "ledd": [
+      "Overtredelse av bestemmelsene i denne forskriften kan medføre pålegg av overtredelsesgebyr utmålt etter bestemmelsene i forskrift om målenheter og måling kapittel 7."
+     ],
+     "endringer": [
+      "Endret ved forskrift 16 nov 2022 nr. 2111 (i kraft 1 jan 2023, tidligere § 31)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 36",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Denne forskriften trer i kraft 1. januar 2008."
+     ],
+     "endringer": [
+      "Endret ved forskrift 16 nov 2022 nr. 2111 (i kraft 1 jan 2023, tidligere § 32)."
+     ]
+    }
+   ]
+  }
+ ]
+}

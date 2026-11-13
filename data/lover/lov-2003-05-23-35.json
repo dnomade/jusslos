@@ -1,0 +1,292 @@
+{
+ "skjema": "1.0",
+ "type": "lov",
+ "datokode": "LOV-2003-05-23-35",
+ "dokumentid": "NL/lov/2003-05-23-35",
+ "departement": [
+  "Digitaliserings- og forvaltningsdepartementet"
+ ],
+ "ikraft": "2003-07-01",
+ "siste_endring_ikraft": "2023-10-01",
+ "sist_endret_ved": [
+  {
+   "ref": "lov/2023-06-16-38",
+   "tekst": "lov/2023-06-16-38 fra 2023-10-01"
+  }
+ ],
+ "rettsomrade": [
+  "EU/EØS-rett > Informasjonssamfunnet",
+  "IKT- og medierett > Elektronisk handel. E-signatur",
+  "Næringsrett > Handel og tjenester"
+ ],
+ "siste_rettelse": "2025-01-09 (EØS-henvisning)",
+ "eos_henvisning": "EØS-avtalen vedlegg XI\nnr. 5i (direktiv (EU) 2015/1535),\nnr. 5m (direktiv 2000/31/EF).",
+ "korttittel": "Ehandelsloven – e-hl",
+ "tittel": "Lov om visse sider av elektronisk handel og andre informasjonssamfunnstjenester (ehandelsloven)",
+ "refid": "lov/2003-05-23-35",
+ "eli": "/eli/lov/2003/05/23/35",
+ "url": "https://lovdata.no/dokument/NL/lov/2003-05-23-35",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Lovens formål og virkeområde",
+   "ledd": [
+    "Loven gjelder for elektronisk handel og andre informasjonssamfunnstjenester og offentlige myndigheters regulering av og kontroll med slike tjenester. Loven har til formål å sikre fri bevegelighet av informasjonssamfunnstjenester innenfor Det europeiske økonomiske samarbeidsområde (EØS).",
+    "En informasjonssamfunnstjeneste er\na. enhver tjeneste som vanligvis ytes mot vederlag og som formidles elektronisk, over avstand og etter individuell anmodning fra en tjenestemottaker, samt\nb. enhver tjeneste som består i å gi tilgang til, eller overføre informasjon over, et elektronisk kommunikasjonsnett, eller i å være nettvert for data som leveres av tjenestemottakeren.",
+    "Taletelefoni og telefaks- og telekstjenester går ikke inn under loven.",
+    "Kongen kan gi forskrift om hva som regnes som en informasjonssamfunnstjeneste.",
+    "Kongen kan gi forskrift om at loven helt eller delvis skal gjelde for Svalbard og Jan Mayen."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Unntak fra lovens virkeområde",
+   "ledd": [
+    "Loven får ikke anvendelse på:\na. skatteområdet,\nb. behandling av personopplysninger etter personopplysningsloven med forskrifter, ekomloven med forskrifter og lov 9. september 2016 nr. 80 om reservasjonssystemer for flyreiser mv.,\nc. spørsmål om avtaler eller praksis som reguleres av konkurranseloven og EØS-avtalen artiklene 53 og 54,\nd. virksomhet som notarius publicus etter lov 26. april 2002 nr. 12 om notarius publicus,\ne. representasjon av en klient og ivaretakelse av vedkommendes interesser ved domstolene,\nf. pengespillvirksomhet som omfattes av pengespilloven"
+   ],
+   "endringer": [
+    "Endret ved lover 20 feb 2004 nr. 8 (ikr. 1 mars 2004 iflg. res. 20 feb 2004 nr. 400), 14 des 2018 nr. 95 (ikr. 1 jan 2019 iflg. res. 14 des 2018 nr. 1922), 18 mars 2022 nr. 12 (i kraft 1 jan 2023 iflg. res. 18 mars 2022 nr. 414)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Definisjoner",
+   "ledd": [
+    "I denne lov menes med:\na. tjenesteyter: en fysisk eller juridisk person som tilbyr informasjonssamfunnstjenester,\nb. tjenestemottaker: en fysisk eller juridisk person som benytter en informasjonssamfunnstjeneste,\nc. etableringssted: et fast forretningssted der den økonomiske virksomheten som den aktuelle informasjonssamfunnstjenesten knytter seg til, faktisk utøves,\nd. det koordinerte regelområdet: nasjonale regler som stiller krav til informasjonssamfunnstjenester og til tjenesteyter når det gjelder etablering og drift av informasjonssamfunnstjenester,\ne. forbruker: en fysisk person som ikke hovedsakelig handler som ledd i næringsvirksomhet."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Informasjonssamfunnstjenester fra Norge",
+   "ledd": [
+    "En tjenesteyter med etableringssted i Norge skal innenfor det koordinerte regelområdet følge norsk rett, uansett om tjenesten helt eller delvis retter seg mot tjenestemottakere i en annen stat innenfor EØS."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Informasjonssamfunnstjenester fra en annen stat innenfor EØS",
+   "ledd": [
+    "En tjenesteyter med etableringssted i en annen stat innenfor EØS har uten hinder av norske regler innenfor det koordinerte regelområdet rett til å tilby informasjonssamfunnstjenester til tjenestemottakere i Norge.",
+    "Første ledd er likevel ikke til hinder for at en domstol eller annen myndighet, når dette følger av annen lovgivning, kan begrense adgangen til å tilby en bestemt informasjonssamfunnstjeneste, så langt tiltaket er nødvendig for å beskytte:\na. den offentlige orden, særlig forebygging, etterforsking og rettsforfølging av straffbare forhold, beskyttelse av mindreårige, og vern mot angrep på enkeltmenneskets verd og mot oppfordring til hat på grunnlag av rase, kjønn, religion eller nasjonalitet,\nb. folkehelsen,\nc. den offentlige sikkerhet, herunder vern av den nasjonale sikkerhet og det nasjonale forsvar, eller\nd. forbrukere, medregnet investorer så langt disse er forbrukere.",
+    "Før forbud som nevnt i annet ledd blir nedlagt, må\na. den stat der tjenesteyteren har sitt etableringssted, være oppfordret til å sette i verk tiltak uten at dette har vært tilstrekkelig til å beskytte de formål som er nevnt i annet ledd, og\nb. EFTAs overvåkingsorgan (ESA) og vedkommende stat underrettes om at slikt forbud vil bli nedlagt.",
+    "Reglene i tredje ledd gjelder ikke for saker for domstolene eller for tiltak i etterforsking av straffbare forhold. De kan også fravikes dersom det er fare ved opphold, men da skal ESA og vedkommende stat snarest opplyses om dette og om det nedlagte forbudet.",
+    "Kongen kan gi forskrift om hvem som skal ha underretning etter tredje og fjerde ledd og om innholdet av underretningen."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "Unntak fra §§ 4 og 5",
+   "ledd": [
+    "Reglene i §§ 4 og 5 får ikke anvendelse på:\na. avtaler om lovvalg for en kontrakt,\nb. lovvalg i forsikring, jf. lov 27. september 1992 nr. 111 om lovvalg i forsikring §§ 4 til 10,\nc. kontraktsvilkår i forbrukeravtaler,\nd. ufravikelige formkrav for avtaler som stifter eller overfører rettigheter i fast eiendom,\ne. immaterielle rettigheter,\nf. elektronisk sending av uanmodet reklame,\ng. markedsføring av andeler i verdipapirfond, jf. verdipapirfondloven,\nh. utstedelse av elektroniske penger av en institusjon som går inn under et unntak gitt i medhold av finansforetaksloven § 2-10 fjerde ledd, og\ni. forsikringsvirksomhet som er unntatt i henhold til forskrift fast[s]att av departementet."
+   ],
+   "endringer": [
+    "Endret ved lov 18 nov 2011 nr. 42 (ikr. 1 jan 2012 iflg. res. 18 nov 2011 nr. 1107), 14 des 2018 nr. 95 (ikr. 1 jan 2019 iflg. res. 14 des 2018 nr. 1922)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 7",
+   "tittel": "Forbud mot krav om forhåndsgodkjenning",
+   "ledd": [
+    "En tjenesteyter kan tilby informasjonssamfunnstjenester uten noen forhåndsgodkjenning eller lignende tillatelse som utelukkende har sin grunn i tilbudet om informasjonssamfunnstjenester.",
+    "Krav om tillatelse til å bruke begrensede ressurser etter ekomloven, jf. kapitlene 6 og 7, gjelder uten hinder av første ledd."
+   ],
+   "endringer": [
+    "Endret ved lov 20 feb 2004 nr. 8 (ikr. 1 mars 2004 iflg. res. 20 feb 2004 nr. 400)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-8",
+   "nummer": "§ 8",
+   "tittel": "Tjenesteyterens opplysningsplikt om virksomheten",
+   "ledd": [
+    "En tjenesteyter skal ved utøving av sin virksomhet alltid gi informasjon om navn, adresse, elektronisk postadresse og øvrige opplysninger som gjør det mulig å komme i direkte forbindelse med tjenesteyteren. I tillegg skal tjenesteyteren opplyse om:\na. det foretaksregister hvor tjenesteyteren er registrert, samt tjenesteyterens organisasjonsnummer og om virksomheten er merverdiavgiftspliktig, og\nb. eventuelle godkjenninger som kreves for å utføre virksomheten og navn og adresse på den aktuelle godkjenningsmyndigheten.",
+    "Ved yrkesvirksomhet som direkte eller indirekte ved lov eller forskrift er betinget av at vedkommende er innehaver av et diplom eller utdanningsbevis skal tjenesteyteren dessuten opplyse om:\na. sin yrkestittel og i hvilken medlemsstat den er gitt,\nb. hvilke regler for yrkesmessig opptreden som gjelder for tjenesteyteren, og\nc. hvor tjenestemottakeren kan få tilgang til reglene nevnt i bokstav b.",
+    "Informasjonen etter første og andre ledd skal gjøres enkelt og direkte tilgjengelig for tjenestemottakere og offentlige myndigheter.",
+    "Bestemmelsen får ikke anvendelse overfor tjenesteytere som kun tilbyr tjenester som består i å overføre informasjon over et elektronisk kommunikasjonsnett."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-9",
+   "nummer": "§ 9",
+   "tittel": "Tjenesteyterens opplysningsplikt ved elektronisk markedsføring",
+   "ledd": [
+    "Ved elektronisk markedsføring skal det fremgå klart hvem markedsføringen skjer på vegne av. Sendes uanmodet markedsføring ved hjelp av elektronisk post, skal det fremgå at meldingene inneholder markedsføring idet meldingene mottas.",
+    "Hvis det angis priser i forbindelse med en informasjonssamfunnstjeneste, skal det opplyses om avgifter og leveringsomkostninger. I forbrukerforhold skal det opplyses om totalkostnadene forbrukeren skal betale, medregnet alle avgifter og leveringskostnader, med mindre opplysninger om prisen for tjenesten er regulert i annen lovgivning.",
+    "Reklametilbud, som for eksempel rabatter, premier og gaver, skal lett kunne identifiseres. Opplysninger om vilkår for å benytte seg av tilbudene skal være klare og lett tilgjengelige.",
+    "Salgsfremmende konkurranser eller spill skal lett kunne identifiseres. Opplysninger om vilkår for å delta i konkurransene eller spillene skal være klare og lett tilgjengelige.",
+    "Markedsføringslovens bestemmelser gjelder i tillegg til bestemmelsene i paragrafen her."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-10",
+   "nummer": "§ 10",
+   "tittel": "Plikt til å respektere reservasjonsregistre mv.",
+   "ledd": [
+    "En tjenesteyter som har etableringssted i Norge, og som uanmodet retter markedsføringshenvendelser ved elektronisk post til mottakere i andre stater innenfor EØS, skal undersøke og respektere registre der den som ønsker eller ikke ønsker e-postreklame kan registrere seg."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-11",
+   "nummer": "§ 11",
+   "tittel": "Opplysningsplikt før elektronisk bestilling",
+   "ledd": [
+    "Før elektronisk bestilling skal tjenesteyteren på en klar, forståelig og utvetydig måte gi tjenestemottakeren opplysning om:\na. relevante atferdsregler som tjenesteyteren følger og om og hvor disse er tilgjengelige elektronisk,\nb. de forskjellige tekniske etappene som er knyttet til avtaleinngåelsen,\nc. om en inngått avtale vil bli arkivert av tjenesteyteren, og om den vil være tilgjengelig,\nd. de tekniske midlene til å finne og rette inntastingsfeil før bestilling er foretatt,\ne. de språk avtalen kan inngås på.",
+    "Avtalevilkår, standardvilkår og generelle vilkår, må gjøres tilgjengelige for tjenestemottakeren på en måte som gjør det mulig å lagre og gjengi dem.",
+    "Tjenesteyteren skal tilrettelegge den elektroniske avtaleinngåelsen slik at inntastingsfeil på en enkel måte kan oppdages og rettes før avtalen inngås.",
+    "Første og tredje ledd gjelder ikke for avtaler som utelukkende inngås ved elektronisk post eller tilsvarende individuell kommunikasjon, og kan fravikes i avtale utenfor forbrukerforhold."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-12",
+   "nummer": "§ 12",
+   "tittel": "Mottakelse og bekreftelse av bestilling",
+   "ledd": [
+    "Dersom en tjenestemottaker foretar en bestilling elektronisk, skal tjenesteyteren alltid og uten ugrunnet opphold sende en elektronisk bekreftelse om at bestilling er mottatt.",
+    "Bestilling og bekreftelse som avgis elektronisk, anses mottatt når parten som den er adressert til, har tilgang til den.",
+    "Første ledd gjelder ikke for avtaler som utelukkende inngås ved elektronisk post eller tilsvarende individuell kommunikasjon.",
+    "Første og annet ledd kan fravikes i avtale utenfor forbrukerforhold."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-13",
+   "nummer": "§ 13",
+   "tittel": "Ansvar for informasjon og veiledning",
+   "ledd": [
+    "Departementet skal i forskrift utpeke kontaktpunkter som er tilgjengelige elektronisk og som tjenestemottakere og tjenesteytere kan henvende seg til for å få:\na. generelle opplysninger om sine kontraktsmessige rettigheter og forpliktelser, samt om klage- og erstatningsordninger ved tvister og om framgangsmåter ved bruk av disse,\nb. nærmere opplysninger om myndigheter, sammenslutninger og organisasjoner som kan gi ytterligere opplysninger eller praktisk bistand.",
+    "Departementet kan gi forskrift om virksomheten i de kontaktpunktene som utpekes etter første ledd."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-14",
+   "nummer": "§ 14",
+   "tittel": "Samarbeid med andre EØS-stater",
+   "ledd": [
+    "Departementet har ansvar for samarbeid med andre EØS-stater."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-15",
+   "nummer": "§ 15",
+   "tittel": "Erstatnings- og straffeansvar for tjenesteyter",
+   "ledd": [
+    "For tjenesteyter som overfører informasjon, gir tilgang til et kommunikasjonsnettverk eller lagrer informasjon gjelder de alminnelige rettsregler om erstatningsansvar og straffeansvar hvis ikke annet følger av §§ 16-18."
+   ],
+   "endringer": [
+    "Tilføyd ved lov 20 feb 2004 nr. 8 (ikr. 1 mars 2004 iflg. res. 20 feb 2004 nr. 400), etter endringene ved lov 20 feb 2004 nr. 8 inneholder ikke lenger ehandelsloven den tidligere § 15 om ikrafttredelse. Loven trådte ifølge tidligere § 15 i kraft fra den tid Kongen bestemmer, dvs fra 1 juli 2003 iflg. res. 23 mai 2003 nr. 628."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-16",
+   "nummer": "§ 16",
+   "tittel": "Ansvarsfrihet for visse overførings- og tilgangstjenester",
+   "ledd": [
+    "En tjenesteyter som overfører informasjon for en tjenestemottaker i et kommunikasjonsnettverk, er ikke strafferettslig eller erstatningsrettslig ansvarlig for innholdet i den overførte informasjonen, forutsatt at\na. Overføringen ikke starter hos tjenesteyteren,\nb. tjenesteyteren ikke selv velger mottakeren av overføringen og\nc. tjenesteyteren ikke selv bestemmer eller endrer informasjonen som overføres.",
+    "Overføring som nevnt i første ledd, omfatter også automatisk, mellomliggende og kortvarig lagring av den overførte informasjonen, forutsatt at\na. lagringen utelukkende tjener til gjennomføring av overføringen og\nb. lagringen ikke varer lenger enn det som er nødvendig for slik overføring.",
+    "Bestemmelsene i første og andre ledd gjelder tilsvarende for tjenesteytere hvis tjeneste består i å gi tilgang til et kommunikasjonsnettverk."
+   ],
+   "endringer": [
+    "Tilføyd ved lov 20 feb 2004 nr. 8 (ikr. 1 mars 2004 iflg. res. 20 feb 2004 nr. 400)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-17",
+   "nummer": "§ 17",
+   "tittel": "Ansvarsfrihet for visse mellomlagringstjenester",
+   "ledd": [
+    "En tjenesteyter som nevnt i § 16 første ledd, er ikke strafferettslig eller erstatningsrettslig ansvarlig for innholdet i informasjon som automatisk, mellomliggende og midlertidig lagres utelukkende for å gjøre overføringen til andre tjenestemottakere mer effektiv, forutsatt at tjenesteyteren\na. ikke selv bestemmer eller endrer informasjonen som overføres,\nb. overholder vilkår for tilgang til informasjonen,\nc. overholder alminnelig godtatte regler for oppdatering av informasjonen og\nd. ikke griper inn i lovlig anvendelse av alminnelig anerkjent teknologi, i den hensikt å oppnå data om bruken av informasjonen.",
+    "Ansvarsfrihet etter første ledd gjelder bare dersom tjenesteyteren uten ugrunnet opphold fjerner eller sperrer tilgang til den lagrede informasjonen når tjenesteyter har fått kunnskap om at en domstol, en offentlig myndighet eller et særskilt organ utpekt av departementet i forskrift har gitt pålegg om å fjerne eller sperre tilgangen til informasjonen. Det samme gjelder når tjenesteyter har mottatt underretning om at informasjonen er fjernet fra opprinnelsesstedet eller at tilgangen til informasjonen er sperret."
+   ],
+   "endringer": [
+    "Tilføyd ved lov 20 feb 2004 nr. 8 (ikr. 1 mars 2004 iflg. res. 20 feb 2004 nr. 400)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-18",
+   "nummer": "§ 18",
+   "tittel": "Ansvarsfrihet for visse lagringstjenester",
+   "ledd": [
+    "En tjenesteyter som lagrer informasjon på oppfordring fra en tjenestemottaker, kan bare\na. straffes for lagring av ulovlig informasjon eller medvirkning til ulovlig virksomhet ved lagring av informasjon, dersom han har utvist forsett, eller\nb. holdes erstatningsansvarlig for lagring av ulovlig informasjon eller medvirkning til ulovlig virksomhet ved lagring av informasjon, dersom han har utvist forsett eller grov uaktsomhet.",
+    "Tjenesteyteren er i alle tilfelle straffri eller fri fra erstatningsansvar dersom han uten ugrunnet opphold treffer nødvendige tiltak for å fjerne eller sperre tilgangen til informasjonen etter at forsettet eller den grove uaktsomheten etter første ledd forelå.",
+    "En tjenesteyter er ikke ansvarsfri etter denne paragraf dersom tjenestemottakeren handler på tjenesteyterens vegne eller under hans kontroll."
+   ],
+   "endringer": [
+    "Tilføyd ved lov 20 feb 2004 nr. 8 (ikr. 1 mars 2004 iflg. res. 20 feb 2004 nr. 400)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-19",
+   "nummer": "§ 19",
+   "tittel": "Overvåking mv.",
+   "ledd": [
+    "Bestemmelsene i §§ 16 til 18 medfører ikke at tjenesteyteren har en generell plikt til å kontrollere eller overvåke den informasjonen som lagres eller overføres på oppfordring fra en tjenestemottaker, eller en generell plikt til å undersøke forhold som antyder ulovlig virksomhet."
+   ],
+   "endringer": [
+    "Tilføyd ved lov 20 feb 2004 nr. 8 (ikr. 1 mars 2004 iflg. res. 20 feb 2004 nr. 400), endret ved lov 17 juni 2005 nr. 104 (ikr. 1 juli 2005 iflg. res. 17 juni 2005 nr. 584)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-20",
+   "nummer": "§ 20",
+   "tittel": "Pålegg om at overtredelsen skal opphøre eller forhindres",
+   "ledd": [
+    "Bestemmelsene i §§ 16-18 er ikke til hinder for at en domstol eller en forvaltningsmyndighet på annet rettsgrunnlag enn denne loven krever at tjenesteyteren bringer en overtredelse til opphør eller hindrer den."
+   ],
+   "endringer": [
+    "Tilføyd ved lov 20 feb 2004 nr. 8 (ikr. 1 mars 2004 iflg. res. 20 feb 2004 nr. 400). Se note ved § 15."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-21",
+   "nummer": "§ 20 a",
+   "tittel": "Tilsyn",
+   "ledd": [
+    "Forbrukertilsynet og Markedsrådet skal ut fra hensyn til forbrukerne føre tilsyn med at næringsdrivende følger bestemmelsene gitt i §§ 8 til 12. Tilsyn utføres i samsvar med reglene i markedsføringsloven §§ 32 til 41, § 42 første ledd annet punktum og §§ 43 til 43 c.",
+    "Ved forsettlig eller uaktsom overtredelse av §§ 8 til 12 som anses som vesentlig eller har skjedd gjentatte ganger, kan den ansvarlige ilegges et overtredelsesgebyr.",
+    "Departementet kan i forskrift gi nærmere regler om utmåling av overtredelsesgebyr."
+   ],
+   "endringer": [
+    "Tilføyd ved lov 16 juni 2023 nr. 38 (i kraft 1 okt 2023 iflg. res. 16 juni 2023 nr. 930)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-22",
+   "nummer": "§ 21",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Loven trer i kraft 1. juli 2003."
+   ],
+   "endringer": [
+    "Tilføyd igjen ved lov 14 des 2018 nr. 95 (ikr. 1 jan 2019 iflg. res. 14 des 2018 nr. 1922, tidligere § 15)."
+   ]
+  }
+ ]
+}

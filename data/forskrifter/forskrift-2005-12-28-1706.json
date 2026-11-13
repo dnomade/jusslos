@@ -1,0 +1,330 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2005-12-28-1706",
+ "dokumentid": "SF/forskrift/2005-12-28-1706",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "etat": [
+  "Avd for havbruk, sjømat og marked"
+ ],
+ "kunngjort_i": "I 2005 hefte 17",
+ "ikraft": "2006-01-01",
+ "siste_endring_ikraft": "2010-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2009-12-18-1711",
+   "tekst": "forskrift/2009-12-18-1711 fra 2010-01-01"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2005-06-17-79/§6",
+   "tekst": "lov/2005-06-17-79/§6"
+  },
+  {
+   "ref": "lov/2005-06-17-79/§18",
+   "tekst": "lov/2005-06-17-79/§18"
+  },
+  {
+   "ref": "lov/2005-06-17-79/§19",
+   "tekst": "lov/2005-06-17-79/§19"
+  },
+  {
+   "ref": "lov/2005-06-17-79/§20",
+   "tekst": "lov/2005-06-17-79/§20"
+  }
+ ],
+ "kunngjort": "2006-01-03",
+ "korttittel": "A-registerforskriften",
+ "tittel": "Forskrift om Akvakulturregisteret (A-registerforskriften).",
+ "annet": "Hjemmel: Fastsatt av Fiskeri- og kystdepartementet 28. desember 2005 med hjemmel i lov 17. juni 2005 nr. 79 om akvakultur (akvakulturloven) § 6, § 18, § 19 og § 20.\nEndret ved forskrifter 14 feb 2007 nr. 240, 18 des 2009 nr 1711.",
+ "refid": "forskrift/2005-12-28-1706",
+ "eli": "/eli/forskrift/2005/12/28/1706",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2005-12-28-1706",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Generelle bestemmelser",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Overskriften endret ved forskrift 18 des 2009 nr. 1711 (i kraft 1 jan 2010)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Formål og saklig virkeområde",
+     "ledd": [
+      "Akvakulturregisterets formål er å gi rettslige disposisjoner til eller i en akvakulturtillatelse rettsvern.",
+      "Forskriften gjelder for Akvakulturregisteret, som er et sentralt elektronisk realregister. Registeret gir en oversikt over akvakulturtillatelsers innhold og enkelte vesentlige forvaltningsrettslige vedtak knyttet til disse, samt tinglyste dokumenter som omfatter rettslige disposisjoner til eller i akvakulturtillatelsen, herunder overføring, pant mv."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Forholdet til tinglysingsloven",
+     "ledd": [
+      "For tinglysing i Akvakulturregisteret gjelder reglene i lov 7. juni 1935 nr. 2 om tinglysing § 2 og § 3, kapittel 2 og 3 og § 35 – § 37 tilsvarende så langt de passer og ikke annet følger av denne forskrift.",
+      "Reglene i forskrift 3. november 1995 nr. 875 om tinglysing gjelder tilsvarende så langt de passer og ikke annet følger av denne forskrift.",
+      "Tidsfristen i lov 7. juni 1935 nr. 2 om tinglysing § 28 første ledd skal likevel være 20 år for kontrakts pant etter akvakulturloven § 20.",
+      "For forhåndsvikelser etter forskrift 3. november 1995 nr. 875 om tinglysing § 4 fjerde ledd bortfaller virkningen likevel etter 5 år."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Registerenhet",
+     "ledd": [
+      "Hver akvakulturtillatelse har et eget blad i registeret og utgjør en egen registerenhet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 4",
+     "tittel": "Opplysninger om registerenheten",
+     "ledd": [
+      "Akvakulturregisteret skal blant annet inneholde opplysninger om:\na. tillatelsens art, lokalitet(er), nummer, fylke, kommune, tidspunkt for etablering og eventuelle tidsbegrensninger, type tillatelse, kapasitet,\nb. identifikasjon av den person eller det foretak registreringen gjelder. For hver registrert fysisk person og enkeltpersonsforetak skal Akvakulturregisteret inneholde fullt navn, fødselsnummer og adresse. For fysisk person som ikke er tildelt norsk fødselsnummer registreres tildelt D-nummer. For foretak som ikke er enkeltpersonsforetak skal registeret inneholde foretaksnavn, organisasjonsnummer og forretningsadresse,\nc. hvilken rettighet/heftelse som er tinglyst og tidspunkt for tinglysing (dagbokføringsdato),\nd. konkursåpning hos innehaver av akvakulturtillatelsen,\ne. eventuelle enkeltvedtak om tilbaketrekking av akvakulturtillatelsen samt forhåndsvarsel om slikt vedtak etter akvakulturloven § 9, vedtak om tvangsmulkt, krav om dekning av utgifter til iverksetting og overtredelsesgebyr etter akvakulturloven § 28, § 29 og § 30 fra 1 til 5 millioner kroner, jf. akvakulturregisterforskriften § 8.",
+      "Forskriftens § 2 første ledd gjelder ikke for opplysningene som nevnt i bokstav e da disse opplysningene bare er av informativ karakter."
+     ],
+     "endringer": [
+      "Endret ved forskrift 18 des 2009 nr. 1711 (i kraft 1 jan 2010)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-5",
+     "nummer": "§ 5",
+     "tittel": "Fiskeridirektoratets og fylkeskommunenes innføringsoppgaver og registerkvalitet",
+     "ledd": [
+      "Fylkeskommunen skal ved tildeling av akvakulturtillatelser føre inn i Akvakulturregisteret opplysninger i tråd med § 4 bokstav a og b. Ved senere endringer av akvakulturtillatelsen eller vilkår vedrørende denne, skal Fiskeridirektoratet føre inn opplysninger i Akvakulturregisteret i tråd med § 4 bokstav e.",
+      "Fylkeskommunen og Fiskeridirektoratet skal registrere og kontrollere innførte opplysninger i tråd med retningslinjer fastsatt av Fiskeridirektoratet."
+     ],
+     "endringer": [
+      "Endret ved forskrift 18 des 2009 nr. 1711 (i kraft 1 jan 2010)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-6",
+     "nummer": "§ 6",
+     "tittel": "Brønnøysundregistrenes tinglysingsoppgaver",
+     "ledd": [
+      "Brønnøysundregistrene er registerfører og skal tinglyse dokumenter som omhandler rettsforhold til eller i akvakulturtillatelsen etter § 4 bokstav b, c og d.",
+      "Registerfører kan delegere sin myndighet til andre tjenestemenn ved registeret. Dette gjelder også avgjørelse om å nekte et dokument tinglyst, avgjørelse om retting samt avgjørelse av kjæremål."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-7",
+     "nummer": "§ 7",
+     "tittel": "Statens legalpanterett",
+     "ledd": [
+      "Staten har i medhold av akvakulturloven § 20 fjerde ledd panterett foran alle andre heftelser i akvakulturtillatelsen for krav på opptil 5 millioner kroner."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-8",
+     "nummer": "§ 8",
+     "tittel": "Hva panteretten omfatter",
+     "ledd": [
+      "Panterett i akvakulturtillatelse gjelder tillatelsen i sin helhet, slik den er til enhver tid. Panterett i akvakulturtillatelser omfatter ikke ting som kan pantsettes etter panteloven § 3-3, § 3-4, § 3-8, § 3-9, § 3-10 eller § 3-11."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Tinglysing av akvakulturtillatelser og tilknyttede rettigheter",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Overskriften endret ved forskrift 18 des 2009 nr. 1711 (i kraft 1 jan 2010)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 9",
+     "tittel": "Tinglysing",
+     "ledd": [
+      "I Akvakulturregisteret kan det tinglyses dokumenter som går ut på å stifte, forandre, overdra, behefte, anerkjenne eller oppheve en rett til eller i en akvakulturtillatelse, såfremt tinglysingen ved lov eller forskrift er tillagt rettsvirkning, eller tinglysing er pålagt ved lov.",
+      "Avtale om krav til samtykke ved overføring kan tinglyses i Akvakulturregisteret."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 10",
+     "tittel": "Generelt om fremgangsmåten",
+     "ledd": [
+      "Registerfører skal føre dagbok over de dokumenter som forlanges tinglyst. Dokument som kreves tinglyst, skal snarest mulig føres inn i dagboken den dag det kommer inn, og skal anses dagbokført denne dag (dagbokføringsdato).",
+      "Tinglysing skjer ved at et dokument føres inn i dagboken, og at dokumentet anmerkes i Akvakulturregisteret på akvakulturtillatelsens blad.",
+      "Tinglysingslovens bestemmelser om gjenpart kommer ikke til anvendelse.",
+      "På ethvert dokument som er tinglyst, gir registerføreren attest om tinglysingen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 11",
+     "tittel": "Blanketter",
+     "ledd": [
+      "Følgende dokumenttyper som skal registreres og tinglyses i Akvakulturregisteret skal være skrevet på godkjent blankett fastsatt av Brønnøysundregistrene:\na. pantedokumenter,\nb. dokument for overføring av akvakulturtillatelse,\nc. dokument for tvangsforretning."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 12",
+     "tittel": "Registerhjemmel",
+     "ledd": [
+      "Gir dokumentet uttrykk for en rettshandel, kan det ikke anmerkes i Akvakulturregisteret uten at utstederen av dokumentet har registerhjemmel eller samtykke fra den som har registerhjemmel.",
+      "Registerhjemmel som innehaver av tillatelsen har bare den som Akvakulturregisteret utpeker som hjemmelshaver eller den som godtgjør at han er hjemmelshaver. Tilsvarende gjelder også for andre rettigheter i tillatelsen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 13",
+     "tittel": "Underskrift",
+     "ledd": [
+      "Tinglysingsloven § 17 om krav til bekreftelse av underskrift kommer ikke til anvendelse.",
+      "For dokumenter som krever underskrift av hjemmelshaver, skal hjemmelshavers fødsels- eller organisasjonsnummer opplyses. På dokumenter som overfører hjemmel som innehaver, skal i tillegg den nye hjemmelshavers fødsels- eller organisasjonsnummer opplyses."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-6",
+     "nummer": "§ 14",
+     "tittel": "Tinglysingssperrer",
+     "ledd": [
+      "Det kan kun innføres og registreres en innehaver per akvakulturtillatelse.",
+      "Dersom det er tinglyst krav om at overføring krever samtykke etter § 9, kan dokumentet ikke tinglyses før slikt samtykke foreligger.",
+      "Innført forhåndsvarsel om tilbaketrekking hindrer tinglysing av pantsettelse og overføring av akvakulturtillatelse.",
+      "Akvakulturtillatelsene med registreringsnummer N-TF-11 og N-TF-12 lokalisert i Musken i Tysfjord kommune kan overføres etter særskilt godkjenning fra Fiskeridirektoratet."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Forskjellige bestemmelser",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Overskriften endret ved forskrift 18 des 2009 nr. 1711 (i kraft 1 jan 2010)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 15",
+     "tittel": "Forholdet til offentligrettslige vilkår i akvakulturtillatelsen",
+     "ledd": [
+      "Overføring og pantsettelse av akvakulturtillatelse har ikke betydning for myndighetenes bruk av virkemidler etter akvakulturloven.",
+      "Vilkår for tildeling og drift fastsatt i eller i medhold av akvakulturloven gjelder fullt ut også for ny innehaver av tillatelsen, herunder gjelder særlige krav til innehaver av tillatelse etter forskrift 22. desember 2004 nr. 1798 om tillatelse til akvakultur for laks, ørret og regnbueørret kapittel 5."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 16",
+     "tittel": "Søk i Akvakulturregisteret",
+     "ledd": [
+      "Ved søking i Akvakulturregisteret på tinglyste dokument kan benyttes blant annet fødselsnummer, foretaksnavn, organisasjonsnummer, tillatelsens nummer eller dagboknummer. Advokater, banker, forsikringsselskaper, finansieringsforetak, inkassoselskaper, kredittopplysningsforetak og namsmyndighet kan gis adgang til også å benytte personnavn som søkekriterium.",
+      "Kredittopplysningsforetak kan abonnere på periodiske utskrifter i elektronisk form."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 17",
+     "tittel": "Offentlighet og avgivelse av opplysninger",
+     "ledd": [
+      "Akvakulturregisteret er offentlig, og det kan gjøres tilgjengelig gjennom Internett eller lignende elektronisk medium.",
+      "Det kan av registerfører kreves bekreftet utskrift og pantattest fra Akvakulturregisteret. Opplysningene om tinglyste dokumenter i Akvakulturregisteret kan avgis sammen med opplysninger om tinglyste heftelser i andre offentlige registre.",
+      "Ved Akvakulturregisteret er opplysninger fra den historiske databasen ikke offentlig tilgjengelig. Registerfører kan blant annet gjøre unntak for offentlige myndigheter som namsmenn, domstoler, politi og bostyrere, samt den dokumentet gjelder."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 18",
+     "tittel": "Arkivering",
+     "ledd": [
+      "Ved Akvakulturregisteret arkiveres det tinglyste dokumentet og hjelpedokument ved bruk av medium som finnes hensiktsmessig."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 19",
+     "tittel": "Opphør av akvakulturtillatelse",
+     "ledd": [
+      "Ved opphør av akvakulturtillatelsen faller rettigheter til eller i akvakulturtillatelsen bort."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-6",
+     "nummer": "§ 20",
+     "tittel": "Historisk database mv.",
+     "ledd": [
+      "Når begjæring om sletting er anmerket i Akvakulturregisteret, skal dokumentet fjernes fra databasen for tinglyste rettsstiftelser, og overføres til en særskilt database (den historiske database).",
+      "Tidligere tinglyst overføring slettes automatisk ved tinglysing av ny overføring.",
+      "Forhåndsvarsel og vedtak etter § 4 bokstav e skal fjernes fra registeret når saken er endelig avgjort av forvaltningen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-7",
+     "nummer": "§ 21",
+     "tittel": "Gebyr",
+     "ledd": [
+      "For tinglysing i Akvakulturregisteret betales et gebyr på kroner 1.450 for hver akvakulturtillatelse som tinglysingen omfatter med mindre annet følger av femte ledd.",
+      "For følgende informasjon på papir eller i elektronisk form fra Akvakulturregisteret betales et gebyr på kroner 150:\na. særskilt pantattest,\nb. annen attestert tinglysingsutskrift som gjelder Akvakulturregisteret,\nc. oppgave over dagbokførte dokumenter eller visse grupper av slike,\nd. attestert kopi av tinglyst dokument som gis av tinglysingsmyndighet.",
+      "Det betales ett gebyr for hver registerenhet utskriften omfatter.",
+      "Gjelder oppgaven som nevnt i andre ledd bokstav c dokumenter dagbokført i mer enn en kalendermåned, skal det betales kroner 150 for hver påbegynt kalendermåned.",
+      "Det skal ikke betales gebyr for tinglysing, registrering eller anmerking av:\na. bevis for at en heftelse er falt bort, eller for at den berettigede samtykker i at den slettes,\nb. melding som tingretten eller bostyrer registrerer i medhold av konkursloven eller panteloven,\nc. avgjørelse om at noen er satt under vergemål eller opphevelse av vergemål,\nd. utleggsforretning, arrestforretning eller midlertidig forføyning."
+     ],
+     "endringer": [
+      "Endret ved forskrift 14 feb 2007 nr. 240 (i kraft 1 mai 2007, endringen gjelder ikke for dokumenter som har kommet inn til Brønnøysundregistrene før ikrafttredelsesdatoen)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Avsluttende bestemmelser",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Overskriften endret ved forskrift 18 des 2009 nr. 1711 (i kraft 1 jan 2010)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 22",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Forskriften trer i kraft 1. januar 2006."
+     ]
+    }
+   ]
+  }
+ ]
+}

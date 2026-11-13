@@ -1,0 +1,129 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2022-06-17-1045",
+ "dokumentid": "SF/forskrift/2022-06-17-1045",
+ "departement": [
+  "Justis- og beredskapsdepartementet"
+ ],
+ "etat": [
+  "Politiavdelingen"
+ ],
+ "ikraft": "2022-06-20",
+ "endrer": "forskrift/2016-11-23-1360",
+ "hjemmel": [
+  {
+   "ref": "lov/1967-02-10/§13g",
+   "tekst": "lov/1967-02-10/§13g"
+  }
+ ],
+ "kunngjort": "2022-06-17 15:45",
+ "siste_rettelse": "2025-01-17 (§ 3 leddinndelingen)",
+ "korttittel": "A-kriminformasjonsforskriften",
+ "tittel": "Forskrift om deling av taushetsbelagte opplysninger og behandling av personopplysninger m.m. i det tverretatlige samarbeidet mot arbeidslivskriminalitet (a-kriminformasjonsforskriften)",
+ "annet": "Hjemmel: Fastsatt ved kgl.res. 17. juni 2022 med hjemmel i lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven) § 13 g. Fremmet av Justis- og beredskapsdepartementet.\nRettet 17.01.2025 (§ 3 leddinndelingen).",
+ "refid": "forskrift/2022-06-17-1045",
+ "eli": "/eli/forskrift/2022/06/17/1045",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2022-06-17-1045",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Formål",
+   "ledd": [
+    "Formålet med forskriften er å sikre nødvendig adgang til deling og annen behandling av taushetsbelagte opplysninger for å oppnå et effektivt samarbeid om forebygging og bekjempelse av arbeidslivskriminalitet. Forskriften skal også bidra til ivaretakelse av personvern."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Forholdet til personopplysningsloven",
+   "ledd": [
+    "Personopplysningsloven gjelder for behandlingen av personopplysninger i det tverretatlige samarbeidet mot arbeidslivskriminalitet med utfyllende regler fastsatt i denne forskriften."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Deling av taushetsbelagte opplysninger",
+   "ledd": [
+    "Når det er nødvendig for å løse oppgaver som er lagt til mottaker- eller avsenderorganet, og som gjelder å forebygge, avdekke, forhindre eller sanksjonere lovbrudd som kan gi dårligere arbeidsvilkår, krenke arbeidstakeres rettigheter, skade konkurransen i næringslivet eller medføre misbruk av skatte-, avgifts- eller velferdsordninger, kan følgende organer dele opplysninger med hverandre uten hinder av taushetsplikt etter forvaltningsloven § 13:\na. Arbeids- og velferdsetaten\nb. Arbeidstilsynet\nc. Det lokale el-tilsyn\nd. Fiskeridirektoratet\ne. Fylkeskommuner eller kommuner som inngår i et etablert a-krimsamarbeid\nf. Kystvakten\ng. Mattilsynet\nh. Sjøfartsdirektoratet\ni. Statens vegvesen\nj. Utlendingsdirektoratet\nk. Statens innkrevingssentral, Innkrevingssentralen for bidrag og tilbakebetalingskrav og øvrige innkrevingsmyndigheter under Skatteetaten når de er underlagt taushetsplikt etter forvaltningsloven\nl. Politiet når de utfører forvaltningsoppgaver eller sivile gjøremål.\nOrganene nevnt i første punktum kan på samme vilkår dele slike opplysninger med Skatteetaten, Tolletaten, politiet og medarbeidere i Nasjonalt tverretatlig analyse- og etterretningssenter.",
+    "I forbindelse med konkrete saker om forebygging, avdekking, avverging eller sanksjonering av lovbrudd som nevnt i første ledd kan organene nevnt i første ledd første punktum, så langt det er nødvendig, også dele taushetsbelagte opplysninger med enheter og personer i andre fylkeskommuner eller kommuner som er berørt av sakene. De aktuelle fylkeskommunene og kommunene kan på tilsvarende vilkår dele slike opplysninger med de nevnte organene og med hverandre.",
+    "Ved vurderingen av hva som er nødvendig etter første ledd, skal det foretas en forholdsmessighetsvurdering, der det blant annet skal legges vekt på formålet med delingen, det aktuelle lovbruddets karakter og alvorlighet, konsekvensene for den enkelte arbeidstaker, arbeidslivet eller velferdssystemet og opplysningenes sensitivitet.",
+    "Opplysningene skal deles skriftlig eller gjennom registrering i det felles IKT-systemet, med mindre tidsmessige eller praktiske grunner gjør det nødvendig å dele muntlig. Dersom opplysningene deles utenfor det felles IKT-systemet, skal det nedtegnes hvilke opplysninger som deles, og hvem som mottar opplysningene. Deles opplysninger som ikke er verifiserte, skal dette opplyses til mottakeren og nedtegnes."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Bruk og tilgang til et felles IKT-system",
+   "ledd": [
+    "Organene nevnt i § 3 første ledd kan behandle personopplysninger og opplysninger som omfattes av forvaltningsloven § 13 første ledd nr. 2, i et felles IKT-system når det er nødvendig for å løse oppgaver som nevnt i § 3 første ledd.",
+    "Ansatte i Arbeidstilsynet, Arbeids- og velferdsetaten, Skatteetaten, Tolletaten og politiet skal gis tilgang til det felles IKT-systemet dersom de er lokalisert i a-krimsentrene og har tjenstlig behov for slik tilgang. Ansatte i offentlige organer nevnt i § 3 første ledd som deltar i et etablert a-krimsamarbeid, kan også gis tilgang til systemet dersom de har tjenstlig behov for det, og det er nødvendig for å løse oppgaver som nevnt i § 3 første ledd."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Sammenstilling",
+   "ledd": [
+    "Organene nevnt i § 3 første ledd kan sammenstille personopplysninger som er delt for å løse oppgaver som nevnt i § 3 første ledd, når dette er nødvendig for å\na. avdekke relevant informasjon om lovbrudd som nevnt i § 3 første ledd\nb. utarbeide analyser og rapporter om aktører, miljøer, utviklingstrekk og aktiviteter knyttet til lovbrudd som nevnt i § 3 første ledd, eller\nc. utarbeide evalueringer og beslutningsgrunnlag for styring, prioriteringer, valg av kontrollobjekter og bruk av virkemidler.",
+    "Sammenstillingen kan skje gjennom bruk av et felles IKT-system og ved bruk av helautomatiserte analyseverktøy."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "Opplysninger som kan behandles",
+   "ledd": [
+    "Når det er nødvendig for å løse oppgaver som nevnt i § 3 første ledd, kan blant annet opplysninger om følgende forhold behandles:\na. navn og eventuelle alias\nb. adresse, kjønn, sivil status, fødested og fødselsnummer\nc. statsborgerskap, oppholdsgrunnlag og -status\nd. utlendingsidentifikasjon, identifikasjonsnummer og -kort, misbrukt eller fiktiv identitet\ne. andre folkeregistrerte opplysninger\nf. signalement og bilde\ng. elektronisk kontaktinformasjon og elektroniske profiler på Internett\nh. utdanning, kvalifikasjoner, lisenser, godkjenninger, sertifikater mv.\ni. ansettelsesforhold, yrker og verv\nj. oppdrag, kontrakter og avtaleforhold\nk. tilknytning til virksomheter eller personer som bistår den registrerte eller utsetter vedkommende for arbeidslivskriminalitet og kontaktpersoner\nl. at noen har blitt eller kan bli utsatt for arbeidslivskriminalitet\nm. personer som gir opplysninger om arbeidslivskriminalitet\nn. bevegelsesmønstre og grensepasseringer, inn- og utreise og opphold til inn- og utland, herunder om registrering, identitet, internatopphold, utvisning og grensekontroll\no. formuesgoder, herunder fast eiendom og tilknyttede eierforhold, rettigheter og løsøre\np. motorvogn eller annet transportmiddel, identifikasjonsnummer, historikk, bruk og eierforhold\nq. virksomhetsidentifikasjon, herunder navn og organisasjonsnummer\nr. eierskap, formelle og uformelle roller, tilknytninger til andre fysiske eller juridiske personer eller formuesmasse, herunder utenlandsk trust eller tilsvarende juridisk arrangement, overdragelse og omstrukturering\ns. transaksjoner og betalingsopplysninger, bankkonti, finansielle instrumenter, elektroniske valuta og -penger, andre typer finanskonti og kontodisponent\nt. budsjett- og regnskap, inntekt og formue, skattefastsetting og -beregning, rapporteringspliktig eller innrapportert skatt, gebyr eller avgift og innkreving\nu. stønader, ytelser, trygder, pensjon, arbeidsmarkedstiltak, ytelser etter forsikringsavtaleloven og andre subsidie- tilskudds- og støtteordninger, lønns- og trekkoppgaver, refusjoner, og opplysninger om forhold som ligger til grunn for disse\nv. konkurs- og bobehandling\nw. tidligere kontroller og ilagte administrative sanksjoner."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 7",
+   "tittel": "Behandling av særlige kategorier av personopplysninger og opplysninger om straffedommer og lovovertredelser",
+   "ledd": [
+    "Når det er nødvendig for å løse oppgaver som nevnt i § 3 første ledd, kan behandlingen av opplysninger etter denne forskriften også omfatte følgende opplysninger:\na. fagforeningsmedlemskap\nb. helseforhold\nc. personopplysninger som nevnt i personvernforordningen artikkel 10."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-8",
+   "nummer": "§ 8",
+   "tittel": "Behandlingsansvar",
+   "ledd": [
+    "Arbeidstilsynet, Arbeids- og velferdsetaten, Skatteetaten, Tolletaten og Politidirektoratet skal sørge for at det etableres en ordning for ivaretakelse av behandlingsansvaret. Det skal utpekes et kontaktpunkt for de registrerte.",
+    "Skattedirektoratet har ansvaret for ivaretakelsen av fellestjenester knyttet til det felles IKT-systemet. Med fellestjenester menes administrative aktiviteter innen drift, forvaltning, vedlikehold, sikring og utvikling av IKT-systemet, herunder lagring av opplysninger, forvaltning av elektronisk tilgang, sikring av opplysninger og oppdateringer.",
+    "Skattedirektoratet er behandlingsansvarlig for behandlingen av personopplysninger i det felles IKT-systemet ved utførelse av fellestjenester etter annet ledd."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-9",
+   "nummer": "§ 9",
+   "tittel": "Arkivering og sletting",
+   "ledd": [
+    "Opplysningene i det felles IKT-systemet skal arkiveres og avleveres til Arkivverket etter arkivlova med forskrifter. Opplysningene skal gjøres utilgjengelig og oppbevares atskilt innen tidsfristene i annet ledd fram til avleveringen til Arkivverket.",
+    "Opplysninger som ikke skal arkiveres etter første ledd, skal slettes når de ikke lenger er nødvendige for å løse oppgaver som nevnt i § 3 og senest innen tre år. Dersom slike opplysninger fortsatt er nødvendige for formålet med registreringen, kan de behandlingsansvarlige beslutte fortsatt registrering for inntil 3 år av gangen."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-10",
+   "nummer": "§ 10",
+   "tittel": "Ikrafttredelse og endringer i andre forskrifter",
+   "ledd": [
+    "Forskriften trer i kraft 20. juni 2022.",
+    "Fra samme tid skal forskrift 23. november 2016 nr. 1360 til skatteforvaltningsloven § 3-3-1 annet ledd bokstav m lyde: – – –"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,140 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2009-03-27-357",
+ "dokumentid": "SF/forskrift/2009-03-27-357",
+ "departement": [
+  "Helse- og omsorgsdepartementet"
+ ],
+ "etat": [
+  "Helserettsavd."
+ ],
+ "kunngjort_i": "I 2009 hefte 3 (Merknader)",
+ "ikraft": "2009-04-01",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2001-06-15-53/§11",
+   "tekst": "lov/2001-06-15-53/§11"
+  }
+ ],
+ "kunngjort": "2009-03-27 15:15",
+ "korttittel": "Forskrift om pasienters advokatutgifter",
+ "tittel": "Forskrift om dekning av pasienters utgifter til advokat etter pasientskadeloven § 11",
+ "annet": "Hjemmel: Fastsatt ved kgl.res. 27. mars 2009 med hjemmel i lov 15. juni 2001 nr. 53 om erstatning ved pasientskader mv. (pasientskadeloven) § 11. Fremmet av Helse- og omsorgsdepartementet.",
+ "refid": "forskrift/2009-03-27-357",
+ "eli": "/eli/forskrift/2009/03/27/357",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2009-03-27-357",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Virkeområde",
+   "ledd": [
+    "Forskriften gjelder utgifter til advokat som dekkes av Norsk pasientskadeserstatning eller Pasientskadenemnda etter pasientskadeloven § 11."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Salærsats",
+   "ledd": [
+    "Utgifter til advokat skal beregnes ut fra en timesats tilsvarende den til enhver tid gjeldende salærsatsen fastsatt av Justisdepartementet i medhold av forskrift 3. desember 1997 nr. 1441 om salær fra det offentlige til advokater m.v. (salærforskriften) § 2. Merverdiavgift kommer i tillegg til salærsatsen."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Fastsettelse",
+   "ledd": [
+    "Beregningen etter § 2 skal skje på grunnlag av den salærsatsen som gjaldt da advokaten avsluttet arbeidet med saken."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Avkortning",
+   "ledd": [
+    "Dersom Norsk pasientskadeserstatning eller Pasientskadenemnda finner at advokaten har benyttet lengre tid på saken enn hva som er rimelig og nødvendig, skal det foretas avkortninger i forhold til det beløpet som kreves dekket."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Overgangsbestemmelse",
+   "ledd": [
+    "Forskriften får anvendelse når kravet om erstatning er meldt til Norsk pasientskadeserstatning etter reglene i pasientskadeloven § 9 etter ikrafttredelsen av denne forskriften."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Forskriften trer i kraft 1. april 2009."
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": null,
+   "overskrift": "Merknader til de enkelte bestemmelsene i forskriften",
+   "innhold": [
+    {
+     "type": "seksjon",
+     "id": "kapittel-1-kapittel-1",
+     "navn": null,
+     "overskrift": "Til § 1:",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Forskriften gjelder bare advokatutgifter som dekkes av Norsk pasientskadeserstatning eller Pasientskadenemnda etter pasientskadeloven § 11.\nBestemmelsene om salærsats får således ikke anvendelse på advokatutgifter som gjelder deler av saken som Norsk pasientskadeserstatning eller Pasientskadenemnda ikke finner skal dekkes etter pasientskadeloven § 11.\nBestemmelsene om salærsats får heller ikke anvendelse på sakskostnader som omtales i forvaltningsloven § 36."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-1-kapittel-2",
+     "navn": null,
+     "overskrift": "Til § 2:",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Når Norsk pasientskadeserstatning eller Pasientskadenemnda dekker advokatutgifter etter salærsatsen, kan advokaten ikke kreve eller motta ytterligere vederlag av pasienten for denne delen av saken, for eksempel for å få dekket differansen mellom vanlig timepris og salærsatsen. Dette fremgår av pasientskadeloven § 11 tredje ledd."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-1-kapittel-3",
+     "navn": null,
+     "overskrift": "Til § 3:",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Bestemmelsen regulerer at det er salærsatsen som gjelder på det tidspunktet da advokaten avslutter sitt arbeid med saken, som skal legges til grunn ved Norsk pasientskadeserstatning eller Pasientskadenemndas beregning av de utgifter som kan kreves dekket i medhold av pasientskadeloven § 11."
+      }
+     ]
+    },
+    {
+     "type": "seksjon",
+     "id": "kapittel-1-kapittel-4",
+     "navn": null,
+     "overskrift": "Til § 4",
+     "innhold": [
+      {
+       "type": "tekst",
+       "tekst": "Bestemmelsen presiserer Norsk pasientskadeserstatning og Pasientskadenemndas adgang til å foreta avkortninger i salærkravene. Departementet viser til viktigheten av at begrensningen i timesatsen som følger av § 2, ikke medfører at det gis kompensasjon for flere timer enn det som må anses som rimelig og nødvendig i anledning saken."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,536 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2014-11-24-1458",
+ "dokumentid": "SF/forskrift/2014-11-24-1458",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "etat": [
+  "Sjøfartsdirektoratet"
+ ],
+ "kunngjort_i": "I 2014 hefte 15",
+ "ikraft": "2014-11-24",
+ "siste_endring_ikraft": "2025-08-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2025-06-24-1309",
+   "tekst": "forskrift/2025-06-24-1309 fra 2025-08-01"
+  }
+ ],
+ "endrer": "forskrift/2010-12-30-1849",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2007-02-16-9/§9",
+   "tekst": "lov/2007-02-16-9/§9"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§10",
+   "tekst": "lov/2007-02-16-9/§10"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§11",
+   "tekst": "lov/2007-02-16-9/§11"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§12",
+   "tekst": "lov/2007-02-16-9/§12"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§13",
+   "tekst": "lov/2007-02-16-9/§13"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§14",
+   "tekst": "lov/2007-02-16-9/§14"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§15",
+   "tekst": "lov/2007-02-16-9/§15"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§16",
+   "tekst": "lov/2007-02-16-9/§16"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§17",
+   "tekst": "lov/2007-02-16-9/§17"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§21",
+   "tekst": "lov/2007-02-16-9/§21"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§22",
+   "tekst": "lov/2007-02-16-9/§22"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§22a",
+   "tekst": "lov/2007-02-16-9/§22a"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§23",
+   "tekst": "lov/2007-02-16-9/§23"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§24",
+   "tekst": "lov/2007-02-16-9/§24"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§25",
+   "tekst": "lov/2007-02-16-9/§25"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§26",
+   "tekst": "lov/2007-02-16-9/§26"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§27",
+   "tekst": "lov/2007-02-16-9/§27"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§28",
+   "tekst": "lov/2007-02-16-9/§28"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§28a",
+   "tekst": "lov/2007-02-16-9/§28a"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§31",
+   "tekst": "lov/2007-02-16-9/§31"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§32",
+   "tekst": "lov/2007-02-16-9/§32"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§33",
+   "tekst": "lov/2007-02-16-9/§33"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§34",
+   "tekst": "lov/2007-02-16-9/§34"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§35",
+   "tekst": "lov/2007-02-16-9/§35"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§36",
+   "tekst": "lov/2007-02-16-9/§36"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§42",
+   "tekst": "lov/2007-02-16-9/§42"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§44",
+   "tekst": "lov/2007-02-16-9/§44"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§45",
+   "tekst": "lov/2007-02-16-9/§45"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§49",
+   "tekst": "lov/2007-02-16-9/§49"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§52",
+   "tekst": "lov/2007-02-16-9/§52"
+  },
+  {
+   "ref": "lov/2007-02-16-9/§54",
+   "tekst": "lov/2007-02-16-9/§54"
+  },
+  {
+   "ref": "forskrift/2007-02-16-171",
+   "tekst": "forskrift/2007-02-16-171"
+  },
+  {
+   "ref": "forskrift/2007-05-31-590",
+   "tekst": "forskrift/2007-05-31-590"
+  },
+  {
+   "ref": "forskrift/2007-06-29-849",
+   "tekst": "forskrift/2007-06-29-849"
+  },
+  {
+   "ref": "lov/2013-06-21-102/§1-2",
+   "tekst": "lov/2013-06-21-102/§1-2"
+  },
+  {
+   "ref": "lov/2013-06-21-102/§9-7",
+   "tekst": "lov/2013-06-21-102/§9-7"
+  },
+  {
+   "ref": "forskrift/2013-07-03-974",
+   "tekst": "forskrift/2013-07-03-974"
+  }
+ ],
+ "kunngjort": "2014-11-28 15:40",
+ "tittel": "Forskrift om havnestatskontroll",
+ "annet": "Hjemmel: Fastsatt av Sjøfartsdirektoratet 24. november 2014 med hjemmel i lov 16. februar 2007 nr. 9 om skipssikkerhet (skipssikkerhetsloven), § 9, § 10, § 11, § 12, § 13, § 14, § 15, § 16, § 17, § 21, § 22, § 22a, § 23, § 24, § 25, § 26, § 27, § 28, § 28a, § 31, § 32, § 33, § 34, § 35, § 36, § 42, § 44, § 45, § 49, § 52 og § 54, jf. delegeringsvedtak 16. februar 2007 nr. 171, delegeringsvedtak 31. mai 2007 nr. 590 og delegeringsvedtak 29. juni 2007 nr. 849 og lov 21. juni 2013 nr. 102 om stillingsvern mv. for arbeidstakere på skip (skipsarbeidsloven) § 1-2 tredje ledd bokstav d og § 9-7 femte ledd bokstav f, jf. delegeringsvedtak 3. juli 2013 nr. 974.\nEØS-henvisninger: EØS-avtalen vedlegg XIII nr. 56b (direktiv 2009/16/EF som endret ved direktiv 2013/38/EU, forordning (EU) nr. 1257/2013, forordning (EU) 2015/757, direktiv (EU) 2017/2109 og direktiv (EU) 2017/2110), nr. 56bc (forordning (EU) nr. 428/2010), nr. 56be (forordning (EU) nr. 802/2010 som endret ved forordning (EU) nr. 1205/2012), nr. 56bd (forordning (EU) nr. 801/2010), nr. 56f (direktiv 2009/45/EF som endret ved direktiv 2010/36/EU, direktiv (EU) 2017/2108, forordning (EU) 2020/411 og forordning (EU) 2022/1180), nr. 56g (direktiv 97/70/EF som endret ved direktiv 1999/19/EF, direktiv 2002/35/EF og direktiv 2002/84/EF), nr. 56h (direktiv 1999/95/EF) og nr. 56j (direktiv (EU) 2022/993).\nEndret ved forskrifter 1 juni 2017 nr. 692, 8 sep 2017 nr. 1369, 20 des 2017 nr. 2379, 6 des 2018 nr. 2299, 31 juli 2019 nr. 1036 (i kraft 1 jan 2020), 15 sep 2021 nr. 3116 (i kraft 19 sep 2021), 24 jan 2022 nr. 118, 7 nov 2023 nr. 1800 (EØS-henvisning), 24 juni 2025 nr. 1338 (i kraft 26 juni 2025), 24 juni 2025 nr. 1309 (i kraft 1 aug 2025, bl.a EØS-henvisninger).",
+ "refid": "forskrift/2014-11-24-1458",
+ "eli": "/eli/forskrift/2014/11/24/1458",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2014-11-24-1458",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Felles og innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Forskriften gjelder for følgende utenlandske skip i næringsvirksomhet:\na. lasteskip\nb. passasjerskip\nc. flyttbare innretninger.",
+      "For utenlandske fiskefartøy gjelder forskriften § 4a.",
+      "Forskriften gjelder ikke for primitivt bygde treskip."
+     ],
+     "endringer": [
+      "Endret ved forskrift 1 juni 2017 nr. 692, 15 sep 2021 nr. 3116 (i kraft 19 sep 2021)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Konvensjonskrav",
+     "ledd": [
+      "Følgende konvensjoner med senere tilføyelser og endringer gjelder som forskrifter for skip som oppholder seg i norske farvann i den grad og så langt konvensjonen gjelder for skip som omfattes av forskriften her:\na. Den internasjonale konvensjon om sikkerhet for menneskeliv til sjøs, 1974 (SOLAS 74)\nb. Den internasjonale konvensjon om lastelinjer, 1966 (LL 66)\nc. Den internasjonale konvensjon om hindring av forurensning fra skip, 1973, og tilhørende protokoll av 1978 (MARPOL 73/78)\nd. Den internasjonale konvensjon om normer for opplæring, sertifikater og vakthold for sjøfolk, 1978 (STCW 78/95)\ne. Konvensjonen om internasjonale regler til forebygging av sammenstøt på sjøen, 1972 (Colreg 72)\nf. Den internasjonale konvensjon om måling av fartøyer, 1969 (ITC 69)\ng. Den internasjonale konvensjon om erstatningsansvar for oljesølskade, 1992 (CLC 92)\nh. Den internasjonale konvensjon om regulering av skadelige bunnstoffsystemer på skip (AFS-konvensjonen)\ni. Den internasjonale konvensjon 2001 om erstatningsansvar for bunkersoljesølskade (Bunkerskonvensjonen, 2001)\nj. Den internasjonale konvensjon om sjøfolks arbeids- og levevilkår (Maritime Labour Convention – MLC)\nk. Den internasjonale konvensjon om kontroll og behandling av ballastvann og sedimenter fra skip, 2004\nl. Den internasjonale Hongkong-konvensjonen om sikker og miljømessig forsvarlig gjenvinning av skip, 2009."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 8 sep 2017 nr. 1369, 20 des 2017 nr. 2379 (i kraft 1 jan 2018), 15 sep 2021 nr. 3116 (i kraft 19 sep 2021), 24 jan 2022 nr. 118, 24 juni 2025 nr. 1338 (i kraft 26 juni 2025)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Passasjerskip i innenriksfart i Norge",
+     "ledd": [
+      "Direktiv 2009/45/EF som endret ved direktiv 2010/36/EU, direktiv (EU) 2017/2108, forordning (EU) 2020/411 og forordning (EU) 2022/1180, gjelder med de presiseringer, unntak og tillegg som er fastsatt i norske forskrifter for\na. passasjerskip i havområde A, B, C eller D i norske farvann med lengde (L) 24 meter eller mer\nb. hurtiggående passasjerfartøy med lengde (L) 24 meter eller mer.",
+      "Passasjerskip, herunder hurtiggående passasjerfartøy, som ikke er omfattet av reglene i første ledd, skal ha dokumentasjon fra flaggstaten som viser at skipet holder samme sikkerhetsnivå som norske passasjerskip i tilsvarende fartsområde."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 31 juli 2019 nr. 1036 (i kraft 1 jan 2020), 15 sep 2021 nr. 3116 (i kraft 19 sep 2021), 24 juni 2025 nr. 1309 (i kraft 1 aug 2025)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Havnestatskontroll",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 4",
+     "tittel": "Gjennomføring av havnestatskontroll",
+     "ledd": [
+      "Havnestatskontroll gjennomføres etter direktiv 2009/16/EF som endret ved direktiv 2013/38/EU, forordning (EU) nr. 1257/2013, forordning (EU) 2015/757 og direktiv (EU) 2017/2110.",
+      "Direktivets bestemmelser utfylles av følgende forordninger:\na. EØS-avtalen vedlegg XIII nr. 56bc (forordning (EF) nr. 428/2010) om gjennomføring av artikkel 14 i Europaparlamentets og rådets direktiv 2009/16/EF for så vidt angår utvidede inspeksjoner av skip.\nb. EØS-avtalen vedlegg XIII nr. 56bd (forordning (EU) nr. 801/2010) om gjennomføring av artikkel 10.3 i Europaparlamentets og rådets direktiv 2009/16/EC for så vidt angår flaggstatskriteriene.\nc. EØS-avtalen vedlegg XIII nr. 56be (forordning (EU) nr. 802/2010 som endret ved forordning (EU) nr. 1205/2012) om gjennomføring av artikkel 10.3 og 27 i Europaparlamentets og rådets direktiv 2009/16/EF for så vidt angår rederiets prestasjoner.",
+      "Forordningene gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til EØS- avtalen og avtalen for øvrig."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 1 juni 2017 nr. 692, 6 des 2018 nr. 2299, 15 sep 2021 nr. 3116 (i kraft 19 sep 2021), 24 juni 2025 nr. 1309 (i kraft 1 aug 2025)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 4a",
+     "tittel": "Kontroll av utenlandske fiskefartøy",
+     "ledd": [
+      "Utenlandske fiskefartøy med største lengde 24 meter eller mer som anløper norsk havn, lander fangst i norsk havn, eller som fisker, fanger eller foredler levende ressurser i norsk territorialfarvann, kan kontrolleres i henhold til EØS-avtalen vedlegg XIII nr. 56g (direktiv 97/70/EF som endret ved direktiv 1999/19/EF, direktiv 2002/35/EF og direktiv 2002/84/EF) om etablering av en harmonisert sikkerhetsordning for fiskefartøyer med en lengde på 24 meter og over."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 1 juni 2017 nr. 692."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Rederiet og skipsførers plikter",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 5",
+     "tittel": "Plikt til å melde fra om skipets planlagte ankomst",
+     "ledd": [
+      "Når et skip kan bli gjenstand for eller skal gjennomgå en utvidet kontroll plikter rederiet eller skipsfører å melde inn skipets planlagte ankomst til en norsk havn eller ankerplass i SafeSeaNet Norway senest tre døgn før forventet ankomst.",
+      "Forventes reisen å vare kortere enn tre døgn skal melding om forventet ankomst senest registreres når skipet forlater havnen eller ankerplassen som det oppholder seg i.",
+      "Meldingen som kreves etter første eller andre ledd skal inneholde\na. skipets identifikasjon (navn, kjenningssignal, IMO-identifikasjonsnummer eller MMSI-nummer)\nb. bestemmelseshavn\nc. forventet tidspunkt for ankomst og forventet tidspunkt for avgang (ETA, ETD)\nd. informasjon om skipet planlegger oppankring (ankringsplass eller fortøyningsinnretning)\ne. samlet antall personer om bord\nf. planlagte operasjoner (lasting, lossing, annet)\ng. planlagte lovfestede tilsyn samt omfattende vedlikeholds- og reparasjonsarbeid som skal utføres\nh. dato for siste utvidede inspeksjon i Paris MOU- og EØS-området.",
+      "Tankskip plikter i tillegg å oppgi opplysninger om\na. konstruksjon: enkelt skrog, enkelt skrog med SBT, dobbelt skrog\nb. laste- og ballasttankenes tilstand: fullastede, tomme eller inerte\nc. lastemengde og type.",
+      "Rederiet eller skipsfører skal så raskt som mulig underrette norske myndigheter i SafeSeaNet Norway ved endringer i den innmeldte seilingsplanen."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 20 des 2017 nr. 2379 (i kraft 1 jan 2018), 15 sep 2021 nr. 3116 (i kraft 19 sep 2021)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 6",
+     "tittel": "Melding om faktisk ankomst- og avgangstid",
+     "ledd": [
+      "Rederiet eller skipsfører plikter senest innen 1 time etter ankomst å melde fra om skipets faktiske ankomsttidspunkt i SafeSeaNet Norway. Som ankomsttidspunkt regnes tidspunktet når fartøyet er fortøyd eller anker lagt ut.",
+      "Rederiet eller skipsfører plikter senest innen 1 time etter at skipet har forlatt havn eller ankerplass å melde fra om skipets faktiske avgangstidspunkt i SafeSeaNet Norway."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 7",
+     "tittel": "Plikt til å sette av tid til utvidet kontroll",
+     "ledd": [
+      "Når et fartøy kan eller skal gjennomgå utvidet kontroll, plikter rederiet eller skipsføreren å sette av tilstrekkelig tid til at kontrollen kan gjennomføres. Med mindre sikkerheten krever at skipet foretar sikringstiltak i løpet av gjennomføringen av den utvidede kontrollen, skal rederiet sørge for at skipet blir liggende i havnen til kontrollen er gjennomført."
+     ],
+     "endringer": [
+      "Endret ved forskrift 20 des 2017 nr. 2379 (i kraft 1 jan 2018)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 8",
+     "tittel": "Plikt til å sette i gang tiltak",
+     "ledd": [
+      "Når en inspeksjon er blitt utsatt etter § 4 jf. direktiv 2009/16/EF artikkel 19 nr. 5, skal rederiet eller skipsfører sørge for at nødvendige tiltak for å sikre at skipet oppfyller de relevante kravene i konvensjonene blir iverksatt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 9",
+     "tittel": "Utgifter i forbindelse med opphevelse av forvaltningstiltak",
+     "ledd": [
+      "Rederiet skal dekke alle utgifter i tilknytning til havnestatskontroll som foretas for å få opphevet\na. en tilbakeholdelse\nb. et anløpsforbud.",
+      "Rederiet skal dekke alle utgifter ved tilbakeholdelse i havnen."
+     ],
+     "endringer": [
+      "Endret ved forskrift 15 sep 2021 nr. 3116 (i kraft 19 sep 2021)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Forvaltningstiltak",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 10",
+     "tittel": "Tilbakeholdelse og stansing av operasjoner",
+     "ledd": [
+      "Skip som\na. har mangler som klart utgjør en fare for helse, miljø eller sikkerhet\nb. ikke oppfyller krav om å ha ferdsskriver\nc. har arbeids- og levevilkår som utgjør en åpenbar fare for arbeidstakernes sikkerhet og helse, eller\nd. har alvorlige og gjentatte brudd på MLC, herunder arbeidstakers rettigheter,\nvil bli tilbakeholdt eller få stanset operasjonen hvor mangelen ble påvist."
+     ],
+     "endringer": [
+      "Endret ved forskrift 20 des 2017 nr. 2379 (i kraft 1 jan 2018), 15 sep 2021 nr. 3116 (i kraft 19 sep 2021)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 11",
+     "tittel": "Anløpsforbud",
+     "ledd": [
+      "Skip nektes anløp til norske havner og ankerplasser hvis de seiler under flagget til en stat som står på\na. Paris MOU sin svarteliste, og har vært tilbakeholdt eller fått utstedt forbud mot drift etter direktiv 1999/35/EF mer enn to ganger i løpet av de 36 foregående månedene i en havn eller på en ankerplass i en stat som har undertegnet Paris MOU, eller\nb. Paris MOU sin gråliste, og har vært tilbakeholdt eller fått utstedt forbud mot drift etter direktiv 1999/35/EF mer enn to ganger i løpet av de 24 foregående månedene i en havn eller på en ankerplass i en stat som har undertegnet Paris MOU."
+     ],
+     "endringer": [
+      "Endret ved forskrift 15 sep 2021 nr. 3116 (i kraft 19 sep 2021)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 12",
+     "tittel": "Anløpsforbudets ikrafttredelse",
+     "ledd": [
+      "Rederiet plikter å sørge for at skip som får utstedt anløpsforbud retter manglene som er funnet under havnestatskontrollen før skipet forlater havn eller ankerplass.",
+      "Anløpsforbudet trer i kraft når skipet har forlatt havn eller ankerplass hvor anløpsforbudet ble utstedt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 13",
+     "tittel": "Virkning av tilbakeholdelse av skip med tidligere anløpsforbud",
+     "ledd": [
+      "Et skip får anløpsforbud til alle norske havner og ankerplasser når skipet blir tilbakeholdt i en havn eller ankerplass i en stat som har undertegnet Paris MOU etter andregangs anløpsforbud",
+      "Anløpsforbudet etter første ledd gjelder tilsvarende for havner og ankerplasser i Paris MOU."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-5",
+     "nummer": "§ 14",
+     "tittel": "Permanent anløpsforbud",
+     "ledd": [
+      "Et skip som ikke oppfyller kriteriene for opphevelse etter § 17, § 18 eller § 19 tjuefire måneder etter at anløpsforbudet ble utstedt, får permanent anløpsforbud til norske havner og ankerplasser.",
+      "Et skip får permanent anløpsforbud til alle norske havner og ankerplasser når skipet blir tilbakeholdt etter tredjegangs anløpsforbud i Paris MOU.",
+      "Anløpsforbudene etter første og annet ledd gjelder tilsvarende for havner og ankerplasser i Paris MOU."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-6",
+     "nummer": "§ 15",
+     "tittel": "Nektelse av adgang til havn ved brudd på vilkår",
+     "ledd": [
+      "Skip som er tilbakeholdt og har fått tillatelse til å gå til reparasjonsverksted, nektes adgang til norske havner og ankerplasser når skipet\na. forlater havn eller ankerplass uten at fastsatte vilkår for tillatelsen er oppfylt, eller\nb. ikke går direkte til angitt reparasjonsverksted."
+     ],
+     "endringer": [
+      "Endret ved forskrift 15 sep 2021 nr. 3116 (i kraft 19 sep 2021)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Opphevelse av tilbakehold, stansing av operasjoner og anløpsforbud",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 16",
+     "tittel": "Opphevelse av tilbakehold og stansing av operasjoner",
+     "ledd": [
+      "Tilbakeholdelsen eller stansingen av en operasjon vil ikke bli opphevet før Sjøfartsdirektoratet fastslår at skipet kan seile eller gjenoppta operasjon uten\na. fare for passasjerenes eller besetningens helse og sikkerhet\nb. fare for andre skip\nc. at det foreligger en urimelig trussel for skade på miljøet.",
+      "Rederiet må i tillegg ha foretatt full innbetaling, eller gitt en tilstrekkelig garanti for refusjon, av utgiftene som eventuell kontroll for opphevelse medfører.",
+      "Tilbakeholdelsen eller stansingen av en operasjon som skyldes brudd på MLC vil ikke bli opphevet før\na. feil eller mangler er utbedret, eller\nb. Sjøfartsdirektoratet har godkjent skipets handlingsplan for korrigering av mangler og feil, og det er godtgjort at planen vil bli gjennomført snarest mulig."
+     ],
+     "endringer": [
+      "Endret ved forskrift 15 sep 2021 nr. 3116 (i kraft 19 sep 2021)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 17",
+     "tittel": "Opphevelse av første anløpsforbud",
+     "ledd": [
+      "Første anløpsforbud oppheves tidligst 3 måneder etter anløpsforbudet ble vedtatt.",
+      "For å få opphevet anløpsforbudet må tidsfristen som er fastsatt for tidligste opphevelse være utløpt og rederiet må\na. rette formell anmodning til Sjøfartsdirektoratet om opphevelse av anløpsforbudet\nb. legge ved dokumentasjon fra flaggstaten som bekrefter at en autorisert inspektør godkjent av flaggstatens myndighet har vært om bord og konstatert at skipet fullt ut oppfyller gjeldende konvensjonskrav\nc. legge ved dokumentasjon fra skipets eventuelle klassifikasjonsselskap som bekrefter at inspektøren som har skrevet rapporten har vært om bord og konstatert at skipet overholder de klassifikasjonsstandardene som er spesifisert av selskapet\nd. dokumentere at det er gjennomført ny utvidet kontroll i en norsk havn, eller i en havn som Sjøfartsdirektoratet har godkjent, som bekrefter at skipet fullt ut oppfyller gjeldende konvensjonskrav\ne. ha foretatt full innbetaling, eller gitt tilstrekkelig garanti for refusjon, av utgiftene som den utvidede kontrollen medfører.",
+      "Ved gjennomføring av ny kontroll i Norge skal rederiet, dennes representant i Norge eller skipsføreren begjære ny kontroll senest 14 dager før kontrollen ønskes gjennomført. Skipet skal ikke laste eller losse i havnen før kontrollen er utført og anløpsforbudet er opphevet."
+     ],
+     "endringer": [
+      "Endret ved forskrift 15 sep 2021 nr. 3116 (i kraft 19 sep 2021)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 18",
+     "tittel": "Opphevelse av andre anløpsforbud",
+     "ledd": [
+      "Når skipet er ilagt anløpsforbud for annen gang, er fristen for tidligste opphevelse tolv måneder regnet fra tidspunktet da vedtaket om andre anløpsforbud ble truffet. Anløpsforbudet kan ikke oppheves før vilkårene i § 17 andre og tredje ledd er oppfylt."
+     ],
+     "endringer": [
+      "Endret ved forskrift 20 des 2017 nr. 2379 (i kraft 1 jan 2018)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-4",
+     "nummer": "§ 19",
+     "tittel": "Opphevelse av tredje anløpsforbud",
+     "ledd": [
+      "Når skipet er ilagt anløpsforbud for tredje gang, er fristen for tidligste opphevelse tjuefire måneder regnet fra tidspunktet da vedtaket om tredje anløpsforbud ble truffet. Anløpsforbudet kan ikke oppheves før rederiet har dokumentere at\na. vilkårene i § 17 andre og tredje ledd er oppfylt\nb. skipet seiler under et flagg som på grunn av sin tilbakeholdelsesprosent verken står på Paris MOUs svarteliste eller gråliste\nc. skipets lovfestede sertifikat og eventuelt klassesertifikat er utstedt av en organisasjon eller organisasjoner som er anerkjent i samsvar med europaparlaments- og rådsforordning (EF) nr. 391/2009 av 23. april 2009 om felles regler og standarder for organisasjoner som skal inspisere og besikte skip\nd. skipet administreres av et rederi som har et høyt prestasjonsnivå i samsvar med bilag I, del I.1 til direktiv 2009/16/EF."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 20 des 2017 nr. 2379 (i kraft 1 jan 2018), 15 sep 2021 nr. 3116 (i kraft 19 sep 2021)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-5",
+     "nummer": "§ 20",
+     "tittel": "Opphevelse av nektelse av adgang til havn i medhold av § 15",
+     "ledd": [
+      "Nektelse av adgang til havn ilagt i medhold av § 15, oppheves når rederiet har forelagt dokumentasjon på at skipet fullt ut oppfyller alle gjeldende konvensjonskrav."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Bekymringsmeldinger, tips og rett til å klage",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 21",
+     "tittel": "Adgang til å påklage vedtak",
+     "ledd": [
+      "Rederiet eller dennes representant i Norge kan påklage et vedtak om tilbakeholdelse eller anløpsforbud truffet av Sjøfartsdirektoratet. Klagen skal rettes til Sjøfartsdirektoratet.",
+      "Innsendelse av klage medfører ikke at tilbakeholdelsen eller anløpsforbudet oppheves."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 22",
+     "tittel": "Bekymringsmeldinger",
+     "ledd": [
+      "Den som har sitt arbeid om bord kan melde inn bekymringer til Sjøfartsdirektoratet. Bekymringsmeldingene vil bli behandlet i samsvar med § 4 jf. direktiv 2009/16/EF artikkel 18 i og intern prosedyre."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-3",
+     "nummer": "§ 23",
+     "tittel": "Adgang til å klage på brudd på MLC",
+     "ledd": [
+      "Den som har sitt arbeid om bord på laste- eller passasjerskip kan klage på manglende oppfyllelse av krav i MLC. Klagen rettes til havnestatsinspektør i havnen hvor skipet har anløpt."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kap7",
+   "overskrift": "Kapittel 7. Avsluttende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 24",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Forskriften trer i kraft straks."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-2",
+     "nummer": "§ 25",
+     "tittel": "Opphevelse av og endring av andre forskrifter",
+     "ledd": [
+      "Forskrift 30. desember 2010 nr. 1849 om kontroll med fremmede skip og flyttbare innretninger i norsk havn mv. oppheves med virkning fra 24. november 2014."
+     ]
+    }
+   ]
+  }
+ ]
+}

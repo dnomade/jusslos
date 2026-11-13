@@ -1,0 +1,329 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2007-06-26-721",
+ "dokumentid": "SF/forskrift/2007-06-26-721",
+ "departement": [
+  "Samferdselsdepartementet"
+ ],
+ "etat": [
+  "Luftfartstilsynet"
+ ],
+ "kunngjort_i": "I 2007 hefte 6",
+ "ikraft": "2007-07-01",
+ "siste_endring_ikraft": "2024-03-21",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2024-03-21-498",
+   "tekst": "forskrift/2024-03-21-498"
+  }
+ ],
+ "endrer": "forskrift/1997-06-27-712",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1993-06-11-101/§4-1",
+   "tekst": "lov/1993-06-11-101/§4-1"
+  },
+  {
+   "ref": "lov/1993-06-11-101/§15-4",
+   "tekst": "lov/1993-06-11-101/§15-4"
+  },
+  {
+   "ref": "forskrift/1999-12-10-1273",
+   "tekst": "forskrift/1999-12-10-1273"
+  }
+ ],
+ "kunngjort": "2007-06-29",
+ "siste_rettelse": "2021-07-02 (tegnsetting i lister tilpasset universell utforming)",
+ "korttittel": "Selvbyggerforskriften (BSL B 3-1)",
+ "tittel": "Forskrift om selvbygde luftfartøy (selvbyggerforskriften), (BSL B 3-1)",
+ "annet": "Hjemmel: Fastsatt av Luftfartstilsynet 26. juni 2007 med hjemmel i lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven) § 4-1 og § 15-4, jf. delegeringsvedtak 10. desember 1999 nr. 1273.\nEndret ved forskrifter 25 juni 2021 nr. 2247 (i kraft 1 juli 2021), 21 mars 2024 nr. 498.\nRettet 02.07.2021 (tegnsetting i lister tilpasset universell utforming).",
+ "refid": "forskrift/2007-06-26-721",
+ "eli": "/eli/forskrift/2007/06/26/721",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2007-06-26-721",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "(Formål)",
+   "ledd": [
+    "Formålet med denne forskriften er å sikre at selvbygde luftfartøy er luftdyktig."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "(Virkeområde)",
+   "ledd": [
+    "Forskriften gjelder selvbygging av luftfartøy med maksimal tillatt startmasse (MTOM) på 2000 kg, samt fastsettelse av tekniske krav for slike luftfartøy.",
+    "Forskriften gjelder likevel ikke selvbygging av luftfartøy som bygges for å skulle anvendes etter forskrift 21. mars 2024 nr. 498 om sportsflyging."
+   ],
+   "endringer": [
+    "Endret ved forskrift 21 mars 2024 nr. 498."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "(Definisjoner)",
+   "ledd": [
+    "I forskriften her gjelder definisjoner i vedlegg 1 til dokumentasjonsforskriften.",
+    "I denne forskriften menes med:\na. Byggeleder: Person godkjent av Luftfartstilsynet til å lede selvbygging av luftfartøy.\nb. Kontrollør: Person godkjent av Luftfartstilsynet til å utføre kontroll med selvbygging av luftfartøy.\nc. AWS D17.1: American Welding Society's specification for fusion welding for aerospace applications."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "(Godkjennelse av søknad om selvbygging av luftfartøy)",
+   "ledd": [
+    "Luftfartstilsynet godkjenner søknad om selvbygging av luftfartøy i henhold til denne forskrift.",
+    "Søknad om godkjennelse om selvbygging av luftfartøy sendes Luftfartstilsynet. Søknaden skal inneholde nødvendige opplysninger for vurdering av byggeprosjektet omfattet i en byggehåndbok, samt navn, adresse og opplysninger om byggelederens og kontrollørens kvalifikasjoner. Søknaden skal være underskrevet av både byggeleder og kontrollør.",
+    "Ved selvbygging av luftfartøy skal byggeleder abonnere på servicemeddelelser og luftdyktighetspåbud."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "(Overføring av ansvar for selvbygging av luftfartøy)",
+   "ledd": [
+    "Dersom ansvaret for et pågående byggeprosjekt overføres til en ny byggeleder eller en ny kontrollør, skal søknad om godkjennelse av byggeleder eller kontrollør i henhold til denne forskriften, sendes Luftfartstilsynet."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "(Byggejournal)",
+   "ledd": [
+    "Det skal føres byggejournal over utført byggearbeid. Byggejournalen skal være signert av byggeleder og kontrollør. Dokumentasjon som verifiserer identitet, kvalitet og innkjøpskilde for anvendt råmateriale, standarddeler og øvrige komponenter skal vedlegges byggejournalen.",
+    "Byggejournalen skal følge luftfartøyet i dets levetid."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 7",
+   "tittel": "(Særlige konstruksjons- og ytelseskrav)",
+   "ledd": [
+    "Grenselastfaktorene for fly skal være minst +3,8/-1,5 G i normal kategori, og minst +3,5/-1,5 G for rotorluftfartøy i normal kategori. I utility-kategori er kravene +4,4/-1,75 G og i akroflyging-kategori +6/-3 G.",
+    "For luftfartøy som er konstruert slik at strukturen ikke gir de ombordværende tilstrekkelig beskyttelse ved et eventuelt velt, skal det monteres en veltebøyle eller annen innretning med minimum styrkekrav (lengderetning og vertikalretning nedover) på 9 G.",
+    "Stigeevnen i standardatmosfære ved havoverflaten når luftfartøyet er i startkonfigurasjon og er lastet til høyeste tillatte startmasse, skal minst være 300 fot i minuttet.",
+    "Ved bygging i samsvar med tidligere fastsatte konstruksjonskrav og hvor kravene i første til tredje ledd ikke er oppfylt, kan Luftfartstilsynet dispensere fra denne bestemmelsen."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-8",
+   "nummer": "§ 8",
+   "tittel": "(Motorkrav)",
+   "ledd": [
+    "Dersom ikke annet er spesifisert av luftfartøytypens konstruktør, fabrikant eller rettighetshaver skal motor og propell enten ha typesertifikat eller være godkjent av Luftfartstilsynet.",
+    "For motorer uten ordinært typesertifikat gjelder følgende:\na. motoren eller identisk motor skal ha vært i bruk i minimum 60 driftstimer,\nb. motoren skal ha vært brukt med samme elektriske system, drivstoffsystem og kjølesystem som i luftfartøyet,\nc. de 60 driftstimene kan gjennomføres i prøvebenk, i luftfartøy eller i en kombinasjon av disse.",
+    "Luftfartstilsynet skal godkjenne modifikasjon av flymotor.",
+    "Ved bygging i samsvar med tidligere fastsatte krav og hvor kravene i første til tredje ledd ikke er oppfylt, kan Luftfartstilsynet dispensere fra denne bestemmelsen."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-9",
+   "nummer": "§ 9",
+   "tittel": "(Utstyrskrav)",
+   "ledd": [
+    "Følgende utstyr skal finnes i luftfartøyet:\na. Oljetrykksindikator eller varselinnretning for lavt oljetrykk (gjelder ikke totaktsmotor),\nb. oljetemperaturindikator (gjelder ikke totaktsmotor),\nc. indikator for turteller,\nd. sylindertemperaturindikator (gjelder luftkjølte motorer med kjøleklaffer i motordeksel),\ne. brennstofftrykksindikator eller varselinnretning for lavt brennstofftrykk (gjelder ikke motor med gravitasjonsmating),\nf. manifoldtrykkindikator for motorer utstyrt med propell med variabel stigning eller kompressor/turbolader,\ng. oljemengdeindikator (peilepinne) for hver oljetank,\nh. indikator for temperatur av kjølevæske, eller sylindertopp i henhold til fabrikantens anbefaling for væskekjølte motorer og\ni. midje og skulderbelter i forsete, og midjebelte i baksete. Restaurerte luftfartøy kan utstyres som den originale modellen."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-10",
+   "nummer": "§ 10",
+   "tittel": "(Bakkeprøving)",
+   "ledd": [
+    "Når bygging av luftfartøy er sluttført, skal bakkeprøving utføres i henhold til et program utarbeidet av byggeleder.",
+    "Bakkeprøving skal også gjennomføres når det er utført større reparasjon eller større modifikasjon, dersom reparasjonen eller modifikasjonen kan ha påvirket luftfartøyets egenskaper.",
+    "Etter bakkeprøving er utført, skal sluttkontroll utføres av byggeprosjektets kontrollør."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-11",
+   "nummer": "§ 11",
+   "tittel": "(Teknisk journal og vekt- og balansedokumenter)",
+   "ledd": [
+    "Etter utført bakkeprøving skal det opprettes tekniske journaler og vekt- og balansedokumenter i henhold til dokumentasjonsforskriften og masseforskriften. Tekniske journaler skal merkes Eksperiment. Byggeleder oppretter reisedagbok i forbindelse med at det søkes om særskilt flygetillatelse.",
+    "Tekniske journaler og vekt- og balansedokumenter skal godkjennes av Luftfartstilsynet.",
+    "Luftfartstilsynet fastsetter krav til masse og balanse for luftfartøy i klasse Eksperiment på bakgrunn av masseforskriften (BSL B 1-3).",
+    "For å sikre at luftfartøy holdes i kontinuerlig luftdyktig stand kan Luftfartstilsynet fastsette ytterligere krav til masse og balanse."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-12",
+   "nummer": "§ 12",
+   "tittel": "(Merking og skilter)",
+   "ledd": [
+    "Selvbygd luftfartøy skal være utstyrt med nasjonalitets- og registreringsmerke, samt identifiseringsskilt i henhold til forskrift 23. november 2002 nr. 1332 om nasjonalitets- og registreringsmerking av luftfartøy (BSL A 1-8).",
+    "Ordet EKSPERIMENT eller EXPERIMENTAL skal plasseres i minst 30 mm høye latinske bokstaver uten ornamentering slik at ordet er lett synlig utenfra.",
+    "I selvbygd luftfartøy skal det monteres et skilt lett synlig for alle ombordværende med følgende tekst:",
+    "ADVARSEL",
+    "DET ER IKKE VERIFISERT AT DETTE LUFTFARTØYET FYLLER KRAVENE TIL LUFTDYKTIGHET I KLASSE NORMAL"
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-13",
+   "nummer": "§ 13",
+   "tittel": "(Prøveflygingsprogram)",
+   "ledd": [
+    "Prøveflygingsprogram skal godkjennes av Luftfartstilsynet. Bakkeprøving skal være avsluttet før søknad om prøveflyging sendes Luftfartstilsynet.",
+    "Prøveflyging kan ikke skje før fartøyet er foreløpig registrert i Norges luftfartøyregister i henhold til forskrift 5. februar 2004 nr. 393 om registrering av luftfartøy m.m., BSL A 1-5. Ved prøveflyging skal midlertidig registreringsbevis være om bord i luftfartøyet.",
+    "Søknad om prøveflyging skal sendes Luftfartstilsynet vedlagt forslag til prøveflygingsprogram og flygehåndbok. Søknaden skal inneholde den dokumentasjon som er nødvendig for å vurdere luftfartøyets luftdyktighet, prøveflygingsprogram og prøveflygere. Det skal vedlegges vedlikeholdsrapport når det søkes om særskilt flygetillatelse. I vedlikeholdsrapporten godtgjør prosjektets kontrollør ved sin underskrift at alle deler av byggearbeidet er gjennomført.",
+    "Etter at Luftfartstilsynet har foretatt besiktigelse av luftfartøyet, kan særskilt flygetillatelse utstedes med en gyldighetstid på 12 måneder. Etter søknad kan særskilt flygetillatelse fornyes.",
+    "Dersom det fastsettes operative begrensninger i prøveflygingsperioden herunder begrensning av antall personer om bord, skal disse innføres i den særskilte flygetillatelsen."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-14",
+   "nummer": "§ 14",
+   "tittel": "(Krav til prøveflygingstid)",
+   "ledd": [
+    "Selvbygd luftfartøy skal prøveflys i minst 25 timer.",
+    "Selvbygd motorglider skal prøveflys i minst 15 timer, hvorav 5 timer motortid.",
+    "Selvbygd seilfly skal prøveflys i minst 10 timer.",
+    "Restaurerte, reparerte eller modifiserte luftfartøy kan bli pålagt prøveflyging dersom Luftfartstilsynet finner det nødvendig."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-15",
+   "nummer": "§ 15",
+   "tittel": "(Klassifisering)",
+   "ledd": [
+    "Selvbygde luftfartøy klassifiseres i klasse Eksperiment."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-16",
+   "nummer": "§ 16",
+   "tittel": "(Luft- og miljødyktighetsbevis)",
+   "ledd": [
+    "Luftfartstilsynet utsteder luft- og miljødyktighetsbevis og tilsvarende tekniske tillatelser på bakgrunn av søknad fra eier eller bruker.",
+    "Søknad om luft- og miljødyktighetsbevis og permanent registreringsbevis skal sendes Luftfartstilsynet etter prøveflyging er gjennomført. Luftfartstilsynet utsteder særskilt luftdyktighetsbevis, amatørbygd."
+   ],
+   "endringer": [
+    "Endret ved forskrift 25 juni 2021 nr. 2247 (i kraft 1 juli 2021)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-17",
+   "nummer": "§ 17",
+   "tittel": "(Flygehåndbok)",
+   "ledd": [
+    "Selvbygde luftfartøy skal ha flygehåndbok med sjekklister som viser luftfartøyets bruk og utrustning. Eier eller bruker kan utarbeide flygehåndbok.",
+    "Flygehåndbok og tilhørende dokumentasjon, samt endring i flygehåndbok og tilhørende dokumentasjon skal godkjennes av Luftfartstilsynet.",
+    "Flygehåndbok og tilhørende dokumentasjon skal medbringes under flyging."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-18",
+   "nummer": "§ 18",
+   "tittel": "(Opphevet)",
+   "ledd": [],
+   "endringer": [
+    "Opphevet ved forskrift 25 juni 2021 nr. 2247 (i kraft 1 juli 2021)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-19",
+   "nummer": "§ 19",
+   "tittel": "(Vedlikeholdsprogram)",
+   "ledd": [
+    "Det skal utarbeides vedlikeholdsprogram for luftfartøyet. Vedlikeholdsprogrammet skal inneholde daglige og periodiske vedlikeholdsinstrukser.",
+    "Vedlikeholdsprogrammet skal godkjennes av Luftfartstilsynet."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-20",
+   "nummer": "§ 20",
+   "tittel": "(Større reparasjon og større modifikasjon)",
+   "ledd": [
+    "Ved større reparasjon og større modifikasjon skal Luftfartstilsynet godkjenne dokumentasjonen. Ved mindre modifikasjoner og mindre reparasjoner kan dokumentasjon utarbeides uten godkjennelse som nevnt i første punktum.",
+    "Modifikasjon eller reparasjon klassifiseres etter sertifiseringsforskriften (Part-21 artikkel A.91) og forelegges Luftfartstilsynet for uttalelse.",
+    "For å sikre at flymateriell holdes i kontinuerlig luftdyktig stand kan Luftfartstilsynet fastsette ytterligere krav til konstruksjon knyttet til modifikasjon og reparasjon av flymateriell."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-21",
+   "nummer": "§ 21",
+   "tittel": "(Produksjon knyttet til modifikasjon og reparasjon av flymateriell)",
+   "ledd": [
+    "Produksjon av flymateriell skal godkjennes av Luftfartstilsynet. Ved produksjon av flymateriell skal det brukes materiell av godkjent flykvalitet.",
+    "For å sikre at flymateriell holdes i kontinuerlig luftdyktig stand kan Luftfartstilsynet fastsette ytterligere krav til produksjon av flymateriell."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-22",
+   "nummer": "§ 22",
+   "tittel": "(Sveising)",
+   "ledd": [
+    "Sveising, slaglodding og lignende av flymateriell tillates bare utført av person som sveiser etter standard AWS D17.1."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-23",
+   "nummer": "§ 23",
+   "tittel": "(Import av påbegynt, selvbygd luftfartøy)",
+   "ledd": [
+    "Import av påbegynt, selvbygd luftfartøy skal godkjennes av Luftfartstilsynet.",
+    "Søknad om import sendes til Luftfartstilsynet. Søknad med tilhørende dokumentasjon skal være på engelsk eller et skandinavisk språk.",
+    "Søknaden skal inneholde teknisk dokumentasjon om luftfartøyet og luftfartøytypen. Teknisk dokumentasjon skal være i henhold til spesifikasjon som Luftfartstilsynet angir i hvert enkelt tilfelle.",
+    "Det må dokumenteres at kravene i § 7, § 8 og § 12 første ledd i denne forskrift er oppfylt."
+   ],
+   "endringer": [
+    "Endret ved forskrift 25 juni 2021 nr. 2247 (i kraft 1 juli 2021)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-24",
+   "nummer": "§ 24",
+   "tittel": "(Opphevet)",
+   "ledd": [],
+   "endringer": [
+    "Opphevet ved forskrift 25 juni 2021 nr. 2247 (i kraft 1 juli 2021)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-25",
+   "nummer": "§ 25",
+   "tittel": "(Dispensasjon)",
+   "ledd": [
+    "Luftfartstilsynet kan, når særlige grunner tilsier det, dispensere fra bestemmelsene i denne forskrift."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-26",
+   "nummer": "§ 26",
+   "tittel": "(Ikrafttredelse og opphevelse)",
+   "ledd": [
+    "Forskriften trer i kraft 1. juli 2007. Fra samme tidspunkt oppheves forskrift 27. juni 1997 nr. 712 om amatørbygging av luftfartøy."
+   ]
+  }
+ ]
+}

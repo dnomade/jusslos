@@ -1,0 +1,270 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2023-06-28-1154",
+ "dokumentid": "SF/forskrift/2023-06-28-1154",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Finansmarkedsavdelingen"
+ ],
+ "ikraft": "2023-07-01",
+ "siste_endring_ikraft": "2023-07-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2023-06-30-1181",
+   "tekst": "forskrift/2023-06-30-1181 fra 2023-07-01"
+  }
+ ],
+ "hjemmel": [
+  {
+   "ref": "lov/2022-12-16-91/§1-4",
+   "tekst": "lov/2022-12-16-91/§1-4"
+  },
+  {
+   "ref": "lov/2022-12-16-91/§2-1",
+   "tekst": "lov/2022-12-16-91/§2-1"
+  },
+  {
+   "ref": "lov/2022-12-16-91/§2-4",
+   "tekst": "lov/2022-12-16-91/§2-4"
+  },
+  {
+   "ref": "lov/2022-12-16-91/§4-2",
+   "tekst": "lov/2022-12-16-91/§4-2"
+  },
+  {
+   "ref": "lov/2022-12-16-91/§5-1",
+   "tekst": "lov/2022-12-16-91/§5-1"
+  },
+  {
+   "ref": "lov/2022-12-16-91/§5-2",
+   "tekst": "lov/2022-12-16-91/§5-2"
+  },
+  {
+   "ref": "lov/2022-12-16-91/§6-1",
+   "tekst": "lov/2022-12-16-91/§6-1"
+  },
+  {
+   "ref": "lov/2022-12-16-91/§6-2",
+   "tekst": "lov/2022-12-16-91/§6-2"
+  },
+  {
+   "ref": "lov/2022-12-16-91/§7-4",
+   "tekst": "lov/2022-12-16-91/§7-4"
+  },
+  {
+   "ref": "lov/2022-12-16-91/§8-1",
+   "tekst": "lov/2022-12-16-91/§8-1"
+  },
+  {
+   "ref": "lov/2022-12-16-91/§10-2",
+   "tekst": "lov/2022-12-16-91/§10-2"
+  }
+ ],
+ "kunngjort": "2023-06-29 15:00",
+ "korttittel": "Låneformidlingsforskriften",
+ "tittel": "Forskrift om låneformidling (låneformidlingsforskriften)",
+ "annet": "Hjemmel: Fastsatt av Finansdepartementet 28. juni 2023 med hjemmel i lov 16. desember 2022 nr. 91 om låneformidling (låneformidlingsloven) § 1-4, § 2-1, § 2-4, § 4-2, § 5-1, § 5-2, § 6-1, § 6-2, § 7-4, § 8-1 og § 10-2.\nEØS-henvisninger: EØS-avtalen vedlegg XIX nr. 7ha (forordning (EU) nr. 1125/2014).\nEndret ved forskrift 30 juni 2023 nr. 1181 (i kraft 1 juli 2023).",
+ "refid": "forskrift/2023-06-28-1154",
+ "eli": "/eli/forskrift/2023/06/28/1154",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2023-06-28-1154",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Virkeområde",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1-1",
+     "tittel": "Forskriftens virkeområde",
+     "ledd": [
+      "Forskriften gjelder foretak og virksomhet som er omfattet av lov om låneformidling. Forskriftens § 2-2 gjelder finansforetak som har avtale med aksessoriske låneformidlere og finansagenter."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 1-2",
+     "tittel": "Særlig regler om låneformidlingslovens virkeområde",
+     "ledd": [
+      "Låneformidlingsloven gjelder ikke der en kommune eller Husbanken er kredittyter."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 1-3",
+     "tittel": "Presisering av virksomhetsbegrensningen i låneformidlingsloven § 7-6",
+     "ledd": [
+      "Låneformidlingsloven § 7-6 er ikke til hinder for formidling av lån gjennom plattformer for lånebasert folkefinansiering som skjer i tråd med finansforetaksforskriften § 2-18, så fremt det aktuelle låneformidlingsforetakets tillatelse etter låneformidlingsloven § 2-2 omfatter slik låneformidling."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Registrering",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 2-1",
+     "tittel": "Krav til melding til Finanstilsynet for aksessoriske låneformidlere",
+     "ledd": [
+      "Fysiske og juridiske personer som formidler lån til forbrukere på vegne av ett eller flere foretak, må i melding til Finanstilsynet etter låneformidlingsloven § 2-4 jf. § 2-1 (2) bokstav c, gi opplysninger om hvilke foretak de formidler lån på vegne av."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 2-2",
+     "tittel": "Krav til melding til Finanstilsynet for finansforetak",
+     "ledd": [
+      "(1) Finansforetak som har avtale om formidling av lån med aksessoriske låneformidlere eller finansagentforetak, må bekrefte dette i melding til Finanstilsynet før disse kan formidle lån på foretakets vegne.",
+      "(2) Ved opphør av avtale om formidling av lån til forbrukere må finansforetaket gi melding til Finanstilsynet om dette.",
+      "(3) Bekreftelse etter første og andre ledd skal gis skriftlig og på den måten Finanstilsynet bestemmer."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Aksessoriske låneformidlere",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 3-1",
+     "tittel": "Krav til kunnskap og kompetanse",
+     "ledd": [
+      "(1) Ved aksessorisk formidling av lån til forbrukere skal den faktiske ledelsen som er ansvarlig for låneformidlingsvirksomheten, ha nødvendige kvalifikasjoner og nødvendig yrkeserfaring til å utøve låneformidlingsoppgavene.",
+      "(2) Ansatte som formidler lån til forbrukere, skal ha den kunnskapen og kompetansen som er nødvendig for virksomheten som skal drives, og skal ha gjennomført nødvendig opplæring godkjent av finansforetak det formidles lån for."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 3-2",
+     "tittel": "Øvrige krav til aksessoriske låneformidlere",
+     "ledd": [
+      "Låneformidlingsloven § 7-4, § 7-6 og § 7-7 gjelder for aksessoriske låneformidlere."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Krav til ledelsen og ansatte i låneformidlingsforetak",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 4-1",
+     "tittel": "Krav til styret og daglig leder",
+     "ledd": [
+      "Et låneformidlingsforetak skal ha en daglig leder og et styre på minst tre medlemmer. Daglig leder kan ikke være medlem av styret."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 4-2",
+     "tittel": "Kvalifikasjonskrav",
+     "ledd": [
+      "(1) Kvalifikasjonskrav som nevnt i låneformidlingsloven § 5-1 innebærer krav til faglige kvalifikasjoner og yrkeserfaring.",
+      "(2) Yrkeserfaring kan ikke alene danne grunnlaget for oppfyllelse av kravet til kunnskap og kompetanse."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 4-3",
+     "tittel": "Minstekrav til kunnskap og kompetanse for formidling av boliglån",
+     "ledd": [
+      "(1) I låneformidlingsforetak skal ansatte som formidler boliglån eller gir råd om boliglån samlet sett ha nødvendig kunnskap og kompetanse om:\n1. Boliglån og tilleggstjenester som vanligvis tilbys sammen med boliglån.\n2. Lovgivningen som gjelder avtaler om boliglån med forbrukere, og særlig om forbrukervernregler.\n3. Prosessen ved kjøp av bolig.\n4. Verdsettelsesvurderingen av fast eiendom som stilles som sikkerhet for boliglån.\n5. Tinglysning.\n6. Boligmarkedet.\n7. Regler om god forretningsskikk.\n8. Prosedyrene for kredittvurdering av forbrukere.\n9. Finans og økonomi, herunder om privatøkonomi.",
+      "(2) Denne bestemmelsen gjelder tilsvarende for styremedlemmer, daglig leder og faktisk leder i låneformidlingsforetak som formidler boliglån."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 4-4",
+     "tittel": "Filial av låneformidlingsforetak med hovedsete i en annen EØS-stat",
+     "ledd": [
+      "(1) Bestemmelsene i § 4-2 og § 4-3 gjelder tilsvarende for ansatte i låneformidlingsforetak med hovedsete i annen EØS-stat som har etablert filial her i riket og som formidler boliglån.",
+      "(2) Bestemmelsen i § 4-3 første ledd gjelder for personene som utgjør filialens ledelse."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-5",
+     "nummer": "§ 4-5",
+     "tittel": "Grensekryssende virksomhet fra annen EØS-stat",
+     "ledd": [
+      "Bestemmelsene i § 4-2 og § 4-3 første ledd nr. 2, 3, 5 og 6 gjelder tilsvarende for ansatte i låneformidlingsforetak som driver grensekryssende boliglånsformidling etter låneformidlingsloven § 4-2."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Forsikring",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 5-1",
+     "tittel": "Gjennomføring av delegert kommisjonsforordning som angir minstekrav til størrelse på låneformidlers ansvarsforsikring",
+     "ledd": [
+      "EØS-avtalen vedlegg XIX nr. 7ha (delegert kommisjonsforordning (EU) nr. 1125/2014 av 19. september 2014 om utfylling av europaparlaments- og rådsdirektiv 2014/17/EU med hensyn til tekniske reguleringsstandarder for minstebeløpet som kredittformidleres yrkesansvarsforsikring eller tilsvarende garanti skal dekke), gjelder som forskrift med de tilpasninger som følger av vedlegg XIX, protokoll 1 til avtalen og avtalen for øvrig."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Ikrafttredelse og overgangsregler",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 6-1",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Forskriften trer i kraft 1. juli 2023."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 6-2",
+     "tittel": "Overgangsregler",
+     "ledd": [
+      "(1) Foretak som per 1. juli 2023 er registrert som låneformidlingsforetak etter finansforetaksloven § 2-18 (opphevet ved ikrafttredelse av låneformidlingsloven) og driver virksomhet som krever tillatelse etter låneformidlingsloven § 2-2 jf. § 2-1, må oppfylle lovens krav innen ett år etter lovens ikrafttredelse.",
+      "(2) Foretak som per 1. juli 2023 er registrert som låneformidlingsforetak etter finansforetaksloven § 2-18 (opphevet ved ikrafttredelse av låneformidlingsloven) og driver virksomhet som krever registrering hos Finanstilsynet etter reglene i låneformidlingsloven § 2-4 jf. § 2-1 tredje ledd, må oppfylle lovens krav innen ett år fra lovens ikrafttredelse.",
+      "(3) Finansagenter som må ha tillatelse etter låneformidlingsloven § 2-2 jf. § 2-1, finansagenter som skal registreres hos Finanstilsynet etter reglene i låneformidlingsloven § 2-3 og aksessoriske låneformidlere som skal registreres etter låneformidlingsloven § 2-4 jf. § 2-1 annet ledd, må oppfylle lovens krav innen ett år etter lovens ikrafttredelse. Det samme gjelder for finansforetakenes plikter etter denne forskrift § 2-2.",
+      "(4) Kvalifikasjonskravene som nevnt i låneformidlingsloven § 5-1 og § 5-2, jf. denne forskrift § 4-2 til § 4-5, skal for årene 2023 og 2024 være gjennomført og dokumentert innen 31. desember 2024."
+     ],
+     "endringer": [
+      "Endret ved forskrift 30 juni 2023 nr. 1181 (i kraft 1 juli 2023)."
+     ]
+    }
+   ]
+  }
+ ]
+}

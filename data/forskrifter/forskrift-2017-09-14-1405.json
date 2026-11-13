@@ -1,0 +1,109 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2017-09-14-1405",
+ "dokumentid": "SF/forskrift/2017-09-14-1405",
+ "departement": [
+  "Arbeids- og inkluderingsdepartementet"
+ ],
+ "etat": [
+  "Velferdspolitisk avd."
+ ],
+ "ikraft": "2017-10-01",
+ "siste_endring_ikraft": "2019-07-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2019-07-29-1032",
+   "tekst": "forskrift/2019-07-29-1032 fra 2019-07-01"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1997-02-28-19/§9-11",
+   "tekst": "lov/1997-02-28-19/§9-11"
+  }
+ ],
+ "kunngjort": "2017-09-19 16:10",
+ "korttittel": "Forskrift om gradering av pleiepenger",
+ "tittel": "Forskrift om gradering av pleiepenger",
+ "annet": "Hjemmel: Fastsatt av Arbeids- og sosialdepartementet 14. september 2017 med hjemmel i lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven) § 9-12 sjuende ledd.\nTilføyd hjemmel: Lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven) § 9-11.\nEndret ved forskrifter 3 jan 2019 nr. 13, 29 juli 2019 nr. 1032 (i kraft 1 juli 2019).",
+ "refid": "forskrift/2017-09-14-1405",
+ "eli": "/eli/forskrift/2017/09/14/1405",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2017-09-14-1405",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Virkeområde",
+   "ledd": [
+    "Forskriften gir nærmere regler om gradering av pleiepenger ved pleie av syke barn etter folketrygdloven kapittel 9."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Definisjoner",
+   "ledd": [
+    "Med normalarbeidsuke etter folketrygdloven § 9-11 andre ledd menes en arbeidsuke på 37,5 timer.",
+    "Med normalarbeidsdag menes en arbeidsdag på 7,5 timer. En arbeidsdag utgjør 20 prosent av en normal arbeidsuke.",
+    "Med etablert tilsyns- og avlastningsordning etter folketrygdloven § 9-11 første ledd menes faste, regelmessige opphold i tilsyns- og avlastningsordninger. Besøk av mer sporadisk, uregelmessig og kort varighet anses ikke som etablert tilsyns- og avlastningsordning. Fast og regelmessig tilsyn på mindre enn 10 prosent per uke skal ikke medregnes."
+   ],
+   "endringer": [
+    "Endret ved forskrift 29 juli 2019 nr. 1032 (i kraft 1 juli 2019)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Fastsetting av pleiepengegrad",
+   "ledd": [
+    "Pleiepenger graderes ned for hver time barnet er i en etablert tilsyns- og avlastningsordning, målt mot en normal arbeidsuke på 37,5 timer. Det skal ikke tas hensyn til timer med tilsyn og avlastning som overstiger 7,5 timer i løpet av en arbeidsdag.",
+    "Timeantallet barnet har tilsyn og avlastning av andre, summeres på ukesbasis. Dersom vilkåret i folketrygdloven § 9-11 tredje ledd er oppfylt, skal de timene omsorgspersonen ikke kan arbeide som følge av nattevåk og beredskap trekkes fra dette timetallet.",
+    "Timeantallet fastsatt etter første og andre ledd omregnes til prosent ved å gange med 100 og dele på 37,5 timer (tilsynsgraden). Pleiepengegraden per uke fastsettes ved å trekke tilsynsgraden fra 100 prosent og avrundes til nærmeste hele prosent."
+   ],
+   "endringer": [
+    "Endret ved forskrift 29 juli 2019 nr. 1032 (i kraft 1 juli 2019)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Tap av pensjonsgivende inntekt",
+   "ledd": [
+    "Det kan ikke ytes pleiepenger utover det vedkommende har tapt i pensjonsgivende inntekt, se folketrygdloven § 9-3."
+   ],
+   "endringer": [
+    "Endret ved forskrift 3 jan 2019 nr. 13 (i kraft 1 jan 2019, tidligere § 6)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Gradering når to omsorgspersoner tar ut graderte pleiepenger samtidig",
+   "ledd": [
+    "Dersom to omsorgspersoner tar ut pleiepenger samtidig, må hver av dem minst ta ut 20 prosent pleiepenger."
+   ],
+   "endringer": [
+    "Endret ved forskrift 3 jan 2019 nr. 13 (i kraft 1 jan 2019, tidligere § 7)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Denne forskriften trer i kraft 1. oktober 2017."
+   ],
+   "endringer": [
+    "Endret ved forskrift 3 jan 2019 nr. 13 (i kraft 1 jan 2019, tidligere § 8)."
+   ]
+  }
+ ]
+}

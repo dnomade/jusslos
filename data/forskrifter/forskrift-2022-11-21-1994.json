@@ -1,0 +1,481 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2022-11-21-1994",
+ "dokumentid": "SF/forskrift/2022-11-21-1994",
+ "departement": [
+  "Klima- og miljødepartementet"
+ ],
+ "etat": [
+  "Bærekraft- og omstillingsavdelingen"
+ ],
+ "ikraft": "2022-11-21",
+ "siste_endring_ikraft": "2022-12-08",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2022-12-08-2115",
+   "tekst": "forskrift/2022-12-08-2115"
+  }
+ ],
+ "hjemmel": [],
+ "kunngjort": "2022-11-22 14:25",
+ "tittel": "Forskrift om midlertidig ordning for energitilskudd til næringslivet som følge av ekstraordinære strømutgifter",
+ "annet": "Hjemmel: Fastsatt av Klima- og miljødepartementet 21. november 2022 til gjennomføring av Stortingets årlige budsjettvedtak.\nEndret ved forskrifter 24 nov 2022 nr. 2011, 8 des 2022 nr. 2115.",
+ "refid": "forskrift/2022-11-21-1994",
+ "eli": "/eli/forskrift/2022/11/21/1994",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2022-11-21-1994",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1-1",
+     "tittel": "Formål",
+     "ledd": [
+      "Formålet med forskriften er å etablere en midlertidig ordning for tilskudd til strømintensive foretak som i en overgangsperiode behøver hjelp til å omstille seg i lys av høye strømpriser."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 1-2",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Forskriften gjelder på norsk territorium."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 1-3",
+     "tittel": "Tilskuddsperioder og søknadsfrister",
+     "ledd": [
+      "(1) Tilskuddsperioden etter denne forskrift er 1. oktober 2022 til 31. desember 2022.",
+      "(2) Frist for å søke om tilskudd etter denne forskriften er 11. desember 2022."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 1-4",
+     "tittel": "Forvaltning av ordningen",
+     "ledd": [
+      "(1) Enova SF (Enova) er tilskuddsmyndighet for ordningen.",
+      "(2) Tilskuddsmyndigheten treffer vedtak om tilskudd etter denne forskriften. Vedtak kan treffes basert på helautomatisert saksbehandling.",
+      "(3) Forvaltningslovens bestemmelser om behandlingsmåten i forvaltningssaker gjelder for behandling av saker etter denne forskriften. Klima- og miljødepartementet er klageinstans."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-5",
+     "nummer": "§ 1-5",
+     "tittel": "Opplysningsplikt",
+     "ledd": [
+      "Den som søker om tilskudd etter denne forskrift, skal gi tilskuddsmyndigheten riktige og fullstendige opplysninger. Søkeren skal opptre aktsomt og lojalt, og skal varsle tilskuddsmyndigheten om eventuelle feil."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-6",
+     "nummer": "§ 1-6",
+     "tittel": "Definisjon av konsern",
+     "ledd": [
+      "(1) Et morselskap utgjør sammen med ett eller flere datterselskaper et konsern. Ved vurderingen av om det foreligger et konsern, legges situasjonen per 1. oktober 2022 til grunn.",
+      "(2) Et foretak er et morselskap når det eier så mange aksjer eller andeler i et annet foretak at det representerer mer enn 50 prosent av stemmene i det andre foretaket. Det andre foretaket anses som datterselskap. Et foretak der et datterselskap alene eller sammen med morselskapet og/eller ett eller flere andre datterselskaper eier så mange aksjer eller andeler at de til sammen representerer mer enn 50 prosent av stemmene i foretaket, anses også som datterselskap.",
+      "(3) Dersom en personlig eier alene eller sammen med en eller flere nærstående eier så mange aksjer eller andeler at det representerer mer enn 50 prosent av stemmene i to eller flere selskaper eller morselskap, skal disse selskapene og deres datterselskaper også anses som et konsern ved søknad om tilskudd.",
+      "(4) Med nærstående, jf. tredje ledd, menes foretak den personlige eieren eier så mange aksjer eller andeler i at det representerer mer enn 50 prosent av stemmene, eller dette foretakets datterselskap. Med nærstående menes også den personlige eierens foreldre, søsken, barn, barnebarn, ektefelle, samboer, ektefelles foreldre og samboers foreldre."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-7",
+     "nummer": "§ 1-7",
+     "tittel": "Definisjon av person med ledende rolle",
+     "ledd": [
+      "Med person med ledende rolle knyttet til foretaket menes daglig leder, medlemmer av styret, innehaver av enkeltpersonforetak, deltakere i ansvarlige selskap, hovedaksjonær eller den som kontrollerer selskapet indirekte selv eller gjennom nærstående som definert i aksjeloven § 1-5 første ledd, eller med annen særskilt tilknytning til virksomheten."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-8",
+     "nummer": "§ 1-8",
+     "tittel": "Definisjoner av beregningsrelaterte størrelser",
+     "ledd": [
+      "(1) Med omsetning menes inntekter fra salg av varer som er levert og tjenester som er utført, og som inngår i bedriftens ordinære resultat.\na. Omsetningen omfatter ikke skatter og avgifter (herunder merverdiavgift) som er direkte knyttet til salget av varer/tjenester.\nb. Ekstraordinære inntekter som ikke har sammenheng med den ordinære virksomheten (som salg av større eiendeler o.l.) anses ikke som omsetning.\nc. Avkastning fra kapital og andre finansielle eiendeler anses ikke som omsetning. Det samme gjelder annen avkastning av fast eiendom enn inntekt ved utleie.",
+      "(2) Som kostnader til strøm eller fjernvarme regnes fakturerte utgifter til strøm eller fjernvarme for den relevante perioden, herunder forbruk, nettleie, avgifter og ev. påslag. Merverdiavgift som er fradragsberettiget for foretaket i merverdiavgiftsoppgjøret kan ikke inngå som kostnader til strøm eller fjernvarme.",
+      "(3) Som forbruk av strøm eller fjernvarme regnes fakturert antall kilowattimer (kWh) forbruk for den relevante perioden.",
+      "(4) Som støtteberettiget pris på strøm regnes gjennomsnittlig fakturert pris i kroner per kWh vektet opp mot forbruk for den relevante perioden, eksklusive nettleie, påslag, fastledd og avgifter. Støtteberettiget pris på strøm skal beregnes som et aritmetisk gjennomsnitt av fakturerte priser gjennom perioden, ved at fakturerte priser for hver av de ulike periodene i tilskuddsperioden multipliseres med forbruket av strøm i samme periode, og summen av disse produktene divideres på samlet forbruk av strøm for hele tilskuddsperioden."
+     ],
+     "endringer": [
+      "Endret ved forskrift 24 nov 2022 nr. 2011."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Vilkår for tilskudd",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 2-1",
+     "tittel": "Vilkår om høy strømintensitet",
+     "ledd": [
+      "(1) Foretak må ha en strømintensitet på 3 prosent eller mer i første halvår 2022 for å kunne søke tilskudd fra ordningen, jf. andre ledd.",
+      "(2) Et foretaks strømintensitet for en gitt periode beregnes ved at foretakets kostnader til strøm og fjernvarme for perioden, jf. § 1-8 andre ledd, divideres med foretakets omsetning for perioden, jf. § 1-8 første ledd."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 2-2",
+     "tittel": "Vilkår om støtteberettiget forbruk i område med høy strømpris",
+     "ledd": [
+      "Foretakets støtteberettigede forbruk av strøm og fjernvarme må skje i et strømprisområde hvor gjennomsnittlig elspotpris per kWh for 3. kvartal 2022 er minst doblet sammenlignet med samme periode i 2021. Gjennomsnittlig elspotpris etter første punktum skal beregnes som et aritmetisk gjennomsnitt av alle timepriser i de relevante periodene."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 2-3",
+     "tittel": "Vilkår om gjennomføring av energikartlegging",
+     "ledd": [
+      "(1) Et foretak kan bare søke om tilskudd dersom det har gjennomført energikartlegging.",
+      "(2) Energikartleggingen skal gi en oversikt over hvilke energibærere foretaket benytter, energimengden som benyttes og kostnader knyttet til energibruken fordelt på energibærere. Foretakets energibruk skal fordeles på hovedposter som for eksempel bygningsoppvarming, belysning og prosesser. Minimum tre aktuelle tiltak for å redusere energibruken skal identifiseres og settes opp i en prioritert rekkefølge.",
+      "(3) Tilskuddsmyndigheten kan fastsette nærmere krav til gjennomføring og dokumentasjon av energikartlegging etter første og andre ledd."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 2-4",
+     "tittel": "Vilkår om lovlig aktivitet",
+     "ledd": [
+      "Foretaket må utøve lovlig aktivitet for å motta tilskudd under ordningen. Med lovlig aktivitet i første punktum menes at foretaket må ha de tillatelser, godkjenninger eller bevillinger som kreves for driften."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 2-5",
+     "tittel": "Vilkår om registrering",
+     "ledd": [
+      "(1) For ulike kategorier virksomheter kreves følgende registering for å kunne søke om tilskudd:\na. Foretak med registreringsplikt etter foretaksregisterloven § 2-1, må være registrert i Foretaksregisteret.\nb. Enkeltpersonforetak som ikke har registreringsplikt i Foretaksregisteret, må være registrert i Enhetsregisteret.\nc. Stiftelser som ikke har registreringsplikt i Foretaksregisteret, må være registrert i Merverdiavgiftsregisteret eller Arbeidsgiver- og arbeidstakerregisteret (Aa-registeret).",
+      "(2) Foretaket må være registrert i tråd med første ledd senest 31. desember 2021."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-6",
+     "nummer": "§ 2-6",
+     "tittel": "Vilkår om skatteplikt",
+     "ledd": [
+      "(1) Foretaket må være skattepliktig til Norge, jf. skatteloven § 2-2 første ledd, eller deltakerne i foretaket må være skattepliktig til Norge for selskapets inntekter, jf. skatteloven § 2-2 tredje ledd. Ordningen omfatter også tilfeller der foretaket eller foretakets eier skattlegges i Norge for virksomhet her etter skatteloven § 2-3 første ledd bokstav b.",
+      "(2) Institusjon eller organisasjon som er unntatt fra skatteplikt etter skatteloven § 2-32, omfattes likevel av ordningen hvis hoveddelen av virksomheten er skattepliktig, eller dersom organisasjonen har en omsetning på minst 50 000 kroner årlig.",
+      "(3) Foretak som er unntatt fra skatteplikt etter skatteloven § 2-30, er ikke omfattet av ordningen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-7",
+     "nummer": "§ 2-7",
+     "tittel": "Vilkår om utbyttebegrensning",
+     "ledd": [
+      "(1) Et foretak kan ikke foreta disposisjoner som nevnt i annet ledd før det har tilbakebetalt tilskudd det har mottatt i medhold av denne forskriften. Dette gjelder for vedtak eller utbetalinger fra forskriften trer i kraft t.o.m. 31. desember 2023. Gjennomføring av tilbakebetaling er regulert i § 5-3.",
+      "(2) Følgende disposisjoner omfattes:\na. vedtak om eller utbetaling av utbytte, eller vedtak eller gjennomføring av andre disposisjoner som skal ligge innenfor rammen av de midler selskapet kan benytte til utdeling av utbytte etter aksjeloven eller allmennaksjeloven § 8-1,\nb. vedtak om eller gjennomføring av utdelinger etter selskapsloven § 2-26 tredje ledd,\nc. vedtak om eller gjennomføring av disposisjoner etter samvirkelova § 27 til § 30, jf. samvirkelova § 26,\nd. gjennomføring av andre disposisjoner som etter skatteloven § 10-11 skal regnes som utbytte, og\ne. utdeling etter aksjeloven eller allmennaksjeloven § 16-9, eller utdeling etter samvirkelova § 135.",
+      "(3) For foretak i konsern som har søkt om tilskudd samlet som om konsernet var ett foretak, jf. § 3-4 gjelder tilbakebetalingsplikten for det enkelte foretak som har blitt fordelt en andel av konsernets tilskudd i henhold til den endelige oversikten etter § 3-4. Foretakets tilbakebetalingsplikt er begrenset til det fordelte beløpet. Tilbakebetalingsplikten oppstår og gjelder for det enkelte foretak, og er uavhengig av eventuell tilbakebetalingsplikt for øvrige foretak i konsernet. Det er det ansvarlige foretaket, jf. § 3-4, andre ledd, som er ansvarlig for tilbakebetaling.",
+      "(4) Hvis foretaket eller dets eiere, medlemmer eller deltakere gjør disposisjoner som innebærer en omgåelse av første til tredje ledd, skal tilskuddet tilbakebetales etter reglene i § 5-3. En disposisjon eller flere sammenhengende disposisjoner innebærer en omgåelse hvis omstendighetene tilsier at hovedformålet var å unngå tilbakebetalingsplikt etter første ledd."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-8",
+     "nummer": "§ 2-8",
+     "tittel": "Foretak som ikke er omfattet",
+     "ledd": [
+      "Følgende foretak er ikke omfattet av den midlertidige tilskuddsordningen:\na. Foretak som er skattepliktige etter petroleumsskatteloven § 5.\nb. Kraftintensiv virksomhet, definert som foretak med et strømforbruk på over 100 GWh per år i 2021 eller forventet i 2022.\nc. Foretak som utøver aktiviteter innenfor næringshovedgruppene 35.1 Produksjon, overføring og distribusjon av elektrisitet og 35.3 Damp og varmtvannsforsyning i Norsk standard for næringsgruppering (SN2007).\nd. Boligselskaper (borettslag, boligsameier, boligaksjeselskap eller tilsvarende) som er støtteberettiget under strømstøtteordningen for husholdninger og boligselskap, jf. strømstønadsloven og midlertidig forskrift om strømstønad til boligselskap § 4.\ne. Foretak som er støtteberettiget under strømstøtteordningen for jordbruksforetak, veksthus og vanningslag, jf. midlertidig forskrift om støtte som følge av ekstraordinære utgifter til elektrisk kraft for jordbruksforetak, veksthus og vanningslag § 3 og § 4.\nf. Foretak som er støtteberettiget under strømstøtteordningen for frivillige lag og organisasjoner, jf. forskrift for strømstøtteordningen for frivillig sektor.\ng. Foretak som mottar støtte fra ordningen for å avhjelpe Merkur-butikker i møte med høye strømpriser i perioden september til desember 2022, jf. Innst.34 S (2022–2023)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-9",
+     "nummer": "§ 2-9",
+     "tittel": "Forholdet til sanksjoner som svar på Russlands militære aggresjon mot Ukraina",
+     "ledd": [
+      "(1) Det kan ikke gis tilskudd etter denne forskriften til foretak som er underlagt sanksjoner som svar på Russlands militære aggresjon mot Ukraina, herunder personer, enheter eller organer som er underlagt sanksjoner, foretak som eies eller kontrolleres av personer, enheter eller organer som er underlagt sanksjoner, eller foretak som driver virksomhet som er underlagt sanksjoner, så langt støtten ville undergrave målene med sanksjonene.",
+      "(2) Med sanksjoner i første ledd menes sanksjoner som er vedtatt av EU og som Norge slutter opp om, jf. blant annet forskrift om restriktive tiltak vedrørende handlinger som undergraver eller truer Ukrainas territorielle integritet, suverenitet, uavhengighet og stabilitet og forskrift om restriktive tiltak i lys av situasjonen i Belarus og Belarus' medvirkning i Russlands aggresjon mot Ukraina."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-10",
+     "nummer": "§ 2-10",
+     "tittel": "Øvrige vilkår",
+     "ledd": [
+      "(1) For å kunne søke om tilskudd må foretaket videre oppfylle følgende vilkår:\na. Skatter, avgifter og forskuddstrekk forfalt før 15. november 2022 skal være betalt.\nb. Skattemelding for formues- og inntektsskatt for 2021 må være levert for foretak som er skattepliktig, jf. § 2-6. Dersom foretaket er regnskapspliktig, må også årsregnskap for 2021 være levert. Skattemelding for 2021 som er levert etter skjønnsfastsetting godtas når nytt skatteoppgjør bygger på skattemeldingen.\nc. Foretaket kan ikke være under konkursbehandling, jf. konkursloven kapittel VIII, eller under avvikling, enten frivillig eller ved tvang. Tilsvarende gjelder for innehaver av enkeltpersonforetak og deltaker i ansvarlig selskap.\nd. Personer med ledende roller i foretaket kan ikke være ilagt konkurskarantene, jf. konkursloven kapittel XVIII."
+     ],
+     "endringer": [
+      "Endret ved forskrift 24 nov 2022 nr. 2011."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-11",
+     "nummer": "§ 2-11",
+     "tittel": "Viderefakturering av strømforbruk",
+     "ledd": [
+      "(1) Et foretak kan søke om tilskudd på bakgrunn av kostnader til strøm eller fjernvarme som fremgår av faktura utstedt til foretaket og/eller faktura utstedt til et annet foretak, men hvor kostnadene til strøm eller fjernvarme er viderefakturert til førstnevnte foretak. Med dette menes at fakturaer for forbruk av strøm eller fjernvarme som skal legges til grunn for beregning av strømintensitet jf. § 2-1, for vurderingen av om vilkåret i § 2-2 er oppfylt, og i beregning av tilskudd etter § 3-1, skal være utstedt til søker eller til foretaket som har viderefakturert kostnadene til strøm og fjernvarme til søker.",
+      "(2) Det kan ikke søkes om tilskudd flere ganger for de samme kostnadene til strøm eller fjernvarme, eller det samme forbruket av strøm eller fjernvarme. Med dette menes at et foretak som viderefakturerer kostnader til strøm eller fjernvarme til et annet foretak ikke kan søke om tilskudd på bakgrunn av de viderefakturerte kostnadene, dersom sistnevnte foretak søker om tilskudd basert på de viderefakturerte kostnadene.",
+      "(3) Dersom det søkes om tilskudd på bakgrunn av viderefakturerte strøm- og/eller fjernvarmekostnader og det av faktura utstedt til søker ikke fremgår de relevante kostnadene til strøm eller fjernvarme jf. § 1-8 andre ledd, det relevante forbruket av strøm eller fjernvarme jf. § 1-8 tredje ledd, eller støtteberettiget pris på strøm jf. § 1-8 fjerde ledd, skal disse størrelsene beregnes med bakgrunn i underliggende faktura fra strømleverandør og/eller nettselskap eller fjernvarmeleverandør som er utstedt til foretaket som har viderefakturert strøm- og/eller fjernvarmekostnadene, i tråd med hvordan kostnadene er fordelt til søker.\na. Støtteberettiget pris skal i beregninger etter dette ledd regnes som gjennomsnittlig fakturert pris i kroner per kWh vektet opp mot forbruk for den relevante perioden, eksklusive nettleie, påslag, fastledd og avgifter, slik det fremgår av faktura fra strømleverandør og/eller nettselskap eller fjernvarmeleverandør utstedt til foretaket som har viderefakturert kostnadene til strøm eller fjernvarme.\nb. Tilskuddsmyndigheten kan fastsette nærmere bestemmelser om beregninger etter dette ledd.",
+      "(4) Søker skal bekrefte og dokumentere at vilkåret i andre ledd er oppfylt. Søker skal dokumentere eventuelle beregninger etter tredje ledd. § 4-4 sjette og sjuende ledd skal gjelde tilsvarende for dokumentasjon etter dette ledd.",
+      "(5) Foretak som formelt anses som sluttbruker av strøm eller fjernvarme og som mottar tilskudd under denne forskriften, men som viderefakturerer sine utgifter til reelle sluttbrukere av strømmen eller fjernvarmen, eksempelvis til leietakere, skal sørge for at tilskudd kommer de reelle sluttbrukere av strømmen eller fjernvarmen til gode."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 24 nov 2022 nr. 2011."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Tilskuddets størrelse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 3-1",
+     "tittel": "Beregning av tilskudd",
+     "ledd": [
+      "(1) Foretak kan søke om og motta tilskudd under ett av to støttetrinn, heretter støttetrinn 1 og 2. For å kunne motta tilskudd under begge støttetrinn, må foretaket ha gjennomført energikartlegging, jf. § 2-3. For å kunne søke motta tilskudd under støttetrinn 2 må foretaket gjennomføre minst ett energitiltak, jf. § 3-2.",
+      "(2) Tilskudd under støttetrinn 1 beregnes ved at foretakets forbruk av strøm og fjernvarme i antall kWh multipliseres med 0,25 og med støtteberettiget pris på strøm i kroner per kWh fratrukket 0,7 kroner.",
+      "(3) Tilskudd under støttetrinn 2 beregnes som summen av\na. foretakets forbruk av strøm og fjernvarme i antall kWh multiplisert med 0,45 og med støtteberettiget pris på strøm i kroner per kWh fratrukket 0,7 kroner, og\nb. budsjettert investeringskostnad for energitiltaket/-ene som bedriften har forpliktet seg til å gjennomføre, jf. første ledd og § 3-2, multiplisert med 0,5.",
+      "(4) Tilskuddskomponentene nevnt i andre ledd og tredje ledd bokstav a omtales som forbruksavhengig tilskudd eller forbruksavhengig tilskuddskomponent.",
+      "(5) Tilskuddskomponenten nevnt i tredje ledd bokstav b omtales som innvilget investeringstilskudd ved tilsagn.",
+      "(6) Dersom det ikke foreligger strøm- eller fjernvarmefaktura for november og/eller desember 2022 på tidspunktet for søknad om tilskudd, skal det i beregningen av tilskudd som en hovedregel legges til grunn gjennomsnittlig forbruk av strøm og fjernvarme for de månedene i tilskuddsperioden som det foreligger faktura for.\na. Foretak kan likevel velge å legge til grunn forbruk av strøm og fjernvarme for tilsvarende måneder i 2021, 2020 eller 2019 som det ikke foreligger faktura for i 2022 dersom foretaket vurderer at dette bedre representerer foretakets forventede forbruk i 2022.\nb. Tilskuddsmyndigheten skal i beregningen av tilskudd etter dette ledd legge til grunn aritmetisk gjennomsnitt av timeselspotpriser for det prisområdet tilskuddsmottakers støtteberettigede forbruk har skjedd i, herunder gjennomsnittlig elspotpris for november 2022 og gjennomsnittlig elspotpris for tilbakelagt periode i desember 2022."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 3-2",
+     "tittel": "Energitiltak",
+     "ledd": [
+      "(1) Foretak kan søke om tilskudd til gjennomføring av forhåndsdefinerte energitiltak som bidrar til å redusere tilskuddsmottakers energikostnader. Forpliktelse til gjennomføring av minst ett energitiltak er en forutsetning for tilskudd under støttetrinn 2, jf. § 3-1 første og tredje ledd.",
+      "(2) Det kan søkes om tilskudd for følgende forhåndsdefinerte tiltak:\na. Energistyrings- og målingssystemer\nb. Etterisolering av yttervegger og tak\nc. Utskifting/oppgradering til energieffektive vinduer\nd. Behovsstyrt ventilasjon\ne. Varmegjenvinning ventilasjon\nf. Utskifting av eldre elektriske motorer, pumper, kompressorer og vifter\ng. Trykkluftoptimalisering\nh. Energigjenvinning fra elektriske motorer og kompressorer (for eksempel trykkluft, kjøl og frys)\ni. Termisk isolering av rør, ventiler og deler i varme- og/eller kjøleanlegg samt industrielle prosesser\nj. Solfanger (på eller i tilknytning til næringsbygg)\nk. Solceller (på eller i tilknytning til næringsbygg)\nl. Væske/vann-, luft/luft- og luft/vann-varmepumper\nm. Biokjel for fast brensel (pellets, briketter, flis, ved/treavfall)\nn. Akkumulator- eller buffertank i eksisterende varme/energisentraler\no. LED-lys og lysstyring.",
+      "(3) Det settes krav til minimumsnivå for tiltakene nevnt i andre ledd. Hvor byggteknisk forskrift (TEK17) inneholder krav til tiltak og løsninger legges disse til grunn. For øvrige tiltak og løsninger ligger minimumsnivået på beste kommersielt tilgjengelige teknologi.",
+      "(4) Med investeringskostnad for energitiltaket, jf. § 3-1, tredje ledd bokstav b, menes investeringskostnader som er direkte knyttet til gjennomføringen av det/de aktuelle energitiltaket/-ene det er søkt om tilskudd for etter denne forskrift. Merverdiavgift som er fradragsberettiget for foretaket i merverdiavgiftsoppgjøret, kan ikke inngå som investeringskostnad.",
+      "(5) Kun kostnader påløpt etter 1. oktober 2022 kan anses som investeringskostnader, jf. fjerde ledd.",
+      "(6) Det gis ikke tilskudd etter støttetrinn 2, jf. § 3-1 tredje ledd, for energitiltak med budsjettert samlet investeringskostnad på mindre enn 50 000 kroner.",
+      "(7) Tilskuddsmottaker skal sende inn sluttrapport til tilskuddsmyndighet, jf. § 4-4, for gjennomførte energitiltak senest innen 24 måneder etter tilsagnsdato. Utbetalt tilskudd baseres på påløpte kostnader, slik de fremkommer i sluttrapporten, forutsatt minimum 50 prosent gjennomføringsgrad. Det skal ikke utbetales mer tilskudd enn det er gitt tilsagn om, jf. § 3-1, tredje ledd bokstav b.",
+      "(8) Gjennomføringsgraden for et tiltak eller flere tiltak beregnes ved å dividere summen av sluttrapportert investeringskostnad på summen av budsjettert investeringskostnad som lagt til grunn i søknad.",
+      "(9) Ved lavere gjennomføringsgrad enn 50 prosent er ikke vilkåret for tilskudd etter støttetrinn 2 oppfylt. I tråd med dette skal ikke tilskudd til gjennomføring av energitiltaket etter § 3-1 tredje ledd bokstav b utbetales, og differansen mellom forbruksavhengig tilskudd i støttetrinn 2 og 1 skal kreves tilbakebetalt.",
+      "(10) Tilskuddsmyndigheten kan fastsette og offentliggjøre nærmere bestemmelser vedrørende gjennomføring og dokumentasjon av energitiltak etter denne paragraf.",
+      "(11) Tilskuddsmottaker kan gjøre avtale med annen part om gjennomføring av energitiltak etter denne paragraf, forutsatt at tiltaket bidrar til å redusere tilskuddsmottakers energikostnader. Investeringskostnader knyttet til tiltaket, jf. fjerde ledd, må være fakturert tilskuddsmottaker."
+     ],
+     "endringer": [
+      "Endret ved forskrift 8 des 2022 nr. 2115."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 3-3",
+     "tittel": "Øvre grenser for tilskudd",
+     "ledd": [
+      "(1) Maksimalt tilskudd til et enkelt foretak eller konsern gitt etter denne forskrift er 5 millioner kroner.",
+      "(2) Den forbruksavhengige tilskuddskomponenten, jf. § 3-1 fjerde ledd, kan maksimalt utgjøre 3,5 millioner kroner per foretak eller konsern."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 3-4",
+     "tittel": "Særlige regler for konsern",
+     "ledd": [
+      "(1) Et konsern skal søke om tilskudd samlet som om konsernet var ett foretak. Konsernet kan velge å søke om tilskudd for ett eller flere støtteberettigede foretak i konsernet. Vilkår etter § 2-1 til § 2-3, § 2-6, § 2-8 og § 2-10 må være oppfylt for hvert av foretakene i konsernet som inngår i konsernsøknaden. Vilkårene etter § 2-4, § 2-5 og § 2-9 må være oppfylt for hvert av foretakene i konsernet som inngår i konsernsøknaden og for konsernet som helhet.",
+      "(2) Konsern skal utpeke et foretak som er ansvarlig for å opplyse om konsernets eierstruktur (ansvarlig foretak). Det må utpekes en kontaktperson i det ansvarlige foretaket. Det skal være det ansvarlige foretaket som sender inn søknad etter første ledd.",
+      "(3) Ansvarlig foretak, jf. andre ledd, må utarbeide en oversikt over hvilke foretak som inngår i konsernet per første dato i tilskuddsperioden. Konsernoversikten skal også angi hvordan tilskuddet fordeles mellom foretakene som inngår i konsernsøknaden. Før utbetaling skal ansvarlig foretak dokumentere endelig fordeling av tilskuddet. Fordelingen skal dokumenteres på den måten tilskuddsmyndigheten bestemmer.",
+      "(4) Ansvarlig foretak, jf. andre ledd, må innhente skriftlig samtykke fra alle foretakene som inngår i konsernsøknaden. Samtykke kan gis av personer som er berettiget til å søke, jf. § 4-2. Samtykket skal inkludere tilbakebetalingsplikten etter § 2-7 og § 5-3 andre ledd, samt konsernoversikten med fordeling av tilskudd innad i konsernet. Utbyttebegrensningene i § 2-7 første ledd gjelder for hvert enkelt konsernforetak som skal motta tilskudd i henhold til den oppsatte fordelingen.",
+      "(5) For beregning av forbruksavhengig tilskudd etter § 3-1 skal summen av foretakets fakturerte forbruk av strøm og fjernvarme på tvers av støtteberettigede foretak i konsernet legges til grunn. Det skal legges til grunn støtteberettiget pris på strøm som beregnet etter definisjonen i § 1-8 fjerde ledd. Prisen skal, i tråd med § 1-8 fjerde ledd, beregnes som et aritmetisk gjennomsnitt av fakturerte priser gjennom perioden, ved at fakturerte priser for hver av de ulike periodene i tilskuddsperioden multipliseres med forbruket av strøm i samme periode for hvert støtteberettiget foretak, og summen av disse produktene divideres på samlet forbruk av strøm for alle støtteberettigede foretak i konsernet for hele tilskuddsperioden.",
+      "(6) Vilkåret om gjennomføring av energitiltak for å kunne motta støtte etter støttetrinn 2 er oppfylt dersom minst ett energitiltak er gjennomført i ett av foretakene som inngår i konsernsøknaden, jf. § 3-1 og § 3-2.",
+      "(7) For konsern anvendes beløpsgrenser og avkortning etter § 3-3 på beregnet tilskuddsbeløp for konsernet som helhet."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Forvaltning, krav til søknaden og dokumentasjon",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 4-1",
+     "tittel": "Søknad om tilskudd",
+     "ledd": [
+      "(1) Tilskudd etter denne forskriften gis etter søknad. Søknad om tilskudd skal leveres elektronisk i den formen tilskuddsmyndigheten bestemmer.",
+      "(2) Søker skal gi følgende opplysninger i søknaden:\na. omsetningstall og kostnadstall for relevante perioder, jf. § 1-8 og § 2-1,\nb. om det er mottatt andre offentlige tilskudd til dekning av strømkostnader bortsett fra tilskudd etter denne forskrift, jf. § 2-8,\nc. fakturert strøm- og ev. fjernvarmeforbruk for oktober og, dersom det foreligger, november 2022 jf. § 1-8. Fakturert forbruk for desember, og evt. november dersom det ikke foreligger faktura for 2022, enten for 2019, 2020, eller 2021 i tråd med § 3-1 sjette ledd.\nd. støtteberettigede priser for strøm for oktober og november 2022 der det foreligger, jf. § 1-8,\ne. søkers bankkontonummer slik det fremgår i bankenes felles Konto- og adresseringsregister,\nf. om søker er skattepliktig til Norge, og\ng. kostnad for bekreftelse av revisor eller autorisert regnskapsfører.",
+      "(3) Søker skal erklære at vedkommende har gjort seg kjent med regelverket og at foretaket faller inn under ordningen. Søker skal bekrefte at opplysningene som er gitt er riktige, at de kan dokumenteres, og at en er kjent med plikten til å varsle tilskuddsmyndighet dersom det i ettertid oppdages feil. Søker skal bekrefte at vedkommende er kjent med bestemmelsene om tilbakebetaling i forskriftens § 2-7. Søker skal bekrefte at foretaket ikke er underlagt sanksjoner som svar på Russlands militære aggresjon mot Ukraina, herunder at vilkårene i § 2-9 er oppfylt.",
+      "(4) Tilskuddsmyndigheten kan fastsette nærmere krav til hvilke opplysninger som skal gis i søknaden etter andre og tredje ledd."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 4-2",
+     "tittel": "Hvem som kan søke",
+     "ledd": [
+      "Personer i virksomheten registrert med nøkkelrolle i Enhetsregisteret kan signere og sende inn søknad. Med nøkkelrolle menes en av følgende roller:\na. norsk representant eller kontaktperson for utenlandsk enhet\nb. styrets leder\nc. komplementar\nd. innehaver\ne. deltaker med fullt ansvar\nf. deltaker med delt ansvar\ng. daglig leder eller administrerende direktør\nh. bestyrende reder."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 4-3",
+     "tittel": "Bekreftelse fra revisor eller autorisert regnskapsfører, kostnadsdekning",
+     "ledd": [
+      "(1) Revisor eller autorisert regnskapsfører skal bekrefte innhold i søknaden. Bekreftelsen skal gis elektronisk i den formen tilskuddsmyndigheten bestemmer før søknad sendes inn.",
+      "(2) Tilskuddsmyndigheten fastsetter og offentliggjør krav til kontrollhandlinger som revisor eller autorisert regnskapsfører skal utføre i forbindelse med bekreftelse av opplysningene.",
+      "(3) Kostnaden for bekreftelse etter første ledd refunderes med 80 prosent, men maksimum med 5 000 kroner, for foretak som får vedtak om tildeling av tilskudd. Dekningen opprettholdes selv om foretaket må tilbakebetale tilskuddet. Tilskuddsmyndigheten kan likevel kreve dekningen tilbakebetalt dersom tilskuddet skal tilbakebetales med hjemmel i § 5-3 første ledd."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 4-4",
+     "tittel": "Krav til dokumentasjon av opplysninger",
+     "ledd": [
+      "(1) Det skal foreligge dokumentasjon for de tallene og beregningene som ligger til grunn for søknaden, med henvisning til relevant regnskapsmateriale. Dokumentasjonen må vise hvordan omsetning er periodisert, og hvordan fakturert pris på strøm er beregnet, jf. § 1-8. Som relevant regnskapsmateriale regnes blant annet fakturajournal og kontospesifikasjon med tilhørende salgsdokumentasjon, oversikter over opptjent inntekt som ikke er fakturert, kjøpsdokumentasjon og kontrakter.",
+      "(2) Det skal foreligge dokumentasjon på gjennomføring av energikartlegging og, for bedrifter som søker om tilskudd etter støttetrinn 2, dokumentasjon på gjennomføring av energitiltak, herunder sluttrapport, jf. § 2-3 og § 3-2.",
+      "(3) I sluttrapport etter gjennomføring av energitiltak skal energitiltaket/-ene beskrives kort, herunder blant annet mht. estimert eller målt energiresultat av tiltaket. Det skal legges ved relevant fakturadokumentasjon, samt legges ved et bilde av installasjonen som er foretatt. For tilskudd til energitiltak hvor innvilget investeringstilskudd ved tilsagn overstiger 1 million kroner skal et prosjektregnskap inkludert rapport for avtalte kontrollhandlinger signert av revisor/autorisert regnskapsfører vedlegges. For tilskudd til energitiltak hvor innvilget investeringstilskudd ved tilsagn er under 1 million kroner skal det legges ved en regnskapsoversikt som viser alle fakturerte kostnader knyttet til prosjektet, samt kopi av alle fakturaer.",
+      "(4) Dokumentasjon på gjennomføring av energikartlegging og energitiltak skal leveres i elektronisk form på den måten tilskuddsmyndigheten bestemmer.",
+      "(5) For konsern skal det foreligge en oppstilling over foretakene i konsernet som nevnt i § 3-4 tredje ledd.",
+      "(6) Dokumentasjon som nevnt i første til femte ledd, skal oppbevares av foretaket frem til og med 31. desember 2032.",
+      "(7) Tilskuddsmyndigheten kan fastsette nærmere krav til dokumentasjon etter første til femte ledd."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-5",
+     "nummer": "§ 4-5",
+     "tittel": "Offentliggjøring av opplysninger",
+     "ledd": [
+      "(1) Opplysninger om tilskudd skal gjøres tilgjengelig i søkbar form på ordningens internettside.",
+      "(2) Første ledd gjelder opplysninger om saksnummer, tilskuddsmottakers foretaksnavn og organisasjonsnummer, fylke, kommune, næringskode, tildelingsdato, støttetrinn, samlet tilskudd, forbruksavhengig tilskudd, tilskudd til gjennomføring av energitiltak, samt type energitiltak. Opplysning om navn og organisasjonsnummer til den som har bekreftet søknaden, jf. § 4-3, skal også offentliggjøres.",
+      "(3) For innsyn i andre opplysninger enn dem som er nevnt i første og andre ledd, gjelder bestemmelsene i offentleglova."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-6",
+     "nummer": "§ 4-6",
+     "tittel": "Kontroll",
+     "ledd": [
+      "Tilskuddsmyndigheten skal gjennomføre en stikkprøvekontroll av søknader etter at tilskudd er utbetalt. Stikkprøvekontrollen skal gjennomføres dels ved tilfeldig utvalg, og dels ved utvalg basert på risiko. Stikkprøvekontrollen skal for øvrig gjennomføres på den måten som tilskuddsmyndigheten bestemmer."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Betaling, innkreving og varsling om feil",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 5-1",
+     "tittel": "Utbetaling av tilskudd",
+     "ledd": [
+      "(1) Forbruksavhengig tilskuddskomponent, jf. § 3-1 fjerde ledd, skal utbetales uten ugrunnet opphold etter tilsagn.",
+      "(2) Tilskudd til energitiltak, jf. § 3-1 tredje ledd bokstav b, utbetales etter innsendt sluttrapport basert på påløpte kostnader forutsatt minimum 50 prosent gjennomføringsgrad, jf. § 3-2 og § 4-4. Dersom sluttrapport ikke foreligger innen fristen utbetales ikke tilskudd til energitiltak. Vilkåret for tilskudd etter støttetrinn 2 er da ikke oppfylt og differansen mellom forbruksavhengig tilskudd i støttetrinn 2 og 1 skal kreves tilbakebetalt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 5-2",
+     "tittel": "Avkorting",
+     "ledd": [
+      "(1) Ordningen er rammestyrt. Utmålt støtte skal avkortes i henhold til disponibel bevilgning dersom det ved søknadsfristens utgang viser seg at omsøkt beløp overstiger disponibel ramme iht. budsjettvedtak gjort av Stortinget.",
+      "(2) Ved avkorting skal beregnet tilskudd til energitiltak reduseres prosentmessig likt for alle foretak som har søkt om og innfrir vilkårene til støtte under støttetrinn 2, jf. § 3-1, slik at samlet tilskudd til alle foretak under ordningen faller innenfor ordningens ramme. Dette skal gjøres ved at følgende formel legges til grunn for beregnet tilskudd til energitiltak jf. § 3-1 tredje ledd bokstav b, hvor X angir nødvendig prosentmessig reduksjon:\nTilskudd til energitiltak, jf. § 3-1 (3) b. = budsjettert investeringskostnad for energitiltaket/-ene * (0,5 – X)",
+      "(3) Dersom tilskudd til energitiltak faller under 35 prosent, det vil si dersom nødvendig prosentmessig reduksjon i tilskudd til energitiltak jf. andre ledd overstiger 15 prosentpoeng, skal ytterligere avkorting foretas ved at det samlede tilskuddet avkortes prosentmessig likt for alle foretak slik at samlet tilskudd til alle foretak under ordningen faller innenfor ordningens ramme. Dette skal gjøres ved at følgende formler legges til grunn for beregnet forbruksavhengig tilskudd i hhv. støttetrinn 1 og 2, jf. § 3-1 andre ledd og tredje ledd bokstav a, hvor Y angir nødvendig prosentmessig reduksjon:\n1. Forbruksavhengig tilskudd jf. § 3-1 (2) = foretakets forbruk av strøm og fjernvarme i antall kWt * 0,25 * (1 – Y) * (støtteberettiget pris på strøm i krone per kWh – 0,7)\n2. Forbruksavhengig tilskudd jf. § 3-1 (3) a. = foretakets forbruk av strøm og fjernvarme i antall kWt * 0,45 * (1 – Y) * (støtteberettiget pris på strøm i krone per kWh – 0,7), Tilskudd til energitiltak, jf. § 3-1 (3) b. = budsjettert investeringskostnad for energitiltaket/-ene * 0,35 * (1 – Y)",
+      "(4) Tilskuddsmyndighet skal uten ugrunnet opphold informere departementet dersom det blir behov for avkorting."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 5-3",
+     "tittel": "Tilbakebetaling av uriktig utbetalt tilskudd",
+     "ledd": [
+      "(1) Dersom det er utbetalt tilskudd i strid med bestemmelsene i denne forskrift, skal det uriktig utbetalte beløpet tilbakebetales. I tillegg skal det betales renter fra tildelingstidspunktet og frem til tilbakebetaling skjer. Rentesatsen er den sats EFTAs overvåkingsorgan til enhver tid fastsetter for krav om tilbakeføring av ulovlig støtte.",
+      "(2) Tilbakebetaling til tilskuddsmyndigheten etter § 2-7 skal skje før foretaket vedtar eller foretar disposisjoner som nevnt i § 2-7 andre ledd. Tilskuddsmyndigheten kan sende krav om tilbakebetaling dersom det oppdages at foretaket ikke har innbetalt etter første punktum.",
+      "(3) Dersom et tilbakebetalingskrav er mindre enn 1000 kroner, kreves ikke beløpet tilbakebetalt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-4",
+     "nummer": "§ 5-4",
+     "tittel": "Forfall for krav om tilbakebetaling",
+     "ledd": [
+      "Krav om tilbakebetaling av uriktig utbetalt tilskudd etter § 5-3 forfaller til betaling tre uker etter at melding om vedtak om tilbakebetaling er sendt til skyldner."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-5",
+     "nummer": "§ 5-5",
+     "tittel": "Forsinkelsesrenter ved for sen betaling",
+     "ledd": [
+      "(1) Det skal betales forsinkelsesrente for tilbakebetalingskrav som ikke er betalt innen forfall etter § 5-5.",
+      "(2) Rentesatsen tilsvarer den til enhver tid gjeldende rentesats fastsatt i forskrift med hjemmel i lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m. (forsinkelsesrenteloven) § 3 første ledd første punktum. Rentene beregnes fra forfall etter § 5-4 og inntil betaling skjer. Forsinkelsesrenteloven § 2 andre ledd gjelder tilsvarende."
+     ],
+     "endringer": [
+      "Endret ved forskrift 8 des 2022 nr. 2115."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-6",
+     "nummer": "§ 5-6",
+     "tittel": "Plikt til å varsle om feil",
+     "ledd": [
+      "Tilskuddsmottaker plikter uten opphold å varsle tilskuddsmyndigheten dersom det oppdages feil ved grunnlaget for vedtaket. Plikten til å varsle om feil gjelder også for den som har bekreftet innholdet i søknaden, jf. § 4-3."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Ikrafttredelse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 6-1",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Forskriften trer i kraft straks."
+     ]
+    }
+   ]
+  }
+ ]
+}

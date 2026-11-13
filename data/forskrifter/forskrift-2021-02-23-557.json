@@ -1,0 +1,731 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2021-02-23-557",
+ "dokumentid": "SF/forskrift/2021-02-23-557",
+ "departement": [
+  "Kultur- og likestillingsdepartementet"
+ ],
+ "etat": [
+  "Norsk filminstitutt"
+ ],
+ "ikraft": "2021-03-01",
+ "siste_endring_ikraft": "2026-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2025-12-08-2440",
+   "tekst": "forskrift/2025-12-08-2440 fra 2026-01-01"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "forskrift/2016-10-07-1196/§6",
+   "tekst": "forskrift/2016-10-07-1196/§6"
+  }
+ ],
+ "kunngjort": "2021-02-26 14:45",
+ "siste_rettelse": "2021-11-19 (tegnsetting i flere paragrafer)",
+ "korttittel": "Forskrift om tilskudd til utvikling, lansering og formidling av dataspill",
+ "tittel": "Forskrift om tilskudd til utvikling, lansering og formidling av dataspill",
+ "annet": "Hjemmel: Fastsatt av Norsk filminstitutt 23. februar 2021 med hjemmel i forskrift 7. oktober 2016 nr. 1196 om tilskudd til produksjon og formidling av audiovisuelle verk § 6.\nEndret ved forskrifter 12 mai 2022 nr. 901, 8 des 2025 nr. 2440 (i kraft 1 jan 2026).\nRettet 19.11.2021 (tegnsetting i flere paragrafer).",
+ "refid": "forskrift/2021-02-23-557",
+ "eli": "/eli/forskrift/2021/02/23/557",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2021-02-23-557",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1-1",
+     "tittel": "Formål",
+     "ledd": [
+      "Denne forskriften skal bidra til å oppfylle formål i forskrift om tilskudd til produksjon og formidling av audiovisuelle verk og gjeldende politiske mål på dataspillområdet.",
+      "Tilskudd etter denne forskriften skal primært stimulere den delen av dataspillbransjen som utvikler og formidler dataspill med kulturelt og kunstnerisk innhold."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 1-2",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Denne forskriften angir regler for tildeling av tilskudd over Kulturdepartementets budsjett.",
+      "Tilskudd gitt i henhold til denne forskriften kan gå til\na. utvikling og lansering av egenproduserte dataspill\nb. faglig utvikling av fagpersoner i dataspillbransjen\nc. fellestiltak for dataspillbransjen\nd. formidlingstiltak for dataspill\ne. kompetansehevende tiltak for formidlere av dataspill.",
+      "Det kan ikke gis utviklings- og lanseringstilskudd til dataspillprosjekter som primært markedsfører kommersielle produkter. Det kan heller ikke gis tilskudd til prosjekter som gjelder opplæringsprodukter, pedagogiske verktøy, oppslagsverk eller manualer."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 1-3",
+     "tittel": "Tilskuddsforvalter",
+     "ledd": [
+      "Tilskuddsforvaltere er Norsk filminstitutt, regionale filmfond eller regionale filmsentre.",
+      "Forskriften forvaltes av Norsk filminstitutt. Tilskuddsforvalter kan fastsette det nærmere innholdet av bestemmelsene i denne forskriften i veiledere."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 1-4",
+     "tittel": "EØS-avtalens regler om offentlig støtte",
+     "ledd": [
+      "Tilskudd etter denne forskriften skal være forenlig med EØS-avtalen artikkel 61.",
+      "Tilskudd skal ikke tildeles foretak i økonomiske vanskeligheter eller som ikke har etterkommet et påbud om tilbakebetaling av tilskudd som EFTAs overvåkingsorgan eller EU-Kommisjonen har erklært ulovlig og uforenelig med det indre markedet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-5",
+     "nummer": "§ 1-5",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "I denne forskriften betyr\na. dataspill: en digital, fiksjonsbasert eller dokumentarisk fremstilling gjennom lyd og bilder som drives av brukermedvirkning, og som er produsert for offentlig visning eller omsetning.\nb. offentlig tilskudd: tilskudd som faller inn under EØS-avtalen artikkel 61 (1), herunder tilskudd fra stat, kommuner og fylkeskommuner og offentlige investeringer som ikke er på markedsvilkår. Tilskudd fra overnasjonale organer regnes ikke som offentlig tilskudd.\nc. kulturprodukt: et dataspill som oppfyller minst tre av følgende kriterier\ni. Designdokumentet eller litterært forelegg er originalskrevet på norsk eller samisk.\nii. Dataspillet er på norsk eller samisk språk.\niii. Prosjektet fokuserer på norsk eller samisk språk, kultur og historie, eller tematikk som har relevans for en norsk målgruppe.\niv. Dataspillet har et vesentlig bidrag fra opphavere eller utøvende kunstnere bosatt i Norge eller et annet EØS-land.\nd. smalt audiovisuelt verk: et dataspill som oppfyller minst ett av følgende kriterier:\ni. Dataspillet har Norge som primærmarked.\nii. Dataspillet inneholder mer enn 50 prosent norsk eller samisk dialog.\niii. Dataspillet er av tydelig kunstnerisk karakter.\niv. Dataspillet bruker et eksperimentelt eller innovativt fortellerspråk.\nv. Dataspillet fokuserer på norsk kultur eller historie.\nvi. Dataspillet er et originalverk rettet mot barn eller unge."
+     ],
+     "endringer": [
+      "Endret ved forskrift 12 mai 2022 nr. 901."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Felles bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 2-1",
+     "tittel": "Krav til søknaden",
+     "ledd": [
+      "Søknaden skal være på norsk og sendes på elektronisk søknadsskjema der dette foreligger. Tilskuddsforvalter kan gjøre unntak for språkkravet på hele eller deler av søknaden.",
+      "Tilskuddsforvalter kan stille ytterligere krav til søknaden."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 2-2",
+     "tittel": "Søknadsfrister",
+     "ledd": [
+      "Tilskuddsforvalter kan fastsette søknadsfrister. Søker må levere fullstendig søknad innen fristen.",
+      "Søker må levere fullstendig søknad før oppstart av den aktuelle prosjektfasen eller før tiltaket iverksettes."
+     ],
+     "endringer": [
+      "Endret ved forskrift 12 mai 2022 nr. 901."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 2-3",
+     "tittel": "Opplysningsplikt",
+     "ledd": [
+      "Søker har plikt til å gi tilskuddsforvalter alle opplysninger som er nødvendige for å behandle søknaden. Søker skal av eget tiltak innhente dokumenter eller opplysninger fra tredjeparter dersom det er nødvendig.",
+      "Mottaker av tilskudd har plikt til å holde tilskuddsforvalter løpende orientert om endrede forhold som kan være av betydning for tilskuddsforvalters vurdering av om forutsetningene for tilskuddet fremdeles er oppfylt. Tilskuddsmottaker skal av eget tiltak innhente dokumenter eller opplysninger fra tredjeparter dersom det er nødvendig.",
+      "Tilskuddsmottaker plikter blant annet å opplyse tilskuddsforvalter om\na. all offentlig støtte prosjektet mottar\nb. planlagt overføring av rettigheter i prosjektet til tredjepart\nc. planlagt fusjon eller fisjon av selskap som er mottaker av tilskudd\nd. at tilskuddsmottaker tas under konkursbehandling\ne. vesentlige endringer i prosjektet som beskrevet i § 2-4."
+     ],
+     "endringer": [
+      "Endret ved forskrift 12 mai 2022 nr. 901."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 2-4",
+     "tittel": "Vesentlige endringer i prosjektet skal godkjennes av tilskuddsforvalter",
+     "ledd": [
+      "Tilskuddsmottaker kan ikke foreta vesentlige endringer i prosjektet uten at dette er skriftlig godkjent av tilskuddsforvalter.",
+      "Vesentlige endringer vil blant annet være endring av besetning av nøkkelfunksjoner, innholdsmessige endringer i tiltaket eller i dataspillet i forhold til godkjent designdokument, endret finansiering eller budsjett eller andre brudd på forutsetninger i tilskuddsbrevet."
+     ],
+     "endringer": [
+      "Endret ved forskrift 12 mai 2022 nr. 901."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 2-5",
+     "tittel": "Tilskuddsmottakers står ansvarlig overfor tilskuddsforvalter",
+     "ledd": [
+      "Tilskuddsmottaker skal kunne stå ansvarlig overfor tilskuddsforvalter.",
+      "Tilskuddsmottaker kan ikke la andre foretak gjennomføre prosjektet i deres sted. Tilskuddsmottaker kan heller ikke benytte seg av underleverandører dersom det umuliggjør tilskuddsforvalters kontrollmuligheter som beskrevet i kapittel 6.",
+      "Dersom en tilskuddsmottaker oppretter et datterselskap som har som eneste formål å gjennomføre prosjektet det er gitt tilskudd til, og datterselskapet registreres som tilskuddsmottaker, vil morselskapet kunne holdes solidarisk ansvarlig for forpliktelser overfor tilskuddsforvalter."
+     ],
+     "endringer": [
+      "Endret ved forskrift 12 mai 2022 nr. 901."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-6",
+     "nummer": "§ 2-6",
+     "tittel": "Aksept av forutsetning og vilkår for tilskudd",
+     "ledd": [
+      "Ved anmodning om utbetaling av tilskudd har tilskuddsmottaker akseptert de forutsetninger for tilskudd og krav til bruken av tilskuddet som framgår av tilskuddsbrevet og denne forskriften.",
+      "Tilskuddsforvalter kan sette absolutte frister for aksept. Dersom tilskuddsmottaker ikke aksepterer innen fastsatt frist, faller tilskuddet bort."
+     ],
+     "endringer": [
+      "Endret ved forskrift 12 mai 2022 nr. 901."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-7",
+     "nummer": "§ 2-7",
+     "tittel": "Offentlighet og kommunikasjon",
+     "ledd": [
+      "Tilskuddsforvalter kan offentliggjøre tilskuddsmottaker, prosjekttittel, tilskuddets størrelse og gi et beskrivende sammendrag av prosjektet ved tildeling av tilskudd.",
+      "Tilskuddsforvalter kan også offentliggjøre søknadslister."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-8",
+     "nummer": "§ 2-8",
+     "tittel": "Endringer i regelverk",
+     "ledd": [
+      "Tilskuddsmottaker skal holde seg orientert om endringer i regelverk som er av betydning for prosjektet. Tilskuddsmottaker er forpliktet til å overholde det til enhver tid gjeldende lovverket som gjelder for prosjektet.",
+      "Tilskuddsforvalter kan endre reglene for regnskapsrapportering, og tilskuddsmottaker må tilpasse seg endringene fortløpende. Slike endringer skal varsles minst fire uker før de trer i kraft."
+     ],
+     "endringer": [
+      "Endret ved forskrift 12 mai 2022 nr. 901."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-9",
+     "nummer": "§ 2-9",
+     "tittel": "Godkjente kostnader",
+     "ledd": [
+      "Kun kostnader som er relevante og direkte knyttet til gjennomføring av tiltaket godkjennes som grunnlag for utmåling av tilskudd. Kostnadene må kunne dokumenteres og dokumentasjonen må være tydelig, spesifikk og oppdatert.",
+      "Tilskuddsmottaker skal ved kjøp og leie av utstyr velge det alternativet som er rimeligst og mest hensiktsmessig. Vederlag for ytelser og leie av utstyr skal ikke overstige markedspris.",
+      "Tilskuddsforvalter kan fastsette satser for fakturering av interne kostnader."
+     ],
+     "endringer": [
+      "Endret ved forskrift 12 mai 2022 nr. 901."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Tilskudd til utvikling og lansering av dataspill",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 3-1",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Dette kapittelet gjelder tilskudd til utvikling og lansering av dataspill. Det kan gis tilskudd til utvikling av dataspill fra idéstadiet og frem til ferdigstilling. Tilskudd til lansering kan gis til lansering i Norge og lansering i utlandet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 3-2",
+     "tittel": "Krav til søker",
+     "ledd": [
+      "Søker skal være et produksjonsforetak som er etablert i Norge eller i et annet EØS-land og som har audiovisuell produksjon som formål. Foretaket skal være registrert i det norske enhets- eller foretaksregisteret.",
+      "Søker skal dokumentere tilfredsstillende økonomisk, faglig og praktisk evne til å gjennomføre prosjektet og være ansvarlig for prosjektets regnskap. Nøkkelmedarbeiderne i prosjektet skal samlet ha tilstrekkelig profesjonell erfaring til å gjennomføre prosjektet. I vurderingen skal det legges vekt på prosjektets størrelse, kompleksitet og budsjett."
+     ],
+     "endringer": [
+      "Endret ved forskrift 12 mai 2022 nr. 901."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 3-3",
+     "tittel": "Krav om nødvendige rettigheter i prosjektet",
+     "ledd": [
+      "Søker skal dokumentere å ha inngått avtaler med rettighetshavere etter åndsverkloven som sikrer at søker besitter eller kan erverve alle nødvendige rettigheter for å realisere dataspillet, og at søker kan inngå avtaler om salg og distribusjon av det ferdige dataspillet.",
+      "Tilskuddsmottaker skal besitte og alene ha den nødvendige rett til å råde over slike rettigheter når tilbud om tilskudd aksepteres.",
+      "Tilskuddsmottaker kan inngå avtaler som gir tredjepart utnyttelsesrett (lisens) til salg og distribusjon av dataspillet forutsatt at avtalene er tidsavgrensede, men kan ikke overdra eierskap til immaterielle rettigheter til eller i dataspillet.",
+      "Det er en forutsetning for å motta tilskudd at alle rettighetsforhold er fullt opplyste.",
+      "For minoritetsprodusenter kreves det kun eierandel i dataspillet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 3-4",
+     "tittel": "Overføring av rettigheter i prosjektet til tredjepart",
+     "ledd": [
+      "Dersom tilskuddsmottaker overfører de nødvendige rettighetene til prosjektet til et annet foretak, er dette i strid med forutsetningene for tilskuddet, jf. § 3-3.",
+      "Tilskuddsforvalter kan tildele ny rettighetshaver tilskudd til fullføring av prosjektet. Det er en forutsetning at ny tilskuddsmottaker oppfyller vilkårene i forskriften, og at det er i tråd med formålet med tilskuddsordningen.",
+      "Tilskuddsmottaker kan ikke overdra tilskudd gitt i henhold til denne forskriften."
+     ],
+     "endringer": [
+      "Endret ved forskrift 12 mai 2022 nr. 901."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 3-5",
+     "tittel": "Søknaden må gjelde et kulturprodukt",
+     "ledd": [
+      "Søknaden må gjelde et kulturprodukt.",
+      "For samproduksjoner med norske minoritetsprodusenter er det tilstrekkelig at prosjektet er definert som kulturprodukt i hovedprodusentens opphavsland. For søkere med hovedprodusent fra land uten kompetent myndighet til slik godkjenning, vil tilskuddsforvalter gjøre en vurdering av hvorvidt prosjektet er et kulturprodukt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-6",
+     "nummer": "§ 3-6",
+     "tittel": "Teksting og universell utforming",
+     "ledd": [
+      "Dataspill som mottar tilskudd etter dette kapittel skal gjøres tilgjengelig med tekst på norsk eller samisk i Norge. Tilskuddsforvalter kan i særlige tilfeller gjøre unntak fra kravet om teksting.",
+      "Tilskuddsforvalter kan kreve universell utforming av dataspill som mottar tilskudd etter dette kapittelet."
+     ],
+     "endringer": [
+      "Endret ved forskrift 8 des 2025 nr. 2440 (i kraft 1 jan 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-7",
+     "nummer": "§ 3-7",
+     "tittel": "Ikke-kommersielle rettigheter",
+     "ledd": [
+      "Tilskuddsforvalter har rett til ikke-kommersiell bruk og profilering av dataspill som har mottatt tilskudd etter dette kapittelet på festivaler og kulturelle arrangementer, samt på nettsider, i kataloger og i andre publikasjoner.",
+      "Tilskuddsforvalter skal på forhånd klarere med tilskuddsmottaker at bruk og profilering etter første ledd ikke kommer i konflikt med dataspillets kommersielle interesser.",
+      "Tilskuddsforvalter har rett til få overlevert materiale fra tilskuddsmottaker til ikke-kommersiell distribusjon og profilering i Norge og utlandet i henhold til denne bestemmelse."
+     ],
+     "endringer": [
+      "Endret ved forskrift 12 mai 2022 nr. 901."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-8",
+     "nummer": "§ 3-8",
+     "tittel": "Prioritering",
+     "ledd": [
+      "Med mindre annet følger av denne forskriften, skal tilskuddsforvalter i sin vurdering av og prioritering mellom søknader om tilskudd utvikling eller lansering etter dette kapittelet vektlegge:\na. prosjektets kunstneriske kvaliteter og markedspotensial.\nb. søkers profesjonalitet og gjennomføringsevne.\nc. at tilskuddsmidlene som et hele skal bidra til\ni. dataspill på norsk (bokmål og/eller nynorsk) eller samisk til barn og unge.\nii. kjønnsbalanse og inkludering, diversitet og representativitet i produksjons-, innholds- og publikumsleddet.\niii. prioriterte satsingsområder eller hensyn fastsatt av Kulturdepartementet eller tilskuddsforvalter.\niv. prosjekter som kan bidra til utvikling av talentfulle fagarbeidere i dataspillbransjen.\nv. å bygge opp under formålet med tilskuddet.",
+      "Regionale filmsentre og filmfond kan i sin prioritering i tillegg vektlegge prosjektets regionale tilknytning."
+     ],
+     "endringer": [
+      "Endret ved forskrift 12 mai 2022 nr. 901."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-9",
+     "nummer": "§ 3-9",
+     "tittel": "Tilskudd til utvikling av dataspill etter kunstnerisk vurdering",
+     "ledd": [
+      "Tilskuddsforvalter kan gi tilskudd til utvikling av dataspill med høy kunstnerisk og produksjonsmessig kvalitet. Utviklingstilskudd kan gis til dataspill i alle sjangre og for alle målgrupper.",
+      "Utviklingstilskudd kan gis til alle deler av utviklingsløpet, fra tidlig utvikling til ferdigstilling av dataspillet. Tilskuddet kan gis som ett eller flere tilskudd og knytte seg til bestemte deler av utviklingsløpet."
+     ],
+     "endringer": [
+      "Endret ved forskrift 8 des 2025 nr. 2440 (i kraft 1 jan 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-10",
+     "nummer": "§ 3-9a",
+     "tittel": "Tilskudd til utvikling av dataspill etter markedsvurdering",
+     "ledd": [
+      "Tilskudd etter denne bestemmelsen skal bidra til at det utvikles dataspill med høy kunstnerisk og produksjonsmessig kvalitet, at produsentene av disse spillene får en styrket forhandlingsposisjon i ferdigstillelsen av spillene, og at dataspillene får høy gjennomslagskraft.",
+      "Tilskuddsforvalter kan gi tilskudd til ferdigstilling av dataspill som allerede har mottatt tilskudd etter § 3-9. Tilskuddet etter § 3-9 må være mottatt senest to år før søknadstidspunktet.",
+      "Det er en forutsetning for tilskudd at det ikke er gjort vesentlige endringer i prosjektet siden det mottok tilskudd etter § 3-9.",
+      "Utviklingen av spillet skal ha nådd minimum pre alpha-nivå og en spillbar versjon av spillet skal foreligge i søknaden.",
+      "Søker må på søknadstidspunktet ha inngått en avtale med en ekstern utgiver om finansiering fram til ferdigstilling og markedsføring av spillet. Søker kan ikke ha eierskap i utgiverselskapet.",
+      "Tilskuddsforvalter kan spesifisere nærmere krav til avtalen og innholdet i pre-alpha-versjonen i tilskuddsordningens retningslinjer."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 8 des 2025 nr. 2440 (i kraft 1 jan 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-11",
+     "nummer": "§ 3-10",
+     "tittel": "Tilskudd til utvikling til samproduksjoner med utenlandsk hovedprodusent",
+     "ledd": [
+      "Tilskuddsforvalter kan gi tilskudd til utvikling av dataspill i samproduksjon med utenlandsk hovedprodusent. Tilskudd etter denne bestemmelsen skal gis til utvikling av dataspill med høy kunstnerisk og produksjonsmessig kvalitet som stimulerer til profesjonalisering av norsk bransje gjennom internasjonalt samarbeid.",
+      "I vurderingen av og prioriteringen mellom søknader om tilskudd skal tilskuddsforvalter i tillegg til det som følger av § 3-8 legges vekt på samarbeidet mellom samprodusentene, kreative og tekniske bidrag fra den norske bransjen, den norske andelen av prosjektets budsjett og prosjektets kunstneriske kvalitet.",
+      "Tilskuddet beregnes med utgangspunkt i den norske budsjettandelen i prosjektet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-12",
+     "nummer": "§ 3-11",
+     "tittel": "Tilskudd til lansering av dataspill",
+     "ledd": [
+      "Tilskudd til lansering skal bidra til at hvert dataspill kan nå sitt optimale publikumspotensial, hevde seg nasjonalt og internasjonalt og øke produksjonsforetakets inntekter fra dataspillet.",
+      "I vurderingen av og prioriteringen mellom søknader om tilskudd til lansering av dataspill skal det i tillegg til det som fremgår av § 3-8 legges vekt på fremlagte lanseringsplaner, lanseringstidspunkt og dataspillets forventede inntekts- og markedspotensial.",
+      "Tilskuddsforvalter kan fastsette hvilke utgifter som utgjør godkjente lanseringskostnader og fastsette satser for lanseringstilskudd.",
+      "For tiltak på salgsmarkeder, messer og andre relevante arenaer skal tilskuddsforvalter vektlegge hvor betydningsfull posisjon arenaen har i dataspillbransjen. Det kan gis tilskudd til langsiktig lansering med tiltak i flere markeder.",
+      "Dataspill med utviklingstilskudd fra den aktuelle tilskuddsforvalter kan prioriteres."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-13",
+     "nummer": "§ 3-12",
+     "tittel": "Maksimalt offentlig tilskudd til utvikling og lansering av dataspill",
+     "ledd": [
+      "Dersom ikke annet følger av denne bestemmelsens annet avsnitt, skal maksimalt samlet offentlig tilskudd til utvikling og lansering av dataspill, både hver for seg og samlet, ikke overstige 50 prosent av godkjente regnskapsførte utviklings- og lanseringskostnader.",
+      "Dersom dataspillet er et smalt audiovisuelt verk, skal maksimalt samlet offentlig tilskudd til utvikling og lansering, både hver for seg og samlet, ikke overstige 75 prosent av dataspillets godkjente regnskapsførte utviklings- og lanseringskostnader.",
+      "For samproduksjoner med utenlandsk hovedprodusent gjelder prosenttaket for den norske andelen i prosjektet."
+     ],
+     "endringer": [
+      "Endret ved forskrift 12 mai 2022 nr. 901."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-14",
+     "nummer": "§ 3-13",
+     "tittel": "Utmåling av tilskudd",
+     "ledd": [
+      "Tilskuddets maksimale størrelse, tilskuddsramme, fastsettes ved innvilgelse av tilskudd og som prosentandel av et budsjett. Tilskuddet er tilskudd mot avregning. Endelig tilskuddsbeløp vil beregnes ut fra fastsatt prosentandel av godkjent endelig regnskap."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-15",
+     "nummer": "§ 3-14",
+     "tittel": "Tilbakebetaling av for mye utbetalt tilskudd",
+     "ledd": [
+      "Dersom det er underforbruk i forhold til tilskuddsrammen, vil tilskuddsbeløpet justeres forholdsmessig slik at tilskuddsprosenten opprettholdes. Dersom det er utbetalt høyere tilskuddsbeløp enn det fastsatte endelige tilskuddsbeløpet i henhold til innvilgelsesvedtaket, vil tilskuddsforvalter kreve tilbakebetaling av det overskytende.",
+      "Dersom samlet offentlig tilskudd er høyere enn det som følger av § 3-12, skal tilskuddsforvalter kreve tilskudd tilbakebetalt slik at maksimalt tilskuddstak for offentlig støtte ikke overskrides."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Tilskudd til kompetanseutvikling for fagarbeidere i den produserende dataspillbransjen",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 4-1",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Dette kapittelet gjelder tilskudd til kompetanseutvikling av enkeltpersoner som er fagarbeidere i den produserende dataspillbransjen. Tilskudd etter dette kapittelet skal bidra til å styrke profesjonaliteten i dataspillbransjen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 4-2",
+     "tittel": "Tilskudd til faglig utvikling",
+     "ledd": [
+      "Det kan gis tilskudd til faglig utvikling gjennom deltakelse på bransjearrangement, kurs, seminarer og finansieringsfora, samt representasjon av dataspill på prioriterte festivaler eller prisutdelinger.",
+      "Tilskudd kan gis til deltakeravgift, reiser og opphold.",
+      "Der Norsk filminstitutt er tilskuddsforvalter kan tilskudd etter denne bestemmelsen kun brukes til internasjonale arrangementer."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 4-3",
+     "tittel": "Krav til søker",
+     "ledd": [
+      "Tilskudd etter dette kapittel gis til enkeltpersoner.",
+      "For å kunne motta tilskudd etter dette kapittel må søker ha relevant utdanning på bachelornivå eller høyere, eller kunne dokumentere relevant yrkeserfaring fra dataspillbransjen.",
+      "Regionale filmsentre og filmfond kan gjøre unntak fra kompetansekravet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 4-4",
+     "tittel": "Prioritering",
+     "ledd": [
+      "Ved vurdering av og prioritering mellom søknader og utmåling av tilskudd til enkeltpersoner skal det legges vekt på ordningens formål og den faglige begrunnelsen for søknaden.",
+      "Tilskuddsforvalter kan også prioritere søknader ut fra målet om kjønnsbalanse og mangfold i dataspillbransjen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-5",
+     "nummer": "§ 4-5",
+     "tittel": "Utmåling av tilskudd",
+     "ledd": [
+      "Tilskuddet skal ikke overskride det som etter en forhåndsvurdering er nødvendig for å dekke utgifter til deltakeravgift, reiser og opphold for søker. I vurderingen av hva som er nødvendig skal det tas hensyn til andre offentlige tilskudd.",
+      "Tilskuddsforvalter kan fastsette satser for tilskudd."
+     ],
+     "endringer": [
+      "Endret ved forskrift 12 mai 2022 nr. 901."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Tilskudd til fellestiltak for dataspillbransjen",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 5-1",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Dette kapittelet gjelder tilskudd til fellestiltak for dataspillbransjen, herunder profileringstiltak i Norge og i utlandet, og tiltak for kompetanseheving av dataspillbransjen. Formålet med tilskuddene er å styrke den norske dataspillbransjen, og norske dataspills posisjon hos publikum.",
+      "Tilskudd etter dette kapittelet gis ikke til fellestiltak som gjelder enkeltstående dataspill."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 5-2",
+     "tittel": "Krav til søker",
+     "ledd": [
+      "Organisasjoner, stiftelser eller foretak som påtar seg ansvaret for å arrangere, koordinere og gjennomføre felles bransjetiltak for den norske dataspillbransjen kan søke om tilskudd etter dette kapittel. Tilskuddsmottaker må kunne stå ansvarlig for gjennomføringen av prosjektet og rapporteringen til tilskuddsforvalter. Søker skal være registrert i Enhetsregisteret."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 5-3",
+     "tittel": "Prioritering",
+     "ledd": [
+      "Tilskuddsforvalter skal prioritere prosjekter som har bred representasjon fra bransjen og/eller som på sikt vil bidra til å styrke den norske dataspillbransjen.",
+      "I vurderingen kan det legges vekt på prioriterte satsingsområder eller hensyn fastsatt av Kulturdepartementet eller tilskuddsforvalter."
+     ],
+     "endringer": [
+      "Endret ved forskrift 12 mai 2022 nr. 901."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-4",
+     "nummer": "§ 5-4",
+     "tittel": "Tilskudd til profilering",
+     "ledd": [
+      "Tilskudd etter denne bestemmelsen skal bidra til å styrke dataspills posisjon hos publikum. Det kan gis tilskudd til fellestiltak nasjonalt og internasjonalt og andre aktiviteter som skaper offentlig oppmerksomhet rundt norske dataspill."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-5",
+     "nummer": "§ 5-5",
+     "tittel": "Tilskudd til kompetansehevende tiltak for den produserende dataspillbransjen",
+     "ledd": [
+      "Tilskudd etter denne bestemmelsen skal bidra til kompetanseheving av den produserende dataspillbransjen i Norge.",
+      "Det kan gis tilskudd til kompetansehevende arrangementer, seminarer og bransjetiltak som har den produserende dataspillbransjen som målgruppe."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-6",
+     "nummer": "§ 5-6",
+     "tittel": "Utmåling av tilskudd",
+     "ledd": [
+      "Kun kostnader som er relevante og knyttet til gjennomføring av tiltaket, kan godkjennes som grunnlag for utmåling av tilskudd.",
+      "Tilskuddsforvalter kan fastsette satser for tilskudd."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Tilskudd til formidling av dataspill og til kompetansehevende tiltak for formidlere av dataspill",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 6-1",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Dette kapittelet gjelder tilskudd til formidling og tilgjengeliggjøring av dataspill og arbeid med å tilrettelegge for dataspillets møte med publikum. Det gjelder også tilskudd til arrangører av kompetansehevende tiltak for formidling av dataspill."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 6-2",
+     "tittel": "Definisjon av begrepet formidlingstiltak",
+     "ledd": [
+      "Formidlingstiltak er tiltak som skaper møteplasser mellom publikum og dataspill, og styrker møtet mellom utøvere og ett eller flere dataspill ved å sette det inn i en pedagogisk, kulturell, samfunnsmessig eller historisk kontekst."
+     ],
+     "endringer": [
+      "Endret ved forskrift 12 mai 2022 nr. 901."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-3",
+     "nummer": "§ 6-3",
+     "tittel": "Krav til søker",
+     "ledd": [
+      "Organisasjoner, stiftelser eller foretak som påtar seg ansvaret for å arrangere, koordinere og gjennomføre tiltak som tilrettelegger for publikums møter med dataspill kan søke om tilskudd etter dette kapittel. Søker skal være registrert i Enhetsregisteret.",
+      "Søker er ansvarlig part ovenfor tilskuddsforvalter og skal kunne påta seg forpliktelser på vegne av prosjektet. Søker skal kunne dokumentere tilfredsstillende økonomisk, faglig og praktisk evne til å gjennomføre prosjektet og må kunne stå ansvarlig for prosjektets regnskap."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-4",
+     "nummer": "§ 6-4",
+     "tittel": "Nødvendige rettigheter",
+     "ledd": [
+      "Søker skal ha, eller klarere nødvendige rettigheter for dataspillene for å kunne gjennomføre de prosjektene eller tiltakene det søkes om tilskudd til."
+     ],
+     "endringer": [
+      "Endret ved forskrift 12 mai 2022 nr. 901."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-5",
+     "nummer": "§ 6-5",
+     "tittel": "Prioritering",
+     "ledd": [
+      "Vedtak om tilskudd baseres på en samlet vurdering av\na. formålet med tilskuddsordningene\nb. prioriterte satsningsområder eller hensyn fastsatt av Kulturdepartementet eller tilskuddsforvalter\nc. prosjektets egenart, kunstneriske og/eller kulturelle verdi\nd. prosjektets økonomi og bærekraft\ne. geografisk spredning\nf. relevante profesjonelle resultater hos søker eller andre nøkkelpersoner i prosjektet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-6",
+     "nummer": "§ 6-6",
+     "tittel": "Tilskudd til arrangementer for formidling av dataspill",
+     "ledd": [
+      "Tilskudd etter denne bestemmelsen skal bidra til bredde og kvalitet i dataspilltilbudet for barn, unge og voksne, og stimulere dataspillkulturen i Norge.",
+      "Det kan gis tilskudd til arrangementer og visning, herunder dataspilltreff og andre dataspillarrangement og formidlingstiltak for dataspill med kunstnerisk, kulturelt eller pedagogisk formål. Tilskudd til større dataspillarrangementer som går over flere dager, skal ikke overstige 60 % av arrangørens godkjente, samlede budsjett.",
+      "Dataspilltreff og arrangementer skal være åpne for allmennheten og tilby et sammensatt dataspillprogram av et visst omfang."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-7",
+     "nummer": "§ 6-7",
+     "tittel": "Tilskudd til kompetansehevende tiltak for formidlere",
+     "ledd": [
+      "Tilskudd etter denne bestemmelsen skal bidra til et profesjonelt miljø for formidling av dataspill i Norge, øke kompetansen om og forståelsen for dataspill og engasjere flere til både å bruke og skape dataspill. Tilskuddet skal også bidra til at barn og unge blir reflekterte og kritiske brukere av dataspill.",
+      "Det kan gis tilskudd til seminarer, bransjetiltak og pedagogiske tiltak knyttet til dataspill."
+     ],
+     "endringer": [
+      "Endret ved forskrift 12 mai 2022 nr. 901."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-8",
+     "nummer": "§ 6-8",
+     "tittel": "Utmåling av tilskudd",
+     "ledd": [
+      "Tilskudd gis som prosjekttilskudd.",
+      "Kun kostnader som er relevante og knyttet til gjennomføring av tiltaket, kan godkjennes som grunnlag for utmåling av tilskudd.",
+      "Tilskuddsforvalter kan fastsette satser for tilskudd."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kap7",
+   "overskrift": "Kapittel 7. Kontroll og rapportering om bruken av tilskudd",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 7-1",
+     "tittel": "Kontroll og rapportering om bruken av tilskudd",
+     "ledd": [
+      "Tilskuddsforvalter skal sørge for nødvendig kontroll med bruken av tilskuddsmidlene.",
+      "Tilskuddsmottaker skal rapportere om bruken av tilskuddet. Tilskuddsforvalter skal fastsette en frist for å avgi rapport om bruken av tilskuddet, og eventuelt levere regnskap og produktet som er beskrevet i vedtaket om tilskudd.",
+      "Tilskuddsforvalter kan kontrollere at enkelttilskudd eller et utvalg tilskudd er brukt etter vilkår og forutsetninger i innvilgelsesvedtak.",
+      "Tilskuddsmottaker plikter på forespørsel å fremlegge alle opplysninger som er nødvendige for at tilskuddsforvalter kan føre kontroll etter denne forskriften. Tilskuddsmottaker skal oppbevare all dokumentasjon for at vilkårene for å motta kompensasjon er oppfylt i ti år beregnet fra året etter søknadsåret."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-2",
+     "nummer": "§ 7-2",
+     "tittel": "Regnskap",
+     "ledd": [
+      "Regnskap skal føres i henhold til særregler gitt i denne forskriften, gjeldende lover og regler og i tråd med god regnskapsskikk. Tilskuddsforvalter kan fastsette nærmere retningslinjer for regnskapsføring.",
+      "Følgende krav gjelder til regnskap ved tilskudd til utvikling og lansering:\na. Det skal føres eget regnskap for hvert dataspill som mottar tilskudd etter kapittel 3.\nb. Regnskapet skal normalt føres i henhold til godkjent kalkyleskjema.\nc. Utgifter som dekkes over budsjettpostens uforutsette utgifter skal konteres på den relevante post.\nd. Alle avtaler om rettigheter, avtaler med stab og avtaler om kjøp eller leie av et visst omfang, som skal belastes regnskapet, skal inngås skriftlig."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-8",
+   "navn": "kap8",
+   "overskrift": "Kapittel 8. Reaksjoner ved mislighold",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-1",
+     "nummer": "§ 8-1",
+     "tittel": "Omgjøring av vedtak om tildeling av tilskudd",
+     "ledd": [
+      "Tilskuddsforvalter kan trekke tilbake tilsagn om tilskudd helt eller delvis og kreve tilbakebetaling av utbetalt tilskudd i følgende situasjoner:\na. Tilskuddsmottaker har brutt opplysningsplikten i § 2-3 ved å gi mangelfulle, uriktige eller misvisende opplysninger av betydning for saken. Det kan for eksempel være opplysninger av betydning for vurderingen og prioriteringen av prosjektet eller for hvorvidt tilskuddsmottaker oppfyller vilkårene i forskriften.\nb. Tilskuddsmottaker har ikke benyttet tilskuddet i henhold til vilkår og forutsetninger for tilskuddet.\nc. Tilskuddsmottakers drift strider mot lov eller annet relevant regelverk og dette er dokumentert av en annen offentlig myndighet.\nd. Tilskuddsmottakers rapportering har vesentlige mangler.\ne. Tilskuddet er i strid med EØS-avtalens regler om offentlig støtte.\nf. Tilskuddsmottaker har endret prosjektet vesentlig uten godkjenning av tilskuddsforvalter.\ng. Tilskuddsmottaker har ikke gjennomført prosjektet, eller det er sannsynliggjort at tilskuddsmottaker ikke vil kunne gjennomføre prosjektet i tråd med betingelser og vilkår i tilskuddsbrevet.\nh. Tilskuddsmottaker har på annen vesentlig måte brutt bestemmelsene i denne forskriften eller vilkår fastsatt av tilskuddsforvalter med hjemmel i denne forskriften, for eksempel i retningslinjer.",
+      "Ved krav om tilbakebetaling kan det fastsettes rente etter forsinkelsesrenteloven. Dersom tilbakebetalingskravet skyldes at tilskuddet strider mot EØS-regelverket skal det fastsettes renter og renters rente i tråd med EFTAs overvåkingsorgans referanserente.",
+      "Ved grovt mislighold skal tilskuddsforvalter umiddelbart stanse alle utbetalinger av tilskudd til tilskuddsmottaker i påvente av en avklaring av om vedtak om tildeling av tilskudd skal omgjøres eller en reaksjon iverksettes.",
+      "Tilskuddsmottaker skal varsles før vedtak fattes."
+     ],
+     "endringer": [
+      "Endret ved forskrift 12 mai 2022 nr. 901."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-2",
+     "nummer": "§ 8-2",
+     "tittel": "Tilbakeholdelse av tilskudd og motregning",
+     "ledd": [
+      "Tilskuddsforvalter kan holde tilbake utbetalinger i situasjoner som nevnt i § 8-1, i påvente av en utbedring av påpekte brudd på vilkår og forutsetninger for tilskudd.",
+      "Ved utbetaling av for mye tilskudd slik at tilskuddsforvalter har et tilbakebetalingskrav overfor tilskuddsmottaker, kan tilskuddsforvalter tilbakeholde innvilget, ikke utbetalt tilskudd i andre prosjekter, i påvente av tilbakebetaling fra tilskuddsmottaker.",
+      "Tilskuddsforvalter kan motregne krav som ikke er tilbakebetalt opp mot ikke utbetalt tilskudd. Dette gjelder uavhengig av når kravet oppsto eller forfalt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-3",
+     "nummer": "§ 8-3",
+     "tittel": "Utestengelse fra tilskuddsordninger ved mislighold",
+     "ledd": [
+      "Tilskuddsforvalter kan utestenge tilskuddsmottaker fra tilskuddsforvalters tilskuddsordninger i opptil tre år.",
+      "Utestengelse kan vedtas:\na. dersom tilbaketrukne midler ikke blir tilbakebetalt\nb. ved gjentatte eller alvorlige brudd på regelverk eller forutsetninger, som beskrevet i § 8-1 første ledd."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-9",
+   "navn": "kap9",
+   "overskrift": "Kapittel 9. Ikrafttredelse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-1",
+     "nummer": "§ 9-1",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Forskriften trer i kraft 1. mars 2021."
+     ]
+    }
+   ]
+  }
+ ]
+}

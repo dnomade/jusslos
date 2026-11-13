@@ -1,0 +1,84 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2020-12-11-2731",
+ "dokumentid": "SF/forskrift/2020-12-11-2731",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Skattelovavdelingen"
+ ],
+ "ikraft": "2021-01-01",
+ "endrer": "forskrift/1990-02-13-105\nforskrift/2006-12-15-1454\nforskrift/2008-06-20-632\nforskrift/2014-12-01-1489",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2019-06-21-32/§14",
+   "tekst": "lov/2019-06-21-32/§14"
+  },
+  {
+   "ref": "lov/2019-06-21-32/§20",
+   "tekst": "lov/2019-06-21-32/§20"
+  }
+ ],
+ "kunngjort": "2020-12-14 15:30",
+ "korttittel": "Statistikkforskriften",
+ "tittel": "Forskrift til statistikkloven (statistikkforskriften)",
+ "annet": "Hjemmel: Fastsatt av Finansdepartementet 11. desember 2020 med hjemmel i lov 21. juni 2019 nr. 32 om offisiell statistikk og Statistisk sentralbyrå (statistikkloven) § 14 og § 20.",
+ "refid": "forskrift/2020-12-11-2731",
+ "eli": "/eli/forskrift/2020/12/11/2731",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2020-12-11-2731",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Hvem som kan gis tilgang til opplysninger for statistiske resultater og analyser",
+   "ledd": [
+    "(1) Tilgang til opplysninger etter statistikkloven § 14 kan gis til forskningsinstitusjoner for forskningsformål og til følgende organer for utarbeiding av statistiske resultater og analyser:\na. statlige organer, fylkeskommuner og kommuner\nb. Norges Bank\nc. Riksrevisjonen\nd. sentrale statistikkmyndigheter i andre land\ne. internasjonale organisasjoner med grunnlag i folkerettslig avtale.",
+    "(2) Med forskningsinstitusjoner menes organisasjoner som er godkjent som forskningsorganisasjon av Forskningsrådet eller EUs statistikkontor, Eurostat. Statistisk sentralbyrå kan godkjenne en organisasjon som forskningsinstitusjon selv om organisasjonen ikke vil kunne godkjennes av Forskningsrådet eller Eurostat."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Begrensninger i hvilke opplysninger det kan gis tilgang til og tidspunkt for tilgang",
+   "ledd": [
+    "(1) Det kan ikke gis tilgang til opplysninger Statistisk sentralbyrå har innhentet fra registre som har hjemmel i helseregisterloven.",
+    "(2) Det kan ikke gis tilgang til opplysninger som inngår i statistikkgrunnlaget for offisiell statistikk før statistikken er publisert. Opplysninger som Statistisk sentralbyrå utelukkende har samlet inn for utviklings- eller kvalitetssikringsformål, kan det gis tilgang til når disse er statistisk klargjort og tilrettelagt for tilgang."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Betaling for tilgang til opplysninger",
+   "ledd": [
+    "Statistisk sentralbyrå kan kreve betaling for tilrettelegging og tilgjengeliggjøring av opplysninger. Betalingen kan ikke overstige kostnadene ved saksbehandling, tilrettelegging og tilgjengeliggjøring samt oppfølging av den enkelte søknaden."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Tvangsmulkt",
+   "ledd": [
+    "(1) Tvangsmulkt etter statistikkloven § 20 skal fastsettes som et fast beløp som forfaller ved hver overtredelse.",
+    "(2) Tvangsmulkt skal normalt utgjøre fire ganger rettsgebyret. I særlige tilfeller kan tvangsmulkten settes lavere eller høyere.",
+    "(3) Tvangsmulkt kan ilegges også dersom opplysningene ikke er gitt i den formen Statistisk sentralbyrå har bestemt etter statistikkloven § 10."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Ikrafttredelse og endringer i andre forskrifter",
+   "ledd": [
+    "(1) Forskriften trer i kraft 1. januar 2021.",
+    "(2) Fra samme tidspunkt oppheves\na. forskrift 13. februar 1990 nr. 105 om gjennomføring og utfylling av lov om offisiell statistikk og Statistisk sentralbyrå (statistikkloven).\nb. forskrift 15. desember 2006 nr. 1454 om utvidet virkeområde for lov 16. juni 1989 nr. 54 om offisiell statistikk og Statistisk sentralbyrå til å gjelde for Svalbard\nc. forskrift 20. juni 2008 nr. 632 om gjennomføring av EØS-rettsakter om europeisk statistikk\nd. forskrift 1. desember 2014 nr. 1489 om opplysningsplikt til den offisielle lønnsstatistikken ved rapportering i henhold til lov om arbeidsgivers innrapportering av ansettelses- og inntektsforhold m.m. (a-opplysningsloven)."
+   ]
+  }
+ ]
+}

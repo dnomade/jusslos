@@ -1,0 +1,73 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2023-06-21-1009",
+ "dokumentid": "SF/forskrift/2023-06-21-1009",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "etat": [
+  "Kystverket"
+ ],
+ "ikraft": "2023-07-01",
+ "endrer": "forskrift/2021-12-16-3622",
+ "hjemmel": [
+  {
+   "ref": "lov/2019-06-21-70/§7",
+   "tekst": "lov/2019-06-21-70/§7"
+  },
+  {
+   "ref": "lov/2019-06-21-70/§51",
+   "tekst": "lov/2019-06-21-70/§51"
+  },
+  {
+   "ref": "forskrift/2021-03-26-1180",
+   "tekst": "forskrift/2021-03-26-1180"
+  }
+ ],
+ "kunngjort": "2023-06-22 14:45",
+ "tittel": "Forskrift om endring i forskrift om statlige fartsgrenser på sjøen",
+ "annet": "Hjemmel: Fastsatt av Kystverket 21. juni 2023 med hjemmel i lov 21. juni 2019 nr. 70 om havner og farvann (havne- og farvannsloven) § 7 og § 51, jf. delegeringsvedtak 26. mars 2021 nr. 1180.",
+ "refid": "forskrift/2023-06-21-1009",
+ "eli": "/eli/forskrift/2023/06/21/1009",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2023-06-21-1009",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "I forskrift 16. desember 2021 nr. 3622 om statlige fartsgrenser på sjøen gjøres følgende endring:\n§ 6-2 skal lyde:"
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-foreslåttparagraf-1",
+     "nummer": null,
+     "tittel": null,
+     "ledd": [
+      "§ 6-2. Fartsgrenser på sjøen i Bergen kommune",
+      "5 knop er høyeste tillatte fart for næringsfartøy i Vågen avgrenset av en linje mellom posisjonene N 60° 24.114′, Ø 5° 18.496′ (Skoltegrunnskaien) og N 60° 24.051′, Ø 5° 18.134′ (Nordnes).",
+      "8 knop er høyeste tillatte fart for næringsfartøy i Puddefjorden avgrenset av linjer trukket mellom posisjonene\n1. N 60° 23.493′, Ø 5° 18.351′\n2. N 60° 23.442′, Ø 5° 17.755′\nog\n3. N 60° 22.881′, Ø 5° 19.500′\n4. N 60° 22.825′, Ø 5° 19.432′.",
+      "5 knop er høyeste tillatte fart for fritidsfartøy i bileden i Kjeøyna avgrenset av linjer trukket mellom posisjonene\n1. N 60° 13.327′, Ø 5° 14.340′ (Øynaklubben)\n2. N 60° 13.255′, Ø 5° 14.454′ (Djupvika)\nog\n3. N 60° 13.045′, Ø 5° 18.069′ (SØ spissen av Kjeøyna)\n4. N 60° 13.143′, Ø 5° 18.232′ (Sørspissen av Husanesholmen)\nog\n5. N 60° 13.184′, Ø 5° 18.222′ (N-spissen av Husanesholmen)\n6. N 60° 13.203′, Ø 5° 18.214′ (Kalvaneset)."
+     ],
+     "fremtidig": true
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Forskriften gjelder fra 1. juli 2023."
+    }
+   ]
+  }
+ ]
+}

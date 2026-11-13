@@ -1,0 +1,437 @@
+{
+ "skjema": "1.0",
+ "type": "lov",
+ "datokode": "LOV-2022-12-16-90",
+ "dokumentid": "NL/lov/2022-12-16-90",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "ikraft": "2023-01-01",
+ "siste_endring_ikraft": "2026-07-01",
+ "sist_endret_ved": [
+  {
+   "ref": "lov/2026-06-19-39",
+   "tekst": "lov/2026-06-19-39 fra 2026-07-01"
+  }
+ ],
+ "endrer": "lov/1993-06-18-109",
+ "rettsomrade": [
+  "Bank, finans og regnskapsrett > Regnskap"
+ ],
+ "kunngjort": "2022-12-16 13:00",
+ "korttittel": "Regnskapsførerloven",
+ "tittel": "Lov om regnskapsførere (regnskapsførerloven)",
+ "annet": "Prop.130 L (2021–2022), Innst.75 L (2022–2023), Lovvedtak 10 (2022–2023). Stortingets første og andre gangs behandling hhv. 6. og 12. desember 2022. Fremmet av Finansdepartementet.",
+ "refid": "lov/2022-12-16-90",
+ "eli": "/eli/lov/2022/12/16/90",
+ "url": "https://lovdata.no/dokument/NL/lov/2022-12-16-90",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1 Virkeområde og definisjoner",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1-1",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Loven gjelder adgangen til å føre regnskap i næring for andre.",
+      "Loven gjelder også når:\na. et regnskapsforetak i tilknytning til et regnskapsoppdrag har adgang til å belaste oppdragsgivers bankkonto med utbetalinger,\nb. et regnskapsforetak i tilknytning til et regnskapsoppdrag oppbevarer oppdragsgivers midler på regnskapsforetakets konto (klientkonto),\nc. et regnskapsforetak utfører bokføring eller utarbeider årsregnskap for en oppdragsgiver som ikke har plikter som nevnt i § 1-2 første ledd,\nd. et regnskapsforetak utarbeider regnskapsrapportering som er unntatt som pliktig regnskapsrapportering i medhold av bokføringsloven § 3, og\ne. et regnskapsforetak eller en statsautorisert regnskapsfører avgir en bekreftelse i henhold til lov, forskrift eller krav fra offentlig myndighet.",
+      "Loven gjelder ikke\na. regnskapsføring for et annet foretak i samme konsern eller en gruppe av foretak hvor eierforholdene er av vesentlig samme karakter som i et konsern\nb. regnskapsføring for annen virksomhet i en gruppe av samarbeidende virksomheter hvor felles regnskapsføring er en mindre del av et samarbeid for å ivareta andre interesser for deltakerne.",
+      "Departementet kan i forskrift gi regler om gjennomføring, utfylling og avgrensning av loven. Finanstilsynet kan i forskrift eller ved enkeltvedtak fastsette unntak fra loven. Finanstilsynet kan i tvilstilfeller bestemme om loven skal gjelde.",
+      "Kongen kan gi forskrift om lovens anvendelse på Svalbard og kan fastsette særlige regler under hensyn til de stedlige forhold."
+     ],
+     "endringer": [
+      "Endret ved lov 20 juni 2025 nr. 47 (i kraft 1 juli 2025 iflg. res. 20 juni 2025 nr. 1110)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 1-2",
+     "tittel": "Definisjoner mv.",
+     "ledd": [
+      "Med «regnskapsføring» menes utføring av oppdragsgivers plikter etter bokføringsloven og regnskapsloven og utarbeiding av pliktig regnskapsrapportering som nevnt i bokføringsloven § 3.",
+      "Med «regnskapsoppdrag» menes oppdrag om regnskapsføring.",
+      "Med «regnskapsfører» menes regnskapsforetaket som har påtatt seg et regnskapsoppdrag, og den regnskapsføreren som er utpekt som ansvarlig for oppdraget.",
+      "Med «regnskapsforetak» menes\na. godkjent regnskapsselskap, jf. § 2-2\nb. statsautorisert regnskapsfører, jf. § 2-3, som påtar seg regnskapsoppdrag i eget navn og har registrert enkeltpersonforetaket i Foretaksregisteret."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2 Godkjenning mv.",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 2-1",
+     "tittel": "Adgang til å drive regnskapsføring",
+     "ledd": [
+      "Regnskapsføring i næring for andre kan bare utføres av regnskapsforetak."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 2-2",
+     "tittel": "Regnskapsselskap",
+     "ledd": [
+      "Finanstilsynet gir godkjenning som regnskapsselskap til selskap eller annen juridisk person\na. som har som formål å føre regnskap for andre\nb. som er i stand til å oppfylle sine forpliktelser etter hvert som de forfaller, og\nc. hvor styremedlemmer, eiere og de som står for den daglige ledelsen, oppfyller vilkårene i § 3-3 om å være skikket.",
+      "Eiere som nevnt i første ledd bokstav c omfatter eiere eller deltakere som direkte eier eller representerer 10 prosent eller mer av kapitalen eller eierandelene i et autorisert regnskapsselskap.",
+      "Finanstilsynet kan kreve at det legges frem ordinær politiattest etter politiregisterloven § 40 for personer som omfattes av første ledd bokstav c."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 2-3",
+     "tittel": "Statsautorisert regnskapsfører",
+     "ledd": [
+      "Finanstilsynet gir godkjenning som statsautorisert regnskapsfører til person som oppfyller vilkårene i § 3-1 til § 3-3. Godkjenning som statsautorisert regnskapsfører gis også til person med yrkeskvalifikasjoner fra en annen EØS-stat eller Sveits som oppfyller vilkårene i § 3-3 og i yrkeskvalifikasjonsloven § 8 og forskrifter gitt i medhold av yrkeskvalifikasjonsloven. Godkjenning gis også til personer med yrkeskvalifikasjoner fra Storbritannia som oppfyller vilkårene i § 3-3 og nærmere regler fastsatt i forskrift til yrkeskvalifikasjonsloven. Departementet kan i forskrift fastsette at personer fra andre land enn nevnt i dette leddet kan gis godkjenning etter annet eller tredje punktum.",
+      "Yrkeskvalifikasjonsloven § 2 tredje ledd om yrkesutøver med yrkeskvalifikasjoner fra tredjeland gjelder ikke for personer fra andre land enn de som er omfattet av regnskapsførerloven § 2-3 første ledd annet og tredje punktum.",
+      "Tittelen statsautorisert regnskapsfører kan bare benyttes av person som har godkjenning etter første ledd."
+     ],
+     "endringer": [
+      "Endret ved lov 19 juni 2026 nr. 39 (i kraft 1 juli 2026 iflg. res. 19 juni 2026 nr. 1154)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 2-4",
+     "tittel": "Deponering",
+     "ledd": [
+      "Finanstilsynet skal gi godkjenningen som statsautorisert regnskapsfører tilbake til den som frivillig har sagt fra seg godkjenningen, hvis vedkommende oppfyller kravene til skikkethet i § 3-3 og etterutdanning i § 3-4."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 2-5",
+     "tittel": "Regnskapsførerregisteret",
+     "ledd": [
+      "Finanstilsynet fører et offentlig register over statsautoriserte regnskapsførere og regnskapsforetak.",
+      "Registeret skal inneholde følgende opplysninger om statsautoriserte regnskapsførere\na. navn og adresse\nb. fødselsnummer\nc. dato for godkjenning.",
+      "Registeret skal inneholde følgende opplysninger om regnskapsforetak\na. navn og forretningsadresse\nb. organisasjonsnummer\nc. dato for godkjenning som regnskapsselskap.",
+      "Fødselsnummer skal ikke være offentlig.",
+      "Departementet kan i forskrift fastsette nærmere regler om regnskapsførerregisteret."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-6",
+     "nummer": "§ 2-6",
+     "tittel": "Tjenesteloven",
+     "ledd": [
+      "Saksbehandlingsfrist som nevnt i tjenesteloven § 11 første ledd første punktum skal være tre måneder for godkjenning etter § 2-2 og § 2-3. Bestemmelsen i tjenesteloven § 11 annet ledd om at tillatelse anses gitt når saksbehandlingsfristen er utløpt, gjelder ikke for søknad om godkjenning etter § 2-2 og § 2-3.",
+      "Departementet kan i forskrift fastsette utfyllende bestemmelser om midlertidig tjenesteytelse."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3 Kvalifikasjoner",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 3-1",
+     "tittel": "Utdanning",
+     "ledd": [
+      "Statsautorisert regnskapsfører skal ha oppnådd bachelorgrad i økonomi og administrasjon eller regnskap og revisjon, eller en mastergrad i økonomi og administrasjon, regnskap og revisjon eller en annen lignende mastergrad.",
+      "Utdanningen må, enten som en del av eller som et tillegg til graden, omfatte kurs som til sammen utgjør minst 60 studiepoeng innenfor emner som underbygger yrkesutøvelsen som regnskapsfører.",
+      "Utdanning i samsvar med revisorloven § 3-2 første til tredje ledd oppfyller utdanningskravet. Det samme gjelder høyere revisorstudium (HRS) og treårig revisorutdanning i henhold til tidligere revisorlovgivning.",
+      "Hvis det er mer enn fem år siden utløpet av det kalenderåret kravene i første til tredje ledd ble oppfylt, må søkeren oppfylle kravene i § 3-4 første, annet, fjerde, femte og sjette ledd.",
+      "Departementet kan i forskrift fastsette nærmere regler om utdanningskrav for godkjenning som statsautorisert regnskapsfører, herunder krav til dokumentasjon."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 3-2",
+     "tittel": "Praksis",
+     "ledd": [
+      "Søker med bachelorgrad som nevnt i § 3-1 skal ha minst tre års variert praksis som er relevant for yrkesutøvelsen. Minst to år av praksisen skal gjennomføres i et regnskapsforetak. Søker med mastergrad som nevnt i § 3-1 skal ha minst to års variert praksis som er relevant for yrkesutøvelsen. Minst ett år av praksisen skal gjennomføres i et regnskapsforetak. Minst ett år av praksisen skal gjennomføres etter at kravene i § 3-1 første til tredje ledd er oppfylt.",
+      "For revisorer som er godkjent etter revisorloven, likestilles praksis fra revisjonsforetak med praksis fra et regnskapsforetak etter første ledd. Dette gjelder ikke for godkjente revisorer som har deponert sin godkjenning etter revisorloven § 3-8.",
+      "Departementet kan i forskrift fastsette nærmere regler om praksiskrav for godkjenning som statsautorisert regnskapsfører, herunder krav til dokumentasjon."
+     ],
+     "endringer": [
+      "Endret ved lov 19 juni 2026 nr. 39 (i kraft 1 juli 2026 iflg. res. 19 juni 2026 nr. 1154)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 3-3",
+     "tittel": "Vilkår om å være skikket",
+     "ledd": [
+      "Godkjenning som statsautorisert regnskapsfører skal ikke gis til personer som\na. ikke er myndige\nb. ikke er i stand til å oppfylle sine forpliktelser etter hvert som de forfaller\nc. er dømt for straffbart forhold som gir grunn til å anta at vedkommende ikke kan utøve yrket på en forsvarlig måte\nd. har utvist en atferd som gir grunn til å anta at vedkommende ikke kan utøve yrket på en forsvarlig måte.",
+      "Ved vurderingen etter første ledd bokstav d skal det særlig tas hensyn til om atferden har\na. medført tilbakekall av en offentlig godkjenning eller tilsynsmessige sanksjoner\nb. bestått i regelbrudd som er konstatert ved forvaltningsvedtak eller rettsavgjørelse\nc. gitt grunnlag for at vedkommende er ilagt konkurskarantene eller annet virksomhetsforbud.",
+      "Søkeren skal legge frem ordinær politiattest etter politiregisterloven § 40."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 3-4",
+     "tittel": "Etterutdanning",
+     "ledd": [
+      "En statsautorisert regnskapsfører skal gjennomføre minst 80 timer relevant etterutdanning i løpet av de tre foregående kalenderårene eller i løpet av det inneværende og de to foregående kalenderårene. Som relevant etterutdanning regnes\na. strukturert opplæring og undervisning innenfor fagkretsen for utdanning som nevnt i § 3-1 første ledd\nb. utarbeidelse av undervisningsopplegg, artikler og annet fagstoff, deltakelse i fagteknisk utvalgsarbeid, sensur ved eksamen og likeverdig aktivitet innenfor den samme fagkretsen med inntil 20 timer.",
+      "Etterutdanningen må omfatte tilstrekkelig opplæring innenfor fagemnene finansregnskap, skatte- og avgiftsrett, foretaksrett og regnskapsføring.",
+      "Kravene til etterutdanning skal være oppfylt fra og med det fjerde årsskiftet etter at regnskapsføreren fikk godkjenning etter § 2-3.",
+      "Etterutdanningen skal dokumenteres. Dokumentasjon for strukturert opplæring skal være utarbeidet av den som arrangerer opplæringen, og skal inneholde navn på arrangøren og den som står for opplæringen, tittelen på opplæringen, en kort beskrivelse av det faglige innholdet, dato for gjennomføring, antall timer deltakelse og opplæringsformen.",
+      "Regnskapsføreren skal kunne fremvise en samlet oversikt over etterutdanning som er gjennomført i hver treårsperiode, med opplysning om type opplæring, antall timer og om fordeling på fagemner som angitt i annet ledd og annen etterutdanning. For strukturert opplæring skal oversikten angi arrangør, en kort beskrivelse av innholdet og tidspunkt for gjennomføring.",
+      "Dokumentasjon etter fjerde ledd og oversikt som nevnt i femte ledd skal oppbevares i fem år etter utløpet av det kalenderåret etterutdanningen ble gjennomført.",
+      "Ved avvikling av foreldrepermisjon utover seks måneder utvides perioden i første ledd med ett år. Finanstilsynet kan i særlige tilfeller og i en tidsbegrenset periode tillate et lavere krav til etterutdanning enn angitt i første ledd."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4 Organisering av virksomheten. Taushetsplikt",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 4-1",
+     "tittel": "Kapasitet, kompetanse og kvalitetsstyring",
+     "ledd": [
+      "Et regnskapsforetak skal ha tilgang på kapasitet og kompetanse slik at foretakets regnskapsoppdrag kan utføres i samsvar med § 5-4.",
+      "Et regnskapsforetak skal ha forsvarlig kvalitetsstyring. Kvalitetsstyringen skal omfatte retningslinjer og rutiner for å sikre at foretakets regnskapsoppdrag utføres og dokumenteres i samsvar med kravene i kapittel 5. Regnskapsforetaket skal se til at kvalitetsstyringen virket etter hensikten, og gjennomføre tiltak for å utbedre eventuelle svakheter. Kvalitetsstyringen skal tilpasses omfanget av og kompleksiteten i virksomheten. Regnskapsforetaket skal kunne vise at kvalitetsstyringen er egnet til å oppfylle kravene i kapittel 5.",
+      "En statsautorisert regnskapsfører skal ha ansvar for kvalitetsstyringen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 4-2",
+     "tittel": "Regnskapsførers taushetsplikt",
+     "ledd": [
+      "Et regnskapsforetak plikter å hindre at uvedkommende får adgang eller kjennskap til opplysninger som mottas i forbindelse med foretakets virksomhet, med mindre regnskapsfører i medhold av lov er gitt plikt eller adgang til å gi taushetsbelagte opplysninger.",
+      "En regnskapsfører kan uten hinder av taushetsplikt\na. gi opplysninger og adgang til dokumentasjon etter samtykke fra den som opplysningene gjelder\nb. gi opplysninger og dokumentasjon til ny regnskapsfører når denne regnskapsføreren ber om dette og dette har betydning for regnskapsoppdraget\nc. gi opplysninger og adgang til dokumentasjon til en statsautorisert regnskapsfører som foretar kontroll av regnskapsførers oppdrag\nd. underrette politiet om forhold som gir grunn til mistanke om straffbar handling\ne. avgi forklaring og fremlegge dokumentasjon vedrørende regnskapsføreroppdrag eller andre tjenester for en domstol eller for politiet når det er åpnet etterforskning i en straffesak.",
+      "Også den som foretar kontrollen etter annet ledd bokstav c, har taushetsplikt etter første ledd. Taushetsplikten etter første ledd og unntakene etter annet ledd bokstav a til e gjelder tilsvarende for tillitsvalgte, ansatte og andre som deltar i utførelsen av regnskapsforetakets regnskapsoppdrag.",
+      "Taushetsbelagte opplysninger kan ikke utnyttes i egen virksomhet eller i tjeneste eller arbeid for andre.",
+      "Pliktene etter denne paragrafen gjelder også etter at oppdraget er avsluttet."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5 Regnskapsoppdrag",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 5-1",
+     "tittel": "Forberedelse av oppdraget",
+     "ledd": [
+      "Regnskapsforetaket skal utpeke en statsautorisert regnskapsfører som ansvarlig for hvert regnskapsoppdrag. Den som utpekes, må ha nødvendig kompetanse og kapasitet til å utføre oppdraget. Den oppdragsansvarlige skal sørge for at bestemmelsene i dette kapittelet overholdes i utførelsen av oppdraget.",
+      "Før et regnskapsforetak påtar seg et regnskapsoppdrag, skal regnskapsforetaket be oppdragsgiverens forrige regnskapsfører opplyse om det foreligger forhold som tilsier at en ny regnskapsfører ikke bør påta seg oppdraget. Plikten kan fravikes når dette kan anses som god regnskapsføringsskikk. Den forrige regnskapsføreren skal uten hinder av taushetsplikten gi opplysninger som nevnt. Opplysningene skal gis skriftlig hvis regnskapsforetaket ber om det."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 5-2",
+     "tittel": "Oppdragsavtale og fullmakter",
+     "ledd": [
+      "Regnskapsforetaket skal opprette skriftlig oppdragsavtale med oppdragsgiveren for hvert regnskapsoppdrag. Oppdragsavtalen skal spesifisere hvilke oppgaver som skal utføres, og for hvilken tid oppdraget skal gjelde.",
+      "Når regnskapsforetaket skal opptre overfor tredjemann på oppdragsgivers vegne, skal det foreligge skriftlig fullmakt fra oppdragsgiver. For hvert oppdrag skal det foreligge en oversikt over hvilke fullmakter regnskapsforetaket har, og hvilke fysiske personer som er gitt rett til å benytte fullmakten. Regnskapsforetaket skal påse at retten til å benytte fullmakten tilbakekalles når personen ikke lenger skal ha en slik rett."
+     ],
+     "endringer": [
+      "Endret ved lov 20 juni 2025 nr. 47 (i kraft 1 juli 2025 iflg. res. 20 juni 2025 nr. 1110)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 5-3",
+     "tittel": "Dokumentasjon",
+     "ledd": [
+      "Regnskapsfører skal dokumentere regnskapsoppdrag på en måte som er tilstrekkelig til å vise at oppdraget er utført i samsvar med bestemmelsene i dette kapittelet.",
+      "Dokumentasjonen skal oppbevares i fem år etter regnskapsårets slutt. Når lovbrudd er tatt opp skriftlig med oppdragsgiver i henhold til § 5-4 annet ledd, skal denne kommunikasjonen oppbevares i ti år."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-4",
+     "nummer": "§ 5-4",
+     "tittel": "Utførelse av oppdraget",
+     "ledd": [
+      "Regnskapsfører skal utføre de oppgavene som omfattes av et regnskapsoppdrag, i samsvar med pliktene som er nevnt i § 1-2 første ledd og god regnskapsføringsskikk.",
+      "Regnskapsfører skal vurdere de interne rutinene hos oppdragsgiver som er sentrale for utføring av regnskapsoppdraget. Hvis regnskapsfører i utføringen av regnskapsoppdrag avdekker brudd på pliktene som nevnt i § 1-2 første ledd, skal bruddene tas opp med oppdragsgiver. Vesentlige brudd skal tas opp skriftlig."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-5",
+     "nummer": "§ 5-5",
+     "tittel": "Plikt til å frasi seg oppdraget",
+     "ledd": [
+      "Hvis forhold hos oppdragsgiver gjør at regnskapsfører ikke gis mulighet til å utføre oppdraget i samsvar med § 5-4 første ledd, plikter regnskapsfører å frasi seg oppdraget."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-6",
+     "nummer": "§ 5-6",
+     "tittel": "Forskrifter om oppdrag og klientkonto",
+     "ledd": [
+      "Departementet kan i forskrift fastsette nærmere regler om utføring av bekreftelsesoppdrag, jf. § 1-1 annet ledd bokstav e, og om utforming og registrering av fullmakter, jf. § 5-2 annet ledd. Finanstilsynet kan i forskrift fastsette nærmere regler om klientkontoer i regnskapsforetak, jf. § 1-1 annet ledd bokstav b."
+     ],
+     "endringer": [
+      "Tilføyd ved lov 20 juni 2025 nr. 47 (i kraft 1 juli 2025 iflg. res. 20 juni 2025 nr. 1110)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6 Tilbakekall av godkjenning. Straff",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 6-1",
+     "tittel": "Tilbakekall og suspensjon av godkjenning som statsautorisert regnskapsfører",
+     "ledd": [
+      "Finanstilsynet kan kalle tilbake godkjenningen hvis en statsautorisert regnskapsfører\na. ikke lenger oppfyller vilkårene i § 3-3 eller\nb. anses uskikket fordi vedkommende har overtrådt sine plikter etter lov og forskrifter og overtredelsen er grov eller flere overtredelser til sammen er grove.",
+      "Finanstilsynet kan suspendere godkjenningen hvis en statsautorisert regnskapsfører er siktet for et forhold som kan medføre tilbakekall av godkjenningen, inntil straffesaken er avsluttet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 6-2",
+     "tittel": "Tilbakekall og suspensjon av godkjenningen som regnskapsselskap",
+     "ledd": [
+      "Finanstilsynet kan kalle tilbake godkjenningen hvis et regnskapsselskap\na. ikke lenger oppfyller vilkårene i § 2-2 eller\nb. anses uskikket fordi regnskapsselskapet har overtrådt sine plikter etter lov og forskrifter og overtredelsen er grov eller flere overtredelser til sammen er grove.",
+      "Finanstilsynet kan suspendere godkjenningen hvis et regnskapsselskap er siktet for et forhold som kan medføre tilbakekall, inntil straffesaken er avsluttet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-3",
+     "nummer": "§ 6-3",
+     "tittel": "Overtredelsesgebyr",
+     "ledd": [
+      "Finanstilsynet kan ilegge regnskapsforetak og statsautoriserte regnskapsførere som forsettlig eller uaktsomt overtrer bestemmelser i kapittel 4 og kapittel 5, overtredelsesgebyr.",
+      "For juridiske personer kan det fastsettes overtredelsesgebyr på inntil 2 prosent av den samlede årsomsetningen etter siste godkjente årsregnskap, men overtredelsesgebyret kan i alle tilfelle maksimalt utgjøre 10 millioner kroner. For fysiske personer kan det fastsettes et overtredelsesgebyr på inntil 1 million kroner."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-4",
+     "nummer": "§ 6-4",
+     "tittel": "Momenter ved vedtak om overtredelsesgebyr",
+     "ledd": [
+      "Ved avgjørelsen av om overtredelsesgebyr skal ilegges, og ved utmåling av overtredelsesgebyr kan det blant annet tas hensyn til\na. overtredelsens grovhet og varighet\nb. grad av skyld\nc. økonomisk evne\nd. hvor stor vinning som er oppnådd, eller hvor stort tap som er unngått, ved overtredelsen\ne. i hvilken grad overtrederen har samarbeidet med Finanstilsynet\nf. tidligere overtredelser."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-5",
+     "nummer": "§ 6-5",
+     "tittel": "Foreldelse mv.",
+     "ledd": [
+      "Adgangen til å ilegge overtredelsesgebyr foreldes fem år etter at overtredelsen har opphørt. Fristen avbrytes ved at Finanstilsynet sender forhåndsvarsel eller treffer vedtak.",
+      "Departementet kan fastsette forskrifter om renter ved forsinket betaling av overtredelsesgebyr og nærmere bestemmelser om foreldelse."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-6",
+     "nummer": "§ 6-6",
+     "tittel": "Straff",
+     "ledd": [
+      "Den som forsettlig eller uaktsomt overtrer §§ 2-1, 4-1, 5-3, 5-4 eller 5-5, straffes med bøter eller fengsel inntil ett år.",
+      "Foreldelsesfristen for adgang til å reise straffesak er fem år."
+     ],
+     "endringer": [
+      "Endret ved lov 25 juni 2024 nr. 60 (i kraft 1 juli 2024 iflg. res. 25. juni 2024 nr. 1214)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kap7",
+   "overskrift": "Kapittel 7 Klagenemnd",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 7-1",
+     "tittel": "Klagenemnd",
+     "ledd": [
+      "Klager på vedtak truffet av Finanstilsynet etter denne loven behandles av en klagenemnd som oppnevnes av departementet.",
+      "Forvaltningsloven kommer til anvendelse for klagenemndens virksomhet. Departementet kan i forskrift fastsette regler om frister, klagens innhold, tilsvar og muntlig forhandling og om klagenemndens sammensetning og virksomhet.",
+      "Klagenemndens utgifter til klagebehandling etter første ledd dekkes av Finanstilsynet. Departementet fastsetter medlemmenes godtgjørelse.",
+      "Det kan kreves gebyr for behandling av klage som angitt i første ledd. Departementet kan i forskrift fastsette nærmere regler om når gebyr skal kreves, om gebyrenes størrelse og om innkrevingen."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-8",
+   "navn": "kap8",
+   "overskrift": "Kapittel 8 Ikrafttredelses- og overgangsregler. Endringer i andre lover.",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-1",
+     "nummer": "§ 8-1",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Loven trer i kraft fra den tid[1] Kongen bestemmer. De enkelte bestemmelser kan settes i kraft til ulik tid.",
+      "Lov 18. juni 1993 nr. 109 om autorisasjon av regnskapsførere oppheves fra den tid loven trer i kraft."
+     ],
+     "fotnoter": [
+      {
+       "nr": "1",
+       "tekst": "Fra 1. januar 2023 iflg. res. 16 des 2022 nr. 2255."
+      }
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-2",
+     "nummer": "§ 8-2",
+     "tittel": "Overgangsregler",
+     "ledd": [
+      "Departementet kan fastsette overgangsregler."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-3",
+     "nummer": "§ 8-3",
+     "tittel": "Endringer i andre lover",
+     "ledd": [
+      "Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –"
+     ]
+    }
+   ]
+  }
+ ]
+}

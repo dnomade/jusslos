@@ -1,0 +1,276 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-1977-08-05-2",
+ "dokumentid": "SF/forskrift/1977-08-05-2",
+ "departement": [
+  "Klima- og miljødepartementet"
+ ],
+ "etat": [
+  "Avdeling for klima- og forurensningssaker"
+ ],
+ "kunngjort_i": "I 1977 769",
+ "ikraft": "1977-09-01",
+ "siste_endring_ikraft": "2014-01-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2013-12-19-1757",
+   "tekst": "forskrift/2013-12-19-1757 fra 2014-01-01"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1976-06-11-79/§9",
+   "tekst": "lov/1976-06-11-79/§9"
+  },
+  {
+   "ref": "lov/1976-06-11-79/§15",
+   "tekst": "lov/1976-06-11-79/§15"
+  }
+ ],
+ "korttittel": "Forskrift til produktkontrolloven",
+ "tittel": "Forskrifter om gjennomføring av lov om kontroll med produkter og forbrukertjenester",
+ "annet": "Hjemmel: Fastsatt ved kgl.res. 5. august 1977 med hjemmel i lov 11. juni 1976 nr. 79 om produktkontroll §§ 9 og 15. Fremmet av Miljøverndepartementet.\nEndret ved forskrifter 7 sep 1990 nr. 731, 14 juni 1991 nr. 378, 11 mai 1994 nr. 344, 21 juni 2010 nr. 1073, 15 mars 2013 nr. 284, 19 des 2013 nr. 1757.",
+ "refid": "forskrift/1977-08-05-2",
+ "eli": "/eli/forskrift/1977/08/05/02",
+ "url": "https://lovdata.no/dokument/SF/forskrift/1977-08-05-2",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kap. 1. Produktkontrollmyndighetene og deres virksomhet.",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "(Produktkontrollmyndighetene)",
+     "ledd": [
+      "Produktkontrollmyndighetene er:\n1. Klima- og miljødepartementet\n2. Barne- og familiedepartementet\n3. Elektrisitetstilsynet\n4. Miljødirektoratet.",
+      "Klima- og miljødepartementet og Barne- og familiedepartementet kan etter avtale med vedkommende departement tillegge andre myndigheter eller institusjoner oppgaver etter produktkontrolloven."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 11 mai 1994 nr. 344, 21 juni 2010 nr. 1073, 15 mars 2013 nr. 284 (i kraft 1 juli 2013), 19 des 2013 nr. 1757 (i kraft 1 jan 2014)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 1a",
+     "tittel": "(Fordeling av myndighet mellom Klima- og miljødepartementet og Barne- og familiedepartementet)",
+     "ledd": [
+      "Under Klima- og miljødepartementet ligger myndighet etter lov om produktkontroll til forebyggelse av at produkt medfører miljøforstyrrelser i form av forurensning, avfall, støy eller lignende, samt forebyggelse av at produkt medfører helseskade som følge av kjemiske egenskaper.",
+      "Under Barne- og familiedepartementet hører myndighet etter lov om kontroll med produkter og forbrukertjenester til forebyggelse av at produkt medfører helseskade som følge av fysiske og/eller mekaniske egenskaper ved produkt, termiske egenskaper, brannegenskaper eller andre egenskaper som kan medføre helseskade og som ikke ligger under Klima- og miljødepartementets myndighetsområde. Under Barne- og familiedepartementet hører videre myndighet til å forebygge helseskader som følge av forbrukertjenester."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 11 mai 1994 nr. 344, endret ved forskrift 19 des 2013 nr. 1757 (i kraft 1 jan 2014)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 2",
+     "tittel": "(Opphevet 14 juni 1991 nr. 378.)",
+     "ledd": []
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-4",
+     "nummer": "§ 3",
+     "tittel": "(Miljødirektoratets oppgaver)",
+     "ledd": [
+      "Miljødirektoratet skal ha det administrative hovedansvar for gjennomføringen av den del av produktkontrolloven som er underlagt Klima- og miljødepartementet jfr. § 1 a."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 21 juni 2010 nr. 1073, 15 mars 2013 nr. 284 (i kraft 1 juli 2013), 19 des 2013 nr. 1757 (i kraft 1 jan 2014)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-5",
+     "nummer": "§ 3a",
+     "tittel": "(Elektrisitetstilsynets oppgaver)",
+     "ledd": [
+      "Elektrisitetstilsynet skal ha det administrative hovedansvar for gjennomføringen av den del av produktkontrolloven som er underlagt Barne- og familiedepartementet, jfr. § 1 a."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 11 mai 1994 nr. 344."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-6",
+     "nummer": "§ 4",
+     "tittel": "(Veiledningsplikt)",
+     "ledd": [
+      "Elektrisitetstilsynet og Miljødirektoratet skal så langt praktisk mulig gi publikum, næringsdrivende og offentlige organ opplysning for å vurdere om produkt kan medføre helseskade eller miljøforstyrrelser som nevnt i lovens § 1.",
+      "Miljødirektoratet og Elektrisitetstilsynet skal for øvrig i den utstrekning det er praktisk mulig gi publikum, næringsdrivende og offentlig organ nødvendig veiledning og informasjon om de regler som gjelder for et produkt og om den praksis som følges.",
+      "Elektrisitetstilsynet skal dessuten gi opplysninger, veiledning og informasjon, som nevnt i første og annet ledd, forsåvidt gjelder forbrukertjenester.",
+      "Det skal særlig legges vekt på å gi bistand til mindre virksomheter."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 11 mai 1994 nr. 344, 21 juni 2010 nr. 1073, 15 mars 2013 nr. 284 (i kraft 1 juli 2013)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-7",
+     "nummer": "§ 5",
+     "tittel": "(Forskrifter etter produktkontrolloven)",
+     "ledd": [
+      "Myndighet til å gi forskrifter etter produktkontrollovens § 4 tilligger Klima- og miljødepartementet og Barne- og familiedepartementet. Dersom forskriften er av prinsipiell interesse skal det andre departement uttale seg før forskriften vedtas. Nye fellesforskrifter fastsettes av Klima- og miljødepartementet og Barne- og familiedepartementet i fellesskap."
+     ],
+     "endringer": [
+      "Endret ved forskrift 19 des 2013 nr. 1757 (i kraft 1 jan 2014)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-8",
+     "nummer": "§ 6",
+     "tittel": "(Myndighet til å treffe enkeltvedtak etter produktkontrolloven)",
+     "ledd": [
+      "Elektrisitetstilsynet og Miljødirektoratet kan på sine respektive områder jfr. § 1 a:\n1. Treffe enkeltvedtak etter produktkontrollovens § 4.\n2. Gi næringsdrivende og andre pålegg om å fremskaffe opplysninger eller iverksette undersøkelser i overensstemmelse med produktkontrollovens § 5.\n3. Nedlegge midlertidig forbud etter produktkontrollovens § 6.\n4. Treffe vedtak om å ilegge eller frafalle tvangsmulkt etter produktkontrollovens § 13.\n5. Treffe vedtak etter lov om produktkontroll § 6a."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 11 mai 1994 nr. 344, 21 juni 2010 nr. 1073, 15 mars 2013 nr. 284 (i kraft 1 juli 2013)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-9",
+     "nummer": "§ 7",
+     "tittel": "(Plikt til å føre tilsyn)",
+     "ledd": [
+      "Elektrisitetstilsynet og Miljødirektoratet skal føre tilsyn etter produktkontrollovens § 8."
+     ],
+     "endringer": [
+      "Opphevet ved forskrift 14 juni 1991 nr. 378, tilføyd ved forskrift 11 mai 1994 nr. 344, endret ved forskrifter 21 juni 2010 nr. 1073, 15 mars 2013 nr. 284 (i kraft 1 juli 2013)."
+     ],
+     "opphevet": "2013-07-01"
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-10",
+     "nummer": "§§ 8-10",
+     "tittel": "(Opphevet 14 juni 1991 nr. 378.)",
+     "ledd": []
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-11",
+     "nummer": "§ 11",
+     "tittel": "(Behandling av opplysninger det gjelder taushetsplikt for)",
+     "ledd": [
+      "Klima- og miljødepartementet og Barne- og familiedepartementet skal på grunnlag av innstilling fra Miljødirektoratet og Elektrisitetstilsynet fastsette instruks om hvordan dokumenter eller registre som inneholder opplysninger som det gjelder taushetsplikt for, skal behandles, oppbevares eller ødelegges og hvordan Miljødirektoratet og Elektrisitetstilsynet skal forholde seg for å sikre at taushetsplikten blir overholdt."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 11 mai 1994 nr. 344, 21 juni 2010 nr. 1073, 15 mars 2013 nr. 284 (i kraft 1 juli 2013), 19 des 2013 nr. 1757 (i kraft 1 jan 2014)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-12",
+     "nummer": "§ 12",
+     "tittel": "(Klage)",
+     "ledd": [
+      "Klager over vedtak truffet av Miljødirektoratet avgjøres av Klima- og miljødepartementet.",
+      "Klage over vedtak truffet av Elektrisitetstilsynet avgjøres av Barne- og familiedepartementet."
+     ],
+     "endringer": [
+      "Endret ved forskrifter 11 mai 1994 nr. 344, 21 juni 2010 nr. 1073, 15 mars 2013 nr. 284 (i kraft 1 juli 2013), 19 des 2013 nr. 1757 (i kraft 1 jan 2014)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "Kap. II. Om behandling av forvaltningssaker som faller inn under flere myndigheters ansvarsområde.",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 13",
+     "tittel": "(Hovedansvarlig myndighet)",
+     "ledd": [
+      "I saker som berører flere kontrollmyndigheters ansvarsområde, skal én myndighet etter bestemmelsen i § 14 ha hovedansvaret for saksbehandlingen.",
+      "Organ som har hovedansvaret for behandling av en sak, skal sørge for:\n1. Sakens fremdrift.\n2. Samordne innhenting av opplysninger og kontakt med publikum og sakens parter.\n3. Så vidt mulig samordne de forskjellige myndigheters vedtak i tid og innhold."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 14",
+     "tittel": "(Ansvarsfordeling)",
+     "ledd": [
+      "Produktkontrollmyndighetene skal ha hovedansvaret for saker som behandles etter både produktkontrolloven og spesielle kontrollover. Dette gjelder likevel ikke dersom saken i det vesentlige reiser spørsmål som faller inn under en annen kontrollmyndighet, eller noe annet avtales mellom de berørte myndigheter.",
+      "I tvilstilfelle skal produktkontrollmyndighetene ha hovedansvaret inntil de berørte organer i fellesskap har bestemt noe annet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 15",
+     "tittel": "(Varslingsplikt)",
+     "ledd": [
+      "Når produktkontrollmyndighetene får en sak til behandling eller selv tar opp en sak som berører ansvarsområdet til annen myndighet, skal vedkommende myndighet straks varsles om dette.",
+      "I varslet skal det kort gjøres rede for hva saken gjelder. I varslet skal det også stå at det annet organ innen en nærmere fastsatt frist etter at varslet er mottatt, må gi svar på om det ønsker å behandle saken."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 16",
+     "tittel": "(Arbeidet med saker som behandles av flere myndigheter)",
+     "ledd": [
+      "Produktkontrollmyndighetene skal så vidt mulig sørge for at saker som det har hovedansvaret for etter § 14 blir behandlet så raskt at den samordnete behandling ikke fører til unødige forsinkelser. Det skal som hovedregel i samråd med vedkommende myndighet settes frister for andre organers behandling av saken.",
+      "I saker som andre myndigheter har hovedansvaret for, skal produktkontrollmyndighetene innrette sitt arbeid slik at de fastsatte frister holdes."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 17",
+     "tittel": "(Veiledning om forvaltningens ansvarsområder)",
+     "ledd": [
+      "Produktkontrollmyndighetene skal ved henvendelse fra publikum og andre gi opplysninger om hvilket organ som har hovedansvaret for saken henvendelsen gjelder. Om nødvendig skal produktkontrollmyndighetene gi opplysninger om hvem henvendelsen kan rettes til i andre forvaltningsorganer.",
+      "Dersom produktkontrollmyndighetene kan gi svar på spørsmål, skal den gjøre det selv om saken hører under et annet organ."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kapIII",
+   "overskrift": "Kap. III. Forskjellige bestemmelser.",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 18",
+     "tittel": "(Endring av forskriftene)",
+     "ledd": [
+      "Barne- og familiedepartementet og Klima- og miljødepartementet kan i fellesskap foreta endringer av disse forskriftene."
+     ],
+     "endringer": [
+      "Endret ved forskrift 19 des 2013 nr. 1757 (i kraft 1 jan 2014)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 19",
+     "tittel": "(Ikrafttredelse)",
+     "ledd": [
+      "Disse forskrifter trer ikraft 1. september 1977."
+     ]
+    }
+   ]
+  }
+ ]
+}

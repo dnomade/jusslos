@@ -1,0 +1,53 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-1990-12-21-1018",
+ "dokumentid": "DEL/forskrift/1990-12-21-1018",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Skattelovavd."
+ ],
+ "kunngjort_i": "I 1990 1108",
+ "ikraft": "1991-01-01",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1990-06-22-36/§7",
+   "tekst": "lov/1990-06-22-36/§7"
+  }
+ ],
+ "korttittel": "Delegering etter petroleumsfondloven",
+ "tittel": "Ikrafttredelse av lov av 22. juni 1990 nr. 36 om Statens petroleumsfond. Delegering av myndighet.",
+ "annet": "Fastsatt ved Kronprinsreg.res. 21. desember 1990. Fremmet av Finans- og tolldepartementet.",
+ "refid": "forskrift/1990-12-21-1018",
+ "eli": "/eli/forskrift/1990/12/21/1018",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/1990-12-21-1018",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Loven settes i kraft fra og med 1. januar 1991."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Kongens myndighet etter lovens § 7 til å gi bestemmelser til utfylling og gjennomføring av loven, herunder om fondets opprettelse, forvaltning m.v. delegeres til Finans- og tolldepartementet."
+    }
+   ]
+  }
+ ]
+}

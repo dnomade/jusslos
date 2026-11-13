@@ -1,0 +1,586 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2017-06-21-854",
+ "dokumentid": "SF/forskrift/2017-06-21-854",
+ "departement": [
+  "Klima- og miljødepartementet",
+  "Kommunal- og distriktsdepartementet"
+ ],
+ "etat": [
+  "Naturforvaltningsavdelingen"
+ ],
+ "ikraft": "2017-07-01",
+ "siste_endring_ikraft": "2026-03-06",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2026-03-06-353",
+   "tekst": "forskrift/2026-03-06-353"
+  }
+ ],
+ "endrer": "forskrift/2014-12-19-1726\nforskrift/2014-12-19-1758",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2008-06-27-71/§1-2",
+   "tekst": "lov/2008-06-27-71/§1-2"
+  },
+  {
+   "ref": "lov/2008-06-27-71/§4-2",
+   "tekst": "lov/2008-06-27-71/§4-2"
+  },
+  {
+   "ref": "lov/2008-06-27-71/§14-6",
+   "tekst": "lov/2008-06-27-71/§14-6"
+  },
+  {
+   "ref": "lov/2008-06-27-71/§32-8a",
+   "tekst": "lov/2008-06-27-71/§32-8a"
+  }
+ ],
+ "kunngjort": "2017-06-22 14:05",
+ "siste_rettelse": "2021-04-16 (tegnsetting i lister tilpasset universell utforming)",
+ "tittel": "Forskrift om konsekvensutredninger",
+ "annet": "Hjemmel: Fastsatt ved kgl.res. 21. juni 2017 med hjemmel i lov 27. juni 2008 nr. 71 om planlegging og byggesaksbehandling (plan- og bygningsloven) § 1-2, § 4-2, § 14-6 og § 32-8a. Fremmet av Kommunal- og moderniseringsdepartementet og Klima- og miljødepartementet.\nEØS-henvisninger: EØS-avtalen vedlegg XX nr. 1a (direktiv 2014/52/EU) og nr. 1g (direktiv 2001/42/EF).\nEndret ved forskrifter 20 des 2018 nr. 2067, 8 okt 2021 nr. 2958 (i kraft 1 nov 2021), 20 des 2023 nr. 2169, 18 des 2023 nr. 2278 (i kraft 1 jan 2024), 9 mai 2025 nr. 755 (i kraft 1 juli 2025), 19 des 2025 nr. 2707 (i kraft 17 jan 2026), 6 mars 2026 nr. 353.\nRettet 16.04.2021 (tegnsetting i lister tilpasset universell utforming).",
+ "refid": "forskrift/2017-06-21-854",
+ "eli": "/eli/forskrift/2017/06/21/854",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2017-06-21-854",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Formål",
+   "ledd": [
+    "Formålet med forskriften er å sikre at hensynet til miljø og samfunn blir tatt i betraktning under forberedelsen av planer og tiltak, og når det tas stilling til om og på hvilke vilkår planer eller tiltak kan gjennomføres."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Virkeområde",
+   "ledd": [
+    "Hvilke planer og tiltak som omfattes av forskriften fremgår av § 6, § 7 og § 8.",
+    "For planer etter plan- og bygningsloven følger forskriftens geografiske virkeområde av plan- og bygningsloven § 1-2. For tiltak og planer etter andre lover følger forskriftens geografiske virkeområde av den aktuelle loven."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Forholdet til annet regelverk",
+   "ledd": [
+    "Saksbehandlingen etter forskriften skal oppfylle de krav til utredning og vurderinger som etter andre lover er nødvendig for den beslutningen som konsekvensutredningen skal ligge til grunn for.",
+    "Beslutninger etter forskriften er ikke enkeltvedtak etter forvaltningsloven med unntak av vedtak om overtredelsesgebyr etter § 36."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Forslagsstiller",
+   "ledd": [
+    "Den som fremmer forslag om en plan eller et tiltak er forslagsstiller etter forskriften.",
+    "Forslagsstilleren skal vurdere om planen eller tiltaket omfattes av § 6, § 7 eller § 8.",
+    "Forslagsstilleren skal bære kostnadene med å utarbeide en konsekvensutredning og et planprogram eller en melding med forslag til utredningsprogram når dette kreves.",
+    "Forslagsstilleren har ansvar for at opplysningene som gis til myndighetene er riktige og etterprøvbare og at de oppfyller kravene i forskriften."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Ansvarlig myndighet",
+   "ledd": [
+    "Ansvarlig myndighet etter forskriften er planmyndigheten for den aktuelle planen etter plan- og bygningsloven, og vedtaksmyndigheten for tiltak etter andre lover. Hvem som er ansvarlig myndighet går frem av § 6, § 7 og § 8.",
+    "Ansvarlig myndighet skal under behandlingen av saker etter forskriften opptre objektivt og ha tilstrekkelig fagkunnskap. Er ansvarlig myndighet samtidig forslagsstiller, skal de to rollene så langt det er mulig holdes administrativt adskilt."
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Planer og tiltak som omfattes av forskriften",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 6",
+     "tittel": "Planer og tiltak som alltid skal konsekvensutredes og ha planprogram eller melding",
+     "ledd": [
+      "Følgende planer og tiltak skal alltid konsekvensutredes og ha planprogram eller melding:\na. kommuneplanens arealdel etter § 11-5 og regionale planer etter plan- og bygningsloven § 8-1, kommunedelplaner etter § 11-1, og områdereguleringer etter § 12-2 når planene fastsetter rammer for tiltak i vedlegg I og II\nb. reguleringsplaner etter plan- og bygningsloven for tiltak i vedlegg I. Unntatt fra dette er reguleringsplaner der det konkrete tiltaket er konsekvensutredet i en tidligere plan og der reguleringsplanen er i samsvar med denne tidligere planen\nc. tiltak i vedlegg I som behandles etter andre lover enn plan- og bygningsloven.",
+      "Fylkeskommunen er ansvarlig myndighet for regionale planer. Kommunen er ansvarlig myndighet for kommunale planer. Ansvarlig myndighet for planer og tiltak etter bokstav b og c fremgår av vedlegg I. For tiltak etter bokstav b der gjennomføring av tiltaket ikke krever ny plan, er forurensningsmyndigheten ansvarlig myndighet hvis tiltaket krever tillatelse etter forurensningsloven.",
+      "Hvis en plan etter plan- og bygningsloven endres mellom varsel om oppstart av planarbeidet og utleggelse av planforslag til offentlig ettersyn, og endringen medfører at planen omfattes av første ledd bokstav a eller b, skal planen behandles etter reglene i kapittel 5 og 6."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 7",
+     "tittel": "Planer og tiltak etter andre lover som alltid skal konsekvensutredes, men ikke ha melding",
+     "ledd": [
+      "Følgende tiltak og planer etter andre lover skal alltid konsekvensutredes, men ikke ha melding:\na. tiltak i vedlegg II som behandles etter energi-, vannressurs- eller vassdragsreguleringsloven\nb. planer og programmer etter andre lover som fastsetter rammer for tiltak i vedlegg I og II og som vedtas av et departement.",
+      "Ansvarlig myndighet for tiltak etter bokstav a fremgår av vedlegg II. Fagdepartementene er ansvarlig myndighet for planer eller programmer etter bokstav b."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 8",
+     "tittel": "Planer og tiltak som skal konsekvensutredes hvis de kan få vesentlige virkninger for miljø eller samfunn",
+     "ledd": [
+      "Følgende planer og tiltak skal konsekvensutredes hvis de kan få vesentlige virkninger etter § 10, men ikke ha planprogram eller melding:\na. reguleringsplaner for tiltak i vedlegg II. Unntatt fra dette er reguleringsplaner der det konkrete tiltaket er konsekvensutredet i en tidligere plan og der reguleringsplanen er i samsvar med denne tidligere planen\nb. tiltak i vedlegg II som behandles etter en annen lov enn plan- og bygningsloven.",
+      "Ansvarlig myndighet for bokstav a og b fremgår av vedlegg II. For tiltak etter bokstav a der gjennomføring av tiltaket ikke krever ny plan, er forurensningsmyndigheten ansvarlig myndighet hvis tiltaket krever tillatelse etter forurensningsloven.",
+      "Hvis det mellom varsel om oppstart av planarbeidet etter plan- og bygningsloven og utleggelse av planforslag til offentlig ettersyn fremkommer nye opplysninger eller skjer endringer i faktiske forhold som medfører at planen likevel kan få vesentlige virkninger for miljø eller samfunn, skal det i planforslaget gis en særskilt redegjørelse for planens virkninger."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Vurdering av om planer eller tiltak etter § 8 krever konsekvensutredning",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 9",
+     "tittel": "Opplysninger som skal legges frem av forslagsstiller som grunnlag for ansvarlig myndighets vurdering etter § 11 eller § 12",
+     "ledd": [
+      "For planer etter plan- og bygningsloven skal opplysninger etter denne paragrafen foreligge før oppstartsmøte, jf. plan- og bygningsloven § 12-8. For tiltak etter andre lover skal opplysningene foreligge senest ved søknad om tillatelse. Forslagsstiller skal også selv gjøre en foreløpig vurdering av om planen eller tiltaket kan få vesentlige virkninger for miljø eller samfunn etter § 10. Basert på kjent kunnskap skal det gis en kortfattet beskrivelse av:\na. planen eller tiltaket, tiltakets fysiske egenskaper og lokalisering og eventuelle rivningsarbeider\nb. miljøverdier som antas å bli vesentlig berørt og som krever særskilte hensyn\nc. planens eller tiltakets forventede vesentlige virkninger som følge av reststoffer, utslipp og produksjon av avfall\nd. forventede vesentlige virkninger som kan følge av bruken av naturressurser."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 10",
+     "tittel": "Kriterier for vurderingen av om en plan eller et tiltak kan få vesentlige virkninger for miljø eller samfunn",
+     "ledd": [
+      "I vurderingen av om en plan eller et tiltak kan få vesentlige virkninger for miljø eller samfunn, skal det ses hen til egenskaper ved planen eller tiltaket, jf. annet ledd og planen eller tiltakets lokalisering og påvirkning på omgivelsene, jf. tredje ledd. Det skal også i nødvendig grad ses hen til egenskaper ved virkninger nevnt i fjerde ledd.",
+      "Egenskaper ved planen eller tiltaket omfatter:\na. størrelse, planområde og utforming\nb. bruken av naturressurser, særlig arealer, jord, mineralressurser, vann og biologiske ressurser\nc. avfallsproduksjon og utslipp\nd. risiko for alvorlige ulykker og/eller katastrofer.",
+      "Lokalisering og påvirkning på omgivelsene omfatter en vurdering av om planen eller tiltaket kan medføre eller komme i konflikt med:\na. verneområder etter naturmangfoldloven kapittel V eller markaloven § 11, utvalgte naturtyper (naturmangfoldloven kapittel VI), prioriterte arter, vernede vassdrag, nasjonale laksefjorder og laksevassdrag, objekter, områder og kulturmiljø fredet etter kulturminneloven\nb. truede arter eller naturtyper, verdifulle landskap, verdifulle kulturminner og kulturmiljøer, nasjonalt eller regionalt viktige mineralressurser, områder med stor betydning for samisk utmarksnæring eller reindrift og områder som er særlig viktige for friluftsliv\nc. statlige planretningslinjer, statlige planbestemmelser eller regionale planbestemmelser gitt i medhold av plan- og bygningsloven av 27. juni 2008 nr. 71 eller rikspolitiske bestemmelser eller rikspolitiske retningslinjer gitt i medhold av plan- og bygningsloven av 14. juni 1985 nr. 77.\nd. større omdisponering av områder avsatt til landbruks-, natur- og friluftsformål, samt reindrift eller områder som er regulert til landbruk og som er av stor betydning for landbruksvirksomhet\ne. økt belastning i områder der fastsatte miljøkvalitetsstandarder er overskredet\nf. konsekvenser for befolkningens helse, for eksempel som følge av vann- eller luftforurensning\ng. vesentlig forurensning eller klimagassutslipp\nh. risiko for alvorlige ulykker som en følge av naturfarer som ras, skred eller flom.",
+      "I vurderingen av om planen eller tiltaket kan få vesentlige virkninger og følgelig skal konsekvensutredes, skal det ses hen til virkningenes intensitet og kompleksitet, sannsynlighet for at virkningene inntreffer og når de inntreffer, varighet, hyppighet og mulighet for å reversere eller begrense dem, om virkningene strekker seg over landegrensene eller til marine områder utenfor nasjonal jurisdiksjon, samt samlede virkninger av forslaget til plan eller tiltak og andre eksisterende, godkjente eller planlagte planer eller tiltak."
+     ],
+     "endringer": [
+      "Endret ved forskrift 19 des 2025 nr. 2707 (i kraft 17 jan 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 11",
+     "tittel": "Ansvarlig myndighets vurdering av planer etter § 8 første ledd bokstav a",
+     "ledd": [
+      "Ansvarlig myndighet skal før planarbeidet starter, jf. plan- og bygningsloven § 12-8, og senest seks uker etter at forslagsstilleren har gitt opplysningene etter § 9, ut fra alle tilgjengelige opplysninger ta stilling til om planen kan få vesentlige virkninger for miljø eller samfunn.",
+      "Hvis ansvarlig myndighet finner at planen kan få vesentlige virkninger for miljø eller samfunn, skal planen konsekvensutredes, jf. bestemmelsene i kapittel 5.",
+      "Ansvarlig myndighets beslutning av om planen kan få vesentlige virkninger for miljø eller samfunn, skal begrunnes. Begrunnelsen skal fremgå av varsel og kunngjøring om oppstart av planarbeidet og ved utleggelsen av planforslaget til offentlig ettersyn."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 12",
+     "tittel": "Ansvarlig myndighets vurdering av tiltak etter § 8 første ledd bokstav b",
+     "ledd": [
+      "Forslagsstilleren kan med grunnlag i dokumentasjon gitt etter § 9 be ansvarlig myndighet avklare om et tiltak skal konsekvensutredes før søknaden sendes eller, basert på kriteriene i § 10, selv foreta en konsekvensutredning som vedlegges søknaden.",
+      "Hvis et tiltak antas å kunne få vesentlige virkninger for miljø eller samfunn, og virkningene ikke er tilfredsstillende belyst i søknaden, skal ansvarlig myndighet kreve tilleggsutredninger etter § 27. Krav om tilleggsutredning skal sendes forslagsstilleren innen fire uker etter fristen i høringen av søknaden.",
+      "Tilleggsutredningen og søknaden må til sammen oppfylle kravene til en konsekvensutredning, jf. bestemmelsene i kapittel 5.",
+      "Hvis ansvarlig myndighet kommer til at tiltaket ikke kan få vesentlige virkninger og/eller er tilfredsstillende belyst i søknaden, skal beslutningen begrunnes. Begrunnelsen skal fremgå av innstillingen til vedtak om tiltaket."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Utarbeidelse og høring av planprogram eller melding med forslag til utredningsprogram samt fastsetting av plan- eller utredingsprogram",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 13",
+     "tittel": "Utarbeidelse av planprogram eller melding med forslag til utredningsprogram",
+     "ledd": [
+      "For planer etter plan- og bygningsloven skal forslagsstiller utarbeide et forslag til planprogram for planer etter § 6 første ledd bokstav a og b.",
+      "For tiltak etter annet lovverk skal forslagsstiller utarbeide en melding med forslag til utredningsprogram hvis saken gjelder et tiltak etter § 6 første ledd bokstav c.",
+      "For kommuneplanens arealdel skal forslaget til planprogram skille mellom krav til utredning av enkeltområder og krav til utredning av planen som helhet. Planmyndigheten skal klargjøre hvilken dokumentasjon som skal følge forslag til nye utbyggingsområder. Hvis det i kommuneplanens arealdel eller en kommunedelplan tas sikte på å utrede konsekvensene av et konkret tiltak, jf. § 6 bokstav b eller § 8 bokstav a, må dette fremgå av planprogrammet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 14",
+     "tittel": "Krav til innholdet i planprogram og melding med forslag til utredningsprogram",
+     "ledd": [
+      "Et planprogram og en melding med forslag til utredningsprogram skal inneholde en beskrivelse av:\na. planen eller tiltaket, det berørte området og de problemstillingene som i den konkrete saken anses viktige for miljø og samfunn\nb. forholdene som etter kapittel 5 skal utredes, og hvilke metoder som er tenkt benyttet for å skaffe nødvendig kunnskap\nc. relevante og realistiske alternativer og hvordan disse skal vurderes i konsekvensutredningen\nd. plan- eller søknadsprosessen, med frister i prosessen, deltakere og plan for medvirkning fra særlig berørte grupper og andre.",
+      "Planprogrammet eller meldingen skal også inneholde kart over det berørte området."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 15",
+     "tittel": "Høring av forslag til planprogram eller melding med forslag til utredningsprogram",
+     "ledd": [
+      "Forslag til planprogram eller melding med forslag til utredningsprogram skal sendes på høring til berørte myndigheter og interesseorganisasjoner. For planer etter plan- og bygningsloven skal forslag til planprogram også legges ut til offentlig ettersyn. Dette skal normalt skje samtidig med varsling av planoppstart. For tiltak etter andre lover, skal meldingen med forslaget til utredningsprogram sendes på høring tidligst mulig under planleggingen av tiltaket. Det skal settes en rimelig frist for å uttale seg. Fristen skal være minst seks uker.",
+      "Hvis berørte regionale eller statlige myndigheter på grunnlag av et forslag til planprogram eller en melding med forslag til utredningsprogram, mener at planen eller tiltaket kan komme i konflikt med nasjonale eller viktige regionale hensyn innenfor deres ansvarsområde, skal dette fremgå av høringsuttalelsen.",
+      "Ansvarlig myndighet skal i forbindelse med høring av forslag til planprogram eller melding med utredningsprogram vurdere behovet for, og gjennomføre et offentlig møte om saken hvis det er nødvendig.",
+      "For tiltak etter andre lover kan ansvarlig myndighet unnlate å sende melding med forslag til utredningsprogram på høring hvis den videre behandlingen av saken stanses i samsvar med reglene i loven saken behandles etter."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 16",
+     "tittel": "Fastsetting av plan- eller utredningsprogram",
+     "ledd": [
+      "Ansvarlig myndighet fastsetter plan- eller utredningsprogrammet med utgangspunkt i forslaget utarbeidet av forslagsstilleren og kravene til konsekvensutredningen i kapittel 5. I saksfremlegget til plan- eller utredningsprogrammet skal det redegjøres for høringsuttalelsene i saken og hvordan disse er vurdert og ivaretatt i programmet.",
+      "Plan- eller utredningsprogrammet skal normalt fastsettes innen ti uker etter fristen for å avgi høringsuttalelser. De som har avgitt høringsuttalelser skal gjøres kjent med det fastsatte programmet. Ansvarlig myndighet skal gi nødvendige føringer for plan- eller utredningsarbeidet. For planer etter plan- og bygningsloven kan Kommunal- og moderniseringsdepartementet fastsette planprogrammet hvis ansvarlig myndighet ikke har fastsatt planprogrammet innen fristen. Ansvarlig myndighet skal få mulighet til å uttale seg før en slik fastsettelse.",
+      "Ansvarlig myndighet kan etter høring stanse videre behandling av saken ved å unnlate å fastsette plan- eller utredningsprogram. Avgjørelsen skal begrunnes."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Innholdet i konsekvensutredningen",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 17",
+     "tittel": "Generelt om krav til innholdet",
+     "ledd": [
+      "Forslagsstiller skal utarbeide en konsekvensutredning som skal ta utgangspunkt i krav til dokumentasjon som følger av dette kapitlet. Konsekvensutredningens innhold og omfang skal tilpasses den aktuelle planen eller tiltaket, og være relevant for de beslutninger som skal tas.",
+      "Konsekvensutredningen skal ta utgangspunkt i relevant og tilgjengelig informasjon. Hvis det mangler informasjon om viktige forhold, skal slik informasjon innhentes.",
+      "Utredninger og feltundersøkelser skal følge anerkjent metodikk og utføres av personer med relevant faglig kompetanse.",
+      "For planer og tiltak etter § 6, skal konsekvensutredningen utarbeides i tråd med det fastsatte plan- eller utredningsprogrammet, jf. § 16.",
+      "Konsekvensutredningen skal normalt inngå i planbeskrivelsen eller søknaden etter andre lover. Det skal utarbeides et ikke-teknisk sammendrag av konsekvensutredningen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 18",
+     "tittel": "Særlig om overordnede planer",
+     "ledd": [
+      "For regionale planer, kommune(del)planer og planer etter andre lover enn plan- og bygningsloven, kan konsekvensutredningen begrenses til å redegjøre for virkningene planen eller programmet kan få på et overordnet nivå. Unntak er der det i planen konsekvensutredes konkrete tiltak.",
+      "Konsekvensutredningen av kommuneplanens arealdel skal bare omfatte de delene av planen som fastsetter rammer for fremtidig utbygging og som samtidig innebærer endringer av den gjeldende planen.",
+      "Konsekvensutredningen av arealdelen skal beskrive virkninger utbygging av nye områder eller vesentlig endret arealbruk i utbygde områder kan få for miljø og samfunn. Det skal også gis en vurdering av virkningene av de samlede arealbruksendringene i planen. Inneholder planen bare strategier for fremtidig arealbruk, skal det vurderes hvordan disse vil påvirke miljø og samfunn.",
+      "Det skal i konsekvensutredningen av arealdelen også redegjøres for hvilke forhold som skal avklares og belyses nærmere i senere regulering av områdene, jf. plan- og bygningsloven § 11-9 nr. 8."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 19",
+     "tittel": "Beskrivelse av planen eller tiltaket",
+     "ledd": [
+      "Beskrivelsen av planen eller tiltaket skal omfatte:\na. tiltakets fysiske egenskaper, lokaliseringen, nødvendige rivningsarbeider og arealbehovet i både bygge- og driftsfasen\nb. de viktigste trekkene ved tiltakets driftsfase, som tiltakets energibehov, energiforbruk, energiløsninger, transportbehov og typen og mengden naturressurser som vil bli brukt\nc. et anslag over typen og mengden avfall, reststoffer, utslipp og forurensning som vil produseres i bygge- og driftsfasen\nd. hvor sårbar planen eller tiltaket er for klimaendringer og naturfarer som flom, skred, stormflo og stigning i havnivået.",
+      "Konsekvensutredningen skal også redegjøre for de alternativene til utforming, teknologi, lokalisering, omfang og målestokk som forslagsstilleren har vurdert, og en utredning av relevante og realistiske alternativer. Valget skal begrunnes mot de ulike alternativene, og sammenligninger av virkningene for miljø og samfunn av de ulike alternativene skal fremgå."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 20",
+     "tittel": "Beskrivelse av miljøtilstanden",
+     "ledd": [
+      "Konsekvensutredningen skal inneholde en beskrivelse av den nåværende miljøtilstanden og en oversikt over hvordan miljøet antas å utvikle seg hvis planen eller tiltaket ikke gjennomføres (null-alternativet).",
+      "Beskrivelsen skal bygge på tilgjengelig informasjon."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-5",
+     "nummer": "§ 21",
+     "tittel": "Beskrivelse av faktorer som kan bli påvirket og vurdering av vesentlige virkninger for miljø og samfunn",
+     "ledd": [
+      "Konsekvensutredningen skal identifisere og beskrive de faktorer som kan bli påvirket og vurdere vesentlige virkninger for miljø og samfunn, herunder:\n- naturmangfold, jf. naturmangfoldloven\n- økosystemtjenester\n- nasjonalt og internasjonalt fastsatte miljømål\n- kulturminner og kulturmiljø\n- friluftsliv\n- landskap\n- forurensning (utslipp til luft, herunder klimagassutslipp, forurensning av vann og grunn, samt støy)\n- vannmiljø, jf. vannforskriften\n- jordressurser (jordvern) og viktige mineralressurser\n- samisk natur- og kulturgrunnlag\n- transportbehov, energiforbruk og energiløsninger\n- beredskap og ulykkesrisiko\n- virkninger som følge av klimaendringer, herunder risiko ved havnivåstigning, stormflo, flom og skred\n- befolkningens helse og helsens fordeling i befolkningen\n- tilgjengelighet for alle til uteområder og gang- og sykkelveinett\n- barn og unges oppvekstvilkår\n- kriminalitetsforebygging\n- arkitektonisk og estetisk utforming, uttrykk og kvalitet.",
+      "Beskrivelsen skal omfatte positive, negative, direkte, indirekte, midlertidige, varige, kortsiktige og langsiktige virkninger.",
+      "Samlede virkninger av planen eller tiltaket sett i lys av allerede gjennomførte, vedtatte eller godkjente planer eller tiltak i influensområdet skal også vurderes. Der hvor reindriftsinteresser blir berørt, skal de samlede virkningene av planer og tiltak innenfor det aktuelle reinbeitedistriktet vurderes.",
+      "Virkninger over landegrenser og i marine områder utenfor nasjonal jurisdiksjon skal også beskrives."
+     ],
+     "endringer": [
+      "Endret ved forskrift 19 des 2025 nr. 2707 (i kraft 17 jan 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-6",
+     "nummer": "§ 22",
+     "tittel": "Metode, kilder og usikkerhet",
+     "ledd": [
+      "Konsekvensutredningen skal inneholde en beskrivelse av de metodene som er brukt for å kartlegge virkningene for miljø og samfunn. Beskrivelsen skal omfatte utfordringer, tekniske mangler og kunnskapsmangler som har påvirket sammenstillingen av informasjonen og de viktigste usikkerhetsfaktorene ved utredningen.",
+      "Utredningen skal inneholde en liste med opplysninger om de kildene som er brukt i beskrivelser og vurderinger i rapporten."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-7",
+     "nummer": "§ 23",
+     "tittel": "Forebygging av virkninger",
+     "ledd": [
+      "Konsekvensutredningen skal beskrive de tiltakene som er planlagt for å unngå, begrense, istandsette og hvis mulig kompensere for vesentlige skadevirkninger for miljø og samfunn både i bygge- og driftsfasen. Beskrivelsen skal omfatte planlagte overvåkningsordninger.",
+      "Beskrivelsen skal omfatte opplysninger om beredskap ved større ulykker og katastrofer."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-8",
+     "nummer": "§ 24",
+     "tittel": "Innleggelse av data i databaser",
+     "ledd": [
+      "Data som er samlet inn i arbeidet med konsekvensutredningen skal systematiseres i samsvar med standarder når slike foreligger. De systematiserte dataene skal gjøres tilgjengelige for offentlige myndigheter, slik at dataene kan legges inn i offentlige databaser. Der det er lagt til rette for dette, skal forslagsstilleren selv legge inn de innsamlede dataene i offentlige databaser."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Behandling av konsekvensutredningen",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 25",
+     "tittel": "Høring av planforslag eller søknad med konsekvensutredning",
+     "ledd": [
+      "Ansvarlig myndighet eller forslagsstiller skal sende planforslag eller søknad om tiltak med konsekvensutredning på høring til berørte myndigheter, parter og interesseorganisasjoner og legge dokumentene ut til offentlig ettersyn. Det skal settes en rimelig frist for høringsuttalelser. Fristen skal være minst seks uker.",
+      "For tiltak som omfattes av § 7 første ledd bokstav a kan ansvarlig myndighet fastsette kortere frist eller unnlate høring og utleggelse dersom det finnes ubetenkelig.",
+      "Planforslag eller søknader med konsekvensutredning og eventuelle bakgrunnsdokumenter og fagrapporter skal gjøres tilgjengelig hos ansvarlig myndighet og forslagsstiller og på ansvarlig myndighets nettsted."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 26",
+     "tittel": "Endringer av planer eller tiltak etter gjennomført høring",
+     "ledd": [
+      "Ved endring av planer eller tiltak etter gjennomført høring av planforslag eller søknad med konsekvensutredning, skal ansvarlig myndighet påse at konsekvensene av endringene blir redegjort for før det fattes vedtak i saken. Tilsvarende gjelder for endringer av planer som utløser ny behandling etter plan- og bygningsloven.",
+      "Ved omgjøring eller fornyet behandling av konsesjoner skal det, hvis tiltaket vil få nye vesentlige virkninger for miljø eller samfunn, gjennomføres en offentlig høring. I høringen skal det gis en redegjørelse for tiltaket og tiltakets virkninger for miljø og samfunn."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 27",
+     "tittel": "Vurderingen av konsekvensutredningen og behovet for tilleggsutredninger",
+     "ledd": [
+      "Ansvarlig myndighet skal, på bakgrunn av høringen og egne vurderinger, ta stilling til om konsekvensutredningen tilfredsstiller kravene i kapittel 5, eller om det er behov for tilleggsutredninger eller ytterligere dokumentasjon. Hvis det er behov for tilleggsutredninger skal disse sendes på høring til dem som har gitt høringsuttalelser til planforslaget eller søknaden, samt eventuelt andre myndigheter som blir berørt. Fristen for å gi høringsuttalelser til tilleggsutredningen skal ikke være kortere enn to uker."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-4",
+     "nummer": "§ 28",
+     "tittel": "Oppdatert kunnskap",
+     "ledd": [
+      "Hvis det går lang tid fra gjennomført høring av konsekvensutredningen til tidspunkt for endelig vedtak, skal ansvarlig myndighet forvisse seg om at oppdatert kunnskap legges til grunn for sluttbehandling av saken, jf. § 29."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-5",
+     "nummer": "§ 29",
+     "tittel": "Sluttbehandling av saken",
+     "ledd": [
+      "Ansvarlig myndighet skal ved behandlingen av planen eller tiltaket ta tilbørlig hensyn til konsekvensutredningen og innkomne høringsuttalelser.",
+      "I saksfremlegget eller innstillingen til vedtak skal egenskapene ved planen eller tiltaket og hvilke vesentlige virkninger planen eller tiltaket vil medføre for miljø og samfunn beskrives. Det skal fremgå hvordan høringsuttalelsene er vurdert og hvilken vekt de er tillagt.",
+      "Det skal stilles vilkår for å unngå, begrense, istandsette og om mulig kompensere vesentlige virkninger for miljø og samfunn. Ansvarlig myndighet skal påse at forslagsstiller overholder vilkårene.",
+      "Ansvarlig myndighet skal der det er nødvendig stille krav om overvåking av vesentlige negative virkninger av planen eller tiltaket for miljø og samfunn. Når det stilles krav om overvåkning skal ansvarlig myndighet fastsette fremgangsmåten og varigheten og omfanget av overvåkingen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-6",
+     "nummer": "§ 30",
+     "tittel": "Offentliggjøring av vedtaket",
+     "ledd": [
+      "Når ansvarlig myndighet har truffet vedtak i saken, skal det gjøres kjent for offentligheten og berørte myndigheter. Dokumentene skal være elektronisk tilgjengelige på nett, så langt noe annet ikke følger av eller i medhold av lov. Planvedtak skal kunngjøres i samsvar med plan- og bygningsloven § 8-4, § 11-15 og § 12-12."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap7",
+   "overskrift": "Kapittel 7. Særskilte bestemmelser for planer etter plan- og bygningsloven",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 31",
+     "tittel": "Endring av rollen som ansvarlig myndighet",
+     "ledd": [
+      "Ved usikkerhet eller uenighet om hvem som er ansvarlig myndighet for planer etter plan- og bygningsloven, avgjør Kommunal- og moderniseringsdepartementet spørsmålet.",
+      "Kommunal- og moderniseringsdepartementet kan i samråd med berørte myndigheter bestemme at en annen myndighet enn den som følger av forskriften skal være ansvarlig myndighet for planer etter plan- og bygningsloven dersom hensynet til nasjonale eller viktige regionale hensyn tilsier det, eller planen omfatter flere kommuner eller fylker."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 32",
+     "tittel": "Særskilte regler om planprogram",
+     "ledd": [
+      "Et planprogram kan brukes til å avklare og fastsette overordnede rammer for arbeidet med senere reguleringsplaner for et område og for flere pågående reguleringsplanprosesser innenfor et større område. Et planprogram, og eventuelt konsekvensutredningen, kan også brukes til å ta stilling til hvilke alternative lokaliteter man skal gjennomføre et reguleringsarbeid for etter plan- og bygningsloven.",
+      "For statlige tiltak kan ansvarlig departement bestemme at et planprogram eller en melding skal høres sammen med konseptvalgutredning som grunnlag for beslutning om valg av konsept. For statlige tiltak der det er uenighet om hvilke alternativer som skal utredes, kan forslagsstiller be om at ansvarlig fagdepartement avklarer spørsmålet med Kommunal- og moderniseringsdepartementet."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kap8",
+   "overskrift": "Kapittel 8. Planer og tiltak med grenseoverskridende virkninger",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 33",
+     "tittel": "Nasjonalt kontaktpunkt",
+     "ledd": [
+      "Miljødirektoratet er nasjonalt kontaktpunkt for saker med grenseoverskridende virkninger for miljø eller samfunn."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-2",
+     "nummer": "§ 34",
+     "tittel": "Planer og tiltak som kan få vesentlige virkninger i andre land",
+     "ledd": [
+      "Hvis en plan eller et tiltak kan få vesentlige virkninger for miljø eller samfunn i et annet land, skal forslagsstiller eller ansvarlig myndighet varsle Miljødirektoratet om saken.",
+      "Miljødirektoratet skal informere kontaktmyndigheten i berørt stat med forespørsel om de ønsker å delta i plan- eller søknadsprosessen.",
+      "Samtidig som planprogram eller melding og planforslag eller søknad med konsekvensutredning sendes på høring i Norge skal ansvarlig myndighet sende saken til berørte lokale eller regionale myndigheter i den andre staten.",
+      "Forslagsstiller skal hvis det ønskes av mottakerlandet delta i et offentlig møte om saken i den berørte staten.",
+      "Miljødirektoratet kan pålegge forslagsstilleren å utarbeide hele eller deler av planprogrammet eller meldingen med forslag til utredningsprogram og planforslag eller søknad med konsekvensutredning på de språkene som er nødvendige."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-3",
+     "nummer": "§ 35",
+     "tittel": "Planer og tiltak som kan få vesentlige virkninger i Norge",
+     "ledd": [
+      "Hvis norske myndigheter blir varslet eller på annen måte får kunnskap om planer eller tiltak i en annen stat som kan få vesentlige virkninger for miljø eller samfunn i Norge, skal Miljødirektoratet underrettes om dette. Hvis norske lokale eller regionale myndigheter avgir en uttalelse direkte til avsendermyndigheten i berørt naboland skal uttalelsen sendes i kopi til Miljødirektoratet.",
+      "I saker der Miljødirektoratet varsles av kontaktmyndigheten i en annen stat, skal direktoratet bekjentgjøre informasjon om planen eller tiltaket på eget nettsted for saker med grenseoverskridende miljøvirkninger og i nødvendig grad på annen måte gjøre saken kjent for berørte norske myndigheter og interesseorganisasjoner. Miljødirektoratet avgir, med utgangspunkt i mottatte uttalelser, et tilsvar til kontaktmyndigheten i opphavslandet."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-8",
+   "navn": "kap8A",
+   "overskrift": "Kapittel 8A. Tiltak med virkninger i områder utenfor nasjonal jurisdiksjon",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Kapittelet tilføyd ved forskrift 19 des 2025 nr. 2707 (i kraft 17 jan 2026)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-1",
+     "nummer": "§ 35A",
+     "tittel": "Rapportering til Mekanismen for informasjonsutveksling",
+     "ledd": [
+      "Dersom tiltak som gjennomføres i marine områder kan forårsake betydelig forurensning av eller vesentlige og skadelige forandringer i det marine miljøet i områder utenfor nasjonal jurisdiksjon, skal ansvarlig myndighet sørge for at informasjon som nevnt i andre ledd meldes til Mekanismen for informasjonsutveksling som er opprettet i medhold av Avtale om bevaring og bærekraftig bruk av marint biologisk mangfold i områder utenfor nasjonal jurisdiksjon under Havrettskonvensjonen.",
+      "Relevant informasjon i løpet av konsekvensutredningsprosessen, rapporter om konsekvensutredninger og eventuelle relevante overvåkingsrapporter skal innen rimelig tid meldes til Mekanismen for informasjonsutveksling.",
+      "Kravene i denne bestemmelsen gjelder ikke for Forsvarets aktiviteter, herunder Forsvarets aktiviteter utført av statlige fartøy og luftfartøy i ikke-kommersiell tjeneste."
+     ],
+     "endringer": [
+      "Tilføyd ved forskrift 19 des 2025 nr. 2707 (i kraft 17 jan 2026)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-9",
+   "navn": "kap9",
+   "overskrift": "Kapittel 9. Sanksjoner, ikrafttredelse og overgangsbestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-1",
+     "nummer": "§ 36",
+     "tittel": "Overtredelsesgebyr",
+     "ledd": [
+      "Overtredelsesgebyr i henhold til plan- og bygningsloven § 32-8a kan ilegges den som fremmer forslag til reguleringsplan etter plan- og bygningsloven eller tiltak og planer etter annet lovverk og som forsettlig eller uaktsomt:\na. unnlater å følge saksbehandlingsreglene for konsekvensutredninger der en plan eller et tiltak åpenbart faller inn under forskriften\nb. unnlater å etterkomme pålegg fra ansvarlig myndighet når ansvarlig myndighet har gjort kjent med at overtredelsesgebyr kan ilegges hvis forholdet ikke blir brakt i orden innen en fastsatt frist, og denne fristen er oversittet eller\nc. gir uriktige eller villedende opplysninger av betydning for vurdering av saken, herunder opplysninger av betydning for om forskriften får anvendelse eller ikke.",
+      "Ved vurdering av overtredelsesgebyrets størrelse kan det legges vekt på hvor alvorlig overtredelsen er, graden av skyld, skadepotensialet ved overtredelsen og om overtrederen tidligere har vært ilagt overtredelsesgebyr.",
+      "Overtredelsesgebyr kan ikke overstige kr 400 000 for en plan eller et tiltak."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-2",
+     "nummer": "§ 37",
+     "tittel": "Straff",
+     "ledd": [
+      "Den som forsettlig eller grovt uaktsomt opptrer som nevnt i § 36 første ledd, straffes med bøter eller fengsel inntil 1 år dersom overtredelsen er vesentlig. Ved grove overtredelser er straffen fengsel inntil 2 år."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-3",
+     "nummer": "§ 38",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Forskriften trer i kraft 1. juli 2017. Fra samme tid oppheves forskrift 19. desember 2014 nr. 1726 om konsekvensutredninger for planer etter plan- og bygningsloven og forskrift 19. desember 2014 nr. 1758 om konsekvensutredninger for tiltak etter sektorlover."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-9-paragraf-4",
+     "nummer": "§ 39",
+     "tittel": "Overgangsbestemmelser",
+     "ledd": [
+      "Planer og tiltak som ikke var omfattet av forskrift 19. desember 2014 nr. 1726 om konsekvensutredninger for planer etter plan- og bygningsloven og forskrift 19. desember 2014 nr. 1758 om konsekvensutredninger for tiltak etter sektorlover omfattes ikke av denne forskriften hvis saksbehandlingen av planen ble startet, jf. plan- og bygningsloven § 8-3, § 11-12 og § 12-8, verneforslaget ble kunngjort etter naturmangfoldloven § 47, eller søknad etter annen lov ble sendt på høring før 1. juli 2017.",
+      "For planer og tiltak som er tatt opp til behandling etter de to tidligere forskriftene, skal denne forskriften legges til grunn i den videre behandlingen av saken."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-10",
+   "navn": "vedleggI",
+   "overskrift": "VEDLEGG I. Planer etter plan- og bygningsloven og tiltak etter annet lovverk som alltid skal ha planprogram eller melding og konsekvensutredning",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "| A. Planer og tiltak | B. Ansvarlig myndighet og lov(er) behandlingen knyttes opp til\n| 1. | Råoljeraffinerier (med unntak av virksomheter som utelukkende produserer smøremidler av råolje) og anlegg for omdanning til gass og væske av 500 tonn kull eller oljeskifer eller mer pr. døgn. | Planmyndigheten. Plan- og bygningsloven.\n| 2. | a) Varmekraftverk og andre forbrenningsinstallasjoner, også mobile og midlertidige gasskraftverk, med en energiproduksjon på minst 150 MW (mindre anlegg omfattes av vedlegg II nr. 3a). | Norges vassdrags- og energidirektorat for varmekraftverk. Energiloven.\n| b) Kjernekraftverk og andre kjernereaktorer, herunder avvikling eller nedlegging av slike (med unntak av forskningsanlegg for produksjon og omdanning av spaltbare og fertile stoffer der maksimal kraft ikke overstiger 1 kW vedvarende mengde). | Energidepartementet for kjernekraftverk. Energiloven. Direktoratet for strålevern og atomsikkerhet, Klima- og miljødepartementet, og Helse- og omsorgsdepartementet. Atomenergiloven. Forurensningsloven.\n| 3. | a) Anlegg for opparbeiding av bestrålt kjernebrensel\nb) Anlegg beregnet:\ni) på produksjon eller anrikning av kjernebrensel\nii) på bearbeiding av bestrålt kjernebrensel eller avfall med høy radioaktivitet\niii) på disponering av bestrålt kjernebrensel\niv) utelukkende på disponering av radioaktivt avfall\nv) utelukkende på lagring (planlagt å vare mer enn 10 år) av bestrålt kjernebrensel eller radioaktivt avfall på annet sted enn produksjonsstedet. | Direktoratet for strålevern og atomsikkerhet, Klima- og miljødepartementet og Helse- og omsorgsdepartementet. Forurensningsloven. Atomenergiloven. Strålevernloven.\n| 4. | a) Integrerte anlegg for førstegangssmelting av støpejern og stål\nb) Anlegg for produksjon av ikke-jernholdige råmetaller fra malm, konsentrater eller sekundærråstoffer ved hjelp av metallurgiske, kjemiske eller elektrolytiske prosesser. | Planmyndigheten. Plan- og bygningsloven.\n| 5. | Anlegg for utvinning av asbest og for behandling og bearbeiding av asbest og produkter som inneholder asbest: når det gjelder asbestsementprodukter, med en årlig produksjon på over 20 000 tonn ferdige produkter; når det gjelder friksjonsmateriale, med en årlig produksjon på over 50 tonn ferdige produkter; og når det gjelder annen anvendelse av asbest, med et årlig forbruk på over 200 tonn. | Planmyndigheten. Plan- og bygningsloven.\n| 6. | Integrerte kjemiske installasjoner, dvs. anlegg for fremstilling i industriell målestokk av stoffer ved hjelp av kjemiske omdanningsprosesser, der flere enheter ligger ved siden av hverandre og funksjonelt sett hører sammen, og som er beregnet på:\na) Fremstilling av organiske basiskjemikalier\nb) Fremstilling av uorganiske basiskjemikalier\nc) Fremstilling av fosfor-, nitrogen- eller kaliumgjødsel (ren eller sammensatt gjødsel)\nd) Fremstilling av basisprodukter for plantevernmidler samt biocider\ne) Fremstilling av farmasøytiske basisprodukter ved hjelp av kjemiske eller biologiske metoder\nf) Fremstilling av sprengstoff. | Planmyndigheten. Plan- og bygningsloven.\n| 7. | a) Jernbanelinjer for langdistansetrafikk. Flyplasser med en rullebane på 1600 meter eller lengre (mindre tiltak omfattes av vedlegg II nr. 10d)\nb) Motorveier og andre avkjørselsfrie veier som er forbeholdt motorisert trafikk\nc) Anlegg av ny vei med minst fire kjørefelt eller utbedring og/eller utvidelse av en eksisterende vei som har to kjørefelt slik at den får minst fire kjørefelt, dersom en slik vei har en lengde på minst 10 km\nd) Forstads- og T-baner med investeringskostnader på mer enn 750 millioner kr\ne) Andre vei- og jernbanetiltak med investeringskostnader på mer enn 750 millioner kr. (mindre jernbaneanlegg omfattes av vedlegg II nr. 10c, mindre veier omfattes av vedlegg II nr. 10e). | Planmyndigheten. Plan- og bygningsloven. Forsvarsdepartementet er ansvarlig myndighet for militære flyplasser.\n| 8. | a) Etablering av innlands vannveier og havner for trafikk på innlands vannveier der skip over 1 350 tonn kan seile (mindre tiltak omfattes av vedlegg II nr. 10f)\nb) Nyetablering av farleder, havner og havneanlegg, der skip på over 1 350 tonn kan seile og anløpe. Ferjekaier inngår i punkt 7b, 7c eller 7e. | Planmyndigheten. Plan- og bygningsloven.\n| 9. | Anlegg for behandling av farlig avfall ved forbrenning, kjemisk behandling som definert i bilag I til Europaparlamentets og Rådets direktiv 2008/98EF av 19. november 2008 om avfall, avsnitt D9 eller deponering av farlig avfall i jorden. | Planmyndigheten. Plan- og bygningsloven.\n| 10. | Avfallsanlegg for behandling av husholdnings- og næringsavfall ved forbrenning eller kjemisk behandling med en kapasitet på mer enn 100 tonn per dag (mindre anlegg omfattes av vedlegg II nr. 11b). | Planmyndigheten. Plan- og bygningsloven.\n| 11. | Anlegg for grunnvann der den mengden vann som tas ut eller infiltreres utgjør minst 10 millioner m3 pr. år. | Norges vassdrags- og energidirektorat. Vannressursloven.\n| 12. | a) Anlegg for transport av vann mellom nedbørfelt der denne transporten har som mål å motvirke eventuell vannmangel, og der mengden vann som transporteres overstiger 100 millioner m3 pr. år | Planmyndigheten. Plan- og bygningsloven.\n| b) I alle andre tilfeller; konsesjonspliktige anlegg for transport av vann mellom nedbørfelt der den gjennomsnittlige vannmengde i det nedbørfeltet det transporteres vann fra overstiger 2000 millioner m3 pr. år gjennom flere år, og der den transporterte vannmengden overstiger 5% av denne mengden (mindre tiltak omfattes av vedlegg II nr. 10m). | Norges vassdrags- og energidirektorat. Vannressursloven.\n| I begge tilfeller unntas transport av drikkevann gjennom rørledninger. |\n| 13. | Renseanlegg for spillvann med en kapasitet på over 150 000 personekvivalenter (mindre tiltak omfattes av vedlegg II nr. 11c). | Planmyndigheten. Plan- og bygningsloven.\n| 14. | Utvinning av olje og naturgass i kommersiell hensikt der utvunnet mengde overstiger 500 tonn pr. dag for olje og 500 000 m3 pr. dag for gass (mindre tiltak omfattes av vedlegg II nr. 2e). | Behandles etter egne regler om konsekvensutredninger etter petroleumsloven. Energidepartementet.\n| 15. | a) Dammer og andre anlegg for oppdemming eller varig lagring av vann dersom mengde oppdemmet eller lagret vann overstiger 10 millioner m3 (mindre tiltak omfattes av vedlegg II nr. 10g) | Norges vassdrags- og energidirektorat. Vassdragsreguleringsloven eller vannressursloven.\n| b) Vannkraftverk med en årlig produksjon over 40 GWh (mindre tiltak omfattes av vedlegg II nr. 3h) | Norges vassdrags- og energidirektorat. Vannressursloven. Vassdragsreguleringsloven.\n| 16. | Rørledninger med en diameter på over 800 mm og en lengde på over 40 km:\na) Til transport av gass, olje og kjemikalier\nb) Til transport av CO2-strømmer med sikte på geologisk lagring, med tilhørende pumpestasjoner (mindre tiltak omfattes av vedlegg II nr. 10i). | Planmyndigheten. Plan- og bygningsloven. Norges vassdrags- og energidirektorat for tiltak etter naturgassloven.\nTiltak som omfattes av petroleumsloven behandles etter egne regler om konsekvensutredninger. Energidepartementet.\nBehandles etter egne regler om konsekvensutredninger etter kontinentalsokkelloven. Energidepartementet.\n| 17. | Anlegg for intensivt fjørfe- eller svineavl med plass til mer enn (mindre tiltak omfattes av vedlegg II nr. 1e):\na) 85 000 broilere, 60 000 høner\nb) 3 000 slaktegriser (over 30 kg) eller\nc) 900 purker. | Planmyndigheten. Plan- og bygningsloven. Statsforvalteren. Lov om regulering av svine- og fjørfeproduksjon.\n| 18. | Industrianlegg for:\na) Produksjon av papirmasse av tømmer eller lignende fibermateriale\nb) Produksjon av papir og papp med en produksjonskapasitet på mer enn 200 tonn pr. dag (mindre tiltak omfattes av vedlegg II nr. 8a). | Planmyndigheten. Plan- og bygningsloven.\n| 19. | Uttak av malmer, mineraler, stein, grus, sand, leire eller andre masser dersom minst 200 dekar samlet overflate blir berørt eller samlet uttak omfatter mer enn 2 millioner m3 masse, eller uttak av torv på et område større enn 200 dekar. Mindre tiltak omfattes av vedlegg II nr. 2a. | Planmyndigheten. Plan- og bygningsloven. Direktoratet for mineralforvaltning er ansvarlig myndighet for større uttak av mineralressurser dersom planmyndigheten ønsker dette.\n| 20. | Kraftledninger og jord- og sjøkabler med spenning på 132 kV og en lengde på mer enn 50 km. Tiltakshaver har likevel en rett til å melde en 132 kV kraftledning på mellom 15 og 50 km.\nKraftledninger og jord- og sjøkabler med spenning over 132 kV og en lengde på mer enn 15 km. | Norges vassdrags- og energidirektorat.\nEnergiloven.\n| 21. | Lagringsanlegg for olje eller petrokjemiske eller kjemiske produkter med en kapasitet på 200 000 tonn eller mer. | Planmyndigheten. Plan- og bygningsloven.\n| 22. | Anlegg for CO2-fangst med sikte på geologisk lagring fra anlegg som omfattes av dette vedlegg eller av petroleumsloven. | Forurensningsmyndigheten. Forurensingsloven.\nAnlegg som omfattes av petroleumsloven behandles etter egne regler om konsekvensutredninger. Energidepartementet.\n| 23. | Lagringsanlegg for geologisk lagring av CO2, dvs. et bestemt område innenfor en geologisk formasjon som anvendes til geologisk lagring av CO2 og tilhørende overflate- og injeksjonsinstallasjoner (med unntak av anlegg som benyttes til forskning, utvikling og utprøving av nye produkter og prosesser med samlet påtenkt lagringskapasitet under 100 000 tonn). | Behandles etter egne regler om konsekvensutredninger etter kontinentalsokkelloven. Energidepartementet.\n| 24. | Næringsbygg, bygg for offentlig eller privat tjenesteyting og bygg til allmennyttige formål med et bruksareal på mer enn 15 000 m2 (mindre tiltak omfattes av vedlegg II nr. 11j). | Planmyndigheten. Plan- og bygningsloven.\n| 25. | Nye bolig- og fritidsboligområder som ikke er i samsvar med overordnet plan. | Planmyndigheten. Plan- og bygningsloven.\n| 26. | Større militære skyte- og øvingsfelt. | Planmyndigheten. Plan- og bygningsloven.\n| 27. | Omlasting av olje og gass fra skip til skip av et visst omfang eller frekvens. | Planmyndigheten. Plan- og bygningsloven.\n| 28. | Vindkraftanlegg med en installert effekt på mer enn 10 MW (mindre tiltak omfattes av vedlegg II nr. 3i) | Norges vassdrags- og energidirektorat.\nEnergiloven.\n| 29. | Verneområder større enn 250 km2. | Miljødirektoratet. Naturmangfoldloven.\n| 30. | Solkraftanlegg med en installert effekt på mer enn 10 MW. | Norges vassdrags- og energidirektorat.\nEnergiloven.\n| 31. | Akvakultur av fisk på lokaliteter til havs. | Nærings- og Fiskeridepartementet og Fiskeridirektoratet i henhold til ansvarsdelingen fastsatt i laksetildelingsforskriften kapittel 4. Akvakulturloven.\n| Utvidelser eller endringer\n| 32. | Utvidelser eller endringer av tiltak nevnt i Vedlegg I der utvidelsen eller endringen i seg selv overstiger størrelseskriteriene i vedlegget.\nFor utvidelser og endringer av tiltak etter annen lov enn plan- og bygningsloven gjelder ikke krav til melding og behandling etter kapittel 4.\nDer det ikke er gitt oppfangingskriterier skal utvidelsen eller endringen vurderes etter forskriften kapittel 3. Tilsvarende gjelder for tiltak i vedlegg I som utelukkende eller hovedsakelig tjener til utvikling og prøving av nye metoder eller produkter, og som ikke pågår i mer enn to år. | Jf. ovenfor."
+    },
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrifter 20 des 2018 nr. 2067 (i kraft 1 jan 2019), 8 okt 2021 nr. 2958 (i kraft 1 nov 2021), 18 des 2023 nr. 2278 (i kraft 1 jan 2024), 9 mai 2025 nr. 755 (i kraft 1 juli 2025), 6 mars 2026 nr. 353."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-11",
+   "navn": "vedleggII",
+   "overskrift": "VEDLEGG II. Planer etter plan- og bygningsloven og tiltak etter annet lovverk som skal vurderes nærmere",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "| A. Planer og tiltak | B. Ansvarlig myndighet og lov(er) behandlingen er knyttet opp til\n| 1. JORDBRUK, SKOGBRUK OG AKVAKULTUR\n| a) | Prosjekter for omstrukturering av jordeiendommer. | Statsforvalteren\n| b) | Prosjekter for bruk av uoppdyrkede landområder eller delvis naturlige områder til intensivt landbruk, herunder nydyrking på mer enn 50 dekar. Også mindre tiltak skal behandles etter kapittel 5 og 6 dersom det ikke kan utelukkes at tiltaket kan få vesentlige virkninger for naturmangfold eller andre viktige miljøhensyn. | Kommunen. Forskrift om nydyrking gitt med hjemmel i jordloven.\n| c) | Vannforvaltningstiltak innen landbruk, herunder vannings- og dreneringsprosjekter. | Planmyndigheten. Plan- og bygningsloven.\n| d) | i. Avskoging med sikte på omlegging til annen arealbruk | Planmyndigheten. Plan- og bygningsloven.\n| ii. Skogreising som omfatter samlet overflate på mer enn 500 dekar. Også mindre meldepliktige tiltak skal behandles etter kapittel 3 dersom det ikke kan utelukkes at tiltaket kan få vesentlige virkninger for naturmangfold eller andre viktige miljøhensyn. | Kommunen. Forskrift om bærekraftig skogbruk med hjemmel i skogbruksloven.\n| e) | Anlegg for intensivt dyrehold | Statsforvalteren. Lov om regulering av svine- og fjørfeproduksjon.\n| f) | Akvakultur som ikke er omfattet av vedlegg I nr. 31. | Fylkeskommunen. Akvakulturloven\n| g) | Landgjenvinning fra havet. | Planmyndigheten. Plan- og bygningsloven.\n| h) | Reingjerder på mer enn 30 km. | Reindriftsforvaltningen i Alta. Reindriftsloven.\n| i) | Etablering av landbruksvei dersom nyanlegget overstiger 5 km. | Kommunen. Forskrift om planlegging og godkjenning av veier for landbruksformål gitt med hjemmel i jordloven og skogbruksloven.\n| 2. UTVINNINGSINDUSTRI\n| a) | Mineraluttak, herunder torvskjæring. | Planmyndigheten. Plan- og bygningsloven.\n| b) | Gruvedrift under jorden. | Planmyndigheten. Plan- og bygningsloven.\n| c) | Mudringsrelatert kommersiell utvinning av mineraler fra havbunnen | Fylkeskommunen. Havbunnsmineralloven.\n| d) | Dypboring, særlig:\ni. Geotermisk boring\nii. Boring for atomavfall\niii. Boring med sikte på vannforsyning\nmed unntak av boring som utføres for å studere jordbunnens fasthet. | Planmyndigheten. Plan- og bygningsloven. Norges vassdrags- og energidirektorat. Vannressursloven.\n| e) | Anlegg for utvinning av kull, olje, naturgass, malm og oljeskifer. | Energidepartementet for tiltak etter petroleumsloven.\n| 3. ENERGIANLEGG\n| a) | Industrianlegg for produksjon av elektrisk energi, damp og varmtvann som krever konsesjon etter energiloven. | Norges vassdrags- og energidirektorat. Energiloven.\n| b1) | Industrianlegg og rørledninger for transport av olje og gass, damp og varmtvann. | Planmyndigheten. Plan- og bygningsloven.\nNorges vassdrags- og energidirektorat. Naturgassloven. Energiloven. Energidepartementet. Petroleumsloven.\n| b2) | Kraftledninger som krever anleggskonsesjon. | Norges vassdrags- og energidirektorat. Energiloven.\n| c) | Lagring av naturgass på jordoverflaten. | Planmyndigheten. Plan- og bygningsloven. Norges vassdrags- og energidirektorat for tiltak som krever konsesjon etter naturgassloven.\n| d) | Lagring av brennbar gass under jorden. | Planmyndigheten. Plan- og bygningsloven. Norges vassdrags- og energidirektorat for tiltak som krever konsesjon etter naturgassloven.\n| e) | Lagring av fossilt brensel på jordoverflaten | Planmyndigheten. Plan- og bygningsloven. Norges vassdrags- og energidirektorat for tiltak som krever konsesjon etter naturgassloven.\n| f) | Industriell brikettering av kull og lignitt. | Planmyndigheten. Plan- og bygningsloven.\n| g) | Anlegg for bearbeiding og lagring av radioaktivt avfall der det kreves tillatelse fra Direktoratet for strålevern og atomsikkerhet. | Direktoratet for strålevern og atomsikkerhet. Atomenergiloven. Forurensningsloven og strålevernloven.\n| h) | Anlegg for produksjon av vannkraft. | Norges vassdrags- og energidirektorat for tiltak som krever konsesjon etter vannressursloven eller vassdragsreguleringsloven.\n| i) | Konsesjonspliktige anlegg for utnytting av vindkraft til energiproduksjon. | Norges vassdrags- og energidirektorat. Energiloven.\n| j) | Anlegg til oppsamling av CO2-strømmer fra anlegg med sikte på geologisk lagring. | Slike tiltak omfattes av vedlegg I nr. 22.\n| k) | Solkraftanlegg som ikke er omfattet av vedlegg I nr. 30. | Planmyndigheten. Plan- og bygningsloven.\n| 4. PRODUKSJON OG BEARBEIDING AV METALL\n| a) | Anlegg for produksjon av råjern eller stål (første- eller andregangs smelting) med tilhørende utstyr for kontinuerlig støpning. | Planmyndigheten. Plan- og bygningsloven.\n| b) | Anlegg for bearbeiding av ferrometaller ved hjelp av:\ni. Varmevalsing\nii. Smiing med hammere\niii. Påføring av beskyttelseslag av smeltet metall. | Planmyndigheten. Plan- og bygningsloven.\n| c) | Ferrometallstøperier. | Planmyndigheten. Plan- og bygningsloven.\n| d) | Anlegg for smelting, herunder legering, av ikke-jernholdige metaller, unntatt edelmetaller, herunder gjenvinningsprodukter (raffinering, støpning). | Planmyndigheten. Plan- og bygningsloven.\n| e) | Anlegg for overflatebehandling av metaller og plast ved hjelp av en elektrolytisk eller kjemisk prosess. | Planmyndigheten. Plan- og bygningsloven.\n| f) | Anlegg for produksjon og montering av motorvogner. | Planmyndigheten. Plan- og bygningsloven.\n| g) | Skipsverft. | Planmyndigheten. Plan- og bygningsloven.\n| h) | Produksjons- og reparasjonsanlegg for luftfartøy. | Planmyndigheten. Plan- og bygningsloven.\n| i) | Produksjon av jernbanemateriell. | Planmyndigheten. Plan- og bygningsloven.\n| j) | Eksplosjonsforming. | Planmyndigheten. Plan- og bygningsloven.\n| k) | Anlegg for røsting og sintring av malm. | Planmyndigheten. Plan- og bygningsloven.\n| 5. MINERALINDUSTRI\n| a) | Koksverk (tørrdestillasjon av kull). | Planmyndigheten. Plan- og bygningsloven.\n| b) | Sementproduksjonsanlegg. | Planmyndigheten. Plan- og bygningsloven.\n| c) | Anlegg for produksjon av asbest og fremstilling av asbestbaserte produkter. | Planmyndigheten. Plan- og bygningsloven.\n| d) | Anlegg for produksjon av glass, herunder glassfibrer. | Planmyndigheten. Plan- og bygningsloven.\n| e) | Anlegg for smelting av mineralske stoffer, herunder produksjon av mineralfibrer. | Planmyndigheten. Plan- og bygningsloven.\n| f) | Anlegg for produksjon av keramiske produkter ved brenning, særlig takstein, murstein, ildfast stein, fliser, steintøy eller porselen. | Planmyndigheten. Plan- og bygningsloven.\n| 6. KJEMISK INDUSTRI (tiltak som ikke omfattes av vedlegg I nr. 6)\n| a) | Behandling av halvfabrikata og produksjon av kjemikalier. | Planmyndigheten. Plan- og bygningsloven.\n| b) | Produksjon av plantevernmidler og legemidler, maling og lakk, elastomer og peroksider. | Planmyndigheten. Plan- og bygningsloven.\n| c) | Lagringsanlegg for olje, samt petrokjemiske og kjemiske produkter. | Planmyndigheten. Plan- og bygningsloven.\n| 7. NÆRINGSMIDDELINDUSTRI\n| a) | Fremstilling av dyre- og plantefett. | Planmyndigheten. Plan- og bygningsloven.\n| b) | Konservering av dyre- og planteprodukter. | Planmyndigheten. Plan- og bygningsloven.\n| c) | Fremstilling av meieriprodukter. | Planmyndigheten. Plan- og bygningsloven.\n| d) | Brygging og malting. | Planmyndigheten. Plan- og bygningsloven.\n| e) | Sukkervareproduksjon. | Planmyndigheten. Plan- og bygningsloven.\n| f) | Slakterier. | Planmyndigheten. Plan- og bygningsloven.\n| g) | Industriell fremstilling av stivelse. | Planmyndigheten. Plan- og bygningsloven.\n| h) | Fiskemels- og fiskeoljefabrikker. | Planmyndigheten. Plan- og bygningsloven.\n| i) | Sukkerfabrikker. | Planmyndigheten. Plan- og bygningsloven.\n| 8. TEKSTIL-, LÆRVARE-, TREVARE- OG PAPIRINDUSTRI\n| a) | Industrianlegg for produksjon av papir og papp. | Planmyndigheten. Plan- og bygningsloven.\n| b) | Anlegg for forbehandling (vasking, bleking, mercerisering) eller farging av fibrer eller tekstiler. | Planmyndigheten. Plan- og bygningsloven.\n| c) | Anlegg for garving av huder og skinn. | Planmyndigheten. Plan- og bygningsloven.\n| d) | Anlegg for produksjon og behandling av cellulose. | Planmyndigheten. Plan- og bygningsloven.\n| 9. GUMMIINDUSTRI\n| | Produksjon og behandling av elastomerprodukter. | Planmyndigheten. Plan- og bygningsloven.\n| 10. INFRASTRUKTURPROSJEKTER\n| a) | Utviklingsprosjekter for industriområder. | Planmyndigheten. Plan- og bygningsloven.\n| b) | Utviklingsprosjekter for by- og tettstedsområder, inkludert kjøpesentre og parkeringsanlegg. | Planmyndigheten. Plan- og bygningsloven.\n| c) | Bygging av jernbane og anlegg for omlasting av gods, samt terminaler som betjener flere transportsystemer. | Planmyndigheten. Plan- og bygningsloven.\n| d) | i. Bygging av flyplasser\nii. Landingsplass for helikopter. | Planmyndigheten. Plan- og bygningsloven.\n| e) | i. Bygging av veier\nii. Bygging av havner og havneanlegg, herunder fiskehavner og offshorerelaterte havner\niii. Utvidelse eller vesentlig endret bruk av eksisterende farleder. | Planmyndigheten. Plan- og bygningsloven.\n| f) | Bygging av innlands vannveier som ikke omfattes av vedlegg I, samt kanalisering og flomsikring. | Planmyndigheten. Plan- og bygningsloven.\n| g) | Demninger og anlegg for oppdemming eller varig lagring av vann. | Norges vassdrags- og energidirektorat. Vannressursloven.\nPlanmyndigheten. Plan- og bygningsloven.\n| h) | Sporveier, høybaner og undergrunnsbaner, svevebaner og lignende baner av bestemte typer som utelukkende eller hovedsakelig blir brukt til persontransport. | Planmyndigheten. Plan- og bygningsloven.\n| i) | Rørledninger for transport av CO2-strømmer med sikte på geologisk lagring. | Tiltak som omfattes av Naturgassloven. Norges vassdrags- og energidirektorat.\nTiltak som omfattes av petroleumsloven behandles etter egne regler om konsekvensutredninger. Tilsvarende gjelder tiltak som omfattes av kontinentalsokkelloven. Energidepartementet.\n| j) | Vannledningsanlegg over større avstander. | Planmyndigheten. Plan- og bygningsloven\n| k) | Bygging av erosjonsforebyggende kystanlegg og vannbygging til sjøs som kan medføre endringer av kysten, f.eks. diker, moloer, sjeteer og andre bygg til vern mot havet, bortsett fra vedlikehold og gjenoppbygging av slike anlegg. | Planmyndigheten. Plan- og bygningsloven.\n| l) | Anlegg for uttak eller kunstig infiltrasjon for gjenoppbygging av grunnvann. | Planmyndigheten. Plan- og bygningsloven. Norges vassdrags- og energidirektorat. Vannressursloven.\n| m) | Anlegg for transport av vannressurser mellom nedbørfelt. | Norges vassdrags- og energidirektorat. Vannressursloven.\nPlanmyndigheten. Plan- og bygningsloven.\n| 11. ANDRE PROSJEKTER\n| a) | Permanente konkurranse- og testbaner for bil og motorsykkel. | Planmyndigheten. Plan- og bygningsloven.\n| b) | Anlegg for avfallsdisponering basert på forbrenning. | Planmyndigheten. Plan- og bygningsloven.\n| c) | Renseanlegg for spillvann. | Planmyndigheten. Plan- og bygningsloven.\n| d) | Opplagringsplasser for slamavleiring. | Planmyndigheten. Plan- og bygningsloven.\n| e) | Lagring av skrapjern, herunder opphoggingsplasser for kjøretøyer. | Planmyndigheten. Plan- og bygningsloven.\n| f) | Prøvingsbenker for motorer, turbiner eller reaktorer. | Planmyndigheten. Plan- og bygningsloven.\n| g) | Anlegg for produksjon av syntetiske mineralfibrer. | Planmyndigheten. Plan- og bygningsloven.\n| h) | Anlegg for gjenvinning eller destruering av eksplosjonsfarlige stoffer. | Planmyndigheten. Plan- og bygningsloven.\n| i) | Destruksjonsanlegg for dyreskrotter. | Planmyndigheten. Plan- og bygningsloven.\n| j) | Næringsbygg, herunder kjøpesentre som ikke inngår i pkt. 10 b, bygg for offentlig eller privat tjenesteyting og bygg til allmennyttige formål. | Planmyndigheten. Plan- og bygningsloven.\n| k) | Deponier for masse på land og i sjø større enn 50 dekar eller 50 000 m3 masse. | Planmyndigheten. Plan- og bygningsloven.\n| 12. TURISME OG FRITID\n| a) | Hoppbakker, skianlegg og skiheiser, taubaner og tilknyttet utbygging. | Planmyndigheten. Plan- og bygningsloven.\n| b) | Lystbåthavner. | Planmyndigheten. Plan- og bygningsloven.\n| c) | Feriebyer, hotellkomplekser utenfor bymessige områder og tilknyttet utbygging. | Planmyndigheten. Plan- og bygningsloven.\n| d) | Permanente campingplasser. | Planmyndigheten. Plan- og bygningsloven.\n| e) | Temaparker, herunder golfbaner o.l. | Planmyndigheten. Plan- og bygningsloven.\n| 13. UTVIDELSER ELLER ENDRINGER\n| | Utvidelser eller endringer av tiltak nevnt i vedlegg I og vedlegg II som kan få vesentlige virkninger. | Jf. ovenfor"
+    },
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrifter 20 des 2018 nr. 2067 (i kraft 1 jan 2019), 8 okt 2021 nr. 2958 (i kraft 1 nov 2021), 20 des 2023 nr. 2169, 18 des 2023 nr. 2278 (i kraft 1 jan 2024), 9 mai 2025 nr. 755 (i kraft 1 juli 2025), 6 mars 2026 nr. 353."
+    }
+   ]
+  }
+ ]
+}

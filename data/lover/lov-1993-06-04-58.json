@@ -1,0 +1,254 @@
+{
+ "skjema": "1.0",
+ "type": "lov",
+ "datokode": "LOV-1993-06-04-58",
+ "dokumentid": "NL/lov/1993-06-04-58",
+ "departement": [
+  "Arbeids- og inkluderingsdepartementet"
+ ],
+ "ikraft": "1994-01-01",
+ "siste_endring_ikraft": "2025-07-01",
+ "sist_endret_ved": [
+  {
+   "ref": "lov/2025-06-20-109",
+   "tekst": "lov/2025-06-20-109 fra 2025-07-01"
+  }
+ ],
+ "rettsomrade": [
+  "Arbeidsrett > Arbeidsforhold. Sysselsetting",
+  "Arbeidsrett > Tariffavtaler"
+ ],
+ "siste_rettelse": "2022-04-04 (tegnsetting i lister tilpasset universell utforming)",
+ "korttittel": "Allmenngjøringsloven",
+ "tittel": "Lov om allmenngjøring av tariffavtaler m.v. (allmenngjøringsloven)",
+ "annet": "Lovens tittel endret ved lov 24 nov 2006 nr. 63 (ikr. 1 des 2006 iflg. res. 24 nov 2006 nr. 1294). – Jf. lov 23 aug 1996 nr. 63.",
+ "refid": "lov/1993-06-04-58",
+ "eli": "/eli/lov/1993/06/04/58",
+ "url": "https://lovdata.no/dokument/NL/lov/1993-06-04-58",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Lovens formål",
+   "ledd": [
+    "Lovens formål er å sikre utenlandske arbeidstakere lønns- og arbeidsvilkår som er likeverdige med de vilkår norske arbeidstakere har, og å hindre konkurransevridning til ulempe for det norske arbeidsmarkedet."
+   ],
+   "endringer": [
+    "Endret ved lov 19 juni 2009 nr. 42 (ikr. 1 sep 2009 iflg. res. 19 juni 2009 nr. 841)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Lovens virkeområde",
+   "ledd": [
+    "1. (Arbeidstakere i Norge)\nLoven gjelder fastsetting av lønns- og arbeidsvilkår for arbeidstakere som utfører arbeid i annens tjeneste i Norge. Departementet gir forskrift om lovens anvendelse for utsendte arbeidstakere, jf. arbeidsmiljøloven § 1-7.",
+    "2. (Arbeidstakere på skip mv.)\nLoven omfatter\na. arbeidstakere på skip og flyttbare innretninger registrert i Norsk ordinært skipsregister (NOR)\nb. arbeidstakere på skip i innenriksfart registrert enten i Norsk internasjonalt skipsregister (NIS) eller utenlandsk skipsregister.\nSkip i innenriksfart etter første ledd omfatter:\na. skip som frakter last eller passasjerer mellom norske havner på fastlandet, men likevel ikke skip som utelukkende setter i land last eller passasjerer som kommer fra utenlandske havner, eller som utelukkende tar om bord last eller passasjerer som skal til utenlandske havner\nb. cruiseskip som seiler mellom norske havner på fastlandet, også cruiseskip som utelukkende opererer ut fra én norsk havn, men likevel ikke cruiseskip som anløper norske havner på seilas fra eller til en utenlandsk havn\nc. skip som yter andre tjenester i norsk territorialfarvann ved fastlandet, men ikke fiske- og fangstfartøy, skip som tilhører Forsvaret eller benyttes i Forsvarets tjeneste, eller andre statlige skip som brukes utenfor næringsvirksomhet.",
+    "3. (Petroleumsvirksomhet)\nLoven omfatter petroleumsvirksomhet som foregår i indre norsk farvann, i norsk sjøterritorium og på den norske del av kontinentalsokkelen, for så vidt gjelder undersøkelse, leteboring, utvinning, utnyttelse og rørledningstransport samt innretninger til bruk for slik virksomhet. Med disse begrensningene gjelder loven også for flyttbare innretninger under fremmed flagg. Loven omfatter bemannede undervannsoperasjoner i petroleumsvirksomheten utført fra fartøy eller innretning.\nDepartementet kan bestemme at loven skal omfatte petroleumsvirksomhet som foregår under norsk flagg på et annet lands kontinentalsokkel, samt fartøy under fremmed flagg som driver konstruksjons-, rørleggings- eller vedlikeholdsaktivitet på norsk sokkel.\nLoven kommer også til anvendelse på virksomhet og innretninger som nevnt i nr. 3 første ledd på område utenfor kontinentalsokkelen så langt dette følger av folkeretten eller særskilt avtale med fremmed stat.",
+    "4. (Svalbard)\nLoven gjelder for Svalbard.",
+    "5. (Interlegal ufravikelighet)\nLoven omfatter arbeidsforhold som nevnt i denne paragraf selv om arbeidsforholdet for øvrig er regulert av et annet lands rett."
+   ],
+   "endringer": [
+    "Endret ved lover 17 juni 2005 nr. 62 (ikr. 1 jan 2006 iflg. res. 17 juni 2005 nr. 609), 19 juni 2009 nr. 42 (ikr. 1 sep 2009 iflg. res. 19 juni 2009 nr. 841, tidligere § 1-2), 28 mars 2025 nr. 4 (i kraft 1 juli 2025 iflg. res. 28 mars 2025 nr. 545, gjelder for Longyearbyen og Ny-Ålesund), 20 juni 2025 nr. 109 (i kraft 1 juli 2025). Endres ved lov 28 mars 2025 nr. 4 (i kraft fra den tid Kongen bestemmer)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Tariffnemnda",
+   "ledd": [
+    "Kongen oppnevner en tariffnemnd. Tariffnemnda skal ha en leder og 4 andre faste medlemmer. Medlemmene, med personlige varamedlemmer, blir oppnevnt for tre år. Ett av medlemmene skal representere arbeidstakerinteresser, og ett arbeidsgiverinteresser.",
+    "I tillegg oppnevner departementet ett medlem fra den organisasjon som fremmer krav overfor nemnda og ett medlem fra dennes tariffmotpart i den tariffavtalen som kreves allmenngjort, såfremt ikke begge parter er blant de faste medlemmene av Tariffnemnda, jf. første ledd. Disse medlemmene oppnevnes for den enkelte sak etter forslag fra partene."
+   ],
+   "endringer": [
+    "Endret ved lov 19 juni 2009 nr. 42 (ikr. 1 sep 2009 iflg. res. 19 juni 2009 nr. 841, tidligere § 2)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Krav om allmenngjøring av tariffavtaler mv.",
+   "ledd": [
+    "For at Tariffnemnda skal ta et krav om allmenngjøring av en tariffavtale til behandling, er det et vilkår at kravet er fremsatt av en arbeidstaker- eller arbeidsgiverorganisasjon som er part i avtalen og har innstillingsrett etter arbeidstvistloven § 39 første ledd. Bare slike organisasjoner kan kreve at nemnda realitetsbehandler et krav om allmenngjøring.",
+    "Organisasjon som nevnt i første ledd, må fremlegge dokumentasjon som gir grunn til å tro at lovens vilkår for å treffe vedtak om allmenngjøring er oppfylt, jf. § 5.",
+    "Tariffnemnda kan av eget tiltak treffe vedtak om allmenngjøring dersom allmenne hensyn krever slik regulering."
+   ],
+   "endringer": [
+    "Endret ved lover 7 jan 2000 nr. 3 (ikr. 7 jan 2000 iflg. res. 7 jan 2000 nr. 13), 17 juni 2005 nr. 62 (ikr. 1 jan 2006 iflg. res. 17 juni 2005 nr. 609), 19 juni 2009 nr. 42 (ikr. 1 sep 2009 iflg. res. 19 juni 2009 nr. 841, tidligere § 3), 18 des 2015 nr. 103."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Vedtak om allmenngjøring av tariffavtaler mv.",
+   "ledd": [
+    "Tariffnemnda kan treffe vedtak om at en landsomfattende tariffavtale helt eller delvis skal gjelde for alle arbeidstakere som utfører arbeid av den art avtalen omfatter, i en bransje eller en del av en bransje, med de begrensninger som følger av eller i medhold av arbeidsmiljøloven § 1-7.",
+    "Tariffnemnda kan treffe slikt vedtak dersom det er dokumentert at utenlandske arbeidstakere utfører eller kan komme til å utføre arbeid på vilkår som samlet sett er dårligere enn det som gjelder etter landsomfattende tariffavtaler for vedkommende fag eller bransje, eller det som ellers er normalt for vedkommende sted og yrke."
+   ],
+   "endringer": [
+    "Tilføyd ved lov 19 juni 2009 nr. 42 (ikr. 1 sep 2009 iflg. res. 19 juni 2009 nr. 841)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "Vedtakets innhold",
+   "ledd": [
+    "Vedtak om allmenngjøring etter § 5 kan bare gjelde de deler av tariffavtalen som regulerer de enkelte arbeidstakeres lønns- og arbeidsvilkår. Vedtak om allmenngjøring for arbeidstakere på skip i innenriksfart kan bare gjelde de delene av tariffavtalen som regulerer de enkelte arbeidstakeres lønnsvilkår. I særlige tilfeller kan Tariffnemnda fastsette andre lønns- og arbeidsvilkår enn det som følger av tariffavtalen.",
+    "Dersom Tariffnemnda finner det nødvendig å fastsette lønns- og arbeidsvilkår på områder som også er regulert i annen lovgivning, skal dette begrunnes særskilt.",
+    "I tillegg til de opplysninger som er nevnt i forvaltningsloven § 38 første ledd bokstavene a og b, skal nemndas vedtak inneholde:\na. en nærmere angivelse av de tariffavtalebestemmelser som allmenngjøres og de bestemmelser om lønns- og arbeidsvilkår som fastsettes i medhold av første eller andre ledd foran,\nb. bestemmelser om tidspunktet for vedtakets ikrafttreden.",
+    "De lønns- og arbeidsvilkår som er fastsatt i Tariffnemndas vedtak, skal gjelde som ufravikelige minstevilkår i arbeidsforholdet mellom en arbeidstaker som omfattes av vedtaket og dennes arbeidsgiver."
+   ],
+   "endringer": [
+    "Tilføyd ved lov 19 juni 2009 nr. 42 (ikr. 1 sep 2009 iflg. res. 19 juni 2009 nr. 841), endret ved lov 20 juni 2025 nr. 109 (i kraft 1 juli 2025)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 7",
+   "tittel": "Vedtakets gyldighetstid",
+   "ledd": [
+    "Vedtak etter § 5 gjelder inntil Tariffnemnda treffer nytt vedtak. Vedtaket opphører likevel å gjelde dersom partene i tariffavtalen ikke har krevet nytt vedtak innen en måned etter at tariffavtalen er avløst av en ny avtale."
+   ],
+   "endringer": [
+    "Endret ved lov 19 juni 2009 nr. 42 (ikr. 1 sep 2009 iflg. res. 19 juni 2009 nr. 841, tidligere § 4)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-8",
+   "nummer": "§ 8",
+   "tittel": "Vilkår for å videreføre vedtak om allmenngjøring av tariffavtaler mv.",
+   "ledd": [
+    "Dersom en part i en allmenngjort tariffavtale fremmer krav om nytt vedtak om allmenngjøring i samme sak, kan Tariffnemnda treffe slikt vedtak uten at det fremlegges ny dokumentasjon for lønns- og arbeidsvilkårene i bransjen."
+   ],
+   "endringer": [
+    "Tilføyd ved lov 19 juni 2009 nr. 42 (ikr. 1 sep 2009 iflg. res. 19 juni 2009 nr. 841)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-9",
+   "nummer": "§ 9",
+   "tittel": "Saksbehandling",
+   "ledd": [
+    "For Tariffnemndas behandling av saker etter loven gjelder lov av 10. februar 1967 om behandlingsmåten i forvaltningssaker, likevel slik at opplysning av saken kan foregå i høringsmøter. Kongen kan gi nærmere regler om saksbehandlingen i Tariffnemnda, herunder regler som fraviker forvaltningslovens regler."
+   ],
+   "endringer": [
+    "Endret ved lov 19 juni 2009 nr. 42 (ikr. 1 sep 2009 iflg. res. 19 juni 2009 nr. 841, tidligere § 6)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-10",
+   "nummer": "§ 10",
+   "tittel": "Opplysningsplikt",
+   "ledd": [
+    "Etter pålegg fra Tariffnemnda plikter offentlige myndigheter uten hinder av taushetsplikt å gi alle opplysninger om lønns- og arbeidsvilkår som nemnda finner det nødvendig å få kjennskap til som ledd i saksforberedelsen. Det samme gjelder arbeidsgiver, den som i arbeidsgivers sted leder virksomheten, virksomhetens arbeidstakere og enhver annen som er knyttet til virksomheten."
+   ],
+   "endringer": [
+    "Endret ved lov 19 juni 2009 nr. 42 (ikr. 1 sep 2009 iflg. res. 19 juni 2009 nr. 841, tidligere § 7)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-11",
+   "nummer": "§ 11",
+   "tittel": "Tilsyn med lønns- og arbeidsvilkår",
+   "ledd": [
+    "Arbeidstilsynet fører tilsyn med at lønns- og arbeidsvilkår som følger av vedtak om allmenngjøring blir overholdt. Arbeidstilsynet fører også tilsyn med at oppdragsgivers plikter gitt i medhold av § 12 blir overholdt.",
+    "Arbeidstilsynet gir de pålegg og treffer de enkeltvedtak ellers som er nødvendige for gjennomføringen av vedtak om allmenngjøring og plikter i medhold av § 12. Det kan herunder gis pålegg om at arbeidsgiver skal oppfylle plikten til å yte fastsatt lønn og eventuell annen godtgjøring i henhold til slikt vedtak. Arbeidsmiljøloven § 18-4, § 18-5, § 18-6 første, andre, sjette, syvende og åttende ledd samt §§ 18-7, 18-8, 18-10, 18-10 a, 18-12 og 18-13 får tilsvarende anvendelse ved tilsyn etter loven her. Eventuell oppdragsgiver skal også gjøres kjent med pålegg og andre enkeltvedtak.",
+    "Opplysninger som er nødvendige for utøvelse av tilsynet, skal uten hinder av taushetsplikt også fremlegges når Statens vegvesen krever det, ved kontroll rettet mot virksomhet som driver transport på vei. Statens vegvesen kan uten hinder av taushetsplikt utlevere opplysninger innhentet på grunnlag av første punktum til Arbeidstilsynet til bruk i Arbeidstilsynets tilsyn etter denne paragrafen.",
+    "Arbeidstilsynet kan kreve opplysninger som nevnt i tredje ledd fra andre offentlige tilsynsmyndigheter uten hinder av den taushetsplikten som ellers gjelder. Arbeidstilsynet kan anmelde overtredelser til politiet.",
+    "Havindustritilsynet har innenfor sitt myndighetsområde tilsvarende tilsynsansvar og myndighet som nevnt i første til fjerde ledd.",
+    "Sjøfartsdirektoratet fører tilsyn med at lønns- og arbeidsvilkår som følger av vedtak om allmenngjøring for arbeidstakere på skip, og oppdragsgivers plikter gitt i medhold av § 12, overholdes. Sjøfartsdirektoratet skal ha adgang til å gå om bord i og føre tilsyn med skip som ligger i havn. Når direktoratet krever det, skal rederiet, arbeidsgiveren, skipsføreren og andre som har sitt arbeid om bord, uten hinder av taushetsplikt legge frem opplysninger som anses nødvendige for utøvelsen av tilsynet.",
+    "Sjøfartsdirektoratet kan gi pålegg og treffe andre enkeltvedtak etter bestemmelsene i skipssikkerhetsloven §§ 49, 50 og 52 som er nødvendige for gjennomføringen av allmenngjøringsvedtak og plikter i medhold av § 12, og ilegge overtredelsesgebyr etter bestemmelsene i skipssikkerhetsloven §§ 55 og 56.",
+    "Enhver som er underlagt tilsyn etter første, femte og sjette ledd, skal når oppdragsgivers tillitsvalgte krever det og uten hinder av taushetsplikt, fremlegge opplysninger om lønns- og arbeidsvilkår for arbeidstakere i virksomheter som utfører arbeid som er omfattet av vedtak om allmenngjøring. Innsyn kan kreves av tillitsvalgte som representerer den organisasjonen som er part i den allmenngjorte tariffavtalen.",
+    "Den tillitsvalgte har taushetsplikt om opplysningene som vedkommende får etter femte ledd. Taushetsplikten gjelder ikke overfor tilsynsmyndighetene, jf. første og fjerde ledd. Tillitsvalgte kan bare benytte innsynsretten til å undersøke om vedtak om allmenngjøring etterleves.",
+    "Departementet kan i forskrift gi nærmere regler om innsynsretten, taushetsplikten og eventuell bruk av rådgivere."
+   ],
+   "endringer": [
+    "Tilføyd ved lov 2 juli 2004 nr. 66 (ikr. 1 okt 2004 iflg. res. 2 juli 2004 nr. 1068), endret ved lover 24 nov 2006 nr. 63 (ikr. 1 des 2006 iflg. res. 24 nov 2006 nr. 1294), 29 juni 2007 nr. 42 (ikr. 14 mars 2008 iflg. res. 29 feb 2008 nr. 200), 19 juni 2009 nr. 42 (ikr. 1 sep 2009 iflg. res. 19 juni 2009 nr. 841, tidligere § 8), 14 juni 2013 nr. 32 (ikr. 1 jan 2014 iflg. res. 14 juni 2013 nr. 617), 12 juni 2020 nr. 61 (ikr. 1 juli 2020 iflg. res. 12 juni 2020 nr. 1182), 19 juni 2020 nr. 69 (ikr. 1 juli 2020 iflg. res. 19 juni 2020 nr. 1233), 11 juni 2021 nr. 59 (ikr. 1 juli 2021 iflg. res. 11 juni 2021 nr. 1872), 22 mars 2024 nr. 11 (i kraft 1 april 2024 iflg. res. 22 mars 2024 nr. 516), 20 juni 2025 nr. 34 (i kraft 1 juli 2025 iflg. res. 20 juni 2025 nr. 1099), 20 juni 2025 nr. 109 (i kraft 1 juli 2025)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-12",
+   "nummer": "§ 12",
+   "tittel": "Informasjons-, påse- og dokumentasjonsplikt",
+   "ledd": [
+    "Departementet kan gi forskrift om at\na. oppdragsgivere i kontrakt med oppdragstakere skal informere om plikter etter gjeldende forskrifter om allmenngjøring av tariffavtaler\nb. oppdragsgivere skal påse at oppdragstakere etterlever pliktene i gjeldende forskrifter om allmenngjøring av tariffavtaler\nc. oppdragstakere skal utlevere nødvendig dokumentasjon for at en oppdragsgiver kan oppfylle påseplikten etter bokstav b."
+   ],
+   "endringer": [
+    "Tilføyd ved lov 24 nov 2006 nr. 63 (ikr. 1 des 2006 iflg. res. 24 nov 2006 nr. 1294), endret ved lover 29 juni 2007 nr. 42 (ikr. 14 mars 2008 iflg. res. 29 feb 2008 nr. 200), 19 juni 2009 nr. 42 (ikr. 1 sep 2009 iflg. res. 19 juni 2009 nr. 841, tidligere § 9), 20 des 2022 nr. 101 (i kraft 20 des 2022 iflg. res. 20 des 2022 nr. 2295)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-13",
+   "nummer": "§ 13",
+   "tittel": "Solidaransvar for oppdragsgivere",
+   "ledd": [
+    "Leverandører og underleverandører som setter ut arbeid eller leier inn arbeidstakere, hefter på samme måte som en selvskyldnerkausjonist for utbetaling av lønn og overtidsbetaling etter allmenngjøringsforskrifter og opptjente feriepenger, jf. lov 29. april 1988 nr. 21 om ferie, til arbeidstakere ansatt hos virksomhetenes underleverandører.",
+    "Rederiet er solidarisk ansvarlig med arbeidsgiveren for utbetaling av lønn som følger av vedtak om allmenngjøring for arbeidstakere på skipet. Med rederiet menes den som er å anse som rederi etter skipssikkerhetsloven § 4.",
+    "Arbeidstaker må fremme skriftlig krav overfor solidaransvarlig senest innen tre måneder etter lønnens forfallsdato. Forfallstiden for feriepenger reguleres av lov 29. april 1988 nr. 21 om ferie. Solidaransvarlig skal betale kravet innen tre uker etter at kravet er kommet frem. Solidaransvarlig skal snarest mulig og senest innen to uker skriftlig varsle øvrige ansvarlige leverandører og underleverandører om kravet.",
+    "Solidaransvarlig kan nekte å dekke kravet dersom arbeidstakeren visste at forutsetningen for arbeidsoppdraget var at lønn mv. helt eller delvis skal dekkes av en solidaransvarlig.",
+    "Departementet kan gi nærmere regler om utformingen av ansvaret i forskrift. Departementet kan også gi forskrift om at virksomhet som bestiller et produkt eller et resultat, skal omfattes av solidaransvaret dersom særlige hensyn tilsier det. Dette gjelder ikke bestiller som er forbruker."
+   ],
+   "endringer": [
+    "Tilføyd ved lov 19 juni 2009 nr. 42 (ikr. 1 jan 2010 iflg. res. 19 juni 2009 nr. 841), endret ved lov 20 juni 2025 nr. 109 (i kraft 1 juli 2025)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-14",
+   "nummer": "§ 14",
+   "tittel": "Boikott",
+   "ledd": [
+    "Organisasjon som nevnt i § 4 kan iverksette boikott som tar sikte på å fremtvinge at en arbeidsgiver oppfyller sine forpliktelser etter vedtak som er truffet i medhold av § 5, uten hinder av de begrensninger som følger av boikottloven § 2 bokstav c andre og tredje alternativ.",
+    "For øvrig gjelder bestemmelsene i lov 5. desember 1947 nr. 1 om boikott."
+   ],
+   "endringer": [
+    "Endret ved lov 19 juni 2009 nr. 42 (ikr. 1 sep 2009 iflg. res. 19 juni 2009 nr. 841, tidligere § 5)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-15",
+   "nummer": "§ 15",
+   "tittel": "Straff",
+   "ledd": [
+    "Arbeidsgiver som forsettlig eller uaktsomt unnlater å rette seg etter et vedtak av Tariffnemnda, straffes med bøter eller fengsel inntil ett år. Det samme gjelder den som i arbeidsgivers sted leder virksomheten, og som opptrer som nevnt i første punktum, og oppdragsgiver som overtrer plikter i medhold av § 12. Grov overtredelse straffes med bøter eller fengsel inntil tre år. Medvirkning straffes på samme måte, likevel slik at arbeidstaker ikke kan straffes for medvirkning.",
+    "Unnlatelse av å følge pålegg som nevnt i § 10 straffes med bøter."
+   ],
+   "endringer": [
+    "Endret ved lover 2 juli 2004 nr. 66 (ikr. 1 okt 2004 iflg. res. 2 juli 2004 nr. 1068, tidligere § 8), 24 nov 2006 nr. 63 (ikr. 1 des 2006 iflg. res. 24 nov 2006 nr. 1294, tidligere § 9), 19 juni 2009 nr. 42 (ikr. 1 sep 2009 iflg. res. 19 juni 2009 nr. 841, tidligere § 10), 24 apr 2015 nr. 21 (ikr. 1 juli 2015 iflg. res. 24 apr 2015 nr. 398), 18 juni 2021 nr. 122 (i kraft 1 juli 2022 iflg. res. 8 april 2022 nr. 570)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-16",
+   "nummer": "§ 16",
+   "tittel": "Ikrafttreden",
+   "ledd": [
+    "Loven trer i kraft fra den tid Kongen bestemmer.[1]"
+   ],
+   "endringer": [
+    "Endret ved lover 2 juli 2004 nr. 66 (ikr. 1 okt 2004 iflg. res. 2 juli 2004 nr. 1068, tidligere § 9), 24 nov 2006 nr. 63 (ikr. 1 des 2006 iflg. res. 24 nov 2006 nr. 1294, tidligere § 10), 19 juni 2009 nr. 42 (ikr. 1 sep 2009 iflg. res. 19 juni 2009 nr. 841, tidligere § 11)."
+   ],
+   "fotnoter": [
+    {
+     "nr": "1",
+     "tekst": "Fra 1 jan 1994 iflg. res. 18 juni 1993 nr. 535."
+    }
+   ]
+  }
+ ]
+}

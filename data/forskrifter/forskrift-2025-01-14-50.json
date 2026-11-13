@@ -1,0 +1,492 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2025-01-14-50",
+ "dokumentid": "SF/forskrift/2025-01-14-50",
+ "departement": [
+  "Energidepartementet"
+ ],
+ "etat": [
+  "Reguleringsmyndigheten for energi"
+ ],
+ "ikraft": "2025-02-01",
+ "siste_endring_ikraft": "2026-09-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2026-05-19-1109",
+   "tekst": "forskrift/2026-05-19-1109 fra 2026-09-01"
+  }
+ ],
+ "hjemmel": [
+  {
+   "ref": "lov/1990-06-29-50/§4-11",
+   "tekst": "lov/1990-06-29-50/§4-11"
+  },
+  {
+   "ref": "forskrift/2019-10-24-1413/§8-5",
+   "tekst": "forskrift/2019-10-24-1413/§8-5"
+  }
+ ],
+ "kunngjort": "2025-01-22 14:45",
+ "korttittel": "Nettinntektsforskriften",
+ "tittel": "Forskrift om strømnettselskapenes inntekter (nettinntektsforskriften)",
+ "annet": "Hjemmel: Fastsatt av Reguleringsmyndigheten for energi 14. januar 2025 med hjemmel i lov 29. juni 1990 nr. 50 om produksjon, omforming, overføring, omsetning, fordeling og bruk av energi m.m. (energiloven) § 4-11 og forskrift 24. oktober 2019 nr. 1413 om nettregulering og energimarkedet (NEM) § 8-5.\nEndret ved forskrifter 31 mars 2025 nr. 565, 19 mai 2026 nr. 1109 (i kraft 1 sep 2026).",
+ "refid": "forskrift/2025-01-14-50",
+ "eli": "/eli/forskrift/2025/01/14/50",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2025-01-14-50",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Innledende bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1-1",
+     "tittel": "Formål",
+     "ledd": [
+      "Denne forskriften skal legge grunnlag for et effektivt kraftmarked og kontroll av nettvirksomheten som et naturlig monopol. Forskriften skal sikre at kraft overføres til riktig leveringskvalitet og pris, og at nettet driftes, utnyttes og utvikles på en sikker og samfunnsmessig rasjonell måte. Herunder skal det tas hensyn til allmenne og private interesser som blir berørt."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 1-2",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Denne forskriften kommer til anvendelse på omsetningskonsesjonærer med inntektsramme.",
+      "Forskriften gir regler om metoder for beregning av tillatte og faktiske inntekter og håndtering av avvik mellom disse."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 1-3",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "I denne forskrift menes med:\na. Avkastning: Nettresultat sett i forhold til avkastningsgrunnlaget. Nettresultatet er gitt ved årlige regulerte inntekter for eget nett justert for avskrevet mindreinntekt fratrukket regulerte kostnader, jf. § 3-1 første ledd bokstav a og b, i eget nett.\nb. Avkastningsgrunnlag: Gjennomsnittet av inngående og utgående bokført verdi for investert nettkapital, tillagt 1 prosent for netto arbeidskapital.\nc. Bokført verdi: Bokført verdi for driftsmidler fremkommer som brutto førstegangs historisk anskaffelseskostnad fratrukket akkumulerte avskrivninger, nedskrivninger og eventuelle tilskudd. Anlegg under utførelse inngår ikke i anskaffelseskostnad før anlegget er aktivert.\nd. Distribusjonsnett: Overføringsnett med nominell spenning opp til og med 22 kV, med mindre annet er bestemt.\ne. Investert nettkapital: Investert nettkapital er gitt ved førstegangs historisk anskaffelseskostnad for anlegg tilhørende distribusjonsnett, jf. bokstav d, regionalnett, jf. bokstav k, og transmisjonsnett, jf. bokstav m. Andel av felles driftsmidler er inkludert.\nf. Kapitalgrunnlag: Bokført verdi, jf. bokstav c, på investert nettkapital per 31. desember, tillagt 1 prosent for netto arbeidskapital.\ng. Konsesjonær: Innehaver av omsetningskonsesjon.\nh. Kundegruppe: En avgrenset gruppe av sluttbrukere, avgrenset ut ifra likheter i brukstid, leveringskvalitet og forbruksnivå.\ni. Nettselskap: Konsesjonær som eier overføringsnett eller har ansvar for nettjenester.\nj. Nettjenester: Omfatter en eller flere av følgende:\n1. overføring av kraft, herunder drift, vedlikehold og investering i nettanlegg\n2. tariffering\n3. måling, avregning og kundehåndtering\n4. tilsyn og sikkerhet\n5. driftskoordinering\n6. pålagte beredskapstiltak\n7. pålagt energiutredning.\nk. Regionalnett: Overføringsnett mellom transmisjonsnett og distribusjonsnett.\nl. Tariffer: Med tariffer forstås alle priser og annen økonomisk godtgjørelse som konsesjonæren fastsetter for tilknytning til og bruk av elektriske nettanlegg.\nm. Transmisjonsnett: Anlegg i overføringsnettet definert etter energiloven § 1-5."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Generelt om inntekter for nettvirksomheten",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 2-1",
+     "tittel": "Inntekter ved salg av nettjenester",
+     "ledd": [
+      "Nettvirksomhetens tillatte inntekter ved salg av nettjenester er årlig inntektsramme for nettvirksomheten, jf. § 2-2, tillagt kostnader som kan dekkes inn som et tillegg, jf. § 2-3, fratrukket avbruddskostnader, jf. § 4-1. Fra avbruddskostnadene skal det trekkes fra beløp som omfattes av individuelle avtaler, jf. § 4-3, og utbetalinger ved svært langvarige avbrudd, jf. § 5-1."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 2-2",
+     "tittel": "Årlig inntektsramme",
+     "ledd": [
+      "Reguleringsmyndigheten for energi fastsetter ved enkeltvedtak årlig inntektsramme for nettvirksomheten etter utgangen av det enkelte år, jf. kapittel 3.",
+      "For fastsettelse av årlig inntektsramme for systemansvarlig gjelder særskilte bestemmelser, jf. kapittel 7.",
+      "Årlig inntektsramme fastsettes slik at inntekten over tid skal dekke kostnadene ved drift og avskrivning av nettet, samt gi en rimelig avkastning på investert kapital, gitt effektiv drift, utnyttelse og utvikling av nettet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 2-3",
+     "tittel": "Tillegg til årlig inntektsramme",
+     "ledd": [
+      "Følgende kostnader skal dekkes inn som et tillegg til årlig inntektsramme:\na. Kostnader ved kjøp av nettjenester fra andre nettselskaper, og kostnader ved leie av andre nettselskap sine anlegg med inntektsramme.\nb. Innbetalt eiendomsskatt.\nc. Endringer i avskrivninger og i avkastning som følge av endret kapitalgrunnlag i forhold til verdiene som inngår i kostnadsgrunnlaget, jf. § 3-1. Dersom endringene er negative skal de trekkes fra årlig inntektsramme.\nd. Gebyrer nettselskapet er pålagt å betale Elhub.",
+      "Kostnader ved spesifikke FoU-prosjekter som på forhånd er godkjent av Reguleringsmyndigheten for energi kan dekkes inn som et tillegg til årlig inntektsramme. Tillegget kan ikke overstige 0,3 prosent av nettselskapets kapitalgrunnlag i det aktuelle år.",
+      "Kompensasjon for kapital bundet i anlegg under utførelse i regional- eller transmisjonsnett i mer enn tre år kan inngå som tillegg til årlig inntektsramme."
+     ],
+     "endringer": [
+      "Endret ved forskrift 19 mai 2026 nr. 1109 (i kraft 1 sep 2026)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 2-4",
+     "tittel": "Regulering av inntekter",
+     "ledd": [
+      "Tariffene skal beregnes slik at nettvirksomhetens faktiske inntekt over tid ikke overstiger tillatt inntekt, jf. § 2-1.",
+      "Enhver betaling som avkreves en kunde som følge av vilkår satt av nettselskapet, og hvor nettselskapet kan stå i en form for monopolsituasjon, er å regne som faktisk inntekt for nettvirksomheten, jf. første ledd.",
+      "Unntatt fra faktisk inntekt er:\na. anleggsbidrag, jf. forskrift 11. mars 1999 nr. 302 om tariffer og rapporteringsplikt for omsetningskonsesjonærer kapittel 16\nb. betaling for andre nettjenester, jf. forskrift 11. mars 1999 nr. 302 om tariffer og rapporteringsplikt for omsetningskonsesjonærer § 17-4, hvor utgiften er av en slik art at den ville vært ført i årsregnskapets balanse dersom den var egenfinansiert fremfor bidragsfinansiert\nc. betaling for andre nettjenester, jf. forskrift 11. mars 1999 nr. 302 om tariffer og rapporteringsplikt for omsetningskonsesjonærer § 17-4, og som gjelder nettjenester som nettselskapet ikke plikter å levere som følge av at det innehar konsesjoner etter energiloven.",
+      "Dersom betaling for nettjenester, etter tredje ledd bokstav c, medfører at nettselskapets tillatte inntekter øker, skal nåverdien av fremtidige inntektsøkninger trekkes fra det som holdes utenfor tillatt inntekt. Inntekter og kostnader forbundet med dette unntaket skal fremkomme i rapporteringen til Reguleringsmyndigheten for energi."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 2-5",
+     "tittel": "Tariffering og håndtering av mer- eller mindreinntekt",
+     "ledd": [
+      "Reguleringsmyndigheten for energi fastsetter ved enkeltvedtak årlig mer- eller mindreinntekt for nettvirksomheten.",
+      "Merinntekt er en positiv differanse mellom faktiske inntekter og tillatte inntekter. Mindreinntekt er en negativ differanse mellom faktiske inntekter og tillatte inntekter.",
+      "Nettvirksomheten skal håndtere merinntekt og mindreinntekt slik at saldo over tid går mot null. Merinntekt skal tilbakeføres kundene, og mindreinntekt kan hentes inn fra kundene gjennom beregning av tariffene.",
+      "Ved beregningen av tariffene skal det tas hensyn til den antatte saldo for mer- eller mindreinntekt med sikte på å styre denne saldoen mot null over tid. Ved beregningen av tariffene skal det tas hensyn til antatte avbruddskostnader. Nettselskapet skal utarbeide og kunne fremlegge en begrunnet og dokumenterbar plan for dette som er vedtatt av selskapets styre. Dersom selskapet ikke har styre, skal planen vedtas av selskapets øverste myndighet. Selskapet skal kunne fremlegge dokumentasjon på at de har tatt hensyn til saldo for mer- eller mindreinntekt når de fastsatte tariffene i hvert enkelt år.",
+      "Mindreinntekt som nettselskapet ikke skal hente inn eller som overstiger 25 prosent av tillatt inntekt eksklusiv KILE-fradrag og korrigert KILE på hvert av virksomhetsområdene transmisjonsnett, regionalnett og distribusjonsnett, skal avskrives i rapporteringen til Reguleringsmyndigheten for energi. For Statnett SF sitt transmisjonsnett gjelder kravet om avskrivning for mindreinntekt som overstiger 35 prosent av tillatt inntekt eksklusiv KILE-fradrag og korrigert KILE. Det kan i særlige tilfeller søkes om fritak fra hele eller deler av avskrivningsplikten. Reguleringsmyndigheten for energi kan ved enkeltvedtak i særlige tilfeller redusere akkumulert mindreinntekt som ikke overstiger de fastsatte grensene i første punktum.",
+      "Mer- eller mindreinntekt skal beregnes for transmisjons-, regional- og distribusjonsnett.",
+      "I forbindelse med vedtak om mindreinntekt som oppstår som følge av sammenslåing av nettselskap, skal Reguleringsmyndigheten for energi fastsette nærmere krav for håndtering av denne."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-6",
+     "nummer": "§ 2-6",
+     "tittel": "Renteberegning av mer- og mindreinntekt",
+     "ledd": [
+      "Det skal årlig beregnes renter på mer- og mindreinntekt av gjennomsnittet av inngående saldo og utgående saldo før tillegg av årets renter. Årets renter skal legges til ved beregning av utgående saldo for mer- og mindreinntekt.",
+      "Årsgjennomsnittet av NIBOR nominell rente med en løpetid på 3 måneder med et tillegg på 0,3 prosentpoeng skal legges til grunn ved beregning av rente på mindreinntekt og merinntekt som utgjør inntil 25 prosent av tillatt inntekt eksklusive KILE-fradrag og korrigert KILE. For Statnett SF sitt transmisjonsnett skal denne renten legges til grunn for mindreinntekt og merinntekt som utgjør inntil 35 prosent av tillatt inntekt eksklusiv KILE-fradrag og korrigert KILE. For overskytende merinntekt på hvert av virksomhetsområdene transmisjonsnett, regionalnett og distribusjonsnett skal referanserenten etter § 3-3 benyttes.",
+      "I forbindelse med vedtak om mindreinntekt som oppstår som følge av en sammenslåing av nettselskaper, skal referanserenten etter § 3-3 legges til grunn ved beregningen av rente på denne delen av mindreinntektssaldoen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-7",
+     "nummer": "§ 2-7",
+     "tittel": "Meravkastning og mindreavkastning",
+     "ledd": [
+      "Reguleringsmyndigheten for energi kan ved enkeltvedtak fastsette mer- eller mindreavkastning for nettvirksomheten. Meravkastning er urimelig høy avkastning, jf. forskrift 24. oktober 2019 nr. 1413 om nettregulering og energimarkedet § 4-5. Mindreavkastning er negativ differanse mellom nettselskapets avkastning fratrukket den minimumsavkastning som fastsettes av Reguleringsmyndigheten for energi. Minimumsavkastningen er 0 prosent beregnet over de siste 5 år.",
+      "Nettselskapets avkastning beregnes etter definisjonen i § 1-3 bokstav a.",
+      "Eventuell mer- eller mindreavkastning håndteres på samme måte som mer- eller mindreinntekt, jf. § 2-5."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-8",
+     "nummer": "§ 2-8",
+     "tittel": "Fordeling av tillatt inntekt for eget nett på nettnivåer",
+     "ledd": [
+      "Nettvirksomheten plikter å se til at fordelingen av tillatt inntekt for eget nett på transmisjons-, regional- og distribusjonsnett skjer etter objektive og ikke-diskriminerende kriterier. Nettselskapet skal kunne dokumentere fordelingen."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Fastsettelse av inntektsrammer",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 3-1",
+     "tittel": "Kostnadsgrunnlag",
+     "ledd": [
+      "Kostnadsgrunnlaget for det aktuelle år fastsettes med utgangspunkt i følgende innrapporterte verdier for regnskapsåret to år tilbake i tid:\na. drifts- og vedlikeholdskostnader,\nb. avskrivninger på investert nettkapital,\nc. kapitalgrunnlaget, jf. § 1-3 bokstav f,\nd. nettap i MWh,\ne. KILE-beløp, jf. § 4-1.",
+      "Verdiene i første ledd bokstav a og e skal inflasjonsjusteres.",
+      "Inflasjonsjusterte pensjonskostnader skal inngå i kostnadsgrunnlaget som et gjennomsnitt av regnskapsårene to til seks år tilbake i tid.",
+      "Kostnader som er pådratt som følge av overtredelse av lov eller pålegg gitt i medhold av lov skal ikke inngå i kostnadsgrunnlaget"
+     ],
+     "endringer": [
+      "Endret ved forskrift 31 mars 2025 nr. 565."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 3-2",
+     "tittel": "Kostnadsnorm",
+     "ledd": [
+      "Reguleringsmyndigheten for energi skal årlig fastsette en kostnadsnorm for det enkelte selskap. Kostnadsnormen fastsettes på bakgrunn av sammenlignende effektivitetsanalyser som skal ta hensyn til relevante forskjeller i selskapenes rammebetingelser. I særlige tilfeller kan kostnadsnormen fastsettes etter individuelle vurderinger.",
+      "Ved fastsettelse av kostnadsnormen skal det i størst mulig utstrekning tas hensyn til relevante samfunnsøkonomiske kostnader i tillegg til selskapets egne kostnader."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 3-3",
+     "tittel": "Referanserente",
+     "ledd": [
+      "Reguleringsmyndigheten for energi skal ved fastsettelsen av årlig inntektsramme benytte en referanserente som fremkommer ved:\n$$r = (1 - G) \\cdot [\\frac{Rf + Infl + β_{e} \\cdot MP}{1 - s}] + G \\cdot (Swap + KP)$$\nG: Fast gjeldsandel fastsatt til 60 prosent\nRf: Fast nøytral realrente fastsatt til 1,5 prosent\nInfl: Årlig justering for inflasjon beregnet som gjennomsnittet av de to siste årenes faktiske inflasjon basert på KPI og anslag for inflasjon de to neste årene. Alle tall publisert av SSB. Dersom beregnet gjennomsnitt er negativt settes det til\nβe: Egenkapitalbeta fastsatt til 0,875\nMP: Fast markedspremie fastsatt til 5 prosent\nSwap: Årlig gjennomsnitt av 5-årig swaprente\nKP: Årlig gjennomsnittlig bransjespesifikk kredittrisikopremie, som fremkommer av spreaden mellom 5-årige kraftobligasjoner og 5-årige swaprenter for kraftselskap med god kredittkvalitet\ns: Skattesats lik gjeldende skattesats for nettselskaper."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 3-4",
+     "tittel": "Referansepris på kraft",
+     "ledd": [
+      "Reguleringsmyndigheten for energi skal ved fastsettelsen av årlig inntektsramme benytte en årlig referansepris på kraft.",
+      "Den årlige referanseprisen er en volumveid månedspris tillagt et påslag på 11 NOK/MWh. Månedspris er gjennomsnittlig aktuell lokal områdepris fra en utpekt markedsplassoperatør etter energiloven § 4-5a.",
+      "Som grunnlag for vekt benyttes månedlig brutto forbruk for alminnelig forsyning slik den fremkommer i Statistisk sentralbyrås tabell om elektrisitetsbalanse."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-5",
+     "nummer": "§ 3-5",
+     "tittel": "Fastsettelse av årlig inntektsramme for eget nett",
+     "ledd": [
+      "Ved fastsettelse av årlig inntektsramme skal 30 prosent av kostnadsgrunnlaget inngå i beregningen, når det er tatt hensyn til:\na. Fastsatt referanserente jf. § 3-3 og\nb. referanseprisen på kraft jf. § 3-4.",
+      "Ved fastsettelsen av årlig inntektsramme skal 70 prosent av kostnadsnormen inngå i beregningen.",
+      "Ved feil i datagrunnlaget for enkeltvedtak om fastsettelse av nettselskapenes inntektsrammer kan vedtaket endres etter klage eller omgjøres uten klage også til skade for den vedtaket retter seg mot eller direkte tilgodeser, uavhengig av begrensningene i forvaltningsloven § 34 og § 35, dersom hensynet til andre privatpersoner eller offentlige interesser tilsier det, jf. forskrift 24. oktober 2019 nr. 1413 om nettregulering og energimarkedet § 4-5. Dette skal gjøres i form av korreksjon i enkeltvedtak om inntektsramme senest det andre påfølgende inntektsrammeåret.",
+      "Reguleringsmyndigheten for energi kan etter søknad eller på eget tiltak i særlige tilfeller fastsette inntektsrammen på annet grunnlag enn det som fremkommer av første eller annet ledd."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Kostnader ved ikke levert energi (KILE)",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 4-1",
+     "tittel": "Justerte inntektsrammer ved KILE",
+     "ledd": [
+      "Årlig inntektsramme skal kvalitetsjusteres som følge av avbruddskostnader for tilknyttede sluttbrukere. Dette gjelder avbruddskostnader for avbrudd som skyldes feil eller planlagte utkoblinger i høyspenningsanlegg eller feil i fordelingstransformator, avbrudd hvor feil i lavspenningsanlegg medfører utkobling i høyspenningsanlegg samt avbrudd ved samtidig, manuell utkobling av alle lavspenningskurser på samme fordelingstransformator, rapportert i henhold til forskrift 30. november 2004 nr. 1557 om leveringskvalitet i kraftsystemet.",
+      "Nettselskapenes totale avbruddskostnader fremkommer ved å summere kostnadene for alle avbrudd innenfor året. Kostnad for ett enkelt avbrudd fremkommer av § 4-2.",
+      "Avbruddskostnader som følge av systemvernutløsning som kompenseres økonomisk etter vedtak av systemansvarlig, jf. forskrift 7. mai 2002 nr. 448 om systemansvaret i kraftsystemet, inngår ikke i KILE-ordningen.",
+      "Avbruddskostnader som følge av rasjonering, jf. energiloven § 6-2, inngår ikke i KILE-ordningen, men skal fremkomme i nettselskapets rapportering til Reguleringsmyndigheten for energi.",
+      "Hvem som er ansvarlig og berørt konsesjonær ved avbrutt effekt, ikke levert energi og KILE er definert i forskrift 30. november 2004 nr. 1557 om leveringskvalitet i kraftsystemet § 2A-3."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 4-2",
+     "tittel": "Avbruddskostnader",
+     "ledd": [
+      "Spesifikke avbruddskostnader, kP,ref, angitt i 2017-kroner per kW for hver kundegruppe beregnes for et ikke varslet avbrudd på referansetidspunktet på bakgrunn av følgende kostnadsfunksjoner, der t er avbruddets varighet:\n| Kundegruppe | Kostnadsfunksjon for kP,ref (t = avbruddsvarighet angitt i timer)\n| | < 1 min | ≥ 1 min og < 1 timer | ≥ 1 timer og < 4 timer | ≥ 4 timer og < 8 timer | ≥ 8 timer\n| Jordbruk | 5,6 + 16,1 * t | 5,6 + 16,1 * t | 21,4 + 17,5 * (t – 1) | 74,2 + 16,1* (t – 4) | 74,2 + 16,1 * (t – 4)\n| Industri | 38,2 | 38,2 + 95,2 * t | 132,6 + 92,5 * (t–1) | 410,3 + 62,5 * (t – 4) | 660,9 + 41 * (t – 8)\n| Handel og tjenester | 18 | 31,5 + 189,2 * t | 220,3 + 102,4 * (t – 1) | 527,2 + 158,8 * (t – 4) | 1162,2 + 115,1 * (t – 8)\n| Offentlig virksomhet | 7,9 | 67,4 + 127,2 * t | 194,5 + 31,4 * (t – 1) | 288,9 + 58,2 * (t – 4) | 521,5 + 19,8 * (t – 8)\n| Industri med eldrevne prosesser | 55,1 + 3,1 * t | 55,1 + 3,1 * t | 55,1 + 3,1 * t | 102,3 + 3,1 * t | 102,3 + 3,1 * t",
+      "| Kundegruppe | Kostnadsfunksjon for kP,ref (t = avbruddsvarighet angitt i timer)\n| | < 1 min | ≥ 1 min og < 2 timer | ≥ 2 timer og < 6 timer | ≥ 6 timer og < 12 timer | ≥ 12 timer og < 24 timer | ≥ 24 timer og < 72 timer | ≥ 72 timer\n| Husholdning | 8,8 | 8,8 + 14,7 * t | 38,4 + 21,9 * (t – 2) | 126,0 + 13,0 * (t – 6) | 204+20,1 * (t – 12) | 445,5 + 13,3 * (t – 24) | 1081,5 + 13,3 * (t – 72)",
+      "Referansetidspunktene for de respektive kundegruppene er:\n| Jordbruk | Husholdning | Industri | Handel og tjenester | Offentlig virksomhet | Industri med eldrevne prosesser\n| Torsdag i januar kl. 06:00 | Hverdag i januar kl. 17:00 | Hverdag i januar kl. 10:00 | Hverdag i januar kl. 10:00 | Hverdag i januar kl. 10:00 | Hverdag i januar kl. 10:00",
+      "Kostnaden (Kj) for et vilkårlig avbrudd på tidspunkt j, skal beregnes som:\nKj = kP,ref · fK,m · fK,d · fK,h · Pref\nder\nKj = kostnad i kr for avbrudd på tidspunkt j\nder\nPref = avbrutt effekt i rapporteringspunktet dersom tilsvarende avbrudd hadde skjedd på referansetidspunktet (kWh/h), se annet ledd\nkP,ref = spesifikk avbruddskostnad (i kr/kW) på referansetidspunktet for en gitt varighet, se første ledd\nfK,m = korreksjonsfaktor for avbruddskostnad (i kr) i måned m, se fjerde ledd\nfK,d = korreksjonsfaktor for avbruddskostnad (i kr) på dag d, se femte ledd\nfK,h = korreksjonsfaktor for avbruddskostnad (i kr) i time h, se sjette ledd.",
+      "Korreksjonsfaktoren fK,m er gitt ved følgende verdier for ulike kundegrupper for ulike måneder:\n| Måned | Jordbruk | Husholdning | Industri | Handel og tjenester | Offentlig virksomhet | Industri med eldrevne prosesser\n| Januar | 1,00 | 1,00 | 1,00 | 1,00 | 1,00 | 1,00\n| Februar | 1,10 | 1,00 | 1,00 | 1,00 | 1,00 | 1,00\n| Mars | 1,10 | 0,90 | 0,87 | 1,00 | 0,67 | 1,00\n| April | 1,10 | 0,90 | 0,87 | 1,00 | 0,67 | 1,00\n| Mai | 0,90 | 0,80 | 0,87 | 1,00 | 0,67 | 1,00\n| Juni | 0,90 | 0,70 | 0,86 | 1,02 | 0,51 | 1,00\n| Juli | 0,90 | 0,60 | 0,86 | 1,02 | 0,51 | 1,00\n| August | 0,90 | 0,60 | 0,86 | 1,02 | 0,51 | 1,00\n| September | 1,00 | 0,70 | 0,88 | 1,06 | 0,58 | 1,00\n| Oktober | 1,00 | 0,90 | 0,88 | 1,06 | 0,58 | 1,00\n| November | 1,10 | 0,90 | 0,88 | 1,06 | 0,58 | 1,00\n| Desember | 1,10 | 1,00 | 1,00 | 1,00 | 1,00 | 1,00",
+      "Når avbruddets varighet berører mer enn én av tidsperiodene gitt i kolonne 1, skal et vektet gjennomsnitt av korreksjonsfaktorene benyttes.",
+      "Korreksjonsfaktoren fK,d er gitt ved følgende verdier for ulike kundegrupper for ulike ukedager:\n| Ukedag | Jordbruk | Husholdning | Industri | Handel og tjenester | Offentlig virksomhet | Industri med eldrevne prosesser\n| Hverdag | 1,00 | 1,00 | 1,00 | 1,00 | 1,00 | 1,00\n| Lørdag | 1,10 | 1,15 | 0,13 | 0,45 | 0,30 | 1,00\n| Søn-/helligdager | 1,10 | 1,15 | 0,14 | 0,11 | 0,29 | 1,00",
+      "Når avbruddets varighet berører mer enn én av tidsperiodene gitt i kolonne 1, skal et vektet gjennomsnitt av korreksjonsfaktorene benyttes.",
+      "Korreksjonsfaktoren fK,h er gitt ved følgende verdier for ulike kundegrupper for ulike klokkeslett:\n| Klokkeslett | Jordbruk | Husholdning | Industri | Handel og tjenester | Offentlig virksomhet | Industri med eldrevne prosesser\n| 0000–0600 | 0,80 | 0,65 | 0,12 | 0,11 | 0,43 | 1,00\n| 0600–0800 | 1,00 | 1,05 | 1,00 | 1,00 | 1,00 | 1,00\n| 0800–0900 | 0,90 | 1,05 | 1,00 | 1,00 | 1,00 | 1,00\n| 0900–1200 | 0,90 | 0,75 | 1,00 | 1,00 | 1,00 | 1,00\n| 1200–1600 | 0,70 | 0,75 | 1,00 | 1,00 | 1,00 | 1,00\n| 1600–1800 | 1,00 | 1,05 | 1,00 | 1,00 | 1,00 | 1,00\n| 1800–2000 | 1,00 | 1,05 | 0,14 | 0,30 | 0,31 | 1,00\n| 2000–2100 | 0,80 | 1,05 | 0,14 | 0,29 | 0,31 | 1,00\n| 2100–2400 | 0,80 | 0,80 | 0,14 | 0,29 | 0,31 | 1,00",
+      "Når avbruddets varighet berører mer enn én av tidsperiodene gitt i kolonne 1, skal et vektet gjennomsnitt av korreksjonsfaktorene benyttes.",
+      "Den totale kostnaden for et avbrudd på et vilkårlig tidspunkt j, skal multipliseres med følgende faktor for den respektive kundegruppe dersom avbruddet er varslet:\n| Kundegruppe | Varslet avbrudd - spesifikk avbruddskostnad multipliseres med faktor:\n| Jordbruk | 0,80\n| Husholdning | 0,50\n| Industri | 0,50\n| Handel og tjenester | 0,70\n| Offentlig virksomhet | 0,82\n| Industri med eldrevne prosesser | 1,00",
+      "De totale avbruddskostnadene skal justeres årlig for den generelle pris- og kostnadsutviklingen i samfunnet ved bruk av Statistisk sentralbyrås konsumprisindeks (KPI). Avbruddskostnaden ved serier av avbrudd under én og samme driftsforstyrrelse beregnes som summen av kostnaden for avbruddene hver for seg, begrenset oppad til kostnaden ved ett sammenhengende avbrudd.",
+      "Dersom nettselskap har inngått avtale om individuelle avbruddssatser for utbetaling til sluttbruker i henhold til § 4-3, skal avbruddssatsen settes lik den avtalte satsen for avbrutt effekt eller ikke levert energi som berører denne sluttbrukeren."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 4-3",
+     "tittel": "Individuelle avtaler om direkte utbetaling",
+     "ledd": [
+      "Konsesjonær kan inngå avtale med sluttbruker om utbetaling av avbruddskostnader for avbrudd som omfattes av § 4-1. For at en slik avtale skal være gyldig må følgende vilkår være oppfylt:\na. Avtalen skal være skriftlig og inngått før avbrudd finner sted.\nb. Det skal avtales en avbruddssats i kr per kW eller kr per kWh for ulike avbruddsvarigheter for henholdsvis varslet og ikke varslet avbrudd. Avbruddssatsen skal beregnes på bakgrunn av informasjon om sluttbrukerens forventede kostnader ved ulike avbruddsvarigheter og ulike tidspunkt avbruddet inntreffer. Det skal fremgå hvilke forutsetninger beregningen av satsene bygger på.\nc. Hvert målepunkt som omfattes av avtalen må ha et forventet årlig energiuttak større enn 400 000 kWh.",
+      "Ved avbrudd skal konsesjonæren betale sluttbrukeren et beløp som tilsvarer den avtalte sats multiplisert med beregnet mengde avbrutt effekt eller ikke levert energi.",
+      "Dersom vilkårene i første ledd ikke er oppfylt, kommer § 4-2 første til åttende ledd til anvendelse."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Utbetalinger ved svært langvarige avbrudd (USLA)",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 5-1",
+     "tittel": "Utbetaling til sluttbrukere ved svært langvarige avbrudd",
+     "ledd": [
+      "Husholdninger og fritidsboliger skal få utbetalt en kompensasjon når de har hatt avbrudd som varer i mer enn 12 timer.",
+      "Kompensasjonen per målepunkt er:\na. for husholdninger: 500 kroner ved avbrudd på 12 timer og deretter en sats på 40 kroner per time,\nb. for fritidsboliger: 125 kroner ved avbrudd på 12 timer og deretter en sats på 10 kroner per time.",
+      "Et samlet årlig krav kan ikke overstige forventet innbetalt nettleie for inneværende år. Forventet innbetalt nettleie er forventet årsforbruk i kWh multiplisert med gjeldende sats for energileddet i tillegg til fastleddet.",
+      "Sluttbruker som selv er skyld i at et avbrudd varer over 12 timer har ikke krav på kompensasjon.",
+      "Kompensasjonen skal utbetales sluttbruker innen 12 uker etter at strømtilførselen ble gjenopprettet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-2",
+     "nummer": "§ 5-2",
+     "tittel": "Registrering og beregning av svært langvarig avbrudd",
+     "ledd": [
+      "Varigheten for et svært langvarig avbrudd regnes fra det tidspunkt nettselskapet visste eller burde ha visst at avbrudd har funnet sted. Avbruddet opphører når normal forsyning er gjenopprettet. Flere påfølgende avbrudd regnes som sammenhengende om ikke normal forsyning opprettholdes i minimum to timer sammenhengende.",
+      "Dersom sluttbruker selv har bidratt til å forlenge varigheten av avbruddet, kan nettselskapet redusere avbruddets varighet tilsvarende ved beregning av kompensasjonsbeløpet etter § 5-1. Nettselskapet kan ikke i noe tilfelle legge til grunn en redusert varighet ut over dette."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-3",
+     "nummer": "§ 5-3",
+     "tittel": "Nettselskapets informasjonsplikt",
+     "ledd": [
+      "Nettselskapet plikter å informere sluttbrukerne om deres rett til utbetaling etter § 5-1."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-4",
+     "nummer": "§ 5-4",
+     "tittel": "Forholdet mellom ansvarlig og berørt konsesjonær",
+     "ledd": [
+      "Berørt konsesjonær i henhold til forskrift 30. november 2004 nr. 1557 om leveringskvalitet i kraftsystemet § 2A-3 skal forestå utbetaling til sluttbruker etter § 5-1 første ledd. Berørt konsesjonær kan kreve det til sluttbruker utbetalte beløp tilbake fra ansvarlig konsesjonær."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-5",
+     "nummer": "§ 5-5",
+     "tittel": "Fravikelighet",
+     "ledd": [
+      "Reglene i dette kapittelet kan fravikes ved avtale som nevnt i forskrift 30. november 2004 nr. 1557 om leveringskvalitet i kraftsystemet § 1-3."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Omfordeling av årlige inntektsrammer i eget nett",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 6-1",
+     "tittel": "Overdragelse av nettanlegg",
+     "ledd": [
+      "Dersom kjøper eller selger ved overdragelse av eksisterende nettanlegg blir enige om en endring av årlig inntektsramme, skal Reguleringsmyndigheten for energi orienteres skriftlig om de økonomiske konsekvenser for inntektsrammene senest tre uker etter at konsesjon i henhold til energiloven kapittel 3 er meddelt.",
+      "Orienteringen skal være signert av avtalepartene og være vedlagt en oversikt over endringer i avtalepartenes årlige inntektsramme, endringer i mer- og mindreinntekt og endringer i kostnadsgrunnlaget, jf. § 3-1.",
+      "På grunnlag av orienteringen fastsetter Reguleringsmyndigheten for energi ved enkeltvedtak ny årlig inntektsramme og ny mer- og mindreinntekt for kjøper og selger med virkning fra det år partene blir enige om, men ikke tidligere enn det år orienteringen er mottatt. Partenes samlede årlige inntektsramme endres ikke som følge av overdragelsen."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-2",
+     "nummer": "§ 6-2",
+     "tittel": "Endring av bokført verdi ved overdragelse av nettanlegg",
+     "ledd": [
+      "Ved omfordeling av inntektsramme etter § 6-1, skal avtalepartenes bokførte kapital justeres med driftsmiddelets bokførte verdi. Eventuell gevinst eller tap, dvs. differansen mellom salgspris og driftsmiddelets bokførte verdi, påvirker ikke nettselskapets årlige inntektsramme for eget nett."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-3",
+     "nummer": "§ 6-3",
+     "tittel": "Oppkjøp og sammenslåing",
+     "ledd": [
+      "Ved oppkjøp eller sammenslåing legges summen av de årlige inntektsrammene for de nettselskapene som er involvert til grunn for beregning av ny årlig inntektsramme. Dersom sammenslåingen medfører en reduksjon i den samlede årlige inntektsrammen, kan nettselskapet søke Reguleringsmyndigheten for energi om kompensasjon for det fremtidige inntektstapet knyttet til sammenslåingen.",
+      "Reguleringsmyndigheten for energi skal informeres skriftlig om konsekvensene for de årlige inntektsrammene, mer- og mindreinntekt og kostnadsgrunnlaget av både kjøper og selger, senest tre uker etter at de nødvendige tillatelser fra myndighetene er gitt.",
+      "På grunnlag av den skriftlige orienteringen fastsetter Reguleringsmyndigheten for energi ved enkeltvedtak nye årlige inntektsrammer og mer- og mindreinntekt for avtalepartene med virkning fra det år partene blir enige om, men ikke tidligere enn det år orienteringen er mottatt."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-7",
+   "navn": "kap7",
+   "overskrift": "Kapittel 7. Årlig inntektsramme for systemansvarlig nettselskap",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-1",
+     "nummer": "§ 7-1",
+     "tittel": "Generelt om den økonomiske reguleringen av systemansvarlig nettselskap",
+     "ledd": [
+      "Den som er tildelt oppgaven som systemansvarlig for det norske kraftsystemet, reguleres med en samlet inntektsramme som inkluderer både kostnader knyttet til nettvirksomheten og kostnader knyttet til utøvelsen av systemansvaret.",
+      "For fastsettelsen av årlig inntektsramme for systemansvarlig nettselskap gjelder kapittel 2, 3, 4 og 6 så langt de passer."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-7-paragraf-2",
+     "nummer": "§ 7-2",
+     "tittel": "Rapportering",
+     "ledd": [
+      "Systemansvarlig skal etter nærmere bestemmelse av Reguleringsmyndigheten for energi rapportere om forhold som har betydning for den økonomiske reguleringen av systemansvarlig og en samfunnsmessig rasjonell utøvelse av systemansvaret.",
+      "Rapporteringen skal deles inn i en hovedrapport som skal publiseres, og det skal utarbeides en grunnlagsrapportering som inneholder all informasjon som Reguleringsmyndigheten for energi etterspør etter første ledd.",
+      "Reguleringsmyndigheten for energi kan be om ytterligere opplysninger om forhold knyttet til den økonomiske reguleringen og en samfunnsmessig rasjonell utøvelse av systemansvaret."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-8",
+   "navn": "kap8",
+   "overskrift": "Kapittel 8. Øvrige bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-1",
+     "nummer": "§ 8-1",
+     "tittel": "Tilsyn",
+     "ledd": [
+      "Reguleringsmyndigheten for energi fører tilsyn med at bestemmelsene gitt i denne forskrift blir overholdt.",
+      "Enhver plikter uten hinder av taushetsplikt å gi Reguleringsmyndigheten for energi nødvendige opplysninger for utøvelse av myndighet etter denne forskriften."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-2",
+     "nummer": "§ 8-2",
+     "tittel": "Pålegg og tvangsmulkt",
+     "ledd": [
+      "Reguleringsmyndigheten for energi kan gi de pålegg som er nødvendige for gjennomføring av denne forskrift.",
+      "For overtredelse av pålegg gitt i medhold av første ledd kan Reguleringsmyndigheten for energi fastsette tvangsmulkt etter energiloven § 10-3 første ledd."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-3",
+     "nummer": "§ 8-3",
+     "tittel": "Overtredelsesgebyr",
+     "ledd": [
+      "Ved overtredelse av bestemmelsene i § 2-1, § 2-4, § 2-5, § 2-8, § 4-2, § 4-3, § 5-1, § 5-2, § 5-3, samt enkeltvedtak gitt i medhold av disse bestemmelsene, kan Reguleringsmyndigheten for energi ilegge overtredelsesgebyr etter energiloven § 10-7 annet ledd nr. 4."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-4",
+     "nummer": "§ 8-4",
+     "tittel": "Administrativ inndragning av ulovlig utbytte",
+     "ledd": [
+      "Ved overtredelse av bestemmelsene nevnt i § 8-3, kan Reguleringsmyndigheten for energi fatte vedtak om inndragning av utbytte etter energiloven § 10-8 første ledd."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-5",
+     "nummer": "§ 8-5",
+     "tittel": "Dispensasjon",
+     "ledd": [
+      "Reguleringsmyndigheten for energi kan i særlige tilfeller dispensere fra denne forskriften og vilkår satt i konsesjoner gitt av Reguleringsmyndigheten for energi i medhold av energiloven."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-6",
+     "nummer": "§ 8-6",
+     "tittel": "Klage",
+     "ledd": [
+      "Vedtak fattet av Reguleringsmyndigheten for energi kan påklages til Energiklagenemnda. Klagen stiles til Energiklagenemnda og sendes til Reguleringsmyndigheten for energi til forberedende klagebehandling."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-8-paragraf-7",
+     "nummer": "§ 8-7",
+     "tittel": "Ikrafttreden",
+     "ledd": [
+      "Forskriften trer i kraft 1. februar 2025."
+     ]
+    }
+   ]
+  }
+ ]
+}

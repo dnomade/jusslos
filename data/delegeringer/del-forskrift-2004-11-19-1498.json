@@ -1,0 +1,54 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-2004-11-19-1498",
+ "dokumentid": "DEL/forskrift/2004-11-19-1498",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Finansmarkedsavd."
+ ],
+ "kunngjort_i": "I 2004 hefte 14",
+ "ikraft": "2004-11-19",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2004-11-19-73/§17",
+   "tekst": "lov/2004-11-19-73/§17"
+  }
+ ],
+ "kunngjort": "2004-11-26",
+ "korttittel": "Deleg. av myndighet etter bokføringsloven",
+ "tittel": "Delegering av myndighet til Finansdepartementet etter bokføringsloven § 17.",
+ "annet": "Hjemmel: Fastsatt ved kgl.res. 19. november 2004 med hjemmel i lov 19. november 2004 nr. 73 om bokføring (bokføringsloven) § 17. Fremmet av Finansdepartementet.",
+ "refid": "forskrift/2004-11-19-1498",
+ "eli": "/eli/forskrift/2004/11/19/1498",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/2004-11-19-1498",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Kongens myndighet etter lov 19. november 2004 nr. 73 om bokføring (bokføringsloven) § 17 delegeres til Finansdepartementet."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Delegeringen trer i kraft straks."
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2018-09-28-1479",
+ "dokumentid": "SF/forskrift/2018-09-28-1479",
+ "departement": [
+  "Kunnskapsdepartementet"
+ ],
+ "etat": [
+  "Juridisk avd."
+ ],
+ "ikraft": "2018-10-01",
+ "siste_endring_ikraft": "2021-08-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2021-07-07-2380",
+   "tekst": "forskrift/2021-07-07-2380 fra 2021-08-01"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2005-06-17-64/§47",
+   "tekst": "lov/2005-06-17-64/§47"
+  },
+  {
+   "ref": "lov/2005-06-17-64/§47a",
+   "tekst": "lov/2005-06-17-64/§47a"
+  }
+ ],
+ "kunngjort": "2018-10-01 14:05",
+ "siste_rettelse": "2021-08-09 (hjemmel)",
+ "korttittel": "Forskrift om behandling av personopplysninger i barnehagesektoren",
+ "tittel": "Forskrift om behandling av personopplysninger i barnehagesektoren",
+ "annet": "Hjemmel: Fastsatt av Kunnskapsdepartementet 28. september 2018 med hjemmel i lov 17. juni 2005 nr. 64 om barnehager (barnehageloven) § 47 og § 47 a.\nEndret ved forskrift 7 juli 2021 nr. 2380 (i kraft 1 aug 2021, bl.a. tittel).\nRettelser: 09.04.2021 (hjemmel), 09.08.2021 (hjemmel).",
+ "refid": "forskrift/2018-09-28-1479",
+ "eli": "/eli/forskrift/2018/09/28/1479",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2018-09-28-1479",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Innhenting av opplysninger fra Folkeregisteret",
+   "ledd": [
+    "Når det er nødvendig for å utføre oppgaver etter barnehageloven, kan offentlige myndigheter uten hinder av taushetsplikt innhente opplysninger fra Folkeregisteret om:\na. hvem som er foreldrene til barn som mottar, eller skal motta, tjenester etter barnehageloven\nb. hvem som har foreldreansvaret for barn som mottar, eller skal motta, tjenester etter barnehageloven\nc. andre barn av foreldrene som er nevnt i bokstav a\nd. ektefelle eller registrert partner til foreldrene som er nevnt i bokstav a."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Krav til tilgangsstyring",
+   "ledd": [
+    "Kommuner, fylkeskommuner og private barnehager skal sørge for tilgangsstyring slik at de som arbeider for virksomheten, bare har tilgang til personopplysninger dersom og i den utstrekning de trenger opplysningene for formål som omtalt i barnehageloven § 47 a. Kommuner, fylkeskommuner og private barnehageeiere skal sørge for at de som arbeider for virksomheten, har nødvendig kunnskap om personvern og informasjonssikkerhet før de gis tilgang til personopplysninger.",
+    "Kravene i første ledd gjelder personopplysninger som er omfattet av personopplysningsloven, og som blir behandlet med hjemmel i barnehageloven."
+   ],
+   "endringer": [
+    "Tilføyd ved forskrift 7 juli 2021 nr. 2380 (i kraft 1 aug 2021)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Rapportering av tjenestedata",
+   "ledd": [
+    "Barnehager skal rapportere følgende opplysninger om barnehagen til Utdanningsdirektoratet:\na. informasjon om barnehagen, blant annet om organisasjonsform, profil, areal, godkjenninger og tilsyn\nb. informasjon om barna i barnehagen\nc. informasjon om ansatte, kompetanse og ressurser i barnehagen\nd. regnskap for private barnehager\ne. informasjon om foreldrebetaling og moderasjonsordninger",
+    "Utdanningsdirektoratet kan behandle personopplysninger etter første ledd som indirekte kan knyttes til en enkeltperson, inkludert personopplysninger nevnt i personvernforordningen artikkel 9, når det er nødvendig for å vurdere tilstanden og utviklingen innenfor barnehagesektoren. Opplysningene kan også brukes til grunnlag for forskning, analyse og statistikk."
+   ],
+   "endringer": [
+    "Tilføyd ved forskrift 7 juli 2021 nr. 2380 (i kraft 1 aug 2021)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Forskriften trer i kraft 1. oktober 2018."
+   ],
+   "endringer": [
+    "Endret ved forskrift 7 juli 2021 nr. 2380 (i kraft 1 aug 2021, tidligere § 2)."
+   ]
+  }
+ ]
+}

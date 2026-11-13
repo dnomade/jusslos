@@ -1,0 +1,79 @@
+{
+ "skjema": "1.0",
+ "type": "delegering",
+ "datokode": "FOR-1984-08-10-1552",
+ "dokumentid": "DEL/forskrift/1984-08-10-1552",
+ "departement": [
+  "Nærings- og fiskeridepartementet"
+ ],
+ "etat": [
+  "Ressurs- og utredningsavd."
+ ],
+ "kunngjort_i": "I 1984 749",
+ "siste_endring_ikraft": "1994-07-15",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/1994-07-15-681",
+   "tekst": "forskrift/1994-07-15-681"
+  }
+ ],
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1983-06-03-40",
+   "tekst": "lov/1983-06-03-40"
+  }
+ ],
+ "korttittel": "Forskrift om ikraftt. av saltvannsfiskeloven",
+ "tittel": "Forskrift om ikrafttredelse av lov 3. juni 1983 nr. 40 om saltvannsfiske m.v.",
+ "annet": "Fastsatt ved kgl.res. av 10. august 1984. Fremmet av Fiskeridepartementet. Endret 15. juli 1994 nr. 681.",
+ "refid": "forskrift/1984-08-10-1552",
+ "eli": "/eli/forskrift/1984/08/10/1552",
+ "url": "https://lovdata.no/dokument/DEL/forskrift/1984-08-10-1552",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Lov av 3. juni 1983 nr. 40 om saltvannsfiske m.v. (saltvannsfiskeloven) trer i kraft 15. august 1984."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "§ 14, § 15, § 26, § 42 og kap X i saltvannsfiskeloven gjelder så langt de passer for annen virksomhet enn fiske."
+    },
+    {
+     "type": "endring",
+     "tekst": "Endret ved forskrift 15 juli 1994 nr. 681."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kapIII",
+   "overskrift": "III",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "§ 14 i saltvannsfiskeloven gjelder for sel- og hvalfangst."
+    },
+    {
+     "type": "endring",
+     "tekst": "Tilføyd ved forskrift 15 juli 1994 nr. 681."
+    }
+   ]
+  }
+ ]
+}

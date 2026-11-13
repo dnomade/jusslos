@@ -1,0 +1,493 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2016-01-08-12",
+ "dokumentid": "SF/forskrift/2016-01-08-12",
+ "departement": [
+  "Landbruks- og matdepartementet"
+ ],
+ "etat": [
+  "Landbruksdirektoratet"
+ ],
+ "kunngjort_i": "I 2016 hefte 1",
+ "ikraft": "2016-01-08",
+ "siste_endring_ikraft": "2026-07-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2026-06-26-1380",
+   "tekst": "forskrift/2026-06-26-1380 fra 2026-07-01"
+  }
+ ],
+ "endrer": "forskrift/2012-02-10-134",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1981-05-29-38/§9",
+   "tekst": "lov/1981-05-29-38/§9"
+  },
+  {
+   "ref": "lov/1981-05-29-38/§16",
+   "tekst": "lov/1981-05-29-38/§16"
+  },
+  {
+   "ref": "lov/1981-05-29-38/§17",
+   "tekst": "lov/1981-05-29-38/§17"
+  },
+  {
+   "ref": "lov/1981-05-29-38/§18",
+   "tekst": "lov/1981-05-29-38/§18"
+  },
+  {
+   "ref": "lov/1981-05-29-38/§26",
+   "tekst": "lov/1981-05-29-38/§26"
+  },
+  {
+   "ref": "lov/1981-05-29-38/§50",
+   "tekst": "lov/1981-05-29-38/§50"
+  },
+  {
+   "ref": "forskrift/1982-04-02-592",
+   "tekst": "forskrift/1982-04-02-592"
+  },
+  {
+   "ref": "lov/2025-06-20-102/§42",
+   "tekst": "lov/2025-06-20-102/§42"
+  }
+ ],
+ "kunngjort": "2016-01-12 13:55",
+ "siste_rettelse": "2022-01-06 (§ 24 overskriften)",
+ "tittel": "Forskrift om forvaltning av hjortevilt",
+ "annet": "Hjemmel: Fastsatt av Miljødirektoratet 8. januar 2016 med hjemmel i lov 29. mai 1981 nr. 38 om jakt og fangst av vilt (viltloven) § 9, § 16, § 17, § 18, § 26 nr. 3 og 10 og § 50, jf. delegeringsvedtak 2. april 1982 nr. 592.\nTilføyd hjemmel: Lov 20. juni 2025 nr. 102 om jakt, fangst og felling av vilt mv. (viltressursloven) § 42.\nEndret ved forskrifter 12 april 2019 nr. 499, 21 des 2020 nr. 3044 (i kraft 1 jan 2021), 18 juni 2025 nr. 1070, 26 juni 2026 nr. 1380 (i kraft 1 juli 2026, bl.a. hjemmel).\nRettet 06.01.2022 (§ 24 overskriften).",
+ "refid": "forskrift/2016-01-08-12",
+ "eli": "/eli/forskrift/2016/01/08/12",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2016-01-08-12",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Formål",
+   "ledd": [
+    "Formålet med denne forskriften er at forvaltningen av hjortevilt ivaretar bestandenes og leveområdenes produktivitet og mangfold. Det skal legges til rette for en lokal og bærekraftig forvaltning med sikte på nærings- og rekreasjonsmessig bruk av hjorteviltressursene. Forvaltningen skal videre sikre bestandsstørrelser som fører til at hjortevilt ikke forårsaker uakseptable skader og ulemper på andre samfunnsinteresser."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Definisjoner",
+   "ledd": [
+    "I denne forskriften forstås med\na. hjortevilt: elg, hjort, rådyr og villrein;\nb. tellende areal: det arealet som skal legges til grunn for beregning av antall fellingstillatelser;\nc. minsteareal: størrelsen på det tellende arealet som skal legges til grunn for hvert dyr det gis fellingstillatelse på;\nd. vald: et areal som etter søknad er godkjent av kommunen eller villreinnemnda for jakt på hjortevilt;\ne. jaktfelt: et mindre geografisk område innenfor et vald som jaktrettshaverne har avgrenset av hensyn til jaktutøvelsen;\nf. bestandsplanområde for elg og/eller hjort: et område bestående av to eller flere vald som samarbeider om å utarbeide bestandsplan for elg og/eller hjort. Godkjennes av kommunen etter søknad;\ng. villreinområde: et område avgrenset som den geografiske forvaltningsenheten for villreinbestanden;\nh. bestandsplan: jaktrettshavernes offentlig godkjente, flerårige plan med mål for bestandsutviklingen, og beskrivelse av den årlige avskytingen;\ni. jaktrettshaver: enhver som har jaktrett på en eiendom. Retten til å jakte tilhører grunneier hvis ikke annet er bestemt;\nj. Hjorteviltregisteret: nasjonal databank som ivaretar og tilrettelegger opplysninger for hjorteviltforvaltningen;\nk. sett elg og sett hjort: jegernes observasjoner av bestemte viltarter i sitt jaktfelt, registrert etter fastsatt instruks."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Mål for forvaltning av elg, hjort og rådyr",
+   "ledd": [
+    "Kommunen skal vedta mål for utviklingen av bestandene av elg, hjort, og rådyr der det er åpnet for jakt på arten(e). Målene skal blant annet ta hensyn til opplysninger om beitegrunnlag, bestandsutvikling, skader på naturmangfold, jord- og skogbruk og omfanget av viltulykker på veg og bane."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-4",
+   "nummer": "§ 4",
+   "tittel": "Interkommunalt samarbeid",
+   "ledd": [
+    "Kommunene bør samarbeide om felles mål for hjorteviltbestandene når det er hensiktsmessig å samordne bestandsplanleggingen over kommunegrenser.",
+    "Fylkeskommunen kan pålegge kommuner å inngå i et slikt samarbeid hvis det anses som nødvendig for å ivareta bestands- eller samfunnsmessige hensyn på et regionalt nivå."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-5",
+   "nummer": "§ 5",
+   "tittel": "Åpning av jakt på elg, hjort og rådyr",
+   "ledd": [
+    "Kommunen fastsetter forskrift om åpning av jakt på elg, hjort og/eller rådyr i kommunen. Ved avgjørelse om åpning av jakt skal det legges vekt på artens bestandsutvikling i området og en samfunnsmessig helhetsvurdering i samsvar med § 1."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-6",
+   "nummer": "§ 6",
+   "tittel": "Fastsettelse av minsteareal for elg, hjort og rådyr",
+   "ledd": [
+    "Kommunen fastsetter minsteareal for elg, hjort og/eller rådyr i forskrift. Det kan fastsettes ulikt minsteareal for ulike arter og for ulike deler av en kommune.",
+    "Forslag om endring av minsteareal fremmes innen 15. januar. En eventuell forskriftsendring fastsettes av kommunen innen 15. mars."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-7",
+   "nummer": "§ 7",
+   "tittel": "Fravik fra minstearealet",
+   "ledd": [
+    "Kommunen kan ved tildeling av fellingstillatelser fravike minstearealet for elg, hjort og rådyr med inntil 50 prosent. Fravik kan gjøres på bakgrunn av ulikheter i artens levevilkår i kommunen, bestandens størrelse og utvikling, den skade viltet volder eller andre ekstraordinære forhold.",
+    "Fravik fra minstearealet er et enkeltvedtak som gjøres for særskilte vald og for et begrenset tidsrom."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-8",
+   "nummer": "§ 8",
+   "tittel": "Tellende areal for elg, hjort og rådyr",
+   "ledd": [
+    "For elg, hjort og rådyr skal kommunen som hovedregel regne skogareal og myr under skoggrensa som tellende areal. Med skogareal menes både produktiv og uproduktiv skog, og både lauvskog og barskog. Kommunen kan godkjenne andre arealtyper som tellende areal der disse er av stor betydning for vedkommende art.",
+    "Områder som er omdisponert slik at arealet ikke lenger benyttes av vedkommende viltart skal trekkes ut av tellende areal."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-9",
+   "nummer": "§ 9",
+   "tittel": "Krav til vald for jakt på elg, hjort og rådyr",
+   "ledd": [
+    "Valdet skal være sammenhengende og ha en avgrensning som gjør det egnet til jakt på elg, hjort og/eller rådyr.",
+    "Valdet må omfatte et tellende areal som minst tilsvarer minstearealet for vedkommende hjorteviltart. Valdet kan i tillegg omfatte annet areal enn tellende areal.",
+    "Jaktrettshaverne skal oppnevne en valdansvarlig representant som opptrer på vegne av valdet overfor kommunen."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-10",
+   "nummer": "§ 10",
+   "tittel": "Søknad om godkjenning av vald",
+   "ledd": [
+    "Søknad om godkjenning av vald for jakt på elg, hjort eller rådyr sendes kommunen innen 1. mai.",
+    "Søknaden skal inneholde\na. opplysning om hvilken art søknaden gjelder for,\nb. kart som tydelig viser grensene for valdet,\nc. oversikt over de eiendommene (gårds- og bruksnummer) valdet omfatter, og den enkelte eiendoms størrelse innenfor valdets grenser,\nd. oversikt over tellende areal som søkes godkjent,\ne. underskrift fra den eller de som lovlig representerer hver enkelt eiendom, og\nf. valdansvarlig representants navn, postadresse, telefonnummer, e-postadresse og underskrift."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-11",
+   "nummer": "§ 11",
+   "tittel": "Godkjenning og endring av vald",
+   "ledd": [
+    "Kommunen skal behandle søknad om godkjenning av nye vald eller endringer i eksisterende vald for jakt på elg, hjort og rådyr innen 15. juni.",
+    "Jaktrettshaver som ønsker å trekke en eiendom ut av et godkjent eller omsøkt vald, skal melde dette skriftlig til valdansvarlig representant med kopi til kommunen senest 1. april. Utmelding krever underskrift fra den eller de som lovlig representerer eiendommen.",
+    "Dersom valdets grenser, eiendomsforhold eller tellende areal endres, skal valdansvarlig representant melde endringene skriftlig til kommunen innen 1. mai for ny godkjenning.",
+    "Kommunen kan til enhver tid trekke godkjenningen av hele eller deler av valdet tilbake og kreve at det fremmes ny søknad dersom rettighetsforhold som har betydning for godkjenningen av valdet er uklare. Kommunen kan også kreve at opplysningene som er gitt i søknaden bekreftes eller dokumenteres på nytt."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-12",
+   "nummer": "§ 12",
+   "tittel": "Krav til bestandsplanområde for elg og hjort",
+   "ledd": [
+    "Et bestandsplanområde er to eller flere vald som samarbeider om å utarbeide bestandsplan for elg og/eller hjort.",
+    "Bestandsplanområdet må disponere et tellende areal på minimum 20 ganger minstearealet.",
+    "Bestandsplanområdet skal oppnevne en representant som opptrer på vegne av bestandsplanområdet overfor kommunen."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-13",
+   "nummer": "§ 13",
+   "tittel": "Søknad om godkjenning av bestandsplanområde for elg og hjort",
+   "ledd": [
+    "Søknad om godkjenning av bestandsplanområde for jakt på elg eller hjort sendes kommunen innen 1. mai.",
+    "Søknaden skal inneholde\na. opplysning om hvilken art søknaden gjelder for,\nb. kart som tydelig viser grensene for bestandsplanområdet,\nc. oversikt over alle valdene som inngår i bestandsplanområdet,\nd. oversikt over tellende areal for bestandsplanområdet samlet,\ne. underskrift fra valdansvarlig representant for alle vald som inngår i bestandsplanområdet, og\nf. navn, postadresse, telefonnummer, e-postadresse og underskrift for representanten for bestandsplanområdet."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-14",
+   "nummer": "§ 14",
+   "tittel": "Godkjenning og endring av bestandsplanområde for elg og hjort",
+   "ledd": [
+    "Kommunen skal behandle søknad om godkjenning av nytt bestandsplanområde eller endringer i eksisterende bestandsplanområde innen 15. juni.",
+    "Vald som ønsker å trekke seg ut av et godkjent eller omsøkt bestandsplanområde, skal melde dette skriftlig til representanten for bestandsplanområdet med kopi til kommunen innen 1. april.",
+    "Representanten for bestandsplanområdet skal melde om endringer i bestandsplanområdet til kommunen innen 1. mai for ny godkjenning.",
+    "Kommunen kan trekke godkjenningen tilbake hvis kravene i § 12 ikke lenger er oppfylt. Frist for kommunen til å trekke godkjenningen tilbake er 1. april."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-15",
+   "nummer": "§ 15",
+   "tittel": "Krav til bestandsplan for elg og hjort",
+   "ledd": [
+    "Vald eller bestandsplanområder som disponerer et tellende areal på minimum 20 ganger minstearealet kan søke kommunen om godkjenning av en flerårig, maksimalt femårig, bestandsplan for elg og/eller hjort.",
+    "Bestandsplanen skal inneholde mål for bestandsutviklingen, i samsvar med kommunens mål. Bestandsplanen skal også inneholde en plan for den årlige avskytingen i antall dyr, som et minimum fordelt på kategoriene kalv, voksne hunndyr og voksne hanndyr, samt spissbukk for hjort.",
+    "For bestandsplanområder skal planen beskrive hvordan ulike dyrekategorier i fellingskvota årlig fordeles på de enkelte valdene.",
+    "Frist for å søke kommunen om godkjenning eller endring av bestandsplan er 1. mai. Søknaden skal underskrives av bestandsplanområdets representant."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-16",
+   "nummer": "§ 16",
+   "tittel": "Godkjenning og endring av bestandsplan for elg og hjort",
+   "ledd": [
+    "Kommunen skal behandle søknad om godkjenning av ny bestandsplan eller endring i eksisterende bestandsplan innen 15. juni.",
+    "En godkjenning fastsetter fellingstillatelser for hele bestandsplanperioden, og skal inneholde informasjon om muligheten for overføring av et begrenset antall fellingstillatelser mellom år i perioden.",
+    "Kommunen kan trekke godkjenningen tilbake og tildele nye fellingstillatelser dersom arealkravet i § 15 ikke lenger er oppfylt, ved manglende rapportering, ved vesentlig uforutsette endringer i bestanden i området eller ved vesentlige avvik fra godkjent bestandsplan, herunder avvik i forhold til årlig planlagt avskyting i antall, kjønn eller alder. Frist for kommunen til å trekke godkjenningen tilbake er 1. april."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-17",
+   "nummer": "§ 17",
+   "tittel": "Vald, bestandsplanområde og bestandsplan over kommunegrenser",
+   "ledd": [
+    "Søknad om godkjenning av vald, bestandsplanområde og bestandsplan som berører flere kommuner, sendes den kommunen der den største delen av det tellende arealet ligger, om ikke annet er bestemt. Denne kommunen godkjenner og forvalter slike vald, bestandsplanområder og bestandsplaner i samsvar med bestemmelser som gjelder i sin kommune.",
+    "En forutsetning for samarbeid etter første ledd, er at alle berørte kommuner har gitt sitt samtykke til dette i henhold til kommuneloven."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-18",
+   "nummer": "§ 18",
+   "tittel": "Fellingstillatelse for elg og hjort",
+   "ledd": [
+    "Kommunen tildeler årlig fellingstillatelser for elg og hjort til godkjente vald med et tellende areal som minimum tilsvarer minstearealet. Fellingstillatelsen gjelder innenfor det godkjente valdet.",
+    "For vald eller bestandsplanområder med godkjent bestandsplan skal fellingstillatelsene vise antall dyr uten spesifikasjon på alder og kjønn, og avskytningen skal utføres i samsvar med alder og kjønn i godkjent bestandsplan. For bestandsplanområder tildeles fellingstillatelsene hvert enkelt vald.",
+    "For vald uten godkjent bestandsplan beregnes antall fellingstillatelser ved å dividere valdets tellende areal med gjeldende minsteareal. Fellingstillatelse skal fordeles på følgende kategorier\na. elg: kalv (½ år), voksne hunndyr (1½ år og eldre), voksne hanndyr (1½ år og eldre),\nb. hjort: kalv (½ år), voksne hunndyr (1½ år og eldre), spissbukk (bukk med ugreina gevir), og voksne hanndyr (1½ år og eldre).\nFor begge artene kan kalv felles i stedet for voksne dyr.",
+    "Kommunen skal sende fellingstillatelsen til valdansvarlig representant innen 15. juni."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-19",
+   "nummer": "§ 19",
+   "tittel": "Fellesjaktavtaler for elg og hjort",
+   "ledd": [
+    "For jakt i bestandsplanområder for elg og hjort kan fellingstillatelser gitt til et vald, benyttes i andre vald i bestandsplanområdet i hele eller en nærmere angitt del av jaktperioden. Dette forutsetter skriftlig avtale som viser hvilke vald og hvilke perioder fellesjaktavtalen gjelder for."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-20",
+   "nummer": "§ 20",
+   "tittel": "Fellingstillatelse for rådyr",
+   "ledd": [
+    "Kommunen tildeler fellingstillatelse for rådyr til godkjente rådyrvald årlig. Fellingstillatelsen gjelder innenfor det godkjente valdet.",
+    "Rådyrvald som disponerer et tellende areal på minimum 20 ganger minstearealet eller minst 10 000 dekar kan etter søknad tildeles fellingstillatelsen for rådyr som kvotefri jakt. Før kvotefri jakt på rådyr tildeles kan kommunen kreve at jaktrettshaver utarbeider en avskytingsplan.",
+    "Et bestandsplanområde for elg eller hjort der valdene også er godkjente som rådyrvald, kan søke kommunen om kvotefri jakt på rådyr dersom bestandsplanområdet oppfyller arealkravet i annet ledd.",
+    "Frist for å søke kommunen om kvotefri jakt på rådyr er 1. mai.",
+    "For vald uten tillatelse til kvotefri jakt, beregnes antall fellingstillatelser ved å dividere valdets tellende areal med gjeldende minsteareal. Fellingstillatelsen skal ikke fordeles på definerte kjønns- og aldersgrupper.",
+    "Kommunen skal sende fellingstillatelsen til valdansvarlig representant innen 15. juni."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-21",
+   "nummer": "§ 21",
+   "tittel": "Om villreinnemndene",
+   "ledd": [
+    "Villrein i alle villreinområder med areal i to eller flere kommuner skal forvaltes av ei villreinnemnd. Villreinnemnda skal arbeide for en langsiktig bærekraftig forvaltning av villreinen og dens leveområder i samsvar med naturmangfoldloven og viltressursloven.",
+    "Det skal være ni villreinnemnder\n1. Villreinnemnda for Setesdalområdet\n2. Villreinnemnda for Brattefjell-Vindeggen, Blefjell og Norefjell-Reinsjøfjell\n3. Villreinnemnda for Hardangerviddaområdet\n4. Villreinnemnda for Nordfjella, Fjellheimen og Raudafjell\n5. Villreinnemnda for Sogn og Fjordane\n6. Villreinnemnda for Reinheimen-Breheimen\n7. Villreinnemnda for Rondane og Sølnkletten\n8. Villreinnemnda for Snøhetta og Knutshø\n9. Villreinnemnda for Forollhogna.\nTolga kommune fungerer som villreinnemnd for Tolga Østfjell villreinområde.",
+    "Villreinnemndas medlemmer og personlige varamedlemmer oppnevnes av Landbruksdirektoratet etter forslag om en kvinnelig og en mannlig kandidat fra hver kommune som har villreinareal innenfor den enkelte nemnds virkeområde. Oppnevningsperioden for medlemmene følger valgperioden for kommunevalget. Villreinnemnda velger selv leder og nestleder."
+   ],
+   "endringer": [
+    "Endret ved forskrifter 12 april 2019 nr. 499, 18 juni 2025 nr. 1070, 26 juni 2026 nr. 1380 (i kraft 1 juli 2026)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-22",
+   "nummer": "§ 22",
+   "tittel": "Åpning av jakt på villrein",
+   "ledd": [
+    "Landbruksdirektoratet fastsetter forskrift om åpning av jakt på villrein."
+   ],
+   "endringer": [
+    "Endret ved forskrift 18 juni 2025 nr. 1070."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-23",
+   "nummer": "§ 23",
+   "tittel": "Tellende areal for villrein",
+   "ledd": [
+    "For villrein regnes areal over skoggrensa som tellende areal. Villreinnemnda kan godkjenne skogområder som brukes regelmessig av villrein som tellende areal. Vann og isbre over 500 dekar skal ikke regnes med.",
+    "Områder som villreinen ikke lenger benytter fordi menneskelig påvirkning har redusert områdenes verdi vesentlig for villrein kan trekkes ut av tellende areal."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-24",
+   "nummer": "§ 24",
+   "tittel": "Krav til opprettelse av vald for jakt på villrein",
+   "ledd": [
+    "Valdet skal være sammenhengende og ha en avgrensning som gjør det egnet til jakt på villrein. Valdet må omfatte et tellende areal som minst tilsvarer minstearealet for villrein. Valdet kan i tillegg omfatte annet areal enn tellende areal.",
+    "Jaktrettshaverne skal oppnevne en valdansvarlig representant som opptrer på vegne av valdet overfor villreinnemnda."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-25",
+   "nummer": "§ 25",
+   "tittel": "Søknad om godkjenning av vald",
+   "ledd": [
+    "Søknad om godkjenning av vald for jakt på villrein sendes villreinnemnda innen 1. april.",
+    "Søknaden skal inneholde\na. kart som tydelig viser grensene for valdet,\nb. oversikt over de eiendommene (gårds- og bruksnummer) valdet omfatter, og den enkelte eiendoms størrelse innenfor valdets grenser,\nc. oversikt over tellende areal som søkes godkjent,\nd. underskrift fra den eller de som lovlig representerer hver enkelt eiendom, og\ne. valdansvarlig representants navn, postadresse, telefonnummer, e-postadresse og underskrift."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-26",
+   "nummer": "§ 26",
+   "tittel": "Godkjenning og endring av vald",
+   "ledd": [
+    "Villreinnemnda skal behandle søknad om godkjenning av nye vald eller endringer i eksisterende vald for jakt på villrein innen 1. mai.",
+    "Jaktrettshaver som ønsker å trekke seg ut av et godkjent eller omsøkt vald, skal melde dette skriftlig til valdansvarlig representant med kopi til villreinnemnda senest 1. mars. Utmelding krever underskrift fra den eller de som lovlig representerer eiendommen.",
+    "Dersom valdets grenser, eiendomsforhold eller tellende areal endres, skal valdansvarlig representant melde endringene skriftlig til villreinnemnda innen 1. april for ny godkjenning.",
+    "Villreinnemnda kan til enhver tid trekke godkjenningen av hele eller deler av valdet tilbake og kreve at det fremmes ny søknad dersom rettighetsforhold som har betydning for godkjenningen av valdet er uklare. Villreinnemnda kan også kreve at opplysningene som er gitt i søknaden bekreftes eller dokumenteres på nytt."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-27",
+   "nummer": "§ 27",
+   "tittel": "Bestandsplan for villrein",
+   "ledd": [
+    "Villreinnemnda kan godkjenne en flerårig, maksimalt femårig, bestandsplan utarbeidet av villreinutvalg/grunneiersammenslutning. Bestandsplanen skal som hovedregel omfatte hele villreinområdet, og inneholde mål for bestandsstørrelse og -utvikling, årlig avskytingsplan fordelt på alder og kjønn, oversikt over hvilke bestandsdata som skal samles inn og hvilke tiltak som er planlagt gjennomført.",
+    "Hvis det oppstår vesentlige avvik fra godkjent bestandsplan, eller vesentlige uforutsette endringer i bestanden i løpet av planperioden, kan villreinnemnda beslutte at ny bestandsplan skal utarbeides.",
+    "Dersom villrein trekker mellom ulike villreinområder, kan områdene samarbeide om felles bestandsforvaltning, herunder felles bestandsplan."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-28",
+   "nummer": "§ 28",
+   "tittel": "Fastsettelse av fellingskvote og beregning av minsteareal",
+   "ledd": [
+    "Villreinnemnda vedtar årlig fellingskvote for hvert villreinområde innen 1. mai.",
+    "Hvis godkjent bestandsplan foreligger, skal villreinnemnda legge denne til grunn for sitt årlige vedtak om fellingskvote. I villreinområder uten bestandsplan skal villreinutvalg/grunneiersammenslutning oppfordres til å fremlegge forslag før fellingskvote fastsettes.",
+    "Minsteareal regnes ut ved divisjon av villreinområdets samla tellende areal med fastsatt fellingskvote. I spesielle tilfeller kan et villreinområde deles i flere geografiske soner med tilhørende kvote og minsteareal."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-29",
+   "nummer": "§ 29",
+   "tittel": "Fellingstillatelser for villrein",
+   "ledd": [
+    "Villreinnemnda tildeler årlig fellingstillatelse for villrein til godkjente vald med et tellende areal som minimum tilsvarer minstearealet. Fellingstillatelsen gjelder innenfor det godkjente valdet.",
+    "For hvert vald beregnes antall fellingstillatelser ved å dividere valdets tellende areal med gjeldende minsteareal.",
+    "Vald som har gitt skriftlig tilslutning til godkjent bestandsplan kan tildeles den årlige fellingstillatelsen uten spesifikasjon på alder og kjønn.",
+    "For vald som ikke har gitt skriftlig tilslutning til godkjent bestandsplan kan villreinnemnda fordele fellingskvota på følgende kategorier: kalv (½ år), simle (1½ år og eldre), simle/ungdyr (simle 1½ år og eldre eller bukk 1½ år), valgfritt dyr. Kalv kan felles i stedet for voksne dyr av begge kjønn.",
+    "Villreinnemnda skal sende fellingstillatelsen til valdansvarlig representant innen 15. juni."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-30",
+   "nummer": "§ 30",
+   "tittel": "Kontrollordning for villreinjakt",
+   "ledd": [
+    "For hver villrein som tillates felt, sender villreinnemnda et kontrollkort til valdansvarlig representant. Kortet utformes av Landbruksdirektoratet og skal vise hva slags kategori dyr fellingstillatelsen gjelder for og i hvilket vald fellingstillatelsen gjelder.",
+    "Felte dyr eller kjøtt skal være merket med riktig utfylt kontrollkort før transport fra fellingssted starter eller når det etterlates i terrenget over natten."
+   ],
+   "endringer": [
+    "Endret ved forskrift 18 juni 2025 nr. 1070."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-31",
+   "nummer": "§ 31",
+   "tittel": "Fellesjaktavtaler for villrein",
+   "ledd": [
+    "Fellingstillatelser gitt til ett vald kan benyttes i andre vald i villreinområdet, eller andre vald i villreinområder med felles bestandsplan, i hele eller en nærmere angitt del av jaktperioden. Dette forutsetter skriftlig avtale som viser hvilke vald og hvilke perioder fellesjaktavtalen gjelder for."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-32",
+   "nummer": "§ 32",
+   "tittel": "Rapportering",
+   "ledd": [
+    "For elg, hjort, rådyr og villrein skal valdansvarlig representant rapportere årlig fellingsresultat til kommunen eller villreinnemnda innen 14 dager etter endt jakt. Kommunen og villreinnemnda skal innen 30 dager etter endt jakttid rapportere dette til Statistisk Sentralbyrå gjennom Hjorteviltregisteret.",
+    "Valdansvarlig representant skal rapportere opplysninger registrert på kontrollkort for villrein til villreinnemnda senest 14 dager etter endt jakt.",
+    "Landbruksdirektoratet, statsforvalteren, fylkeskommunen, kommunen og villreinnemnda kan hver for seg eller i fellesskap pålegge jegerne og/eller jaktrettshaverne å rapportere opplysninger om viltbestanden i sitt jaktfelt eller vald ved å registrere sett elg eller sett hjort, samle inn kjever, kjønnsorganer og lignende til analyse og bruk i forvaltningen."
+   ],
+   "endringer": [
+    "Endret ved forskrifter 21 des 2020 nr. 3044 (i kraft 1 jan 2021), 18 juni 2025 nr. 1070."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-33",
+   "nummer": "§ 33",
+   "tittel": "Bruk av Hjorteviltregisteret",
+   "ledd": [
+    "Kommunen og villreinnemnda skal benytte Hjorteviltregisteret som verktøy for å tildele fellingstillatelser, rapportere fellingsresultat og holde oversikt over vald og tellende areal.",
+    "Kommunen skal registrere sett elg- og sett hjort-rapporteringer i Hjorteviltregisteret.",
+    "Kommunen og villreinnemnda skal sørge for at andre innsamlede opplysninger om hjortevilt registreres i Hjorteviltregisteret."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-34",
+   "nummer": "§ 34",
+   "tittel": "Mislighold av rapporteringsplikt",
+   "ledd": [
+    "Kommunen kan nekte eller trekke tilbake godkjenning av kvotefri jakt på rådyr, eller bestandsplan for elg eller hjort ved manglende rapportering av fellingsresultat eller andre pålagte innsamlede opplysninger.",
+    "Villreinnemnda kan nekte tildeling av frie fellingstillatelser for jakt på villrein påfølgende jaktår ved utilfredsstillende rapportering av fellingsresultat eller andre pålagte innsamlede opplysninger."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-35",
+   "nummer": "§ 35",
+   "tittel": "Straff",
+   "ledd": [
+    "Overtredelse av bestemmelser gitt i eller i medhold av denne forskriften straffes etter viltressursloven § 60."
+   ],
+   "endringer": [
+    "Endret ved forskrift 26 juni 2026 nr. 1380 (i kraft 1 juli 2026)."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-36",
+   "nummer": "§ 36",
+   "tittel": "Klageadgang",
+   "ledd": [
+    "Enkeltvedtak fattet med hjemmel i denne forskriften kan påklages i samsvar med reglene i forvaltningsloven.",
+    "Klageinstans for vedtak fattet av kommunen er statsforvalteren, klageinstans for vedtak fattet av villreinnemnda er Landbruksdirektoratet, og klageinstans for vedtak fattet av fylkeskommunen er fylkestinget eller den fylkestinget bestemmer."
+   ],
+   "endringer": [
+    "Endret ved forskrifter 21 des 2020 nr. 3044 (i kraft 1 jan 2021), 18 juni 2025 nr. 1070."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-37",
+   "nummer": "§ 37",
+   "tittel": "Dispensasjon",
+   "ledd": [
+    "Landbruksdirektoratet kan i særlige tilfeller dispensere fra bestemmelsene i denne forskriften. Søknad om dispensasjon sendes til kommunen eller villreinnemnda for forberedende saksbehandling før den oversendes Landbruksdirektoratet.",
+    "Kommunen og villreinnemnda kan etter søknad gi dispensasjon fra tidsfrister gitt i § 10, § 11 tredje ledd, § 13, § 14 tredje ledd, § 15 fjerde ledd og § 20 fjerde ledd.",
+    "Villreinnemnda kan etter søknad gi dispensasjon fra tidsfrister gitt i § 25 og § 26 tredje ledd."
+   ],
+   "endringer": [
+    "Endret ved forskrift 18 juni 2025 nr. 1070."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-38",
+   "nummer": "§ 38",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Forskriften trer i kraft 8. januar 2016. Fra samme tidspunkt oppheves forskrift 10. februar 2012 nr. 134 om forvalting av hjortevilt."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-39",
+   "nummer": "§ 39",
+   "tittel": "Overgangsbestemmelser",
+   "ledd": [
+    "Bestandsplaner som er godkjent før 8. januar 2016, gjelder ut planperioden."
+   ]
+  }
+ ]
+}

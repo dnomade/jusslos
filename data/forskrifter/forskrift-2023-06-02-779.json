@@ -1,0 +1,57 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2023-06-02-779",
+ "dokumentid": "SF/forskrift/2023-06-02-779",
+ "departement": [
+  "Justis- og beredskapsdepartementet"
+ ],
+ "etat": [
+  "Lovavdelingen"
+ ],
+ "ikraft": "2023-06-02",
+ "hjemmel": [
+  {
+   "ref": "lov/2023-05-11-13",
+   "tekst": "lov/2023-05-11-13"
+  },
+  {
+   "ref": "lov/2005-06-17-90/§29-13",
+   "tekst": "lov/2005-06-17-90/§29-13"
+  },
+  {
+   "ref": "lov/2013-06-21-100/§7-9",
+   "tekst": "lov/2013-06-21-100/§7-9"
+  },
+  {
+   "ref": "lov/2013-06-21-100/§8-8",
+   "tekst": "lov/2013-06-21-100/§8-8"
+  }
+ ],
+ "kunngjort": "2023-06-05 10:40",
+ "tittel": "Overgangsregler til lov 11. mai 2023 nr. 13 om endringer i tvisteloven mv. (rettsmekling, ankenektelse mv.)",
+ "annet": "Hjemmel: Fastsatt ved kgl.res. 2. juni 2023 med hjemmel i lov 11. mai 2023 nr. 13 om endringer i tvisteloven mv. (rettsmekling, ankenektelse mv.) del V nr. 2. Fremmet av Justis- og beredskapsdepartementet.",
+ "refid": "forskrift/2023-06-02-779",
+ "eli": "/eli/forskrift/2023/06/02/779",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2023-06-02-779",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Skjæringstidspunkt for endringer i tvisteloven",
+   "ledd": [
+    "Endringene i tvisteloven § 29-13 andre ledd første punktum får ikke anvendelse for anker over avgjørelser som er avsagt før 1. juli 2023. Endringene i tvisteloven § 29-13 fjerde ledd andre punktum får ikke anvendelse for ankesaker som er mottatt av lagmannsretten før 1. juli 2023."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Skjæringstidspunkt for endringer i jordskiftelova",
+   "ledd": [
+    "Endringene i jordskiftelova § 7-9 første ledd andre punktum får ikke anvendelse for saker der krav om sak er fremsatt før 1. juli 2023. Endringene i jordskiftelova § 8-8 tredje ledd første punktum får ikke anvendelse for anker over avgjørelser som er avsagt før 1. juli 2023."
+   ]
+  }
+ ]
+}

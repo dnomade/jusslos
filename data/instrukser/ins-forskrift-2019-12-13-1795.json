@@ -1,0 +1,269 @@
+{
+ "skjema": "1.0",
+ "type": "instruks",
+ "datokode": "FOR-2019-12-13-1795",
+ "dokumentid": "INS/forskrift/2019-12-13-1795",
+ "departement": [
+  "Finansdepartementet"
+ ],
+ "etat": [
+  "Avdeling for formuesforvaltning"
+ ],
+ "ikraft": "2020-01-01 med virkning for regnskapsår som begynner etter 2019-12-31",
+ "siste_endring_ikraft": "2025-02-10",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2025-02-10-194",
+   "tekst": "forskrift/2025-02-10-194"
+  }
+ ],
+ "endrer": "forskrift/2011-12-08-1217",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2007-06-29-44/§12",
+   "tekst": "lov/2007-06-29-44/§12"
+  },
+  {
+   "ref": "lov/2020-03-27-12/§4",
+   "tekst": "lov/2020-03-27-12/§4"
+  },
+  {
+   "ref": "lov/2024-06-25-67/§8",
+   "tekst": "lov/2024-06-25-67/§8"
+  }
+ ],
+ "kunngjort": "2019-12-17 16:40",
+ "siste_rettelse": "2024-06-21 (kildetilhøringhet)",
+ "korttittel": "Regnskapsinstruksen Folketrygdfondet",
+ "tittel": "Bestemmelser om årsregnskap mv. for Folketrygdfondet (regnskapsinstruksen)",
+ "annet": "Hjemmel: Fastsatt av Finansdepartementet 16. desember 2019 med hjemmel i lov 29. juni 2007 nr. 44 om Folketrygdfondet § 12.\nTilføyd hjemmel: Lov 27. mars 2020 nr. 12 om Statens obligasjonsfond § 4, lov 25. juni 2024 nr. 67 om Statens fond i Tromsø § 8.\nEndret ved vedtak 5 juni 2020 nr. 1155 (i kraft 27 mars 2020 med virkning for regnskapsår som begynner etter 31 des 2019), 3 des 2024 nr. 2922 (i kraft 1 jan 2024 med virkning for regnskapsår som begynner 1. januar 2024 og senere), 3 des 2024 nr. 2922 (i kraft 1 nov 2024), 3 des 2024 nr. 2922 (bl.a tittel), 10 feb 2025 nr. 194 (i kraft med virkning fra og med regnskapsåret 2024).\nRettet 21.06.2024 (kildetilhøringhet).",
+ "refid": "forskrift/2019-12-13-1795",
+ "eli": "/eli/forskrift/2019/12/13/1795",
+ "url": "https://lovdata.no/dokument/INS/forskrift/2019-12-13-1795",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1. Alminnelige bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1-1",
+     "tittel": "Virkeområde",
+     "ledd": [
+      "Bestemmelsene gjelder for Folketrygdfondet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 1-2",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "(1) Med kapitalinnskudd Statens pensjonsfond Norge (SPN) menes en bestemt del av statens formue som Finansdepartementet har plassert som kapitalinnskudd i Folketrygdfondet i henhold til lov 21. desember 2005 om Statens pensjonsfond § 3 tredje ledd.",
+      "(2) Med kapitalinnskudd Statens obligasjonsfond (SOF) menes en bestemt del av statens formue som Finansdepartementet har plassert som kapitalinnskudd i Folketrygdfondet i henhold til lov 27. mars 2020 nr. 12 om Statens obligasjonsfond § 3 tredje ledd.",
+      "(3) Med kapitalinnskudd Statens fond i Tromsø (SFT) menes en bestemt del av statens formue som Finansdepartementet har plassert som kapitalinnskudd i Folketrygdfondet i henhold til lov 25. juni 2024 nr. 67 om Statens fond i Tromsø § 4 tredje ledd.",
+      "(4) Med investeringsportefølje SPN menes motverdien av kapitalinnskuddet som Folketrygdfondet forvalter i medhold av mandat 21. desember 2010 nr. 1790 for forvaltningen av Statens pensjonsfond Norge (SPN).",
+      "(5) Med investeringsportefølje SOF menes motverdien av kapitalinnskuddet som Folketrygdfondet forvalter i medhold av mandat 27. mars 2020 for forvaltningen av Statens obligasjonsfond (SOF).",
+      "(6) Med investeringsportefølje SFT menes motverdien av kapitalinnskuddet som Folketrygdfondet forvalter i medhold mandat 12. august 2024 for forvaltningen av Statens fond i Tromsø (SFT)."
+     ],
+     "endringer": [
+      "Endret ved vedtak 5 juni 2020 nr. 1155 (i kraft 27 mars 2020 med virkning for regnskapsår som begynner etter 31 des 2019), 3 des 2024 nr. 2922 (i kraft 1 jan 2024 med virkning for regnskapsår som begynner 1. januar 2024 og senere)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2. Årsregnskap og årsberetning",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 2-1",
+     "tittel": "Plikt til å utarbeide årsregnskap og årsberetning",
+     "ledd": [
+      "(1) Folketrygdfondet skal utarbeide årsregnskap og årsberetning etter regnskapslovens bestemmelser med de unntak og tillegg som følger av denne regnskapsinstruksen. Folketrygdfondet skal følge regnskapslovens bestemmelser for foretak av allmenn interesse.",
+      "(2) Forslag til årsregnskapet og årsberetning skal vedtas av Folketrygdfondets styre senest 3 måneder etter regnskapsårets slutt."
+     ],
+     "endringer": [
+      "Endret ved vedtak 3 des 2024 nr. 2922, 10 feb 2025 nr. 194 (i kraft med virkning fra og med regnskapsåret 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 2-2",
+     "tittel": "Anvendelse av internasjonale regnskapsstandarder",
+     "ledd": [
+      "Folketrygdfondets selskapsregnskap og konsernregnskap skal utarbeides i samsvar med de internasjonale regnskapsstandardene som er vedtatt etter regnskapsloven § 3-9 annet ledd med de tillegg og unntak som følger av regnskapsloven og denne regnskapsinstruksen."
+     ],
+     "endringer": [
+      "Endret ved vedtak 3 des 2024 nr. 2922"
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 2-3",
+     "tittel": null,
+     "ledd": [
+      "(1) Folketrygdfondet skal i årsberetningen redegjøre for miljø, sosiale forhold, arbeidsmiljø, likestilling og ikke-diskriminering, overholdelse av menneskerettigheter og bekjempelse av korrupsjon og bestikkelser. Opplysningene skal gis i det omfang som er nødvendig for å forstå foretakets utvikling, resultat, stilling og konsekvenser av foretakets virksomhet.",
+      "(2) Redegjørelsen skal minst inneholde:\na. en beskrivelse av Folketrygdfondets forretningsmodell,\nb. en beskrivelse av Folketrygdfondets retningslinjer for håndtering av forhold som nevnt i første ledd første punktum, herunder gjennomførte aktsomhetsvurderinger,\nc. virkninger av retningslinjene,\nd. de vesentlige risikoene knyttet til Folketrygdfondets virksomhet som omhandler forhold som nevnt i første ledd første punktum. Der det er relevant og vesentlig, skal det opplyses om forretningsforbindelser, produkter eller tjenester som kan forventes å ha negativ påvirkning på forhold som nevnt i første ledd første punktum, samt hvordan Folketrygdfondet håndterer disse risikoene,\ne. resultatindikatorer som er relevante for Folketrygdfondets virksomhet.",
+      "(3) Opplysninger om fremtidig utvikling eller forhold som det forhandles om, kan utelates fra redegjørelsen dersom styret mener at offentliggjøring vil være til alvorlig skade for foretakets forretningsmessige situasjon, forutsatt at en slik utelatelse ikke hindrer en rimelig og balansert forståelse av foretakets utvikling, resultat, stilling og konsekvenser av dets virksomhet."
+     ],
+     "endringer": [
+      "Tilføyd ved vedtak 10 feb 2025 nr. 194 (i kraft med virkning fra og med regnskapsåret 2024)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 2-4",
+     "tittel": "Unntak fra regnskapslovens bestemmelser",
+     "ledd": [
+      "Kravene til årsberetningens innhold etter regnskapsloven § 2-2 åttende ledd og § 2-9 første til tredje ledd gjelder ikke. Regnskapsloven § 2-2 syvende ledd og §§ 2-3 til 2-8, gjelder ikke."
+     ],
+     "endringer": [
+      "Endret ved vedtak 3 des 2024 nr. 2922 (i kraft 1 nov 2024), 10 feb 2025 nr. 194 (i kraft med virkning fra og med regnskapsåret 2024, tidligere § 2-3)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 2-5",
+     "tittel": "Tillegg til resultat- og balanseoppstilling etter IFRS",
+     "ledd": [
+      "(1) Verdien av kapitalinnskudd SPN skal svare til verdien av investeringsportefølje SPN som settes lik netto bokført verdi av de porteføljene av finansielle instrumenter, kontantinnskudd og andre eiendeler og finansielle forpliktelser som Folketrygdfondet forvalter i medhold av mandatet for forvaltningen av SPN.",
+      "(2) Verdien av kapitalinnskudd SOF skal svare til verdien av investeringsportefølje SOF som settes lik netto bokført verdi av porteføljen av finansielle instrumenter, kontantinnskudd og andre eiendeler og finansielle forpliktelser som Folketrygdfondet forvalter i medhold av mandatet for forvaltningen av SOF.",
+      "(3) Verdien av kapitalinnskudd SFT skal svare til verdien av investeringsportefølje SFT som settes lik netto bokført verdi av porteføljen av finansielle instrumenter, kontantinnskudd og andre eiendeler og finansielle forpliktelser som Folketrygdfondet forvalter i medhold av mandatet for forvaltningen av SFT.",
+      "(4) Resultat investeringsportefølje SPN og resultat tilordnet SPNs kapital skal presenteres på egen linje i oppstillingen av totalresultat.",
+      "(5) Resultat investeringsportefølje SOF og resultat tilordnet SOFs kapital skal presenteres på egen linje i oppstillingen av totalresultat.",
+      "(6) Resultat investeringsportefølje SFT og resultat tilordnet SFTs kapital skal presenteres på egen linje i oppstillingen av totalresultat.",
+      "(7) Nettoverdi av investeringsportefølje SPN og saldo SPNs kapital skal presenteres på egen linje i oppstillingen av finansiell stilling.",
+      "(8) Nettoverdi av investeringsportefølje SOF og saldo SOFs kapital skal presenteres på egen linje i oppstillingen av finansiell stilling.",
+      "(9) Nettoverdi av investeringsportefølje SFT og saldo SFTs kapital skal presenteres på egen linje i oppstillingen av finansiell stilling.",
+      "(10) Innskudd i og uttak fra kapitalinnskudd SPN skal presenteres på egne linjer i oppstillingen av kontantstrømmer.",
+      "(11) Innskudd i og uttak fra kapitalinnskudd SOF skal presenteres på egne linjer i oppstillingen av kontantstrømmer.",
+      "(12) Innskudd i og uttak fra kapitalinnskudd SFT skal presenteres på egne linjer i oppstillingen av kontantstrømmer.",
+      "(13) Regnskapsrapportering for investeringsportefølje SPN, investeringsportefølje SOF og investeringsportefølje SFT i henhold til bestemmelsene i kapittel 3 skal presenteres i hver sin note til årsregnskapet til Folketrygdfondet."
+     ],
+     "endringer": [
+      "Endret ved vedtak 5 juni 2020 nr. 1155 (i kraft 27 mars 2020 med virkning for regnskapsår som begynner etter 31 des 2019), 3 des 2024 nr. 2922 (i kraft 1 jan 2024 med virkning for regnskapsår som begynner 1. januar 2024 og senere), 10 feb 2025 nr. 194 (i kraft med virkning fra og med regnskapsåret 2024, tidligere § 2-4)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3. Regnskapsrapportering for investeringsportefølje SPN, investeringsportefølje SOF og investeringsportefølje SFT",
+   "innhold": [
+    {
+     "type": "endring",
+     "tekst": "Kapitteloverskriften endret ved vedtak 5 juni 2020 nr. 1155 (i kraft 27 mars 2020 med virkning for regnskapsår som begynner etter 31 des 2019), 3 des 2024 nr. 2922 (i kraft 1 jan 2024 med virkning for regnskapsår som begynner 1. januar 2024 og senere)."
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 3-1",
+     "tittel": "Regnskapsrapportering for investeringsportefølje SPN, investeringsportefølje SOF og investeringsportefølje SFT",
+     "ledd": [
+      "(1) Folketrygdfondets regnskap skal omfatte regnskapsrapportering for investeringsportefølje SPN, investeringsportefølje SOF og investeringsportefølje SFT. Regnskapsrapportering for de tre investeringsporteføljene skal utarbeides i samsvar med kravene som gjelder for selskapsregnskap eller i tilfellet for konsernregnskap, etter de internasjonale regnskapsstandardene som er vedtatt etter regnskapsloven § 3-9 annet ledd med de tillegg og unntak som følger av regnskapsloven og denne regnskapsinstruksen.",
+      "(2) Regnskapsrapporteringen for de tre investeringsporteføljene kan offentliggjøres som utdrag fra Folketrygdfondets regnskap i egen rapport i samsvar med bestemmelsene i kapittelet her. Dersom regnskapsrapporteringen for de tre investeringsporteføljene offentliggjøres i egen rapport, skal det offentliggjøres en særskilt beretning fra Folketrygdfondets valgte revisor sammen med regnskapsrapporteringen. Beretningen skal avgis i samsvar med god revisjonsskikk for revisors beretninger om utdrag fra regnskap og revisorloven § 9-7 så langt bestemmelsen passer."
+     ],
+     "endringer": [
+      "Endret ved vedtak 5 juni 2020 nr. 1155 (i kraft 27 mars 2020 med virkning for regnskapsår som begynner etter 31 des 2019), 3 des 2024 nr. 2922 (i kraft 1 jan 2024 med virkning for regnskapsår som begynner 1. januar 2024 og senere)."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 3-2",
+     "tittel": "Opplysninger om finansielle eiendeler og finansiell gjeld som ikke er klassifisert til virkelig verdi over resultatet",
+     "ledd": [
+      "Dersom bestanddeler i finansielle eiendeler eller finansiell gjeld helt eller delvis er gitt annen klassifisering enn virkelig verdi over resultatet, skal det for hver enkelt bestanddel opplyses særskilt om begrunnelsen for dette. Har klassifiseringen av flere bestanddeler samme begrunnelse, kan opplysningene likevel gis samlet for disse bestanddelene."
+     ],
+     "endringer": [
+      "Endret ved vedtak 3 des 2024 nr. 2922."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 3-3",
+     "tittel": "Gjengivelse av underskrifter i regnskapsrapporteringen for investeringsportefølje SPN, investeringsportefølje SOF og investeringsportefølje SFT",
+     "ledd": [
+      "Regnskapsrapportering for investeringsportefølje SPN, investeringsportefølje SOF og investeringsportefølje SFT som også er tatt med som utdrag i egen rapport, skal inneholde en henvisning til at samtlige medlemmer av styret har underskrevet Folketrygdfondets årsregnskap, jf. regnskapsloven § 3-5. Påtegnede forbehold i Folketrygdfondets årsregnskap fra en eller flere av styrets medlemmer, jf. regnskapsloven § 3-5 annet ledd, som gjelder opplysninger gitt i note om regnskapsrapportering for de tre investeringsporteføljene, skal gjengis i sin helhet dersom utdrag er presentert i egen rapport."
+     ],
+     "endringer": [
+      "Endret ved vedtak 5 juni 2020 nr. 1155 (i kraft 27 mars 2020 med virkning for regnskapsår som begynner etter 31 des 2019), 3 des 2024 nr. 2922 (i kraft 1 jan 2024 med virkning for regnskapsår som begynner 1. januar 2024 og senere)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4. Delårsregnskap",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 4-1",
+     "tittel": "Plikt til å utarbeide delårsregnskap",
+     "ledd": [
+      "(1) Folketrygdfondet skal utarbeide delårsregnskap som minst skal omfatte regnskapsrapportering for første halvår for investeringsportefølje SPN, investeringsportefølje SOF og investeringsportefølje SFT. Folketrygdfondet kan likevel unnlate å utarbeide delårsregnskap for siste halvår.",
+      "(2) Delårsregnskap skal utarbeides i samsvar med internasjonale regnskapsstandarder for delårsregnskap. Kapittel 3 gjelder tilsvarende for delårlig regnskapsrapportering for de tre investeringsporteføljene så langt bestemmelsene passer.",
+      "(3) Delårsregnskap skal undertegnes av samtlige av styrets medlemmer. Regnskapsloven § 3-5 gjelder tilsvarende.",
+      "(4) Delårsregnskap og uttalelse om forenklet revisorkontroll av den halvårlige regnskapsrapporteringen for de tre investeringsporteføljene skal fremlegges senest to måneder etter halvårets slutt."
+     ],
+     "endringer": [
+      "Endret ved vedtak 5 juni 2020 nr. 1155 (i kraft 27 mars 2020 med virkning for regnskapsår som begynner etter 31 des 2019), 3 des 2024 nr. 2922 (i kraft 1 jan 2024 med virkning for regnskapsår som begynner 1. januar 2024 og senere)."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-5",
+   "navn": "kap5",
+   "overskrift": "Kapittel 5. Øvrige bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-5-paragraf-1",
+     "nummer": "§ 5-1",
+     "tittel": "Innsending til Regnskapsregisteret",
+     "ledd": [
+      "Krav til innsending til Regnskapsregisteret etter regnskapsloven § 8-2 første ledd gjelder ikke."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-6",
+   "navn": "kap6",
+   "overskrift": "Kapittel 6. Ikrafttredelse",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-6-paragraf-1",
+     "nummer": "§ 6-1",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Disse bestemmelsene trer i kraft 1. januar 2020 med virkning for regnskapsår som begynner etter 31. desember 2019. Forskrift 8. desember 2011 nr. 1217 om årsregnskap m.m. for Folketrygdfondet oppheves 1. januar 2020."
+     ]
+    }
+   ]
+  }
+ ]
+}

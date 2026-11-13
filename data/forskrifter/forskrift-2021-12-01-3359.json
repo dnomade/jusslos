@@ -1,0 +1,87 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2021-12-01-3359",
+ "dokumentid": "SF/forskrift/2021-12-01-3359",
+ "departement": [
+  "Landbruks- og matdepartementet"
+ ],
+ "etat": [
+  "Landbruksdirektoratet"
+ ],
+ "ikraft": "2021-12-01",
+ "siste_endring_ikraft": "2025-12-01",
+ "sist_endret_ved": [
+  {
+   "ref": "forskrift/2025-12-01-2605",
+   "tekst": "forskrift/2025-12-01-2605"
+  }
+ ],
+ "endrer": "forskrift/2020-12-01-2546",
+ "hjemmel": [
+  {
+   "ref": "lov/2022-03-11-8/§5-2",
+   "tekst": "lov/2022-03-11-8/§5-2"
+  },
+  {
+   "ref": "lov/2022-03-11-8/§5-3",
+   "tekst": "lov/2022-03-11-8/§5-3"
+  },
+  {
+   "ref": "lov/2022-03-11-8/§5-4",
+   "tekst": "lov/2022-03-11-8/§5-4"
+  },
+  {
+   "ref": "forskrift/2022-10-21-1778",
+   "tekst": "forskrift/2022-10-21-1778"
+  },
+  {
+   "ref": "forskrift/2005-12-22-1723/§18b",
+   "tekst": "forskrift/2005-12-22-1723/§18b"
+  }
+ ],
+ "kunngjort": "2021-12-03 16:10",
+ "tittel": "Forskrift om minstekvantum av epleråstoff til bearbeidingsindustrien",
+ "annet": "Hjemmel: Fastsatt av Landbruksdirektoratet 1. desember 2021 med hjemmel i lov 11. mars 2022 nr. 8 om tollavgift (tollavgiftsloven) § 5-2, § 5-3 og § 5-4, jf. delegeringsvedtak 21. oktober 2022 nr. 1778, jf. forskrift 22. desember 2005 nr. 1723 om administrative tollnedsettelser for landbruksvarer § 18b.\nEndret ved forskrifter 1 des 2022 nr. 2066, 21 des 2022 nr. 2437 (i kraft 1 jan 2023, hjemmel), 1 des 2023 nr. 1951, 29 nov 2024 nr. 3537 (i kraft 1 des 2024), 1 des 2025 nr. 2605.",
+ "refid": "forskrift/2021-12-01-3359",
+ "eli": "/eli/forskrift/2021/12/01/3359",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2021-12-01-3359",
+ "innhold": [
+  {
+   "type": "paragraf",
+   "id": "paragraf-1",
+   "nummer": "§ 1",
+   "tittel": "Fastsettelse av minstekvantum",
+   "ledd": [
+    "Minstekvantumet kan oppfylles ved kjøp av eplekonsentrat, eplesaft eller epler til press.",
+    "Minstekvantumet for perioden 1. oktober 2025–30. september 2026 er fastsatt til å være:\n| Foretaksstørrelse | Minstekvantum\n| | Konsentrat | Saft | Epler\n| Lite foretak | 1 000 kg | 6 400 kg | 8 000 kg\n| Mellomstore foretak | 10 000 kg | 64 000 kg | 80 000 kg\n| Store foretak | 30 000 kg | 192 000 kg | 240 000 kg"
+   ],
+   "endringer": [
+    "Endret ved forskrifter 1 des 2022 nr. 2066, 1 des 2023 nr. 1951, 29 nov 2024 nr. 3537 (i kraft 1 des 2024), 1 des 2025 nr. 2605."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-2",
+   "nummer": "§ 2",
+   "tittel": "Grupper av foretak",
+   "ledd": [
+    "Foretak inndeles i grupper etter samlet forbruk av eplekonsentrat, eplesaft og epler til press, omregnet til konsentrat, i perioden 1. oktober 2024–30. september 2025.\n| Foretaksstørrelse | Samlet forbruk omregnet til konsentrat\n| Lite foretak | Opptil 100 000 kg\n| Mellomstore foretak | Mellom 100 000 kg og 500 000 kg\n| Store foretak | Over 500 000 kg",
+    "Med et foretaks samlede forbruk menes summen av lagerbeholdning per 1. oktober 2024 og innkjøp av råvare i perioden 1. oktober 2024–30. september 2025.",
+    "Foretakets lagerbeholdning ved periodens slutt trekkes fra i beregningen. Beregningen omfatter både norsk og importert vare. Forbruk av andre typer epleråstoff enn eplekonsentrat, må omregnes til konsentrat. Omregningsfaktorene som ligger til grunn for denne beregningen er som følger:\n• 8 kg epler = 1 kg konsentrat\n• 6,4 kg eplesaft = 1 kg konsentrat."
+   ],
+   "endringer": [
+    "Endret ved forskrifter 1 des 2022 nr. 2066, 1 des 2023 nr. 1951, 29 nov 2024 nr. 3537 (i kraft 1 des 2024), 1 des 2025 nr. 2605."
+   ]
+  },
+  {
+   "type": "paragraf",
+   "id": "paragraf-3",
+   "nummer": "§ 3",
+   "tittel": "Ikrafttredelse",
+   "ledd": [
+    "Denne forskriften trer i kraft straks. Fra samme tidspunkt oppheves forskrift 1. desember 2020 nr. 2546 om minstekvantum av epleråstoff til bearbeidingsindustrien."
+   ]
+  }
+ ]
+}

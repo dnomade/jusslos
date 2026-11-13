@@ -1,0 +1,49 @@
+{
+ "skjema": "1.0",
+ "type": "stortingsvedtak",
+ "datokode": "FOR-1988-02-10-4875",
+ "dokumentid": "STV/forskrift/1988-02-10-4875",
+ "departement": [
+  "Stortinget"
+ ],
+ "ikraft": "1988-01-01",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/1814-05-17/§75",
+   "tekst": "lov/1814-05-17/§75"
+  }
+ ],
+ "korttittel": "Fullmakt til Kongen til å ettergi skadebøter m.m.",
+ "tittel": "Fullmakt til Kongen til å ettergi skadebøter og inndragning til statskassen i straffesaker og saksomkostninger til staten i straffesaker, benefiserte saker og i søksmål der staten er part",
+ "annet": "Hjemmel: Vedtatt av Stortinget 10. februar 1988.",
+ "refid": "forskrift/1988-02-10-4875",
+ "eli": "/eli/forskrift/1988/02/10/4875",
+ "url": "https://lovdata.no/dokument/STV/forskrift/1988-02-10-4875",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Kongen får fullmakt til, når særlige forhold taler for det, å ettergi skadebøter og inndragning til statskassen i straffesaker og saksomkostninger til staten i straffesaker, benefiserte saker og i søksmål der staten er part."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Denne fullmakt gjelder fra 1. januar 1988 og inntil videre."
+    }
+   ]
+  }
+ ]
+}

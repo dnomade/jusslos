@@ -1,0 +1,312 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2020-06-18-1547",
+ "dokumentid": "SF/forskrift/2020-06-18-1547",
+ "departement": [
+  "Helse- og omsorgsdepartementet",
+  "Landbruks- og matdepartementet",
+  "Nærings- og fiskeridepartementet"
+ ],
+ "etat": [
+  "Næringspolitisk avdeling"
+ ],
+ "ikraft": "2020-07-15",
+ "endrer": "forskrift/2013-06-28-844\nforskrift/2018-08-31-1319",
+ "gjelder_for": "Norge",
+ "hjemmel": [
+  {
+   "ref": "lov/2003-12-19-124/§5",
+   "tekst": "lov/2003-12-19-124/§5"
+  },
+  {
+   "ref": "lov/2003-12-19-124/§7",
+   "tekst": "lov/2003-12-19-124/§7"
+  },
+  {
+   "ref": "lov/2003-12-19-124/§9",
+   "tekst": "lov/2003-12-19-124/§9"
+  },
+  {
+   "ref": "lov/2003-12-19-124/§10",
+   "tekst": "lov/2003-12-19-124/§10"
+  },
+  {
+   "ref": "lov/2003-12-19-124/§11",
+   "tekst": "lov/2003-12-19-124/§11"
+  },
+  {
+   "ref": "lov/2003-12-19-124/§12",
+   "tekst": "lov/2003-12-19-124/§12"
+  },
+  {
+   "ref": "lov/2003-12-19-124/§13",
+   "tekst": "lov/2003-12-19-124/§13"
+  },
+  {
+   "ref": "lov/2003-12-19-124/§14",
+   "tekst": "lov/2003-12-19-124/§14"
+  },
+  {
+   "ref": "lov/2003-12-19-124/§15",
+   "tekst": "lov/2003-12-19-124/§15"
+  },
+  {
+   "ref": "lov/2003-12-19-124/§16",
+   "tekst": "lov/2003-12-19-124/§16"
+  },
+  {
+   "ref": "lov/2003-12-19-124/§17",
+   "tekst": "lov/2003-12-19-124/§17"
+  },
+  {
+   "ref": "lov/2003-12-19-124/§21",
+   "tekst": "lov/2003-12-19-124/§21"
+  },
+  {
+   "ref": "lov/2003-12-19-124/§24",
+   "tekst": "lov/2003-12-19-124/§24"
+  },
+  {
+   "ref": "lov/2003-12-19-124/§33",
+   "tekst": "lov/2003-12-19-124/§33"
+  },
+  {
+   "ref": "forskrift/2003-12-19-1790",
+   "tekst": "forskrift/2003-12-19-1790"
+  }
+ ],
+ "kunngjort": "2020-07-13 16:15",
+ "korttittel": "Mateksportforskriften",
+ "tittel": "Forskrift om eksport av næringsmidler, animaliebiprodukter, fôrvarer, levende dyr og avlsprodukter til land utenfor EØS (mateksportforskriften)",
+ "annet": "Hjemmel: Fastsatt av Nærings- og fiskeridepartementet, Landbruks- og matdepartementet og Helse- og omsorgsdepartementet 18. juni 2020 med hjemmel i lov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv. (matloven) § 5, § 7, § 9, § 10, § 11, § 12, § 13, § 14, § 15, § 16, § 17, § 21, § 24 og § 33, jf. delegeringsvedtak 19. desember 2003 nr. 1790.",
+ "refid": "forskrift/2020-06-18-1547",
+ "eli": "/eli/forskrift/2020/06/18/1547",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2020-06-18-1547",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kap1",
+   "overskrift": "Kapittel 1 – Formål og virkeområde",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-1",
+     "nummer": "§ 1",
+     "tittel": "Formål",
+     "ledd": [
+      "Forskriften skal bidra til å ivareta markedsadgang for norske produkter og legge til rette for et effektivt sertifikatsystem.",
+      "Forskriften skal også ivareta at næringsmidler og fôrvarer som er produsert på særskilte vilkår, er helsemessig trygge, jf. kapittel 3."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-2",
+     "nummer": "§ 2",
+     "tittel": "Hva forskriften gjelder",
+     "ledd": [
+      "Forskriften gjelder for virksomheter som produserer, oppbevarer, transporterer eller eksporterer næringsmidler, animaliebiprodukter, fôrvarer, levende dyr og avlsprodukter til land utenfor EØS.",
+      "Bestemmelsene i kapittel 3 gjelder kun for virksomheter som håndterer næringsmidler og fôrvarer til land utenfor EØS på særskilte vilkår."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-1-paragraf-3",
+     "nummer": "§ 3",
+     "tittel": "Definisjoner",
+     "ledd": [
+      "I forskriften menes med\na. eksportparti: ett vareparti eller flere som føres samlet ut av landet\nb. eksportør: enhver som er juridisk ansvarlig for utførsel av varer og/eller dyr som omfattes av denne forskriften\nc. helsesertifikat: dokument utstedt av Mattilsynet overfor kompetent myndighet i importlandet, for et bestemt eksportparti fra en eller flere angitte produsenter\nd. særkrav: krav som settes som vilkår for import av et importland, og som ikke er omfattet av norsk regelverk\ne. særskilte vilkår: vilkår som utelukker produktet fra å kunne omsettes i EØS, jf. kapittel 3\nf. erstatningssertifikat: et helsesertifikat som av ulike årsaker erstatter et allerede utstedt sertifikat\ng. egenerklæring: en bekreftelse overfor Mattilsynet på at særkrav er oppfylt\nh. listeført: å være oppført på et importlands liste over produsenter eller produsenter og produkter, som landet har godkjent for import, jf. § 5 første ledd."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kap2",
+   "overskrift": "Kapittel 2 – Generelle bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-1",
+     "nummer": "§ 4",
+     "tittel": "Plikt til internkontroll",
+     "ledd": [
+      "Ansvarlig for virksomheter skal sørge for at det innføres og utøves internkontroll for å overholde krav i denne forskriften.",
+      "Enhver som driver eller deltar i aktivitet som omfattes av denne forskriften, plikter å påse at internkontrollen etterleves.",
+      "Internkontrollen skal tilpasses virksomhetens art, aktivitet, risikoforhold og størrelse.",
+      "Internkontrollen skal dokumenteres i den formen og i det omfanget som er nødvendig på bakgrunn av virksomhetens art, aktiviteter, risikoforhold og størrelse."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-2",
+     "nummer": "§ 5",
+     "tittel": "Krav til produsenten",
+     "ledd": [
+      "Produsenten er ansvarlig for opplysningene som danner grunnlaget for å bli listeført i et importland som har krav om listeføring. Opplysningene skal sendes til Mattilsynet i den formen som Mattilsynet bestemmer.",
+      "På det tidspunktet produsenten bekrefter at et produkt kan eksporteres til et bestemt importland, skal produksjonen og produktet oppfylle landets særkrav. Mattilsynet kan bestemme når og hvordan dette skal dokumenteres, bekreftes eller fremlegges.",
+      "Produsenten skal bekrefte at særkrav er oppfylt i form av egenerklæring dersom Mattilsynet krever en slik bekreftelse som en del av dokumentasjonen på at produktet er i henhold til særkrav."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-3",
+     "nummer": "§ 6",
+     "tittel": "Krav til eksportøren",
+     "ledd": [
+      "En eksportør av næringsmidler, animaliebiprodukter, fôrvarer, levende dyr og avlsprodukter skal være registrert hos Mattilsynet.",
+      "Eksportøren har ansvaret for at produktene som eksporteres, oppfyller importlandets særkrav.",
+      "Eksportøren skal bekrefte at særkrav er oppfylt i form av egenerklæring dersom Mattilsynet krever en slik bekreftelse som en del av dokumentasjonen på at produktet er i henhold til særkrav."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-4",
+     "nummer": "§ 7",
+     "tittel": "Søknad om helsesertifikat",
+     "ledd": [
+      "En søknad om helsesertifikat skal sendes i den formen som Mattilsynet bestemmer.",
+      "Søkeren skal kunne dokumentere at eksportpartiet samsvarer med opplysningene i søknaden.",
+      "Eksportpartiet skal være tilgjengelig for kontroll i Norge frem til partiet er godkjent for utstedelse av helsesertifikat."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-5",
+     "nummer": "§ 8",
+     "tittel": "Mattilsynets behandling av søknaden om helsesertifikat",
+     "ledd": [
+      "Dersom vilkårene i denne forskriften er oppfylt, skal søknaden om helsesertifikat innvilges.",
+      "Mattilsynet kan avslå søknaden om helsesertifikat til et land som krever listeføring, dersom det ikke kan dokumenteres at produsenten eller produktene nevnt i helsesertifikatet er listeført.",
+      "Mattilsynet kan avslå en søknad om helsesertifikat for produkter fra en listeført produsent dersom hele eller deler av produksjonen har foregått hos en produsent som ikke er listeført i importlandet.",
+      "Mattilsynet kan utstede andre eksportdokumenter enn helsesertifikater, fortrinnsvis dersom kompetent myndighet i importlandet krever det.",
+      "Mattilsynet avgjør om et helsesertifikat utstedes på papir, elektronisk eller begge deler."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-6",
+     "nummer": "§ 9",
+     "tittel": "Mattilsynets oppdatering av importlandets liste",
+     "ledd": [
+      "Som hovedregel skal Mattilsynet be om oppdatering av importlandets lister i form av fjerning, endring eller ny oppføring av virksomhet eller produkt, i regulære oversendelser i henhold til avtaler mellom myndighetene.",
+      "Mattilsynet kan be om at en virksomhet eller et produkt fjernes fra listen når\na. betingelsene for eksport til landet ikke lenger overholdes, eller\nb. virksomheten selv ikke lenger ønsker å være listeført for eksport til landet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-7",
+     "nummer": "§ 10",
+     "tittel": "Varslingsplikt og erstatningssertifikat",
+     "ledd": [
+      "Blir en eksportør oppmerksom på at opplysningene i egenerklæringen eller helsesertifikatet ikke samsvarer med eksportpartiet, skal eksportøren snarest informere Mattilsynet om avviket.",
+      "Eksportøren kan søke om endring av et helsesertifikat som ikke er korrekt. Det utstedte helsesertifikatet skal returneres, og søknad om erstatningssertifikat skal oppfylle kravene i § 7 første og annet ledd.",
+      "Dersom eksportøren søker om erstatningssertifikat etter at eksportpartiet har forlatt Norge, må eksportøren dokumentere at alle krav i erstatningssertifikatet var oppfylt da eksportpartiet forlot Norge."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-2-paragraf-8",
+     "nummer": "§ 11",
+     "tittel": "Retur og tilbakekall av helsesertifikater",
+     "ledd": [
+      "Helsesertifikater som ikke brukes, skal straks returneres til Mattilsynet.",
+      "Mattilsynet kan tilbakekalle et utstedt helsesertifikat dersom det ikke samsvarer med eksportpartiet.",
+      "Mattilsynet skal tilbakekalle helsesertifikater dersom det finnes flere enn ett helsesertifikat for et eksportparti.",
+      "Mattilsynet skal varsle importlandet om tilbakekalte helsesertifikater som ikke straks er blitt returnert."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kap3",
+   "overskrift": "Kapittel 3 – Produksjon og eksport av næringsmidler og fôrvarer på særskilte vilkår",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-1",
+     "nummer": "§ 12",
+     "tittel": "Produksjon og eksport av næringsmidler og fôrvarer på særskilte vilkår",
+     "ledd": [
+      "Næringsmidler og fôrvarer som produseres og eksporteres, skal oppfylle de relevante kravene i næringsmiddelregelverket med mindre:\na. noe annet kreves av myndighetene i importlandet eller er fastsatt i lover, forskrifter, standarder, regler for god praksis og andre rettslige og forvaltningsmessige framgangsmåter i importlandet, og virksomheten kan dokumentere dette, eller\nb. myndighetene i importlandet uttrykkelig aksepterer næringsmidlene eller fôrvarene, er kjent med hvorfor de ikke kan omsettes i EØS, og næringsmidlene ikke er helseskadelige og fôrvarene er trygge."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-2",
+     "nummer": "§ 13",
+     "tittel": "Tilleggsvilkår",
+     "ledd": [
+      "I tillegg til vilkårene i § 12 skal følgende vilkår være oppfylt:\na. Næringsmiddelet eller fôrvaren skal ikke være trukket tilbake fra markedet i EØS.\nb. Næringsmidler og fôrvarer skal under produksjon og lagring holdes adskilt fra næringsmidler og fôrvarer som skal omsettes i EØS-markedet.\nc. Virksomheten skal ha rutiner for å sikre at næringsmidlene og fôrvarene eksporteres til mottakerlandet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-3",
+     "nummer": "§ 14",
+     "tittel": "Merking",
+     "ledd": [
+      "Næringsmidler og fôrvarer som skal eksporteres etter reglene i dette kapittelet, skal merkes med «EXPORT TO NON-EU COUNTRIES». Informasjon om hvorfor produktet ikke kan omsettes på EØS-markedet og hvilket land det kan eksporteres til, skal følge produktet."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-3-paragraf-4",
+     "nummer": "§ 15",
+     "tittel": "Melding til Mattilsynet",
+     "ledd": [
+      "Virksomhetene som skal produsere og eksportere varer på særskilte vilkår, skal melde fra om dette til Mattilsynet før produksjon og eksport settes i gang. Melding sendes på skjema fastsatt av Mattilsynet."
+     ]
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kap4",
+   "overskrift": "Kapittel 4 – Administrative bestemmelser",
+   "innhold": [
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-1",
+     "nummer": "§ 16",
+     "tittel": "Dispensasjon",
+     "ledd": [
+      "Mattilsynet kan i særskilte tilfeller dispensere fra bestemmelsene i denne forskriften, forutsatt at det ikke vil stride mot Norges internasjonale forpliktelser."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-2",
+     "nummer": "§ 17",
+     "tittel": "Tilsyn og vedtak",
+     "ledd": [
+      "Mattilsynet fører tilsyn og kan fatte nødvendige enkeltvedtak, jf. matloven § 23, for å oppnå etterlevelse av bestemmelser gitt i eller i medhold av denne forskriften. Mattilsynet kan også fatte enkeltvedtak i henhold til matloven § 24 til § 26."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-3",
+     "nummer": "§ 18",
+     "tittel": "Straff",
+     "ledd": [
+      "Overtredelse av bestemmelser gitt i denne forskriften eller enkeltvedtak gitt i medhold av forskriften, er straffbart i henhold til matloven § 28."
+     ]
+    },
+    {
+     "type": "paragraf",
+     "id": "kapittel-4-paragraf-4",
+     "nummer": "§ 19",
+     "tittel": "Ikrafttredelse",
+     "ledd": [
+      "Forskriften trer i kraft 15. juli 2020. Fra samme tidspunkt oppheves:\na. forskrift 28. juni 2013 nr. 844 om kvalitet på fisk og fiskevarer § 36 og § 37, og\nb. forskrift 31. august 2018 nr. 1319 om produksjon og eksport av næringsmidler og fôrvarer til land utenfor EØS på særskilte vilkår."
+     ]
+    }
+   ]
+  }
+ ]
+}
