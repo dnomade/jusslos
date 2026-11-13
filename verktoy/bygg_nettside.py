@@ -285,8 +285,8 @@ def lag_llms(manifest: dict, endringer) -> str:
         "- Datasettet viser lovteksten slik den gjelder ifølge Lovdata på datoen over, og kan være opptil et døgn gammelt. "
         "Endringer som er vedtatt, men ikke trådt i kraft, er ikke nødvendigvis med. Sjekk feltene ikraft, "
         "siste_endring_ikraft og sist_endret_ved, og endringer på hver paragraf, når tidspunktet betyr noe.",
-        "- Opphevede lover og forskrifter er fjernet fra datasettet. At et dokument mangler her, betyr at det ikke "
-        "er gjeldende, eller at det ikke er en sentral forskrift (lokale forskrifter er ikke med).",
+        "- Opphevede lover og forskrifter er fjernet fra datasettet. Mangler et dokument her, er det trolig ikke "
+        "gjeldende, eller så er det ikke en sentral forskrift (lokale forskrifter er ikke med). Sjekk Lovdata før du konkluderer.",
         "- Henvis til den offisielle teksten hos Lovdata. Hvert dokument har feltet url, for eksempel "
         "https://lovdata.no/dokument/NL/lov/2005-06-17-62. Oppgi paragrafnummeret (feltet nummer).",
         "- Datasettet er lovtekst, ikke tolkning. Forarbeider, rettspraksis, rundskriv og juridisk teori er ikke med, "
