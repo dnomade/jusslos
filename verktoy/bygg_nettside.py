@@ -280,6 +280,18 @@ def lag_llms(manifest: dict, endringer) -> str:
         "og innhold, der innhold er en liste av blokker: seksjon (kapittel, del), paragraf (nummer, tittel, ledd) "
         "og tekst. Arbeidsmiljøloven er for eksempel data/lover/2005/lov-2005-06-17-62.json.",
         "",
+        "## Merknader for KI-assistenter",
+        "",
+        "- Datasettet viser lovteksten slik den gjelder ifølge Lovdata på datoen over, og kan være opptil et døgn gammelt. "
+        "Endringer som er vedtatt, men ikke trådt i kraft, er ikke nødvendigvis med. Sjekk feltene ikraft, "
+        "siste_endring_ikraft og sist_endret_ved, og endringer på hver paragraf, når tidspunktet betyr noe.",
+        "- Opphevede lover og forskrifter er fjernet fra datasettet. Mangler et dokument her, er det trolig ikke "
+        "gjeldende, eller så er det ikke en sentral forskrift (lokale forskrifter er ikke med). Sjekk Lovdata før du konkluderer.",
+        "- Henvis til den offisielle teksten hos Lovdata. Hvert dokument har feltet url, for eksempel "
+        "https://lovdata.no/dokument/NL/lov/2005-06-17-62. Oppgi paragrafnummeret (feltet nummer).",
+        "- Datasettet er lovtekst, ikke tolkning. Forarbeider, rettspraksis, rundskriv og juridisk teori er ikke med, "
+        "så svar om hvordan en regel forstås, må bygge på flere kilder enn dette.",
+        "",
         "## Oversikter",
         "",
         f"- [manifest.json]({raw}/manifest.json): dataversjon, antall per type og kilde",
