@@ -11,6 +11,8 @@ def main() -> int:
     man = Draft202012Validator(json.loads((ROT / "schema/manifest.schema.json").read_text("utf-8")))
     feil = 0
     for f in sorted((data / "data").rglob("*.json")):
+        if f.name == "index.json":
+            continue
         for e in dok.iter_errors(json.loads(f.read_text("utf-8"))):
             feil += 1
             if feil <= 20:

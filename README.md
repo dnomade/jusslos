@@ -9,6 +9,7 @@ Norske lover og sentrale forskrifter som maskinlesbar JSON, oppdatert hver natt 
 | `data/lover/` | Gjeldende lover, en JSON-fil per lov |
 | `data/forskrifter/` | Gjeldende sentrale forskrifter |
 | `data/delegeringer/`, `data/instrukser/`, `data/stortingsvedtak/` | Øvrige dokumenter i Lovdatas forskriftspakke |
+| `data/<mappe>/index.json` | Oversikt over mappen: tittel, korttittel, id, filnavn, `sist_endret` (siste endring i kraft ifølge Lovdata) og `endret_i_repo` (dato filen sist endret seg her) |
 | `manifest.json` | Dataversjon, antall dokumenter og kilde. Endres bare når data faktisk endres |
 | `indeks.json` | Alle dokumenter med fil, tittel, sha256 og dato for siste endring |
 | `endringer/ÅÅÅÅ-MM-DD.json` | Hvilke dokumenter som ble nye, endret eller fjernet den dagen |

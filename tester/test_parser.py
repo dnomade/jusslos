@@ -31,6 +31,9 @@ def test_full_kjoring_er_idempotent(tmp_path):
     assert hent.main(["--kilde", str(kilde), "--rot", str(tmp_path)]) == 0
     manifest = json.loads((tmp_path / "manifest.json").read_text("utf-8"))
     assert manifest["antall"] == {"delegering": 1, "lov": 1}
+    idx = json.loads((tmp_path / "data/lover/index.json").read_text("utf-8"))
+    assert idx[0]["fil"] == "lov-2099-12-31-1.json" and idx[0]["tittel"] == "Lov om prøve"
+    assert idx[0]["sist_endret"] == "2100-01-01"
     før = (tmp_path / "manifest.json").read_bytes()
     assert hent.main(["--kilde", str(kilde), "--rot", str(tmp_path)]) == 0
     assert (tmp_path / "manifest.json").read_bytes() == før, "manifest skal ikke endres uten dataendring"
@@ -40,3 +43,13 @@ def test_full_kjoring_er_idempotent(tmp_path):
                             str(tmp_path / "data/lover/lov-2099-12-31-1.json"), "-f", fmt],
                            cwd=ROT, capture_output=True, text=True, encoding="utf-8")
         assert r.returncode == 0 and "Lovdata" in r.stdout
+
+
+def test_mappeindeks_lages_for_eksisterende_data(tmp_path):
+    kilde = str(ROT / "tester")
+    hent.main(["--kilde", kilde, "--rot", str(tmp_path)])
+    (tmp_path / "data/lover/index.json").unlink()
+    før = (tmp_path / "manifest.json").read_bytes()
+    hent.main(["--kilde", kilde, "--rot", str(tmp_path)])
+    assert (tmp_path / "data/lover/index.json").exists()
+    assert (tmp_path / "manifest.json").read_bytes() == før

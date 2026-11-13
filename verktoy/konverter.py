@@ -138,7 +138,7 @@ def main(argv=None) -> int:
         if not a.ut:
             ap.error("--ut må oppgis når kilden er en mappe")
         ut = pathlib.Path(a.ut)
-        filer = sorted(kilde.rglob("*.json"))
+        filer = sorted(f for f in kilde.rglob("*.json") if f.name != "index.json")
         for f in filer:
             mål = ut / f.relative_to(kilde).with_suffix("." + a.format)
             mål.parent.mkdir(parents=True, exist_ok=True)

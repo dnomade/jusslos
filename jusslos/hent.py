@@ -68,6 +68,34 @@ def skriv_json(sti: pathlib.Path, obj, kompakt=False):
     sti.write_text(tekst + "\n", encoding="utf-8")
 
 
+def skriv_mappeindekser(rot: pathlib.Path, nye: dict, datoer: dict) -> bool:
+    """Skriver data/<mappe>/index.json: en oversikt per mappe, sortert på tittel.
+    Returnerer True hvis minst en fil ble endret."""
+    mapper: dict[str, list] = {}
+    for i, v in nye.items():
+        d = v["dok"]
+        sti = pathlib.PurePosixPath(v["fil"])
+        mapper.setdefault(sti.parent.name, []).append({
+            "tittel": d.get("tittel"),
+            "korttittel": d.get("korttittel"),
+            "id": i,
+            "fil": sti.name,
+            "sist_endret": d.get("siste_endring_ikraft") or d.get("ikraft"),
+            "endret_i_repo": datoer[i],
+        })
+    endret = False
+    for mappe, liste in mapper.items():
+        liste.sort(key=lambda x: ((x["tittel"] or "").lower(), x["id"]))
+        sti = rot / "data" / mappe / "index.json"
+        ny = json.dumps(liste, ensure_ascii=False, indent=1) + "\n"
+        gammel = sti.read_text(encoding="utf-8") if sti.exists() else None
+        if ny != gammel:
+            sti.parent.mkdir(parents=True, exist_ok=True)
+            sti.write_text(ny, encoding="utf-8")
+            endret = True
+    return endret
+
+
 def main(argv=None) -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--kilde", help="mappe med nedlastede .tar.bz2-filer")
@@ -114,12 +142,18 @@ def main(argv=None) -> int:
     fjernet = sorted(set(gammel) - set(nye))
     endret = sorted(i for i in set(nye) & set(gammel) if nye[i]["sha"] != gammel[i]["sha256"])
 
+    idag = dt.datetime.now(dt.timezone.utc).date().isoformat()
+    datoer = {i: (idag if i in lagt_til or i in endret else gammel[i]["endret"]) for i in nye}
+
     if not (lagt_til or fjernet or endret):
-        print(f"Ingen endringer ({len(nye)} dokumenter).")
-        _sett_utdata(endret=False)
+        if skriv_mappeindekser(rot, nye, datoer):
+            print("Mappeindekser oppdatert.")
+            _sett_utdata(endret=True, melding="Oppdater index.json i datamappene")
+        else:
+            print(f"Ingen endringer ({len(nye)} dokumenter).")
+            _sett_utdata(endret=False)
         return 0
 
-    idag = dt.datetime.now(dt.timezone.utc).date().isoformat()
     helhet = sha("".join(f"{i}:{nye[i]['sha']}\n" for i in sorted(nye)).encode())
     versjon = f"{idag}.{helhet[:8]}"
 
@@ -138,9 +172,10 @@ def main(argv=None) -> int:
             "tittel": d.get("tittel"),
             "korttittel": d.get("korttittel"),
             "sha256": nye[i]["sha"],
-            "endret": idag if i in lagt_til or i in endret else gammel[i]["endret"],
+            "endret": datoer[i],
         }
     skriv_json(rot / "indeks.json", indeks, kompakt=False)
+    skriv_mappeindekser(rot, nye, datoer)
 
     forrige = les_json(rot / "manifest.json", {}).get("dataversjon")
     antall: dict[str, int] = {}
