@@ -32,7 +32,7 @@ def lag_repo(tmp):
         "lov/2005-06-17-62": {"fil": aml, "tittel": "Arbeidsmiljøloven", "korttittel": "Aml"},
         "forskrift/2010-01-01-1": {"fil": forskrift, "tittel": "Forskrift om <prøve>"},
     }})
-    skriv(tmp / "manifest.json", {"dataversjon": "2026-11-14.abcd1234",
+    skriv(tmp / "manifest.json", {"dataversjon": "2026-11-14.abcd1234", "oppdatert": "2026-11-14T03:20:00+00:00",
                                   "antall": {"lov": 1, "forskrift": 1}})
     skriv(tmp / "endringer/2026-11-13.json", {"forrige_dataversjon": None,
                                              "nye": ["lov/2005-06-17-62"], "endret": [], "fjernet": []})
@@ -55,7 +55,13 @@ def test_bygger_side_med_tall_og_endringer(tmp_path):
     assert "Første innlesing: 1 dokumenter lagt til" in side
     assert "d. til e. …" in side
     assert "2026-11-14.abcd1234" in side
-    for fil in ["stil.css", "favicon.svg", "404.html", "_headers", "fonter"]:
+    sitemap = (ut / "sitemap.xml").read_text(encoding="utf-8")
+    assert "<loc>https://jusslos.no/</loc><lastmod>2026-11-14</lastmod>" in sitemap
+    llms = (ut / "llms.txt").read_text(encoding="utf-8")
+    assert llms.startswith("# jusslos\n\n> ")
+    assert "Dataversjon: 2026-11-14.abcd1234" in llms
+    assert "data/lover/index.json): Gjeldende lover (1 dokumenter)" in llms
+    for fil in ["stil.css", "favicon.svg", "404.html", "_headers", "robots.txt", "fonter"]:
         assert (ut / fil).exists()
 
 

@@ -37,7 +37,8 @@ EKSEMPEL_ID = "lov/2005-06-17-62"
 EKSEMPEL_PARAGRAF = "§ 1-1"
 EKSEMPEL_NAVN = "Arbeidsmiljøloven"
 
-STATISKE = ["stil.css", "favicon.svg", "404.html", "_headers", "fonter"]
+STATISKE = ["stil.css", "favicon.svg", "404.html", "_headers", "robots.txt", "fonter"]
+ADRESSE = "https://jusslos.no/"
 
 UKEDAGER = ["mandag", "tirsdag", "onsdag", "torsdag", "fredag", "lørdag", "søndag"]
 MANEDER = ["januar", "februar", "mars", "april", "mai", "juni", "juli", "august",
@@ -245,6 +246,64 @@ def lag_status(manifest: dict, endringer) -> str:
     return f"{tall(total)} dokumenter. Data sist endret {dato_lang(d)}: {hva}."
 
 
+def lag_sitemap(manifest: dict) -> str:
+    """Én adresse, med datoen dataene sist ble endret."""
+    endret = (manifest.get("oppdatert") or "")[:10]
+    lastmod = f"<lastmod>{html.escape(endret)}</lastmod>" if endret else ""
+    return ('<?xml version="1.0" encoding="UTF-8"?>\n'
+            '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n'
+            f"  <url><loc>{ADRESSE}</loc>{lastmod}</url>\n"
+            "</urlset>\n")
+
+
+def lag_llms(manifest: dict, endringer) -> str:
+    """llms.txt etter forslaget på llmstxt.org: kort beskrivelse og lenker til rådata."""
+    raw = "https://raw.githubusercontent.com/dnomade/jusslos/main"
+    antall = manifest.get("antall", {})
+    total = sum(antall.values())
+    linjer = [
+        "# jusslos",
+        "",
+        f"> Alle gjeldende norske lover og sentrale forskrifter ({total} dokumenter) som JSON, "
+        "en fil per dokument, hentet fra Lovdatas åpne datasett hver natt. "
+        "Data under NLOD 2.0, tilgjengeliggjort av Lovdata. Ikke offisiell kunngjøring; "
+        "ved tvil gjelder teksten på lovdata.no.",
+        "",
+        f"Dataversjon: {manifest.get('dataversjon', '')}",
+    ]
+    if endringer:
+        linjer.append(f"Data sist endret: {endringer[-1][0].isoformat()}")
+    linjer += [
+        "",
+        "Hvert dokument ligger i data/<mappe>/<vedtaksår>/<fil>.json. Finn filstien i index.json for mappen "
+        "eller i indeks.json. Dokumentene har feltene tittel, korttittel, departement, ikraft, url (til Lovdata) "
+        "og innhold, der innhold er en liste av blokker: seksjon (kapittel, del), paragraf (nummer, tittel, ledd) "
+        "og tekst. Arbeidsmiljøloven er for eksempel data/lover/2005/lov-2005-06-17-62.json.",
+        "",
+        "## Oversikter",
+        "",
+        f"- [manifest.json]({raw}/manifest.json): dataversjon, antall per type og kilde",
+        f"- [indeks.json]({raw}/indeks.json): alle dokumenter med id, tittel, filsti og sha256",
+    ]
+    for mappe, typ, forklaring in TYPER:
+        linjer.append(f"- [{mappe}/index.json]({raw}/data/{mappe}/index.json): "
+                      f"{forklaring} ({antall.get(typ, 0)} dokumenter)")
+    linjer += [
+        "",
+        "## Format",
+        "",
+        f"- [dokument.schema.json]({raw}/schema/dokument.schema.json): JSON-skjema for dokumentene",
+        f"- [README.md]({raw}/README.md): beskrivelse av repoet og hvordan endringer oppdages",
+        "",
+        "## Valgfritt",
+        "",
+        f"- [endringer/]({GITHUB}/tree/main/endringer): hvilke dokumenter som ble nye, endret eller fjernet per dag",
+        f"- [Kildekode]({GITHUB}): henting, parsing og denne nettsiden",
+        "",
+    ]
+    return "\n".join(linjer)
+
+
 def bygg(rot: pathlib.Path, ut: pathlib.Path) -> None:
     kilde = rot / "nettside"
     manifest = les_json(rot / "manifest.json")
@@ -272,6 +331,8 @@ def bygg(rot: pathlib.Path, ut: pathlib.Path) -> None:
             shutil.copytree(src, ut / navn)
         elif src.exists():
             shutil.copy2(src, ut / navn)
+    (ut / "sitemap.xml").write_text(lag_sitemap(manifest), encoding="utf-8")
+    (ut / "llms.txt").write_text(lag_llms(manifest, endringer), encoding="utf-8")
     print(f"Bygget {ut / 'index.html'} ({len(side):,} tegn)")
 
 
