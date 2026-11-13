@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="nb">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>jusslos: norske lover og forskrifter som JSON</title>
+<meta name="description" content="Alle gjeldende lover og sentrale forskrifter i Norge, en JSON-fil per dokument, hentet fra Lovdata hver natt.">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="preload" href="fonter/source-serif-4-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="stil.css">
+</head>
+<body>
+<div class="stripe">
+  <header>
+    <a class="logo" href="/">ju<span>§§</span>los</a>
+    <nav aria-label="Innhold">
+      <a href="#format">Format</a>
+      <a href="#filer">Filer</a>
+      <a href="#endringer">Endringer</a>
+      <a href="#sporsmal">Spørsmål</a>
+      <a href="https://github.com/dnomade/jusslos">GitHub</a>
+    </nav>
+  </header>
+</div>
+
+<main>
+  <p class="ingress smal">Alle gjeldende lover og sentrale forskrifter i Norge, en JSON-fil per dokument, hentet fra Lovdata hver natt.</p>
+  <p class="status smal">$status <a href="#endringer">Se hva som er endret</a>.</p>
+
+  <div class="om smal">
+    <p>Lovdata gir ut lovverket som åpne data, men som to store arkiver med HTML. jusslos pakker ut arkivene, gir hvert dokument fast struktur med kapitler, paragrafer og ledd, og lagrer alt i et offentlig GitHub-repo. Det blir bare en ny commit når en lov faktisk er endret, så historikken i repoet viser når lovverket endret seg.</p>
+    <p>Skal du lese en lov, bruk <a href="https://lovdata.no">lovdata.no</a>. Dette er rådata for deg som lager tjenester, analyser eller søk.</p>
+  </div>
+
+  <section id="format">
+    <h2>Slik ser en paragraf ut</h2>
+    <p class="forklaring smal">$eksempel_navn $eksempel_nummer, slik den står i lovteksten og slik den ligger i <code>$eksempel_fil</code>.</p>
+    <div class="sammenligning">
+      <div>
+        <div class="etikett">Lovteksten</div>
+        <div class="lovtekst">
+$eksempel_tekst
+        </div>
+      </div>
+      <div>
+        <div class="etikett">I jusslos</div>
+        <pre>$eksempel_json</pre>
+      </div>
+    </div>
+    <p class="merknad">Hele formatet er beskrevet i <a href="https://github.com/dnomade/jusslos/blob/main/schema/dokument.schema.json">schema/dokument.schema.json</a>.</p>
+  </section>
+
+  <section>
+    <h2>Hent en lov</h2>
+    <pre class="kommando">curl -O https://raw.githubusercontent.com/dnomade/jusslos/main/$eksempel_fil</pre>
+    <p class="merknad smal" style="color: var(--dempet); font-size: 17px">Ingen konto eller nøkkel. Vil du ha Markdown eller HTML, bruk <code>verktoy/konverter.py</code>, som bare trenger Python. For å følge med på endringer: hent <a href="https://raw.githubusercontent.com/dnomade/jusslos/main/manifest.json">manifest.json</a> og sammenlign <code>dataversjon</code> med den du har.</p>
+  </section>
+
+  <section id="filer">
+    <h2>Hva repoet inneholder</h2>
+    <div class="tabellboks">
+      <table>
+        <thead>
+          <tr><th>Mappe</th><th class="tall">Antall</th><th>Hva det er</th></tr>
+        </thead>
+        <tbody>
+$tabellrader
+        </tbody>
+      </table>
+    </div>
+    <p class="merknad">$fakta</p>
+  </section>
+
+  <section id="endringer">
+    <h2>Endret siste 30 dager</h2>
+    <p class="forklaring smal">Hentet fra <a href="https://github.com/dnomade/jusslos/tree/main/endringer">endringer/</a>. Hele historikken finner du i <a href="https://github.com/dnomade/jusslos/commits/main">commit-loggen</a>.</p>
+    <div class="logg">
+      <ul>
+$endringslogg
+      </ul>
+    </div>
+  </section>
+
+  <section id="sporsmal" class="sporsmal smal">
+    <h2>Spørsmål</h2>
+    <h3>Er dette offisielt?</h3>
+    <p>Nei. jusslos er et privat prosjekt uten tilknytning til Lovdata. Ved tvil gjelder teksten på lovdata.no.</p>
+    <h3>Hvorfor ikke bruke Lovdatas datasett direkte?</h3>
+    <p>Det kan du. jusslos sparer deg for å pakke ut og tolke HTML-en, og gir en historikk over hva som endret seg når.</p>
+    <h3>Hva mangler?</h3>
+    <p>Lovtidend, opphevede lover og lokale forskrifter er ikke med. Feil kan meldes på <a href="https://github.com/dnomade/jusslos/issues">GitHub</a>.</p>
+    <h3>Kan jeg bruke det kommersielt?</h3>
+    <p>Ja, på vilkårene i NLOD 2.0, som krever at du krediterer Lovdata.</p>
+  </section>
+</main>
+
+<footer>
+  Inneholder data under Norsk lisens for offentlige data (<a href="https://data.norge.no/nlod/no/2.0">NLOD 2.0</a>) tilgjengeliggjort av <a href="https://lovdata.no">Lovdata</a>. Koden er åpen på <a href="https://github.com/dnomade/jusslos">GitHub</a>. Dataversjon <code>$dataversjon</code>.
+</footer>
+</body>
+</html>

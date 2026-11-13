@@ -1,0 +1,14 @@
+// Cloudflare Workers: serverer nettsiden jusslos.no som statiske filer.
+// Cloudflare bygger fra dette repoet ved hver push til main (Workers Builds):
+//   Byggekommando:  python3 verktoy/bygg_nettside.py
+//   Deploykommando: npx wrangler deploy
+// Ingen hemmeligheter her. Domenet kobles i Cloudflare-panelet.
+{
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "jusslos",
+  "compatibility_date": "2026-11-01",
+  "assets": {
+    "directory": "./_site",
+    "not_found_handling": "404-page"
+  }
+}

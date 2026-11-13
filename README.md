@@ -77,6 +77,19 @@ python -m jusslos.valider
 python -m pytest tester
 ```
 
+## Nettsiden jusslos.no
+
+Nettsiden ligger i `nettside/`. `verktoy/bygg_nettside.py` leser `manifest.json`, `indeks.json`, `endringer/` og dokumentene, fyller inn `nettside/mal.html` og skriver den ferdige siden til `_site/` (ikke i git). Cloudflare Workers bygger og publiserer siden ved hver push til main, også etter nattjobben, så tallene alltid følger dataene. Oppsettet står i `wrangler.jsonc`.
+
+Bygg og se siden lokalt:
+
+```
+python verktoy/bygg_nettside.py
+python -m http.server -d _site
+```
+
+Skriftene (Source Serif 4 og IBM Plex) ligger i `nettside/fonter/` under SIL Open Font License, så siden henter ingenting fra andre nettsteder.
+
 ## Lisens og kreditering
 
 Koden er lisensiert under MIT, se `LICENSE`.

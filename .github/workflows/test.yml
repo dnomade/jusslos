@@ -4,7 +4,7 @@ name: Test
 # og manuelt. Ikke ved merge til main, og ikke ved endringer i bare README eller data.
 on:
   pull_request:
-    paths: [jusslos/**, schema/**, verktoy/**, tester/**, requirements.txt, .github/workflows/**]
+    paths: [jusslos/**, schema/**, verktoy/**, tester/**, nettside/**, wrangler.jsonc, requirements.txt, .github/workflows/**]
   workflow_dispatch:
 
 permissions:
