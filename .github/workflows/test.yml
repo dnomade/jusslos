@@ -53,7 +53,7 @@ jobs:
               for b in bl:
                   typer[b["type"]] += 1
                   if b["type"] == "seksjon": gå(b["innhold"])
-          for f in rot.rglob("*.json"):
+          for f in (f for f in rot.rglob("*.json") if f.name != "index.json"):
               d = json.loads(f.read_text("utf-8"))
               gå(d["innhold"])
               if d["type"] == "lov" and tell_paragrafer(d["innhold"]) == 0:
