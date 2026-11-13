@@ -63,11 +63,11 @@ jobs:
           PY
       - name: Eksempel, arbeidsmiljøloven
         run: |
-          python verktoy/konverter.py /tmp/ut/data/lover/lov-2005-06-17-62.json | head -c 15000
-          python verktoy/konverter.py /tmp/ut/data/forskrifter/forskrift-2017-06-22-858.json | head -c 4000 || true
+          python verktoy/konverter.py /tmp/ut/data/lover/2005/lov-2005-06-17-62.json | head -c 15000
+          python verktoy/konverter.py /tmp/ut/data/forskrifter/2017/forskrift-2017-06-22-858.json | head -c 4000 || true
           python - <<'PY'
           import json
-          d = json.load(open("/tmp/ut/data/lover/lov-2005-06-17-62.json", encoding="utf-8"))
+          d = json.load(open("/tmp/ut/data/lover/2005/lov-2005-06-17-62.json", encoding="utf-8"))
           print(json.dumps({k: v for k, v in d.items() if k != "innhold"}, ensure_ascii=False, indent=1)[:3000])
           print(json.dumps(d["innhold"][0], ensure_ascii=False, indent=1)[:4000])
           PY

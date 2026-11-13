@@ -14,6 +14,7 @@ import io
 import json
 import os
 import pathlib
+import re
 import sys
 import tarfile
 import urllib.request
@@ -52,6 +53,12 @@ def filnavn(dok: dict) -> str:
     return ref.lower().replace("/", "-").replace("§", "p") + ".json"
 
 
+def aar(id_: str) -> str:
+    """Årstallet i id-en (lov/2005-06-17-62 -> 2005). Brukes som undermappe."""
+    m = re.search(r"(\d{4})-\d{2}-\d{2}", id_)
+    return m.group(1) if m else "ukjent"
+
+
 def les_json(sti: pathlib.Path, standard):
     try:
         return json.loads(sti.read_text(encoding="utf-8"))
@@ -68,6 +75,21 @@ def skriv_json(sti: pathlib.Path, obj, kompakt=False):
     sti.write_text(tekst + "\n", encoding="utf-8")
 
 
+def lag_indeks(nye: dict, datoer: dict, versjon) -> dict:
+    indeks = {"dataversjon": versjon, "dokumenter": {}}
+    for i in sorted(nye):
+        d = nye[i]["dok"]
+        indeks["dokumenter"][i] = {
+            "fil": nye[i]["fil"],
+            "type": d["type"],
+            "tittel": d.get("tittel"),
+            "korttittel": d.get("korttittel"),
+            "sha256": nye[i]["sha"],
+            "endret": datoer[i],
+        }
+    return indeks
+
+
 def skriv_mappeindekser(rot: pathlib.Path, nye: dict, datoer: dict) -> bool:
     """Skriver data/<mappe>/index.json: en oversikt per mappe, sortert på tittel.
     Returnerer True hvis minst en fil ble endret."""
@@ -75,11 +97,11 @@ def skriv_mappeindekser(rot: pathlib.Path, nye: dict, datoer: dict) -> bool:
     for i, v in nye.items():
         d = v["dok"]
         sti = pathlib.PurePosixPath(v["fil"])
-        mapper.setdefault(sti.parent.name, []).append({
+        mapper.setdefault(sti.parts[1], []).append({
             "tittel": d.get("tittel"),
             "korttittel": d.get("korttittel"),
             "id": i,
-            "fil": sti.name,
+            "fil": "/".join(sti.parts[2:]),
             "sist_endret": d.get("siste_endring_ikraft") or d.get("ikraft"),
             "endret_i_repo": datoer[i],
         })
@@ -131,7 +153,7 @@ def main(argv=None) -> int:
                 if m.name.endswith("-nn.xml"):
                     id_ += "-nn"  # nynorsk utgave (f.eks. Grunnloven)
                     dok["sprak"] = "nn"
-                sti = f"data/{MAPPER.get(dok['type'], dok['type'])}/{filnavn({'refid': id_})}"
+                sti = f"data/{MAPPER.get(dok['type'], dok['type'])}/{aar(id_)}/{filnavn({'refid': id_})}"
                 if id_ in nye:
                     print(f"ADVARSEL: dobbel id {id_} ({m.name})", file=sys.stderr)
                 nye[id_] = {"fil": sti, "dok": dok, "sha": sha(kanonisk(dok))}
@@ -145,10 +167,20 @@ def main(argv=None) -> int:
     idag = dt.datetime.now(dt.timezone.utc).date().isoformat()
     datoer = {i: (idag if i in lagt_til or i in endret else gammel[i]["endret"]) for i in nye}
 
+    # Dokumenter med uendret innhold, men ny plassering (f.eks. ny mappestruktur)
+    flyttet = sorted(i for i in set(nye) & set(gammel)
+                     if i not in endret and gammel[i]["fil"] != nye[i]["fil"])
+    for i in flyttet:
+        skriv_json(rot / nye[i]["fil"], nye[i]["dok"])
+        (rot / gammel[i]["fil"]).unlink(missing_ok=True)
+
     if not (lagt_til or fjernet or endret):
-        if skriv_mappeindekser(rot, nye, datoer):
-            print("Mappeindekser oppdatert.")
-            _sett_utdata(endret=True, melding="Oppdater index.json i datamappene")
+        if flyttet:
+            versjon = les_json(rot / "indeks.json", {}).get("dataversjon")
+            skriv_json(rot / "indeks.json", lag_indeks(nye, datoer, versjon))
+        if skriv_mappeindekser(rot, nye, datoer) or flyttet:
+            print(f"Struktur oppdatert ({len(flyttet)} flyttet).")
+            _sett_utdata(endret=True, melding=f"Oppdater mappestruktur og index.json ({len(flyttet)} filer flyttet)")
         else:
             print(f"Ingen endringer ({len(nye)} dokumenter).")
             _sett_utdata(endret=False)
@@ -163,17 +195,7 @@ def main(argv=None) -> int:
     for i in fjernet:
         (rot / gammel[i]["fil"]).unlink(missing_ok=True)
 
-    indeks = {"dataversjon": versjon, "dokumenter": {}}
-    for i in sorted(nye):
-        d = nye[i]["dok"]
-        indeks["dokumenter"][i] = {
-            "fil": nye[i]["fil"],
-            "type": d["type"],
-            "tittel": d.get("tittel"),
-            "korttittel": d.get("korttittel"),
-            "sha256": nye[i]["sha"],
-            "endret": datoer[i],
-        }
+    indeks = lag_indeks(nye, datoer, versjon)
     skriv_json(rot / "indeks.json", indeks, kompakt=False)
     skriv_mappeindekser(rot, nye, datoer)
 
