@@ -1,9 +1,10 @@
 name: Test
 
+# Kjører bare på pull requests som endrer kode, skjema eller workflows,
+# og manuelt. Ikke ved merge til main, og ikke ved endringer i bare README eller data.
 on:
-  push:
-    paths-ignore: [data/**, indeks.json, manifest.json, endringer/**]
   pull_request:
+    paths: [jusslos/**, schema/**, verktoy/**, tester/**, requirements.txt, .github/workflows/**]
   workflow_dispatch:
 
 permissions:
