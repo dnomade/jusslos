@@ -6,10 +6,10 @@ Norske lover og sentrale forskrifter som maskinlesbar JSON, oppdatert hver natt 
 
 | Mappe/fil | Innhold |
 |---|---|
-| `data/lover/` | Gjeldende lover, en JSON-fil per lov |
+| `data/lover/ÅÅÅÅ/` | Gjeldende lover, en JSON-fil per lov, i undermapper etter årstallet i id-en |
 | `data/forskrifter/` | Gjeldende sentrale forskrifter |
 | `data/delegeringer/`, `data/instrukser/`, `data/stortingsvedtak/` | Øvrige dokumenter i Lovdatas forskriftspakke |
-| `data/<mappe>/index.json` | Oversikt over mappen: tittel, korttittel, id, filnavn, `sist_endret` (siste endring i kraft ifølge Lovdata) og `endret_i_repo` (dato filen sist endret seg her) |
+| `data/<mappe>/index.json` | Oversikt over mappen: tittel, korttittel, id, filsti (f.eks. `2005/lov-2005-06-17-62.json`), `sist_endret` (siste endring i kraft ifølge Lovdata) og `endret_i_repo` (dato filen sist endret seg her) |
 | `manifest.json` | Dataversjon, antall dokumenter og kilde. Endres bare når data faktisk endres |
 | `indeks.json` | Alle dokumenter med fil, tittel, sha256 og dato for siste endring |
 | `endringer/ÅÅÅÅ-MM-DD.json` | Hvilke dokumenter som ble nye, endret eller fjernet den dagen |
@@ -26,7 +26,7 @@ Norske lover og sentrale forskrifter som maskinlesbar JSON, oppdatert hver natt 
 
 ## Dokumentformat
 
-Hvert dokument følger `schema/dokument.schema.json`. Forkortet eksempel:
+Årsmappene holder hver mappe godt under GitHubs visningsgrense på 1 000 filer. Hvert dokument følger `schema/dokument.schema.json`. Forkortet eksempel:
 
 ```json
 {
@@ -55,8 +55,8 @@ Blokktypene i `innhold` er `seksjon` (del, kapittel, avsnitt), `paragraf`, `teks
 ## Markdown og HTML
 
 ```
-python verktoy/konverter.py data/lover/lov-2005-06-17-62.json > aml.md
-python verktoy/konverter.py data/lover/lov-2005-06-17-62.json -f html -o aml.html
+python verktoy/konverter.py data/lover/2005/lov-2005-06-17-62.json > aml.md
+python verktoy/konverter.py data/lover/2005/lov-2005-06-17-62.json -f html -o aml.html
 python verktoy/konverter.py data/lover -f md -o ut/
 ```
 

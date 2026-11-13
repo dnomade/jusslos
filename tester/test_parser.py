@@ -32,7 +32,7 @@ def test_full_kjoring_er_idempotent(tmp_path):
     manifest = json.loads((tmp_path / "manifest.json").read_text("utf-8"))
     assert manifest["antall"] == {"delegering": 1, "lov": 1}
     idx = json.loads((tmp_path / "data/lover/index.json").read_text("utf-8"))
-    assert idx[0]["fil"] == "lov-2099-12-31-1.json" and idx[0]["tittel"] == "Lov om prøve"
+    assert idx[0]["fil"] == "2099/lov-2099-12-31-1.json" and idx[0]["tittel"] == "Lov om prøve"
     assert idx[0]["sist_endret"] == "2100-01-01"
     før = (tmp_path / "manifest.json").read_bytes()
     assert hent.main(["--kilde", str(kilde), "--rot", str(tmp_path)]) == 0
@@ -40,7 +40,7 @@ def test_full_kjoring_er_idempotent(tmp_path):
     assert subprocess.run([sys.executable, "-m", "jusslos.valider", str(tmp_path)], cwd=ROT).returncode == 0
     for fmt in ("md", "html"):
         r = subprocess.run([sys.executable, "verktoy/konverter.py",
-                            str(tmp_path / "data/lover/lov-2099-12-31-1.json"), "-f", fmt],
+                            str(tmp_path / "data/lover/2099/lov-2099-12-31-1.json"), "-f", fmt],
                            cwd=ROT, capture_output=True, text=True, encoding="utf-8")
         assert r.returncode == 0 and "Lovdata" in r.stdout
 
@@ -53,3 +53,20 @@ def test_mappeindeks_lages_for_eksisterende_data(tmp_path):
     hent.main(["--kilde", kilde, "--rot", str(tmp_path)])
     assert (tmp_path / "data/lover/index.json").exists()
     assert (tmp_path / "manifest.json").read_bytes() == før
+
+
+def test_flytting_til_ny_struktur(tmp_path):
+    kilde = str(ROT / "tester")
+    hent.main(["--kilde", kilde, "--rot", str(tmp_path)])
+    # Simuler gammel flat struktur
+    ny = tmp_path / "data/lover/2099/lov-2099-12-31-1.json"
+    gml = tmp_path / "data/lover/lov-2099-12-31-1.json"
+    ny.rename(gml)
+    indeks = json.loads((tmp_path / "indeks.json").read_text("utf-8"))
+    indeks["dokumenter"]["lov/2099-12-31-1"]["fil"] = "data/lover/lov-2099-12-31-1.json"
+    (tmp_path / "indeks.json").write_text(json.dumps(indeks), encoding="utf-8")
+    før = (tmp_path / "manifest.json").read_bytes()
+    hent.main(["--kilde", kilde, "--rot", str(tmp_path)])
+    assert ny.exists() and not gml.exists()
+    assert (tmp_path / "manifest.json").read_bytes() == før
+    assert json.loads((tmp_path / "indeks.json").read_text("utf-8"))["dokumenter"]["lov/2099-12-31-1"]["fil"] == "data/lover/2099/lov-2099-12-31-1.json"
