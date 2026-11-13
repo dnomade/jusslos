@@ -1,0 +1,73 @@
+name: Test
+
+on:
+  push:
+    paths-ignore: [data/**, indeks.json, manifest.json, endringer/**]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  enhetstester:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - run: python -m pytest -q tester
+
+  provekjoring:
+    # Kjører hele løypa mot ekte Lovdata-data i en tom mappe, uten å committe.
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Hent og parse
+        run: |
+          mkdir -p /tmp/ut
+          /usr/bin/time -v python -m jusslos.hent --rot /tmp/ut 2> tid.txt || { cat tid.txt; exit 1; }
+          grep -E "Elapsed|Maximum resident" tid.txt
+          grep -c ADVARSEL tid.txt || true
+          grep ADVARSEL tid.txt | head -5 || true
+      - name: Valider
+        run: python -m jusslos.valider /tmp/ut
+      - name: Statistikk
+        run: |
+          cat /tmp/ut/manifest.json
+          du -sh /tmp/ut/data /tmp/ut/data/* /tmp/ut/indeks.json
+          python - <<'PY'
+          import json, pathlib, collections
+          from jusslos.parser import tell_paragrafer
+          rot = pathlib.Path("/tmp/ut/data")
+          uten, typer = [], collections.Counter()
+          def gå(bl):
+              for b in bl:
+                  typer[b["type"]] += 1
+                  if b["type"] == "seksjon": gå(b["innhold"])
+          for f in rot.rglob("*.json"):
+              d = json.loads(f.read_text("utf-8"))
+              gå(d["innhold"])
+              if d["type"] == "lov" and tell_paragrafer(d["innhold"]) == 0:
+                  uten.append(d["refid"])
+          print("Blokktyper:", dict(typer))
+          print("Lover uten paragrafer:", len(uten), uten[:10])
+          PY
+      - name: Eksempel, arbeidsmiljøloven
+        run: |
+          python verktoy/konverter.py /tmp/ut/data/lover/lov-2005-06-17-62.json | head -c 15000
+          python verktoy/konverter.py /tmp/ut/data/forskrifter/forskrift-2017-06-22-858.json | head -c 4000 || true
+          python - <<'PY'
+          import json
+          d = json.load(open("/tmp/ut/data/lover/lov-2005-06-17-62.json", encoding="utf-8"))
+          print(json.dumps({k: v for k, v in d.items() if k != "innhold"}, ensure_ascii=False, indent=1)[:3000])
+          print(json.dumps(d["innhold"][0], ensure_ascii=False, indent=1)[:4000])
+          PY

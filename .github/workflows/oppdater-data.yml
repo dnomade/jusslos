@@ -1,0 +1,43 @@
+name: Oppdater lovdata
+
+# Lovdata bygger pakkene rundt kl. 02.30 UTC. Vi henter kl. 03.15 UTC
+# (04.15 norsk vintertid, 05.15 sommertid). Lovfinner bør synke etter dette.
+on:
+  schedule:
+    - cron: "15 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: oppdater-data
+  cancel-in-progress: false
+
+jobs:
+  oppdater:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+          cache: pip
+      - run: pip install -r requirements.txt
+      - name: Hent og parse
+        id: hent
+        run: python -m jusslos.hent
+      - name: Valider mot skjema
+        if: steps.hent.outputs.endret == 'true'
+        run: python -m jusslos.valider
+      - name: Commit endringer
+        if: steps.hent.outputs.endret == 'true'
+        env:
+          MELDING: ${{ steps.hent.outputs.melding }}
+        run: |
+          git config user.name "dnomade"
+          git config user.email "155484703+dnomade@users.noreply.github.com"
+          git add -A data indeks.json manifest.json endringer
+          git commit -q -m "$MELDING"
+          git push

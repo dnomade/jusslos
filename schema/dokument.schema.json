@@ -1,0 +1,109 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/dnomade/jusslos/schema/dokument.schema.json",
+  "title": "Lovdokument",
+  "description": "Ett dokument (lov, forskrift, delegering, instruks eller stortingsvedtak) fra Lovdatas frie datasett.",
+  "type": "object",
+  "required": ["skjema", "type", "dokumentid", "refid", "tittel", "url", "innhold"],
+  "properties": {
+    "skjema": {"const": "1.0"},
+    "type": {"enum": ["lov", "forskrift", "delegering", "instruks", "stortingsvedtak"]},
+    "datokode": {"type": "string", "description": "Lovdatas gamle id, f.eks. LOV-2005-06-17-62"},
+    "dokumentid": {"type": "string", "description": "F.eks. NL/lov/2005-06-17-62"},
+    "refid": {"type": "string", "description": "Kort referanse, f.eks. lov/2005-06-17-62"},
+    "eli": {"type": "string"},
+    "sprak": {"const": "nn", "description": "Settes bare for nynorske parallellutgaver, f.eks. Grunnloven"},
+    "tittel": {"type": "string"},
+    "korttittel": {"type": "string"},
+    "departement": {"$ref": "#/$defs/tekstliste"},
+    "etat": {"$ref": "#/$defs/tekstliste"},
+    "rettsomrade": {"$ref": "#/$defs/tekstliste"},
+    "ikraft": {"type": "string"},
+    "kunngjort": {"type": "string"},
+    "kunngjort_i": {"type": "string"},
+    "siste_endring_ikraft": {"type": "string"},
+    "siste_rettelse": {"type": "string"},
+    "gjelder_for": {"type": "string"},
+    "annet": {"type": "string"},
+    "eos_henvisning": {"type": "string"},
+    "endrer": {"type": "string"},
+    "hjemmel": {"$ref": "#/$defs/lenkeliste"},
+    "sist_endret_ved": {"$ref": "#/$defs/lenkeliste"},
+    "url": {"type": "string", "format": "uri"},
+    "innhold": {"$ref": "#/$defs/blokker"},
+    "fotnoter": {"$ref": "#/$defs/fotnoter"}
+  },
+  "additionalProperties": false,
+  "$defs": {
+    "fotnoter": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["tekst"],
+        "properties": {"nr": {"type": ["string", "null"]}, "tekst": {"type": "string"}},
+        "additionalProperties": false
+      }
+    },
+    "tekstliste": {"type": "array", "items": {"type": "string"}},
+    "lenkeliste": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["ref", "tekst"],
+        "properties": {"ref": {"type": ["string", "null"]}, "tekst": {"type": "string"}},
+        "additionalProperties": false
+      }
+    },
+    "blokker": {
+      "type": "array",
+      "items": {"oneOf": [
+        {"$ref": "#/$defs/seksjon"},
+        {"$ref": "#/$defs/paragraf"},
+        {"$ref": "#/$defs/tekst"},
+        {"$ref": "#/$defs/endring"}
+      ]}
+    },
+    "seksjon": {
+      "description": "Del, kapittel eller avsnitt",
+      "type": "object",
+      "required": ["type", "innhold"],
+      "properties": {
+        "type": {"const": "seksjon"},
+        "id": {"type": ["string", "null"]},
+        "navn": {"type": ["string", "null"], "description": "Lovdatas kortnavn, f.eks. kap1"},
+        "overskrift": {"type": ["string", "null"]},
+        "innhold": {"$ref": "#/$defs/blokker"}
+      },
+      "additionalProperties": false
+    },
+    "paragraf": {
+      "type": "object",
+      "required": ["type", "ledd"],
+      "properties": {
+        "type": {"const": "paragraf"},
+        "id": {"type": ["string", "null"]},
+        "nummer": {"type": ["string", "null"], "description": "F.eks. § 14-9"},
+        "tittel": {"type": ["string", "null"]},
+        "ledd": {"type": "array", "items": {"type": "string"}, "description": "Ett element per ledd, listepunkter adskilt med linjeskift"},
+        "endringer": {"type": "array", "items": {"type": "string"}},
+        "fotnoter": {"$ref": "#/$defs/fotnoter"},
+        "fremtidig": {"const": true, "description": "Ikke trådt i kraft ennå"},
+        "opphevet": {"type": "string"},
+        "underparagrafer": {"type": "array", "items": {"$ref": "#/$defs/paragraf"}}
+      },
+      "additionalProperties": false
+    },
+    "tekst": {
+      "type": "object",
+      "required": ["type", "tekst"],
+      "properties": {"type": {"const": "tekst"}, "tekst": {"type": "string"}},
+      "additionalProperties": false
+    },
+    "endring": {
+      "type": "object",
+      "required": ["type", "tekst"],
+      "properties": {"type": {"const": "endring"}, "tekst": {"type": "string"}},
+      "additionalProperties": false
+    }
+  }
+}
