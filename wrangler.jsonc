@@ -7,6 +7,9 @@
   "$schema": "node_modules/wrangler/config-schema.json",
   "name": "jusslos",
   "compatibility_date": "2026-11-01",
+  // Siden skal bare finnes på jusslos.no og www.jusslos.no (Custom domains i Cloudflare).
+  "workers_dev": false,
+  "preview_urls": false,
   "assets": {
     "directory": "./_site",
     "not_found_handling": "404-page"
