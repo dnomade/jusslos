@@ -1,5 +1,5 @@
 {
- "dataversjon": "2026-11-13.6ea5f99f",
+ "dataversjon": "2026-11-14.566d2239",
  "dokumenter": {
   "DEL/forskrift/1957-06-07-3391": {
    "fil": "data/delegeringer/1957/del-forskrift-1957-06-07-3391.json",
@@ -11433,6 +11433,14 @@
    "sha256": "febab07525ffd931520ead6cd7b16725d9a3e305433fd6f17a107499fa18cccd",
    "endret": "2026-11-13"
   },
+  "DEL/forskrift/2026-11-12-2337": {
+   "fil": "data/delegeringer/2026/del-forskrift-2026-11-12-2337.json",
+   "type": "delegering",
+   "tittel": "Delegering av myndighet til å fatte vedtak etter særavgiftsloven",
+   "korttittel": null,
+   "sha256": "bf15bd1ae5befc38019b2afd88c2599f36232f4c4faa0deb37d31c1f349ff64c",
+   "endret": "2026-11-14"
+  },
   "INS/forskrift/1905-11-15-1": {
    "fil": "data/instrukser/1905/ins-forskrift-1905-11-15-1.json",
    "type": "instruks",
@@ -22654,8 +22662,8 @@
    "type": "forskrift",
    "tittel": "Forskrift om sanksjoner og restriktive tiltak mot Nord-Korea",
    "korttittel": "Forskrift om sanksjoner mv. mot Nord-Korea",
-   "sha256": "89ae9e13e821875f361325f00066c3adda97625a4f683e115b63eef687a34eeb",
-   "endret": "2026-11-13"
+   "sha256": "c38afdd6b5e9c86b1192f61a84cb3b1348d124b9369c17e9a68334db5b613b1c",
+   "endret": "2026-11-14"
   },
   "forskrift/2006-12-15-1433": {
    "fil": "data/forskrifter/2006/forskrift-2006-12-15-1433.json",
@@ -27502,8 +27510,8 @@
    "type": "forskrift",
    "tittel": "Forskrift om kapitalkrav og gjennomføring av CRR/CRD-regelverket (CRR/CRD-forskriften)",
    "korttittel": "CRR/CRD-forskriften",
-   "sha256": "405a8396846b2df447ddf1e9074720fa591dd99b00136c5f0bcf999a059887dc",
-   "endret": "2026-11-13"
+   "sha256": "f4ac9a4f69d8341f3008f317cc34c77d84a0b3729f87702b4f346e8471bbd5c2",
+   "endret": "2026-11-14"
   },
   "forskrift/2014-08-22-1121": {
    "fil": "data/forskrifter/2014/forskrift-2014-08-22-1121.json",
@@ -34846,8 +34854,8 @@
    "type": "forskrift",
    "tittel": "Forskrift som utfyller dyrehelseforskriften med bestemmelser om import av visse levende dyr, avlsmateriale og animalske produkter fra tredjestater (dyreimportforskriften)",
    "korttittel": "Dyreimportforskriften",
-   "sha256": "fbe227a212764a2653ff2ee21741b2542d41f8ae182bf81631f9e6c6aecc360e",
-   "endret": "2026-11-13"
+   "sha256": "054c7ffb77a70c638a05e3fd25c5e25f3c283012e5cef593f735bf7c831a47af",
+   "endret": "2026-11-14"
   },
   "forskrift/2022-04-06-634": {
    "fil": "data/forskrifter/2022/forskrift-2022-04-06-634.json",
@@ -41217,6 +41225,14 @@
    "sha256": "0130ed5ed9f34fe76319c5b2e76c94a62182caea54dc39e8e60e57408dd39197",
    "endret": "2026-11-13"
   },
+  "forskrift/2026-11-11-2336": {
+   "fil": "data/forskrifter/2026/forskrift-2026-11-11-2336.json",
+   "type": "forskrift",
+   "tittel": "Forskrift om regulering av fisket etter leppefisk i 2027",
+   "korttittel": null,
+   "sha256": "6a6d9ea8ecf4dca3981ccc62e0416c136fbf6e1d1a7ea84f513250323f543299",
+   "endret": "2026-11-14"
+  },
   "lov/1687-04-15": {
    "fil": "data/lover/1687/lov-1687-04-15.json",
    "type": "lov",
@@ -41358,8 +41374,8 @@
    "type": "lov",
    "tittel": "Lov om domstolene (domstolloven)",
    "korttittel": "Domstolloven – dl",
-   "sha256": "1053ae2f65abcdcfde0a70545d4916d62b8bc10595f264a4149e5c14702d7098",
-   "endret": "2026-11-13"
+   "sha256": "52c4e4089cb1fdcaa55169715ba8f50fbfb81f37f4286d9f0f2ed865ad36d43e",
+   "endret": "2026-11-14"
   },
   "lov/1916-03-17": {
    "fil": "data/lover/1916/lov-1916-03-17.json",
@@ -41374,8 +41390,8 @@
    "type": "lov",
    "tittel": "Lov om kommisjon (kommisjonsloven)",
    "korttittel": "Kommisjonsloven – kml",
-   "sha256": "13ad585403094b57690567b8cc39b458c0b87147fba4f62c032f688c4ce436d8",
-   "endret": "2026-11-13"
+   "sha256": "fac2756c0742574b2e7b888ccad7b9f1ba8f00ab016c7e3a302b1a682f4e5745",
+   "endret": "2026-11-14"
   },
   "lov/1916-07-21-2": {
    "fil": "data/lover/1916/lov-1916-07-21-2.json",
@@ -41414,8 +41430,8 @@
    "type": "lov",
    "tittel": "Lov om avslutning av avtaler, om fuldmagt og om ugyldige viljeserklæringer [avtaleloven]",
    "korttittel": "Avtaleloven – avtl",
-   "sha256": "8e9ea57896c7e9171217f883f7fbbcca2c9abbfd2e283773d01da07a1d2161d8",
-   "endret": "2026-11-13"
+   "sha256": "eef88f74a7f23e3953496be3c37f19dc4fb0e6cbe895dac488bcf3516f5c7e69",
+   "endret": "2026-11-14"
   },
   "lov/1918-08-14-2": {
    "fil": "data/lover/1918/lov-1918-08-14-2.json",
@@ -41598,8 +41614,8 @@
    "type": "lov",
    "tittel": "Lov om veksler [vekselloven]",
    "korttittel": "Vekselloven – vl",
-   "sha256": "a8cfd821abf7b54ce5f8759ff8cebe830e888dd91d7cf69dc063637b54992e54",
-   "endret": "2026-11-13"
+   "sha256": "fbe71defe09d76b991dfabccf36f9a8705b1e4d170221c968ff58c50ee3978f9",
+   "endret": "2026-11-14"
   },
   "lov/1932-05-27-3": {
    "fil": "data/lover/1932/lov-1932-05-27-3.json",
@@ -41662,8 +41678,8 @@
    "type": "lov",
    "tittel": "Lov om tinglysing [tinglysingsloven]",
    "korttittel": "Tinglysingsloven – tingl",
-   "sha256": "b51fe14689a1af7aa030af9e15fcccb59875973c2aef6dcbab54172cc8f30a81",
-   "endret": "2026-11-13"
+   "sha256": "b39127522cbff883aedb3b36d9e52f3ed6137e42dd6114563cc539000c38cffe",
+   "endret": "2026-11-14"
   },
   "lov/1936-07-10-6": {
    "fil": "data/lover/1936/lov-1936-07-10-6.json",
@@ -41678,8 +41694,8 @@
    "type": "lov",
    "tittel": "Lov om gjeldsbrev [gjeldsbrevlova]",
    "korttittel": "Gjeldsbrevlova – gbl",
-   "sha256": "e8b2862aa800c8e33b1650b209ddd8c247af79053a56b746e081def12f91829a",
-   "endret": "2026-11-13"
+   "sha256": "2356b0bfd44fb313adae3836a97e851e8e94c61561ebcf80c22dffc6e0002188",
+   "endret": "2026-11-14"
   },
   "lov/1939-02-17-2": {
    "fil": "data/lover/1939/lov-1939-02-17-2.json",
@@ -42614,16 +42630,16 @@
    "type": "lov",
    "tittel": "Lov om foreldelse av fordringer (foreldelsesloven)",
    "korttittel": "Foreldelsesloven – fl",
-   "sha256": "2f35353709194f37b0e40c5a44e9609ad68e4f52c7d746f5717247c755307bd0",
-   "endret": "2026-11-13"
+   "sha256": "b229daae73a2d013ff2a01e948b65eb0bdd5341147a31579f014f04ff8026d5a",
+   "endret": "2026-11-14"
   },
   "lov/1980-02-08-2": {
    "fil": "data/lover/1980/lov-1980-02-08-2.json",
    "type": "lov",
    "tittel": "Lov om pant (panteloven)",
    "korttittel": "Panteloven – pantel",
-   "sha256": "3fb9b80f7f5c3a8048e40062415f69f5f9d2b634f84b8c2954f821b62716c719",
-   "endret": "2026-11-13"
+   "sha256": "cbd51568e3326fb9586a4655d1d0acb4a665e0d24cbc3299dae6b6ef6234d2df",
+   "endret": "2026-11-14"
   },
   "lov/1980-06-13-35": {
    "fil": "data/lover/1980/lov-1980-06-13-35.json",
@@ -42702,8 +42718,8 @@
    "type": "lov",
    "tittel": "Lov om rettsgebyr (rettsgebyrloven)",
    "korttittel": "Rettsgebyrloven",
-   "sha256": "c4485809c9e9d46a76ee3c06b0063a202762cc80eb8a9dafaa0b5f62fc8a9a63",
-   "endret": "2026-11-13"
+   "sha256": "e16f99defad7dafbd5cc87c1087364b86f705d7ac98a177f89349f339d19183d",
+   "endret": "2026-11-14"
   },
   "lov/1983-06-03-54": {
    "fil": "data/lover/1983/lov-1983-06-03-54.json",
@@ -42742,16 +42758,16 @@
    "type": "lov",
    "tittel": "Lov om gjeldsforhandling og konkurs (konkursloven)",
    "korttittel": "Konkursloven – kkl",
-   "sha256": "43531c020647183bab5491879cf5a5520ef79578e0db44ad068e99a951518dd1",
-   "endret": "2026-11-13"
+   "sha256": "2fda4df241db6f19524391503b29e2b8dab517f98663681650a9cf1f970052b1",
+   "endret": "2026-11-14"
   },
   "lov/1984-06-08-59": {
    "fil": "data/lover/1984/lov-1984-06-08-59.json",
    "type": "lov",
    "tittel": "Lov om fordringshavernes dekningsrett (dekningsloven)",
    "korttittel": "Dekningsloven – deknl",
-   "sha256": "a0a5118fa2a95c5cd56ce92dab344e7ad05abead686af57406b247208630dc49",
-   "endret": "2026-11-13"
+   "sha256": "c9a52bbb4f5a939c60461ca3a41bdb4e15074eaed9af859559ab85465103a8d6",
+   "endret": "2026-11-14"
   },
   "lov/1984-06-08-60": {
    "fil": "data/lover/1984/lov-1984-06-08-60.json",
@@ -42782,8 +42798,8 @@
    "type": "lov",
    "tittel": "Lov om enerett til foretaksnavn og andre forretningskjennetegn mv. (foretaksnavneloven)",
    "korttittel": "Foretaksnavneloven – ftnavnl",
-   "sha256": "e8f02422ded5210b92a0dd893521b1864e0dbafe07ed35e2d7d69fa74d8f364e",
-   "endret": "2026-11-13"
+   "sha256": "963636d7590898279acca4c5f31296d169462dca6f72c9e10367f8b83b67f2dd",
+   "endret": "2026-11-14"
   },
   "lov/1985-06-21-80": {
    "fil": "data/lover/1985/lov-1985-06-21-80.json",
@@ -42798,8 +42814,8 @@
    "type": "lov",
    "tittel": "Lov om ansvarlige selskaper og kommandittselskaper (Selskapsloven)",
    "korttittel": "Selskapsloven – sel",
-   "sha256": "8b5fa194243edc4536859426f9a516196556eb71a4f5fb02c3af5b636c205efd",
-   "endret": "2026-11-13"
+   "sha256": "c1b86aea594dd1233268fb16d4af3d711ce4d95385c48688a4026ee2bd01624f",
+   "endret": "2026-11-14"
   },
   "lov/1985-12-20-108": {
    "fil": "data/lover/1985/lov-1985-12-20-108.json",
@@ -42958,8 +42974,8 @@
    "type": "lov",
    "tittel": "Lov om forsikringsavtaler (forsikringsavtaleloven)",
    "korttittel": "Forsikringsavtaleloven – fal",
-   "sha256": "cd5137883c0ea68f6ae31977beec2d49ef0884551e308bd4a70120d70101b391",
-   "endret": "2026-11-13"
+   "sha256": "b495979f3f70003d2aa8aedb89894eccfdd40cbd5f47825eab15785c530bb084",
+   "endret": "2026-11-14"
   },
   "lov/1989-06-16-70": {
    "fil": "data/lover/1989/lov-1989-06-16-70.json",
@@ -43206,8 +43222,8 @@
    "type": "lov",
    "tittel": "Lov om luftfart (luftfartsloven)",
    "korttittel": "Luftfartsloven – luftl",
-   "sha256": "ea0de740d484dbbbd2decca44fe992308fb59c1d3dee2ddedc67ca75bb9911b1",
-   "endret": "2026-11-13"
+   "sha256": "736b5d79ffdc08d61c6673efe840b85c8ced80b9d59c4590db1c2265c1507a82",
+   "endret": "2026-11-14"
   },
   "lov/1993-06-11-66": {
    "fil": "data/lover/1993/lov-1993-06-11-66.json",
@@ -43262,8 +43278,8 @@
    "type": "lov",
    "tittel": "Lov om sjøfarten (sjøloven)",
    "korttittel": "Sjøloven – sjøl",
-   "sha256": "ca7a500b691dbfc581e58fa2138c01c0802f1920ef3af333ea0018fb0a53d9c9",
-   "endret": "2026-11-13"
+   "sha256": "659f06d72be360139b120020bb309999f7e0fdfcdae25de689a7683dcdfda78b",
+   "endret": "2026-11-14"
   },
   "lov/1994-07-01-49": {
    "fil": "data/lover/1994/lov-1994-07-01-49.json",
@@ -43334,8 +43350,8 @@
    "type": "lov",
    "tittel": "Lov om politiet (politiloven)",
    "korttittel": "Politiloven – politil",
-   "sha256": "f42da44a5903dc087ea9c32985bc9c81eb673b9053130037135d90440830699b",
-   "endret": "2026-11-13"
+   "sha256": "7016c8d647a5ad170f56b92e1b195b31c882ab95a5a55b2b046953bbcaef66d0",
+   "endret": "2026-11-14"
   },
   "lov/1995-12-22-85": {
    "fil": "data/lover/1995/lov-1995-12-22-85.json",
@@ -43398,8 +43414,8 @@
    "type": "lov",
    "tittel": "Lov om petroleumsvirksomhet [petroleumsloven]",
    "korttittel": "Petroleumsloven – petrl",
-   "sha256": "6bad3e08705e7c330d2c1e74ff10494466e287fc3782cc107823a7737ed82237",
-   "endret": "2026-11-13"
+   "sha256": "32d711f3f22493e61a9162d0f20871efd6fa8352ac992075f1446f17cb3933f7",
+   "endret": "2026-11-14"
   },
   "lov/1996-12-13-87": {
    "fil": "data/lover/1996/lov-1996-12-13-87.json",
@@ -43470,16 +43486,16 @@
    "type": "lov",
    "tittel": "Lov om aksjeselskaper (aksjeloven)",
    "korttittel": "Aksjeloven – asl",
-   "sha256": "eb328236c2f24ab4afeec84904f087b311a731056327793754de20db0677270b",
-   "endret": "2026-11-13"
+   "sha256": "d9eb5ca53093cabf349c1c1e375c653da2cfe7c53249fd5d5022c27967cef181",
+   "endret": "2026-11-14"
   },
   "lov/1997-06-13-45": {
    "fil": "data/lover/1997/lov-1997-06-13-45.json",
    "type": "lov",
    "tittel": "Lov om allmennaksjeselskaper (allmennaksjeloven)",
    "korttittel": "Allmennaksjeloven – asal",
-   "sha256": "a480489e96dc7e9e1b811ab331820517fae475f350de8183ac261e18b1fc85d6",
-   "endret": "2026-11-13"
+   "sha256": "fefe4a0eed6c64a5927629ad10d6cb27aa8f87fcca894e8825abf99b72f9a01e",
+   "endret": "2026-11-14"
   },
   "lov/1997-06-13-47": {
    "fil": "data/lover/1997/lov-1997-06-13-47.json",
@@ -43566,16 +43582,16 @@
    "type": "lov",
    "tittel": "Lov om interkommunale selskaper (IKS-loven)",
    "korttittel": "IKS-loven",
-   "sha256": "49233f89d0e1a02439824d5c2b0ce7cfdd644f5ca03f8c55f71ee8aa784e50ae",
-   "endret": "2026-11-13"
+   "sha256": "e248b9a40a623b17fae303da7efc14f1494ebaacbea316276c12802ef59d2e0d",
+   "endret": "2026-11-14"
   },
   "lov/1999-03-26-14": {
    "fil": "data/lover/1999/lov-1999-03-26-14.json",
    "type": "lov",
    "tittel": "Lov om skatt av formue og inntekt (skatteloven)",
    "korttittel": "Skatteloven – sktl",
-   "sha256": "a80f55b50c2bee7410c7030de8cc66d455731a664475ee3529b6db9ad1ef2ebf",
-   "endret": "2026-11-13"
+   "sha256": "0e8d987f238f4ea1d76d761e8cea79f9bb949388b870cdf1638d7ba416d7ab90",
+   "endret": "2026-11-14"
   },
   "lov/1999-03-26-15": {
    "fil": "data/lover/1999/lov-1999-03-26-15.json",
@@ -43678,8 +43694,8 @@
    "type": "lov",
    "tittel": "Lov om betalingssystemer m.v.",
    "korttittel": "Betalingssystemloven",
-   "sha256": "5aa003c858f2116a14de61a4ee052858d4201b5fe98684386d10b0141d8e6afd",
-   "endret": "2026-11-13"
+   "sha256": "69d5ea0b0427b146c06fafb4c149a102dd58f889c471f5cd16b3d73ceba3efcd",
+   "endret": "2026-11-14"
   },
   "lov/1999-12-22-105": {
    "fil": "data/lover/1999/lov-1999-12-22-105.json",
@@ -43846,8 +43862,8 @@
    "type": "lov",
    "tittel": "Lov om helseforetak m.m. (helseforetaksloven)",
    "korttittel": "Helseforetaksloven – hfl",
-   "sha256": "229f53142395ed6355ee00e84eb4e25594c320ff1acce3f3cf590755dfcf484d",
-   "endret": "2026-11-13"
+   "sha256": "0f5e68bac206bff073eb8288065d56a58f9c6f056e8e9c7e40808bc552bf3315",
+   "endret": "2026-11-14"
   },
   "lov/2001-12-14-95": {
    "fil": "data/lover/2001/lov-2001-12-14-95.json",
@@ -43982,16 +43998,16 @@
    "type": "lov",
    "tittel": "Lov om bustadbyggjelag (bustadbyggjelagslova)",
    "korttittel": "Bustadbyggjelagslova – bbl",
-   "sha256": "6e9defb7bfd6a88970644a37ed7aff995f6e0eca0b7b03e97c828e3dfdabcba6",
-   "endret": "2026-11-13"
+   "sha256": "ac5d23d816d8a35f1d8c51b28051e65b0863f83c1221bb52c955957b3d6e38b9",
+   "endret": "2026-11-14"
   },
   "lov/2003-06-06-39": {
    "fil": "data/lover/2003/lov-2003-06-06-39.json",
    "type": "lov",
    "tittel": "Lov om burettslag (burettslagslova)",
    "korttittel": "Burettslagslova – brl",
-   "sha256": "21c69c64b56088729da19cd5f882b3ca52f5084483a56eef017ea97eb8696845",
-   "endret": "2026-11-13"
+   "sha256": "204670d08d6b16617f61c10c15371f8d287dd66e60340e1daf630811191205bc",
+   "endret": "2026-11-14"
   },
   "lov/2003-06-20-44": {
    "fil": "data/lover/2003/lov-2003-06-20-44.json",
@@ -44126,8 +44142,8 @@
    "type": "lov",
    "tittel": "Lov om finansiell sikkerhetsstillelse",
    "korttittel": "Lov om finansiell sikkerhetsstillelse",
-   "sha256": "bef0fc55baa88ff80d915e593589357bcdd483a2bfc9ca7223a7672b50e300c4",
-   "endret": "2026-11-13"
+   "sha256": "e08eae0691c1ca980252a856bbe9f6a3c44d6686d98ab988ab9bbc63e3d08e29",
+   "endret": "2026-11-14"
   },
   "lov/2004-05-14-25": {
    "fil": "data/lover/2004/lov-2004-05-14-25.json",
@@ -44262,8 +44278,8 @@
    "type": "lov",
    "tittel": "Lov om straff (straffeloven)",
    "korttittel": "Straffeloven – strl.",
-   "sha256": "f2d2566724f4228d17a24b72d81e81e66830fe6487df69004fbbbf858f27ca0a",
-   "endret": "2026-11-13"
+   "sha256": "0ac9faf1c33bd0b5b55f2857bd2d9067b8d4c0ddfc1df3c125c166152113d1b0",
+   "endret": "2026-11-14"
   },
   "lov/2005-05-27-31": {
    "fil": "data/lover/2005/lov-2005-05-27-31.json",
@@ -44326,8 +44342,8 @@
    "type": "lov",
    "tittel": "Lov om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven)",
    "korttittel": "Arbeidsmiljøloven – aml",
-   "sha256": "9f60a0656692e2156c1d0b2796f8db6e8adb00167e6c999416b22bf3ea0e6c6d",
-   "endret": "2026-11-13"
+   "sha256": "e9c70170712cc36e9961bc0281e1e9842cd082c8cbab179d517e2492a361711b",
+   "endret": "2026-11-14"
   },
   "lov/2005-06-17-64": {
    "fil": "data/lover/2005/lov-2005-06-17-64.json",
@@ -44358,8 +44374,8 @@
    "type": "lov",
    "tittel": "Lov om rettsforhold og forvaltning av grunn og naturressurser i Finnmark (Finnmarksloven)",
    "korttittel": "Finnmarksloven",
-   "sha256": "66f122f9e83b9cc6226076ef7897c67e59bcf5a9c1fd27292f5b49d030e1c3c9",
-   "endret": "2026-11-13"
+   "sha256": "11428aa90ab55df8463d50757b5d5e17a7b1dba2e53f063f4b02fcce3e885222",
+   "endret": "2026-11-14"
   },
   "lov/2005-06-17-90": {
    "fil": "data/lover/2005/lov-2005-06-17-90.json",
@@ -44510,8 +44526,8 @@
    "type": "lov",
    "tittel": "Lov om samvirkeforetak (samvirkelova)",
    "korttittel": "Samvirkelova",
-   "sha256": "17cf88c9aa27e550f1195d988ae9ad6f94cd4a36555fe173b90d272a832636e2",
-   "endret": "2026-11-13"
+   "sha256": "8bdfb0c787f6ac50e81e7d7be2c9abac533b73c7846a6ba07303e47315662f04",
+   "endret": "2026-11-14"
   },
   "lov/2007-06-29-86": {
    "fil": "data/lover/2007/lov-2007-06-29-86.json",
@@ -44558,8 +44574,8 @@
    "type": "lov",
    "tittel": "Lov om utlendingers adgang til riket og deres opphold her (utlendingsloven)",
    "korttittel": "Utlendingsloven – utlendl",
-   "sha256": "bb972336a9a8f19eec4910910b493da38937cca9ba2fd35b0c63068cd90230cf",
-   "endret": "2026-11-13"
+   "sha256": "455996e8fc3b82ef507b79ef085a35d0a6b59b88d454b4bc45e9addb1f5bb3a2",
+   "endret": "2026-11-14"
   },
   "lov/2008-06-06-37": {
    "fil": "data/lover/2008/lov-2008-06-06-37.json",
@@ -44694,8 +44710,8 @@
    "type": "lov",
    "tittel": "Lov om merverdiavgift (merverdiavgiftsloven)",
    "korttittel": "Merverdiavgiftsloven – mval",
-   "sha256": "9ddc1fa2b0072be22e5caadc5a1c3e3d023dcf497ad518e93cc6c8189c34fd7f",
-   "endret": "2026-11-13"
+   "sha256": "4bbf03fed1fa2d588f98a870e7fbb46ca0cc0fd2d15151f9bfac29877d89cb8f",
+   "endret": "2026-11-14"
   },
   "lov/2009-06-19-73": {
    "fil": "data/lover/2009/lov-2009-06-19-73.json",
@@ -44870,8 +44886,8 @@
    "type": "lov",
    "tittel": "Lov om verdipapirfond (verdipapirfondloven)",
    "korttittel": "Verdipapirfondloven",
-   "sha256": "4c27e9c0b2c1482c4080e96361c8133288903e84c329cf82b12692f30f9b29ca",
-   "endret": "2026-11-13"
+   "sha256": "1bcf5e7512ee9791a3f96b28d2b5942b34d922e2a46a3e61a085fa6bff35caac",
+   "endret": "2026-11-14"
   },
   "lov/2011-12-09-52": {
    "fil": "data/lover/2011/lov-2011-12-09-52.json",
@@ -45094,8 +45110,8 @@
    "type": "lov",
    "tittel": "Lov om forvaltning av alternative investeringsfond",
    "korttittel": "AIF-loven",
-   "sha256": "4598a6331441f9aec0a0e127d9d1234a9a3f4886ea9aeb67eb206ca9e6a3b4d2",
-   "endret": "2026-11-13"
+   "sha256": "3ce4d8c8fd1d1797629682ef664469be2e907f182005f0fa8e77b94f7f8da4b9",
+   "endret": "2026-11-14"
   },
   "lov/2014-06-20-30": {
    "fil": "data/lover/2014/lov-2014-06-20-30.json",
@@ -45190,8 +45206,8 @@
    "type": "lov",
    "tittel": "Lov om finansforetak og finanskonsern (finansforetaksloven)",
    "korttittel": "Finansforetaksloven",
-   "sha256": "1b2a049b1729deba596f598005c46aeb478542f034520d3c902404741cced5e4",
-   "endret": "2026-11-13"
+   "sha256": "8252eb414ed2d9566d87e0933f09fba7db6a59edf6d26da5d20c6c695d1be6b6",
+   "endret": "2026-11-14"
   },
   "lov/2015-04-24-20": {
    "fil": "data/lover/2015/lov-2015-04-24-20.json",
@@ -45638,8 +45654,8 @@
    "type": "lov",
    "tittel": "Lov om Bankenes sikringsfond",
    "korttittel": "Lov om Bankenes sikringsfond",
-   "sha256": "c22af82d0ebf24c5471edade9088fa7f40488202f341ff07ad97859586a732a7",
-   "endret": "2026-11-13"
+   "sha256": "7aa21af4d47e28ae8d9dea96b60be4cd0ea8e1eceba2f0ac116007fc2798ee1c",
+   "endret": "2026-11-14"
   },
   "lov/2018-04-20-7": {
    "fil": "data/lover/2018/lov-2018-04-20-7.json",
@@ -45670,8 +45686,8 @@
    "type": "lov",
    "tittel": "Lov om nasjonal sikkerhet (sikkerhetsloven)",
    "korttittel": "Sikkerhetsloven – sikkl",
-   "sha256": "74c1152013b6e657e638d5f8ea5eea5227f19fc9b73dfdded0241305796b322c",
-   "endret": "2026-11-13"
+   "sha256": "6e0eca2bbdaf36ea0fb7d8e827e4d41792eaaef5d30a1e9a805d1dd793e76a53",
+   "endret": "2026-11-14"
   },
   "lov/2018-06-08-28": {
    "fil": "data/lover/2018/lov-2018-06-08-28.json",
@@ -45734,8 +45750,8 @@
    "type": "lov",
    "tittel": "Lov om kommuner og fylkeskommuner (kommuneloven)",
    "korttittel": "Kommuneloven",
-   "sha256": "453037903f7c3a19768e0c5f10055ff0f35c30a4aa8313a7145d6c02271d4715",
-   "endret": "2026-11-13"
+   "sha256": "fb9896d9d805083be48b75e3d76e90038711e6df5bbf050aecc7d1b3d95ad380",
+   "endret": "2026-11-14"
   },
   "lov/2019-03-01-2": {
    "fil": "data/lover/2019/lov-2019-03-01-2.json",
@@ -45758,16 +45774,16 @@
    "type": "lov",
    "tittel": "Lov om verdipapirsentraler og verdipapiroppgjør mv. (verdipapirsentralloven)",
    "korttittel": "Verdipapirsentralloven",
-   "sha256": "78cc8ff372031ace8ad5f55f7566c40ea641f17d5fbc6cc14b1bea130a11e36f",
-   "endret": "2026-11-13"
+   "sha256": "2bf3d80b980650fbb314bf188ccf3088e16b8de1c5d62532477ac42c70bc2dfb",
+   "endret": "2026-11-14"
   },
   "lov/2019-03-22-7": {
    "fil": "data/lover/2019/lov-2019-03-22-7.json",
    "type": "lov",
    "tittel": "Lov om mineralvirksomhet på kontinentalsokkelen (havbunnsmineralloven)",
    "korttittel": "Havbunnsmineralloven",
-   "sha256": "e608ad9ea9947b71bb614fe078e6b337de88df59e40ded977964cc3814caff45",
-   "endret": "2026-11-13"
+   "sha256": "61e497536dd62120dab5523b7d5298d142de5afa48c65ef97860551eff93a4a1",
+   "endret": "2026-11-14"
   },
   "lov/2019-03-29-8": {
    "fil": "data/lover/2019/lov-2019-03-29-8.json",
@@ -45782,8 +45798,8 @@
    "type": "lov",
    "tittel": "Lov om arv og dødsboskifte (arveloven)",
    "korttittel": "Arveloven",
-   "sha256": "165c7d97d4c49f25a181a4f440800e4da3301ad13ed42b0d643edf72449a5c59",
-   "endret": "2026-11-13"
+   "sha256": "70ddb4d24d5aec108ec80ed4095affc8b1253dfdcb89be30ea973d5ca5ecc509",
+   "endret": "2026-11-14"
   },
   "lov/2019-06-21-31": {
    "fil": "data/lover/2019/lov-2019-06-21-31.json",
@@ -45862,8 +45878,8 @@
    "type": "lov",
    "tittel": "Lov om behandling av opplysninger i kredittopplysningsvirksomhet (kredittopplysningsloven)",
    "korttittel": "Kredittopplysningsloven",
-   "sha256": "ee1fdf56dce3fff1e745133336042d96bae4da0a53a3eee0ce90996fca246ab3",
-   "endret": "2026-11-13"
+   "sha256": "798727579e7b6c540ab081c28be410a43c300a4937c0348677f5c27ae44aa00a",
+   "endret": "2026-11-14"
   },
   "lov/2019-12-20-84": {
    "fil": "data/lover/2019/lov-2019-12-20-84.json",
@@ -45934,8 +45950,8 @@
    "type": "lov",
    "tittel": "Lov om tros- og livssynssamfunn (trossamfunnsloven)",
    "korttittel": "Trossamfunnsloven",
-   "sha256": "7bfaad2fb6646362ef09cb97422617be2b7d8648a8e167c9ed4859660841d72e",
-   "endret": "2026-11-13"
+   "sha256": "906cec4642cd314909972a4785e6be5a72eaaee12e43f41dc1ede7781dd5dc38",
+   "endret": "2026-11-14"
   },
   "lov/2020-04-24-32": {
    "fil": "data/lover/2020/lov-2020-04-24-32.json",
@@ -45958,8 +45974,8 @@
    "type": "lov",
    "tittel": "Midlertidig lov om rekonstruksjon for å avhjelpe økonomiske problemer som følge av utbrudd av covid-19 (rekonstruksjonsloven)",
    "korttittel": "Rekonstruksjonsloven",
-   "sha256": "8ded539e4f4dc13021c892da2553540e5a4ebcd362fc343f2ae5f27022a17418",
-   "endret": "2026-11-13"
+   "sha256": "5b589fea918416ba9885be8d45146bca8c5122c5fe0e764443cb66f2a750a543",
+   "endret": "2026-11-14"
   },
   "lov/2020-05-07-40": {
    "fil": "data/lover/2020/lov-2020-05-07-40.json",
@@ -46070,8 +46086,8 @@
    "type": "lov",
    "tittel": "Lov om finansavtaler (finansavtaleloven)",
    "korttittel": "Finansavtaleloven",
-   "sha256": "db36210552698831f15d00fc6edbe8a43333abe151369b9d29c66db9c9a03c07",
-   "endret": "2026-11-13"
+   "sha256": "841bc575c20f93d0d1b78c24863fba16f500b412e0511e8ce0294e546963b956",
+   "endret": "2026-11-14"
   },
   "lov/2020-12-18-153": {
    "fil": "data/lover/2020/lov-2020-12-18-153.json",
@@ -46230,8 +46246,8 @@
    "type": "lov",
    "tittel": "Lov om forsikringsformidling (forsikringsformidlingsloven)",
    "korttittel": "Forsikringsformidlingsloven",
-   "sha256": "2bcfdf2b1559d76adb7be586463fcb0b0c9cac5c79c80496aa3757bd2f730dc9",
-   "endret": "2026-11-13"
+   "sha256": "273fc675df95bd8d392662496e811dff6a6bc49b73fa517b81fcf74851749507",
+   "endret": "2026-11-14"
   },
   "lov/2022-01-28-2": {
    "fil": "data/lover/2022/lov-2022-01-28-2.json",
@@ -46350,8 +46366,8 @@
    "type": "lov",
    "tittel": "Lov om låneformidling (låneformidlingsloven)",
    "korttittel": "Låneformidlingsloven",
-   "sha256": "cff1ca0960019a0f2b906b12631cf24ded947962cac0a5a1b84dd68ad0d6b3e8",
-   "endret": "2026-11-13"
+   "sha256": "2e55599c6a07ba16485afd16f6caee8f823e2b37f984965a660a955a6c6bc63b",
+   "endret": "2026-11-14"
   },
   "lov/2022-12-20-118": {
    "fil": "data/lover/2022/lov-2022-12-20-118.json",
@@ -46622,8 +46638,8 @@
    "type": "lov",
    "tittel": "Lov om elektronisk kommunikasjon (ekomloven)",
    "korttittel": "Ekomloven",
-   "sha256": "1eaa3810fd5102bfd3def574767910b315595a6fce4fed8351ee5b9d493cdf50",
-   "endret": "2026-11-13"
+   "sha256": "0b054ed56843b63df6153c0c0b9cc25b59773cd3423662745f2e9a1959994d0a",
+   "endret": "2026-11-14"
   },
   "lov/2024-12-13-77": {
    "fil": "data/lover/2024/lov-2024-12-13-77.json",
@@ -46678,8 +46694,8 @@
    "type": "lov",
    "tittel": "Lov om statsføretak (statsføretakslova)",
    "korttittel": "Statsføretakslova",
-   "sha256": "15be26142c5847c353145158103971690d6c211f4bf3e343bd8b01e541159729",
-   "endret": "2026-11-13"
+   "sha256": "07caa3eceb7230aab1f46e218bb05545026f8ffb55f45d7989543921cec8af2a",
+   "endret": "2026-11-14"
   },
   "lov/2025-04-25-12": {
    "fil": "data/lover/2025/lov-2025-04-25-12.json",
@@ -47150,8 +47166,8 @@
    "type": "lov",
    "tittel": "Lov om endringer i konkursloven mv. (rekonstruksjonsforhandling)",
    "korttittel": "Endringslov til konkursloven mv.",
-   "sha256": "505fdeb3d8435a064c3b5364c869d0b002e7eca23c8643ced85b1d78d9b1f57a",
-   "endret": "2026-11-13"
+   "sha256": "d5e607dd76001ae1cb9727f9c40976597a0a1d2882049d3d36b8adf0ba1ad6a7",
+   "endret": "2026-11-14"
   },
   "lov/2026-06-19-50": {
    "fil": "data/lover/2026/lov-2026-06-19-50.json",
@@ -47166,8 +47182,8 @@
    "type": "lov",
    "tittel": "Lov om endringer i politiloven (generell bevæpning av politiet)",
    "korttittel": "Endringslov til politiloven",
-   "sha256": "9ce685faaeb85a6abe2dccdbf7079fd0dcdc0f6434ecca2838affd326097f464",
-   "endret": "2026-11-13"
+   "sha256": "5a075d9138791c00a9df5cacd384766c8bf5e19ebbc896b316c2dd2dcec6b802",
+   "endret": "2026-11-14"
   },
   "lov/2026-06-19-52": {
    "fil": "data/lover/2026/lov-2026-06-19-52.json",
