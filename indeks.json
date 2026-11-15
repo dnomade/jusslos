@@ -1,5 +1,5 @@
 {
- "dataversjon": "2026-11-14.566d2239",
+ "dataversjon": "2026-11-15.71332b86",
  "dokumenter": {
   "DEL/forskrift/1957-06-07-3391": {
    "fil": "data/delegeringer/1957/del-forskrift-1957-06-07-3391.json",
@@ -36350,48 +36350,48 @@
    "type": "forskrift",
    "tittel": "Forskrift om tilskudd til friluftslivsaktivitet",
    "korttittel": null,
-   "sha256": "adf6e682dab920a6508fc0e2d554c32198fd91cbe7f58bcb300bfbf5b0619c70",
-   "endret": "2026-11-13"
+   "sha256": "ab7bb5cedae2ce13e188d1af7d3a7c9ec08e7518e4a5738d4054dabcd33d7cb2",
+   "endret": "2026-11-15"
   },
   "forskrift/2023-11-15-1845": {
    "fil": "data/forskrifter/2023/forskrift-2023-11-15-1845.json",
    "type": "forskrift",
    "tittel": "Forskrift om tilskudd til besøkssenter for verdensarv",
    "korttittel": null,
-   "sha256": "bb1bf8a5af337911b18a16001368532b32efbb5f078183e956ff38f34b03218c",
-   "endret": "2026-11-13"
+   "sha256": "95425b5d2aab5086e935f1581a44d27796559610bd72a1a9d7c91271200e8a7e",
+   "endret": "2026-11-15"
   },
   "forskrift/2023-11-15-1846": {
    "fil": "data/forskrifter/2023/forskrift-2023-11-15-1846.json",
    "type": "forskrift",
    "tittel": "Forskrift om tilskudd til besøkssenter for natur",
    "korttittel": null,
-   "sha256": "158f8878d16cfa2a0f1488835cb23fe01fe70010f7fa489bdec112c886580b53",
-   "endret": "2026-11-13"
+   "sha256": "08bd327ce00610620e59a5ad8e4c2f2d9cbcb07123d6b41137cd97fcca5909e9",
+   "endret": "2026-11-15"
   },
   "forskrift/2023-11-15-1847": {
    "fil": "data/forskrifter/2023/forskrift-2023-11-15-1847.json",
    "type": "forskrift",
    "tittel": "Forskrift om tilskudd til Nasjonale turiststier",
    "korttittel": null,
-   "sha256": "49e4f56ec7c4991b4edf85d511d0df3514374700bb4173cbea0e4581a7c3276b",
-   "endret": "2026-11-13"
+   "sha256": "32e70c30d2dde0a2507b3d90b677856453240a9ceffbdf21c3fbf16b35e2379e",
+   "endret": "2026-11-15"
   },
   "forskrift/2023-11-15-1848": {
    "fil": "data/forskrifter/2023/forskrift-2023-11-15-1848.json",
    "type": "forskrift",
    "tittel": "Forskrift om tilskudd til tiltak i statlig sikrede friluftslivsområder og områder vernet som friluftslivsområder etter markaloven",
    "korttittel": null,
-   "sha256": "08158f547e693b7ae7946ef4704c2060de14aaa3c0c5fbd2c900f23f3c6cc172",
-   "endret": "2026-11-13"
+   "sha256": "f2f881520fa222ac9767e357be32568fde0fd8ad64040b7b730f990a631bdc5a",
+   "endret": "2026-11-15"
   },
   "forskrift/2023-11-15-1887": {
    "fil": "data/forskrifter/2023/forskrift-2023-11-15-1887.json",
    "type": "forskrift",
    "tittel": "Forskrift om tilskudd til å styrke kunnskapen om og formidlingen av naturmangfoldet",
    "korttittel": null,
-   "sha256": "ff2d6d32518531db99a48169cf9bb9405d779447693b88c8f6181700183e47e7",
-   "endret": "2026-11-13"
+   "sha256": "24ae3126d5b5544ef7c4dcd56904c4ebaceb2c463a53de7e289cfaa2a89f7c5c",
+   "endret": "2026-11-15"
   },
   "forskrift/2023-11-20-1949": {
    "fil": "data/forskrifter/2023/forskrift-2023-11-20-1949.json",
@@ -37318,16 +37318,16 @@
    "type": "forskrift",
    "tittel": "Forskrift om tilskudd til tiltak for å ivareta natur",
    "korttittel": null,
-   "sha256": "384af33dc9c8b7131a8f193baba3c8d8d5958715345641f4919a9ba5b4efffb1",
-   "endret": "2026-11-13"
+   "sha256": "dc11d314d84931a67f7f0b8f8a7ac51c3f5cb6d4d7834248ac5c9dc7baa4a56a",
+   "endret": "2026-11-15"
   },
   "forskrift/2024-10-04-2409": {
    "fil": "data/forskrifter/2024/forskrift-2024-10-04-2409.json",
    "type": "forskrift",
-   "tittel": "Forskrift om tilskudd til vannmiljøtiltak, kalking og anadrom laksefisk",
+   "tittel": "Forskrift om tilskudd til vannmiljøtiltak, inkludert Oslofjorden, kalking og anadrom laksefisk",
    "korttittel": null,
-   "sha256": "d674e4fb94357801add8c8285e163de593811181d9df4384692e9d7f8eeff713",
-   "endret": "2026-11-13"
+   "sha256": "eb32afdafd3807cf5b314d46a3aecbbbbd1151e30adce0f92e9d87cf5d54a554",
+   "endret": "2026-11-15"
   },
   "forskrift/2024-10-11-2451": {
    "fil": "data/forskrifter/2024/forskrift-2024-10-11-2451.json",
@@ -41159,14 +41159,6 @@
    "tittel": "Forskrift om endring i integreringsforskriften",
    "korttittel": "Endr. i integreringsforskriften",
    "sha256": "9347943f36d65f22e7abcb66b0eb6ead0bc56ff0e62a85ecd5be5914f2314344",
-   "endret": "2026-11-13"
-  },
-  "forskrift/2026-10-30-2220": {
-   "fil": "data/forskrifter/2026/forskrift-2026-10-30-2220.json",
-   "type": "forskrift",
-   "tittel": "Forskrift om endring i forskrifter om tilskuddsordninger for å ivareta natur og friluftsformål",
-   "korttittel": null,
-   "sha256": "6fb7d9af7f17b775b75460a734e2ba9d46b24af7453855c3739925b9e716ed10",
    "endret": "2026-11-13"
   },
   "forskrift/2026-11-02-2222": {
