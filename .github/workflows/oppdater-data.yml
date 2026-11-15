@@ -1,10 +1,10 @@
 name: Oppdater lovdata
 
-# Lovdata bygger pakkene rundt kl. 02.30 UTC. Vi henter kl. 03.15 UTC
-# (04.15 norsk vintertid, 05.15 sommertid). Lovfinner bør synke etter dette.
+# Lovdata bygger pakkene rundt kl. 02.30 UTC. Workeren «lovfinner» i Cloudflare starter
+# denne kl. 03.15 UTC med workflow_dispatch (04.15 norsk vintertid, 05.15 sommertid).
+# GitHubs egen schedule er ikke brukt fordi den kan starte timer for sent.
+# Jobben kan også startes for hånd under Actions > Oppdater lovdata > Run workflow.
 on:
-  schedule:
-    - cron: "15 3 * * *"
   workflow_dispatch:
 
 permissions:
