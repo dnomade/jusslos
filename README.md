@@ -66,7 +66,7 @@ Verktøyet trenger bare Python 3.9 eller nyere, ingen pakker.
 
 ## Slik fungerer oppdateringen
 
-GitHub Actions (`.github/workflows/oppdater-data.yml`) kjører hver natt kl. 03.15 UTC, etter at Lovdata har bygget pakkene sine rundt kl. 02.30 UTC. Jobben laster ned `gjeldende-lover.tar.bz2` og `gjeldende-sentrale-forskrifter.tar.bz2` fra `https://api.lovdata.no/v1/publicData`, parser alle dokumentene, sammenligner hashene med `indeks.json` og committer bare ved endring. Repoet har ingen hemmeligheter.
+GitHub Actions (`.github/workflows/oppdater-data.yml`) kjører hver natt kl. 03.15 UTC (startet av en planlagt Cloudflare Worker, siden GitHubs egen tidsplan kan komme timer for sent), etter at Lovdata har bygget pakkene sine rundt kl. 02.30 UTC. Jobben laster ned `gjeldende-lover.tar.bz2` og `gjeldende-sentrale-forskrifter.tar.bz2` fra `https://api.lovdata.no/v1/publicData`, parser alle dokumentene, sammenligner hashene med `indeks.json` og committer bare ved endring. Repoet har ingen hemmeligheter.
 
 Kjør lokalt:
 
