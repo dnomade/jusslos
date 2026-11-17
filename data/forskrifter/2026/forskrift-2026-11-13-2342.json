@@ -1,0 +1,84 @@
+{
+ "skjema": "1.0",
+ "type": "forskrift",
+ "datokode": "FOR-2026-11-13-2342",
+ "dokumentid": "SF/forskrift/2026-11-13-2342",
+ "departement": [
+  "Justis- og beredskapsdepartementet"
+ ],
+ "etat": [
+  "Lovavdelingen"
+ ],
+ "ikraft": "2027-01-01",
+ "endrer": "forskrift/2013-10-04-1185\nforskrift/2022-05-20-883\nforskrift/2024-01-26-111",
+ "hjemmel": [
+  {
+   "ref": "lov/2016-06-17-73/§16",
+   "tekst": "lov/2016-06-17-73/§16"
+  },
+  {
+   "ref": "lov/2019-12-20-109/§29",
+   "tekst": "lov/2019-12-20-109/§29"
+  },
+  {
+   "ref": "lov/1989-06-16-70/§4",
+   "tekst": "lov/1989-06-16-70/§4"
+  }
+ ],
+ "kunngjort": "2026-11-13 13:10",
+ "tittel": "Forskrift om endringer i forskrift om forsvars- og sikkerhetsanskaffelser mv.",
+ "annet": "Hjemmel: Fastsatt ved kgl.res. 13. november 2026 med hjemmel i lov 17. juni 2016 nr. 73 om offentlige anskaffelser (anskaffelsesloven) § 16, lov 20. desember 2019 nr. 109 om behandling av opplysninger i kredittopplysningsvirksomhet (kredittopplysningsloven) § 29 og lov 16. juni 1989 nr. 70 om naturskadeforsikring § 4. Fremmet av Justis- og beredskapsdepartementet.",
+ "refid": "forskrift/2026-11-13-2342",
+ "eli": "/eli/forskrift/2026/11/13/2342",
+ "url": "https://lovdata.no/dokument/SF/forskrift/2026-11-13-2342",
+ "innhold": [
+  {
+   "type": "seksjon",
+   "id": "kapittel-1",
+   "navn": "kapI",
+   "overskrift": "I",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "I forskrift 4. oktober 2013 nr. 1185 om forsvars- og sikkerhetsanskaffelser gjøres følgende endringer:\n§ 5-3 bokstav j skal lyde:\nj. dersom varene anskaffes på særdeles fordelaktige vilkår, enten hos en leverandør som endelig innstiller sin virksomhet eller et konkursbo, i en rekonstruksjonsforhandling eller en tilsvarende behandling,\nI § 11-12 annet ledd bokstav a og b skal ordet «gjeldsforhandling» endres til «rekonstruksjonsforhandling»."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-2",
+   "navn": "kapII",
+   "overskrift": "II",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "I forskrift 20. mai 2022 nr. 883 om behandling av opplysninger i kredittopplysningsvirksomhet gjøres følgende endringer:\n§ 2 tredje ledd bokstav g skal lyde:\ng. opplysninger om konkurs, rekonstruksjonsforhandling og gjeldsforhandling etter konkursloven\n§ 3 tredje ledd bokstav e skal lyde:\ne. opplysninger om konkurs, rekonstruksjonsforhandling og gjeldsforhandling etter konkursloven"
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-3",
+   "navn": "kapIII",
+   "overskrift": "III",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "I forskrift 26. januar 2024 nr. 111 om naturskadeforsikring skal § 8 annet ledd annet punktum lyde:\nDet kan ikke åpnes konkurs- eller rekonstruksjonsforhandling i poolen."
+    }
+   ]
+  },
+  {
+   "type": "seksjon",
+   "id": "kapittel-4",
+   "navn": "kapIV",
+   "overskrift": "IV",
+   "innhold": [
+    {
+     "type": "tekst",
+     "tekst": "Forskriften trer i kraft 1. januar 2027."
+    }
+   ]
+  }
+ ]
+}

@@ -1,5 +1,5 @@
 {
- "dataversjon": "2026-11-15.71332b86",
+ "dataversjon": "2026-11-17.0159cc95",
  "dokumenter": {
   "DEL/forskrift/1957-06-07-3391": {
    "fil": "data/delegeringer/1957/del-forskrift-1957-06-07-3391.json",
@@ -23006,8 +23006,8 @@
    "type": "forskrift",
    "tittel": "Forskrift til verdipapirhandelloven (verdipapirforskriften)",
    "korttittel": "Verdipapirforskriften",
-   "sha256": "c4f0949fb8f6571f4f1ceb1793a71d43978399f6e1b60792993bd9026e64c97c",
-   "endret": "2026-11-13"
+   "sha256": "09407c695f2032521db19b59d0b6c35464d3a4b489dd681d91bd82ffcc22a82c",
+   "endret": "2026-11-17"
   },
   "forskrift/2007-06-29-904": {
    "fil": "data/forskrifter/2007/forskrift-2007-06-29-904.json",
@@ -26894,8 +26894,8 @@
    "type": "forskrift",
    "tittel": "Forskrift om forsvars- og sikkerhetsanskaffelser",
    "korttittel": "Forskrift om forsvars- og sikkerhetsanskaffelser – FOSA",
-   "sha256": "e87a1be5c59de0d21203fa77034698f958c0e4c0a98e466b753da4f55999699e",
-   "endret": "2026-11-13"
+   "sha256": "c164f9ebbaebad1ba4c46611578b34430a354118c433ac20956b35020de09ae4",
+   "endret": "2026-11-17"
   },
   "forskrift/2013-10-08-1212": {
    "fil": "data/forskrifter/2013/forskrift-2013-10-08-1212.json",
@@ -34958,8 +34958,8 @@
    "type": "forskrift",
    "tittel": "Forskrift om behandling av opplysninger i kredittopplysningsvirksomhet (kredittopplysningsforskriften)",
    "korttittel": "Kredittopplysningsforskriften",
-   "sha256": "200043a15cb98914ec5701ab89afaf1243d8b72e0db63e2cced05003a648786f",
-   "endret": "2026-11-13"
+   "sha256": "4018b2f678850458bd0f7748545ee00e51fd1ec3727b157502dc5f38968e0c21",
+   "endret": "2026-11-17"
   },
   "forskrift/2022-05-25-918": {
    "fil": "data/forskrifter/2022/forskrift-2022-05-25-918.json",
@@ -36622,8 +36622,8 @@
    "type": "forskrift",
    "tittel": "Forskrift om naturskadeforsikring (naturskadeforsikringsforskriften)",
    "korttittel": "Naturskadeforsikringsforskriften",
-   "sha256": "6c49570096ccf6ce846ecac92a335aba0bc1f0b0110010b2391edc16c54ffcf8",
-   "endret": "2026-11-13"
+   "sha256": "73539ce05350162219bfeac86a2d3af5c41acd646e8caa67047060dca07c3fb3",
+   "endret": "2026-11-17"
   },
   "forskrift/2024-01-26-123": {
    "fil": "data/forskrifter/2024/forskrift-2024-01-26-123.json",
@@ -38158,8 +38158,8 @@
    "type": "forskrift",
    "tittel": "Forskrift om sikkerhet i felt mv. på Svalbard (feltsikkerhetsforskriften)",
    "korttittel": "Feltsikkerhetsforskriften",
-   "sha256": "d746b24c36f62fd6f8c0552bdb7d3b60914baf1c94aa3cc32df2e07c7befb7b0",
-   "endret": "2026-11-13"
+   "sha256": "697c961405b66cf20ecdafcb44bca13f84e154bbb2fe250510e709d408b0d462",
+   "endret": "2026-11-17"
   },
   "forskrift/2025-06-10-985": {
    "fil": "data/forskrifter/2025/forskrift-2025-06-10-985.json",
@@ -40964,10 +40964,10 @@
   "forskrift/2026-10-09-2216": {
    "fil": "data/forskrifter/2026/forskrift-2026-10-09-2216.json",
    "type": "forskrift",
-   "tittel": "Utvidelse av virkeområdet til lov 14. mars 1981 nr. 6 om vern mot forurensninger og avfall (forurensningsloven)",
+   "tittel": "Utvidelse av virkeområdet til lov 13. mars 1981 nr. 6 om vern mot forurensninger og avfall (forurensningsloven)",
    "korttittel": null,
-   "sha256": "0899bed4dde74810f39e9d4bb3bcaa4cf0e83c1e4289254ed1e2cb95f5e050d1",
-   "endret": "2026-11-13"
+   "sha256": "7540513c8d91d5e5a8e2bffb1a82cf98247363b56aa9f1c599a01bd5801578fe",
+   "endret": "2026-11-17"
   },
   "forskrift/2026-10-11-2047": {
    "fil": "data/forskrifter/2026/forskrift-2026-10-11-2047.json",
@@ -41177,14 +41177,6 @@
    "sha256": "2347c6f2f7745e7d024158b69bcad1bf72b1a91b0bd877ea445c5d4e762f2e55",
    "endret": "2026-11-13"
   },
-  "forskrift/2026-11-03-2258": {
-   "fil": "data/forskrifter/2026/forskrift-2026-11-03-2258.json",
-   "type": "forskrift",
-   "tittel": "Forskrift om opprettelse av restriksjonssone for å bekjempe høypatogen aviær influensa (HPAI-soneforskrift)",
-   "korttittel": "HPAI-soneforskrift",
-   "sha256": "967e73992b2defd96237d31da09d0d422de999268b96dc81429632c847ad8686",
-   "endret": "2026-11-13"
-  },
   "forskrift/2026-11-03-2260": {
    "fil": "data/forskrifter/2026/forskrift-2026-11-03-2260.json",
    "type": "forskrift",
@@ -41224,6 +41216,14 @@
    "korttittel": null,
    "sha256": "6a6d9ea8ecf4dca3981ccc62e0416c136fbf6e1d1a7ea84f513250323f543299",
    "endret": "2026-11-14"
+  },
+  "forskrift/2026-11-13-2342": {
+   "fil": "data/forskrifter/2026/forskrift-2026-11-13-2342.json",
+   "type": "forskrift",
+   "tittel": "Forskrift om endringer i forskrift om forsvars- og sikkerhetsanskaffelser mv.",
+   "korttittel": null,
+   "sha256": "6a82b7ba4c64854ea9ce0999702aa0d2125ed79ea62d443ea2ca939705496192",
+   "endret": "2026-11-17"
   },
   "lov/1687-04-15": {
    "fil": "data/lover/1687/lov-1687-04-15.json",

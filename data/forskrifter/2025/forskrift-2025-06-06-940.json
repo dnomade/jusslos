@@ -9,12 +9,12 @@
  "etat": [
   "Polaravdelingen"
  ],
- "ikraft": "2026-01-01, 2027-07-01",
- "siste_endring_ikraft": "2026-01-01",
+ "ikraft": "2026-01-01, departementet bestemmer",
+ "siste_endring_ikraft": "2026-11-13",
  "sist_endret_ved": [
   {
-   "ref": "forskrift/2025-12-12-2557",
-   "tekst": "forskrift/2025-12-12-2557 fra 2026-01-01"
+   "ref": "forskrift/2026-11-13-2343",
+   "tekst": "forskrift/2026-11-13-2343"
   }
  ],
  "endrer": "forskrift/1991-10-18-671",
@@ -35,7 +35,7 @@
  "kunngjort": "2025-06-06 14:00",
  "korttittel": "Feltsikkerhetsforskriften",
  "tittel": "Forskrift om sikkerhet i felt mv. på Svalbard (feltsikkerhetsforskriften)",
- "annet": "Hjemmel: Fastsatt ved kgl.res. 6. juni 2025 med hjemmel i lov 17. juli 1925 nr. 11 om Svalbard § 4, lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven) § 3-1 og lov 11. juni 1976 nr. 79 om kontroll med produkter og forbrukertjenester (produktkontrolloven) § 8. Fremmet av Justis- og beredskapsdepartementet.\nEndret ved forskrift 12 des 2025 nr. 2557 (i kraft 1 jan 2026).",
+ "annet": "Hjemmel: Fastsatt ved kgl.res. 6. juni 2025 med hjemmel i lov 17. juli 1925 nr. 11 om Svalbard § 4, lov 17. juni 2005 nr. 62 om arbeidsmiljø, arbeidstid og stillingsvern mv. (arbeidsmiljøloven) § 3-1 og lov 11. juni 1976 nr. 79 om kontroll med produkter og forbrukertjenester (produktkontrolloven) § 8. Fremmet av Justis- og beredskapsdepartementet.\nEndret ved forskrifter 12 des 2025 nr. 2557 (i kraft 1 jan 2026), 13 nov 2026 nr. 2343.",
  "refid": "forskrift/2025-06-06-940",
  "eli": "/eli/forskrift/2025/06/06/940",
  "url": "https://lovdata.no/dokument/SF/forskrift/2025-06-06-940",
@@ -328,12 +328,12 @@
    "nummer": "§ 26",
    "tittel": "Ikrafttredelse og endring",
    "ledd": [
-    "Forskriften trer i kraft 1. januar 2026 med unntak av §§ 10–15 og § 24 som trer i kraft 1. juli 2027.",
+    "Forskriften trer i kraft 1. januar 2026 med unntak av §§ 10–15 og § 24 som trer i kraft fra det tidspunkt departementet bestemmer.",
     "Fra 1. januar 2026 oppheves forskrift 18. oktober 1991 nr. 671 om turisme, feltopplegg og annen reisevirksomhet på Svalbard.",
     "Justis- og beredskapsdepartementet kan endre beløpene i § 16 annet ledd bokstavene a til c."
    ],
    "endringer": [
-    "Endret ved forskrift 12 des 2025 nr. 2557 (i kraft 1 jan 2026)."
+    "Endret ved forskrifter 12 des 2025 nr. 2557 (i kraft 1 jan 2026), 13 nov 2026 nr. 2343."
    ]
   },
   {
@@ -342,9 +342,12 @@
    "nummer": "§ 27",
    "tittel": "Overgangsbestemmelse",
    "ledd": [
-    "For personer som kan gi tilstrekkelig dokumentasjon på at de over de tre siste årene har guidet minimum 1 500 timer, kan Sysselmesteren gi dispensasjon fra kravene i § 12. Dispensasjon kan bare gis der guidens erfaring etter Sysselmesterens skjønn dekker de kompetansemålene som fremkommer av § 11. En søknad om dispensasjon må være sendt inn til Sysselmesteren innen 1. januar 2027.",
+    "For personer som kan gi tilstrekkelig dokumentasjon på at de over de tre siste årene har guidet minimum 1 500 timer, kan Sysselmesteren gi dispensasjon fra kravene i § 12. Dispensasjon kan bare gis der guidens erfaring etter Sysselmesterens skjønn dekker de kompetansemålene som fremkommer av § 11. En søknad om dispensasjon må være sendt inn til Sysselmesteren innen det tidspunkt departementet bestemmer.",
     "Sysselmesteren fastsetter gebyr for behandling av søknader og for utstedelse av godkjenningsbevis, jf. § 12 syvende ledd.",
     "Sysselmesterens vedtak etter første ledd kan påklages til Nærings- og fiskeridepartementet. Departementet kan ikke overprøve Sysselmesterens skjønn etter første ledd."
+   ],
+   "endringer": [
+    "Endret ved forskrift 13 nov 2026 nr. 2343."
    ]
   },
   {
