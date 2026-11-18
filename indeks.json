@@ -1,5 +1,5 @@
 {
- "dataversjon": "2026-11-17.0159cc95",
+ "dataversjon": "2026-11-18.fcd305fa",
  "dokumenter": {
   "DEL/forskrift/1957-06-07-3391": {
    "fil": "data/delegeringer/1957/del-forskrift-1957-06-07-3391.json",
@@ -24406,8 +24406,8 @@
    "type": "forskrift",
    "tittel": "Forskrift til merverdiavgiftsloven (merverdiavgiftsforskriften)",
    "korttittel": "Merverdiavgiftsforskriften",
-   "sha256": "05c65ba3fd59b83033db64a0fc872abc1511ecca0fe2b1cf0c8798980407d578",
-   "endret": "2026-11-13"
+   "sha256": "1b83b78d67fa70f92e2aaa91d471051da57bc73b2c6c874f6fc1e4d05e8f872e",
+   "endret": "2026-11-18"
   },
   "forskrift/2009-12-15-1543": {
    "fil": "data/forskrifter/2009/forskrift-2009-12-15-1543.json",
@@ -29758,8 +29758,8 @@
    "type": "forskrift",
    "tittel": "Forskrift om biocider (Biocidforskriften)",
    "korttittel": "Biocidforskriften",
-   "sha256": "4c5c52932556d16a558f66364a8e587c104028e70e21da545d148dda898305b1",
-   "endret": "2026-11-13"
+   "sha256": "83c2d40e837fdd49a66437986bbe01b8ca80b61f30d0d1353e53a0635eb508f6",
+   "endret": "2026-11-18"
   },
   "forskrift/2017-04-19-674": {
    "fil": "data/forskrifter/2017/forskrift-2017-04-19-674.json",
@@ -34854,8 +34854,8 @@
    "type": "forskrift",
    "tittel": "Forskrift som utfyller dyrehelseforskriften med bestemmelser om import av visse levende dyr, avlsmateriale og animalske produkter fra tredjestater (dyreimportforskriften)",
    "korttittel": "Dyreimportforskriften",
-   "sha256": "054c7ffb77a70c638a05e3fd25c5e25f3c283012e5cef593f735bf7c831a47af",
-   "endret": "2026-11-14"
+   "sha256": "b461be66de92646f0afc70dceeaeb5bbaf78e90e0b613e1dac4181fb449292e6",
+   "endret": "2026-11-18"
   },
   "forskrift/2022-04-06-634": {
    "fil": "data/forskrifter/2022/forskrift-2022-04-06-634.json",
@@ -41224,6 +41224,22 @@
    "korttittel": null,
    "sha256": "6a82b7ba4c64854ea9ce0999702aa0d2125ed79ea62d443ea2ca939705496192",
    "endret": "2026-11-17"
+  },
+  "forskrift/2026-11-15-2361": {
+   "fil": "data/forskrifter/2026/forskrift-2026-11-15-2361.json",
+   "type": "forskrift",
+   "tittel": "Forskrift om endring i dyreimportforskriften for å gjennomføre endringer av tredjelandslista, forordning (EU) 2026/2503",
+   "korttittel": "Endr. i dyreimportforskriften",
+   "sha256": "241dbe42bf3316eb869cf6c601b5c8ff17b32f2b0f03536b0fe2058c64cc50b6",
+   "endret": "2026-11-18"
+  },
+  "forskrift/2026-11-16-2362": {
+   "fil": "data/forskrifter/2026/forskrift-2026-11-16-2362.json",
+   "type": "forskrift",
+   "tittel": "Forskrift om endring i merverdiavgiftsforskriften",
+   "korttittel": "Endr. i merverdiavgiftsforskriften",
+   "sha256": "d407f4729e084409a2bff113a1d681b13234741170aae67b336bfadd998294aa",
+   "endret": "2026-11-18"
   },
   "lov/1687-04-15": {
    "fil": "data/lover/1687/lov-1687-04-15.json",

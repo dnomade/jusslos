@@ -2724,8 +2724,8 @@
   "korttittel": "Biocidforskriften",
   "id": "forskrift/2017-04-18-480",
   "fil": "2017/forskrift-2017-04-18-480.json",
-  "sist_endret": "2026-10-09",
-  "endret_i_repo": "2026-11-13"
+  "sist_endret": "2026-11-11",
+  "endret_i_repo": "2026-11-18"
  },
  {
   "tittel": "Forskrift om bokføring",
@@ -4064,6 +4064,14 @@
   "endret_i_repo": "2026-11-13"
  },
  {
+  "tittel": "Forskrift om endring i dyreimportforskriften for å gjennomføre endringer av tredjelandslista, forordning (EU) 2026/2503",
+  "korttittel": "Endr. i dyreimportforskriften",
+  "id": "forskrift/2026-11-15-2361",
+  "fil": "2026/forskrift-2026-11-15-2361.json",
+  "sist_endret": "2026-12-03",
+  "endret_i_repo": "2026-11-18"
+ },
+ {
   "tittel": "Forskrift om endring i ERS-forskriften og opphevelse av forskrift om kystfiskeappen",
   "korttittel": null,
   "id": "forskrift/2025-12-01-2374",
@@ -4630,6 +4638,14 @@
   "fil": "2026/forskrift-2026-10-30-2189.json",
   "sist_endret": "2027-01-01",
   "endret_i_repo": "2026-11-13"
+ },
+ {
+  "tittel": "Forskrift om endring i merverdiavgiftsforskriften",
+  "korttittel": "Endr. i merverdiavgiftsforskriften",
+  "id": "forskrift/2026-11-16-2362",
+  "fil": "2026/forskrift-2026-11-16-2362.json",
+  "sist_endret": "2027-01-01",
+  "endret_i_repo": "2026-11-18"
  },
  {
   "tittel": "Forskrift om endring i rettsgebyrforskriften",
@@ -24941,7 +24957,7 @@
   "id": "forskrift/2022-04-06-633",
   "fil": "2022/forskrift-2022-04-06-633.json",
   "sist_endret": "2026-11-11",
-  "endret_i_repo": "2026-11-14"
+  "endret_i_repo": "2026-11-18"
  },
  {
   "tittel": "Forskrift som utfyller dyrehelseforskriften med bestemmelser om krav til biosikkerhet ved godkjenning av akvakulturanlegg og forflytninger av akvatiske dyr mv. (akvabiosikkerhetsforskriften)",
@@ -25421,7 +25437,7 @@
   "id": "forskrift/2009-12-15-1540",
   "fil": "2009/forskrift-2009-12-15-1540.json",
   "sist_endret": "2026-07-01",
-  "endret_i_repo": "2026-11-13"
+  "endret_i_repo": "2026-11-18"
  },
  {
   "tittel": "Forskrift til mesterbrevloven",

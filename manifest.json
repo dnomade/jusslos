@@ -1,20 +1,20 @@
 {
  "skjema": "1.0",
- "dataversjon": "2026-11-17.0159cc95",
- "forrige_dataversjon": "2026-11-15.71332b86",
- "oppdatert": "2026-11-17T03:15:53+00:00",
+ "dataversjon": "2026-11-18.fcd305fa",
+ "forrige_dataversjon": "2026-11-17.0159cc95",
+ "oppdatert": "2026-11-18T03:16:00+00:00",
  "antall": {
   "delegering": 1430,
-  "forskrift": 3452,
+  "forskrift": 3454,
   "instruks": 187,
   "lov": 753,
   "stortingsvedtak": 84
  },
  "endringer": {
-  "nye": 1,
-  "endret": 6,
-  "fjernet": 1,
-  "fil": "endringer/2026-11-17.json"
+  "nye": 2,
+  "endret": 3,
+  "fjernet": 0,
+  "fil": "endringer/2026-11-18.json"
  },
  "kilde": {
   "utgiver": "Lovdata",
@@ -26,9 +26,9 @@
     "sha256": "8681a5f279169c3186303d2e5909ea71feff69a4003ff8fc2ff60710813de5ac"
    },
    "gjeldende-sentrale-forskrifter.tar.bz2": {
-    "sist_endret": "2026-11-17T02:32:00Z",
-    "storrelse": 21529496,
-    "sha256": "0ae453974e407835219542482b4d94100859f88fd0828c39000e386366615a40"
+    "sist_endret": "2026-11-18T02:32:00Z",
+    "storrelse": 21529295,
+    "sha256": "26ee7bba9e0a519c56b5965df40c4f795d0b316409442222ef7d651fc5597871"
    }
   }
  },
