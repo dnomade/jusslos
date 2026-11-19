@@ -1,5 +1,5 @@
 {
- "dataversjon": "2026-11-18.fcd305fa",
+ "dataversjon": "2026-11-19.b03a6da4",
  "dokumenter": {
   "DEL/forskrift/1957-06-07-3391": {
    "fil": "data/delegeringer/1957/del-forskrift-1957-06-07-3391.json",
@@ -12761,14 +12761,6 @@
    "sha256": "e4692e1d8e2093c3eba3ed1879b592d3ca66bd1d8f8c92eafd4a903e8e064647",
    "endret": "2026-11-13"
   },
-  "INS/forskrift/2020-03-27-488": {
-   "fil": "data/instrukser/2020/ins-forskrift-2020-03-27-488.json",
-   "type": "instruks",
-   "tittel": "Mandat for forvaltningen av Statens obligasjonsfond",
-   "korttittel": "Mandat for forvaltningen av Statens obligasjonsfond",
-   "sha256": "ecd1626c6fd148f40b32590578898a8f75037fcaa10848b794d11847c4654cd3",
-   "endret": "2026-11-13"
-  },
   "INS/forskrift/2020-06-23-1296": {
    "fil": "data/instrukser/2020/ins-forskrift-2020-06-23-1296.json",
    "type": "instruks",
@@ -24318,8 +24310,8 @@
    "type": "forskrift",
    "tittel": "Forskrift om utlendingers adgang til riket og deres opphold her (utlendingsforskriften)",
    "korttittel": "Utlendingsforskriften",
-   "sha256": "f552e6e879e1936e5b17277c718ca2c500f390e132c9fbd3a725d80ec16c2d85",
-   "endret": "2026-11-13"
+   "sha256": "5896578fafe1e98ce7ce1c5f3f6b080b5cddb850217d8b16df8680a71a9369dc",
+   "endret": "2026-11-19"
   },
   "forskrift/2009-10-16-1280": {
    "fil": "data/forskrifter/2009/forskrift-2009-10-16-1280.json",
@@ -37878,16 +37870,16 @@
    "type": "forskrift",
    "tittel": "Forskrift for graden philosophiae doctor (ph.d.) ved Universitetet i Bergen",
    "korttittel": null,
-   "sha256": "16ce06d2d8004d7853896dc82f4f73be4a401cac3f110b2f15f8041d8215004e",
-   "endret": "2026-11-13"
+   "sha256": "a955c622d04d4bffb64e82d29a37d85ada4569ad78c482f32868b3f411f767fe",
+   "endret": "2026-11-19"
   },
   "forskrift/2025-02-13-283": {
    "fil": "data/forskrifter/2025/forskrift-2025-02-13-283.json",
    "type": "forskrift",
    "tittel": "Forskrift for graden philosophiae doctor (ph.d.) i kunstnerisk utviklingsarbeid ved Universitetet i Bergen",
    "korttittel": null,
-   "sha256": "0d69afc39435ae8947cb844d0cb35a0d920058798f51e944d7348dee5db6859d",
-   "endret": "2026-11-13"
+   "sha256": "531359d7c67e5b34fdec3406225b19d5a4105dc4418a06ec829604843bc8cc0f",
+   "endret": "2026-11-19"
   },
   "forskrift/2025-02-13-284": {
    "fil": "data/forskrifter/2025/forskrift-2025-02-13-284.json",
