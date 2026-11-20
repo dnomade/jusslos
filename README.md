@@ -15,6 +15,7 @@ Norske lover og sentrale forskrifter som maskinlesbar JSON, oppdatert hver natt 
 | `endringer/ÅÅÅÅ-MM-DD.json` | Hvilke dokumenter som ble nye, endret eller fjernet den dagen |
 | `schema/` | JSON-skjema for dokumentene og manifestet |
 | `verktoy/konverter.py` | Gjør JSON om til Markdown eller HTML |
+| `mcp/` | MCP-serveren på mcp.jusslos.no (Cloudflare Worker) |
 
 `ÅÅÅÅ` er årstallet i dokumentets id, altså året loven eller forskriften ble vedtatt. Arbeidsmiljøloven (`lov/2005-06-17-62`) ligger derfor i `data/lover/2005/lov-2005-06-17-62.json`. Inndelingen holder hver mappe under GitHubs visningsgrense på 1 000 filer, så `index.json` alltid vises.
 
@@ -89,6 +90,21 @@ python -m http.server -d _site
 ```
 
 Skriftene (Source Serif 4 og IBM Plex) ligger i `nettside/fonter/` under SIL Open Font License, så siden henter ingenting fra andre nettsteder.
+
+## MCP-server for KI-assistenter
+
+`https://mcp.jusslos.no/mcp` er en åpen MCP-server (Model Context Protocol, Streamable HTTP) med de samme lovene og forskriftene. Den trenger ingen nøkkel og har en grense på 60 kall i minuttet per IP-adresse. Legg adressen til som egen connector i Claude, ChatGPT, Cursor eller en annen MCP-klient.
+
+| Verktøy | Hva det gjør |
+|---|---|
+| `finn_lov` | Finner en lov eller forskrift ut fra navn, forkortelse eller id («husleieloven», «aml», «vegtrafikklova») |
+| `sok` | Fulltekstsøk i paragrafene, eventuelt i én lov |
+| `hent_paragraf` | Hele ordlyden i en paragraf, med kapittel og lenke til lovdata.no |
+| `innhold` | Kapitler og paragraftitler i en lov |
+| `forskrifter_til` | Forskrifter gitt med hjemmel i en lov eller paragraf |
+| `endringer` | Lover og forskrifter som er nye eller endret siden en dato |
+
+Serveren er en Cloudflare Worker i `mcp/` som leser fra en D1-database med samme innhold som repoet, fylt hver natt. Testene kjøres med `npm test` i `mcp/` og bruker et lite utdrag av databasen (`mcp/tester/testdata.sql`).
 
 ## Lisens og kreditering
 

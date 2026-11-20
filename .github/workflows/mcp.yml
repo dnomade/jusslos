@@ -1,0 +1,31 @@
+name: Test MCP-serveren
+
+# Tester MCP-Workeren i mcp/ på pull requests som endrer den. Ingen hemmeligheter.
+on:
+  pull_request:
+    paths: [mcp/**, .github/workflows/mcp.yml]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: mcp
+    steps:
+      - uses: actions/checkout@v5
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: mcp/package-lock.json
+      - run: npm ci
+      - name: Typesjekk
+        run: npm run typecheck
+      - name: Tester
+        run: npm test
+      - name: Bygg uten å publisere
+        run: npx wrangler deploy --dry-run --outdir /tmp/bygg
