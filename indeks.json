@@ -1,5 +1,5 @@
 {
- "dataversjon": "2026-11-19.b03a6da4",
+ "dataversjon": "2026-11-20.2e2e37d7",
  "dokumenter": {
   "DEL/forskrift/1957-06-07-3391": {
    "fil": "data/delegeringer/1957/del-forskrift-1957-06-07-3391.json",
@@ -11440,6 +11440,14 @@
    "korttittel": null,
    "sha256": "bf15bd1ae5befc38019b2afd88c2599f36232f4c4faa0deb37d31c1f349ff64c",
    "endret": "2026-11-14"
+  },
+  "DEL/forskrift/2026-11-18-2389": {
+   "fil": "data/delegeringer/2026/del-forskrift-2026-11-18-2389.json",
+   "type": "delegering",
+   "tittel": "Delegering av myndighet etter viltressursloven § 58 og § 59 fra Landbruks- og matdepartementet til Landbruksdirektoratet",
+   "korttittel": null,
+   "sha256": "210b3c60ce2c83a4a8367aaf0599f6cb99ebcf47d2bc22efef3da2b9b3a5eafc",
+   "endret": "2026-11-20"
   },
   "INS/forskrift/1905-11-15-1": {
    "fil": "data/instrukser/1905/ins-forskrift-1905-11-15-1.json",
@@ -28366,8 +28374,8 @@
    "type": "forskrift",
    "tittel": "Forskrift om prøvetaking og analyse for offentlig kontroll av visse forurensende stoffer i næringsmidler",
    "korttittel": "Forskrift om prøvetaking mv. for forurensende næringsmidler",
-   "sha256": "23a287d409897d1f4e07a1e8ac8f4ec92feafbb4ef1badf0985020e6e0305657",
-   "endret": "2026-11-13"
+   "sha256": "94f2be7bc2f88b967c0401be440ef6cb8a1a231f32db4531a3906fea61092514",
+   "endret": "2026-11-20"
   },
   "forskrift/2015-07-06-874": {
    "fil": "data/forskrifter/2015/forskrift-2015-07-06-874.json",
@@ -33582,8 +33590,8 @@
    "type": "forskrift",
    "tittel": "Forskrift om restriktive tiltak mot spredning og bruk av kjemiske våpen",
    "korttittel": "Forskrift om restriktive tiltak mot spredning og bruk av kjemiske våpen",
-   "sha256": "29b6be1ea95edb8dab0c0e8ad622748e166be4d285e93995902ada5701cb9074",
-   "endret": "2026-11-13"
+   "sha256": "f0fa66d80e56606e733f7dc3403bba26b3928b17fa55194741a07dfd5b95061e",
+   "endret": "2026-11-20"
   },
   "forskrift/2021-05-11-1458": {
    "fil": "data/forskrifter/2021/forskrift-2021-05-11-1458.json",
@@ -33734,8 +33742,8 @@
    "type": "forskrift",
    "tittel": "Forskrift om autorisasjonsprøven ved Norges Handelshøyskole for å bli statsautorisert translatør (translatøreksamen)",
    "korttittel": "Forskrift om translatøreksamen, NHH",
-   "sha256": "e5f38f4a687b0b70a08b16ac0f0354741e1842c379e6086691b571c4643a9c62",
-   "endret": "2026-11-13"
+   "sha256": "31f72e0286e2cbe95d5b34bee81c5a0b873383b0b9e16ac0cca14a29be3fcdc5",
+   "endret": "2026-11-20"
   },
   "forskrift/2021-06-18-1980": {
    "fil": "data/forskrifter/2021/forskrift-2021-06-18-1980.json",
@@ -41201,6 +41209,14 @@
    "sha256": "0130ed5ed9f34fe76319c5b2e76c94a62182caea54dc39e8e60e57408dd39197",
    "endret": "2026-11-13"
   },
+  "forskrift/2026-11-10-2387": {
+   "fil": "data/forskrifter/2026/forskrift-2026-11-10-2387.json",
+   "type": "forskrift",
+   "tittel": "Forskrift om autorisasjonsprøven ved Norges Handelshøyskole for å bli statsautorisert translatør",
+   "korttittel": null,
+   "sha256": "915e2e2ea71045058490bcc0074d2f48fa41bb1413b31b8ed8cea6981043bc0a",
+   "endret": "2026-11-20"
+  },
   "forskrift/2026-11-11-2336": {
    "fil": "data/forskrifter/2026/forskrift-2026-11-11-2336.json",
    "type": "forskrift",
@@ -41232,6 +41248,14 @@
    "korttittel": "Endr. i merverdiavgiftsforskriften",
    "sha256": "d407f4729e084409a2bff113a1d681b13234741170aae67b336bfadd998294aa",
    "endret": "2026-11-18"
+  },
+  "forskrift/2026-11-18-2405": {
+   "fil": "data/forskrifter/2026/forskrift-2026-11-18-2405.json",
+   "type": "forskrift",
+   "tittel": "Forskrift om satser mv. til bruk for forskudd og skattefastsetting for 2027",
+   "korttittel": "Satsforskriften 2027",
+   "sha256": "50561445b9d4486d28af7066df0a0bd74f9c55c6606142546f85d3092bdba974",
+   "endret": "2026-11-20"
   },
   "lov/1687-04-15": {
    "fil": "data/lover/1687/lov-1687-04-15.json",

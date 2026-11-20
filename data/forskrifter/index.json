@@ -1504,12 +1504,20 @@
   "endret_i_repo": "2026-11-13"
  },
  {
+  "tittel": "Forskrift om autorisasjonsprøven ved Norges Handelshøyskole for å bli statsautorisert translatør",
+  "korttittel": null,
+  "id": "forskrift/2026-11-10-2387",
+  "fil": "2026/forskrift-2026-11-10-2387.json",
+  "sist_endret": "2027-01-01",
+  "endret_i_repo": "2026-11-20"
+ },
+ {
   "tittel": "Forskrift om autorisasjonsprøven ved Norges Handelshøyskole for å bli statsautorisert translatør (translatøreksamen)",
   "korttittel": "Forskrift om translatøreksamen, NHH",
   "id": "forskrift/2021-06-17-2044",
   "fil": "2021/forskrift-2021-06-17-2044.json",
   "sist_endret": "2021-07-01",
-  "endret_i_repo": "2026-11-13"
+  "endret_i_repo": "2026-11-20"
  },
  {
   "tittel": "Forskrift om avfallshåndtering og avfalls- og avløpsgebyrer i Longyearbyen planområde",
@@ -16613,7 +16621,7 @@
   "id": "forskrift/2015-07-03-871",
   "fil": "2015/forskrift-2015-07-03-871.json",
   "sist_endret": "2026-06-09",
-  "endret_i_repo": "2026-11-13"
+  "endret_i_repo": "2026-11-20"
  },
  {
   "tittel": "Forskrift om prøvetaking og analysemetoder for restmengder av farmakologisk virksomme stoffer som brukes i dyr bestemt til næringsmiddelproduksjon",
@@ -18076,8 +18084,8 @@
   "korttittel": "Forskrift om restriktive tiltak mot spredning og bruk av kjemiske våpen",
   "id": "forskrift/2021-05-11-1456",
   "fil": "2021/forskrift-2021-05-11-1456.json",
-  "sist_endret": "2025-01-01",
-  "endret_i_repo": "2026-11-13"
+  "sist_endret": "2026-11-17",
+  "endret_i_repo": "2026-11-20"
  },
  {
   "tittel": "Forskrift om restriktive tiltak mot Syria",
@@ -18838,6 +18846,14 @@
   "fil": "2025/forskrift-2025-11-07-2216.json",
   "sist_endret": "2026-01-01",
   "endret_i_repo": "2026-11-13"
+ },
+ {
+  "tittel": "Forskrift om satser mv. til bruk for forskudd og skattefastsetting for 2027",
+  "korttittel": "Satsforskriften 2027",
+  "id": "forskrift/2026-11-18-2405",
+  "fil": "2026/forskrift-2026-11-18-2405.json",
+  "sist_endret": "Inntektsåret 2027",
+  "endret_i_repo": "2026-11-20"
  },
  {
   "tittel": "Forskrift om Schengen informasjonssystem (SIS-forskriften)",
