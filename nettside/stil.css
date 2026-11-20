@@ -70,6 +70,8 @@ th:last-child, td:last-child { padding-right: 0; }
 td.mappe { font-family: var(--mono); font-size: 14px; white-space: nowrap; }
 .tall { text-align: right; font-variant-numeric: tabular-nums; }
 td.beskrivelse { color: var(--dempet); }
+/* Tabeller med to korte kolonner (verktøyene i MCP-avsnittet) får plass på mobil uten sidelengs rulling. */
+table.smal-tabell { min-width: 0; }
 
 .logg { border-top: 1px solid var(--linje); }
 .logg li { display: flex; flex-wrap: wrap; gap: 4px 24px; padding: 12px 0; border-bottom: 1px solid var(--linje-lys); }

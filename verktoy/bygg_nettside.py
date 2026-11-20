@@ -292,6 +292,13 @@ def lag_llms(manifest: dict, endringer) -> str:
         "- Datasettet er lovtekst, ikke tolkning. Forarbeider, rettspraksis, rundskriv og juridisk teori er ikke med, "
         "så svar om hvordan en regel forstås, må bygge på flere kilder enn dette.",
         "",
+        "## MCP-server",
+        "",
+        "- https://mcp.jusslos.no/mcp er en åpen MCP-server (Streamable HTTP, ingen nøkkel, 60 kall i minuttet per IP) "
+        "med de samme dokumentene. Verktøy: finn_lov (navn eller forkortelse til id), sok (fulltekst i paragrafene), "
+        "hent_paragraf (hele ordlyden), innhold (kapitler og paragraftitler), forskrifter_til (forskrifter med hjemmel "
+        "i en lov) og endringer (nye og endrede dokumenter siden en dato).",
+        "",
         "## Oversikter",
         "",
         f"- [manifest.json]({raw}/manifest.json): dataversjon, antall per type og kilde",
