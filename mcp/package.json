@@ -12,7 +12,7 @@
     "zod": "4.1.12"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "5.20261104.1",
+    "@cloudflare/workers-types": "5.20261110.1",
     "@types/node": "22.20.4",
     "typescript": "5.9.3",
     "wrangler": "4.161.0"
