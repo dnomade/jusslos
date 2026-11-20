@@ -17,6 +17,7 @@
     <a class="logo" href="/">ju<span>§§</span>los</a>
     <nav aria-label="Innhold">
       <a href="#format">Format</a>
+      <a href="#mcp">MCP</a>
       <a href="#filer">Filer</a>
       <a href="#endringer">Endringer</a>
       <a href="#sporsmal">Spørsmål</a>
@@ -56,6 +57,28 @@ $eksempel_tekst
     <h2>Hent en lov</h2>
     <pre class="kommando">curl -O https://raw.githubusercontent.com/dnomade/jusslos/main/$eksempel_fil</pre>
     <p class="merknad smal" style="color: var(--dempet); font-size: 17px">Ingen konto eller nøkkel. Vil du ha Markdown eller HTML, bruk <code>verktoy/konverter.py</code>, som bare trenger Python. For å følge med på endringer: hent <a href="https://raw.githubusercontent.com/dnomade/jusslos/main/manifest.json">manifest.json</a> og sammenlign <code>dataversjon</code> med den du har.</p>
+  </section>
+
+  <section id="mcp">
+    <h2>Bruk lovene i en KI-assistent</h2>
+    <p class="forklaring smal">De samme lovene og forskriftene finnes som en åpen MCP-server (Model Context Protocol). Legg den til som egen connector i Claude, ChatGPT, Cursor eller en annen MCP-klient, så kan assistenten slå opp ordlyden selv i stedet for å huske den.</p>
+    <pre class="kommando">https://mcp.jusslos.no/mcp</pre>
+    <div class="tabellboks">
+      <table class="smal-tabell">
+        <thead>
+          <tr><th>Verktøy</th><th>Hva det gjør</th></tr>
+        </thead>
+        <tbody>
+          <tr><td class="mappe">finn_lov</td><td class="beskrivelse">Finner en lov eller forskrift ut fra navn eller forkortelse, for eksempel «husleieloven», «aml» eller «vegtrafikklova»</td></tr>
+          <tr><td class="mappe">sok</td><td class="beskrivelse">Fulltekstsøk i paragrafene, i alle lover eller i én</td></tr>
+          <tr><td class="mappe">hent_paragraf</td><td class="beskrivelse">Hele ordlyden i en paragraf, med kapittel og lenke til lovdata.no</td></tr>
+          <tr><td class="mappe">innhold</td><td class="beskrivelse">Kapitler og paragraftitler i en lov</td></tr>
+          <tr><td class="mappe">forskrifter_til</td><td class="beskrivelse">Forskrifter gitt med hjemmel i en lov eller en paragraf</td></tr>
+          <tr><td class="mappe">endringer</td><td class="beskrivelse">Lover og forskrifter som er nye eller endret siden en dato</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="merknad">Ingen konto eller nøkkel. Grensen er 60 kall i minuttet per IP-adresse. Serveren oppdateres hver natt sammen med repoet, og hvert svar oppgir Lovdata som kilde.</p>
   </section>
 
   <section id="filer">
