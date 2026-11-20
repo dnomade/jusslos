@@ -39,7 +39,9 @@ export default {
     if (url.pathname === "/" && req.method === "GET") {
       return new Response(forside(VERSJON), { headers: { "Content-Type": "text/html; charset=utf-8", "Cache-Control": "public, max-age=3600" } });
     }
-    if (url.pathname !== "/mcp") return new Response("Ikke funnet. MCP-serveren ligger på /mcp.", { status: 404 });
+    // Klienter som får bare https://mcp.jusslos.no (uten /mcp) sender POST til roten. Den behandles likt.
+    const erMcp = url.pathname === "/mcp" || (url.pathname === "/" && req.method !== "GET");
+    if (!erMcp) return new Response("Ikke funnet. MCP-serveren ligger på /mcp.", { status: 404 });
     if (req.method === "OPTIONS") return new Response(null, { status: 204, headers: CORS });
 
     // Tilstandsløs server: ingen strøm å åpne eller økt å avslutte.
