@@ -92,6 +92,6 @@ Skriftene (Source Serif 4 og IBM Plex) ligger i `nettside/fonter/` under SIL Ope
 
 ## Lisens og kreditering
 
-Koden er lisensiert under MIT, se `LICENSE`.
+Koden er lisensiert under MIT, se `LICENSE`. Lisensen for dataene står i `LISENS-DATA.md`.
 
 Dataene er hentet fra [Lovdata](https://lovdata.no) og tilgjengeliggjort under [Norsk lisens for offentlige data (NLOD 2.0)](https://data.norge.no/nlod/no/2.0). Den som bruker dataene videre, må kreditere Lovdata. Dette repoet er ikke tilknyttet Lovdata, og den offisielle teksten finnes på lovdata.no.
