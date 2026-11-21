@@ -275,6 +275,13 @@ export async function innhold(db: Db, dokumentId: string): Promise<Innholdslinje
 
 // ---------- Forskrifter og endringer ----------
 
+/** «§1-10, §1-2, §10-5» blir «§1-2, §1-10, §10-5»: i lovens rekkefølge, ikke som tekst, og uten dubletter. */
+export function sorterParagrafer(liste: string | null): string | null {
+  if (!liste) return liste;
+  const unike = [...new Set(liste.split(", "))];
+  return unike.sort((a, b) => a.localeCompare(b, "nb", { numeric: true })).join(", ");
+}
+
 export interface Forskrift extends Dokument {
   hjemmel: string | null;
 }
@@ -299,7 +306,7 @@ export async function forskrifterTil(db: Db, lovId: string, paragraf?: string, m
     )
     .bind(...verdier)
     .all<Forskrift>();
-  return results;
+  return results.map((f) => ({ ...f, hjemmel: sorterParagrafer(f.hjemmel) }));
 }
 
 export interface Endring extends Dokument {

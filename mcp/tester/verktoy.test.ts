@@ -1,7 +1,7 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
 import { testDb } from "./hjelp.ts";
-import { endringer, finnLov, forskrifterTil, hentParagraf, innhold, normaliserParagraf, sok } from "../src/verktoy.ts";
+import { sorterParagrafer, endringer, finnLov, forskrifterTil, hentParagraf, innhold, normaliserParagraf, sok } from "../src/verktoy.ts";
 
 const db = testDb();
 
@@ -70,4 +70,10 @@ test("forskrifter_til: parkeringsforskriften har hjemmel i vegtrafikkloven", asy
 test("endringer: datoformat og filter", async () => {
   assert.ok((await endringer(db, "2000-01-01")).length >= 4);
   assert.equal((await endringer(db, "2999-01-01")).length, 0);
+});
+
+test("sorterParagrafer: lovens rekkefølge, ikke tekst", () => {
+  assert.equal(sorterParagrafer("§1-10, §1-2, §10-5, §2-1, §1-7c, §1-7, §1-2"), "§1-2, §1-7, §1-7c, §1-10, §2-1, §10-5");
+  assert.equal(sorterParagrafer("§14A-1, §14-9, §2"), "§2, §14-9, §14A-1");
+  assert.equal(sorterParagrafer(null), null);
 });
