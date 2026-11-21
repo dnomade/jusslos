@@ -22,6 +22,7 @@ export function forside(versjon: string): string {
 <p>Adresse: <code>https://mcp.jusslos.no/mcp</code> (Streamable HTTP, ingen nøkkel). Legg den til som egen connector i Claude, ChatGPT, Cursor eller en annen MCP-klient.</p>
 <p>Verktøy: <code>finn_lov</code>, <code>sok</code>, <code>hent_paragraf</code>, <code>innhold</code>, <code>forskrifter_til</code> og <code>endringer</code>.</p>
 <p>Grense: 60 kall i minuttet per IP-adresse. Serveren gir lovtekst, ikke juridisk rådgivning.</p>
+<p>Serveren er et eksempel på hva dataene kan brukes til, ikke en produksjonsløsning. Den har ingen garanti for oppetid, verktøyene kan endres, og den kan bli stengt. Skal du bygge noe som skal i drift, bruk dataene direkte eller kjør din egen kopi av koden i <a href="https://github.com/dnomade/jusslos/tree/main/mcp">mcp/</a>.</p>
 <p class="dempet">Kilde: Lovdata, lisens <a href="https://data.norge.no/nlod/no/2.0">NLOD 2.0</a>. Data og kode: <a href="https://jusslos.no">jusslos.no</a> og <a href="https://github.com/dnomade/jusslos">github.com/dnomade/jusslos</a>. Versjon ${versjon}.</p>
 </body>
 </html>`;
