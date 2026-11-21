@@ -95,6 +95,8 @@ Skriftene (Source Serif 4 og IBM Plex) ligger i `nettside/fonter/` under SIL Ope
 
 `https://mcp.jusslos.no/mcp` er en åpen MCP-server (Model Context Protocol, Streamable HTTP) med de samme lovene og forskriftene. Den trenger ingen nøkkel og har en grense på 60 kall i minuttet per IP-adresse. Legg adressen til som egen connector i Claude, ChatGPT, Cursor eller en annen MCP-klient.
 
+Serveren er et eksempel på hva dataene i repoet kan brukes til, ikke en produksjonsløsning. Den har ingen garanti for oppetid, verktøyene og svarformatet kan endres, og den kan bli stengt. Skal du bygge noe som skal i drift, bruk dataene direkte eller kjør din egen kopi av koden i `mcp/`.
+
 | Verktøy | Hva det gjør |
 |---|---|
 | `finn_lov` | Finner en lov eller forskrift ut fra navn, forkortelse eller id («husleieloven», «aml», «vegtrafikklova») |

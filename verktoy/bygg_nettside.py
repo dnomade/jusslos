@@ -297,7 +297,8 @@ def lag_llms(manifest: dict, endringer) -> str:
         "- https://mcp.jusslos.no/mcp er en åpen MCP-server (Streamable HTTP, ingen nøkkel, 60 kall i minuttet per IP) "
         "med de samme dokumentene. Verktøy: finn_lov (navn eller forkortelse til id), sok (fulltekst i paragrafene), "
         "hent_paragraf (hele ordlyden), innhold (kapitler og paragraftitler), forskrifter_til (forskrifter med hjemmel "
-        "i en lov) og endringer (nye og endrede dokumenter siden en dato).",
+        "i en lov) og endringer (nye og endrede dokumenter siden en dato). Serveren er et eksempel på bruk av dataene, "
+        "ikke en produksjonsløsning: ingen garanti for oppetid, og verktøyene kan endres.",
         "",
         "## Oversikter",
         "",

@@ -22,6 +22,10 @@ const STOPPORD = new Set(
   ).split(" "),
 );
 
+// Endringslover og endringsforskrifter («Lov om endring i …», «Forskrift om endring i …») er allerede innarbeidet
+// i dokumentet de endrer, og gir bare støy i søk og lister.
+const UTEN_ENDRINGSDOKUMENTER = "d.tittel NOT LIKE 'Lov om endring%' AND d.tittel NOT LIKE 'Forskrift om endring%' AND d.tittel NOT LIKE 'Forskrift om endringer%'";
+
 export interface Dokument {
   id: string;
   type: string;
@@ -35,10 +39,11 @@ export interface Dokument {
 const DOKUMENTFELT = `d.id, d.type, COALESCE(d.korttittel, d.tittel) AS navn, d.tittel, d.url, d.ikraft, d.siste_endring_ikraft`;
 
 /** FTS5-spørring av fritekst: hvert ord som prefiks, bundet sammen med OR. Null når ingen ord gjenstår. */
-export function lagSporring(tekst: string): string | null {
+export function lagSporring(tekst: string, stammelengde?: number): string | null {
   const ord = tekst.toLowerCase().match(/[\p{L}\p{N}]+/gu) ?? [];
   const unike = [...new Set(ord.filter((o) => o.length >= 3 && !/^\d+$/.test(o) && !STOPPORD.has(o)))].slice(0, 12);
-  return unike.length ? unike.map((o) => `"${o}"*`).join(" OR ") : null;
+  const termer = [...new Set(stammelengde ? unike.map((o) => o.slice(0, stammelengde)) : unike)];
+  return termer.length ? termer.map((o) => `"${o}"*`).join(" OR ") : null;
 }
 
 /** Lenke rett til paragrafen på lovdata.no, f.eks. …/lov/2005-06-17-62/§15-7. */
@@ -175,17 +180,32 @@ export interface Paragraftreff {
   url: string;
 }
 
+/**
+ * Hvordan søket rangerer. Standardverdiene er de som er målt best (se maling/README.md).
+ * lovVekt: BM25-poengsummen til paragrafer i lover ganges med dette (over 1 løfter lover foran forskrifter).
+ * stammer: lovlista bygges med ordstammer på 4 bokstaver («mobbet» -> «mobb»*), som i lovfinner.
+ * lovlinjer: hverdagsord per lov (id -> tekst). Lover der søkeordene står i linjen, løftes i lovlista.
+ */
+export interface Sokeoppsett {
+  lovVekt: number;
+  stammer: boolean;
+  lovlinjer: Record<string, string> | null;
+}
+
+export const STANDARD_OPPSETT: Sokeoppsett = { lovVekt: 2, stammer: false, lovlinjer: null };
+
 /** Fulltekstsøk i paragrafene. Kan avgrenses til dokumenttyper eller til ett dokument. */
 export async function sok(
   db: Db,
   tekst: string,
-  valg: { typer?: Dokumenttype[]; dokumentId?: string; maks?: number } = {},
+  valg: { typer?: Dokumenttype[]; dokumentId?: string; maks?: number; oppsett?: Partial<Sokeoppsett> } = {},
 ): Promise<Paragraftreff[] | null> {
+  const oppsett = { ...STANDARD_OPPSETT, ...valg.oppsett };
   const sporring = lagSporring(tekst);
   if (!sporring) return null;
   const typer = valg.typer?.length ? valg.typer : (["lov", "forskrift"] as Dokumenttype[]);
-  const verdier: unknown[] = [sporring, Math.min(valg.maks ?? 10, 30)];
-  let filter = `d.type IN (${typer.map((t) => (verdier.push(t), `?${verdier.length}`)).join(", ")}) AND d.sprak IS NULL`;
+  const verdier: unknown[] = [sporring, Math.min(valg.maks ?? 10, 30), oppsett.lovVekt];
+  let filter = `d.type IN (${typer.map((t) => (verdier.push(t), `?${verdier.length}`)).join(", ")}) AND d.sprak IS NULL AND ${UTEN_ENDRINGSDOKUMENTER}`;
   if (valg.dokumentId) {
     verdier.push(valg.dokumentId);
     filter += ` AND d.id = ?${verdier.length}`;
@@ -198,12 +218,64 @@ export async function sok(
        JOIN paragrafer p ON p.id = paragraf_sok.rowid
        JOIN dokumenter d ON d.id = p.dokument_id
        WHERE paragraf_sok MATCH ?1 AND ${filter} AND p.opphevet IS NULL
-       ORDER BY bm25(paragraf_sok, 2, 6, 1)
+       ORDER BY bm25(paragraf_sok, 2, 6, 1) * (CASE WHEN d.type = 'lov' THEN ?3 ELSE 1 END)
        LIMIT ?2`,
     )
     .bind(...verdier)
     .all<Paragraftreff>();
   return results.map((r) => ({ ...r, url: lovdataLenke(r.url, r.nummer) }));
+}
+
+export interface Lovtreff {
+  id: string;
+  navn: string;
+  url: string;
+}
+
+/**
+ * Lovene der søkeordene står oftest, rangert etter summen av BM25 for paragrafene deres. Gir modellen et
+ * overblikk når ingen enkeltparagraf treffer godt. Med lovlinjer flettes lover der søkeordene står i
+ * hverdagsbeskrivelsen inn (rangfletting, 1/(60 + plass)).
+ */
+export async function lovKandidater(db: Db, tekst: string, maks = 5, oppsett: Partial<Sokeoppsett> = {}): Promise<Lovtreff[]> {
+  const o = { ...STANDARD_OPPSETT, ...oppsett };
+  const sporring = lagSporring(tekst, o.stammer ? 4 : undefined);
+  if (!sporring) return [];
+  const { results } = await db
+    .prepare(
+      `WITH treff AS (
+         SELECT rowid AS id, bm25(paragraf_sok, 2, 6, 1) AS r
+         FROM paragraf_sok WHERE paragraf_sok MATCH ?1
+         ORDER BY r LIMIT 5000)
+       SELECT d.id, COALESCE(d.korttittel, d.tittel) AS navn, d.url
+       FROM treff t
+       JOIN paragrafer p ON p.id = t.id
+       JOIN dokumenter d ON d.id = p.dokument_id
+       WHERE d.type = 'lov' AND d.sprak IS NULL AND ${UTEN_ENDRINGSDOKUMENTER}
+       GROUP BY d.id
+       ORDER BY SUM(t.r)
+       LIMIT 50`,
+    )
+    .bind(sporring)
+    .all<Lovtreff>();
+  if (!o.lovlinjer) return results.slice(0, maks);
+
+  const ord = (tekst.toLowerCase().match(/[\p{L}\p{N}]+/gu) ?? []).filter((w) => w.length >= 4 && !STOPPORD.has(w)).map((w) => w.slice(0, 5));
+  const poeng = new Map<string, number>();
+  results.forEach((l, i) => poeng.set(l.id, 1 / (60 + i)));
+  const linjetreff: [string, number][] = [];
+  for (const [id, linje] of Object.entries(o.lovlinjer)) {
+    if (id.startsWith("_")) continue;
+    const ordILinje = linje.toLowerCase().match(/[\p{L}\p{N}]+/gu) ?? [];
+    const antall = new Set(ord.filter((w) => ordILinje.some((l) => l.startsWith(w)))).size;
+    if (antall) linjetreff.push([id, antall]);
+  }
+  linjetreff.sort((a, b) => b[1] - a[1]);
+  linjetreff.forEach(([id], i) => poeng.set(id, (poeng.get(id) ?? 0) + 1 / (60 + i)));
+  const rekkefolge = [...poeng.entries()].sort((a, b) => b[1] - a[1]).slice(0, maks).map(([id]) => id);
+  const mangler = rekkefolge.filter((id) => !results.some((r) => r.id === id));
+  const ekstra = await hentDokumenter(db, mangler);
+  return rekkefolge.map((id) => results.find((r) => r.id === id) ?? ekstra.find((d) => d.id === id)).filter((l): l is Lovtreff => !!l);
 }
 
 // ---------- Paragraf og innhold ----------
@@ -299,7 +371,7 @@ export async function forskrifterTil(db: Db, lovId: string, paragraf?: string, m
       `SELECT ${DOKUMENTFELT}, GROUP_CONCAT(h.paragraf, ', ') AS hjemmel
        FROM hjemmel h
        JOIN dokumenter d ON d.id = h.dokument_id
-       WHERE h.lov_refid = ?1 AND d.type = 'forskrift' AND d.sprak IS NULL${filter}
+       WHERE h.lov_refid = ?1 AND d.type = 'forskrift' AND d.sprak IS NULL AND ${UTEN_ENDRINGSDOKUMENTER}${filter}
        GROUP BY d.id
        ORDER BY navn
        LIMIT ?2`,
