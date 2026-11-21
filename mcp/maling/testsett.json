@@ -1,0 +1,803 @@
+{
+ "navn": "standard",
+ "beskrivelse": "De 60 standardspørsmålene fra lovfinner, med søkeord slik en KI-assistent typisk ville søkt. Fasit: lov og paragraf.",
+ "sporsmal": [
+  {
+   "sporsmal": "Sjefen min vil si meg opp mens jeg er sykmeldt. Kan han det?",
+   "sokeord": "oppsigelse sykmeldt",
+   "fasit": [
+    {
+     "lov": "lov/2005-06-17-62",
+     "navn": "arbeidsmiljøloven",
+     "par": [
+      "§ 15-8"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Jeg har jobbet mye ekstra i det siste. Hvor mye overtid kan arbeidsgiver kreve av meg?",
+   "sokeord": "overtid arbeidsgiver pålegge",
+   "fasit": [
+    {
+     "lov": "lov/2005-06-17-62",
+     "navn": "arbeidsmiljøloven",
+     "par": [
+      "§ 10-6"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Jeg fikk sparken etter fire måneder i prøvetiden. Er det lov?",
+   "sokeord": "prøvetid oppsigelse",
+   "fasit": [
+    {
+     "lov": "lov/2005-06-17-62",
+     "navn": "arbeidsmiljøloven",
+     "par": [
+      "§ 15-6"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Jeg har gått på vikariat i fire år. Har jeg krav på fast stilling nå?",
+   "sokeord": "midlertidig ansatt vikariat fast ansettelse",
+   "fasit": [
+    {
+     "lov": "lov/2005-06-17-62",
+     "navn": "arbeidsmiljøloven",
+     "par": [
+      "§ 14-9"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Jeg vil si fra om at lederen min jukser med regnskapet. Er jeg beskyttet?",
+   "sokeord": "varsling kritikkverdige forhold gjengjeldelse",
+   "fasit": [
+    {
+     "lov": "lov/2005-06-17-62",
+     "navn": "arbeidsmiljøloven",
+     "par": [
+      "§ 2 A-1",
+      "§ 2 A-4"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Hvor mange dager ferie har jeg rett på i året?",
+   "sokeord": "feriedager ferie lengde",
+   "fasit": [
+    {
+     "lov": "lov/1988-04-29-21",
+     "navn": "ferieloven",
+     "par": [
+      "§ 5"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Hvordan regnes feriepengene mine ut?",
+   "sokeord": "feriepenger beregning",
+   "fasit": [
+    {
+     "lov": "lov/1988-04-29-21",
+     "navn": "ferieloven",
+     "par": [
+      "§ 10"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Utleieren vil ha seks måneders husleie i depositum. Kan han kreve det?",
+   "sokeord": "depositum husleie",
+   "fasit": [
+    {
+     "lov": "lov/1999-03-26-17",
+     "navn": "husleieloven",
+     "par": [
+      "§ 3-5"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Hvor lang oppsigelsestid har jeg på leiligheten jeg leier?",
+   "sokeord": "oppsigelsestid leieavtale",
+   "fasit": [
+    {
+     "lov": "lov/1999-03-26-17",
+     "navn": "husleieloven",
+     "par": [
+      "§ 9-6"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Huseieren øker leien min hvert år. Hvor mye kan han sette den opp?",
+   "sokeord": "leieøkning husleie indeksregulering",
+   "fasit": [
+    {
+     "lov": "lov/1999-03-26-17",
+     "navn": "husleieloven",
+     "par": [
+      "§ 4-2"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Mobilen jeg kjøpte for to og et halvt år siden har sluttet å virke. Kan jeg fortsatt klage til butikken?",
+   "sokeord": "reklamasjon mangel frist forbruker",
+   "fasit": [
+    {
+     "lov": "lov/2002-06-21-34",
+     "navn": "forbrukerkjøpsloven",
+     "par": [
+      "§ 27"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Jeg bestilte en jakke på nett og angrer. Hvor lenge har jeg på meg å returnere den?",
+   "sokeord": "angrerett returnere nettkjøp",
+   "fasit": [
+    {
+     "lov": "lov/2014-06-20-27",
+     "navn": "angrerettloven",
+     "par": [
+      "§ 21"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Jeg kjøpte en brukt bil av en privatperson på Finn, og girkassen røk etter en uke.",
+   "sokeord": "kjøp brukt bil mangel privat",
+   "fasit": [
+    {
+     "lov": "lov/1988-05-13-27",
+     "navn": "kjøpsloven",
+     "par": []
+    }
+   ]
+  },
+  {
+   "sporsmal": "Snekkeren gjorde en elendig jobb på badet mitt. Hva kan jeg kreve?",
+   "sokeord": "håndverker mangel tjeneste forbruker",
+   "fasit": [
+    {
+     "lov": "lov/1989-06-16-63",
+     "navn": "håndverkertjenesteloven",
+     "par": []
+    }
+   ]
+  },
+  {
+   "sporsmal": "Vi kjøpte hus og oppdaget fukt i kjelleren som selger ikke sa noe om.",
+   "sokeord": "skjulte feil bolig mangel opplysningsplikt selger",
+   "fasit": [
+    {
+     "lov": "lov/1992-07-03-93",
+     "navn": "avhendingslova",
+     "par": []
+    }
+   ]
+  },
+  {
+   "sporsmal": "Naboen i sameiet leier ut leiligheten sin på Airbnb hele tiden. Er det lov?",
+   "sokeord": "utleie seksjon korttidsutleie sameie",
+   "fasit": [
+    {
+     "lov": "lov/2017-06-16-65",
+     "navn": "eierseksjonsloven",
+     "par": []
+    }
+   ]
+  },
+  {
+   "sporsmal": "Hytta vår står på festetomt. Kan vi kreve å kjøpe tomten?",
+   "sokeord": "festetomt innløsning feste",
+   "fasit": [
+    {
+     "lov": "lov/1996-12-20-106",
+     "navn": "tomtefesteloven",
+     "par": [
+      "§ 32"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Naboens store trær skygger for hele hagen min. Kan jeg kreve at de felles?",
+   "sokeord": "trær naboeiendom skygge felling",
+   "fasit": [
+    {
+     "lov": "lov/1961-06-16-15",
+     "navn": "grannelova",
+     "par": []
+    }
+   ]
+  },
+  {
+   "sporsmal": "Må jeg søke kommunen for å bygge en garasje på 40 kvadratmeter?",
+   "sokeord": "søknadsplikt garasje bygning tiltak",
+   "fasit": [
+    {
+     "lov": "lov/2008-06-27-71",
+     "navn": "plan- og bygningsloven",
+     "par": []
+    },
+    {
+     "lov": "forskrift/2010-03-26-488",
+     "navn": "byggesaksforskriften",
+     "par": [
+      "§ 4-1"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Eksen min nekter meg å se barna våre. Hvilke rettigheter har jeg?",
+   "sokeord": "samvær barn samværsrett",
+   "fasit": [
+    {
+     "lov": "lov/1981-04-08-7",
+     "navn": "barnelova",
+     "par": [
+      "§ 43"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Vi skal skilles. Hvordan blir formuen vår delt?",
+   "sokeord": "skilsmisse deling formue likedeling",
+   "fasit": [
+    {
+     "lov": "lov/1991-07-04-47",
+     "navn": "ekteskapsloven",
+     "par": [
+      "§ 58"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Kan faren min gjøre meg arveløs i testamentet sitt?",
+   "sokeord": "arveløs pliktdelsarv testament",
+   "fasit": [
+    {
+     "lov": "lov/2019-06-14-21",
+     "navn": "arveloven",
+     "par": [
+      "§ 50"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Moren min har demens og klarer ikke lenger økonomien sin selv. Hva gjør vi?",
+   "sokeord": "verge fremtidsfullmakt demens",
+   "fasit": [
+    {
+     "lov": "lov/2010-03-26-9",
+     "navn": "vergemålsloven",
+     "par": []
+    }
+   ]
+  },
+  {
+   "sporsmal": "Har sønnen min på ett år rett til barnehageplass?",
+   "sokeord": "barnehageplass rett",
+   "fasit": [
+    {
+     "lov": "lov/2005-06-17-64",
+     "navn": "barnehageloven",
+     "par": []
+    }
+   ]
+  },
+  {
+   "sporsmal": "Datteren min blir mobbet på skolen, og skolen gjør ingenting.",
+   "sokeord": "mobbing skole skolemiljø",
+   "fasit": [
+    {
+     "lov": "lov/2023-06-09-30",
+     "navn": "opplæringslova",
+     "par": []
+    }
+   ]
+  },
+  {
+   "sporsmal": "Jeg har vært sykmeldt i nesten ett år. Hva skjer med sykepengene?",
+   "sokeord": "sykepenger maksimal periode",
+   "fasit": [
+    {
+     "lov": "lov/1997-02-28-19",
+     "navn": "folketrygdloven",
+     "par": []
+    }
+   ]
+  },
+  {
+   "sporsmal": "Jeg har ikke penger til mat og husleie denne måneden. Kan NAV hjelpe meg?",
+   "sokeord": "økonomisk stønad livsopphold",
+   "fasit": [
+    {
+     "lov": "lov/2009-12-18-131",
+     "navn": "sosialtjenesteloven",
+     "par": [
+      "§ 18"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Jeg vil lese hva legen har skrevet om meg i journalen.",
+   "sokeord": "innsyn journal pasient",
+   "fasit": [
+    {
+     "lov": "lov/1999-07-02-63",
+     "navn": "pasient- og brukerrettighetsloven",
+     "par": [
+      "§ 5-1"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Kan jeg trekke fra reiseutgiftene mellom hjemmet og jobben på skatten?",
+   "sokeord": "fradrag reiseutgifter hjem arbeid",
+   "fasit": [
+    {
+     "lov": "lov/1999-03-26-14",
+     "navn": "skatteloven",
+     "par": [
+      "§ 6-44"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Jeg har fått inkassobrev uten å ha fått purring først.",
+   "sokeord": "inkasso betalingsoppfordring purring",
+   "fasit": [
+    {
+     "lov": "lov/1988-05-13-26",
+     "navn": "inkassoloven",
+     "par": [
+      "§ 9"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Noen har opprettet en falsk Facebook-profil i mitt navn og lurer vennene mine.",
+   "sokeord": "identitetskrenkelse falsk profil",
+   "fasit": [
+    {
+     "lov": "lov/2005-05-20-28",
+     "navn": "straffeloven",
+     "par": [
+      "§ 202"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "En person har sendt meldinger om at han skal skade meg.",
+   "sokeord": "trusler skade",
+   "fasit": [
+    {
+     "lov": "lov/2005-05-20-28",
+     "navn": "straffeloven",
+     "par": [
+      "§ 263"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Hva er promillegrensen for å kjøre bil?",
+   "sokeord": "promille alkohol kjøring",
+   "fasit": [
+    {
+     "lov": "lov/1965-06-18-4",
+     "navn": "vegtrafikkloven",
+     "par": [
+      "§ 22"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Kommunen avslo byggesøknaden min. Hvor lang tid har jeg på å klage?",
+   "sokeord": "klagefrist vedtak",
+   "fasit": [
+    {
+     "lov": "lov/1967-02-10",
+     "navn": "forvaltningsloven",
+     "par": [
+      "§ 29"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Jeg vil se e-postene kommunen har sendt om reguleringsplanen i nabolaget.",
+   "sokeord": "innsyn dokumenter offentlig",
+   "fasit": [
+    {
+     "lov": "lov/2006-05-19-16",
+     "navn": "offentleglova",
+     "par": []
+    }
+   ]
+  },
+  {
+   "sporsmal": "En nettbutikk nekter å slette kundeopplysningene mine.",
+   "sokeord": "sletting personopplysninger",
+   "fasit": [
+    {
+     "lov": "lov/2018-06-15-38",
+     "navn": "personopplysningsloven",
+     "par": []
+    }
+   ]
+  },
+  {
+   "sporsmal": "Jeg ble ikke kalt inn til intervju fordi jeg er gravid.",
+   "sokeord": "graviditet diskriminering ansettelse",
+   "fasit": [
+    {
+     "lov": "lov/2017-06-16-51",
+     "navn": "likestillings- og diskrimineringsloven",
+     "par": []
+    }
+   ]
+  },
+  {
+   "sporsmal": "Jeg vil saksøke håndverkeren. Må jeg gå til forliksrådet først?",
+   "sokeord": "forliksråd søksmål",
+   "fasit": [
+    {
+     "lov": "lov/2005-06-17-90",
+     "navn": "tvisteloven",
+     "par": []
+    }
+   ]
+  },
+  {
+   "sporsmal": "Naboen holder hunden sin innestengt på balkongen hele dagen.",
+   "sokeord": "dyrevelferd hund innestengt",
+   "fasit": [
+    {
+     "lov": "lov/2009-06-19-97",
+     "navn": "dyrevelferdsloven",
+     "par": []
+    }
+   ]
+  },
+  {
+   "sporsmal": "En bedrift dumper avfall i bekken ved hytta vår.",
+   "sokeord": "forurensning avfall utslipp",
+   "fasit": [
+    {
+     "lov": "lov/1981-03-13-6",
+     "navn": "forurensningsloven",
+     "par": []
+    }
+   ]
+  },
+  {
+   "sporsmal": "Hei! Æ trur æ har blitt lurt skikkelig. I går oppdaga æ at nånn har trekt over 15 000 kroner fra bankkortet mitt på ei utelandsk nettsie æ aldri har vært innpå. Banken si at siden det vart godkjent med BankID, så må æ ta tapet sjøl, men æ skjønne itj koss dæm har fått tak i det. Ka gjør æ no? Har æ ingen rettigheta når det e snakk om svindel?",
+   "sokeord": "svindel bankkort ansvar betalingstransaksjon",
+   "fasit": [
+    {
+     "lov": "lov/2020-12-18-146",
+     "navn": "finansavtaleloven",
+     "par": [
+      "§ 4-30"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Hei! Jeg var ute for en ulykke for noen måneder siden da jeg ble på kjørt på sykkel av en bil i et fotgjengerfelt. Jeg slapp heldigvis unna med livet i behold, men fikk kraftige brudd i armen og nakkeslengplager som gjør at jeg fortsatt er sykmeldt fra jobben. Forsikringsselskapet til bilisten har begynt å ta kontakt, og de tilbyr meg nå et engangsoppgjør for å gjøre seg ferdig med saken. Men jeg sliter fremdeles med store smerter, klarer ikke å jobbe fullt, og er usikker på om disse plagene vil vare ved. Jeg aner ikke om beløpet de tilbyr dekker det jeg faktisk kan tape av inntekt og fremtidige utgifter. Kan dere hjelpe meg å forstå hva jeg har krav på, og om jeg bør takke ja til dette tilbudet eller kreve en uavhengig vurdering?",
+   "sokeord": "personskade erstatning inntektstap forsikringsoppgjør",
+   "fasit": [
+    {
+     "lov": "lov/1969-06-13-26",
+     "navn": "skadeserstatningsloven",
+     "par": [
+      "§ 3-1"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Naboen min ringer meg hele natten, hva kan jeg gjøre?",
+   "sokeord": "plagsom oppførsel krenke fred",
+   "fasit": [
+    {
+     "lov": "lov/2005-05-20-28",
+     "navn": "straffeloven",
+     "par": [
+      "§ 266",
+      "§ 266 a"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Utleieren låste seg inn i leiligheten min mens jeg var på jobb, uten å si fra først. Har han lov til det?",
+   "sokeord": "utleier adgang leilighet",
+   "fasit": [
+    {
+     "lov": "lov/1999-03-26-17",
+     "navn": "husleieloven",
+     "par": [
+      "§ 5-6"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Mobilen jeg kjøpte for to år og tre måneder siden har sluttet å virke. Butikken sier garantien er gått ut. Må jeg betale reparasjonen selv?",
+   "sokeord": "reklamasjon mobil to år",
+   "fasit": [
+    {
+     "lov": "lov/2002-06-21-34",
+     "navn": "forbrukerkjøpsloven",
+     "par": [
+      "§ 27"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Sjefen sier jeg bare kan ta to uker fri i sommer fordi det er så mye å gjøre. Kan han nekte meg tre uker sammenhengende?",
+   "sokeord": "fellesferie sammenhengende ferie arbeidsgiver",
+   "fasit": [
+    {
+     "lov": "lov/1988-04-29-21",
+     "navn": "ferieloven",
+     "par": [
+      "§ 7"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Naboen brenner plast og søppel i en tønne i hagen, og røyken siver inn i huset vårt. Er det lov?",
+   "sokeord": "brenning avfall forurensning",
+   "fasit": [
+    {
+     "lov": "lov/1981-03-13-6",
+     "navn": "forurensningsloven",
+     "par": [
+      "§ 7",
+      "§ 28"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Noen har dumpet en gammel bil og en haug med bildekk i skogen min. Hvem må rydde opp?",
+   "sokeord": "forsøpling opprydding avfall",
+   "fasit": [
+    {
+     "lov": "lov/1981-03-13-6",
+     "navn": "forurensningsloven",
+     "par": [
+      "§ 37",
+      "§ 28"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Det har lekket fyringsolje fra en gammel nedgravd tank hos naboen, og nå er det olje i brønnen vår. Kan vi kreve erstatning?",
+   "sokeord": "oljeforurensning erstatning",
+   "fasit": [
+    {
+     "lov": "lov/1981-03-13-6",
+     "navn": "forurensningsloven",
+     "par": [
+      "§ 55",
+      "§ 57"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Septiktanken på hytta er full og lukter, men kommunen har ikke tømt den på tre år selv om vi betaler gebyr.",
+   "sokeord": "slamtømming septiktank kommune",
+   "fasit": [
+    {
+     "lov": "lov/1981-03-13-6",
+     "navn": "forurensningsloven",
+     "par": [
+      "§ 26",
+      "§ 34"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Jeg ble spurt i jobbintervjuet om jeg planlegger å få barn de neste årene. Har de lov til å spørre om det?",
+   "sokeord": "graviditet familieplaner jobbintervju",
+   "fasit": [
+    {
+     "lov": "lov/2017-06-16-51",
+     "navn": "likestillings- og diskrimineringsloven",
+     "par": [
+      "§ 30"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Jeg tjener 60 000 kroner mindre i året enn en mannlig kollega som gjør akkurat samme jobb.",
+   "sokeord": "likelønn kvinner menn",
+   "fasit": [
+    {
+     "lov": "lov/2017-06-16-51",
+     "navn": "likestillings- og diskrimineringsloven",
+     "par": [
+      "§ 34"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Etter at jeg klaget på at jeg ble forskjellsbehandlet, fikk jeg plutselig bare de dårligste vaktene. Kan de gjøre det?",
+   "sokeord": "gjengjeldelse klage diskriminering",
+   "fasit": [
+    {
+     "lov": "lov/2017-06-16-51",
+     "navn": "likestillings- og diskrimineringsloven",
+     "par": [
+      "§ 14"
+     ]
+    },
+    {
+     "lov": "lov/2005-06-17-62",
+     "navn": "arbeidsmiljøloven",
+     "par": [
+      "§ 2 A-4"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Sønnen min med Downs syndrom fikk ikke bli med på svømmekurset til kommunen fordi de mente det ble for mye ekstraarbeid.",
+   "sokeord": "tilrettelegging funksjonsnedsettelse diskriminering",
+   "fasit": [
+    {
+     "lov": "lov/2017-06-16-51",
+     "navn": "likestillings- og diskrimineringsloven",
+     "par": [
+      "§ 20",
+      "§ 6"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Utleieren sa rett ut at han ikke leier ut til folk fra Afrika. Kan han det?",
+   "sokeord": "etnisitet diskriminering utleie bolig",
+   "fasit": [
+    {
+     "lov": "lov/2017-06-16-51",
+     "navn": "likestillings- og diskrimineringsloven",
+     "par": [
+      "§ 6",
+      "§ 7"
+     ]
+    },
+    {
+     "lov": "lov/1999-03-26-17",
+     "navn": "husleieloven",
+     "par": [
+      "§ 1-8"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Datteren min blir mobbet av både elever og lærere på skolen, hva gjør man",
+   "sokeord": "mobbing skole ansatte krenkelser",
+   "fasit": [
+    {
+     "lov": "lov/2023-06-09-30",
+     "navn": "opplæringslova",
+     "par": [
+      "§ 12-4",
+      "§ 12-5"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Jeg kjøpte en brukt bil av en privatperson på Finn, og motoren røk etter en uke. Har jeg krav på noe?",
+   "sokeord": "mangel bruktbil kjøp privat",
+   "fasit": [
+    {
+     "lov": "lov/1988-05-13-27",
+     "navn": "kjøpsloven",
+     "par": [
+      "§ 17",
+      "§ 19"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Utleier vil øke husleien med 2 000 kroner, og nå sier han at han skal beholde hele depositumet når jeg flytter.",
+   "sokeord": "leieøkning depositum utleier",
+   "fasit": [
+    {
+     "lov": "lov/1999-03-26-17",
+     "navn": "husleieloven",
+     "par": [
+      "§ 3-5",
+      "§ 4-2",
+      "§ 4-3"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Sjefen sa meg opp muntlig i går, og han har heller ikke betalt ut feriepengene jeg har til gode.",
+   "sokeord": "muntlig oppsigelse formkrav feriepenger utbetaling",
+   "fasit": [
+    {
+     "lov": "lov/2005-06-17-62",
+     "navn": "arbeidsmiljøloven",
+     "par": [
+      "§ 15-4",
+      "§ 15-5"
+     ]
+    },
+    {
+     "lov": "lov/1988-04-29-21",
+     "navn": "ferieloven",
+     "par": [
+      "§ 11"
+     ]
+    }
+   ]
+  },
+  {
+   "sporsmal": "Bedriften ved siden av slipper ut røyk og sot som legger seg på bilen min hver morgen.",
+   "sokeord": "røyk sot nabo forurensning",
+   "fasit": [
+    {
+     "lov": "lov/1981-03-13-6",
+     "navn": "forurensningsloven",
+     "par": [
+      "§ 6",
+      "§ 7"
+     ]
+    },
+    {
+     "lov": "lov/1961-06-16-15",
+     "navn": "naboloven",
+     "par": [
+      "§ 2"
+     ]
+    }
+   ]
+  }
+ ]
+}

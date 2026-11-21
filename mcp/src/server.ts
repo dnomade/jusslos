@@ -13,6 +13,7 @@ import {
   forskrifterTil,
   hentParagraf,
   innhold,
+  lovKandidater,
   sok,
 } from "./verktoy.ts";
 
@@ -74,7 +75,7 @@ export function lagServer(db: Db): McpServer {
     {
       title: "Søk i lovteksten",
       description:
-        "Fulltekstsøk i paragrafene i gjeldende lover og forskrifter. Bruk ordene som står i loven («oppsigelse saklig», «depositum husleie»), ikke hele spørsmål. Gir paragrafer med utdrag og lenke. Avgrens med lov for å søke i én lov.",
+        "Fulltekstsøk i paragrafene i gjeldende lover og forskrifter. Bruk noen få ord slik loven ville skrevet dem («oppsigelse saklig», «depositum husleie»), ikke hele spørsmål; søket har ingen synonymer. Gir først lovene med flest treff, så paragrafer med utdrag og lenke. Lover rangeres foran forskrifter. Avgrens med lov for å søke i én lov.",
       inputSchema: {
         tekst: z.string().min(3).max(500).describe("Ordene du søker etter"),
         lov: z.string().max(200).optional().describe("Søk bare i denne loven eller forskriften (navn eller id)"),
@@ -94,7 +95,10 @@ export function lagServer(db: Db): McpServer {
       if (treff === null) return feil("Søket trenger minst ett ord på tre bokstaver eller mer som ikke er et småord.");
       if (!treff.length) return feil(`Ingen paragrafer inneholder «${sokeord}». Prøv andre ord eller færre ord.`);
       const linjer = treff.map((t) => `- ${t.dokument} ${t.nummer ?? ""}${t.tittel ? ` ${t.tittel}` : ""} (id: ${t.dokument_id})\n  ${t.utdrag.replace(/\s+/g, " ")}\n  ${t.url}`);
-      return tekst(linjer.join("\n"));
+      if (dokumentId) return tekst(linjer.join("\n"));
+      const lover = await lovKandidater(db, sokeord, 5);
+      const oversikt = lover.length ? `Lover med flest treff: ${lover.map((l) => `${l.navn} (id: ${l.id})`).join("; ")}` : "";
+      return tekst(...[oversikt, `Paragrafer:\n${linjer.join("\n")}`].filter(Boolean));
     },
   );
 
