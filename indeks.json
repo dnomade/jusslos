@@ -1,5 +1,5 @@
 {
- "dataversjon": "2026-11-20.2e2e37d7",
+ "dataversjon": "2026-11-21.818a9c01",
  "dokumenter": {
   "DEL/forskrift/1957-06-07-3391": {
    "fil": "data/delegeringer/1957/del-forskrift-1957-06-07-3391.json",
@@ -20190,8 +20190,8 @@
    "type": "forskrift",
    "tittel": "Forskrift om fôrvarer",
    "korttittel": "Forvareforskriften – forforskriften",
-   "sha256": "8bafddada23e9ee34fe64a86b4e6673f1830de50baba46908bb8ef9a9ecca069",
-   "endret": "2026-11-13"
+   "sha256": "7ff54272fd91993c6c626802a404e22dc4ac4fbc73f775febd5a0d48fbef0f04",
+   "endret": "2026-11-21"
   },
   "forskrift/2002-11-14-1632": {
    "fil": "data/forskrifter/2002/forskrift-2002-11-14-1632.json",
@@ -29470,8 +29470,8 @@
    "type": "forskrift",
    "tittel": "Forskrift om spesialistutdanning og spesialistgodkjenning for leger og tannleger (spesialistforskriften)",
    "korttittel": "Spesialistforskriften",
-   "sha256": "d4ce0431a1d5824f9ce81ee4b9ec661626fa471227fec90bdeaa755f73925337",
-   "endret": "2026-11-13"
+   "sha256": "c27107f98d9a382f3bdb599ecbb9c909a896a8c54deb31502d17f7103733f9b9",
+   "endret": "2026-11-21"
   },
   "forskrift/2016-12-09-1502": {
    "fil": "data/forskrifter/2016/forskrift-2016-12-09-1502.json",
@@ -41302,16 +41302,16 @@
    "type": "lov",
    "tittel": "Kongeriket Norges Grunnlov",
    "korttittel": "Grunnloven (bokmål) – Grl.",
-   "sha256": "ecbbab4918c004da6592ac7822d07833fd7f38695dd8000257596c72e40f05d0",
-   "endret": "2026-11-13"
+   "sha256": "200eaeef29fb6ae174908e60013b7e914a31cc652c6dd76f8ce9ba719f2f0654",
+   "endret": "2026-11-21"
   },
   "lov/1814-05-17-nn": {
    "fil": "data/lover/1814/lov-1814-05-17-nn.json",
    "type": "lov",
    "tittel": "Kongeriket Noregs grunnlov",
    "korttittel": "Grunnlova (nynorsk) – Grl.",
-   "sha256": "639e109c10da8ebaa808b8b496f664f534b44838a2ee320e80c58e4599cfb589",
-   "endret": "2026-11-13"
+   "sha256": "8860ebf29b9ded7246165d37f3233f6fa90af7682f2696edd67c552f422f93a0",
+   "endret": "2026-11-21"
   },
   "lov/1845-06-07": {
    "fil": "data/lover/1845/lov-1845-06-07.json",
@@ -46749,9 +46749,9 @@
    "fil": "data/lover/2025/lov-2025-05-27-21.json",
    "type": "lov",
    "tittel": "Lov om bevaring og bærekraftig bruk av marint naturmangfold i områder utenfor nasjonal jurisdiksjon",
-   "korttittel": "Lov om bevaring og bærekraftig bruk av marint naturmangfold i områder utenfor nasjonal jurisdiksjon",
-   "sha256": "8f1eca4989fbfae618ed4211624a449a6e6bac5f44a6f0a5ab03fb151016b8d1",
-   "endret": "2026-11-13"
+   "korttittel": "Lov om marint naturmangfold i områder utenfor nasjonal jurisdiksjon",
+   "sha256": "d36320a1d928923baa56f01825e4b6cbf28e4df9d0276c76817110e45bcca3f2",
+   "endret": "2026-11-21"
   },
   "lov/2025-06-06-26": {
    "fil": "data/lover/2025/lov-2025-06-06-26.json",
@@ -47085,9 +47085,9 @@
    "fil": "data/lover/2026/lov-2026-06-12-25.json",
    "type": "lov",
    "tittel": "Lov om særskilt innsats mot negativ sosial kontroll og æresmotivert vold",
-   "korttittel": null,
-   "sha256": "fbfef9cf953752dd265639dacfb8386c6f25acf2a414d3a842455d5e63c83e65",
-   "endret": "2026-11-13"
+   "korttittel": "Lov om innsats mot negativ sosial kontroll og æresmotivert vold",
+   "sha256": "9a4fe0822f3627c472fb9b688902959010c09a138314194f9245d8197cdae2ed",
+   "endret": "2026-11-21"
   },
   "lov/2026-06-12-28": {
    "fil": "data/lover/2026/lov-2026-06-12-28.json",
@@ -47253,9 +47253,9 @@
    "fil": "data/lover/2026/lov-2026-06-19-63.json",
    "type": "lov",
    "tittel": "Lov om infrastruktur for alternativt drivstoff",
-   "korttittel": null,
-   "sha256": "8774af72b7c20b7f6a8cfc0215e31677b3fa25126732439c899d1fb3ef6ff54d",
-   "endret": "2026-11-13"
+   "korttittel": "Lov om infrastruktur for alternativt drivstoff",
+   "sha256": "97a44e0c6c6c70093f756f5d8393b25e32a98368b0ada1e9722a467befd701b6",
+   "endret": "2026-11-21"
   },
   "lov/2026-06-23-64": {
    "fil": "data/lover/2026/lov-2026-06-23-64.json",
@@ -47277,9 +47277,9 @@
    "fil": "data/lover/2026/lov-2026-06-23-75.json",
    "type": "lov",
    "tittel": "Lov om den uavhengige granskingskommisjonen oppnevnt av Stortinget for å undersøke forhold som har blitt aktualisert gjennom offentliggjøringen av Epstein-dokumentene",
-   "korttittel": null,
-   "sha256": "53c7c0b170f86457f8406f85b681529d18611d9aec856348ee44c5abbd7a8776",
-   "endret": "2026-11-13"
+   "korttittel": "Lov om granskingskommisjon, Epstein-dokumentene",
+   "sha256": "3053a1b0e285f2c37c22ab8eb55ad294c7367447af3ac40666b7e65f45f43eac",
+   "endret": "2026-11-21"
   }
  }
 }
