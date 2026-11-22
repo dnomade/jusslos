@@ -21,6 +21,9 @@
     }
   ],
   // Maks 60 kall per minutt per IP-adresse mot /mcp.
+  // Bruksstatistikk: verktøynavn, klient, tid og antall treff til Workeren «ipaas-click» (se src/maling.ts).
+  // Søkeord, argumenter og IP-adresser sendes ikke. Fjern linjen i en egen kopi av koden.
+  "services": [{ "binding": "STATISTIKK", "service": "ipaas-click", "entrypoint": "McpStats" }],
   "ratelimits": [{ "name": "BEGRENSNING", "namespace_id": "2001", "simple": { "limit": 60, "period": 60 } }],
   "observability": { "enabled": true }
 }
