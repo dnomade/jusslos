@@ -106,6 +106,8 @@ Serveren er et eksempel på hva dataene i repoet kan brukes til, ikke en produks
 | `forskrifter_til` | Forskrifter gitt med hjemmel i en lov eller paragraf |
 | `endringer` | Lover og forskrifter som er nye eller endret siden en dato |
 
+Serveren teller bruken: hvilket verktøy som ble kalt, navnet MCP-klienten oppgir, første ord i user agent, om kallet lyktes, hvor lang tid det tok og antall treff ved søk. Søkeord, andre argumenter, svarene og IP-adressen lagres ikke. Tellingen skjer i en egen Worker via service binding (`STATISTIKK` i `mcp/wrangler.jsonc`, koden i `mcp/src/maling.ts`), og en egen kopi av koden sender ingenting uten den bindingen.
+
 Serveren er en Cloudflare Worker i `mcp/` som leser fra en D1-database med samme innhold som repoet, fylt hver natt. Testene kjøres med `npm test` i `mcp/` og bruker et lite utdrag av databasen (`mcp/tester/testdata.sql`).
 
 ## Lisens og kreditering

@@ -16,6 +16,7 @@ import {
   lovKandidater,
   sok,
 } from "./verktoy.ts";
+import type { Treff } from "./maling.ts";
 
 export const VERSJON = "0.1.0";
 
@@ -48,7 +49,8 @@ const erSvar = (v: Dokument | Svar): v is Svar => "content" in v;
 
 const kunLese = { readOnlyHint: true, destructiveHint: false, idempotentHint: true, openWorldHint: false };
 
-export function lagServer(db: Db): McpServer {
+/** treff fylles av sok og finn_lov med antall treff, til bruksstatistikken (maling.ts). */
+export function lagServer(db: Db, treff: Treff = {}): McpServer {
   const server = new McpServer({ name: "jusslos-lover", title: "Norske lover (jusslos.no)", version: VERSJON }, { instructions: INSTRUKSER });
 
   server.registerTool(
@@ -64,9 +66,10 @@ export function lagServer(db: Db): McpServer {
       annotations: kunLese,
     },
     async ({ navn, maks }) => {
-      const treff = await finnLov(db, navn, maks ?? 5);
-      if (!treff.length) return feil(`Fant ingen lov eller forskrift som heter «${navn}». Prøv sok med ord fra innholdet.`);
-      return tekst(treff.map(dokumentlinje).join("\n"));
+      const funnet = await finnLov(db, navn, maks ?? 5);
+      treff.antall = funnet.length;
+      if (!funnet.length) return feil(`Fant ingen lov eller forskrift som heter «${navn}». Prøv sok med ord fra innholdet.`);
+      return tekst(funnet.map(dokumentlinje).join("\n"));
     },
   );
 
@@ -91,10 +94,11 @@ export function lagServer(db: Db): McpServer {
         if (erSvar(d)) return d;
         dokumentId = d.id;
       }
-      const treff = await sok(db, sokeord, { typer, dokumentId, maks });
-      if (treff === null) return feil("Søket trenger minst ett ord på tre bokstaver eller mer som ikke er et småord.");
-      if (!treff.length) return feil(`Ingen paragrafer inneholder «${sokeord}». Prøv andre ord eller færre ord.`);
-      const linjer = treff.map((t) => `- ${t.dokument} ${t.nummer ?? ""}${t.tittel ? ` ${t.tittel}` : ""} (id: ${t.dokument_id})\n  ${t.utdrag.replace(/\s+/g, " ")}\n  ${t.url}`);
+      const paragrafer = await sok(db, sokeord, { typer, dokumentId, maks });
+      if (paragrafer === null) return feil("Søket trenger minst ett ord på tre bokstaver eller mer som ikke er et småord.");
+      treff.antall = paragrafer.length;
+      if (!paragrafer.length) return feil(`Ingen paragrafer inneholder «${sokeord}». Prøv andre ord eller færre ord.`);
+      const linjer = paragrafer.map((t) => `- ${t.dokument} ${t.nummer ?? ""}${t.tittel ? ` ${t.tittel}` : ""} (id: ${t.dokument_id})\n  ${t.utdrag.replace(/\s+/g, " ")}\n  ${t.url}`);
       if (dokumentId) return tekst(linjer.join("\n"));
       const lover = await lovKandidater(db, sokeord, 5);
       const oversikt = lover.length ? `Lover med flest treff: ${lover.map((l) => `${l.navn} (id: ${l.id})`).join("; ")}` : "";

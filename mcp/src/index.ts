@@ -4,10 +4,13 @@
 import { WebStandardStreamableHTTPServerTransport } from "@modelcontextprotocol/sdk/server/webStandardStreamableHttp.js";
 import { lagServer, VERSJON } from "./server.ts";
 import { forside } from "./forside.ts";
+import { beskrivKall, type Statistikk, type Treff } from "./maling.ts";
 
 export interface Env {
   DB: D1Database;
   BEGRENSNING: RateLimit;
+  /** Bruksstatistikk i Workeren «ipaas-click» (service binding). Valgfri: uten den sendes ingenting. */
+  STATISTIKK?: Statistikk;
 }
 
 const CORS = {
@@ -33,7 +36,7 @@ function jsonRpcFeil(status: number, kode: number, melding: string, ekstra: Reco
 }
 
 export default {
-  async fetch(req: Request, env: Env): Promise<Response> {
+  async fetch(req: Request, env: Env, ctx: ExecutionContext): Promise<Response> {
     const url = new URL(req.url);
 
     if (url.pathname === "/" && req.method === "GET") {
@@ -51,11 +54,31 @@ export default {
     const { success } = await env.BEGRENSNING.limit({ key: ip });
     if (!success) return jsonRpcFeil(429, -32000, "For mange kall. Grensen er 60 i minuttet per IP-adresse.", { "Retry-After": "60" });
 
-    const server = lagServer(env.DB);
+    const start = Date.now();
+    const treff: Treff = {};
+    // Meldingen leses fra en kopi, så transporten får den urørt. Bare til statistikken, og bare uten argumentene.
+    const melding = env.STATISTIKK ? await req.clone().json().catch(() => null) : null;
+    const server = lagServer(env.DB, treff);
     const transport = new WebStandardStreamableHTTPServerTransport({ sessionIdGenerator: undefined, enableJsonResponse: true });
     await server.connect(transport);
     try {
-      return medCors(await transport.handleRequest(req));
+      const svar = await transport.handleRequest(req);
+      if (env.STATISTIKK && melding) {
+        const statistikk = env.STATISTIKK;
+        // Statistikken sendes etter svaret, så klienten ikke venter på den, og feil i den stopper aldri svaret.
+        ctx.waitUntil(
+          svar
+            .clone()
+            .json()
+            .catch(() => null)
+            .then((innhold) => {
+              const kall = beskrivKall(melding, innhold, treff, Date.now() - start, req.headers.get("User-Agent"));
+              return kall ? statistikk.record(kall) : null;
+            })
+            .catch((feil) => console.warn("Statistikk", feil)),
+        );
+      }
+      return medCors(svar);
     } catch (feil) {
       console.error("MCP", feil);
       return jsonRpcFeil(500, -32603, "Intern feil i serveren.");
