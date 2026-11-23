@@ -25,7 +25,7 @@ Slik bruker du verktøyene: finn loven med finn_lov eller sok, hent ordlyden med
 hvordan loven er bygd opp. Siter paragrafen med nummer og lenke til lovdata.no, og oppgi Lovdata som kilde (NLOD 2.0).
 Serveren gir lovtekst, ikke juridisk rådgivning.`;
 
-type Svar = { content: { type: "text"; text: string }[]; isError?: boolean; structuredContent?: Record<string, unknown> };
+type Svar = { content: { type: "text"; text: string }[]; isError?: boolean };
 
 function tekst(...deler: string[]): Svar {
   return { content: [{ type: "text", text: [...deler, KREDITERING].join("\n\n") }] };
@@ -49,24 +49,9 @@ const erSvar = (v: Dokument | Svar): v is Svar => "content" in v;
 
 const kunLese = { readOnlyHint: true, destructiveHint: false, idempotentHint: true, openWorldHint: false };
 
-/**
- * Valg for /mcp/ver2 (Code Mode, se ver2.ts). Standard er av, så /mcp svarer nøyaktig som før.
- * strukturert: svarene får også structuredContent med dataene som JSON, så kode i sandkassen slipper å tolke tekst.
- * maksKall: største antall verktøykall per server (per forespørsel), så ett program ikke kan løpe løpsk.
- */
-export interface Serveroppsett {
-  strukturert?: boolean;
-  maksKall?: number;
-}
-
 /** treff fylles av sok og finn_lov med antall treff, til bruksstatistikken (maling.ts). */
-export function lagServer(db: Db, treff: Treff = {}, oppsett: Serveroppsett = {}): McpServer {
+export function lagServer(db: Db, treff: Treff = {}): McpServer {
   const server = new McpServer({ name: "jusslos-lover", title: "Norske lover (jusslos.no)", version: VERSJON }, { instructions: INSTRUKSER });
-  const med = (svar: Svar, data: Record<string, unknown>): Svar =>
-    oppsett.strukturert && !svar.isError ? { ...svar, structuredContent: { ...data, kilde: KREDITERING } } : svar;
-  let antallKall = 0;
-  const forMange = (): Svar | null =>
-    oppsett.maksKall && ++antallKall > oppsett.maksKall ? feil(`For mange verktøykall i ett program (grensen er ${oppsett.maksKall}). Del opp oppgaven.`) : null;
 
   server.registerTool(
     "finn_lov",
@@ -81,12 +66,10 @@ export function lagServer(db: Db, treff: Treff = {}, oppsett: Serveroppsett = {}
       annotations: kunLese,
     },
     async ({ navn, maks }) => {
-      const stopp = forMange();
-      if (stopp) return stopp;
       const funnet = await finnLov(db, navn, maks ?? 5);
       treff.antall = funnet.length;
       if (!funnet.length) return feil(`Fant ingen lov eller forskrift som heter «${navn}». Prøv sok med ord fra innholdet.`);
-      return med(tekst(funnet.map(dokumentlinje).join("\n")), { treff: funnet });
+      return tekst(funnet.map(dokumentlinje).join("\n"));
     },
   );
 
@@ -105,8 +88,6 @@ export function lagServer(db: Db, treff: Treff = {}, oppsett: Serveroppsett = {}
       annotations: kunLese,
     },
     async ({ tekst: sokeord, lov, typer, maks }) => {
-      const stopp = forMange();
-      if (stopp) return stopp;
       let dokumentId: string | undefined;
       if (lov) {
         const d = await finnEllerFeil(db, lov);
@@ -118,10 +99,10 @@ export function lagServer(db: Db, treff: Treff = {}, oppsett: Serveroppsett = {}
       treff.antall = paragrafer.length;
       if (!paragrafer.length) return feil(`Ingen paragrafer inneholder «${sokeord}». Prøv andre ord eller færre ord.`);
       const linjer = paragrafer.map((t) => `- ${t.dokument} ${t.nummer ?? ""}${t.tittel ? ` ${t.tittel}` : ""} (id: ${t.dokument_id})\n  ${t.utdrag.replace(/\s+/g, " ")}\n  ${t.url}`);
-      if (dokumentId) return med(tekst(linjer.join("\n")), { paragrafer });
+      if (dokumentId) return tekst(linjer.join("\n"));
       const lover = await lovKandidater(db, sokeord, 5);
       const oversikt = lover.length ? `Lover med flest treff: ${lover.map((l) => `${l.navn} (id: ${l.id})`).join("; ")}` : "";
-      return med(tekst(...[oversikt, `Paragrafer:\n${linjer.join("\n")}`].filter(Boolean)), { lover, paragrafer });
+      return tekst(...[oversikt, `Paragrafer:\n${linjer.join("\n")}`].filter(Boolean));
     },
   );
 
@@ -138,8 +119,6 @@ export function lagServer(db: Db, treff: Treff = {}, oppsett: Serveroppsett = {}
       annotations: kunLese,
     },
     async ({ lov, paragraf }) => {
-      const stopp = forMange();
-      if (stopp) return stopp;
       const d = await finnEllerFeil(db, lov);
       if (erSvar(d)) return d;
       const treff = await hentParagraf(db, d.id, paragraf);
@@ -148,7 +127,7 @@ export function lagServer(db: Db, treff: Treff = {}, oppsett: Serveroppsett = {}
         const merknad = p.fremtidig ? "\nMerk: denne versjonen er vedtatt, men ikke trådt i kraft ennå." : p.opphevet ? `\nMerk: paragrafen er opphevet (${p.opphevet}).` : "";
         return `${d.navn} ${p.nummer ?? ""}${p.tittel ? ` ${p.tittel}` : ""}${p.kapittel ? `\nKapittel: ${p.kapittel}` : ""}${merknad}\n\n${p.tekst}\n\n${p.url}`;
       });
-      return med(tekst(...deler), { dokument: d, paragrafer: treff });
+      return tekst(...deler);
     },
   );
 
@@ -161,13 +140,11 @@ export function lagServer(db: Db, treff: Treff = {}, oppsett: Serveroppsett = {}
       annotations: kunLese,
     },
     async ({ lov }) => {
-      const stopp = forMange();
-      if (stopp) return stopp;
       const d = await finnEllerFeil(db, lov);
       if (erSvar(d)) return d;
       const linjer = await innhold(db, d.id);
       const kropp = linjer.map((l) => `${"  ".repeat(Math.max(0, l.niva))}${l.tekst}`).join("\n");
-      return med(tekst(`${d.navn} (id: ${d.id})\n${d.url}\n\n${kropp || "(ingen paragrafer)"}`), { dokument: d, linjer });
+      return tekst(`${d.navn} (id: ${d.id})\n${d.url}\n\n${kropp || "(ingen paragrafer)"}`);
     },
   );
 
@@ -185,14 +162,12 @@ export function lagServer(db: Db, treff: Treff = {}, oppsett: Serveroppsett = {}
       annotations: kunLese,
     },
     async ({ lov, paragraf, maks }) => {
-      const stopp = forMange();
-      if (stopp) return stopp;
       const d = await finnEllerFeil(db, lov);
       if (erSvar(d)) return d;
       const liste = await forskrifterTil(db, d.id, paragraf, maks ?? 50);
       if (!liste.length) return feil(`Fant ingen forskrifter med hjemmel i ${d.navn}${paragraf ? ` § ${paragraf.replace(/§\s*/, "")}` : ""}.`);
       const linjer = liste.map((f) => `${dokumentlinje(f)}${f.hjemmel ? `\n  Hjemmel: ${f.hjemmel}` : ""}`);
-      return med(tekst(`Forskrifter med hjemmel i ${d.navn}:`, linjer.join("\n")), { lov: d, forskrifter: liste });
+      return tekst(`Forskrifter med hjemmel i ${d.navn}:`, linjer.join("\n"));
     },
   );
 
@@ -210,15 +185,10 @@ export function lagServer(db: Db, treff: Treff = {}, oppsett: Serveroppsett = {}
       annotations: kunLese,
     },
     async ({ siden, typer, maks }) => {
-      const stopp = forMange();
-      if (stopp) return stopp;
       const liste = await endringer(db, siden, typer, maks ?? 50);
       const versjon = await dataversjon(db);
-      if (!liste.length) return med(tekst(`Ingen nye eller endrede dokumenter siden ${siden}. Dataversjon ${versjon}.`), { dataversjon: versjon, endringer: [] });
-      return med(
-        tekst(`Dataversjon ${versjon}. Nye eller endret siden ${siden}:`, liste.map((e) => `${dokumentlinje(e)}\n  Endret i datasettet: ${e.endret}`).join("\n")),
-        { dataversjon: versjon, endringer: liste },
-      );
+      if (!liste.length) return tekst(`Ingen nye eller endrede dokumenter siden ${siden}. Dataversjon ${versjon}.`);
+      return tekst(`Dataversjon ${versjon}. Nye eller endret siden ${siden}:`, liste.map((e) => `${dokumentlinje(e)}\n  Endret i datasettet: ${e.endret}`).join("\n"));
     },
   );
 
