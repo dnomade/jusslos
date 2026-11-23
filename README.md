@@ -110,6 +110,10 @@ Serveren teller bruken: hvilket verktøy som ble kalt, navnet MCP-klienten oppgi
 
 Serveren er en Cloudflare Worker i `mcp/` som leser fra en D1-database med samme innhold som repoet, fylt hver natt. Testene kjøres med `npm test` i `mcp/` og bruker et lite utdrag av databasen (`mcp/tester/testdata.sql`).
 
+## Forslag til forbedringer hos Lovdata
+
+Lovdata har bedt om tilbakemeldinger på de frie dataene. Forslag samles i [issue 17](https://github.com/dnomade/jusslos/issues/17) og sendes samlet til Lovdata. Skriv gjerne hva som fungerer, hva som mangler og hva som er tungvint, for eksempel i formatet, oppdateringen eller dokumentasjonen.
+
 ## Lisens og kreditering
 
 Koden er lisensiert under MIT, se `LICENSE`. Lisensen for dataene står i `LISENS-DATA.md`.
