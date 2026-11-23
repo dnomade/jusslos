@@ -24,6 +24,15 @@
   // Bruksstatistikk: verktøynavn, klient, tid og antall treff til Workeren «ipaas-click» (se src/maling.ts).
   // Søkeord, argumenter og IP-adresser sendes ikke. Fjern linjen i en egen kopi av koden.
   "services": [{ "binding": "STATISTIKK", "service": "ipaas-click", "entrypoint": "McpStats" }],
-  "ratelimits": [{ "name": "BEGRENSNING", "namespace_id": "2001", "simple": { "limit": 60, "period": 60 } }],
+  "ratelimits": [
+    { "name": "BEGRENSNING", "namespace_id": "2001", "simple": { "limit": 60, "period": 60 } },
+    // /mcp/ver2 (Code Mode): 20 kall per minutt per IP, og høyst 20 kjøringer av kode i minuttet samlet.
+    { "name": "BEGRENSNING_VER2", "namespace_id": "2002", "simple": { "limit": 20, "period": 60 } },
+    { "name": "BEGRENSNING_VER2_KODE", "namespace_id": "2003", "simple": { "limit": 20, "period": 60 } }
+  ],
+  // Sandkassen for /mcp/ver2: hver kjøring av kode går i en egen Dynamic Worker uten nettilgang.
+  "worker_loaders": [{ "binding": "LOADER" }],
+  // VER2 («av» slår av /mcp/ver2) settes i Cloudflare-panelet og skal overleve deploy.
+  "keep_vars": true,
   "observability": { "enabled": true }
 }
