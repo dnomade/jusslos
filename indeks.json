@@ -1,5 +1,5 @@
 {
- "dataversjon": "2026-11-21.818a9c01",
+ "dataversjon": "2026-11-23.a3ebb6b3",
  "dokumenter": {
   "DEL/forskrift/1957-06-07-3391": {
    "fil": "data/delegeringer/1957/del-forskrift-1957-06-07-3391.json",
@@ -41302,8 +41302,8 @@
    "type": "lov",
    "tittel": "Kongeriket Norges Grunnlov",
    "korttittel": "Grunnloven (bokmål) – Grl.",
-   "sha256": "200eaeef29fb6ae174908e60013b7e914a31cc652c6dd76f8ce9ba719f2f0654",
-   "endret": "2026-11-21"
+   "sha256": "353e23a4bb8072256dac8faec1e56da0cf8c79ed4d842f66f1c6637a1ca9a324",
+   "endret": "2026-11-23"
   },
   "lov/1814-05-17-nn": {
    "fil": "data/lover/1814/lov-1814-05-17-nn.json",

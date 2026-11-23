@@ -1,8 +1,8 @@
 {
  "skjema": "1.0",
- "dataversjon": "2026-11-21.818a9c01",
- "forrige_dataversjon": "2026-11-20.2e2e37d7",
- "oppdatert": "2026-11-21T03:16:01+00:00",
+ "dataversjon": "2026-11-23.a3ebb6b3",
+ "forrige_dataversjon": "2026-11-21.818a9c01",
+ "oppdatert": "2026-11-23T03:16:00+00:00",
  "antall": {
   "delegering": 1431,
   "forskrift": 3456,
@@ -12,18 +12,18 @@
  },
  "endringer": {
   "nye": 0,
-  "endret": 8,
+  "endret": 1,
   "fjernet": 0,
-  "fil": "endringer/2026-11-21.json"
+  "fil": "endringer/2026-11-23.json"
  },
  "kilde": {
   "utgiver": "Lovdata",
   "api": "https://api.lovdata.no/v1/publicData",
   "pakker": {
    "gjeldende-lover.tar.bz2": {
-    "sist_endret": "2026-11-21T02:32:00Z",
-    "storrelse": 5812912,
-    "sha256": "aca1ffe5a70a80a10513984a38ebdaa507534a13237c5c4da911054ffa4fd54c"
+    "sist_endret": "2026-11-23T02:32:00Z",
+    "storrelse": 5813123,
+    "sha256": "efd60760433fdbc96de42f1566de39dcf5f1243f716d3c988bff411af6c88eb0"
    },
    "gjeldende-sentrale-forskrifter.tar.bz2": {
     "sist_endret": "2026-11-21T02:32:00Z",
