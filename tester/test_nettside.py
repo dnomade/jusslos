@@ -64,7 +64,10 @@ def test_bygger_side_med_tall_og_endringer(tmp_path):
     assert "Dataversjon: 2026-11-14.abcd1234" in llms
     assert "## Merknader for KI-assistenter" in llms
     assert "data/lover/index.json): Gjeldende lover (1 dokumenter)" in llms
-    for fil in ["stil.css", "favicon.svg", "404.html", "_headers", "robots.txt", "fonter"]:
+    assert '<meta property="og:url" content="https://jusslos.no/">' in side
+    assert '<meta property="og:image" content="https://jusslos.no/delingsbilde.png">' in side
+    assert '<meta name="twitter:card" content="summary_large_image">' in side
+    for fil in ["stil.css", "favicon.svg", "delingsbilde.png", "404.html", "_headers", "robots.txt", "fonter"]:
         assert (ut / fil).exists()
 
 

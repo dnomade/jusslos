@@ -37,7 +37,7 @@ EKSEMPEL_ID = "lov/2005-06-17-62"
 EKSEMPEL_PARAGRAF = "§ 1-1"
 EKSEMPEL_NAVN = "Arbeidsmiljøloven"
 
-STATISKE = ["stil.css", "favicon.svg", "404.html", "_headers", "robots.txt", "fonter"]
+STATISKE = ["stil.css", "favicon.svg", "delingsbilde.png", "404.html", "_headers", "robots.txt", "fonter"]
 ADRESSE = "https://jusslos.no/"
 
 UKEDAGER = ["mandag", "tirsdag", "onsdag", "torsdag", "fredag", "lørdag", "søndag"]
