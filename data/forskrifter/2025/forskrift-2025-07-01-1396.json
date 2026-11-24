@@ -10,11 +10,11 @@
   "Skattedirektoratet"
  ],
  "ikraft": "2026-01-01, 2027-01-01",
- "siste_endring_ikraft": "2026-08-24",
+ "siste_endring_ikraft": "2026-11-19",
  "sist_endret_ved": [
   {
-   "ref": "forskrift/2026-08-24-1662",
-   "tekst": "forskrift/2026-08-24-1662"
+   "ref": "forskrift/2026-11-19-2433",
+   "tekst": "forskrift/2026-11-19-2433"
   }
  ],
  "hjemmel": [
@@ -86,7 +86,7 @@
  "kunngjort": "2025-07-02 14:25",
  "korttittel": "Innkrevingsforskriften",
  "tittel": "Forskrift om innkreving av statlige krav mv. (innkrevingsforskriften)",
- "annet": "Hjemmel: Fastsatt av Skattedirektoratet 1. juli 2025 med hjemmel i lov 25. april 2025 nr. 12 om innkreving av statlige krav mv. (innkrevingsloven) §§ 2, 3, 11, 14, 15, 16, 21, 23, 25, 26, 27, 31, 34, 36 og 40 og delegeringsvedtak 12. juni 2025 nr. 1053.\nEndret ved forskrifter 11 des 2025 nr. 2494 (i kraft 1 jan 2026), 24 feb 2026 nr. 274, 24 aug 2026 nr. 1662.",
+ "annet": "Hjemmel: Fastsatt av Skattedirektoratet 1. juli 2025 med hjemmel i lov 25. april 2025 nr. 12 om innkreving av statlige krav mv. (innkrevingsloven) §§ 2, 3, 11, 14, 15, 16, 21, 23, 25, 26, 27, 31, 34, 36 og 40 og delegeringsvedtak 12. juni 2025 nr. 1053.\nEndret ved forskrifter 11 des 2025 nr. 2494 (i kraft 1 jan 2026), 24 feb 2026 nr. 274, 24 aug 2026 nr. 1662, 19 nov 2026 nr. 2433.",
  "refid": "forskrift/2025-07-01-1396",
  "eli": "/eli/forskrift/2025/07/01/1396",
  "url": "https://lovdata.no/dokument/SF/forskrift/2025-07-01-1396",
@@ -201,6 +201,18 @@
        "tittel": "Krav Innkrevingsmyndigheten kun avregner",
        "ledd": [
         "Innkrevingsmyndigheten kan beslutte avregning for\na. krav etter folketrygdloven § 22-16\nb. etteroppgjør med hjemmel i AFP-tilskottsloven § 15\nc. etteroppgjør med hjemmel i lov om AFP for medlemmer av Statens pensjonskasse § 3 bokstav d."
+       ]
+      },
+      {
+       "type": "paragraf",
+       "id": "kapittel-1-kapittel-1-paragraf-11",
+       "nummer": "§ 2-11",
+       "tittel": "Krav som Innkrevingsmyndigheten kun kan innvilge betalingsavtale og ettergivelse for",
+       "ledd": [
+        "Innkrevingsmyndigheten kan innvilge betalingsavtale og ettergivelse etter innkrevingsloven §§ 17 og 18 for utdanningsstøtte gitt med hjemmel i utdanningsstøtteloven der lånet ikke er oppsagt av Lånekassen."
+       ],
+       "endringer": [
+        "Tilføyd ved forskrift 19 nov 2026 nr. 2433."
        ]
       }
      ]

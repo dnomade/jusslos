@@ -1,5 +1,5 @@
 {
- "dataversjon": "2026-11-23.a3ebb6b3",
+ "dataversjon": "2026-11-24.9803a1b6",
  "dokumenter": {
   "DEL/forskrift/1957-06-07-3391": {
    "fil": "data/delegeringer/1957/del-forskrift-1957-06-07-3391.json",
@@ -18822,8 +18822,8 @@
    "type": "forskrift",
    "tittel": "Forskrift om såvarer",
    "korttittel": null,
-   "sha256": "5e882be3eb5e6ff83d632462c3b053a3f38f1a3f6f1a6b680547c721e4fc1aa2",
-   "endret": "2026-11-13"
+   "sha256": "49e30bce6c8806ba26cd1167bf54de874d3b8e5d79e2169d5c51fb09fe109b67",
+   "endret": "2026-11-24"
   },
   "forskrift/1999-09-16-1076": {
    "fil": "data/forskrifter/1999/forskrift-1999-09-16-1076.json",
@@ -24406,8 +24406,8 @@
    "type": "forskrift",
    "tittel": "Forskrift til merverdiavgiftsloven (merverdiavgiftsforskriften)",
    "korttittel": "Merverdiavgiftsforskriften",
-   "sha256": "1b83b78d67fa70f92e2aaa91d471051da57bc73b2c6c874f6fc1e4d05e8f872e",
-   "endret": "2026-11-18"
+   "sha256": "1f03ecb37c94b3fcee877751e8a9fb56dab4dccb234388991a514b5d0ff32fe5",
+   "endret": "2026-11-24"
   },
   "forskrift/2009-12-15-1543": {
    "fil": "data/forskrifter/2009/forskrift-2009-12-15-1543.json",
@@ -27510,8 +27510,8 @@
    "type": "forskrift",
    "tittel": "Forskrift om kapitalkrav og gjennomføring av CRR/CRD-regelverket (CRR/CRD-forskriften)",
    "korttittel": "CRR/CRD-forskriften",
-   "sha256": "f4ac9a4f69d8341f3008f317cc34c77d84a0b3729f87702b4f346e8471bbd5c2",
-   "endret": "2026-11-14"
+   "sha256": "389b27e6f4445242e308af85e6234e08f5fceabddf7d4ca6baee92ac5dcfa7fe",
+   "endret": "2026-11-24"
   },
   "forskrift/2014-08-22-1121": {
    "fil": "data/forskrifter/2014/forskrift-2014-08-22-1121.json",
@@ -38374,8 +38374,8 @@
    "type": "forskrift",
    "tittel": "Forskrift om innkreving av statlige krav mv. (innkrevingsforskriften)",
    "korttittel": "Innkrevingsforskriften",
-   "sha256": "f5ccbad2b1ba95edfa273b044bd7bdf261431d9043dffc643e7798bf553c98db",
-   "endret": "2026-11-13"
+   "sha256": "f7930c71792004eb8c6567b700c3c654488cf7140e7b679c93b17777318bd9fe",
+   "endret": "2026-11-24"
   },
   "forskrift/2025-07-01-1397": {
    "fil": "data/forskrifter/2025/forskrift-2025-07-01-1397.json",
@@ -41257,6 +41257,14 @@
    "sha256": "50561445b9d4486d28af7066df0a0bd74f9c55c6606142546f85d3092bdba974",
    "endret": "2026-11-20"
   },
+  "forskrift/2026-11-19-2431": {
+   "fil": "data/forskrifter/2026/forskrift-2026-11-19-2431.json",
+   "type": "forskrift",
+   "tittel": "Forskrift om endring i merverdiavgiftsforskriften",
+   "korttittel": "Endr. i merverdiavgiftsforskriften",
+   "sha256": "7cccc384f81a627f4faba0433ab7d3258bd6613ac0625585dfd2e335dcb2d8c0",
+   "endret": "2026-11-24"
+  },
   "lov/1687-04-15": {
    "fil": "data/lover/1687/lov-1687-04-15.json",
    "type": "lov",
@@ -41310,8 +41318,8 @@
    "type": "lov",
    "tittel": "Kongeriket Noregs grunnlov",
    "korttittel": "Grunnlova (nynorsk) – Grl.",
-   "sha256": "8860ebf29b9ded7246165d37f3233f6fa90af7682f2696edd67c552f422f93a0",
-   "endret": "2026-11-21"
+   "sha256": "77219382f6fb31f8b5f974fefcbfb8d3c3a22db96c585e6f1d80d163942243fa",
+   "endret": "2026-11-24"
   },
   "lov/1845-06-07": {
    "fil": "data/lover/1845/lov-1845-06-07.json",
