@@ -1,5 +1,5 @@
 {
- "dataversjon": "2026-11-24.9803a1b6",
+ "dataversjon": "2026-11-25.2b7bc1f0",
  "dokumenter": {
   "DEL/forskrift/1957-06-07-3391": {
    "fil": "data/delegeringer/1957/del-forskrift-1957-06-07-3391.json",
@@ -6742,8 +6742,8 @@
    "type": "delegering",
    "tittel": "Delegering av myndighet fra Helse- og omsorgsdepartementet til Helsedirektoratet",
    "korttittel": null,
-   "sha256": "198020a4085b3eff59d47cf770e83da4d6fa01da842943b21dca8598eaa952e2",
-   "endret": "2026-11-13"
+   "sha256": "21993ce7170aa98bfa9c1a7b6564e50b81fa08989c4a2719ca30015d1bfad394",
+   "endret": "2026-11-25"
   },
   "DEL/forskrift/2010-03-19-409": {
    "fil": "data/delegeringer/2010/del-forskrift-2010-03-19-409.json",
@@ -31078,8 +31078,8 @@
    "type": "forskrift",
    "tittel": "Forskrift om gjenvinning av skip og flyttbare innretninger",
    "korttittel": null,
-   "sha256": "5c037fd62c80950ba49715c307bb3b0792a41bbfe9d90e4a56175dab9a49e317",
-   "endret": "2026-11-13"
+   "sha256": "b2e6ce940a89af975039fb6563be37ebfbdb11023d301508eedc2d10f10ec5ee",
+   "endret": "2026-11-25"
   },
   "forskrift/2018-12-14-1917": {
    "fil": "data/forskrifter/2018/forskrift-2018-12-14-1917.json",
@@ -35966,8 +35966,8 @@
    "type": "forskrift",
    "tittel": "Forskrift om sanksjoner i lys av situasjonen i Haiti",
    "korttittel": null,
-   "sha256": "7ab0e2b1f88e552521fec76dca71d1c975c031c1352ab98291ff96b94b18c8b3",
-   "endret": "2026-11-13"
+   "sha256": "62f6a8faf8dfda3d26abf818d161ba228ef0d84d85f3bf7b3b661bd11ca82797",
+   "endret": "2026-11-25"
   },
   "forskrift/2023-03-28-449": {
    "fil": "data/forskrifter/2023/forskrift-2023-03-28-449.json",
@@ -39534,8 +39534,8 @@
    "type": "forskrift",
    "tittel": "Forskrift om regulering av fisket etter torsk i Nordsjøen og Skagerrak i 2026",
    "korttittel": null,
-   "sha256": "8ce604c2913ee7618a98fc06ce05e1f3c7370faf30ba7458d7c2da78f57a752b",
-   "endret": "2026-11-13"
+   "sha256": "51df69ef379c4eec19ec0dedf7abeb6a30d1a4e1ac8f0a73e98b5d8e146a2564",
+   "endret": "2026-11-25"
   },
   "forskrift/2025-12-19-2806": {
    "fil": "data/forskrifter/2025/forskrift-2025-12-19-2806.json",
@@ -39598,8 +39598,8 @@
    "type": "forskrift",
    "tittel": "Forskrift om regulering av fisket etter sild i Nordsjøen og Skagerrak i 2026",
    "korttittel": null,
-   "sha256": "cd12ee4830c5f8fbec01aec8837104018049713dec6fb5bdf22a0c1368e46360",
-   "endret": "2026-11-13"
+   "sha256": "af4ccc632fe50c04274922b85676210541f65f892ac013229ec1d959b3f06ef3",
+   "endret": "2026-11-25"
   },
   "forskrift/2025-12-19-2829": {
    "fil": "data/forskrifter/2025/forskrift-2025-12-19-2829.json",
@@ -42574,8 +42574,8 @@
    "type": "lov",
    "tittel": "Lov om renter ved forsinket betaling m.m. (forsinkelsesrenteloven)",
    "korttittel": "Forsinkelsesrenteloven – rentel",
-   "sha256": "d1585f22c119747664d4dc96645aa6aecb5201e1ff51db39b03d59e0e49eeffd",
-   "endret": "2026-11-13"
+   "sha256": "785fbd862e2c8cd43749901e8a606b4a82839e0eeff73e9bd6ffbefec640a9d6",
+   "endret": "2026-11-25"
   },
   "lov/1976-12-17-91": {
    "fil": "data/lover/1976/lov-1976-12-17-91.json",
@@ -44462,8 +44462,8 @@
    "type": "lov",
    "tittel": "Lov om rett til innsyn i dokument i offentleg verksemd (offentleglova)",
    "korttittel": "Offentleglova – offl",
-   "sha256": "eeaed21796ede39f0d7d2092682e137679f1ddb77be37d88f9f1193c02cff9b9",
-   "endret": "2026-11-13"
+   "sha256": "537603cf89b1046ae22fa87ffba116ed2a07ecc5bf71227e74981b65e0a8ad00",
+   "endret": "2026-11-25"
   },
   "lov/2006-06-16-20": {
    "fil": "data/lover/2006/lov-2006-06-16-20.json",
