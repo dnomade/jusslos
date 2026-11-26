@@ -1,5 +1,5 @@
 {
- "dataversjon": "2026-11-25.2b7bc1f0",
+ "dataversjon": "2026-11-26.cf239a6c",
  "dokumenter": {
   "DEL/forskrift/1957-06-07-3391": {
    "fil": "data/delegeringer/1957/del-forskrift-1957-06-07-3391.json",
@@ -16590,8 +16590,8 @@
    "type": "forskrift",
    "tittel": "Forskrift om midlertidig bruk av utenlandsregistrert motorvogn i Norge",
    "korttittel": "Forskrift om utenlandsregistrert motorvogn",
-   "sha256": "f9e416b885a148efac91e526fb606025d5d4baa35c44b3c34b02f27adc1f6b64",
-   "endret": "2026-11-13"
+   "sha256": "62b55b0501b0d124fcba59599938fa3254a083e95c9874cce3e8978f85bfb600",
+   "endret": "2026-11-26"
   },
   "forskrift/1991-07-02-507": {
    "fil": "data/forskrifter/1991/forskrift-1991-07-02-507.json",
@@ -23382,8 +23382,8 @@
    "type": "forskrift",
    "tittel": "Forskrift til utfylling og gjennomføring mv. av skattebetalingsloven (skattebetalingsforskriften)",
    "korttittel": "Skattebetalingsforskriften",
-   "sha256": "b7808d27d74090f841044187f2a601d40d1808306cea2375c73d7b7c8dd6745a",
-   "endret": "2026-11-13"
+   "sha256": "78669e4459b7578141a47546c9998690ee9ba5b0dd99d4ca31344307ceb91709",
+   "endret": "2026-11-26"
   },
   "forskrift/2007-12-21-1773": {
    "fil": "data/forskrifter/2007/forskrift-2007-12-21-1773.json",
@@ -28430,8 +28430,8 @@
    "type": "forskrift",
    "tittel": "Forskrift om sanksjoner og restriktive tiltak vedrørende situasjonen i Den sentralafrikanske republikk",
    "korttittel": "Forskrift om sanksjoner og tiltak, Den sentralafrikanske republikk",
-   "sha256": "7f36dc6dba9c5b1d9b977e6f9cdd49bc5f7ba950131d13a78f7b5275effdbc58",
-   "endret": "2026-11-13"
+   "sha256": "523e87d5a76ad658060b5a0ceb3121d1b0f174bc86b02ffb83f217393288a81b",
+   "endret": "2026-11-26"
   },
   "forskrift/2015-09-18-1063": {
    "fil": "data/forskrifter/2015/forskrift-2015-09-18-1063.json",
@@ -39302,8 +39302,8 @@
    "type": "forskrift",
    "tittel": "Forskrift om gradvis anvendelse av nytt regelverk om utlegg mv. (utrullingsforskriften)",
    "korttittel": "Utrullingsforskriften",
-   "sha256": "323d1336853280bab0fa448531e9a7152decca4010acd8ec1b6bcecd7ded7767",
-   "endret": "2026-11-13"
+   "sha256": "a0f166cbc275c04c2d1dc5b2ff07cde4163a03267a948df83583cb7ca92fbdfd",
+   "endret": "2026-11-26"
   },
   "forskrift/2025-12-12-2509": {
    "fil": "data/forskrifter/2025/forskrift-2025-12-12-2509.json",
@@ -41264,6 +41264,22 @@
    "korttittel": "Endr. i merverdiavgiftsforskriften",
    "sha256": "7cccc384f81a627f4faba0433ab7d3258bd6613ac0625585dfd2e335dcb2d8c0",
    "endret": "2026-11-24"
+  },
+  "forskrift/2026-11-23-2460": {
+   "fil": "data/forskrifter/2026/forskrift-2026-11-23-2460.json",
+   "type": "forskrift",
+   "tittel": "Forskrift om endring i skattebetalingsforskriften",
+   "korttittel": "Endr. i skattebetalingsforskriften",
+   "sha256": "58c10ee3663390715571effa21b691816658586d8a70c33cefd273489fb88eee",
+   "endret": "2026-11-26"
+  },
+  "forskrift/2026-11-24-2462": {
+   "fil": "data/forskrifter/2026/forskrift-2026-11-24-2462.json",
+   "type": "forskrift",
+   "tittel": "Forskrift om endring i forskrift om gradvis anvendelse av nytt regelverk om utlegg mv. (utrullingsforskriften)",
+   "korttittel": "Endr. i utrullingsforskriften",
+   "sha256": "467b1ce1b3e83aa5867ffacf945c044f0fdc959626899529034d856d67786207",
+   "endret": "2026-11-26"
   },
   "lov/1687-04-15": {
    "fil": "data/lover/1687/lov-1687-04-15.json",
