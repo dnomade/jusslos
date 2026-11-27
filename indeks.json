@@ -1,5 +1,5 @@
 {
- "dataversjon": "2026-11-26.cf239a6c",
+ "dataversjon": "2026-11-27.95fc41dd",
  "dokumenter": {
   "DEL/forskrift/1957-06-07-3391": {
    "fil": "data/delegeringer/1957/del-forskrift-1957-06-07-3391.json",
@@ -13177,14 +13177,6 @@
    "sha256": "d9f381cd9a4cad0198a917279f4b43eee58cf0e8be46462f0bf46d9d6c90ed31",
    "endret": "2026-11-13"
   },
-  "STV/forskrift/2021-06-17-2109": {
-   "fil": "data/stortingsvedtak/2021/stv-forskrift-2021-06-17-2109.json",
-   "type": "stortingsvedtak",
-   "tittel": "Endringer i Stortingets forretningsorden",
-   "korttittel": "Endr. i Stortingets forretningsorden",
-   "sha256": "c118b569dde0fee4631d8de3d901a082a3ab1b51fd6adedddc281e353b58d5a0",
-   "endret": "2026-11-13"
-  },
   "STV/forskrift/2021-06-18-2049": {
    "fil": "data/stortingsvedtak/2021/stv-forskrift-2021-06-18-2049.json",
    "type": "stortingsvedtak",
@@ -17030,8 +17022,8 @@
    "type": "forskrift",
    "tittel": "Forskrift om konkursregisteret og om kunngjøringer etter konkursloven",
    "korttittel": "Forskrift om konkursregisteret mv.",
-   "sha256": "529ec6b3df132a50c551bb4ed7e2d0325238619c8f8b6f414ce732f74d99379b",
-   "endret": "2026-11-13"
+   "sha256": "72c2c70774b999bb196f1b128520fc93262ab7fff04200314d33003031d7add1",
+   "endret": "2026-11-27"
   },
   "forskrift/1993-11-10-1018": {
    "fil": "data/forskrifter/1993/forskrift-1993-11-10-1018.json",
@@ -25934,8 +25926,8 @@
    "type": "forskrift",
    "tittel": "Forskrift om klagenemnd for passasjertransport (transportklagenemndforskriften)",
    "korttittel": "Transportklagenemndforskriften",
-   "sha256": "62ce6ad393ca88ad7680e975465a055680de9eb9d4b71ed207457274e2a0fb7c",
-   "endret": "2026-11-13"
+   "sha256": "1d39e4b2e924fde66463e55aeb65f3a66c66f904ab94f7603d8cd7d06298591a",
+   "endret": "2026-11-27"
   },
   "forskrift/2012-01-20-85": {
    "fil": "data/forskrifter/2012/forskrift-2012-01-20-85.json",
@@ -34854,8 +34846,8 @@
    "type": "forskrift",
    "tittel": "Forskrift som utfyller dyrehelseforskriften med bestemmelser om import av visse levende dyr, avlsmateriale og animalske produkter fra tredjestater (dyreimportforskriften)",
    "korttittel": "Dyreimportforskriften",
-   "sha256": "b461be66de92646f0afc70dceeaeb5bbaf78e90e0b613e1dac4181fb449292e6",
-   "endret": "2026-11-18"
+   "sha256": "e605bc8bf0034ee9b6c45ebd99214aa082ff2578a5a186b18bd9625bb19dd54a",
+   "endret": "2026-11-27"
   },
   "forskrift/2022-04-06-634": {
    "fil": "data/forskrifter/2022/forskrift-2022-04-06-634.json",
@@ -38950,8 +38942,8 @@
    "type": "forskrift",
    "tittel": "Forskrift om opptak til høgare utdanning (opptaksforskrifta)",
    "korttittel": "Opptaksforskrifta",
-   "sha256": "d7267c5a36a2aedeebd615457fc2c9db5f75dfede1bfc9d7829512c21d94c23e",
-   "endret": "2026-11-13"
+   "sha256": "7096cc2495322c37b418e8fd455469d0b089e3bfcc79dc2ee9e32956653c3cb2",
+   "endret": "2026-11-27"
   },
   "forskrift/2025-09-15-1843": {
    "fil": "data/forskrifter/2025/forskrift-2025-09-15-1843.json",
@@ -40470,8 +40462,8 @@
    "type": "forskrift",
    "tittel": "Forskrift om regulering av fisket etter brisling i 2026–2027",
    "korttittel": null,
-   "sha256": "03766db6a90354c212b1902efb008e4ec207dbdcc574ee0f406cf322f14a5798",
-   "endret": "2026-11-13"
+   "sha256": "aa161897c59060323a1aac4fe5d8ef8e09e90c892b2edac245d76971e8ff5c2d",
+   "endret": "2026-11-27"
   },
   "forskrift/2026-06-22-1391": {
    "fil": "data/forskrifter/2026/forskrift-2026-06-22-1391.json",
@@ -41280,6 +41272,14 @@
    "korttittel": "Endr. i utrullingsforskriften",
    "sha256": "467b1ce1b3e83aa5867ffacf945c044f0fdc959626899529034d856d67786207",
    "endret": "2026-11-26"
+  },
+  "forskrift/2026-11-24-2474": {
+   "fil": "data/forskrifter/2026/forskrift-2026-11-24-2474.json",
+   "type": "forskrift",
+   "tittel": "Forskrift om endring i forskrift om konkursregisteret og om kunngjøringer etter konkursloven",
+   "korttittel": null,
+   "sha256": "39a61e99d669de61cc640e7b5fcc24b376326a9aecbd9f88ddaddf929e4c2601",
+   "endret": "2026-11-27"
   },
   "lov/1687-04-15": {
    "fil": "data/lover/1687/lov-1687-04-15.json",

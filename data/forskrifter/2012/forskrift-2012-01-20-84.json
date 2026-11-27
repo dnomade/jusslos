@@ -7,15 +7,15 @@
   "Samferdselsdepartementet"
  ],
  "etat": [
-  "Avd. for luftfart, post og kjøp"
+  "Avdeling for luftfart, post og kjøp"
  ],
  "kunngjort_i": "I 2012 hefte 3",
  "ikraft": "2012-02-01",
- "siste_endring_ikraft": "2025-03-03",
+ "siste_endring_ikraft": "2026-11-25",
  "sist_endret_ved": [
   {
-   "ref": "forskrift/2025-03-03-337",
-   "tekst": "forskrift/2025-03-03-337"
+   "ref": "forskrift/2026-11-25-2477",
+   "tekst": "forskrift/2026-11-25-2477"
   }
  ],
  "endrer": "forskrift/2008-10-31-1168\nforskrift/2010-09-03-1241",
@@ -58,7 +58,7 @@
  "siste_rettelse": "2016-08-25 (hjemmel)",
  "korttittel": "Transportklagenemndforskriften",
  "tittel": "Forskrift om klagenemnd for passasjertransport (transportklagenemndforskriften)",
- "annet": "Hjemmel: Fastsatt av Samferdselsdepartementet 20. januar 2012 med hjemmel i lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven) § 10-44, § 10-45, § 10-46, § 10-47 og § 15-4 og lov 11. juni 1993 nr. 100 om anlegg og drift av jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. (jernbaneloven) § 7c.\nTilføyd hjemmel: Lov 21. juni 2002 nr. 45 om yrkestransport med motorvogn og fartøy (yrkestransportlova) § 32a og lov 24. juni 1994 nr. 39 om sjøfarten (sjøloven) § 418a.\nEndret ved forskrifter 25 feb 2016 nr. 194, 29 juni 2016 nr. 844, 20 des 2016 nr. 1782, 23 nov 2018 nr. 1744, 12 aug 2020 nr. 1629, forskrift 12 aug 2020 nr. 1629 (i kraft 1 jan 2021), 4 mars 2022 nr. 322, 18 sep 2023 nr. 1433, 21 nov 2024 nr. 2823, 3 mars 2025 nr. 337.\nRettelser: 25.08.2016 (hjemmel).",
+ "annet": "Hjemmel: Fastsatt av Samferdselsdepartementet 20. januar 2012 med hjemmel i lov 11. juni 1993 nr. 101 om luftfart (luftfartsloven) § 10-44, § 10-45, § 10-46, § 10-47 og § 15-4 og lov 11. juni 1993 nr. 100 om anlegg og drift av jernbane, herunder sporvei, tunnelbane og forstadsbane m.m. (jernbaneloven) § 7c.\nTilføyd hjemmel: Lov 21. juni 2002 nr. 45 om yrkestransport med motorvogn og fartøy (yrkestransportlova) § 32a og lov 24. juni 1994 nr. 39 om sjøfarten (sjøloven) § 418a.\nEndret ved forskrifter 25 feb 2016 nr. 194, 29 juni 2016 nr. 844, 20 des 2016 nr. 1782, 23 nov 2018 nr. 1744, 12 aug 2020 nr. 1629, forskrift 12 aug 2020 nr. 1629 (i kraft 1 jan 2021), 4 mars 2022 nr. 322, 18 sep 2023 nr. 1433, 21 nov 2024 nr. 2823, 3 mars 2025 nr. 337, 25 nov 2026 nr. 2477.\nRettelser: 25.08.2016 (hjemmel).",
  "refid": "forskrift/2012-01-20-84",
  "eli": "/eli/forskrift/2012/01/20/84",
  "url": "https://lovdata.no/dokument/SF/forskrift/2012-01-20-84",
@@ -419,8 +419,11 @@
      "nummer": "§ 5-8",
      "tittel": "Delegering av vedtaksmyndighet til sekretariatet",
      "ledd": [
-      "(1) Sekretariatets leder kan treffe vedtak i klagesaker hvor det foreligger en fast nemndspraksis eller er truffet vedtak av prinsipiell betydning i tilsvarende saker. I tvilstilfelle skal sekretariatet konferere med nemndas leder.",
+      "(1) Sekretariatets leder kan treffe vedtak i klagesaker hvor klager åpenbart ikke vil få medhold, hvor det foreligger en fast nemndspraksis eller er truffet vedtak av prinsipiell betydning i tilsvarende saker. Sekretariatets leder kan også treffe vedtak i klagesaker der tvistebeløpet er under 1000 kroner, og saker som ikke reiser prinsipielle spørsmål. I tvilstilfelle skal sekretariatet konferere med nemndas leder.",
       "(2) Har sekretariatets leder avgjort klagen, kan klageren likevel kreve klagen lagt frem for nemnda. Slik anmodning må være skriftlig og innlevert til sekretariatet senest tre uker etter at underretning om vedtak er mottatt. Dersom nemndas leder er enig i sekretariatslederens vurdering, og ikke av andre grunner mener at nemnda bør behandle saken, kan lederen beslutte med endelig virkning at saken ikke skal behandles i nemnda."
+     ],
+     "endringer": [
+      "Endret ved forskrift 25 nov 2026 nr. 2477."
      ]
     },
     {
