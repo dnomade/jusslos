@@ -1,5 +1,5 @@
 {
- "dataversjon": "2026-11-27.95fc41dd",
+ "dataversjon": "2026-11-28.d004a393",
  "dokumenter": {
   "DEL/forskrift/1957-06-07-3391": {
    "fil": "data/delegeringer/1957/del-forskrift-1957-06-07-3391.json",
@@ -13022,8 +13022,8 @@
    "type": "stortingsvedtak",
    "tittel": "Stortingets forretningsorden",
    "korttittel": null,
-   "sha256": "1d89fe963be3c12277f42a66b3407d920f4d8d67954e67b66e5794c184c32661",
-   "endret": "2026-11-13"
+   "sha256": "4c2491ca974425a3f8a3eeed488dd098d430a499e6eea8c0a56287d9d88f2410",
+   "endret": "2026-11-28"
   },
   "STV/forskrift/2016-12-17-1666": {
    "fil": "data/stortingsvedtak/2016/stv-forskrift-2016-12-17-1666.json",
@@ -17022,8 +17022,8 @@
    "type": "forskrift",
    "tittel": "Forskrift om konkursregisteret og om kunngjøringer etter konkursloven",
    "korttittel": "Forskrift om konkursregisteret mv.",
-   "sha256": "72c2c70774b999bb196f1b128520fc93262ab7fff04200314d33003031d7add1",
-   "endret": "2026-11-27"
+   "sha256": "f02c395e6c52ec813fe1036a3759ad73ed9d7d2dff7d6d67768f3f723721e9e7",
+   "endret": "2026-11-28"
   },
   "forskrift/1993-11-10-1018": {
    "fil": "data/forskrifter/1993/forskrift-1993-11-10-1018.json",
@@ -17862,8 +17862,8 @@
    "type": "forskrift",
    "tittel": "Forskrift om kringkasting og audiovisuelle bestillingstjenester mv. (kringkastingsforskriften)",
    "korttittel": "Kringkastingsforskriften",
-   "sha256": "4ca1b1f7a652ee4b1d61907973e6e035b2ec5b8ef81d8d6e75b3d7cd653fae57",
-   "endret": "2026-11-13"
+   "sha256": "84e58bbe5f86e28f056193844d6d0d840832b89ff3dad05502c5d8fa40ef86c8",
+   "endret": "2026-11-28"
   },
   "forskrift/1997-03-11-202": {
    "fil": "data/forskrifter/1997/forskrift-1997-03-11-202.json",
@@ -41281,6 +41281,22 @@
    "sha256": "39a61e99d669de61cc640e7b5fcc24b376326a9aecbd9f88ddaddf929e4c2601",
    "endret": "2026-11-27"
   },
+  "forskrift/2026-11-25-2499": {
+   "fil": "data/forskrifter/2026/forskrift-2026-11-25-2499.json",
+   "type": "forskrift",
+   "tittel": "Forskrift om skip som bruker batterisystem",
+   "korttittel": null,
+   "sha256": "70215c93b55b3485a6a41e42e851e0247c006dedc11ea2c7a690cdaa02c13c1b",
+   "endret": "2026-11-28"
+  },
+  "forskrift/2026-11-27-2523": {
+   "fil": "data/forskrifter/2026/forskrift-2026-11-27-2523.json",
+   "type": "forskrift",
+   "tittel": "Forskrift om endring i forskrift 28. februar 1997 nr. 153 om kringkasting og audiovisuelle bestillingstjenester mv.",
+   "korttittel": "Endr. i kringkastingsforskriften",
+   "sha256": "95c3da1f2f6fc2aa4852af1e1371e7d01d269f9567a464183fa25aef4ccef647",
+   "endret": "2026-11-28"
+  },
   "lov/1687-04-15": {
    "fil": "data/lover/1687/lov-1687-04-15.json",
    "type": "lov",
@@ -42886,8 +42902,8 @@
    "type": "lov",
    "tittel": "Lov om film og videogram",
    "korttittel": "Film- og videogramlova – filml",
-   "sha256": "92498b9fff6b8f2b9313a4dfabf63fa66e74c427867c154173ac33b7d58dd7f7",
-   "endret": "2026-11-13"
+   "sha256": "8bef9c068f4577449128d014e36c7951673b104bbfd83d618961a1fb9c947ef5",
+   "endret": "2026-11-28"
   },
   "lov/1987-05-29-23": {
    "fil": "data/lover/1987/lov-1987-05-29-23.json",
@@ -43206,8 +43222,8 @@
    "type": "lov",
    "tittel": "Lov om kringkasting og audiovisuelle bestillingstjenester mv. (kringkastingsloven)",
    "korttittel": "Kringkastingsloven – kringkl",
-   "sha256": "0867e43c9ec307dfbde6c8f11288a7cb3e645a21987fd2d2dc4fcde8c6d48605",
-   "endret": "2026-11-13"
+   "sha256": "a1a2eaba8b154cad4764d5d2c97fbd828f9c3d90fe31ea4ddba1601ff179fa69",
+   "endret": "2026-11-28"
   },
   "lov/1992-12-04-130": {
    "fil": "data/lover/1992/lov-1992-12-04-130.json",
@@ -43486,8 +43502,8 @@
    "type": "lov",
    "tittel": "Lov om folketrygd (folketrygdloven)",
    "korttittel": "Folketrygdloven – ftrl",
-   "sha256": "13cb16b16feea871d284dc4b9ebd3f1c7ed794ad99323d7fa69792fd7972d2b1",
-   "endret": "2026-11-13"
+   "sha256": "da140ce6ab02f48b8a6a34965c706fe9cd83e72162fbcccfa2c33f88147d9a61",
+   "endret": "2026-11-28"
   },
   "lov/1997-05-09-26": {
    "fil": "data/lover/1997/lov-1997-05-09-26.json",
@@ -46710,8 +46726,8 @@
    "type": "lov",
    "tittel": "Lov om endringer i kringkastingsloven mv. (gjennomføring av endringsdirektiv til direktiv om audiovisuelle medietjenester mv.)",
    "korttittel": "Endringslov til kringkastingsloven mv.",
-   "sha256": "743811fe8639c304549d376f54121f9de522eeda3b3740f27ac95e987ba71587",
-   "endret": "2026-11-13"
+   "sha256": "6b62c8c3d755a4b705e81d2ed07bbf4eb329cfbc2b138ac3620770f14182631f",
+   "endret": "2026-11-28"
   },
   "lov/2025-03-28-4": {
    "fil": "data/lover/2025/lov-2025-03-28-4.json",
@@ -46790,8 +46806,8 @@
    "type": "lov",
    "tittel": "Lov om endringer i folketrygdloven (yrkessykdommer og elektronisk melding av yrkesskade)",
    "korttittel": "Endringslov til folketrygdloven",
-   "sha256": "946015d5e0d359610a862e373c698b71ac4624ff18467376478a649d19c9528b",
-   "endret": "2026-11-13"
+   "sha256": "69db708690e3971043569b33708b4fad13b551a4e8a1a7f179e7f23cdb9c849d",
+   "endret": "2026-11-28"
   },
   "lov/2025-06-10-33": {
    "fil": "data/lover/2025/lov-2025-06-10-33.json",
@@ -47286,8 +47302,8 @@
    "type": "lov",
    "tittel": "Lov om endringer i folketrygdloven (utvidet arbeidsulykkesbegrep og tydeliggjøring av bevisbyrden)",
    "korttittel": "Endringslov til folketrygdloven",
-   "sha256": "813cddbce172bf1222488340f48415582745982242698085d832d5705f2eec62",
-   "endret": "2026-11-13"
+   "sha256": "73b6ea2f3feba3217174fe27c0c1fff49ea74f16a17d06dcef834e2ad7f0a2ca",
+   "endret": "2026-11-28"
   },
   "lov/2026-06-23-73": {
    "fil": "data/lover/2026/lov-2026-06-23-73.json",
